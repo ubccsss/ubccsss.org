@@ -1,0 +1,110 @@
+$cube-size: 200px;
+
+.scene {
+  width: $cube-size;
+  height: $cube-size;
+  padding: 60px;
+
+  float: right;
+  perspective: 600px;
+  shape-outside: polygon(50% 10%, 93% 25%, 87% 73%, 50% 100%, 13% 73%, 7% 25%);
+}
+
+.cube {
+  width: 100%;
+  height: 100%;
+  position: relative;
+
+  transform-style: preserve-3d;
+  transform: translateZ(-100px) rotateX(330deg) rotateY(-45deg);
+  animation: flipCube 1s 3s ease forwards;
+}
+
+#cubeface-thecube .cubeface-img {
+  background: #0d97d1;
+  animation: popOut 0.3s 4s ease-in-out;
+}
+#cubeface-tutorexam .cubeface-img {
+  background: #de4921;
+  animation: popOut 0.3s 4.3s ease-in-out;
+}
+#cubeface-careerfair .cubeface-img {
+  background: #547cb2;
+  animation: popOut 0.3s 4.6s ease-in-out;
+}
+
+.cubeface {
+  display: block;
+  width: $cube-size;
+  height: $cube-size;
+  position: absolute;
+
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+}
+.cubeface-img {
+  width: 100%;
+  height: 100%;
+  display: block;
+
+  object-fit: cover;
+  backface-visibility: hidden;
+}
+a {
+  .cubeface-img {
+    transition: transform 0.2s ease;
+  }
+
+  &:hover .cubeface-img,
+  &:focus .cubeface-img {
+    transform: translateZ(10px);
+  }
+}
+
+#cubeface-thecube {
+  transform: rotateX(-90deg) translateZ(100px);
+}
+#cubeface-tutorexam {
+  transform: rotateY(180deg) rotateZ(180deg) translateZ(100px);
+}
+#cubeface-careerfair {
+  transform: rotateY(-90deg) rotateZ(180deg) translateZ(100px);
+}
+#cubeface-c {
+  transform: rotateY(0deg) translateZ(100px);
+}
+#cubeface-s-top {
+  transform: rotateX(90deg) translateZ(100px);
+}
+#cubeface-s-bottom {
+  transform: rotateY(90deg) translateZ(100px);
+}
+
+@keyframes flipCube {
+  from {
+    transform: translateZ(-100px) rotateX(330deg) rotateY(-45deg); /* Logo */
+  }
+
+  to {
+    transform: translateZ(-100px) rotateX(150deg) rotateY(-45deg); /* Icons */
+  }
+}
+
+@keyframes popOut {
+  from {
+    transform: translateZ(0);
+  }
+
+  50% {
+    transform: translateZ(15px);
+  }
+
+  to {
+    transform: translateZ(0);
+  }
+}
+
+.about {
+  max-width: 40em;
+  margin: 0 auto;
+}
