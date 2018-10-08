@@ -1,0 +1,27 @@
+baseURL: "https://ubccsss.org/"
+languageCode: "en-ca"
+title: UBC CSSS
+googleAnalytics: UA-88004303-1
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about
+      weight: -140
+    - identifier: volunteer
+      name: Volunteer
+      url: /volunteer
+      weight: -130
+    - identifier: cube
+      name: The Cube
+      url: /cube
+      weight: -120
+    - identifier: learn
+      name: Tutors & Exams Database
+      url: /learn
+      weight: -110
+    - identifier: contact
+      name: Contact
+      url: /contact
+      weight: -100
