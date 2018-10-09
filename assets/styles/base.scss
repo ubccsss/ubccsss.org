@@ -1,7 +1,12 @@
 @import "../vendor/skeleton/index";
 @import "./_header";
+@import "./_footer";
 @import "./_cube";
 
 body {
+  display: grid;
+  min-height: 100vh;
+  grid-template-rows: auto 1fr auto;
+
   background: #f0f0f0;
 }

@@ -28,7 +28,33 @@
         </div>
     </header>
 
-    {{ block "main" . }}{{ end }}
+    <div>
+        {{ block "main" . }}{{ end }}
+    </div>
+
+    <footer class="site-footer__wrapper">
+        <div class="site-footer container">
+            <img class="logo__image" alt="UBC CSSS logo" height="48" width="48" src="/logo/main.svg">
+            <address class="site-footer__mailing">
+                {{ .Site.Data.about.address | markdownify }}
+            </address>
+            <div class="social">
+                <h6>Connect with us</h6>
+                <nav class="social-icon__wrapper">
+                    {{ range .Site.Data.social }}
+                    <a class="social-icon" href="{{.link}}" title="{{.title}}" style="background-position-x:-{{.x}}px">
+                        <span class="social-icon__name">{{.title}}</span>
+                    </a>
+                    {{ end }}
+                </nav>
+            </div>
+            <p class="site-footer__copyright">
+                © {{ now.Format "2006" }} UBC Computer Science Student Society.
+                Page maintained by <a href="mailto:webmaster@ubccsss.org">webmaster@ubccsss.org</a>.
+            </p>
+        </div>
+    </footer>
+
     {{ template "_internal/google_analytics_async.html" . }}
     {{ block "foot" . }}{{ end }}
 </body>

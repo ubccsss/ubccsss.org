@@ -1,0 +1,51 @@
+@import "./_variables";
+
+.site-footer {
+  display: grid;
+  grid-template:
+    "logo address social" min-content
+    "copyright copyright copyright" min-content
+    / min-content auto min-content;
+  grid-column-gap: 1em;
+  grid-row-gap: 20px;
+  align-items: center;
+  max-width: none;
+  margin-top: 4.5rem;
+
+  &__wrapper {
+    background: $dark-background;
+    color: white;
+  }
+
+  &__mailing {
+    font-style: normal;
+  }
+
+  &__copyright {
+    grid-area: copyright;
+    justify-self: center;
+  }
+}
+
+.social-icon {
+  display: inline-block;
+  height: 32px;
+  width: 32px;
+  margin: 0 4px;
+
+  border-radius: 50%;
+  background: white url("/social.svg") no-repeat {
+    size: cover;
+  }
+
+  &__wrapper {
+    display: flex;
+  }
+
+  &__name {
+    display: block;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+  }
+}

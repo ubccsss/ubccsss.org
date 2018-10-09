@@ -702,6 +702,39 @@ form {
   .site-nav {
     margin-top: 1em; } }
 
+.site-footer {
+  display: grid;
+  grid-template: "logo address social" min-content "copyright copyright copyright" min-content / min-content auto min-content;
+  grid-column-gap: 1em;
+  grid-row-gap: 20px;
+  align-items: center;
+  max-width: none;
+  margin-top: 4.5rem; }
+  .site-footer__wrapper {
+    background: #0a0e1a;
+    color: white; }
+  .site-footer__mailing {
+    font-style: normal; }
+  .site-footer__copyright {
+    grid-area: copyright;
+    justify-self: center; }
+
+.social-icon {
+  display: inline-block;
+  height: 32px;
+  width: 32px;
+  margin: 0 4px;
+  border-radius: 50%;
+  background: white url("/social.svg") no-repeat;
+    background-size: cover; }
+  .social-icon__wrapper {
+    display: flex; }
+  .social-icon__name {
+    display: block;
+    width: 0;
+    height: 0;
+    overflow: hidden; }
+
 .scene {
   width: 200px;
   height: 200px;
@@ -791,4 +824,7 @@ a:focus .cubeface-img {
   margin: 0 auto; }
 
 body {
+  display: grid;
+  min-height: 100vh;
+  grid-template-rows: auto 1fr auto;
   background: #f0f0f0; }
