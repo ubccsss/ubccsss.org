@@ -1,0 +1,3 @@
+[submodule "hugo-bootstrap"]
+	path = themes/hugo-bootstrap
+	url = https://github.com/Xzya/hugo-bootstrap.git
