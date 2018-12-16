@@ -1,13 +1,11 @@
 ---
-title: CPSC 320 
+title: "CPSC 320"
 date: 2016-12-15T03:58:00.000Z
 type: book page
 aliases:
-  - https://ubccsss.org/services/exams/cpsc320
-author:
-  username: Tristan Rice
-  link: https://ubccsss.org/user/54
-images:
+  - /services/exams/cpsc320
+author: Tristan Rice
+images: []
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2006</h2>

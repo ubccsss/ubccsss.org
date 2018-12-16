@@ -1,13 +1,11 @@
 ---
-title: CPSC 110 
+title: "CPSC 110"
 date: 2017-03-09T03:51:00.000Z
 type: book page
 aliases:
-  - https://ubccsss.org/services/exams/cpsc110
-author:
-  username: Tristan Rice
-  link: https://ubccsss.org/user/54
-images:
+  - /services/exams/cpsc110
+author: Tristan Rice
+images: []
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2009</h2>

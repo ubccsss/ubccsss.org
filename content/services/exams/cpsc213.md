@@ -1,12 +1,10 @@
 ---
-title: CPSC 213 
+title: "CPSC 213"
 date: 2017-03-09T03:54:00.000Z
 type: book page
 aliases:
-  - https://ubccsss.org/services/exams/cpsc213
-author:
-  username: Tristan Rice
-  link: https://ubccsss.org/user/54
+  - /services/exams/cpsc213
+author: Tristan Rice
 images:
   - /modules/file/icons/application-pdf.png
   - /modules/file/icons/application-pdf.png

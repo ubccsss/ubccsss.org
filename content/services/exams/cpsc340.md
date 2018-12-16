@@ -1,13 +1,11 @@
 ---
-title: CPSC 340 
+title: "CPSC 340"
 date: 2016-12-07T18:36:00.000Z
 type: book page
 aliases:
-  - https://ubccsss.org/services/exams/cpsc340
-author:
-  username: Tristan Rice
-  link: https://ubccsss.org/user/54
-images:
+  - /services/exams/cpsc340
+author: Tristan Rice
+images: []
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2015</h2>

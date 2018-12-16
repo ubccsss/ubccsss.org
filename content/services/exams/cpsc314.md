@@ -1,13 +1,11 @@
 ---
-title: CPSC 314 
+title: "CPSC 314"
 date: 2016-12-02T23:20:00.000Z
 type: book page
 aliases:
-  - https://ubccsss.org/services/exams/cpsc314
-author:
-  username: Tristan Rice
-  link: https://ubccsss.org/user/54
-images:
+  - /services/exams/cpsc314
+author: Tristan Rice
+images: []
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2007</h2>

@@ -1,12 +1,10 @@
 ---
-title: CPSC 304 
+title: "CPSC 304"
 date: 2016-12-15T03:43:00.000Z
 type: book page
 aliases:
-  - https://ubccsss.org/services/exams/cpsc304
-author:
-  username: Tristan Rice
-  link: https://ubccsss.org/user/54
+  - /services/exams/cpsc304
+author: Tristan Rice
 images:
   - /modules/file/icons/application-pdf.png
 ---
