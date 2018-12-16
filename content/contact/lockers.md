@@ -1,3 +1,0 @@
----
-title: Locker rentals
----
