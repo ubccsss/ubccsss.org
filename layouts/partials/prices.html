@@ -1,0 +1,16 @@
+<table class="table table-striped table-hover" style="width: 100%">
+    <thead>
+        <tr>
+            <th>Item</th>
+            <th style="width:1px">Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range . }}
+        <tr>
+            <td>{{ .item }}</td>
+            <td>{{ .price }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>

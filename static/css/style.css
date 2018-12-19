@@ -1,0 +1,20 @@
+.blog-header,
+.blog-post,
+.blog-pagination {
+    margin-bottom: 2rem;
+}
+
+/* Make sure the image size is reasonable. */
+.blog-post img {
+    max-width: 100%;
+}
+
+.social-link {
+    height: 32px;
+    width: 32px;
+
+    border-radius: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('/modules/social.svg');
+}

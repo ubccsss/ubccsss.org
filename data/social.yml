@@ -2,20 +2,20 @@
   x: 0
   link: https://www.facebook.com/ubccsss/
 - title: Twitter
-  x: 32
+  x: 1
   link: https://twitter.com/ubccsss
 - title: Discord
-  x: 160
+  x: 5
   link: https://discord.gg/DDMga58
 - title: Reddit
-  x: 192
+  x: 6
   link: https://reddit.com/r/ubccsss
 - title: Mailing List
-  x: 64
+  x: 2
   link: /subscribe
 - title: RSS
-  x: 96
+  x: 3
   link: https://ubccsss.org/node/feed
 - title: Calendar Feed
-  x: 128
+  x: 4
   link: https://ubccsss.org/event/calendar.ics

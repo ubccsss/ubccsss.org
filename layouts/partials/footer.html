@@ -1,0 +1,16 @@
+<footer class="blog-footer w-100 navbar navbar-dark bg-dark">
+    <div class="text-light container small">
+        <div class="about row w-100">
+            <img class="col-sm-auto logo-mono" alt="" src="/logo-mono.svg" width="26.3" height="31">
+            <address class="col">{{ .Site.Data.about.address | markdownify }}</address>
+            <div class="col-lg-auto social">
+                <h6>Connect with us</h6>
+                {{ partial "social" $.Site.Data.social }}
+            </div>
+        </div>
+        <div class="row w-100 justify-content-between">
+            <p class="col">© 2017 UBC Computer Science Student Society. Page maintained by webmaster@ubccsss.org.</p>
+            <p class="col-sm-auto"><a href="#">{{ i18n "backToTop" }}</a></p>
+        </div>
+    </div>
+</footer>
