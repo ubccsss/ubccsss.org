@@ -46,9 +46,8 @@ of ICICS/CS, right, and at the end of the hallway by the undergraduate labs.
 We'll be posting our events here on our website (which also has an
 [RSS feed](/node/feed) and an [iCal calendar feed](/event/calendar.ics)),
 [Tweeting them](https://twitter.com/ubccsss), posting them on our
-[Facebook page](https://www.facebook.com/ubccsss/), and sending them
-to our announcements mailing list. To get on the mailing list, just send an
-e-mail to
+[Facebook page](https://www.facebook.com/ubccsss/), and sending them to our
+announcements mailing list. To get on the mailing list, just send an e-mail to
 [announce-subscribe@ubccsss.org](mailto:announce-subscribe@ubccsss.org) with the
 word "subscribe" in the subject line and follow the instructions. If you have
 any problems, contact us at `postmaster[at]ubccsss[dot]org`.
@@ -83,4 +82,11 @@ For more information about the running of the club, please read our
 Thanks all! If you have any questions/concerns, please e-mail us at
 <code>csss[at]ubccsss[dot]org</code>!
 
-<iframe src="https://calendar.google.com/calendar/embed?title=CSSS%20Calendar&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=6vkidfgigdr97ahbrvcalc5jno%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe
+  src="https://calendar.google.com/calendar/embed?title=CSSS%20Calendar&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=6vkidfgigdr97ahbrvcalc5jno%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FLos_Angeles"
+  style="border-width:0"
+  width="800"
+  height="600"
+  frameborder="0"
+  scrolling="no"
+></iframe>
