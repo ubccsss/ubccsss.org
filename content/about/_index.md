@@ -3,8 +3,6 @@ title: 'About Us'
 layout: single
 aliases:
     - /club/about
-author: Christopher Head
-images: []
 ---
 
 We are the UBC Computer Science Student Society (UBC CSSS), a student society to
