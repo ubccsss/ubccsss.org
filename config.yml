@@ -20,9 +20,12 @@ menu:
       weight: -120
     - identifier: learn
       name: Tutors & Exams Database
-      url: /learn
+      url: /services
       weight: -110
     - identifier: contact
       name: Contact
       url: /contact
       weight: -100
+
+permalinks:
+  post: /:year/:month/:title/
