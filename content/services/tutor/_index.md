@@ -1,11 +1,7 @@
 ---
 title: "Tutoring"
-date: 2018-10-14T20:11:00.000Z
-type: book page
 aliases:
   - /services/tutoring
-author: Christopher Head
-images: []
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The CSSS has found a number of tutors interested in providing extra help for students taking Computer Science courses. For more information, or if you are a tutor and wish to be listed here, please fill out the <a href="https://goo.gl/forms/cWmQJyIlmN4Rrvgk1">application form</a>.</p>

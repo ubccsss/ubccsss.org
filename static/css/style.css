@@ -18,3 +18,20 @@
     background-repeat: no-repeat;
     background-image: url('/modules/social.svg');
 }
+
+.blog-header {
+    overflow-x: hidden;
+}
+
+.blog-header .navbar {
+    padding: 10em 2em 1em;
+    margin: -9em -1em 2%;
+    color: white;
+    background: #0a0e1a;
+    transform: rotateZ(-2deg);
+}
+
+.navbar-brand {
+    transform: rotateZ(2deg);
+    margin-top: -0.5rem;
+}
