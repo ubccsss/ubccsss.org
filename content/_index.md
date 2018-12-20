@@ -12,6 +12,7 @@ please see
 feel free to email us at [csss@ubccsss.org](mailto:csss@ubccsss.org).
 
 <link href="/css/3d-cube.css" rel="stylesheet">
+<script async defer src="/js/3d-cube.js"></script>
 <div class="scene">
     <div class="cube">
         <a class="cubeface" id="cubeface-thecube" href="/cube" title="The Cube">

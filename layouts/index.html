@@ -1,17 +1,5 @@
 {{ define "hero" }}
-{{ $recentEvents := where .Site.Pages "Section" "in" .Site.Params.eventSections | first 2 }}
-<div class="row mb-2">
-    {{ range $recentEvents }}
-    <div class="col-md-6">
-        {{ partial "event-card" . }}
-    </div>
-    {{ end }}
-</div>
-{{ end }}
-
-{{ define "main" }}
-
-{{ if .Content }}
+{{ $recentEvents := where .Site.Pages "Section" "in" .Site.Params.eventSections | first 3 }}
 <header>
     <h2 class="blog-post-title">
         <a class="text-dark" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
@@ -20,24 +8,22 @@
     {{ partial "post-categories" . }}
     <hr>
 </header>
-<section class="blog-post">
+<section>
     {{ .Content }}
-
-    {{ if .IsTranslated }}
-    <h4>{{ i18n "translations" }}</h4>
-    <ul>
-        {{ range .Translations }}
-        <li>
-            <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
-        </li>
-        {{ end }}
-    </ul>
-    {{ end }}
 </section>
+<div class="row mb-2">
+    {{ range $recentEvents }}
+    <div class="col-md-4">
+        {{ partial "event-card" . }}
+    </div>
+    {{ end }}
+</div>
 {{ end }}
 
+{{ define "main" }}
+
 {{ $truncate := default true .Site.Params.truncate }}
-{{ $recentEvents := where .Site.Pages "Section" "in" .Site.Params.eventSections | first 2 }}
+{{ $recentEvents := where .Site.Pages "Section" "in" .Site.Params.eventSections | first 3 }}
 {{ $paginator := where .Site.Pages "Section" "in" .Site.Params.mainSections | symdiff $recentEvents | .Paginate }}
 {{ range $paginator.Pages }}
 

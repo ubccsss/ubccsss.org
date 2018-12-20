@@ -16,20 +16,20 @@
 
   transform-style: preserve-3d;
   transform: translateZ(-100px) rotateX(330deg) rotateY(-45deg);
-  animation: flipCube 1s 3s ease forwards;
+  transition: transform 1s ease;
+}
+.cube:hover, .cube.focus {
+  transform: translateZ(-100px) rotateX(150deg) rotateY(-45deg);
 }
 
 #cubeface-thecube .cubeface-img {
   background: #0d97d1;
-  animation: popOut 0.3s 4s ease-in-out;
 }
 #cubeface-tutorexam .cubeface-img {
   background: #de4921;
-  animation: popOut 0.3s 4.3s ease-in-out;
 }
 #cubeface-careerfair .cubeface-img {
   background: #547cb2;
-  animation: popOut 0.3s 4.6s ease-in-out;
 }
 
 .cubeface {
@@ -74,28 +74,4 @@ transform: translateZ(10px);
 }
 #cubeface-s-bottom {
   transform: rotateY(90deg) translateZ(100px);
-}
-
-@keyframes flipCube {
-  from {
-    transform: translateZ(-100px) rotateX(330deg) rotateY(-45deg); /* Logo */
-  }
-
-  to {
-    transform: translateZ(-100px) rotateX(150deg) rotateY(-45deg); /* Icons */
-  }
-}
-
-@keyframes popOut {
-  from {
-    transform: translateZ(0);
-  }
-
-  50% {
-    transform: translateZ(15px);
-  }
-
-  to {
-    transform: translateZ(0);
-  }
 }
