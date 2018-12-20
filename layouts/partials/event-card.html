@@ -1,0 +1,10 @@
+<div class="card mb-4 shadow-sm h-md-250">
+    {{if gt (len .Params.images) 0}}<img class="card-img-top" src="{{ (index .Params.images 0) }}">{{ end }}
+    <div class="card-body">
+        <h6 class="mb-0">
+            <a class="text-dark" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h6>
+        <div class="mb-1 text-muted">{{ .Date }}</div>
+        <p class="card-text mb-auto">{{ .Params.where }}</p>
+    </div>
+</div>

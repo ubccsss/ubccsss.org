@@ -1,7 +1,10 @@
 .blog-header,
-.blog-post,
 .blog-pagination {
     margin-bottom: 2rem;
+}
+
+.blog-post {
+    margin-bottom: 4rem;
 }
 
 /* Make sure the image size is reasonable. */

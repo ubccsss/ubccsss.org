@@ -29,3 +29,13 @@ menu:
 
 permalinks:
   post: /:year/:month/:title/
+
+paginate: 5
+
+params:
+  eventSections:
+    - events
+  mainSections:
+    - events
+    - posts
+  truncate: false

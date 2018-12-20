@@ -1,3 +1,14 @@
+{{ define "hero" }}
+{{ $recentEvents := where .Site.Pages "Section" "in" .Site.Params.eventSections | first 2 }}
+<div class="row mb-2">
+    {{ range $recentEvents }}
+    <div class="col-md-6">
+        {{ partial "event-card" . }}
+    </div>
+    {{ end }}
+</div>
+{{ end }}
+
 {{ define "main" }}
 
 {{ if .Content }}
@@ -26,15 +37,15 @@
 {{ end }}
 
 {{ $truncate := default true .Site.Params.truncate }}
-
-{{ $paginator := .Paginate .Pages }}
+{{ $recentEvents := where .Site.Pages "Section" "in" .Site.Params.eventSections | first 2 }}
+{{ $paginator := where .Site.Pages "Section" "in" .Site.Params.mainSections | symdiff $recentEvents | .Paginate }}
 {{ range $paginator.Pages }}
 
-    {{ if $truncate }}
-        {{ .Render "summary" }}
-    {{ else }}
-        {{ .Render "content" }}
-    {{ end }}
+{{ if $truncate }}
+    {{ .Render "summary" }}
+{{ else }}
+    {{ .Render "content" }}
+{{ end }}
 
 {{ end }}
 
