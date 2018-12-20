@@ -1,3 +1,13 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .blog-header,
 .blog-pagination {
     margin-bottom: 2rem;
@@ -7,7 +17,6 @@
     margin-bottom: 4rem;
 }
 
-/* Make sure the image size is reasonable. */
 .blog-post img {
     max-width: 100%;
 }
