@@ -1,7 +1,7 @@
 .scene {
-  width: 200px;
-  height: 200px;
-  padding: 60px;
+  width: 12.5em;
+  height: 12.5em;
+  padding: 3.75em;
   margin: auto;
   box-sizing: content-box;
 
@@ -15,11 +15,11 @@
   position: relative;
 
   transform-style: preserve-3d;
-  transform: translateZ(-100px) rotateX(330deg) rotateY(-45deg);
+  transform: translateZ(-6.25em) rotateX(330deg) rotateY(-45deg);
   transition: transform 1s ease;
 }
 .cube:hover, .cube.focus {
-  transform: translateZ(-100px) rotateX(150deg) rotateY(-45deg);
+  transform: translateZ(-6.25em) rotateX(150deg) rotateY(-45deg);
 }
 
 #cubeface-thecube .cubeface-img {
@@ -34,8 +34,8 @@
 
 .cubeface {
   display: block;
-  width: 200px;
-  height: 200px;
+  width: 12.5em;
+  height: 12.5em;
   position: absolute;
 
   backface-visibility: hidden;
@@ -54,24 +54,35 @@ a .cubeface-img {
 }
 a:hover .cubeface-img,
 a:focus .cubeface-img {
-transform: translateZ(10px);
+  transform: translateZ(0.625em);
 }
 
 #cubeface-thecube {
-  transform: rotateX(-90deg) translateZ(100px);
+  transform: rotateX(-90deg) translateZ(6.25em);
 }
 #cubeface-tutorexam {
-  transform: rotateY(180deg) rotateZ(180deg) translateZ(100px);
+  transform: rotateY(180deg) rotateZ(180deg) translateZ(6.25em);
 }
 #cubeface-careerfair {
-  transform: rotateY(-90deg) rotateZ(180deg) translateZ(100px);
+  transform: rotateY(-90deg) rotateZ(180deg) translateZ(6.25em);
 }
 #cubeface-c {
-  transform: rotateY(0deg) translateZ(100px);
+  transform: rotateY(0deg) translateZ(6.25em);
 }
 #cubeface-s-top {
-  transform: rotateX(90deg) translateZ(100px);
+  transform: rotateX(90deg) translateZ(6.25em);
 }
 #cubeface-s-bottom {
-  transform: rotateY(90deg) translateZ(100px);
+  transform: rotateY(90deg) translateZ(6.25em);
+}
+
+@media (max-width: 25em) {
+  .scene {
+    font-size: 0.75em;
+  }
+}
+@media (max-width: 18em) {
+  .scene {
+    font-size: 0.5em;
+  }
 }
