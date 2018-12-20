@@ -9,7 +9,7 @@ images:
   - /modules/file/icons/application-pdf.png
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="http://www.cs.ubc.ca/~depaulfm/ubc_logo.jpg" align="left" vspace="5" hspace="5"><br>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="https://www.cs.ubc.ca/~depaulfm/img/ubc_logo.jpg" align="left" vspace="5" hspace="5"><br>
 This is a call for students who want to get involved in<br>
 next year&apos;s IMAGINE event as Squad Leaders.   Given that<br>
 our department admits students directly to first year,<br>

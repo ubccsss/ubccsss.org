@@ -8,7 +8,7 @@ author: robf
 images: []
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="http://www.cs.ubc.ca/~depaulfm/ubc_logo.jpg" align="left" vspace="5" hspace="5"><br>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="https://www.cs.ubc.ca/~depaulfm/img/ubc_logo.jpg" align="left" vspace="5" hspace="5"><br>
 The UBC Technology Entrepreneurship Club is proud to bring you our third seminar of the year.<br>
 Frederick Ghahramani, co-founder of AirG and a passionate advocate for wireless social<br>
 networking and mobile communities will be talking about early stage financing and how<br>

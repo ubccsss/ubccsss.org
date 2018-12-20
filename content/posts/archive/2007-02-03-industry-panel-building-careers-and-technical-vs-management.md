@@ -8,7 +8,7 @@ author: robf
 images: []
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="http://www.cs.ubc.ca/~depaulfm/ubc_logo.jpg" align="left" vspace="5" hspace="5"><br>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="https://www.cs.ubc.ca/~depaulfm/img/ubc_logo.jpg" align="left" vspace="5" hspace="5"><br>
 Come to the Computer Science Industry Panel!  This year&apos;s theme is <strong>Building Your Career: the Technical vs. Management Debate</strong> and of course we will be having professionals from both sides coming and sharing their career experiences.</p>
 <p>Agenda Feb 01 2007 17:30-20:00:<br>
 1) network among your peers and perhaps your favourite panelists near Reboot cafe<br>
