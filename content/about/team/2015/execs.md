@@ -3,7 +3,7 @@ title: "Core Executives—2015–2016"
 date: 2018-09-22T21:18:00.000Z
 type: book page
 aliases:
-  - /content/core-executives%E2%80%942015%E2%80%932016
+  - /content/core-executives—2015–2016
 author: Tristan Rice
 images: []
 ---
@@ -159,7 +159,7 @@ images: []
                     <li><a href="/club/about/core" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/club/about/core/2014" class="page-next" title="Go to next page">Core Executives&#x2014;2014&#x2013;2015 &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

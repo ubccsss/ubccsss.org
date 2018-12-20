@@ -3,7 +3,7 @@ title: "Core Executives—2017–2018"
 date: 2018-09-22T21:15:00.000Z
 type: book page
 aliases:
-  - /content/core-executives%E2%80%942017%E2%80%932018
+  - /content/core-executives—2017–2018
 author: dmitry
 images: []
 ---
@@ -14,7 +14,7 @@ margin-top: 16px;
 margin-bottom: 16px;
 margin-right: 32px;
      background-position: center;
-} 
+}
 .execs td:first-child { text-align:center;}</style>
 
 <h2>President Officers</h2>
@@ -619,7 +619,7 @@ Career Fair Officer
                     <li><a href="/club/about/core" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/content/core-executives%E2%80%942016%E2%80%932017" class="page-next" title="Go to next page">Core Executives&#x2014;2016&#x2013;2017 &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

@@ -3,7 +3,7 @@ title: "Core Executives—2016–2017"
 date: 2018-09-22T21:17:00.000Z
 type: book page
 aliases:
-  - /content/core-executives%E2%80%942016%E2%80%932017
+  - /content/core-executives—2016–2017
 author: Tristan Rice
 images:
   - /files/janet-pic.JPG
@@ -19,7 +19,7 @@ images:
   animation: blinker 1s linear infinite;
   color: #f00;
 }
-@keyframes blinker {  
+@keyframes blinker {
   33% { color: #0f0; }
   66% { color: #00f; }
 }</style>
@@ -216,7 +216,7 @@ A last year student hoping to give a little back; talk to me about art, job/inte
                     <li><a href="/club/about/core" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/content/core-executives%E2%80%942015%E2%80%932016" class="page-next" title="Go to next page">Core Executives&#x2014;2015&#x2013;2016 &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>
