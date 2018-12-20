@@ -7,27 +7,27 @@ aliases:
 Here are some important websites that will help you maintain your sanity (somewhat, anyway).
 
 - **Student Service Centre (Fees, Courses, Books and other important student topics)** \
-  http://students.ubc.ca/ssc
+  https://students.ubc.ca/ssc
 - **Course Catalogue** \
-  http://courses.students.ubc.ca/cs/main
+  https://courses.students.ubc.ca/cs/main
 - **UBC Calendar** \
-  http://students.ubc.ca/calendar
+  http://www.calendar.ubc.ca/vancouver/
 - **U-Pass** \
-  http://www.upass.ubc.ca/
+  https://www.upass.ubc.ca/
 - **AMS/GSS Student Health Plan** \
-  http://www.ams.ubc.ca/healthplan \
-  http://www.studentcare.net
+  https://www.ams.ubc.ca/healthplan \
+  http://www.studentcare.ca/
 - **UBC Bookstore** \
-  http://www.bookstore.ubc.ca
+  https://www.bookstore.ubc.ca
 - **Faculty of Science - General** \
-  http://www.science.ubc.ca/
+  https://www.science.ubc.ca/
 - **Science Advising** \
-  http://www.science.ubc.ca/students/advising/
+  https://www.science.ubc.ca/students/advising/
 - **Around Campus - General** \
-  http://www.ubc.ca
+  https://www.ubc.ca
 - **Alma Mater Society (AMS) Website** \
-  http://www.ams.ubc.ca
+  https://www.ams.ubc.ca/
 - **UBC Science Co-op** \
-  http://www.sciencecoop.ubc.ca
+  https://sciencecoop.ubc.ca/
 - **UBC Career Services** \
-  http://www.careers.ubc.ca
+  https://students.ubc.ca/career
