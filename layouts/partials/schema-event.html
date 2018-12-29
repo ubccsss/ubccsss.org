@@ -1,0 +1,25 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "{{ .Title }}",
+  "startDate": "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}",
+  {{ if .Params.end_date }}"endDate": "{{ dateFormat .Params.end_date "2006-01-02T15:04:05-07:00" }}",{{ end }}
+  {{ if .Params.location }}
+  "location": {
+      "@type": "Place",
+      "name": "{{ .Params.location.name }}",
+      "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "{{ .Params.location.streetAddress }}",
+          "addressLocality": "{{ .Params.location.addressLocality }}",
+          "postalCode": "{{ .Params.location.postalCode }}",
+          "addressRegion": "{{ .Params.location.addressRegion }}",
+          "addressCountry": "{{ .Params.location.addressCountry }}"
+      }
+  },
+  {{ end }}
+  "image": {{ apply .Params.images "absURL" "." }},
+  "description": "{{ .Summary }}"
+}
+</script>

@@ -1,0 +1,55 @@
+backend:
+  name: git-gateway
+
+publish_mode: editorial_workflow
+media_folder: "static/files" # Folder where user uploaded files should go
+public_folder: "/files"
+display_url: https://ubccsss.org
+logo_url: /logo.svg
+
+collections: # A list of collections the CMS should be able to edit
+  - name: post # Used in routes, ie.: /admin/collections/:slug/edit
+    label: Posts # Used in the UI, ie.: "New Post"
+    label_singular: Post # Used in the UI, ie.: "New Post"
+    folder: "content/posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Images", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: event
+    label: Events (Generic)
+    label_singular: Event (Generic)
+    folder: "content/events"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Event Start Date", name: "start_date", widget: "datetime"}
+      - {label: "Event End Date", name: "end_date", widget: "datetime"}
+      - {label: "Blurb", name: "description", widget: "text"}
+      - {label: Location, name: location, widget: object, fields: [
+          {label: Name, name: name, widget: string, default: 'The Cube'},
+          {label: Address, name: address, widget: object, fields: [
+            {label: "Street Address", name: streetAddress, widget: string},
+            {label: "City", name: addressLocality, widget: string, default: 'Vancouver'},
+            {label: "Postal Code", name: postalCode, widget: string, default: 'V6T 1Z4'},
+            {label: "Province", name: addressRegion, widget: string, default: 'BC'},
+            {label: "Country", name: addressCountry, widget: string, default: 'CA'}]}]}
+      - {label: Images, name: images, widget: list, required: false, fields: [
+          {label: Image, name: image, widget: image}]}
+      - {label: Body, name: body, widget: markdown}
+
+  - name: pages
+    label: Pages
+    files:
+      - file: "content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: Title, name: title, widget: string}

@@ -1,0 +1,4 @@
+{{ if .Params.location }}
+{{ $addr := .Params.location.address }}
+{{ delimit (slice .Params.location.name $addr.streetAddress $addr.addressLocality $addr.addressRegion $addr.postalCode) ", " }}
+{{ end }}

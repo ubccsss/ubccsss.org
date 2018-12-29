@@ -1,5 +1,12 @@
 {{ define "hero" }}
 {{ $recentEvents := where .Site.Pages "Section" "in" .Site.Params.eventSections | first 3 }}
+<div class="row mb-2">
+    {{ range $recentEvents }}
+    <div class="col-md-4">
+        {{ partial "event-card" . }}
+    </div>
+    {{ end }}
+</div>
 <header>
     <h2 class="blog-post-title">
         <a class="text-dark" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
@@ -11,13 +18,6 @@
 <section>
     {{ .Content }}
 </section>
-<div class="row mb-2">
-    {{ range $recentEvents }}
-    <div class="col-md-4">
-        {{ partial "event-card" . }}
-    </div>
-    {{ end }}
-</div>
 {{ end }}
 
 {{ define "main" }}

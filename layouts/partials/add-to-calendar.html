@@ -1,0 +1,12 @@
+{{ $endDate := .Params.end_date | default (time (add .Date.Unix 3600000)) }}
+<a href='http://www.google.com/calendar/event?
+action=TEMPLATE
+&text={{ .Title }}
+&dates={{ .Date.Format "20060102T150405" }}/{{ dateFormat "20060102T150405" $endDate }}
+&ctz=Canada/Pacific
+&details={{ .Description }}
+&location={{ partial "address.html" }}
+&trp=false
+&sprop=
+&sprop=name:'
+target="_blank" rel="nofollow">Add to my calendar</a>
