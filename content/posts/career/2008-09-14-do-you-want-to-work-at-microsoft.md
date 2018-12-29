@@ -1,7 +1,7 @@
 ---
 title: "Do you want to work at Microsoft??"
 date: 2008-09-14T09:34:00.000Z
-type: book page
+type: page
 aliases:
   - /node/346
 author: Christopher Head

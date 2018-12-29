@@ -1,7 +1,7 @@
 ---
 title: "CS Clothing 2005 Poll"
 date: 2012-09-09T18:13:00.000Z
-type: book page
+type: page
 aliases:
   - /node/1478
 author: Christopher Head

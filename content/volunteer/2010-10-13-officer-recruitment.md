@@ -1,7 +1,7 @@
 ---
 title: "CSSS Recruitment"
 date: 2010-10-13T04:33:00.000Z
-type: story
+type: post
 aliases:
   - /node/1398
 author: bertong

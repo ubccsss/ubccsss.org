@@ -1,7 +1,7 @@
 ---
 title: "ethicalDeal.com is hiring a Web Developer"
 date: 2011-05-02T01:21:00.000Z
-type: story
+type: post
 aliases:
   - /node/1456
 author: Christopher Head

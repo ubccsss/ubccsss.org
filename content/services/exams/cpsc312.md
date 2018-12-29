@@ -1,7 +1,7 @@
 ---
 title: "CPSC 312"
 date: 2016-11-29T20:38:00.000Z
-type: book page
+type: page
 aliases:
   - /services/exams/cpsc312
 author: Tristan Rice
@@ -49,7 +49,7 @@ images: []
                     <li><a href="/services/exams" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/services/exams/cpsc313" class="page-next" title="Go to next page">CPSC 313 &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

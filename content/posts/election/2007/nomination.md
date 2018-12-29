@@ -1,7 +1,7 @@
 ---
 title: "Decision Time 2007"
 date: 2012-10-22T05:36:00.000Z
-type: story
+type: post
 aliases:
   - /elections07
 author: Christopher Head

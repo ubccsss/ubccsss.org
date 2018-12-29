@@ -1,7 +1,7 @@
 ---
 title: "CUTC 2006 - Canadian Undergraduate Technology Conference"
 date: 2012-10-21T22:34:00.000Z
-type: book page
+type: page
 aliases:
   - /node/29
 author: Christopher Head

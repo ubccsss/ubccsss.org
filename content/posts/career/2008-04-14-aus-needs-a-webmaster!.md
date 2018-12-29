@@ -1,7 +1,7 @@
 ---
 title: "AUS needs a Webmaster!"
 date: 2008-04-15T06:42:00.000Z
-type: story
+type: post
 aliases:
   - /node/1056
 author: atjia

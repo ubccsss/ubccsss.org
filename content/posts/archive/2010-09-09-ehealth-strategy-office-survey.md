@@ -1,7 +1,7 @@
 ---
 title: "eHealth Strategy Office Survey"
 date: 2010-09-09T07:25:00.000Z
-type: story
+type: post
 aliases:
   - /node/1383
 author: Christopher Head

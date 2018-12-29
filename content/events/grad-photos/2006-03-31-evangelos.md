@@ -1,7 +1,7 @@
 ---
 title: "Grad Photos with Evangelos Photography"
 date: 2006-04-05T23:01:00.000Z
-type: book page
+type: page
 aliases:
   - /node/107
 author: rchao

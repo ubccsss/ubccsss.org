@@ -1,7 +1,7 @@
 ---
 title: "Girls ONLY events coming up!"
 date: 2007-02-12T05:12:00.000Z
-type: story
+type: post
 aliases:
   - /node/694
 author: robf

@@ -1,7 +1,7 @@
 ---
 title: "Software Workshops"
 date: 2009-01-23T00:19:00.000Z
-type: story
+type: post
 aliases:
   - /node/1188
 author: Christopher Head

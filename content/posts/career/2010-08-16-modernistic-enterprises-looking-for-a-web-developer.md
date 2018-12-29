@@ -1,7 +1,7 @@
 ---
 title: "Modernistic Enterprises looking for a Web developer"
 date: 2010-08-17T06:10:00.000Z
-type: story
+type: post
 aliases:
   - /node/1373
 author: Christopher Head

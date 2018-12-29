@@ -1,7 +1,7 @@
 ---
 title: "The Science Salon"
 date: 2007-02-28T20:41:00.000Z
-type: story
+type: post
 aliases:
   - /node/714
 author: robf

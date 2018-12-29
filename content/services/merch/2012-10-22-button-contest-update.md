@@ -1,7 +1,7 @@
 ---
 title: "Button Contest Update"
 date: 2012-10-22T06:45:00.000Z
-type: story
+type: post
 aliases:
   - /node/9
 author: Christopher Head

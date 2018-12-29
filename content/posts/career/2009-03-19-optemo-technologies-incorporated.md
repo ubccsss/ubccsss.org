@@ -1,7 +1,7 @@
 ---
 title: "Optemo Technologies Incorporated"
 date: 2009-03-20T06:07:00.000Z
-type: story
+type: post
 aliases:
   - /node/1227
 author: Christopher Head

@@ -1,7 +1,7 @@
 ---
 title: "CPSC 211"
 date: 2017-03-09T03:53:00.000Z
-type: book page
+type: page
 aliases:
   - /services/exams/cpsc211
 author: Tristan Rice
@@ -41,7 +41,7 @@ images: []
                     <li><a href="/services/exams" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/services/exams/cpsc213" class="page-next" title="Go to next page">CPSC 213 &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

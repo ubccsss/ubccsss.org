@@ -1,7 +1,7 @@
 ---
 title: "Volunteer Tutoring Program"
 date: 2009-09-20T06:51:00.000Z
-type: story
+type: post
 aliases:
   - /node/1262
 author: Christopher Head

@@ -1,7 +1,7 @@
 ---
 title: "CPSC 340"
 date: 2016-12-07T18:36:00.000Z
-type: book page
+type: page
 aliases:
   - /services/exams/cpsc340
 author: Tristan Rice
@@ -54,7 +54,7 @@ images: []
                     <li><a href="/services/exams" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/services/exams/cpsc404" class="page-next" title="Go to next page">CPSC 404 &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

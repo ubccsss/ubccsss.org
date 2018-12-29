@@ -1,7 +1,7 @@
 ---
 title: "Cell/B.E. '07 University Challenge - Beyond Gaming"
 date: 2007-02-07T04:36:00.000Z
-type: story
+type: post
 aliases:
   - /node/703
 author: robf

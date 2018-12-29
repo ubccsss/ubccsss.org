@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to the New Executives"
 date: 2014-04-25T06:33:00.000Z
-type: story
+type: post
 aliases:
   - /node/1537
 author: Christopher Head

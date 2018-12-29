@@ -1,7 +1,7 @@
 ---
 title: "Uncategorized"
 date: 2016-03-08T06:16:00.000Z
-type: book page
+type: page
 aliases:
   - /node/1455
 author: Christopher Head
@@ -59,7 +59,7 @@ images: []
               <li class="previous"><a href="/services/exams/cpsc448B" class="page-previous" title="Go to previous page">&#x2039; CPSC 448B</a></li>
                     <li><a href="/services/exams" class="page-up" title="Go to parent page">up</a></li>
                 </ul>
-    
+
   </div>
     <footer>
           </footer>

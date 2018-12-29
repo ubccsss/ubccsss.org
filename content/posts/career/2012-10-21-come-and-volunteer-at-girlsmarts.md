@@ -1,7 +1,7 @@
 ---
 title: "Come and Volunteer at GIRLsmarts"
 date: 2012-10-22T05:54:00.000Z
-type: book page
+type: page
 aliases:
   - /node/595
 author: jlo

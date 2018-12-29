@@ -1,7 +1,7 @@
 ---
 title: "Student Excellence Awards"
 date: 2006-03-03T20:23:00.000Z
-type: book page
+type: page
 aliases:
   - /student_excellence
 author: dtan

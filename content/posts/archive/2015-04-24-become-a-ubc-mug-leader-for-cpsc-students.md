@@ -1,7 +1,7 @@
 ---
 title: "Become a UBC MUG Leader for CPSC Students"
 date: 2015-04-24T07:06:00.000Z
-type: story
+type: post
 aliases:
   - /node/689
 author: robf

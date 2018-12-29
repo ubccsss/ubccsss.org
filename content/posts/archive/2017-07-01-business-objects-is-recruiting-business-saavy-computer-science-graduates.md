@@ -1,7 +1,7 @@
 ---
 title: "Business Objects is recruiting Business-Saavy Computer Science graduates!"
 date: 2017-07-01T18:40:00.000Z
-type: story
+type: post
 aliases:
   - /node/743
 author: Christopher Head

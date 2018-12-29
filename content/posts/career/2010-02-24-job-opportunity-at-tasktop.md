@@ -1,7 +1,7 @@
 ---
 title: "Job Opportunity at Tasktop"
 date: 2010-02-24T21:55:00.000Z
-type: story
+type: post
 aliases:
   - /node/1320
 author: Christopher Head

@@ -1,7 +1,7 @@
 ---
 title: "CSSS Executive 2005/2006"
 date: 2012-10-21T22:33:00.000Z
-type: story
+type: post
 aliases:
   - /node/8
 author: Christopher Head

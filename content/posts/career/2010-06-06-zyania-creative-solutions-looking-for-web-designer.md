@@ -1,7 +1,7 @@
 ---
 title: "Zyania Creative Solutions looking for Web designer"
 date: 2010-06-06T21:13:00.000Z
-type: story
+type: post
 aliases:
   - /node/1364
 author: Christopher Head

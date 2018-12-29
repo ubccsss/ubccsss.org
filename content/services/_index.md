@@ -1,7 +1,7 @@
 ---
 title: "Services"
 date: 2016-11-25T06:50:00.000Z
-type: book page
+type: page
 aliases:
   - /services
 author: Christopher Head
@@ -22,7 +22,7 @@ We co-host the annual Tech Career Fair, which gathers technical companies from a
 
 We provide a place for tutors to advertise their availability and for students to find a tutor for Computer Science courses.
 
-## [Exams](/services/exams)
+## [Exams](https://exams.ubccsss.org/)
 
 We provide a database of old midterm and final exams for review.
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Résumé Contest"
 date: 2009-01-16T07:26:00.000Z
-type: story
+type: post
 aliases:
   - /node/1177
 author: Christopher Head

@@ -1,7 +1,7 @@
 ---
 title: "Social & Sports Committee"
 date: 2015-05-04T07:01:00.000Z
-type: book page
+type: page
 aliases:
   - /club/about/social-sports
 author: Christopher Head
@@ -139,7 +139,7 @@ images: []
                     <li><a href="/club/about" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/club/about/communications" class="page-next" title="Go to next page">Communications Committee &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

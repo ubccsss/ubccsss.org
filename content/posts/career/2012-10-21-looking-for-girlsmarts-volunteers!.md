@@ -1,7 +1,7 @@
 ---
 title: "Looking for GirlSmarts volunteers!"
 date: 2012-10-21T22:36:00.000Z
-type: story
+type: post
 aliases:
   - /node/451
 author: Christopher Head

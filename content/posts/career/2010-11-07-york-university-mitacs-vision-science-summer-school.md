@@ -1,7 +1,7 @@
 ---
 title: "York University-MITACS Vision Science Summer School"
 date: 2010-11-07T18:38:00.000Z
-type: story
+type: post
 aliases:
   - /node/1409
 author: bertong

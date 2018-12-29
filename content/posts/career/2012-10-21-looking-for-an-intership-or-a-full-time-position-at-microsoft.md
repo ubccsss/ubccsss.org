@@ -1,7 +1,7 @@
 ---
 title: "Looking for an intership or a full time position at Microsoft?"
 date: 2012-10-22T06:39:00.000Z
-type: story
+type: post
 aliases:
   - /node/707
 author: robf

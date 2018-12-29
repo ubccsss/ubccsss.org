@@ -1,7 +1,7 @@
 ---
 title: "Application Developer - ZE Power Group, Vancouver"
 date: 2009-03-02T16:42:00.000Z
-type: story
+type: post
 aliases:
   - /node/1210
 author: Christopher Head

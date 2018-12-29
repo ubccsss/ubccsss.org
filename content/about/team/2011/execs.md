@@ -1,7 +1,7 @@
 ---
 title: "Core Executives—2011–2012"
 date: 2018-09-22T21:21:00.000Z
-type: book page
+type: page
 aliases:
   - /club/about/core/2011
 author: Christopher Head
@@ -235,7 +235,7 @@ Sean is a third year student in Cognitive Systems&#x2013;Computer stream. He&#x2
                     <li><a href="/club/about/core" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/club/about/core/2010" class="page-next" title="Go to next page">Core Executives&#x2014;2010&#x2013;2011 &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

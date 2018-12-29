@@ -1,7 +1,7 @@
 ---
 title: "Wireless Proposal Competition!"
 date: 2017-07-01T18:38:00.000Z
-type: story
+type: post
 aliases:
   - /node/455
 author: Christopher Head

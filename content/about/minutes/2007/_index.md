@@ -1,7 +1,7 @@
 ---
 title: "2007"
 date: 2008-11-16T21:22:00.000Z
-type: book page
+type: page
 aliases:
   - /club/about/minutes/2007
 author: Christopher Head
@@ -128,7 +128,7 @@ images: []
                     <li><a href="/club/about/minutes" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/club/about/minutes/2007/1119" class="page-next" title="Go to next page">2007-11-19 Meeting Minutes &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

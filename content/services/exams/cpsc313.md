@@ -1,7 +1,7 @@
 ---
 title: "CPSC 313"
 date: 2016-12-02T23:14:00.000Z
-type: book page
+type: page
 aliases:
   - /services/exams/cpsc313
 author: Tristan Rice
@@ -92,7 +92,7 @@ images: []
                     <li><a href="/services/exams" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/services/exams/cpsc314" class="page-next" title="Go to next page">CPSC 314 &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

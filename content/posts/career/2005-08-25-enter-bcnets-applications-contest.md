@@ -1,7 +1,7 @@
 ---
 title: "Enter BCNET's Applications Contest"
 date: 2005-08-25T07:18:00.000Z
-type: story
+type: post
 aliases:
   - /node/33
 author: atjia

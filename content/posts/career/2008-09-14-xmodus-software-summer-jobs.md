@@ -1,7 +1,7 @@
 ---
 title: "XModus Software Summer Jobs"
 date: 2008-09-14T09:27:00.000Z
-type: story
+type: post
 aliases:
   - /node/1059
 author: Christopher Head

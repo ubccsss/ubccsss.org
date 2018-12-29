@@ -1,7 +1,7 @@
 ---
 title: "Gladiator Event"
 date: 2006-10-26T08:01:00.000Z
-type: story
+type: post
 aliases:
   - /node/516
 author: robf

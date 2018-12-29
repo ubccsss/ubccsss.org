@@ -1,7 +1,7 @@
 ---
 title: "CSSS Clothing"
 date: 2012-10-22T06:44:00.000Z
-type: story
+type: post
 aliases:
   - /node/720
 author: Christopher Head

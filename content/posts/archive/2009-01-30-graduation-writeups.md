@@ -1,7 +1,7 @@
 ---
 title: "Graduation Writeups!"
 date: 2009-01-30T23:08:00.000Z
-type: story
+type: post
 aliases:
   - /node/1194
 author: atjia

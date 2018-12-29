@@ -1,7 +1,7 @@
 ---
 title: "PDFTron Careers"
 date: 2013-03-04T04:32:00.000Z
-type: story
+type: post
 aliases:
   - /node/1518
 author: Christopher Head

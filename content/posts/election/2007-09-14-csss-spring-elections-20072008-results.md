@@ -1,7 +1,7 @@
 ---
 title: "CSSS Spring Elections 2007/2008 Results"
 date: 2007-09-14T20:39:00.000Z
-type: story
+type: post
 aliases:
   - /node/742
 author: atjia

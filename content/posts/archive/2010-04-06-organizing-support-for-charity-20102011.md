@@ -1,7 +1,7 @@
 ---
 title: "Organizing Support for Charity 2010–2011"
 date: 2010-04-07T02:51:00.000Z
-type: story
+type: post
 aliases:
   - /node/1353
 author: Christopher Head

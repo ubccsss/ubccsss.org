@@ -1,7 +1,7 @@
 ---
 title: "Volunteering Committee"
 date: 2015-05-04T07:00:00.000Z
-type: book page
+type: page
 aliases:
   - /club/about/volunteer
 author: Christopher Head
@@ -165,7 +165,7 @@ images: []
                     <li><a href="/club/about" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/club/about/internal" class="page-next" title="Go to next page">Internal Committee &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

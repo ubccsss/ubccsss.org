@@ -1,7 +1,7 @@
 ---
 title: "Suggestions Box"
 date: 2018-08-31T19:56:00.000Z
-type: book page
+type: page
 aliases:
   - /content/suggestions-box
 author: dmitry

@@ -1,7 +1,7 @@
 ---
 title: "Innovate or Die Pedal-Powered Machine Contest"
 date: 2007-10-08T05:45:00.000Z
-type: story
+type: post
 aliases:
   - /node/990
 author: atjia

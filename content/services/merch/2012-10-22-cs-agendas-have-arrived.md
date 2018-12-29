@@ -1,7 +1,7 @@
 ---
 title: "CS Agendas have arrived!"
 date: 2012-10-22T05:52:00.000Z
-type: story
+type: post
 aliases:
   - /node/58
 author: atjia

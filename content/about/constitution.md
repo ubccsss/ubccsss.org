@@ -1,7 +1,7 @@
 ---
 title: "Constitution"
 date: 2016-03-17T00:29:00.000Z
-type: book page
+type: page
 aliases:
   - /club/about/constitution
 author: Christopher Head

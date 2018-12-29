@@ -1,7 +1,7 @@
 ---
 title: "Math Tutor Needed"
 date: 2011-02-01T18:08:00.000Z
-type: story
+type: post
 aliases:
   - /node/1425
 author: bertong

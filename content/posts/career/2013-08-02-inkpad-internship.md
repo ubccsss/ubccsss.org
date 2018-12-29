@@ -1,7 +1,7 @@
 ---
 title: "InkPad Studios: Internship for Java Programmers!"
 date: 2013-08-02T05:07:00.000Z
-type: story
+type: post
 aliases:
   - /node/1527
 author: Christopher Head

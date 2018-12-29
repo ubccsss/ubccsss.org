@@ -1,7 +1,7 @@
 ---
 title: "Core Executives"
 date: 2018-08-31T19:58:00.000Z
-type: book page
+type: page
 aliases:
   - /club/about/core
 author: Christopher Head
@@ -14,7 +14,7 @@ margin-top: 16px;
 margin-bottom: 16px;
 margin-right: 32px;
      background-position: center;
-} 
+}
 #execs td:first-child { text-align:center;}</style>
 
 <p>The Core Executives are the highest stratum of officer in the Computer Science Student Society. These positions are voted on in the annual spring elections.</p>
@@ -207,7 +207,7 @@ margin-right: 32px;
                     <li><a href="/club/about" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/content/core-executives%E2%80%942017%E2%80%932018" class="page-next" title="Go to next page">Core Executives&#x2014;2017&#x2013;2018 &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

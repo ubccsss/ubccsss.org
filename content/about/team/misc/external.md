@@ -1,7 +1,7 @@
 ---
 title: "External Committee"
 date: 2015-05-04T07:01:00.000Z
-type: book page
+type: page
 aliases:
   - /club/about/external
 author: Christopher Head
@@ -137,7 +137,7 @@ images: []
                     <li><a href="/club/about" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/club/about/social-sports" class="page-next" title="Go to next page">Social &amp; Sports Committee &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

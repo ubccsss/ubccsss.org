@@ -1,7 +1,7 @@
 ---
 title: "Constitutional Amendment, March 15th, 2016"
 date: 2016-03-16T06:34:00.000Z
-type: story
+type: post
 aliases:
   - /node/1551
 author: Brian Chau

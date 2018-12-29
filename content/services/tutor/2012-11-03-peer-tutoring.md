@@ -1,7 +1,7 @@
 ---
 title: "Peer Tutoring!"
 date: 2012-11-03T08:28:00.000Z
-type: book page
+type: page
 aliases:
   - /node/108
 author: rchao

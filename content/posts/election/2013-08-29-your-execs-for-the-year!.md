@@ -1,7 +1,7 @@
 ---
 title: "Your Execs for the year!"
 date: 2013-08-29T07:45:00.000Z
-type: story
+type: post
 aliases:
   - /node/490
 author: Christopher Head

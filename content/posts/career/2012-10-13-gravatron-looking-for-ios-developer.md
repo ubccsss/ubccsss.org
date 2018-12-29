@@ -1,7 +1,7 @@
 ---
 title: "Gravatron looking for iOS developer"
 date: 2012-10-14T05:51:00.000Z
-type: story
+type: post
 aliases:
   - /node/1493
 author: Christopher Head

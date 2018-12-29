@@ -1,7 +1,7 @@
 ---
 title: "2009 Executive Election Results"
 date: 2010-03-23T16:37:00.000Z
-type: story
+type: post
 aliases:
   - /election2009results
 author: Christopher Head

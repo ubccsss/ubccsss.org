@@ -1,7 +1,7 @@
 ---
 title: "Core Executives—2017–2018"
 date: 2018-09-22T21:15:00.000Z
-type: book page
+type: page
 aliases:
   - /content/core-executives—2017–2018
 author: dmitry

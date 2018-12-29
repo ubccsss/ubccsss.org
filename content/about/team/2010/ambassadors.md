@@ -1,7 +1,7 @@
 ---
 title: "Campus Ambassadors 2010"
 date: 2012-09-10T04:22:00.000Z
-type: story
+type: post
 aliases:
   - /ambassadors/2010
 author: Christopher Head

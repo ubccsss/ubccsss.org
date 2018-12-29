@@ -1,7 +1,7 @@
 ---
 title: "MUG Leaders Wanted"
 date: 2009-01-27T05:19:00.000Z
-type: story
+type: post
 aliases:
   - /node/1190
 author: Christopher Head

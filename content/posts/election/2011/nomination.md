@@ -1,7 +1,7 @@
 ---
 title: "Executive Nominations"
 date: 2013-08-29T07:43:00.000Z
-type: story
+type: post
 aliases:
   - /node/1431
 author: Christopher Head

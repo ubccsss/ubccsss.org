@@ -1,7 +1,7 @@
 ---
 title: "Google Search Demo"
 date: 2005-11-10T09:46:00.000Z
-type: book page
+type: page
 aliases:
   - /node/261
 author: atjia

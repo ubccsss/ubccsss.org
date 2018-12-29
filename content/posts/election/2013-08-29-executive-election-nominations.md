@@ -1,7 +1,7 @@
 ---
 title: "Executive Election Nominations"
 date: 2013-08-29T07:43:00.000Z
-type: story
+type: post
 aliases:
   - /node/1201
 author: Christopher Head

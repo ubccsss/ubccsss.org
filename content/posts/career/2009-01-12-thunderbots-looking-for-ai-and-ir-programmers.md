@@ -1,7 +1,7 @@
 ---
 title: "Thunderbots Looking for AI and IR Programmers"
 date: 2009-01-12T20:49:00.000Z
-type: story
+type: post
 aliases:
   - /node/1171
 author: Christopher Head

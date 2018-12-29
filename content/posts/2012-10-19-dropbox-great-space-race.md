@@ -1,7 +1,7 @@
 ---
 title: "Dropbox Great Space Race: free Dropbox space for UBC students!"
 date: 2012-10-19T06:14:00.000Z
-type: story
+type: post
 aliases:
   - /node/1494
 author: Christopher Head

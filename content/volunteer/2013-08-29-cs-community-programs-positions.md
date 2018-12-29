@@ -1,7 +1,7 @@
 ---
 title: "Computer Science Community Programs Positions"
 date: 2013-08-29T07:46:00.000Z
-type: story
+type: post
 aliases:
   - /node/1265
 author: Christopher Head

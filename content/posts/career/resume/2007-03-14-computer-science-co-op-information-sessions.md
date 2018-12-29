@@ -1,7 +1,7 @@
 ---
 title: "Computer Science Co-op Information Sessions"
 date: 2007-03-15T06:52:00.000Z
-type: story
+type: post
 aliases:
   - /node/717
 author: robf

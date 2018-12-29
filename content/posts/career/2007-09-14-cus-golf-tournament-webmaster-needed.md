@@ -1,7 +1,7 @@
 ---
 title: "CUS Golf Tournament Webmaster Needed"
 date: 2007-09-14T20:39:00.000Z
-type: story
+type: post
 aliases:
   - /node/744
 author: atjia

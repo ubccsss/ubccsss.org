@@ -1,7 +1,7 @@
 ---
 title: "Searching for an internship? Just Google it."
 date: 2008-01-17T02:37:00.000Z
-type: book page
+type: page
 aliases:
   - /node/1027
 author: Christopher Head

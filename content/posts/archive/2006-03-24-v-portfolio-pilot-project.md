@@ -1,7 +1,7 @@
 ---
 title: "V-Portfolio Pilot Project"
 date: 2006-03-24T18:18:00.000Z
-type: story
+type: post
 aliases:
   - /node/470
 author: dtan

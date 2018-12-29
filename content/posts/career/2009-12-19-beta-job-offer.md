@@ -1,7 +1,7 @@
 ---
 title: "Job Offer: Towards a better aligner for next generation sequencing data"
 date: 2009-12-19T02:37:00.000Z
-type: story
+type: post
 aliases:
   - /node/1285
 author: Christopher Head

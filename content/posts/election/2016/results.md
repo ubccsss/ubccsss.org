@@ -1,7 +1,7 @@
 ---
 title: "2016 Executive Election Results"
 date: 2016-04-17T00:53:00.000Z
-type: story
+type: post
 aliases:
   - /node/1553
 author: Brian Chau

@@ -1,7 +1,7 @@
 ---
 title: "Google Information Session- NEW meeting location!"
 date: 2006-09-26T00:49:00.000Z
-type: story
+type: post
 aliases:
   - /node/495
 author: hybrid11

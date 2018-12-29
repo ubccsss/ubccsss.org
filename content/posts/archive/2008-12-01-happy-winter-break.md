@@ -1,7 +1,7 @@
 ---
 title: "Happy Winter Break"
 date: 2008-12-01T11:28:00.000Z
-type: story
+type: post
 aliases:
   - /node/1163
 author: Christopher Head

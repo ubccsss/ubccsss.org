@@ -1,7 +1,7 @@
 ---
 title: "Like golf? Like website development?"
 date: 2009-02-19T21:01:00.000Z
-type: story
+type: post
 aliases:
   - /node/1198
 author: Christopher Head

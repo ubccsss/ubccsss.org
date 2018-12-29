@@ -1,7 +1,7 @@
 ---
 title: "BCIT is hiring!"
 date: 2008-09-14T09:27:00.000Z
-type: story
+type: post
 aliases:
   - /node/1004
 author: Christopher Head

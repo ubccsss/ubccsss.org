@@ -1,7 +1,7 @@
 ---
 title: "Core Executives—2015–2016"
 date: 2018-09-22T21:18:00.000Z
-type: book page
+type: page
 aliases:
   - /content/core-executives—2015–2016
 author: Tristan Rice

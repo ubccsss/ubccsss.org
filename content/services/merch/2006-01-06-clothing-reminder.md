@@ -1,7 +1,7 @@
 ---
 title: "Clothing Reminder"
 date: 2006-01-06T09:24:00.000Z
-type: book page
+type: page
 aliases:
   - /node/359
 author: dtan

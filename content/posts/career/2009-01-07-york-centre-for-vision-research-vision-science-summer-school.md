@@ -1,7 +1,7 @@
 ---
 title: "York Centre for Vision Research Vision Science Summer School"
 date: 2009-01-08T06:29:00.000Z
-type: story
+type: post
 aliases:
   - /node/1173
 author: Christopher Head

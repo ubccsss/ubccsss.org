@@ -1,7 +1,7 @@
 ---
 title: "Work Study Position: Project Programmer Assistant with Edudata (Project #3134)"
 date: 2009-11-08T10:19:00.000Z
-type: story
+type: post
 aliases:
   - /node/1277
 author: Christopher Head

@@ -1,7 +1,7 @@
 ---
 title: "CPSC 448B"
 date: 2016-11-29T20:40:00.000Z
-type: book page
+type: page
 aliases:
   - /services/exams/cpsc448B
 author: Tristan Rice
@@ -41,7 +41,7 @@ images: []
                     <li><a href="/services/exams" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/node/1455" class="page-next" title="Go to next page">Uncategorized &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

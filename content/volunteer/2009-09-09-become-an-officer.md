@@ -1,7 +1,7 @@
 ---
 title: "Become a Cube Officer"
 date: 2009-09-09T07:05:00.000Z
-type: story
+type: post
 aliases:
   - /node/1258
 author: Christopher Head

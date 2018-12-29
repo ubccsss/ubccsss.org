@@ -1,12 +1,14 @@
 ---
 title: "Exams Database"
 date: 2017-03-09T03:50:00.000Z
-type: book page
+type: page
 aliases:
   - /services/exams
 author: Christopher Head
 images: []
 ---
+
+# See the current exam database at https://exams.ubccsss.org/
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3>Please send any exams you have to <a href="/cdn-cgi/l/email-protection#daacaab99aafb8b9b9a9a9a9f4b5a8bd"><span class="__cf_email__" data-cfemail="e4929487a491868787979797ca8b9683">[email&#xA0;protected]</span></a>!</h3>
 
@@ -41,7 +43,7 @@ images: []
         <ul class="pager clearfix">
                           <li class="next"><a href="/services/exams/cpsc101" class="page-next" title="Go to next page">CPSC 101 &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

@@ -1,7 +1,7 @@
 ---
 title: "2012 Executive Election Results"
 date: 2015-04-08T06:57:00.000Z
-type: story
+type: post
 aliases:
   - /election2012results
 author: Christopher Head

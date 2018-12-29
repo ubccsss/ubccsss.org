@@ -1,7 +1,7 @@
 ---
 title: "TheChange looking for backend PHP web developer"
 date: 2010-06-15T17:25:00.000Z
-type: story
+type: post
 aliases:
   - /node/1365
 author: Christopher Head

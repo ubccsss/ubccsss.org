@@ -1,7 +1,7 @@
 ---
 title: "UBC Grad Looking for Web Developer"
 date: 2010-10-19T03:33:00.000Z
-type: story
+type: post
 aliases:
   - /node/1399
 author: Christopher Head

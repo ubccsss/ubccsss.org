@@ -1,7 +1,7 @@
 ---
 title: "Elections 08!"
 date: 2012-10-22T05:36:00.000Z
-type: story
+type: post
 aliases:
   - /elections08
 author: atjia

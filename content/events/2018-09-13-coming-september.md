@@ -1,7 +1,7 @@
 ---
 title: "Coming in September"
 date: 2018-09-13T05:46:00.000Z
-type: story
+type: post
 aliases:
   - /content/coming-september
 author: Tiger Oakes

@@ -1,7 +1,7 @@
 ---
 title: "Computer Science 490 Student Seminar"
 date: 2006-12-24T15:34:00.000Z
-type: story
+type: post
 aliases:
   - /node/680
 author: robf

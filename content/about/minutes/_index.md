@@ -1,7 +1,7 @@
 ---
 title: "Meeting Minutes"
 date: 2018-06-19T19:35:00.000Z
-type: book page
+type: page
 aliases:
   - /club/about/minutes
 author: Christopher Head
@@ -137,7 +137,7 @@ images: []
                     <li><a href="/club/about" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/club/about/minutes/2013" class="page-next" title="Go to next page">2013 &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

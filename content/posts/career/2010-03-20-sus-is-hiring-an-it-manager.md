@@ -1,7 +1,7 @@
 ---
 title: "SUS is hiring an IT Manager"
 date: 2010-03-20T23:47:00.000Z
-type: story
+type: post
 aliases:
   - /node/1341
 author: Christopher Head

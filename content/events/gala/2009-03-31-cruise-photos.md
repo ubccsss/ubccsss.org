@@ -1,7 +1,7 @@
 ---
 title: "Year-End Cruise Photos"
 date: 2009-03-31T21:35:00.000Z
-type: story
+type: post
 aliases:
   - /node/1236
 author: Christopher Head

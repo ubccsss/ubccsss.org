@@ -1,7 +1,7 @@
 ---
 title: "HiretheWorld Vancouver"
 date: 2012-06-30T23:41:00.000Z
-type: story
+type: post
 aliases:
   - /node/1477
 author: Christopher Head

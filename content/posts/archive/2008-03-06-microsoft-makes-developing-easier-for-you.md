@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Makes Developing Easier for You!"
 date: 2008-03-07T06:57:00.000Z
-type: story
+type: post
 aliases:
   - /node/1042
 author: atjia

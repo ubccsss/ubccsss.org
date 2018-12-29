@@ -1,7 +1,7 @@
 ---
 title: "Official Election Results"
 date: 2011-04-15T05:32:00.000Z
-type: story
+type: post
 aliases:
   - /election2008results
 author: Christopher Head

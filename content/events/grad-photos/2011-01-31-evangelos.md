@@ -1,7 +1,7 @@
 ---
 title: "Grad Photos at Evangelos"
 date: 2010-12-01T21:19:00.000Z
-type: story
+type: post
 aliases:
   - /node/1417
 author: bertong

@@ -1,7 +1,7 @@
 ---
 title: "Anne-Marie Martin looking to hire a CS student for a database and Website project"
 date: 2010-09-09T07:46:00.000Z
-type: story
+type: post
 aliases:
   - /node/1384
 author: Christopher Head

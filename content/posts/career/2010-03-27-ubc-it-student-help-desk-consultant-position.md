@@ -1,7 +1,7 @@
 ---
 title: "UBC IT Student Help Desk Consultant Position"
 date: 2010-03-27T23:22:00.000Z
-type: story
+type: post
 aliases:
   - /node/1349
 author: Christopher Head

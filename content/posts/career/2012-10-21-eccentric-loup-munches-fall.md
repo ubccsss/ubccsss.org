@@ -1,7 +1,7 @@
 ---
 title: "Eccentric Loup Munches - Fall"
 date: 2012-10-22T06:51:00.000Z
-type: story
+type: post
 aliases:
   - /node/483
 author: Christopher Head

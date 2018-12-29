@@ -1,7 +1,7 @@
 ---
 title: "Thunderbird Robotics"
 date: 2008-10-19T09:27:00.000Z
-type: story
+type: post
 aliases:
   - /node/1109
 author: Christopher Head

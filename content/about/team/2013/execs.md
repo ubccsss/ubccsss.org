@@ -1,7 +1,7 @@
 ---
 title: "Core Executives—2013–2014"
 date: 2018-09-22T21:21:00.000Z
-type: book page
+type: page
 aliases:
   - /club/about/core/2013
 author: Christopher Head
@@ -200,7 +200,7 @@ I&#x2019;m Matthew Arnold, a 3<sup>rd</sup> year Computer Science student at UBC
                     <li><a href="/club/about/core" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/club/about/core/2012" class="page-next" title="Go to next page">Core Executives&#x2014;2012&#x2013;2013 &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

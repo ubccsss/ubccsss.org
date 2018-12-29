@@ -1,7 +1,7 @@
 ---
 title: "Officers"
 date: 2018-08-31T19:59:00.000Z
-type: book page
+type: page
 aliases:
   - /club/about/officers
 author: Tristan Rice
@@ -14,7 +14,7 @@ margin-top: 16px;
 margin-bottom: 16px;
 margin-right: 32px;
      background-position: center;
-} 
+}
 .execs td:first-child { text-align:center;}</style>
 
 <table class="execs">
@@ -264,7 +264,7 @@ margin-right: 32px;
                     <li><a href="/club/about" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/club/about/volunteer" class="page-next" title="Go to next page">Volunteering Committee &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

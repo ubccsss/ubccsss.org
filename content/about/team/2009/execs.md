@@ -1,7 +1,7 @@
 ---
 title: "Core Executives—2009–2010"
 date: 2018-09-22T21:19:00.000Z
-type: book page
+type: page
 aliases:
   - /club/about/core/2009
 author: Christopher Head
@@ -147,7 +147,7 @@ images: []
                     <li><a href="/club/about/core" class="page-up" title="Go to parent page">up</a></li>
                     <li class="next"><a href="/club/about/core/2008" class="page-next" title="Go to next page">Core Executives&#x2014;2008&#x2013;2009 &#x203A;</a></li>
           </ul>
-    
+
   </div>
     <footer>
           </footer>

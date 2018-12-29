@@ -1,7 +1,7 @@
 ---
 title: "2011 Executive Election Results"
 date: 2011-04-15T05:30:00.000Z
-type: story
+type: post
 aliases:
   - /election2011results
 author: Christopher Head

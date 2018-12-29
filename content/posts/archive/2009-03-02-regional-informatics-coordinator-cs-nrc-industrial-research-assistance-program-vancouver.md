@@ -1,7 +1,7 @@
 ---
 title: "Regional Informatics Coordinator (CS), NRC Industrial Research Assistance Program, Vancouver"
 date: 2009-03-02T16:39:00.000Z
-type: story
+type: post
 aliases:
   - /node/1209
 author: Christopher Head

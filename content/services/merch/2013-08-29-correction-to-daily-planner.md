@@ -1,7 +1,7 @@
 ---
 title: "Correction to CSSS Daily Planner"
 date: 2013-08-29T07:45:00.000Z
-type: story
+type: post
 aliases:
   - /node/91
 author: atjia
