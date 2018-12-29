@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: ubccsss/ubccsss.org-experimental
 
 publish_mode: editorial_workflow
 media_folder: "static/files" # Folder where user uploaded files should go

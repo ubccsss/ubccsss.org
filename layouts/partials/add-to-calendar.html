@@ -1,11 +1,13 @@
+{{ $startDate := .Params.start_date | default .Date }}
 {{ $endDate := .Params.end_date | default (time (add .Date.Unix 3600000)) }}
+{{ $dates := delimit (slice (dateFormat "20060102T150405" $startDate) (dateFormat "20060102T150405" $endDate)) "/" }}
+{{ $details := .Description | default .Summary }}
 <a href='http://www.google.com/calendar/event?
 action=TEMPLATE
-&text={{ .Title }}
-&dates={{ .Date.Format "20060102T150405" }}/{{ dateFormat "20060102T150405" $endDate }}
+&{{ querify "text" .Title "details" $details "dates" $dates | safeURL }}
 &ctz=Canada/Pacific
 &details={{ .Description }}
-&location={{ partial "address.html" }}
+&location={{ partial "address.html" | safeURL }}
 &trp=false
 &sprop=
 &sprop=name:'
