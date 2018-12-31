@@ -1,7 +1,7 @@
 ---
-title: "Iron Hacker"
-date: 2012-11-29T05:32:00.000Z
-type: event
+title: Iron Hacker
+date: 2012-11-29
+category: hackathon
 aliases:
   - /node/1508
 author: Christopher Head

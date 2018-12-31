@@ -1,7 +1,7 @@
 ---
 title: "SAP Code Slam (global coding challenge)"
-date: 2012-09-15T03:28:00.000Z
-type: event
+date: 2012-09-15
+category: hackathon
 aliases:
   - /node/1484
 author: Christopher Head

@@ -1,7 +1,7 @@
 ---
-title: "TaskTop Eclipse Hackathon"
-date: 2012-10-19T06:25:00.000Z
-type: event
+title: TaskTop Eclipse Hackathon
+date: 2012-10-19
+category: hackathon
 aliases:
   - /node/1497
 author: Christopher Head
