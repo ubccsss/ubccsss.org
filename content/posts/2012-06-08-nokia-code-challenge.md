@@ -1,7 +1,7 @@
 ---
 title: Vancouver Hackathon
 date: 2012-06-08
-category: hackathon
+categories: [hackathon]
 aliases:
   - /node/1476
 author: Christopher Head

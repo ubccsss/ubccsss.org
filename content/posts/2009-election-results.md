@@ -1,7 +1,7 @@
 ---
 title: "2009 Executive Election Results"
 date: 2010-03-23
-category: elections
+categories: [elections]
 aliases:
   - /election2009results
 author: Christopher Head

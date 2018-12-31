@@ -1,7 +1,7 @@
 ---
 title: "2010 Executive Elections"
 date: 2013-08-29
-category: elections
+categories: [elections]
 aliases:
   - /election2010
 author: Christopher Head

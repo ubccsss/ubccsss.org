@@ -1,7 +1,7 @@
 ---
 title: "CSSS Executive Nominations"
 date: 2018-03-14
-category: elections
+categories: [elections]
 aliases:
   - /content/csss-executive-nominations
 author: Tristan Rice

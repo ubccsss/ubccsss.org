@@ -1,7 +1,7 @@
 ---
 title: Apps 4 Climate Action Hackathon
 date: 2010-06-15
-category: hackathon
+categories: [hackathon]
 aliases:
   - /node/1368
 author: Christopher Head

@@ -1,7 +1,7 @@
 ---
 title: "Executive Nominations"
 date: 2014-02-16
-category: elections
+categories: [elections]
 aliases:
   - /2014nomination
 author: Christopher Head

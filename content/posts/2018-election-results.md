@@ -1,7 +1,7 @@
 ---
 title: "CSSS Election Results for 2018-2019"
 date: 2018-03-22
-category: elections
+categories: [elections]
 aliases:
   - /content/csss-election-results-2018-2019
 author: Tristan Rice

@@ -1,7 +1,7 @@
 ---
 title: "CSSS Spring Elections for 2007/2008"
 date: 2007-09-16
-category: elections
+categories: [elections]
 aliases:
   - /node/741
 author: Christopher Head

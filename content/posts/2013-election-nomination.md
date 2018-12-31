@@ -1,7 +1,7 @@
 ---
 title: "2013–2014 Executive Elections"
 date: 2013-08-29
-category: elections
+categories: [elections]
 aliases:
   - /node/1520
 author: Christopher Head

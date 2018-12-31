@@ -1,7 +1,7 @@
 ---
 title: Canadian Computing Contest Opportunity
 date: 2010-01-31
-category: hackathon
+categories: [hackathon]
 aliases:
   - /node/1312
 author: Christopher Head

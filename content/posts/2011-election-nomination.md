@@ -1,7 +1,7 @@
 ---
 title: "Executive Nominations"
 date: 2013-08-29
-category: elections
+categories: [elections]
 aliases:
   - /node/1431
 author: Christopher Head

@@ -1,7 +1,7 @@
 ---
 title: "Elections 08!"
 date: 2012-10-22
-category: elections
+categories: [elections]
 aliases:
   - /elections08
 author: atjia

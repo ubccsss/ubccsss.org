@@ -1,7 +1,7 @@
 ---
 title: "2016-2017 Executive Nominations"
 date: 2016-03-14
-category: elections
+categories: [elections]
 aliases:
   - /node/1550
 author: Brian Chau

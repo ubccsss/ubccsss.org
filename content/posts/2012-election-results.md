@@ -1,7 +1,7 @@
 ---
 title: "2012 Executive Election Results"
 date: 2015-04-08
-category: elections
+categories: [elections]
 aliases:
   - /election2012results
 author: Christopher Head
