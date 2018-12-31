@@ -2,7 +2,7 @@
 {{ $endDate := .Params.end_date | default (time (add .Date.Unix 3600000)) }}
 {{ $dates := delimit (slice (dateFormat "20060102T150405" $startDate) (dateFormat "20060102T150405" $endDate)) "/" }}
 {{ $details := .Description | default .Summary }}
-<a href='http://www.google.com/calendar/event?
+<a class="btn btn-outline btn-primary" href='http://www.google.com/calendar/event?
 action=TEMPLATE
 &{{ querify "text" .Title "details" $details "dates" $dates | safeURL }}
 &ctz=Canada/Pacific

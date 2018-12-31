@@ -39,4 +39,5 @@ params:
   mainSections:
     - events
     - posts
+    - career
   truncate: false

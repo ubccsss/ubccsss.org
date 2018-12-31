@@ -23,8 +23,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: event
-    label: Events (Generic)
-    label_singular: Event (Generic)
+    label: Events
+    label_singular: Event
     folder: "content/events"
     create: true
     fields:
@@ -45,6 +45,19 @@ collections: # A list of collections the CMS should be able to edit
       - {label: Images, name: images, widget: list, required: false, fields: [
           {label: Image, name: image, widget: image}]}
       - {label: Body, name: body, widget: markdown}
+
+  - name: post
+    label: Career posts
+    label_singular: Career post
+    folder: "content/career"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Images", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
 
   - name: pages
     label: Pages
