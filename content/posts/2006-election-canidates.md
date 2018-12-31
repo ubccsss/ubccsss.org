@@ -1,7 +1,7 @@
 ---
 title: "CSSS Exec Elections"
 date: 2012-10-22
-categories: [elections]
+categories: [Elections]
 aliases:
   - /elections_2006
 author: dtan

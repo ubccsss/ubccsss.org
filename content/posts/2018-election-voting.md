@@ -1,7 +1,7 @@
 ---
 title: "CSSS Elections"
 date: 2018-03-18
-categories: [elections]
+categories: [Elections]
 aliases:
   - /content/csss-elections
   - /content/csss-elections-0

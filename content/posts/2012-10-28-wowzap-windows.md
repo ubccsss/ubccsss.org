@@ -1,7 +1,7 @@
 ---
 title: WOWZapp Worldwide Windows Hackathon
 date: 2012-10-28
-categories: [hackathon]
+categories: [Hackathon]
 aliases:
   - /node/1503
 author: Christopher Head

@@ -1,7 +1,7 @@
 ---
 title: Vancouver Startup Hackathon
 date: 2012-10-21
-categories: [hackathon]
+categories: [Hackathon]
 aliases:
   - /node/1395
 author: Christopher Head

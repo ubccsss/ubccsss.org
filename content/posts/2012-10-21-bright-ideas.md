@@ -1,7 +1,7 @@
 ---
 title: Vancouver Student Entrepreneurship Association presents Bright Ideas Competition 2010
 date: 2012-10-21
-categories: [hackathon]
+categories: [Hackathon]
 aliases:
   - /node/1330
 author: Christopher Head

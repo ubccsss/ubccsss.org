@@ -1,7 +1,7 @@
 ---
 title: "CSSS Elections"
 date: 2015-03-27
-categories: [elections]
+categories: [Elections]
 aliases:
   - /node/1544
 author: Christopher Head

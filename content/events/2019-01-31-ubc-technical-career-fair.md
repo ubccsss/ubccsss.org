@@ -1,6 +1,8 @@
 ---
 title: "UBC Technical Career Fair 2019"
-date: 2019-01-31
+date: 2018-12-31
+start_date: 2019-01-31T10:00:00.000Z
+end_date: 2019-01-31T16:00:00.000Z
 categories: [Event]
 tags: [Technical Career Fair]
 aliases:
@@ -24,7 +26,7 @@ images:
 
 Last year, over 50 companies attended the Tech Career Fair to meet undergraduate and graduate students from a wide range of disciplines, including Computer Science, Cognitive Systems, Engineering Physics, and Electrical & Computer Engineering. This is a wonderful way for you to showcase your portfolio, and network with a wide range of companies to find out about internships and post-graduate career opportunities.
 
-Hosted jointly by UBC Computer Science Student Society (CSSS), UBC IEEE, Cognitive Systems Society, and Engineering Physics, the 2018 Technical Career Fair will be held on Jan. 31, 2019 @ 10am-4pm in the West Atrium of the UBC Life Sciences Centre.
+Hosted jointly by UBC Computer Science Student Society (CSSS), UBC IEEE, Cognitive Systems Society, and Engineering Physics, the Technical Career Fair will be held on Jan. 31, 2019 @ 10am-4pm in the West Atrium of the UBC Life Sciences Centre.
 
 📩 Bring your resume! 📩
 

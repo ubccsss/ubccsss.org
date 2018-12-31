@@ -1,7 +1,7 @@
 ---
 title: "CSSS Executive 2005/2006"
 date: 2012-10-21
-categories: [elections]
+categories: [Elections]
 aliases:
   - /node/8
 author: Christopher Head

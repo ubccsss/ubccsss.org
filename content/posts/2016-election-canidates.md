@@ -1,7 +1,7 @@
 ---
 title: "CSSS Elections"
 date: 2016-04-02
-categories: [elections]
+categories: [Elections]
 aliases:
   - /node/1552
 author: Brian Chau

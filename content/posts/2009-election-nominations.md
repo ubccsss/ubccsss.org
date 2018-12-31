@@ -1,7 +1,7 @@
 ---
 title: "Executive Election Nominations"
 date: 2013-08-29
-categories: [elections]
+categories: [Elections]
 aliases:
   - /node/1201
 author: Christopher Head

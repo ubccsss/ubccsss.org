@@ -1,7 +1,7 @@
 ---
 title: TaskTop Eclipse Hackathon
 date: 2012-10-19
-categories: [hackathon]
+categories: [Hackathon]
 aliases:
   - /node/1497
 author: Christopher Head

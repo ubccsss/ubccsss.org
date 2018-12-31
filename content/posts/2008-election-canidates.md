@@ -1,7 +1,7 @@
 ---
 title: "Elections"
 date: 2008-03-27
-categories: [elections]
+categories: [Elections]
 aliases:
   - /node/1049
 author: Christopher Head

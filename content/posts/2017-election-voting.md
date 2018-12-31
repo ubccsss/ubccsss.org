@@ -1,7 +1,7 @@
 ---
 title: "2017 CSSS Elections Voting"
 date: 2017-03-14
-categories: [elections]
+categories: [Elections]
 aliases:
   - /content/2017-csss-elections-voting
 author: Tristan Rice

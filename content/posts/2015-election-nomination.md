@@ -1,7 +1,7 @@
 ---
 title: "Executive Nominations"
 date: 2015-03-07
-categories: [elections]
+categories: [Elections]
 aliases:
   - /node/1543
 author: Christopher Head

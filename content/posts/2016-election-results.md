@@ -1,7 +1,7 @@
 ---
 title: "2016 Executive Election Results"
 date: 2016-04-17
-categories: [elections]
+categories: [Elections]
 aliases:
   - /node/1553
 author: Brian Chau

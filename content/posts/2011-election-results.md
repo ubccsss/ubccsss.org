@@ -1,7 +1,7 @@
 ---
 title: "2011 Executive Election Results"
 date: 2011-04-15
-categories: [elections]
+categories: [Elections]
 aliases:
   - /election2011results
 author: Christopher Head

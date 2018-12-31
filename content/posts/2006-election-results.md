@@ -1,7 +1,7 @@
 ---
 title: "Your Execs for the year!"
 date: 2013-08-29
-categories: [elections]
+categories: [Elections]
 aliases:
   - /node/490
   - /node/472

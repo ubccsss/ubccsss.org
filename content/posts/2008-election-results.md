@@ -1,7 +1,7 @@
 ---
 title: "Official Election Results"
 date: 2011-04-15
-categories: [elections]
+categories: [Elections]
 aliases:
   - /election2008results
 author: Christopher Head

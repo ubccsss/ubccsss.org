@@ -1,7 +1,7 @@
 ---
 title: "2017-2018 Executive Nominations"
 date: 2017-03-09
-categories: [elections]
+categories: [Elections]
 aliases:
   - /content/2017-2018-executive-nominations
 author: Tristan Rice

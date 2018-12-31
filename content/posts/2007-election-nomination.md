@@ -1,7 +1,7 @@
 ---
 title: "Decision Time 2007"
 date: 2012-10-22
-categories: [elections]
+categories: [Elections]
 aliases:
   - /elections07
 author: Christopher Head

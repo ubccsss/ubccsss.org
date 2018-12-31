@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to the New Executives"
 date: 2014-04-25
-categories: [elections]
+categories: [Elections]
 aliases:
   - /node/1537
 author: Christopher Head

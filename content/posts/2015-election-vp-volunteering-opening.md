@@ -1,7 +1,7 @@
 ---
 title: "VP Volunteering Opening"
 date: 2015-11-18
-categories: [elections]
+categories: [Elections]
 aliases:
   - /node/1547
 author: Brian Chau

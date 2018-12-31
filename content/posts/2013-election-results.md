@@ -1,7 +1,7 @@
 ---
 title: "2013 CSSS Election Results"
 date: 2015-04-08
-categories: [elections]
+categories: [Elections]
 aliases:
   - /election2013results
 author: Christopher Head

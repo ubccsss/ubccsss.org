@@ -1,7 +1,7 @@
 ---
 title: Undergrad Research Poster Competition
 date: 2010-01-23
-categories: [hackathon]
+categories: [Hackathon]
 aliases:
   - /node/1305
 author: Christopher Head
