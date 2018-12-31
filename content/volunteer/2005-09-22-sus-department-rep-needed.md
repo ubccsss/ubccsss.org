@@ -1,7 +1,6 @@
 ---
 title: "SUS Department Rep needed!"
 date: 2005-09-22T16:34:00.000Z
-type: post
 aliases:
   - /node/92
 author: atjia

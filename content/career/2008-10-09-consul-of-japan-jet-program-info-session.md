@@ -1,7 +1,6 @@
 ---
 title: "Consul of Japan - JET Program Info Session"
 date: 2008-10-09T08:42:00.000Z
-type: event
 aliases:
   - /node/1098
 author: Christopher Head

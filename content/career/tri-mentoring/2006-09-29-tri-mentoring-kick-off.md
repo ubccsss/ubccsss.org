@@ -1,7 +1,6 @@
 ---
 title: "Tri-Mentoring Kick Off!"
 date: 2006-09-29T21:08:00.000Z
-type: event
 aliases:
   - /node/482
 author: atjia

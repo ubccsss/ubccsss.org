@@ -1,7 +1,6 @@
 ---
 title: "Meet the Dean"
 date: 2008-10-17T16:08:00.000Z
-type: event
 aliases:
   - /node/1104
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "Microsoft - Where do you want to go today?"
 date: 2012-10-22T05:25:00.000Z
-type: event
 aliases:
   - /node/217
 author: atjia

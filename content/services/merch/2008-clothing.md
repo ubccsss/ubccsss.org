@@ -1,7 +1,6 @@
 ---
 title: "The Big Annual CSSS Clothing Sale of 2008"
 date: 2012-10-22T06:44:00.000Z
-type: post
 aliases:
   - /clothing08
 author: atjia

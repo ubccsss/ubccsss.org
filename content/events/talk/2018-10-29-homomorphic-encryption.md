@@ -1,7 +1,6 @@
 ---
 title: "Industry Talk #1: Homomorphic Encryption"
 date: 2018-10-23T03:21:00.000Z
-type: event
 aliases:
   - /content/industry-talk-1-homomorphic-encryption
 author: njhu

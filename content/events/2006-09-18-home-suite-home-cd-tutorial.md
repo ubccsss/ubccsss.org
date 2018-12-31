@@ -1,7 +1,6 @@
 ---
 title: "Home Suite Home CD Tutorial"
 date: 2006-09-18T22:04:00.000Z
-type: event
 aliases:
   - /node/489
 author: atjia

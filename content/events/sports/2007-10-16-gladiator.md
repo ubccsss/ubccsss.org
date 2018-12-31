@@ -1,7 +1,6 @@
 ---
 title: "Gladiator!"
 date: 2007-10-16T17:25:00.000Z
-type: post
 aliases:
   - /node/997
 author: atjia

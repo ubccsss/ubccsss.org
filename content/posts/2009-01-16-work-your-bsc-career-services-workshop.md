@@ -1,0 +1,16 @@
+---
+title: "Work your BSc - Career Services Workshop"
+date: 2009-01-16T16:42:00.000Z
+aliases:
+  - /node/1178
+  - /node/1179
+author: Christopher Head
+images: []
+---
+
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>How to Prepare for a Career Fair</p>
+<p>When employers descend upon campus looking to hire UBC students, will you be ready? UBC&apos;s Career Education team joins forces with superhero Chris Irveses to bring you a workshop that will get you trained, prepped, and ready in time for two upcoming career fairs. </p>
+<p>Through an interactive workshop, we&apos;ll provide you with the effective skills, strategies, and superpowers you&apos;ll need to win over any potential employer. This session is open to all UBC students and alumni from all faculties.<br>
+Register at <a href="http://www.students.ubc.ca/workshops/careers.cfm">www.students.ubc.ca/workshops/careers.cfm</a>.</p>
+</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, January 29, 2009 - <span class="date-display-range"><span class="date-display-start">12:00</span> to <span class="date-display-end">13:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Scarfe 208</div></div></div>    <footer>
+    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>

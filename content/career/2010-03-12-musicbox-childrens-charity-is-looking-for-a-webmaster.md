@@ -1,7 +1,6 @@
 ---
 title: "MusicBox Children's Charity is looking for a webmaster"
 date: 2010-03-12T21:43:00.000Z
-type: post
 aliases:
   - /node/1339
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "REC Innertube Water Polo"
 date: 2012-10-21T23:14:00.000Z
-type: event
 aliases:
   - /node/1110
 author: Christopher Head

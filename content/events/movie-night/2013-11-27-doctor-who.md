@@ -1,7 +1,6 @@
 ---
 title: "CSSS Doctor Who 50th Anniversary Screening"
 date: 2013-11-25T05:43:00.000Z
-type: event
 aliases:
   - /node/1533
 author: Christopher Head

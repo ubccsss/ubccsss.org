@@ -1,7 +1,6 @@
 ---
 title: "UBC Technical Career Fair 2018"
 date: 2018-01-13T03:00:00.000Z
-type: event
 aliases:
   - /content/ubc-technical-career-fair-2018
 author: arieljcao

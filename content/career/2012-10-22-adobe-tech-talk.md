@@ -1,7 +1,6 @@
 ---
 title: "Adobe Tech-Talk"
 date: 2012-10-22T07:44:00.000Z
-type: event
 aliases:
   - /node/514
 author: hybrid11

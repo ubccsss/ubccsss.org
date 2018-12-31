@@ -1,7 +1,6 @@
 ---
 title: "Microsoft Info Session"
 date: 2006-10-03T22:26:00.000Z
-type: event
 aliases:
   - /node/499
 author: hybrid11

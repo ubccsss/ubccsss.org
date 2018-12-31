@@ -1,7 +1,6 @@
 ---
 title: "VSEA Speaker"
 date: 2010-01-08T08:26:00.000Z
-type: event
 aliases:
   - /node/1292
 author: Christopher Head

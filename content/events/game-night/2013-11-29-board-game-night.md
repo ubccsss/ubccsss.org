@@ -1,7 +1,6 @@
 ---
 title: "CSSS/Math Club Board Game Night"
 date: 2013-11-27T04:56:00.000Z
-type: event
 aliases:
   - /node/1534
 author: Christopher Head

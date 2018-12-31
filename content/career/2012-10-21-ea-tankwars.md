@@ -1,7 +1,6 @@
 ---
 title: "EA TankWars : A Competition"
 date: 2012-10-21T22:36:00.000Z
-type: post
 aliases:
   - /node/243
 author: Christopher Head

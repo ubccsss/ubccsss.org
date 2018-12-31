@@ -1,7 +1,6 @@
 ---
 title: "Accenture Info Session"
 date: 2009-09-09T06:41:00.000Z
-type: event
 aliases:
   - /node/1253
 author: Christopher Head

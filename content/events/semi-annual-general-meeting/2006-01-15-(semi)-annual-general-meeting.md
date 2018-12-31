@@ -1,7 +1,6 @@
 ---
 title: "(Semi) Annual General Meeting"
 date: 2006-01-16T07:48:00.000Z
-type: event
 aliases:
   - /node/370
 author: atjia

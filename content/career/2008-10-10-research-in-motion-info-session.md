@@ -1,7 +1,6 @@
 ---
 title: "Research in Motion Info Session"
 date: 2008-10-11T04:57:00.000Z
-type: event
 aliases:
   - /node/1101
 author: Christopher Head

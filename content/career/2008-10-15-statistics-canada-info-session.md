@@ -1,7 +1,6 @@
 ---
 title: "Statistics Canada Info Session"
 date: 2008-10-15T16:07:00.000Z
-type: event
 aliases:
   - /node/1103
 author: Christopher Head

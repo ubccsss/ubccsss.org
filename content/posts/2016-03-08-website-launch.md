@@ -1,7 +1,6 @@
 ---
 title: "New Website Launch"
 date: 2016-03-08T05:57:00.000Z
-type: post
 aliases:
   - /node/31
 author: Christopher Head

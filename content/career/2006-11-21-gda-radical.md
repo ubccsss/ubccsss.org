@@ -1,7 +1,6 @@
 ---
 title: "GDA: Radical coming on campus"
 date: 2017-07-01T18:41:00.000Z
-type: event
 aliases:
   - /node/596
 author: jlo

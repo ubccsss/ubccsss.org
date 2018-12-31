@@ -1,7 +1,6 @@
 ---
 title: "Byte to Eat Ends"
 date: 2008-11-21T07:22:00.000Z
-type: event
 aliases:
   - /node/1156
 author: Christopher Head

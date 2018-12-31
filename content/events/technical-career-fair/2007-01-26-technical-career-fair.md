@@ -1,7 +1,6 @@
 ---
 title: "Technical Career Fair"
 date: 2007-01-26T21:42:00.000Z
-type: event
 aliases:
   - /node/690
 author: robf

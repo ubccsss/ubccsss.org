@@ -1,7 +1,6 @@
 ---
 title: "Looking for a Career in Intelligence?"
 date: 2007-02-27T22:31:00.000Z
-type: event
 aliases:
   - /node/712
 author: robf

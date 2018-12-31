@@ -1,7 +1,6 @@
 ---
 title: "Science Skate Night"
 date: 2008-11-19T19:11:00.000Z
-type: event
 aliases:
   - /node/1158
 author: atjia

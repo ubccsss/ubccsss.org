@@ -1,7 +1,6 @@
 ---
 title: "First CSSS BBQ of the year!"
 date: 2008-09-25T06:28:00.000Z
-type: event
 aliases:
   - /node/1087
 author: Christopher Head

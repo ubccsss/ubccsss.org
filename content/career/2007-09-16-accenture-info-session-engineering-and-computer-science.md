@@ -1,7 +1,6 @@
 ---
 title: "Accenture Info Session – Engineering & Computer Science"
 date: 2007-09-16T19:06:00.000Z
-type: event
 aliases:
   - /node/966
 author: Christopher Head

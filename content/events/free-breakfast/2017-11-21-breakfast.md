@@ -1,7 +1,6 @@
 ---
 title: "CSSS Cube Breakfast 2.0"
 date: 2017-12-03T01:20:00.000Z
-type: event
 aliases:
   - /content/csss-cube-breakfast-20
 author: arieljcao

@@ -1,7 +1,6 @@
 ---
 title: "ACM ICPC Tryouts"
 date: 2012-09-20T02:58:00.000Z
-type: event
 aliases:
   - /node/1488
   - /node/1487

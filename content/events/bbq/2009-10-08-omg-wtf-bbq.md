@@ -1,7 +1,6 @@
 ---
 title: "OMGWTFBBQ"
 date: 2009-10-05T21:10:00.000Z
-type: event
 aliases:
   - /node/1263
 author: Christopher Head

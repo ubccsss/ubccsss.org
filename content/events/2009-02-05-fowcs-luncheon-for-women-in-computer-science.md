@@ -1,7 +1,6 @@
 ---
 title: "FoWCS Luncheon for Women in Computer Science"
 date: 2009-02-06T07:10:00.000Z
-type: event
 aliases:
   - /node/1196
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "Electronic Arts - UBC Cognitive Systems Program event"
 date: 2007-01-31T01:44:00.000Z
-type: event
 aliases:
   - /node/696
 author: robf

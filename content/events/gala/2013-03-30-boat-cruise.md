@@ -1,7 +1,6 @@
 ---
 title: "CSSS Annual Year-End Boat Cruise"
 date: 2013-03-20T06:02:00.000Z
-type: event
 aliases:
   - /node/1523
 author: Christopher Head

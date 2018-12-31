@@ -1,7 +1,6 @@
 ---
 title: "Information Session: UBC Master of Management in Operations Research (Wed. Oct 12 @ 12pm)"
 date: 2005-11-25T06:01:00.000Z
-type: event
 aliases:
   - /node/96
 author: rchao

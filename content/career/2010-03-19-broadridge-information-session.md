@@ -1,7 +1,6 @@
 ---
 title: "Broadridge Information Session"
 date: 2010-03-19T19:15:00.000Z
-type: event
 aliases:
   - /node/1345
 author: Christopher Head

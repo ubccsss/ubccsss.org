@@ -1,7 +1,6 @@
 ---
 title: "Tri-mentoring Orientation 2007"
 date: 2007-09-14T21:10:00.000Z
-type: event
 aliases:
   - /node/933
 author: atjia

@@ -1,7 +1,6 @@
 ---
 title: "CS Intramurals Sign-up now!"
 date: 2007-09-28T20:11:00.000Z
-type: post
 aliases:
   - /node/985
 author: atjia

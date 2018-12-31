@@ -1,7 +1,6 @@
 ---
 title: "COGS 200 Poster Event"
 date: 2010-04-11T19:44:00.000Z
-type: event
 aliases:
   - /node/1354
 author: Christopher Head

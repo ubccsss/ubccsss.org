@@ -1,7 +1,6 @@
 ---
 title: "University of Queensland, Australia Information Session"
 date: 2010-05-24T16:55:00.000Z
-type: event
 aliases:
   - /node/1361
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "IBM Campus Tour"
 date: 2005-10-14T07:08:00.000Z
-type: event
 aliases:
   - /node/57
 author: atjia

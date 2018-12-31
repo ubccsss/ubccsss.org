@@ -1,7 +1,6 @@
 ---
 title: "Graduate and Professional Schools 2009"
 date: 2009-03-18T20:38:00.000Z
-type: event
 aliases:
   - /node/1219
 author: Christopher Head

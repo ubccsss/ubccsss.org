@@ -1,7 +1,6 @@
 ---
 title: "Drop-in Résumé Editing Session"
 date: 2010-01-05T18:23:00.000Z
-type: event
 aliases:
   - /node/1288
 author: Christopher Head

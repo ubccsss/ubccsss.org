@@ -1,7 +1,6 @@
 ---
 title: "Darwin Partners Info Session"
 date: 2006-03-26T03:40:00.000Z
-type: event
 aliases:
   - /node/471
 author: dtan

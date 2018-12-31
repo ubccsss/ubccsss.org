@@ -1,7 +1,6 @@
 ---
 title: "Semi-General Annual Meeting + Karaoke Night!"
 date: 2016-11-22T20:38:00.000Z
-type: event
 aliases:
   - /sagm-karaoke-fall-2016
 author: Tristan Rice

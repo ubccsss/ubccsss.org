@@ -1,7 +1,6 @@
 ---
 title: "Shell Canada Info Session"
 date: 2008-09-14T09:47:00.000Z
-type: event
 aliases:
   - /node/1075
 author: Christopher Head

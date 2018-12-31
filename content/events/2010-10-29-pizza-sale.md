@@ -1,7 +1,6 @@
 ---
 title: "CSSS Pizza Sale"
 date: 2010-10-26T22:30:00.000Z
-type: event
 aliases:
   - /node/1402
 author: bertong

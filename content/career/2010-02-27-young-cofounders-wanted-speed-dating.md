@@ -1,7 +1,6 @@
 ---
 title: "Vancouver's First \"Young Co-Founders Wanted\" Speed-dating session"
 date: 2010-02-27T06:41:00.000Z
-type: event
 aliases:
   - /node/1321
 author: Christopher Head

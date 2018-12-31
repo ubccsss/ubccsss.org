@@ -1,7 +1,6 @@
 ---
 title: "HSBC London Info Session"
 date: 2008-09-17T19:27:00.000Z
-type: event
 aliases:
   - /node/1080
 author: Christopher Head

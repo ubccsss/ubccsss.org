@@ -1,6 +1,6 @@
 ---
-title: "Constitution"
-date: 2016-03-17T00:29:00.000Z
+title: Constitution
+date: 2016-03-17
 type: page
 aliases:
   - /club/about/constitution

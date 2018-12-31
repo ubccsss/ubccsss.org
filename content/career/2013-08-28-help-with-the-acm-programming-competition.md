@@ -1,7 +1,6 @@
 ---
 title: "Help with the ACM Programming Competition"
 date: 2013-08-29T03:30:00.000Z
-type: event
 aliases:
   - /node/1499
 author: Christopher Head

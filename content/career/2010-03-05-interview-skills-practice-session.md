@@ -1,7 +1,6 @@
 ---
 title: "Interview Skills Practice Session"
 date: 2010-03-05T22:42:00.000Z
-type: event
 aliases:
   - /node/1332
 author: Christopher Head

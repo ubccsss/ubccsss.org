@@ -1,7 +1,6 @@
 ---
 title: "Lunchtime BBQ"
 date: 2010-09-08T07:11:00.000Z
-type: event
 aliases:
   - /node/1380
 author: bertong

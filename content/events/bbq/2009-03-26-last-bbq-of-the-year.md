@@ -1,7 +1,6 @@
 ---
 title: "Last Barbecue of the Year"
 date: 2009-03-22T19:00:00.000Z
-type: event
 aliases:
   - /node/1232
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "Accenture Info Session (Sept. 29, 2005)"
 date: 2005-09-10T16:52:00.000Z
-type: event
 aliases:
   - /node/38
 author: dtan

@@ -1,7 +1,6 @@
 ---
 title: "Arrived the clothing has"
 date: 2012-10-22T02:07:00.000Z
-type: post
 aliases:
   - /node/307
 author: Christopher Head

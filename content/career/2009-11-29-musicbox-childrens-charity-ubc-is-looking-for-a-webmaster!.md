@@ -1,7 +1,6 @@
 ---
 title: "MusicBox Children's Charity UBC is looking for a webmaster!"
 date: 2009-11-29T09:05:00.000Z
-type: post
 aliases:
   - /node/1282
 author: Christopher Head

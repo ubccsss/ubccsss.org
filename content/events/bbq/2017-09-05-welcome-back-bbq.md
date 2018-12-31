@@ -1,7 +1,6 @@
 ---
 title: "Welcome Back BBQ"
 date: 2017-09-03T04:25:00.000Z
-type: event
 aliases:
   - /content/welcome-back-bbq
 author: Tristan Rice

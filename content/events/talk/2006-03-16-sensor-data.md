@@ -1,7 +1,6 @@
 ---
 title: "Henry Kautz: Understanding Human Behaviour from Sensor Data"
 date: 2012-10-22T05:25:00.000Z
-type: event
 aliases:
   - /node/77
 author: atjia

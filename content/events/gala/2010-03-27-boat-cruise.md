@@ -1,7 +1,6 @@
 ---
 title: "******[C]SSS Year-End Boat Cruise******"
 date: 2010-03-24T02:33:00.000Z
-type: event
 aliases:
   - /node/1338
 author: Eason

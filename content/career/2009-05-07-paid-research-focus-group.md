@@ -1,7 +1,6 @@
 ---
 title: "Paid Research Focus Group"
 date: 2009-05-07T07:04:00.000Z
-type: event
 aliases:
   - /node/1244
 author: Christopher Head

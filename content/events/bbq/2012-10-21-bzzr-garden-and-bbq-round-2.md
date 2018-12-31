@@ -1,7 +1,6 @@
 ---
 title: "Bzzr Garden & BBQ - Round 2"
 date: 2012-10-22T06:45:00.000Z
-type: event
 aliases:
   - /node/365
 author: atjia

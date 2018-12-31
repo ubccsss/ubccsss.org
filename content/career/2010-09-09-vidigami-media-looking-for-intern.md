@@ -1,7 +1,6 @@
 ---
 title: "VIdigami Media looking for intern"
 date: 2010-09-09T07:49:00.000Z
-type: post
 aliases:
   - /node/1385
 author: Christopher Head

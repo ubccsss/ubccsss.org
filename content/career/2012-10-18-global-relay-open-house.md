@@ -1,7 +1,6 @@
 ---
 title: "Global Relay Open House"
 date: 2012-10-19T06:26:00.000Z
-type: event
 aliases:
   - /node/1498
 author: Christopher Head

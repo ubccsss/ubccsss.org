@@ -1,7 +1,6 @@
 ---
 title: "Looking For A Student!"
 date: 2006-02-21T06:09:00.000Z
-type: post
 aliases:
   - /node/449
 author: atjia

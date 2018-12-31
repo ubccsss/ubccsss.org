@@ -1,7 +1,6 @@
 ---
 title: "entrepreneurship@UBC looking for student- and alumni-founded companies"
 date: 2010-07-28T07:29:00.000Z
-type: event
 aliases:
   - /node/1371
 author: Christopher Head

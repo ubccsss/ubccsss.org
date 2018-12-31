@@ -1,7 +1,6 @@
 ---
 title: "Blue Castle Information Session"
 date: 2008-10-06T16:07:00.000Z
-type: event
 aliases:
   - /node/1099
 author: Christopher Head

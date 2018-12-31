@@ -1,7 +1,6 @@
 ---
 title: "Rising Stars of Research 2010"
 date: 2010-03-27T23:19:00.000Z
-type: event
 aliases:
   - /node/1348
 author: Christopher Head

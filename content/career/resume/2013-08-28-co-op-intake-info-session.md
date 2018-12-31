@@ -1,7 +1,6 @@
 ---
 title: "Co-op Intake Info Session"
 date: 2013-08-29T03:47:00.000Z
-type: event
 aliases:
   - /node/1260
 author: Christopher Head

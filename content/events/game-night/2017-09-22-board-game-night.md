@@ -1,7 +1,6 @@
 ---
 title: "CSSS Board Games Night"
 date: 2018-01-13T02:55:00.000Z
-type: event
 aliases:
   - /content/csss-board-games-night-0
 author: arieljcao

@@ -1,7 +1,6 @@
 ---
 title: "Deloitte Enterprise Risk Services Lunch & Learn"
 date: 2006-10-09T07:48:00.000Z
-type: event
 aliases:
   - /node/511
 author: jlo

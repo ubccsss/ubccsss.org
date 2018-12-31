@@ -1,7 +1,6 @@
 ---
 title: "Discover Computer Science at the University of Calgary"
 date: 2012-09-13T03:29:00.000Z
-type: event
 aliases:
   - /node/1483
 author: Christopher Head

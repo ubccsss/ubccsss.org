@@ -1,7 +1,6 @@
 ---
 title: "Ryerson University Technology Conference 2012"
 date: 2012-10-22T00:18:00.000Z
-type: event
 aliases:
   - /node/1486
 author: Christopher Head

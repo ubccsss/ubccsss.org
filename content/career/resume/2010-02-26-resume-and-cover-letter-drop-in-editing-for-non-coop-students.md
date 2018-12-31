@@ -1,7 +1,6 @@
 ---
 title: "Résumé and Cover Letter Drop-in Editing for Non-Coop Students"
 date: 2010-02-27T06:47:00.000Z
-type: event
 aliases:
   - /node/1322
 author: Christopher Head

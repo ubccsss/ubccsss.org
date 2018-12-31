@@ -1,7 +1,6 @@
 ---
 title: "Master's of Digital Media Program Information Session"
 date: 2007-02-21T00:14:00.000Z
-type: event
 aliases:
   - /node/709
 author: robf

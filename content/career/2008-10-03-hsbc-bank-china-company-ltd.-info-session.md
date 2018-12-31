@@ -1,7 +1,6 @@
 ---
 title: "HSBC Bank China Company Ltd. Info Session"
 date: 2008-10-04T05:49:00.000Z
-type: event
 aliases:
   - /node/1097
 author: Christopher Head

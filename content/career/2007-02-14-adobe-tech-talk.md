@@ -1,7 +1,6 @@
 ---
 title: "Adobe Tech Talk"
 date: 2007-02-15T02:15:00.000Z
-type: event
 aliases:
   - /node/701
 author: robf

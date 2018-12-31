@@ -1,7 +1,6 @@
 ---
 title: "Owen Astrachan: The Cruelty of Really Teaching Computer Science Redux"
 date: 2012-10-22T05:22:00.000Z
-type: event
 aliases:
   - /node/73
 author: atjia

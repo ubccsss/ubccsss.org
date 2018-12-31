@@ -1,7 +1,6 @@
 ---
 title: "Eclipse Information and Networking Session"
 date: 2009-02-26T07:57:00.000Z
-type: event
 aliases:
   - /node/1204
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "Annual General Meeting"
 date: 2010-02-05T07:20:00.000Z
-type: event
 aliases:
   - /node/1313
 author: Christopher Head

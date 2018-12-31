@@ -1,7 +1,6 @@
 ---
 title: "Google event by IEEE and VanLUG"
 date: 2017-07-01T18:50:00.000Z
-type: event
 aliases:
   - /node/420
 author: atjia

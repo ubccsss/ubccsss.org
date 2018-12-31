@@ -1,7 +1,6 @@
 ---
 title: "IBM Employment Info Session"
 date: 2017-07-01T18:49:00.000Z
-type: event
 aliases:
   - /node/234
 author: atjia

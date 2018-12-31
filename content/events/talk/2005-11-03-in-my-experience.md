@@ -1,7 +1,6 @@
 ---
 title: "In My Experience"
 date: 2012-10-22T05:26:00.000Z
-type: event
 aliases:
   - /node/195
 author: atjia

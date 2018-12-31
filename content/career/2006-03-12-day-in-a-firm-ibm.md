@@ -1,7 +1,6 @@
 ---
 title: "Day in a Firm @ IBM"
 date: 2006-03-12T11:12:00.000Z
-type: event
 aliases:
   - /node/464
 author: mlee

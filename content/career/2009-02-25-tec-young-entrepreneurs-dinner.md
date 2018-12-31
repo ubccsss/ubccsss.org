@@ -1,7 +1,6 @@
 ---
 title: "TEC Young Entrepreneurs Dinner"
 date: 2009-02-25T18:20:00.000Z
-type: event
 aliases:
   - /node/1202
 author: Christopher Head

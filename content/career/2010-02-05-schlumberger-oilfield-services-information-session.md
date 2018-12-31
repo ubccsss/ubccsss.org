@@ -1,7 +1,6 @@
 ---
 title: "Schlumberger Oilfield Services Information Session"
 date: 2010-02-05T08:08:00.000Z
-type: event
 aliases:
   - /node/1315
 author: Christopher Head

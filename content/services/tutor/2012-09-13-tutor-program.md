@@ -1,7 +1,6 @@
 ---
 title: "Tutoring Program"
 date: 2012-09-13T06:06:00.000Z
-type: post
 aliases:
   - /node/1296
 author: Christopher Head

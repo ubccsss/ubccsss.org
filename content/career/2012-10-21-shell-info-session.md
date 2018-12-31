@@ -1,7 +1,6 @@
 ---
 title: "Shell Info session"
 date: 2012-10-22T05:46:00.000Z
-type: event
 aliases:
   - /node/496
 author: jlo

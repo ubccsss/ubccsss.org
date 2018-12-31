@@ -1,7 +1,6 @@
 ---
 title: "Find a Job Fast!"
 date: 2010-02-27T06:48:00.000Z
-type: event
 aliases:
   - /node/1323
 author: Christopher Head

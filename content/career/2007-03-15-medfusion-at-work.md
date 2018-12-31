@@ -1,7 +1,6 @@
 ---
 title: "MedFusion @ Work"
 date: 2007-03-15T20:03:00.000Z
-type: event
 aliases:
   - /node/721
 author: robf

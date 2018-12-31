@@ -1,7 +1,6 @@
 ---
 title: "Spring Opportunity at UBC"
 date: 2008-12-19T11:29:00.000Z
-type: post
 aliases:
   - /node/1169
 author: Christopher Head

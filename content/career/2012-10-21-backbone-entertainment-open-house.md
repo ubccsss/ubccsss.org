@@ -1,7 +1,6 @@
 ---
 title: "Backbone Entertainment Open House"
 date: 2012-10-22T05:25:00.000Z
-type: event
 aliases:
   - /node/473
 author: atjia

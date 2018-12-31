@@ -1,7 +1,6 @@
 ---
 title: "VSEA VP Finance Position for 2010"
 date: 2010-02-07T20:26:00.000Z
-type: post
 aliases:
   - /node/1318
 author: Christopher Head

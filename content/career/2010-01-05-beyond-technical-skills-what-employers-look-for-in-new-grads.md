@@ -1,7 +1,6 @@
 ---
 title: "Beyond Technical Skills - What Employers Look for In  New Grads"
 date: 2010-01-05T18:24:00.000Z
-type: event
 aliases:
   - /node/1289
 author: Christopher Head

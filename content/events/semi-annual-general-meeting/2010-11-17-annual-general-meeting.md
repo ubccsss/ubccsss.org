@@ -1,7 +1,6 @@
 ---
 title: "The Cube AGM"
 date: 2010-11-15T07:42:00.000Z
-type: event
 aliases:
   - /node/1411
 author: bertong

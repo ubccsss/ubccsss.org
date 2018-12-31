@@ -1,7 +1,6 @@
 ---
 title: "Telus - Find your True Colours"
 date: 2008-09-10T19:38:00.000Z
-type: event
 aliases:
   - /node/1073
 author: atjia

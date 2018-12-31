@@ -1,7 +1,6 @@
 ---
 title: "Tri-mentoring Wrap Up - Call for volunteers"
 date: 2007-03-29T17:32:00.000Z
-type: event
 aliases:
   - /node/727
 author: jlo

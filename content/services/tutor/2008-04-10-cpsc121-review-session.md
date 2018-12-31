@@ -1,7 +1,6 @@
 ---
 title: "CPSC121 Review Session"
 date: 2008-04-11T06:55:00.000Z
-type: event
 aliases:
   - /node/1055
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "Drop-in résumé and cover letter editing session"
 date: 2009-02-26T07:51:00.000Z
-type: event
 aliases:
   - /node/1203
 author: Christopher Head

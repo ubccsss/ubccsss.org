@@ -1,7 +1,6 @@
 ---
 title: "First Year Mixer"
 date: 2018-09-15T00:44:00.000Z
-type: event
 aliases:
   - /content/first-year-mixer
 author: njhu

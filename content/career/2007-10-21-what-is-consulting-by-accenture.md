@@ -1,7 +1,6 @@
 ---
 title: "What is Consulting? - by Accenture"
 date: 2007-10-22T01:05:00.000Z
-type: event
 aliases:
   - /node/1002
 author: atjia

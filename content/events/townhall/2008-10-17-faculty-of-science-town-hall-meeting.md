@@ -1,7 +1,6 @@
 ---
 title: "Faculty of Science Town Hall Meeting"
 date: 2008-10-17T19:22:00.000Z
-type: event
 aliases:
   - /node/1105
 author: Christopher Head

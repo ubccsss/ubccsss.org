@@ -1,7 +1,6 @@
 ---
 title: "CSSS Annual General Meeting (Sept. 22 - 12:30pm)"
 date: 2005-09-21T20:17:00.000Z
-type: event
 aliases:
   - /node/67
 author: rchao

@@ -1,7 +1,6 @@
 ---
 title: "Résumé Writing Workshop"
 date: 2009-09-18T06:16:00.000Z
-type: event
 aliases:
   - /node/1261
 author: Christopher Head

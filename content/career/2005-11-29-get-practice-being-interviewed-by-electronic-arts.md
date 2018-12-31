@@ -1,7 +1,6 @@
 ---
 title: "Get Practice Being Interviewed by Electronic Arts"
 date: 2005-11-29T18:31:00.000Z
-type: event
 aliases:
   - /node/327
 author: dtan

@@ -1,7 +1,6 @@
 ---
 title: "CS Clothing"
 date: 2012-10-22T05:48:00.000Z
-type: event
 aliases:
   - /node/126
 author: nshafiee

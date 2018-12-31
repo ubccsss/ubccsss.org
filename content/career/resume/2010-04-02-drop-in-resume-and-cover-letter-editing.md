@@ -1,7 +1,6 @@
 ---
 title: "Drop In Résumé and Cover Letter Editing"
 date: 2010-04-02T22:48:00.000Z
-type: event
 aliases:
   - /node/1351
 author: Christopher Head

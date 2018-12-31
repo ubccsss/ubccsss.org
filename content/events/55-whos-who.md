@@ -1,7 +1,6 @@
 ---
 title: "Who's Who Contest (Ends Sept 22nd, 2005)"
 date: 2005-09-15T06:05:00.000Z
-type: event
 aliases:
   - /node/55
 author: rchao

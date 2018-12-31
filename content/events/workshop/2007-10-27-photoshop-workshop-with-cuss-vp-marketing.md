@@ -1,7 +1,6 @@
 ---
 title: "Photoshop Workshop with CUS's VP Marketing"
 date: 2007-10-28T03:36:00.000Z
-type: event
 aliases:
   - /node/1007
 author: Christopher Head

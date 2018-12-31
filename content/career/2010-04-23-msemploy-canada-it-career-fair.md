@@ -1,7 +1,6 @@
 ---
 title: "MSEmploy Canada IT Career Fair"
 date: 2010-04-24T00:11:00.000Z
-type: event
 aliases:
   - /node/1357
 author: Christopher Head

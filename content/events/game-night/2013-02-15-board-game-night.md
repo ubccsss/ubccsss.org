@@ -1,7 +1,6 @@
 ---
 title: "CSSS Boardgame night at Reboot Café!"
 date: 2013-02-11T20:51:00.000Z
-type: event
 aliases:
   - /node/1517
 author: Christopher Head

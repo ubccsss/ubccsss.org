@@ -1,7 +1,6 @@
 ---
 title: "UBC Consulting Club Wine & Cheese Gala 2007"
 date: 2017-07-01T18:40:00.000Z
-type: event
 aliases:
   - /node/715
 author: robf

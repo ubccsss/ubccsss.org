@@ -1,7 +1,6 @@
 ---
 title: "Table For Four - Trivia Dinner"
 date: 2017-03-02T02:10:00.000Z
-type: event
 aliases:
   - /content/table-four-trivia-dinner
 author: Tristan Rice

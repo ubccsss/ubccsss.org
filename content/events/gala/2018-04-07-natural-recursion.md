@@ -1,7 +1,6 @@
 ---
 title: "CSSS Presents: The Natural Recursion"
 date: 2018-03-22T05:25:00.000Z
-type: event
 aliases:
   - /content/csss-presents-natural-recursion
 author: arieljcao

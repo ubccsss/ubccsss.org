@@ -23,15 +23,17 @@ async function getFiles(folder) {
     return files.filter(Boolean);
 }
 
+const year = process.argv[2]
+
 async function renameFiles(folder) {
     const files = await getFiles(join(__dirname, folder));
     await Promise.all(
         files.map(async path => {
             const { dir, name, ext } = parse(path);
-            const newName = `newsletter-${name}`;
+            const newName = `${year}-election-${name}`;
             rename(path, format({ dir, name: newName, ext }));
         })
     );
 }
 
-renameFiles('content/posts/newsletters').catch(console.error);
+renameFiles(`content/posts/election/${year}`).catch(console.error);

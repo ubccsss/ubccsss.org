@@ -1,7 +1,6 @@
 ---
 title: "Trivia Night"
 date: 2012-02-02T07:54:00.000Z
-type: event
 aliases:
   - /node/1465
 author: Christopher Head

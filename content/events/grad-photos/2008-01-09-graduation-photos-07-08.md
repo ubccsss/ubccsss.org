@@ -1,7 +1,6 @@
 ---
 title: "Graduation Photos 07-08"
 date: 2008-01-09T22:22:00.000Z
-type: post
 aliases:
   - /node/1005
 author: atjia

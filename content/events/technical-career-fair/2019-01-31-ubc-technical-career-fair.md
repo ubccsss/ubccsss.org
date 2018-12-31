@@ -1,7 +1,6 @@
 ---
 title: "UBC Technical Career Fair 2019"
 date: 2019-01-31T03:00:00.000Z
-type: event
 aliases:
   - /content/ubc-technical-career-fair-2019
 author: Tiger Oakes

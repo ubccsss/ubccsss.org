@@ -1,7 +1,6 @@
 ---
 title: "Modernistic Enterprises looking for a mobile application developer"
 date: 2010-08-17T06:10:00.000Z
-type: post
 aliases:
   - /node/1372
 author: Christopher Head

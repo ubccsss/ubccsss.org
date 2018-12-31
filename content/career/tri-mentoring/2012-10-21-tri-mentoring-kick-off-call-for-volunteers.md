@@ -1,7 +1,6 @@
 ---
 title: "Tri-mentoring Kick Off - Call for Volunteers"
 date: 2012-10-22T05:51:00.000Z
-type: event
 aliases:
   - /node/498
 author: jlo

@@ -1,7 +1,6 @@
 ---
 title: "We have a winner!"
 date: 2012-10-21T22:34:00.000Z
-type: post
 aliases:
   - /node/10
 author: Christopher Head

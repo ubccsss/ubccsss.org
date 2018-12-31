@@ -1,7 +1,6 @@
 ---
 title: "OzTREKK Study in Australia Fair"
 date: 2013-01-24T06:08:00.000Z
-type: event
 aliases:
   - /node/1511
 author: Christopher Head

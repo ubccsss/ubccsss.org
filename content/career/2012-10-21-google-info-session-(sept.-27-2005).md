@@ -1,7 +1,6 @@
 ---
 title: "Google Info Session (Sept. 27, 2005)"
 date: 2012-10-22T05:20:00.000Z
-type: event
 aliases:
   - /node/40
 author: rchao

@@ -1,7 +1,6 @@
 ---
 title: "Google Breakfast"
 date: 2007-11-01T00:30:00.000Z
-type: event
 aliases:
   - /node/1008
 author: atjia

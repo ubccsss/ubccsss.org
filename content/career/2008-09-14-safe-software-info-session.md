@@ -1,7 +1,6 @@
 ---
 title: "Safe Software Info Session"
 date: 2008-09-14T09:45:00.000Z
-type: event
 aliases:
   - /node/1074
 author: Christopher Head

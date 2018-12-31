@@ -1,7 +1,6 @@
 ---
 title: "Get Into Research 2008"
 date: 2008-11-02T18:22:00.000Z
-type: event
 aliases:
   - /node/1116
 author: Christopher Head

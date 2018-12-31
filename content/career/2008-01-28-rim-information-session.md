@@ -1,7 +1,6 @@
 ---
 title: "RIM Information Session"
 date: 2008-01-28T23:02:00.000Z
-type: event
 aliases:
   - /node/1035
 author: atjia

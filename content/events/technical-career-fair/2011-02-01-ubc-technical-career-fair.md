@@ -1,7 +1,6 @@
 ---
 title: "Technical Career Fair 2011"
 date: 2011-01-26T23:07:00.000Z
-type: event
 aliases:
   - /node/1423
 author: bertong

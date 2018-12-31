@@ -1,7 +1,6 @@
 ---
 title: "Co-op Focus Group"
 date: 2007-01-31T07:22:00.000Z
-type: event
 aliases:
   - /node/697
 author: robf

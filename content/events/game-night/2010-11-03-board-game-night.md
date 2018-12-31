@@ -1,7 +1,6 @@
 ---
 title: "Board Game Night"
 date: 2010-11-03T22:19:00.000Z
-type: post
 aliases:
   - /node/1408
 author: bertong

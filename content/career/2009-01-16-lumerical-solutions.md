@@ -1,7 +1,6 @@
 ---
 title: "Lumerical Solutions"
 date: 2009-01-16T17:27:00.000Z
-type: post
 aliases:
   - /node/1182
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "IBM Info Session"
 date: 2008-01-17T02:39:00.000Z
-type: event
 aliases:
   - /node/1029
 author: Christopher Head

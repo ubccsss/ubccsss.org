@@ -1,7 +1,6 @@
 ---
 title: "T-shirt Logo Design Contest"
 date: 2008-11-11T05:18:00.000Z
-type: event
 aliases:
   - /node/1071
 author: atjia

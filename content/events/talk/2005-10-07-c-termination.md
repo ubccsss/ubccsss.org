@@ -1,7 +1,6 @@
 ---
 title: "Byron Cook: Automatically Proving the Termination of C Programs"
 date: 2012-10-22T05:22:00.000Z
-type: event
 aliases:
   - /node/114
 author: atjia

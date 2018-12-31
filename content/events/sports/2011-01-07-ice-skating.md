@@ -1,7 +1,6 @@
 ---
 title: "Ice Skating (CS Get Fit!)"
 date: 2011-01-04T16:33:00.000Z
-type: event
 aliases:
   - /node/1418
 author: bertong

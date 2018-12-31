@@ -1,7 +1,6 @@
 ---
 title: "Campus-Wide Career Fair"
 date: 2006-10-03T22:33:00.000Z
-type: event
 aliases:
   - /node/500
 author: hybrid11

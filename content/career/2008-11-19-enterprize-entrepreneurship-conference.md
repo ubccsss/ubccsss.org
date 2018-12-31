@@ -1,7 +1,6 @@
 ---
 title: "Enterprize Entrepreneurship conference"
 date: 2008-11-19T19:16:00.000Z
-type: event
 aliases:
   - /node/1159
 author: atjia

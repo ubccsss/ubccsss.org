@@ -1,7 +1,6 @@
 ---
 title: "NSERC application review session"
 date: 2010-09-09T07:53:00.000Z
-type: event
 aliases:
   - /node/1386
 author: Christopher Head

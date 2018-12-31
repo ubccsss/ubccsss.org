@@ -1,7 +1,6 @@
 ---
 title: "Google Information Session"
 date: 2017-07-01T18:48:00.000Z
-type: event
 aliases:
   - /node/478
 author: Christopher Head

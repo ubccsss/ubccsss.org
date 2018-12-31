@@ -1,7 +1,6 @@
 ---
 title: "WebCT Info Session"
 date: 2012-10-22T05:27:00.000Z
-type: event
 aliases:
   - /node/412
 author: atjia

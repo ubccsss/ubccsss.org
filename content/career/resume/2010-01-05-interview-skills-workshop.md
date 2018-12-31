@@ -1,7 +1,6 @@
 ---
 title: "Interview Skills Workshop"
 date: 2010-01-05T18:27:00.000Z
-type: event
 aliases:
   - /node/1290
 author: Christopher Head

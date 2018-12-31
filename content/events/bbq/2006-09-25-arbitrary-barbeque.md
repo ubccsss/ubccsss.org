@@ -1,7 +1,6 @@
 ---
 title: "Arbitrary Barbeque"
 date: 2006-09-25T21:40:00.000Z
-type: event
 aliases:
   - /node/494
 author: atjia

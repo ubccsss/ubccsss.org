@@ -1,7 +1,6 @@
 ---
 title: "Crash Course for Careers"
 date: 2010-04-24T00:01:00.000Z
-type: event
 aliases:
   - /node/1355
 author: Christopher Head

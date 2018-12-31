@@ -1,7 +1,6 @@
 ---
 title: "Transport Canada employer information session"
 date: 2010-03-05T22:43:00.000Z
-type: event
 aliases:
   - /node/1333
 author: Christopher Head

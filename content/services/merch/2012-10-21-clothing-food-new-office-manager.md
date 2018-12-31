@@ -1,7 +1,6 @@
 ---
 title: "Clothing, food, and new office manager"
 date: 2012-10-21T22:35:00.000Z
-type: post
 aliases:
   - /node/196
 author: Christopher Head

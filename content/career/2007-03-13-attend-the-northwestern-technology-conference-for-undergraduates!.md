@@ -1,7 +1,6 @@
 ---
 title: "Attend the Northwestern Technology Conference for Undergraduates!"
 date: 2007-03-13T23:21:00.000Z
-type: post
 aliases:
   - /node/719
 author: robf

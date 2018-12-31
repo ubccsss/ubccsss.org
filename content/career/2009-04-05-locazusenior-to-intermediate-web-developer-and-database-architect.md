@@ -1,7 +1,6 @@
 ---
 title: "locazU—Senior to intermediate Web Developer and Database Architect"
 date: 2009-04-06T05:28:00.000Z
-type: post
 aliases:
   - /node/1240
 author: Christopher Head

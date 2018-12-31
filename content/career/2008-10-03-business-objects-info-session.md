@@ -1,7 +1,6 @@
 ---
 title: "Business Objects Info Session"
 date: 2008-10-04T05:51:00.000Z
-type: event
 aliases:
   - /node/1085
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "Perspective from the Industry: What you can do with your CS degree"
 date: 2008-01-24T21:52:00.000Z
-type: event
 aliases:
   - /node/1026
 author: jlo

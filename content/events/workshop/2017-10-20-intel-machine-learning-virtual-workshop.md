@@ -1,7 +1,6 @@
 ---
 title: "Intel Machine Learning Virtual Workshop"
 date: 2017-12-02T08:28:00.000Z
-type: event
 aliases:
   - /content/intel-machine-learning-virtual-workshop
 author: arieljcao
@@ -13,10 +12,10 @@ images:
 
 <p>Interested in Machine Learning? Come to a virtual workshop hosted by Intel Nervana AI Academy to learn more about:</p>
 
-<p>*Fundamentals of Machine Learning/Deep Learning 
+<p>*Fundamentals of Machine Learning/Deep Learning
 *Real life applications
-*Deep learning examples, like Convolutional Neural Networks 
-*How Intel plans on helping developers improve performance of Machine Learning workloads 
+*Deep learning examples, like Convolutional Neural Networks
+*How Intel plans on helping developers improve performance of Machine Learning workloads
 *And more!</p>
 
 <p>There will be a live Intel engineer during the webcast to answer any questions as well as a chance to win prizes! The event is completely free and food will be provided.</p>

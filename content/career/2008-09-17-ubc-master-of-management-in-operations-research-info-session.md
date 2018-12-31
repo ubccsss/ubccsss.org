@@ -1,7 +1,6 @@
 ---
 title: "UBC Master of Management in Operations Research Info Session"
 date: 2008-09-17T19:13:00.000Z
-type: event
 aliases:
   - /node/1079
 author: Christopher Head

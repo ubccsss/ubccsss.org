@@ -1,7 +1,6 @@
 ---
 title: "Masters of Digital Media Information Session"
 date: 2010-02-05T09:43:00.000Z
-type: event
 aliases:
   - /node/1316
 author: Christopher Head

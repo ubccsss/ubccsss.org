@@ -1,7 +1,6 @@
 ---
 title: "TELUS Open House"
 date: 2011-01-12T19:39:00.000Z
-type: event
 aliases:
   - /node/1421
 author: bertong

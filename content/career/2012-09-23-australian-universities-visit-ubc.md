@@ -1,7 +1,6 @@
 ---
 title: "Australian Universities Visit UBC"
 date: 2012-09-23T22:28:00.000Z
-type: event
 aliases:
   - /node/1489
 author: Christopher Head

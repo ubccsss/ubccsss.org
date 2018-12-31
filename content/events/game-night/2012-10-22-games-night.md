@@ -1,7 +1,6 @@
 ---
 title: "Games Night"
 date: 2012-10-22T07:40:00.000Z
-type: event
 aliases:
   - /node/462
 author: dtan

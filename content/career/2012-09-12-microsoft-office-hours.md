@@ -1,7 +1,6 @@
 ---
 title: "Microsoft Office Hours"
 date: 2012-09-12T08:06:00.000Z
-type: event
 aliases:
   - /node/1480
 author: Christopher Head

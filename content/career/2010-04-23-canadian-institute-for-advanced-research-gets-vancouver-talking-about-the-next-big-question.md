@@ -1,7 +1,6 @@
 ---
 title: "Canadian Institute for Advanced Research gets Vancouver talking  about The Next Big Question"
 date: 2010-04-24T00:08:00.000Z
-type: event
 aliases:
   - /node/1356
 author: Christopher Head

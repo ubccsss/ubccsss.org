@@ -1,7 +1,6 @@
 ---
 title: "OpenRoad seeking usability test subjects"
 date: 2012-10-21T23:12:00.000Z
-type: event
 aliases:
   - /node/1482
 author: Christopher Head

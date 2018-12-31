@@ -1,7 +1,6 @@
 ---
 title: "Vancouver Sun Run 2006"
 date: 2012-09-13T06:01:00.000Z
-type: event
 aliases:
   - /node/410
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "CSSS VS ECESS Games Night"
 date: 2017-03-14T18:17:00.000Z
-type: event
 aliases:
   - /content/csss-vs-ecess-games-night
 author: Tristan Rice

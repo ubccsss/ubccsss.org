@@ -1,7 +1,6 @@
 ---
 title: "Trimentoring Orientation"
 date: 2013-08-29T03:47:00.000Z
-type: event
 aliases:
   - /node/1069
 author: Christopher Head

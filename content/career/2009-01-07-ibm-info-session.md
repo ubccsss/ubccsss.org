@@ -1,7 +1,6 @@
 ---
 title: "IBM Info Session"
 date: 2009-01-08T06:36:00.000Z
-type: event
 aliases:
   - /node/1174
 author: Christopher Head

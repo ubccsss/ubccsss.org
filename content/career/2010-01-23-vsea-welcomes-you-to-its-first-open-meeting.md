@@ -1,7 +1,6 @@
 ---
 title: "VSEA welcomes you to its first open meeting"
 date: 2010-01-23T20:03:00.000Z
-type: event
 aliases:
   - /node/1302
 author: Christopher Head

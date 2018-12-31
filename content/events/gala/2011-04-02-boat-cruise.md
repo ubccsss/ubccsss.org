@@ -1,7 +1,6 @@
 ---
 title: "Year End Boat Cruise"
 date: 2011-03-23T17:03:00.000Z
-type: event
 aliases:
   - /node/1452
 author: bertong

@@ -1,7 +1,6 @@
 ---
 title: "Electronic Arts Studio Night"
 date: 2012-10-22T05:14:00.000Z
-type: event
 aliases:
   - /node/112
 author: atjia

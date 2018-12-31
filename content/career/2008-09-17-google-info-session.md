@@ -1,7 +1,6 @@
 ---
 title: "Google Info Session"
 date: 2008-09-17T22:21:00.000Z
-type: event
 aliases:
   - /node/1083
 author: Christopher Head

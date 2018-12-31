@@ -1,7 +1,6 @@
 ---
 title: "Natural Resources Canada Information Session"
 date: 2009-03-18T20:19:00.000Z
-type: event
 aliases:
   - /node/1217
 author: Christopher Head

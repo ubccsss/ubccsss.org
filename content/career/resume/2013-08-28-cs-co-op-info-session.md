@@ -1,7 +1,6 @@
 ---
 title: "CS Co-op Info Session"
 date: 2013-08-29T03:47:00.000Z
-type: event
 aliases:
   - /node/1303
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "Computer Science Tri-mentoring Program Info Session (September 20, 2005)"
 date: 2005-09-08T04:27:00.000Z
-type: event
 aliases:
   - /node/47
 author: mlee

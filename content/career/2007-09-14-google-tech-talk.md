@@ -1,7 +1,6 @@
 ---
 title: "Google Tech Talk"
 date: 2007-09-14T20:54:00.000Z
-type: event
 aliases:
   - /node/944
 author: atjia

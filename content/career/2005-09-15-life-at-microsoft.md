@@ -1,7 +1,6 @@
 ---
 title: "Life at Microsoft"
 date: 2005-09-15T19:39:00.000Z
-type: event
 aliases:
   - /node/59
 author: atjia

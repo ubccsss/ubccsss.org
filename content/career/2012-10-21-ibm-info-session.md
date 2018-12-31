@@ -1,7 +1,6 @@
 ---
 title: "IBM Info Session"
 date: 2012-10-22T05:17:00.000Z
-type: event
 aliases:
   - /node/986
 author: atjia

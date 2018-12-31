@@ -1,7 +1,6 @@
 ---
 title: "2008 Hallowe'en Costume Contest Results"
 date: 2012-10-22T01:55:00.000Z
-type: post
 aliases:
   - /node/1149
 author: Christopher Head

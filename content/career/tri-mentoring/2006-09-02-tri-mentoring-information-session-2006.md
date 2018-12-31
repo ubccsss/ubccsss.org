@@ -1,7 +1,6 @@
 ---
 title: "Tri-Mentoring Information Session 2006"
 date: 2006-09-03T03:59:00.000Z
-type: event
 aliases:
   - /node/479
 author: atjia

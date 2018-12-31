@@ -1,7 +1,6 @@
 ---
 title: "EADS Info Session"
 date: 2010-01-23T20:25:00.000Z
-type: event
 aliases:
   - /node/1306
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "Boardgame Night"
 date: 2010-09-26T21:16:00.000Z
-type: event
 aliases:
   - /node/1394
 author: bertong

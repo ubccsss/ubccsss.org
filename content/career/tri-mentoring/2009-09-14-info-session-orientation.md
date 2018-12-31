@@ -1,7 +1,6 @@
 ---
 title: "Tri-mentoring Info Session and Orientation"
 date: 2009-09-09T06:36:00.000Z
-type: event
 aliases:
   - /node/1254
 author: Christopher Head

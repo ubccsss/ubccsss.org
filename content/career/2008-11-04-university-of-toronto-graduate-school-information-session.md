@@ -1,7 +1,6 @@
 ---
 title: "University of Toronto Graduate School Information Session"
 date: 2008-11-05T06:51:00.000Z
-type: event
 aliases:
   - /node/1127
 author: Christopher Head

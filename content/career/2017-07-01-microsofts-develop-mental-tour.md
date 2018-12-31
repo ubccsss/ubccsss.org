@@ -1,7 +1,6 @@
 ---
 title: "Microsoft's Develop Mental Tour"
 date: 2017-07-01T18:47:00.000Z
-type: event
 aliases:
   - /node/448
 author: dtan

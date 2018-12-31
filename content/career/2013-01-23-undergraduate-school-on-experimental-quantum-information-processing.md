@@ -1,7 +1,6 @@
 ---
 title: "Undergraduate School on Experimental Quantum Information Processing"
 date: 2013-01-24T06:08:00.000Z
-type: event
 aliases:
   - /node/1512
 author: Christopher Head

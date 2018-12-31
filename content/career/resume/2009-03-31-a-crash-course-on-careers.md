@@ -1,7 +1,6 @@
 ---
 title: "A Crash Course on Careers"
 date: 2009-03-31T21:47:00.000Z
-type: event
 aliases:
   - /node/1237
 author: Christopher Head

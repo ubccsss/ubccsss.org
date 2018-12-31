@@ -1,7 +1,6 @@
 ---
 title: "Cube Friday: Show and Play"
 date: 2017-03-09T06:41:00.000Z
-type: event
 aliases:
   - /content/cube-friday-show-and-play
 author: Tristan Rice

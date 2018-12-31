@@ -1,7 +1,6 @@
 ---
 title: "Masters of Digital Media Program"
 date: 2009-03-20T07:00:00.000Z
-type: post
 aliases:
   - /node/1230
 author: Christopher Head

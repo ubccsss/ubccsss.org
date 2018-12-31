@@ -1,7 +1,6 @@
 ---
 title: "UBC Tech Career Fair"
 date: 2013-01-27T06:25:00.000Z
-type: event
 aliases:
   - /node/1514
 author: Christopher Head

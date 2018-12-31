@@ -1,7 +1,6 @@
 ---
 title: "Microsoft Tech Talk"
 date: 2012-10-11T06:34:00.000Z
-type: event
 aliases:
   - /node/1491
 author: Christopher Head

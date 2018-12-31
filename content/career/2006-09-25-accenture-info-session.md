@@ -1,7 +1,6 @@
 ---
 title: "Accenture Info Session"
 date: 2006-09-25T20:30:00.000Z
-type: event
 aliases:
   - /node/492
 author: jlo

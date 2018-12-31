@@ -1,7 +1,6 @@
 ---
 title: "FoWCS Luncheon"
 date: 2007-11-13T08:29:00.000Z
-type: event
 aliases:
   - /node/1016
 author: Christopher Head

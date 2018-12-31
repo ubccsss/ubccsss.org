@@ -1,7 +1,6 @@
 ---
 title: "Work Your BSc: Résumé Rounds for Science Students"
 date: 2008-10-27T02:28:00.000Z
-type: event
 aliases:
   - /node/1117
 author: Christopher Head

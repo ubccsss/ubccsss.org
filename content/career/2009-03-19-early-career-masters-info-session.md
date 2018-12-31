@@ -1,7 +1,6 @@
 ---
 title: "Early Career Masters Info Session"
 date: 2009-03-20T05:49:00.000Z
-type: event
 aliases:
   - /node/1225
 author: Christopher Head

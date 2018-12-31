@@ -1,7 +1,6 @@
 ---
 title: "CSSS BBQ Volunteers Needed!"
 date: 2011-02-24T03:06:00.000Z
-type: post
 aliases:
   - /node/1429
 author: bertong

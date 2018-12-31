@@ -1,7 +1,6 @@
 ---
 title: "Information Technology and Medicine"
 date: 2006-01-07T06:15:00.000Z
-type: event
 aliases:
   - /node/362
 author: atjia

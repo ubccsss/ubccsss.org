@@ -1,7 +1,6 @@
 ---
 title: "Web design club"
 date: 2013-01-26T06:52:00.000Z
-type: post
 aliases:
   - /node/1513
 author: Christopher Head

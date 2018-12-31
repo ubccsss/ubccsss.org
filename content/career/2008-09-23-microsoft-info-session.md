@@ -1,7 +1,6 @@
 ---
 title: "Microsoft Info Session"
 date: 2008-09-23T20:19:00.000Z
-type: event
 aliases:
   - /node/1084
 author: Christopher Head

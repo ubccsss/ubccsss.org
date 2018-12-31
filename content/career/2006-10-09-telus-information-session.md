@@ -1,7 +1,6 @@
 ---
 title: "Telus Information Session"
 date: 2006-10-09T07:50:00.000Z
-type: event
 aliases:
   - /node/488
 author: jlo

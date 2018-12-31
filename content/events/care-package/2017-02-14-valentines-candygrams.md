@@ -1,7 +1,6 @@
 ---
 title: "Valentine's Day Candygrams"
 date: 2017-02-06T21:18:00.000Z
-type: event
 aliases:
   - /content/valentines-day-candygrams
 author: Tristan Rice

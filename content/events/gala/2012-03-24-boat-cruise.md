@@ -1,7 +1,6 @@
 ---
 title: "Year-End Cruise"
 date: 2012-03-15T03:22:00.000Z
-type: event
 aliases:
   - /node/1470
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "CSSS Boat Cruise"
 date: 2008-03-24T18:14:00.000Z
-type: event
 aliases:
   - /node/1048
 author: Christopher Head

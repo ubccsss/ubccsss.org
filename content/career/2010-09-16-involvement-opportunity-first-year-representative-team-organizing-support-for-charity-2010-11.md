@@ -1,7 +1,6 @@
 ---
 title: "Involvement Opportunity - FIRST YEAR REPRESENTATIVE TEAM  - Organizing Support for Charity 2010-11"
 date: 2010-09-16T15:42:00.000Z
-type: post
 aliases:
   - /node/1389
 author: bertong

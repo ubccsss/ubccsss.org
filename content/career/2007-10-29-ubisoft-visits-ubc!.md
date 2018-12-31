@@ -1,7 +1,6 @@
 ---
 title: "Ubisoft visits UBC!"
 date: 2007-10-29T21:38:00.000Z
-type: event
 aliases:
   - /node/1010
 author: atjia

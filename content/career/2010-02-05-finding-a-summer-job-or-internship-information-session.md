@@ -1,7 +1,6 @@
 ---
 title: "Finding a Summer Job or Internship Information Session"
 date: 2010-02-05T19:03:00.000Z
-type: event
 aliases:
   - /node/1317
 author: Christopher Head

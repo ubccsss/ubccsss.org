@@ -1,7 +1,6 @@
 ---
 title: "UBC Technical Career Fair 2017"
 date: 2017-01-24T21:42:00.000Z
-type: event
 aliases:
   - /content/ubc-technical-career-fair-2017
 author: Tristan Rice

@@ -1,7 +1,6 @@
 ---
 title: "HSBC Shanghai Info Session"
 date: 2007-10-16T19:00:00.000Z
-type: event
 aliases:
   - /node/999
 author: atjia

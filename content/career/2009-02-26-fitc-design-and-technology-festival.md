@@ -1,7 +1,6 @@
 ---
 title: "FITC Design and Technology Festival"
 date: 2009-02-26T08:35:00.000Z
-type: event
 aliases:
   - /node/1207
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "An Evening at TELUS Science World for Women in Science, Engineering and Technology"
 date: 2007-02-13T09:04:00.000Z
-type: event
 aliases:
   - /node/708
 author: robf

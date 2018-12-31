@@ -1,7 +1,6 @@
 ---
 title: "IBM Extreme Blue Internship"
 date: 2007-01-09T09:57:00.000Z
-type: post
 aliases:
   - /node/685
 author: robf

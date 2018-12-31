@@ -1,7 +1,6 @@
 ---
 title: "Microsoft's \"Meet the Company\""
 date: 2012-10-22T05:26:00.000Z
-type: event
 aliases:
   - /node/980
 author: atjia

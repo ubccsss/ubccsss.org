@@ -1,0 +1,22 @@
+---
+title: "Corporate Social Responsibility Workshop"
+date: 2009-03-20T06:20:00.000Z
+aliases:
+  - /node/1228
+author: Christopher Head
+images: []
+---
+
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Are you concerned about tomorrow? Do you think sustainability should be one of the top priorities for businesses? TELUS invites you to take part in a unique workshop where speakers give insight into best case practices and practical applications of Corporate Social Responsibility in the business world. This is an opportunity to learn and discuss the top CSR issues businesses face today and learn how they develop strategies to become premier corporate citizens. Share your challenges and learning while networking with business leaders and students.</p>
+<p>Schedule of events:</p>
+<dl>
+<dt>5:30 to 6:00pm</dt>
+<dd>Networking with complimentary refreshments</dd>
+<dt>6:00 to 7:00pm</dt>
+<dd>Interactive workshops (Corporate Social Responsibility: Best Case Practices)</dd>
+<dt>7:00 to 8:00pm</dt>
+<dd>Networking with complimentary refreshments</dd>
+</dl>
+<p>Please RSVP by noon on March 24<sup>th</sup> to <a href="/cdn-cgi/l/email-protection#bcd2ddd8d5dd92d7d5ced7d0ddd2d8fcc8d9d0c9cf92dfd3d1"><span class="__cf_email__" data-cfemail="bbd5dadfd2da95d0d2c9d0d7dad5dffbcfded7cec895d8d4d6">[email&#xA0;protected]</span></a> with your name, university, program, year and membership in any CSR related organization if applicable. Space is limited. Dress code is business casual. Finally, bring any mobile phone to this event for recycling and we&#x2019;ll plant a tree. Plus for every mobile phone you drop off at our event, you will be entered into a random draw for a chance to win a cool prize!</p>
+</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, March 26, 2009 - <span class="date-display-range"><span class="date-display-start">17:30</span> to <span class="date-display-end">20:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">768 Seymour Street, Vancouver</div></div></div>    <footer>
+    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>

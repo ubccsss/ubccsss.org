@@ -1,0 +1,16 @@
+---
+title: "Research Night"
+date: 2007-10-30T08:36:00.000Z
+aliases:
+  - /node/1013
+author: Christopher Head
+images: []
+---
+
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p style="font-size: 1.3em; font-weight: bold;">You are invited!</p>
+<p>Are you considering pursuing an Honours degree or Directed Studies course in Computer Science?</p>
+<p>Come out and learn what types of research other CS Undergrads are doing and how you can get involved.</p>
+<p>Snacks will be provided.</p>
+<p>For more information, see <nobr><a href="http://www.cs.ubc.ca/ugrad/info/planning/OpportunitiesforResearchActivities.shtml">http://www.cs.ubc.ca/ugrad/info/planning/OpportunitiesforResearchActivities.shtml</a></nobr>.</p>
+</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, November 7, 2007 - <span class="date-display-range"><span class="date-display-start">16:00</span> to <span class="date-display-end">18:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Dempster 110</div></div></div>    <footer>
+    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>

@@ -1,7 +1,6 @@
 ---
 title: "Tri-Mentoring Orientation + Info Session"
 date: 2010-09-08T07:25:00.000Z
-type: event
 aliases:
   - /node/1381
 author: bertong

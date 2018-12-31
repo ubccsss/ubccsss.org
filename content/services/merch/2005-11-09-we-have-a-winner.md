@@ -1,7 +1,6 @@
 ---
 title: "We have a winner!"
 date: 2005-11-09T03:08:00.000Z
-type: post
 aliases:
   - /node/125
 author: nshafiee

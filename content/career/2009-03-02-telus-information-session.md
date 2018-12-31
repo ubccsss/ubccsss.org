@@ -1,7 +1,6 @@
 ---
 title: "TELUS Information Session"
 date: 2009-03-02T16:52:00.000Z
-type: event
 aliases:
   - /node/1206
 author: Christopher Head

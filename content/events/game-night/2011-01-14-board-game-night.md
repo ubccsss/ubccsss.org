@@ -1,7 +1,6 @@
 ---
 title: "Board Game NIght"
 date: 2011-01-11T16:31:00.000Z
-type: event
 aliases:
   - /node/1419
 author: bertong

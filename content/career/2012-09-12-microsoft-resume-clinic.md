@@ -1,7 +1,6 @@
 ---
 title: "Microsoft Résumé Clinic"
 date: 2012-09-12T08:08:00.000Z
-type: event
 aliases:
   - /node/1481
 author: Christopher Head

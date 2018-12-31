@@ -1,7 +1,6 @@
 ---
 title: "BigPark on Campus!"
 date: 2008-11-02T18:47:00.000Z
-type: event
 aliases:
   - /node/1122
 author: Christopher Head

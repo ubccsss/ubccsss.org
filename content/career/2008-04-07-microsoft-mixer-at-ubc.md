@@ -1,7 +1,6 @@
 ---
 title: "Microsoft Mixer @ UBC"
 date: 2008-04-07T22:48:00.000Z
-type: event
 aliases:
   - /node/1053
 author: Charles

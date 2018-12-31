@@ -1,7 +1,6 @@
 ---
 title: "Eclipse DemoCamp"
 date: 2013-08-29T03:46:00.000Z
-type: event
 aliases:
   - /node/1367
 author: Christopher Head

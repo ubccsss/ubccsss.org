@@ -1,7 +1,6 @@
 ---
 title: "Hear David Springgay from IBM, Ottawa"
 date: 2012-10-22T05:24:00.000Z
-type: event
 aliases:
   - /node/193
 author: atjia

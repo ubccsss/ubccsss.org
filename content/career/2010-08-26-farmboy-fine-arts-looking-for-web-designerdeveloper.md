@@ -1,7 +1,6 @@
 ---
 title: "Farmboy Fine Arts looking for web designer/developer"
 date: 2010-08-26T07:10:00.000Z
-type: post
 aliases:
   - /node/1376
 author: Christopher Head

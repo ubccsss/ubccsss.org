@@ -1,7 +1,6 @@
 ---
 title: "Steven (Shlomo) Gortler: A Combinatorial Algorithm for Continuous Variational Problems"
 date: 2012-10-22T05:27:00.000Z
-type: event
 aliases:
   - /node/75
 author: atjia

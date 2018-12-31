@@ -1,7 +1,6 @@
 ---
 title: "TELUS INFO SESSION - Find your true colours"
 date: 2009-09-09T06:34:00.000Z
-type: event
 aliases:
   - /node/1248
 author: Christopher Head

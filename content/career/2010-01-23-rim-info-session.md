@@ -1,7 +1,6 @@
 ---
 title: "RIM Info Session"
 date: 2010-01-23T20:26:00.000Z
-type: event
 aliases:
   - /node/1307
 author: Christopher Head

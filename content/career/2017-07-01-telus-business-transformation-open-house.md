@@ -1,7 +1,6 @@
 ---
 title: "TELUS Business Transformation Open House"
 date: 2017-07-01T18:49:00.000Z
-type: event
 aliases:
   - /node/692
 author: robf

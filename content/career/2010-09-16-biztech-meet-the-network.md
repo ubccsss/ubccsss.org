@@ -1,7 +1,6 @@
 ---
 title: "BizTech - Meet the Network"
 date: 2010-09-16T15:46:00.000Z
-type: event
 aliases:
   - /node/1390
 author: bertong

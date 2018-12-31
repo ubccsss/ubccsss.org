@@ -1,7 +1,6 @@
 ---
 title: "Start-Up Career Fair and Launch Party Vancouver 4"
 date: 2012-10-22T06:43:00.000Z
-type: event
 aliases:
   - /node/1060
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "(Second) Trimentoring Orientation"
 date: 2016-03-08T05:57:00.000Z
-type: event
 aliases:
   - /node/93
 author: atjia

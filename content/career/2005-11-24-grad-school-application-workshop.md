@@ -1,7 +1,6 @@
 ---
 title: "Grad School Application Workshop"
 date: 2005-11-25T06:00:00.000Z
-type: event
 aliases:
   - /node/116
 author: rchao

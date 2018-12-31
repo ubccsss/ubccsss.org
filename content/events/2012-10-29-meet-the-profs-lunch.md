@@ -1,7 +1,6 @@
 ---
 title: "Meet The Profs Lunch"
 date: 2013-10-29T05:45:00.000Z
-type: event
 aliases:
   - /node/1532
 author: Christopher Head

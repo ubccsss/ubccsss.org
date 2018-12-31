@@ -1,7 +1,6 @@
 ---
 title: "Presentation Skills Workshop"
 date: 2009-02-19T21:13:00.000Z
-type: event
 aliases:
   - /node/1199
 author: Christopher Head

@@ -1,7 +1,6 @@
 ---
 title: "Business Objects Info Session (Oct 11th, 2005)"
 date: 2005-09-08T17:57:00.000Z
-type: event
 aliases:
   - /node/50
 author: arothbart

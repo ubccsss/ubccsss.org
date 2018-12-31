@@ -1,7 +1,6 @@
 ---
 title: "TELUS Open House"
 date: 2013-09-25T16:48:00.000Z
-type: event
 aliases:
   - /node/1529
 author: Christopher Head

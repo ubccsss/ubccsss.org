@@ -1,7 +1,6 @@
 ---
 title: "CSSS Board Games Night"
 date: 2016-09-21T20:26:00.000Z
-type: event
 aliases:
   - /node/1557
 author: Tristan Rice

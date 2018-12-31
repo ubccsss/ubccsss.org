@@ -1,7 +1,6 @@
 ---
 title: "Web skin design/development position"
 date: 2009-03-02T16:46:00.000Z
-type: post
 aliases:
   - /node/1211
 author: Christopher Head

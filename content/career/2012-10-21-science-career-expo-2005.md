@@ -1,7 +1,6 @@
 ---
 title: "Science Career Expo 2005"
 date: 2012-10-22T05:23:00.000Z
-type: event
 aliases:
   - /node/127
 author: atjia

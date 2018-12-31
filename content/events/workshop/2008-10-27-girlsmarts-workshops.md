@@ -1,7 +1,6 @@
 ---
 title: "GIRLsmarts Workshops"
 date: 2008-10-27T23:10:00.000Z
-type: post
 aliases:
   - /node/1107
 author: Christopher Head

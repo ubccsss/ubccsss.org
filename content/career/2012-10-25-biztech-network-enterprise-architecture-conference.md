@@ -1,7 +1,6 @@
 ---
 title: "BizTech Network Enterprise Architecture Conference"
 date: 2012-10-25T09:01:00.000Z
-type: event
 aliases:
   - /node/1502
 author: Christopher Head

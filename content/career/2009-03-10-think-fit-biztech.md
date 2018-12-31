@@ -1,7 +1,6 @@
 ---
 title: "Think F.I.T. Conference: BizTech’s annual event"
 date: 2009-03-04T00:03:00.000Z
-type: event
 aliases:
   - /node/1212
 author: Christopher Head

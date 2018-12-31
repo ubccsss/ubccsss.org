@@ -1,7 +1,6 @@
 ---
 title: "Co-op Info Session"
 date: 2008-03-19T07:45:00.000Z
-type: event
 aliases:
   - /node/1046
 author: Christopher Head

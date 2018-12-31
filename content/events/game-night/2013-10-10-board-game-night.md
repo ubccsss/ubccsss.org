@@ -1,7 +1,6 @@
 ---
 title: "CSSS Boardgame Night"
 date: 2013-10-10T16:52:00.000Z
-type: event
 aliases:
   - /node/1530
 author: Christopher Head
