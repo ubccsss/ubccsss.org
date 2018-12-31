@@ -1,6 +1,8 @@
 ---
 title: "CS volleyball team"
-date: 2009-01-12T20:48:00.000Z
+date: 2009-01-12
+categories: [Event]
+tags: [Sports]
 aliases:
   - /node/1176
 author: Christopher Head

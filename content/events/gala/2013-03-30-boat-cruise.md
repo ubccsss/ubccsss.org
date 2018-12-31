@@ -1,6 +1,8 @@
 ---
 title: "CSSS Annual Year-End Boat Cruise"
-date: 2013-03-20T06:02:00.000Z
+date: 2013-03-20
+categories: [Event]
+tags: [Year-End Gala]
 aliases:
   - /node/1523
 author: Christopher Head

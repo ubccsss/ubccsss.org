@@ -1,6 +1,7 @@
 ---
 title: "Byte to Eat Photos"
-date: 2010-01-27T09:46:00.000Z
+date: 2010-01-27
+categories: [Event]
 aliases:
   - /node/1311
 author: Christopher Head

@@ -1,6 +1,8 @@
 ---
 title: "Vancouver Sun Run 2006"
-date: 2012-09-13T06:01:00.000Z
+date: 2012-09-13
+categories: [Event]
+tags: [Sports]
 aliases:
   - /node/410
 author: Christopher Head

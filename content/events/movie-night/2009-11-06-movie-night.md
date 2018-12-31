@@ -1,6 +1,8 @@
 ---
 title: "Movie Night!"
-date: 2009-11-06T07:40:00.000Z
+date: 2009-11-06
+categories: [Event]
+tags: [Movie Night]
 aliases:
   - /node/1275
 author: Christopher Head

@@ -1,6 +1,8 @@
 ---
 title: "Intramurals and Tournaments --- CSSS will subsidize you!!!"
-date: 2005-09-20T18:22:00.000Z
+date: 2005-09-20
+categories: [Event]
+tags: [Sports]
 type: page
 aliases:
   - /node/64

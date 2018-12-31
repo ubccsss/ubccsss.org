@@ -1,6 +1,8 @@
 ---
 title: "CSSS: Retro Randomizer Night of Gaming (RRNG)"
-date: 2017-12-03T01:22:00.000Z
+date: 2017-12-03
+categories: [Event]
+tags: [Game Night]
 aliases:
   - /content/csss-retro-randomizer-night-gaming-rrng
 author: arieljcao

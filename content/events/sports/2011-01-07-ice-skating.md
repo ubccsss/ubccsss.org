@@ -1,6 +1,8 @@
 ---
 title: "Ice Skating (CS Get Fit!)"
-date: 2011-01-04T16:33:00.000Z
+date: 2011-01-04
+categories: [Event]
+tags: [Sports]
 aliases:
   - /node/1418
 author: bertong

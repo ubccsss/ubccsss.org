@@ -1,6 +1,8 @@
 ---
 title: "Project Management Workshop"
-date: 2010-01-13T03:47:00.000Z
+date: 2010-01-13
+categories: [Event]
+tags: [Workshop]
 aliases:
   - /node/1298
 author: Christopher Head

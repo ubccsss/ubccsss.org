@@ -1,6 +1,8 @@
 ---
 title: "Valentine's Day Candygrams"
-date: 2017-02-06T21:18:00.000Z
+date: 2017-02-06
+categories: [Event]
+tags: [Care Package]
 aliases:
   - /content/valentines-day-candygrams
 author: Tristan Rice

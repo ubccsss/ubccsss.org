@@ -1,6 +1,8 @@
 ---
 title: "CS^3 presents: (CS)^2 Lan Party"
-date: 2012-10-22T05:18:00.000Z
+date: 2012-10-22
+categories: [Event]
+tags: [Game Night]
 aliases:
   - /node/989
 author: Christopher Head

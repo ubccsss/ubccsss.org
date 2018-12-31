@@ -1,6 +1,8 @@
 ---
 title: "CSSS Presents: The Natural Recursion"
-date: 2018-03-22T05:25:00.000Z
+date: 2018-03-22
+categories: [Event]
+tags: [Year-End Gala]
 aliases:
   - /content/csss-presents-natural-recursion
 author: arieljcao

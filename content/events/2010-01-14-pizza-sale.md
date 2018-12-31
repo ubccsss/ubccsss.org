@@ -1,6 +1,7 @@
 ---
 title: "Pizza Sale"
-date: 2010-01-14T05:05:00.000Z
+date: 2010-01-14
+categories: [Event]
 aliases:
   - /node/1301
 author: Christopher Head

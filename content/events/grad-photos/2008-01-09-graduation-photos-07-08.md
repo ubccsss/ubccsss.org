@@ -1,6 +1,8 @@
 ---
 title: "Graduation Photos 07-08"
-date: 2008-01-09T22:22:00.000Z
+date: 2008-01-09
+categories: [Event]
+tags: [Grad Photos]
 aliases:
   - /node/1005
 author: atjia

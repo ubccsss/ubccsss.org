@@ -1,6 +1,8 @@
 ---
 title: "Geng Lin: Application-aware Networking: Evolution of Network Intelligence"
-date: 2012-10-22T05:23:00.000Z
+date: 2012-10-22
+categories: [Event]
+tags: [Talk]
 aliases:
   - /node/76
 author: atjia

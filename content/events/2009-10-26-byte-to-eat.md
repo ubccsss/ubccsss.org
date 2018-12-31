@@ -1,6 +1,7 @@
 ---
 title: '"Byte to Eat" Food Drive Competition'
-date: 2009-10-26T07:05:00.000Z
+date: 2009-10-26
+categories: [Event]
 aliases:
   - /node/1272
 author: Christopher Head

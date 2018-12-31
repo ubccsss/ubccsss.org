@@ -1,6 +1,8 @@
 ---
 title: "Games Night"
-date: 2012-10-22T07:40:00.000Z
+date: 2012-10-22
+categories: [Event]
+tags: [Game Night]
 aliases:
   - /node/462
 author: dtan

@@ -1,6 +1,8 @@
 ---
 title: "Grad Boat Cruise"
-date: 2012-10-22T05:27:00.000Z
+date: 2012-10-22
+categories: [Event]
+tags: [Year-End Gala]
 aliases:
   - /node/452
 author: dtan

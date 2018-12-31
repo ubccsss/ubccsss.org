@@ -1,6 +1,8 @@
 ---
 title: "Chandu Thekkath: Distributed Storage Systems: Hints for Building them when you can't dodge them"
-date: 2012-10-22T05:20:00.000Z
+date: 2012-10-22
+categories: [Event]
+tags: [Talk]
 aliases:
   - /node/74
 author: atjia

@@ -1,6 +1,8 @@
 ---
 title: "Software Workshops"
-date: 2009-01-23T00:19:00.000Z
+date: 2009-01-23
+categories: [Event]
+tags: [Workshop]
 aliases:
   - /node/1188
 author: Christopher Head

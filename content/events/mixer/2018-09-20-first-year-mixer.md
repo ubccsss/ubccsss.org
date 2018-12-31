@@ -1,6 +1,8 @@
 ---
 title: "First Year Mixer"
-date: 2018-09-15T00:44:00.000Z
+date: 2018-09-15
+categories: [Event]
+tags: [Mixer]
 aliases:
   - /content/first-year-mixer
 author: njhu

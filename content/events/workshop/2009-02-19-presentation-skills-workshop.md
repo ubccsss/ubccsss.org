@@ -1,6 +1,8 @@
 ---
 title: "Presentation Skills Workshop"
-date: 2009-02-19T21:13:00.000Z
+date: 2009-02-19
+categories: [Event]
+tags: [Workshop]
 aliases:
   - /node/1199
 author: Christopher Head

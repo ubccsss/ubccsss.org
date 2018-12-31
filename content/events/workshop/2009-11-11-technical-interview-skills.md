@@ -1,6 +1,8 @@
 ---
 title: "Technical Interview Skills Workshop"
-date: 2009-11-11T02:11:00.000Z
+date: 2009-11-11
+categories: [Event]
+tags: [Workshop]
 aliases:
   - /node/1280
 author: Christopher Head

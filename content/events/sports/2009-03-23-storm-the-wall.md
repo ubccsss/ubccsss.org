@@ -1,6 +1,8 @@
 ---
 title: "Storm the Wall"
-date: 2009-03-23T19:27:00.000Z
+date: 2009-03-23
+categories: [Event]
+tags: [Sports]
 aliases:
   - /node/1231
 author: Christopher Head

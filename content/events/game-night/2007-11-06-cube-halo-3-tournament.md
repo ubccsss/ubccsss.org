@@ -1,6 +1,8 @@
 ---
 title: "Cube Halo 3 Tournament"
-date: 2007-11-06T21:39:00.000Z
+date: 2007-11-06
+categories: [Event]
+tags: [Game Night]
 aliases:
   - /node/1014
 author: Christopher Head

@@ -1,6 +1,8 @@
 ---
 title: "Welcome Back BBQ"
-date: 2010-09-08T00:21:00.000Z
+date: 2010-09-08
+categories: [Event]
+tags: [BBQ]
 aliases:
   - /node/1379
 author: bertong

@@ -1,6 +1,8 @@
 ---
 title: "CSSS Boat Cruise"
-date: 2008-03-24T18:14:00.000Z
+date: 2008-03-24
+categories: [Event]
+tags: [Year-End Gala]
 aliases:
   - /node/1048
 author: Christopher Head

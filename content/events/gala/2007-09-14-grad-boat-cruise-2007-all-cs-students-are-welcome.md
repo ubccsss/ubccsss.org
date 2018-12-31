@@ -1,6 +1,8 @@
 ---
 title: "Grad Boat Cruise 2007- All CS students are welcome!"
-date: 2007-09-14T21:20:00.000Z
+date: 2007-09-14
+categories: [Event]
+tags: [Year-End Gala]
 aliases:
   - /node/728
 author: atjia

@@ -1,6 +1,7 @@
 ---
 title: "Halloween - CSSS Style"
-date: 2010-10-26T22:33:00.000Z
+date: 2010-10-26
+categories: [Event]
 aliases:
   - /node/1403
 author: bertong

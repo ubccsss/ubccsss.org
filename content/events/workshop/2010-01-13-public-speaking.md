@@ -1,6 +1,8 @@
 ---
 title: "Public Speaking 101"
-date: 2010-01-13T03:49:00.000Z
+date: 2010-01-13
+categories: [Event]
+tags: [Workshop]
 aliases:
   - /node/1300
 author: Christopher Head

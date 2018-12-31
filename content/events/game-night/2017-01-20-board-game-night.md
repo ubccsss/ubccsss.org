@@ -1,6 +1,8 @@
 ---
 title: "CSSS Board Games Night"
-date: 2017-01-15T23:00:00.000Z
+date: 2017-01-15
+categories: [Event]
+tags: [Game Night]
 aliases:
   - /content/csss-board-games-night
 author: Tristan Rice

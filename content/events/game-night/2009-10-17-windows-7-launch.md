@@ -1,6 +1,8 @@
 ---
 title: "Windows 7 Launch Party"
-date: 2009-10-17T08:33:00.000Z
+date: 2009-10-17
+categories: [Event]
+tags: [Game Night]
 aliases:
   - /node/1267
 author: Christopher Head

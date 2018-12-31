@@ -1,6 +1,8 @@
 ---
 title: "Board Game Night"
-date: 2010-11-03T22:19:00.000Z
+date: 2010-11-03
+categories: [Event]
+tags: [Game Night]
 aliases:
   - /node/1408
 author: bertong

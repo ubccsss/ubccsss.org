@@ -1,6 +1,7 @@
 ---
 title: "A Byte to Eat"
-date: 2008-12-01T11:28:00.000Z
+date: 2008-12-01
+categories: [Event]
 aliases:
   - /node/1128
 author: Christopher Head

@@ -1,6 +1,7 @@
 ---
 title: "THE H∀UNTING—Halloween Costume Contest"
-date: 2009-10-26T06:50:00.000Z
+date: 2009-10-26
+categories: [Event]
 aliases:
   - /node/1270
 author: Christopher Head

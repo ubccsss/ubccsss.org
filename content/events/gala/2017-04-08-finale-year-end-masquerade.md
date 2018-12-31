@@ -1,6 +1,8 @@
 ---
 title: "final(e){}: A CSSS Year End Masquerade"
-date: 2017-03-15T00:37:00.000Z
+date: 2017-03-15
+categories: [Event]
+tags: [Year-End Gala]
 aliases:
   - /content/finale-csss-year-end-masquerade
 author: Tristan Rice

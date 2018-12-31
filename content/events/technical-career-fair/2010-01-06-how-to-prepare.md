@@ -1,6 +1,8 @@
 ---
 title: "How to Prepare for the Technical Career Fair"
-date: 2010-01-05T18:11:00.000Z
+date: 2010-01-05
+categories: [Event]
+tags: [Technical Career Fair]
 aliases:
   - /node/1286
 author: Christopher Head

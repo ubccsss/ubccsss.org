@@ -1,6 +1,8 @@
 ---
 title: "Foosball Tournament @ the LAN party... November 18th"
-date: 2005-11-16T22:47:00.000Z
+date: 2005-11-16
+categories: [Event]
+tags: [Game Night]
 type: page
 aliases:
   - /node/265

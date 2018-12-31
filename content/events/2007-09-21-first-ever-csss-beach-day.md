@@ -1,6 +1,7 @@
 ---
 title: "First Ever CSSS Beach Day"
-date: 2007-09-22T02:50:00.000Z
+date: 2007-09-22
+categories: [Event]
 aliases:
   - /node/984
 author: atjia

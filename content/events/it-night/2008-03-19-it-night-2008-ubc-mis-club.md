@@ -1,6 +1,8 @@
 ---
 title: "IT Night 2008 - UBC MIS Club"
-date: 2008-03-19T07:50:00.000Z
+date: 2008-03-19
+categories: [Event]
+tags: [IT Night]
 aliases:
   - /node/1047
 author: Christopher Head

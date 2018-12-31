@@ -1,6 +1,7 @@
 ---
 title: "Coming in September"
-date: 2018-09-13T05:46:00.000Z
+date: 2018-09-13
+categories: [Event]
 aliases:
   - /content/coming-september
 author: Tiger Oakes

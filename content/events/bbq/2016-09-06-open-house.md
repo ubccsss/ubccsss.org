@@ -1,6 +1,8 @@
 ---
 title: "CS Department Imagine Day Open House [FREE FOOD]"
-date: 2016-09-05T21:33:00.000Z
+date: 2016-09-05
+categories: [Event]
+tags: [BBQ]
 aliases:
   - /node/1554
 author: Tristan Rice

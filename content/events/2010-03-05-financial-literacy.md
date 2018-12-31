@@ -1,6 +1,7 @@
 ---
 title: "Financial Literacy 101"
-date: 2010-03-05T22:44:00.000Z
+date: 2010-03-05
+categories: [Event]
 aliases:
   - /node/1334
 author: Christopher Head

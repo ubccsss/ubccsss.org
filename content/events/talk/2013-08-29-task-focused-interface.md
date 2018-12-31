@@ -1,6 +1,8 @@
 ---
 title: "Alumni/Industry Lecture: Revolutionizing the Developer's Desktop with the Task-Focused Interface"
-date: 2013-08-29T03:47:00.000Z
+date: 2013-08-29
+categories: [Event]
+tags: [Talk]
 aliases:
   - /node/1293
 author: Christopher Head

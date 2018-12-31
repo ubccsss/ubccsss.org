@@ -1,6 +1,8 @@
 ---
 title: "Rock Climbing"
-date: 2010-11-15T07:52:00.000Z
+date: 2010-11-15
+categories: [Event]
+tags: [Sports]
 aliases:
   - /node/1413
 author: bertong

@@ -1,6 +1,7 @@
 ---
 title: "Department of Computer Science Welcome Event"
-date: 2009-09-09T06:35:00.000Z
+date: 2009-09-09
+categories: [Event]
 aliases:
   - /node/1255
 author: Christopher Head

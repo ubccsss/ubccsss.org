@@ -1,6 +1,8 @@
 ---
 title: "Annual UBC Tech Career Fair"
-date: 2010-01-07T10:44:00.000Z
+date: 2010-01-07
+categories: [Event]
+tags: [Technical Career Fair]
 aliases:
   - /node/1291
 author: Christopher Head

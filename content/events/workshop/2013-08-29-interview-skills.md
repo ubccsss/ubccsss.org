@@ -1,6 +1,8 @@
 ---
 title: "INTERVIEW SKILLS WORKSHOP"
-date: 2013-08-29T03:47:00.000Z
+date: 2013-08-29
+categories: [Event]
+tags: [Workshop]
 aliases:
   - /node/1268
 author: Christopher Head

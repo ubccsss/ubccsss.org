@@ -1,6 +1,8 @@
 ---
 title: "CSSS Cube Breakfast"
-date: 2017-12-03T01:14:00.000Z
+date: 2017-12-03
+categories: [Event]
+tags: [Free Breakfast]
 aliases:
   - /content/csss-cube-breakfast
 author: arieljcao

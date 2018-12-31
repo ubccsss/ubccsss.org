@@ -1,6 +1,8 @@
 ---
 title: "CSSS Doctor Who 50th Anniversary Screening"
-date: 2013-11-25T05:43:00.000Z
+date: 2013-11-25
+categories: [Event]
+tags: [Movie Night]
 aliases:
   - /node/1533
 author: Christopher Head

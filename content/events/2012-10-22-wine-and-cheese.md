@@ -1,6 +1,7 @@
 ---
 title: "CSSS/CSGSA Wine and Cheese"
-date: 2012-10-22T05:28:00.000Z
+date: 2012-10-22
+categories: [Event]
 aliases:
   - /node/219
 author: atjia

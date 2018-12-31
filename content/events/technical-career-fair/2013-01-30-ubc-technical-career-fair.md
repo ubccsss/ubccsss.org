@@ -1,6 +1,8 @@
 ---
 title: "UBC Tech Career Fair"
-date: 2013-01-27T06:25:00.000Z
+date: 2013-01-27
+categories: [Event]
+tags: [Technical Career Fair]
 aliases:
   - /node/1514
 author: Christopher Head

@@ -1,6 +1,8 @@
 ---
 title: "UBC Sailing Club Barbecue Party"
-date: 2010-05-28T07:55:00.000Z
+date: 2010-05-28
+categories: [Event]
+tags: [BBQ]
 aliases:
   - /node/1362
 author: Christopher Head

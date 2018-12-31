@@ -1,6 +1,8 @@
 ---
 title: "Volunteers Needed - UBC Technical Career Fair 2011"
-date: 2011-01-13T04:20:00.000Z
+date: 2011-01-13
+categories: [Event]
+tags: [Technical Career Fair]
 aliases:
   - /node/1422
 author: bertong

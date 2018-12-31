@@ -1,6 +1,8 @@
 ---
 title: "CSSS Movie & Games Night"
-date: 2012-10-22T05:50:00.000Z
+date: 2012-10-22
+categories: [Event]
+tags: [Movie Night]
 aliases:
   - /node/364
 author: Christopher Head

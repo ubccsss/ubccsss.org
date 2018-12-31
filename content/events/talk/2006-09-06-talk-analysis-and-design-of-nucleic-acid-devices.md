@@ -1,6 +1,8 @@
 ---
 title: "Talk - Analysis and Design of Nucleic Acid Devices"
-date: 2006-09-06T18:35:00.000Z
+date: 2006-09-06
+categories: [Event]
+tags: [Talk]
 aliases:
   - /node/484
 author: atjia

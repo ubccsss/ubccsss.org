@@ -1,6 +1,8 @@
 ---
 title: "REC Innertube Water Polo"
-date: 2012-10-21T23:14:00.000Z
+date: 2012-10-21
+categories: [Event]
+tags: [Sports]
 aliases:
   - /node/1110
 author: Christopher Head

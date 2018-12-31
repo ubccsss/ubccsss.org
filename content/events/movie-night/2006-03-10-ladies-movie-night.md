@@ -1,6 +1,8 @@
 ---
 title: "Ladies' Movie Night"
-date: 2006-03-10T13:09:00.000Z
+date: 2006-03-10
+categories: [Event]
+tags: [Movie Night]
 aliases:
     - /node/463
 author: mlee

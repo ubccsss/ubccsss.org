@@ -1,6 +1,8 @@
 ---
 title: "CSSS Board Game Night 2"
-date: 2012-10-21T23:12:00.000Z
+date: 2012-10-21
+categories: [Event]
+tags: [Game Night]
 aliases:
   - /node/1397
 author: Christopher Head

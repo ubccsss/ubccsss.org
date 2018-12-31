@@ -1,6 +1,7 @@
 ---
 title: "Google CS Women's Luncheon"
-date: 2008-09-18T07:39:00.000Z
+date: 2008-09-18
+categories: [Event]
 aliases:
   - /node/1086
 author: Christopher Head

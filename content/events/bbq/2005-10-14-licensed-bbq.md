@@ -1,6 +1,8 @@
 ---
 title: "CSSS Licensed BBQ"
-date: 2005-10-15T21:18:00.000Z
+date: 2005-10-15
+categories: [Event]
+tags: [BBQ]
 aliases:
   - /node/111
 author: cweston

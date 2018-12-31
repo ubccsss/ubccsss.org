@@ -1,6 +1,8 @@
 ---
 title: "Victor Yodaiken: Modularity and real-time programing in RTLinux"
-date: 2017-07-01T18:49:00.000Z
+date: 2017-07-01
+categories: [Event]
+tags: [Talk]
 aliases:
   - /node/121
 author: atjia

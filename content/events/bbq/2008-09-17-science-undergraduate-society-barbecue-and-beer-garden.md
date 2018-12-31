@@ -1,6 +1,8 @@
 ---
 title: "Science Undergraduate Society Barbecue and Beer Garden"
-date: 2008-09-17T19:33:00.000Z
+date: 2008-09-17
+categories: [Event]
+tags: [BBQ]
 aliases:
   - /node/1081
 author: Christopher Head

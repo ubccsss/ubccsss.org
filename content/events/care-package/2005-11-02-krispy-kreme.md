@@ -1,6 +1,8 @@
 ---
 title: "Get your Krispy Kreme's here!"
-date: 2012-10-22T05:25:00.000Z
+date: 2012-10-22
+categories: [Event]
+tags: [Care Package]
 aliases:
   - /node/194
 author: atjia

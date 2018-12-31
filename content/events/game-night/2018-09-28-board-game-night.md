@@ -1,6 +1,8 @@
 ---
 title: "Board Game Night"
-date: 2018-09-13T16:27:00.000Z
+date: 2018-09-13
+categories: [Event]
+tags: [Game Night]
 aliases:
   - /content/board-game-night
 author: njhu

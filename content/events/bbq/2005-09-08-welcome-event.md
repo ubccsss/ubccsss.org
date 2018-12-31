@@ -1,6 +1,8 @@
 ---
 title: "Computer Science Undergraduate Department Welcome Event (September 8, 2005)"
-date: 2005-09-02T03:48:00.000Z
+date: 2005-09-02
+categories: [Event]
+tags: [BBQ]
 aliases:
   - /node/43
 author: mlee

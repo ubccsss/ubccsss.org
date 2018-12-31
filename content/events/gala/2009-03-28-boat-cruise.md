@@ -1,6 +1,8 @@
 ---
 title: "Year-End Cruise"
-date: 2009-03-31T21:31:00.000Z
+date: 2009-03-31
+categories: [Event]
+tags: [Year-End Gala]
 aliases:
   - /node/1214
 author: Christopher Head

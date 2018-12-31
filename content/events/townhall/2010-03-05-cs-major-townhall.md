@@ -1,6 +1,8 @@
 ---
 title: "Townhall Meeting for Computer Science Major/Honours Students"
-date: 2010-03-05T22:44:00.000Z
+date: 2010-03-05
+categories: [Event]
+tags: [Townhall]
 aliases:
   - /node/1324
   - /node/1326

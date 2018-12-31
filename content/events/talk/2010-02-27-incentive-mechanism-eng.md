@@ -1,6 +1,8 @@
 ---
 title: "CS Distinguished Lecture Series: Incentive Mechanism Engineering in the Internet Age"
-date: 2010-02-27T06:55:00.000Z
+date: 2010-02-27
+categories: [Event]
+tags: [Talk]
 aliases:
   - /node/1327
 author: Christopher Head

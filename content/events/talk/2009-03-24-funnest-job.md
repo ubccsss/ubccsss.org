@@ -1,6 +1,8 @@
 ---
 title: "The Funnest Job in the World: A Presentation of Techniques and Technologies Used to Create Pixar's Animated Films"
-date: 2009-03-24T19:51:00.000Z
+date: 2009-03-24
+categories: [Event]
+tags: [Talk]
 aliases:
   - /node/1234
 author: Christopher Head

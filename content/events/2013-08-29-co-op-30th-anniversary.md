@@ -1,6 +1,7 @@
 ---
 title: "UBC Science Co-Op 30th Anniversary Celebration"
-date: 2013-08-29T03:48:00.000Z
+date: 2013-08-29
+categories: [Event]
 aliases:
   - /node/1344
 author: Christopher Head

@@ -1,6 +1,8 @@
 ---
 title: "Start of Term BBQ"
-date: 2012-09-13T06:03:00.000Z
+date: 2012-09-13
+categories: [Event]
+tags: [BBQ]
 aliases:
   - /node/485
 author: Christopher Head

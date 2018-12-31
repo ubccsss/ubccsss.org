@@ -1,6 +1,8 @@
 ---
 title: "Cube Friday: Show and Play"
-date: 2017-03-09T06:41:00.000Z
+date: 2017-03-09
+categories: [Event]
+tags: [Game Night]
 aliases:
   - /content/cube-friday-show-and-play
 author: Tristan Rice

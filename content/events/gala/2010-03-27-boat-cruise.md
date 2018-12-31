@@ -1,6 +1,8 @@
 ---
 title: "******[C]SSS Year-End Boat Cruise******"
-date: 2010-03-24T02:33:00.000Z
+date: 2010-03-24
+categories: [Event]
+tags: [Year-End Gala]
 aliases:
   - /node/1338
 author: Eason

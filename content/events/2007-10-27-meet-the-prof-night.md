@@ -1,6 +1,7 @@
 ---
 title: "Meet the Prof Night"
-date: 2007-10-28T03:33:00.000Z
+date: 2007-10-28
+categories: [Event]
 aliases:
   - /node/1006
 author: Christopher Head

@@ -1,6 +1,8 @@
 ---
 title: "Faculty Talk Featuring Karon MacLean"
-date: 2010-04-02T22:52:00.000Z
+date: 2010-04-02
+categories: [Event]
+tags: [Talk]
 aliases:
   - /node/1352
 author: Christopher Head

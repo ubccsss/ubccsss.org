@@ -1,6 +1,8 @@
 ---
 title: "Bzzr Garden & BBQ - Round 2"
-date: 2012-10-22T06:45:00.000Z
+date: 2012-10-22
+categories: [Event]
+tags: [BBQ]
 aliases:
   - /node/365
 author: atjia

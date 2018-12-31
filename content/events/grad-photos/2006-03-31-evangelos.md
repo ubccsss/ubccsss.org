@@ -1,6 +1,8 @@
 ---
 title: "Grad Photos with Evangelos Photography"
-date: 2006-04-05T23:01:00.000Z
+date: 2006-04-05
+categories: [Event]
+tags: [Grad Photos]
 type: page
 aliases:
   - /node/107

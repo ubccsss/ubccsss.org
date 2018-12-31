@@ -1,6 +1,8 @@
 ---
 title: "Daphne Koller: Probablistic Models for Complex Domains: Cells, Bodies and Webpages"
-date: 2012-10-21T22:59:00.000Z
+date: 2012-10-21
+categories: [Event]
+tags: [Talk]
 aliases:
   - /node/72
 author: Christopher Head

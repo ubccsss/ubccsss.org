@@ -1,6 +1,8 @@
 ---
 title: "Mobile Learning via LIVES—Learning Through Interactive Voice Educational System"
-date: 2010-02-27T06:51:00.000Z
+date: 2010-02-27
+categories: [Event]
+tags: [Talk]
 aliases:
   - /node/1325
 author: Christopher Head

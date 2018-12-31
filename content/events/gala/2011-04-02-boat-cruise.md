@@ -1,6 +1,8 @@
 ---
 title: "Year End Boat Cruise"
-date: 2011-03-23T17:03:00.000Z
+date: 2011-03-23
+categories: [Event]
+tags: [Year-End Gala]
 aliases:
   - /node/1452
 author: bertong

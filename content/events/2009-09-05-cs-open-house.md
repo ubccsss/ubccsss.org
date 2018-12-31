@@ -1,6 +1,7 @@
 ---
 title: "Department of Computer Science Undergraduate Open House"
-date: 2009-09-05T06:37:00.000Z
+date: 2009-09-05
+categories: [Event]
 aliases:
   - /node/1256
 author: Christopher Head

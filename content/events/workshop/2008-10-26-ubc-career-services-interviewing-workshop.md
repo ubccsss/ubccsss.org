@@ -1,6 +1,8 @@
 ---
 title: "UBC Career Services Interviewing Workshop"
-date: 2008-10-27T02:28:00.000Z
+date: 2008-10-27
+categories: [Event]
+tags: [Workshop]
 aliases:
   - /node/1120
 author: Christopher Head

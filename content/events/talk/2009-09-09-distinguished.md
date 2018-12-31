@@ -1,6 +1,8 @@
 ---
 title: "CS Distinguished Lecture"
-date: 2009-09-09T06:42:00.000Z
+date: 2009-09-09
+categories: [Event]
+tags: [Talk]
 aliases:
   - /node/1252
 author: Christopher Head

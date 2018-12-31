@@ -1,6 +1,8 @@
 ---
 title: "CSSS 3rd Movie Night"
-date: 2010-02-27T07:04:00.000Z
+date: 2010-02-27
+categories: [Event]
+tags: [Movie Night]
 aliases:
   - /node/1328
 author: Christopher Head

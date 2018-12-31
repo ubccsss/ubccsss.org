@@ -1,6 +1,8 @@
 ---
 title: "CS Distinguished Lecture Series: Hierarchical Temporal Memory: How a Theory of the Neocortex May  Lead to Truly Intelligent Machines"
-date: 2010-03-05T22:45:00.000Z
+date: 2010-03-05
+categories: [Event]
+tags: [Talk]
 aliases:
   - /node/1336
 author: Christopher Head

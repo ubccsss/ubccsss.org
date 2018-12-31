@@ -1,6 +1,8 @@
 ---
 title: "CSSS Board Games Night"
-date: 2016-09-21T20:26:00.000Z
+date: 2016-09-21
+categories: [Event]
+tags: [Game Night]
 aliases:
   - /node/1557
 author: Tristan Rice

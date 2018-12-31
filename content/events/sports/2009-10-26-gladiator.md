@@ -1,6 +1,8 @@
 ---
 title: "UBC REC TEAM GLADIATOR"
-date: 2009-10-26T06:49:00.000Z
+date: 2009-10-26
+categories: [Event]
+tags: [Sports]
 aliases:
   - /node/1269
 author: Christopher Head

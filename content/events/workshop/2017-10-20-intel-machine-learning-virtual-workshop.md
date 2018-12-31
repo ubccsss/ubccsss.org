@@ -1,6 +1,8 @@
 ---
 title: "Intel Machine Learning Virtual Workshop"
-date: 2017-12-02T08:28:00.000Z
+date: 2017-12-02
+categories: [Event]
+tags: [Workshop]
 aliases:
   - /content/intel-machine-learning-virtual-workshop
 author: arieljcao

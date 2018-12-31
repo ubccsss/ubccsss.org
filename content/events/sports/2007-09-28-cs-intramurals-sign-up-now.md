@@ -1,6 +1,8 @@
 ---
 title: "CS Intramurals Sign-up now!"
-date: 2007-09-28T20:11:00.000Z
+date: 2007-09-28
+categories: [Event]
+tags: [Sports]
 aliases:
   - /node/985
 author: atjia

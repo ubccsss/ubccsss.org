@@ -1,6 +1,7 @@
 ---
 title: "Imagine Cup 2007 Kickoff"
-date: 2017-07-01T18:40:00.000Z
+date: 2017-07-01
+categories: [Event]
 aliases:
   - /node/706
 author: atjia

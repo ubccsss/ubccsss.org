@@ -1,6 +1,7 @@
 ---
 title: "John Demco Learning Centre Renaming Ceremony"
-date: 2008-09-05T21:42:00.000Z
+date: 2008-09-05
+categories: [Event]
 aliases:
   - /node/1068
 author: Christopher Head

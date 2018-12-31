@@ -1,6 +1,8 @@
 ---
 title: "Gladiator Event"
-date: 2006-10-26T08:01:00.000Z
+date: 2006-10-26
+categories: [Event]
+tags: [Sports]
 aliases:
   - /node/516
 author: robf

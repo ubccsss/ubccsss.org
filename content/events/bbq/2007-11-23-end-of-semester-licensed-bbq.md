@@ -1,6 +1,8 @@
 ---
 title: "End of Semester Licensed BBQ"
-date: 2007-11-23T23:56:00.000Z
+date: 2007-11-23
+categories: [Event]
+tags: [BBQ]
 aliases:
   - /node/1017
 author: Christopher Head

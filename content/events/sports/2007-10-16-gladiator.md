@@ -1,6 +1,8 @@
 ---
 title: "Gladiator!"
-date: 2007-10-16T17:25:00.000Z
+date: 2007-10-16
+categories: [Event]
+tags: [Sports]
 aliases:
   - /node/997
 author: atjia

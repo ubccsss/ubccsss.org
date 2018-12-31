@@ -1,6 +1,8 @@
 ---
 title: "Technical Career Fair"
-date: 2007-01-26T21:42:00.000Z
+date: 2007-01-26
+categories: [Event]
+tags: [Technical Career Fair]
 aliases:
   - /node/690
 author: robf

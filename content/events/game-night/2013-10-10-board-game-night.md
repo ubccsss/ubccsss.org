@@ -1,6 +1,8 @@
 ---
 title: "CSSS Boardgame Night"
-date: 2013-10-10T16:52:00.000Z
+date: 2013-10-10
+categories: [Event]
+tags: [Game Night]
 aliases:
   - /node/1530
 author: Christopher Head

@@ -1,6 +1,8 @@
 ---
 title: "UBC Tech Career Fair 2006"
-date: 2016-03-08T05:58:00.000Z
+date: 2016-03-08
+categories: [Event]
+tags: [Technical Career Fair]
 aliases:
   - /node/363
 author: atjia

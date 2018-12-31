@@ -1,6 +1,8 @@
 ---
 title: "Grad Photos at Evangelos"
-date: 2010-12-01T21:19:00.000Z
+date: 2010-12-01
+categories: [Event]
+tags: [Grad Photos]
 aliases:
   - /node/1417
 author: bertong

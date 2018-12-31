@@ -1,6 +1,8 @@
 ---
 title: '"Byte To Eat" Fundraiser: Cranium & Game Boards Night'
-date: 2013-08-29T03:44:00.000Z
+date: 2013-08-29
+categories: [Event]
+tags: [Game Night]
 aliases:
   - /node/1271
 author: Christopher Head

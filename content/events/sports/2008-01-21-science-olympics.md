@@ -1,6 +1,8 @@
 ---
 title: "Science Olympics"
-date: 2008-01-22T07:44:00.000Z
+date: 2008-01-22
+categories: [Event]
+tags: [Sports]
 aliases:
   - /node/1032
 author: Christopher Head

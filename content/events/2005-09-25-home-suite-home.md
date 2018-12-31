@@ -1,6 +1,7 @@
 ---
 title: "Home Suite Home Tutorial"
-date: 2005-09-25T07:34:00.000Z
+date: 2005-09-25
+categories: [Event]
 aliases:
   - /node/94
 author: atjia

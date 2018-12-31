@@ -1,6 +1,7 @@
 ---
 title: "Krispy Kreme sale at Science Week!"
-date: 2012-02-05T20:31:00.000Z
+date: 2012-02-05
+categories: [Event]
 aliases:
   - /node/408
 author: Christopher Head
