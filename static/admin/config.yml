@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: ubccsss/ubccsss.org-experimental
+  squash_merges: true
 
 publish_mode: editorial_workflow
 media_folder: "static/files" # Folder where user uploaded files should go
@@ -17,9 +18,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Publish Date", name: date, widget: date}
+      - {label: Categories, name: categories, widget: list, required: false}
+      - {label: Tags, name: tags, widget: list, required: false}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Images", name: "image", widget: "image", required: false}
+      - {label: Images, name: images, widget: list, required: false, fields: [
+          {label: Image, name: image, widget: image}]}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: event
@@ -30,7 +34,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Publish Date", name: date, widget: date}
       - {label: "Event Start Date", name: "start_date", widget: "datetime"}
       - {label: "Event End Date", name: "end_date", widget: "datetime"}
       - {label: "Blurb", name: "description", widget: "text"}
@@ -54,9 +58,10 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Images", name: "image", widget: "image", required: false}
+      - {label: Images, name: images, widget: list, required: false, fields: [
+          {label: Image, name: image, widget: image}]}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: pages

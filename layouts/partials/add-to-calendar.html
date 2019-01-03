@@ -1,13 +1,12 @@
 {{ $startDate := .Params.start_date | default .Date }}
-{{ $endDate := .Params.end_date | default (time (add .Date.Unix 3600000)) }}
-{{ $dates := delimit (slice (dateFormat "20060102T150405" $startDate) (dateFormat "20060102T150405" $endDate)) "/" }}
-{{ $details := .Description | default .Summary }}
-<a class="btn btn-outline btn-primary" href='http://www.google.com/calendar/event?
+{{ $endDate := .Params.end_date | default (time (add (time $startDate).Unix 36000)) }}
+{{ $dates := delimit (apply (slice $startDate $endDate) "dateFormat" "20060102T150405" ".") "/" }}
+{{ $details := .Plain }}
+<a class="btn btn-outline btn-primary my-3" href='http://www.google.com/calendar/event?
 action=TEMPLATE
 &{{ querify "text" .Title "details" $details "dates" $dates | safeURL }}
 &ctz=Canada/Pacific
-&details={{ .Description }}
-&location={{ partial "address.html" | safeURL }}
+&location={{ partial "address.html" . | safeURL }}
 &trp=false
 &sprop=
 &sprop=name:'
