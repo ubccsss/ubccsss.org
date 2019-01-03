@@ -1,4 +1,5 @@
-<footer class="blog-footer w-100 navbar navbar-dark bg-dark">
+{{ $colorScheme := default "light" .Site.Params.footer.colorScheme }}
+<footer class="blog-footer w-100 navbar navbar-{{ $colorScheme }} bg-{{ $colorScheme }}">
     <div class="text-light container small">
         <div class="about row w-100">
             <img class="col-sm-auto logo-mono" alt="" src="/logo-mono.svg" width="26.3" height="31">
@@ -9,7 +10,7 @@
             </div>
         </div>
         <div class="row w-100 justify-content-between">
-            <p class="col">© 2017 UBC Computer Science Student Society. Page maintained by webmaster@ubccsss.org.</p>
+            <p class="col">© 2019 UBC Computer Science Student Society. Page maintained by webmaster@ubccsss.org.</p>
             <p class="col-sm-auto"><a href="#">{{ i18n "backToTop" }}</a></p>
         </div>
     </div>

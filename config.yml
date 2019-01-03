@@ -43,3 +43,5 @@ params:
   truncate: false
   header:
     colorScheme: dark
+  footer:
+    colorScheme: dark
