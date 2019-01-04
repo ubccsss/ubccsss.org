@@ -17,6 +17,32 @@
 </header>
 <section>
     {{ .Content }}
+
+    <link href="/css/3d-cube.css" rel="stylesheet">
+    <script async defer src="/js/3d-cube.js"></script>
+    <div class="scene">
+        <div class="cube">
+            {{ $cube := .Site.Data.home_cube }}
+            <a class="cubeface" id="cubeface-thecube" href="{{ $cube.top.href }}" title="{{ $cube.top.title }}">
+                <img class="cubeface-img" src="{{ $cube.top.img }}" alt="{{ $cube.top.title }}">
+            </a>
+            <a class="cubeface" id="cubeface-tutorexam" href="{{ $cube.right.href }}" title="{{ $cube.right.title }}">
+                <img class="cubeface-img" src="{{ $cube.right.img }}" alt="{{ $cube.right.title }}">
+            </a>
+            <a class="cubeface" id="cubeface-careerfair" href="{{ $cube.left.href }}" title="{{ $cube.left.title }}">
+                <img class="cubeface-img" src="{{ $cube.left.img }}" alt="{{ $cube.left.title }}">
+            </a>
+            <div class="cubeface" id="cubeface-c">
+                <img class="cubeface-img" src="/3d-cube/side-c.svg" alt="">
+            </div>
+            <div class="cubeface" id="cubeface-s-top">
+                <img class="cubeface-img" src="/3d-cube/side-s-top.svg" alt="">
+            </div>
+            <div class="cubeface" id="cubeface-s-bottom">
+                <img class="cubeface-img" src="/3d-cube/side-s-bottom.svg" alt="">
+            </div>
+        </div>
+    </div>
 </section>
 {{ end }}
 

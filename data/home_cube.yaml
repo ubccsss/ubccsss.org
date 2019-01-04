@@ -1,0 +1,12 @@
+top:
+  href: /cube
+  title: The Cube
+  img: /3d-cube/lounge.jpg
+right:
+  href: /services
+  title: Tutors & Exam Database
+  img: /3d-cube/services.jpg
+left:
+  href: /technical-career-fair
+  title: Career Fair
+  img: /3d-cube/tcf.jpg
