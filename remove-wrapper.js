@@ -22,20 +22,22 @@ async function stripBadHtml(path) {
     let body = input.slice(secondDash + 4).trim();
 
     const $ = cheerio.load(body);
-
     const date = $(field`dates`).text().trim();
     const location = $(field`location`).text().trim();
     const tags = $(field`tags`).map((i, el) => $(el).text().trim()).get();
 
     if (body.includes('<div')) {
-        if (tags.length > 0) {
-            frontMatter += `\ntags: [${tags.join(', ')}]`;
+        if (date) {
+            frontMatter += `\nraw_date: ${date}`;
+        }
+        if (location) {
+            frontMatter += `\nraw_location: ${location}`;
         }
 
         body = turndownService.turndown(body);
-    }
 
-    await writeFile(path, `---\n${frontMatter}\n---\n\n${body}\n`, 'utf8');
+        await writeFile(path, `---\n${frontMatter}\n---\n\n${body}\n`, 'utf8');
+    }
 }
 
 async function main(folder) {

@@ -7,13 +7,30 @@ aliases:
 author: atjia
 images:
   - /files/wineandcheese.gif
+raw_date: Friday, November 25, 2005 - 18:00 to 22:00
+raw_location: CS Undergrad Lounge
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="/files/wineandcheese.gif" align="left" vpsace="5" hspace="5">Who says computer science students aren&apos;t sophisticated?  Coming up is the first ever <strong>Wine and Cheese event</strong>  (And no, we&apos;re not talking about <a href="http://www.winehq.com/">Wine</a>, which imho, is also quite sophisticated too). Tantalize your five senses and don&apos;t miss out.</p>
-<p>If the idea of rubbing shoulders with faculty, and students alike while sipping a stem of Pinot Noir doesn&apos;t appeal to you, consider the cultural enrichment that you&apos;d get knowing that there are more varieties of cheese than Chedder or Mozza.  It&apos;s all the fun of joining the <a href="http://www.ams.ubc.ca/clubs/winetasting">UBC Wine Tasting Club</a> with none of the commitment! ;-)</p>
-<p>Entertainment will be provided by the band &apos;<strong>Lango Lock</strong>&apos; featuring CS undergrad Anthony Lee, and UBC CS graduate Jim.</p>
-<p><strong>Tickets will be on sale for $5.00 at the CSSS office</strong> starting Friday (Nov. 18), <strong>won&apos;t be available at the door</strong>, and are limited in number, so be sure to get yours early! The ticket includes <strong>food and entertainment</strong>, and wine will be for sale by the glass.  Also note that all graduating students who attend will automatically be entered into a draw to <strong>win one of three $70 Gift Certificates with Evangelos Photography</strong>.  Eat, drink, be merry, <em>and</em> save some dough on your grad photos!</p>
-<p>The event is semi-formal, so be sure to break out your nice duds and leave the sweats and lululemons at home.</p>
-<p>This event is brought to you by the Computer Science Students&apos; Society (CSSS) and the Computer Science Graduate Students&apos; Assocation (CSGSA).</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, November 25, 2005 - <span class="date-display-range"><span class="date-display-start">18:00</span> to <span class="date-display-end">22:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">CS Undergrad Lounge</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/social">Social</a></div></div></div>      </footer>
+![](/files/wineandcheese.gif)Who says computer science students aren't sophisticated? Coming up is the first ever **Wine and Cheese event** (And no, we're not talking about [Wine](http://www.winehq.com/), which imho, is also quite sophisticated too). Tantalize your five senses and don't miss out.
+
+If the idea of rubbing shoulders with faculty, and students alike while sipping a stem of Pinot Noir doesn't appeal to you, consider the cultural enrichment that you'd get knowing that there are more varieties of cheese than Chedder or Mozza. It's all the fun of joining the [UBC Wine Tasting Club](http://www.ams.ubc.ca/clubs/winetasting) with none of the commitment! ;-)
+
+Entertainment will be provided by the band '**Lango Lock**' featuring CS undergrad Anthony Lee, and UBC CS graduate Jim.
+
+**Tickets will be on sale for $5.00 at the CSSS office** starting Friday (Nov. 18), **won't be available at the door**, and are limited in number, so be sure to get yours early! The ticket includes **food and entertainment**, and wine will be for sale by the glass. Also note that all graduating students who attend will automatically be entered into a draw to **win one of three $70 Gift Certificates with Evangelos Photography**. Eat, drink, be merry, _and_ save some dough on your grad photos!
+
+The event is semi-formal, so be sure to break out your nice duds and leave the sweats and lululemons at home.
+
+This event is brought to you by the Computer Science Students' Society (CSSS) and the Computer Science Graduate Students' Assocation (CSGSA).
+
+When: 
+
+Friday, November 25, 2005 - 18:00 to 22:00
+
+Where: 
+
+CS Undergrad Lounge
+
+Tags: 
+
+[Social](/social)

@@ -7,43 +7,31 @@ aliases:
   - /node/1017
 author: Christopher Head
 images: []
+raw_date: Friday, November 30, 2007 - 15:00 to 19:00
+raw_location: X-wing Lounge
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Computer Science Students&apos; Society presents a Licensed BBQ to celebrate the end of term!  Come and chill with us one last time before exams and bask in the last of the autumn sunlight!  We&apos;ll have standard BBQ fare.  Alcoholic beverages will be at hand although photo ID will be required - (sorry Eugene) :-(.</p>
-<p>The following will be sold:</p>
-<table border="0" style="clear: left;">
-<tbody><tr>
-<td>Beer</td>
-<td>&#xA0;</td>
-</tr>
-<tr>
-<td>Cider</td>
-<td>&#xA0;</td>
-</tr>
-<tr>
-<td>Sirloin Burgers:</td>
-<td>$2.00</td>
-</tr>
-<tr>
-<td>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;(/w cheese)</td>
-<td>$2.50</td>
-</tr>
-<tr>
-<td>All beef hotdogs:</td>
-<td>$1.00</td>
-</tr>
-<tr>
-<td>Veggie Burgers:</td>
-<td>$2.00</td>
-</tr>
-<tr>
-<td>Pop, Water, Juice:</td>
-<td>$0.50</td>
-</tr>
-<tr>
-<td>Chips:</td>
-<td>$0.50</td>
-</tr>
-</tbody></table>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, November 30, 2007 - <span class="date-display-range"><span class="date-display-start">15:00</span> to <span class="date-display-end">19:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">X-wing Lounge</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/social">Social</a></div></div></div>      </footer>
+The Computer Science Students' Society presents a Licensed BBQ to celebrate the end of term! Come and chill with us one last time before exams and bask in the last of the autumn sunlight! We'll have standard BBQ fare. Alcoholic beverages will be at hand although photo ID will be required - (sorry Eugene) :-(.
+
+The following will be sold:
+
+- Beer
+- Cider
+- Sirloin Burgers: $2.00
+- (/w cheese) $2.50
+- All beef hotdogs: $1.00
+- Veggie Burgers: $2.00
+- Pop, Water, Juice: $0.50
+- Chips: $0.50
+
+When: 
+
+Friday, November 30, 2007 - 15:00 to 19:00
+
+Where: 
+
+X-wing Lounge
+
+Tags: 
+
+[Social](/social)

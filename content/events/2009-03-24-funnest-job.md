@@ -7,11 +7,24 @@ aliases:
   - /node/1234
 author: Christopher Head
 images: []
+raw_date: Friday, March 27, 2009 - 16:00 to 17:30
+raw_location: DMP 110
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Abstract:<br>
-Pixar, recently receiving an Oscar for the movie &apos;WALL-E&apos;, has developed some of the world&apos;s most advanced techniques for generating computer animated feature films.  In this talk I will discuss the research and development that occurs at Pixar and the technologies behind the film production process.  My talk will also demonstrate the wide range of computer science disciplines required to create animated feature films, including software engineering, databases, networks, algorithms, compilers, operating systems, and computer graphics.  Sequences from many of our feature films will be used as a case study for presenting how the various pieces of technology come together to create the final product.</p>
-<p>Speaker biography:<br>
-Wayne Wooten works in the RenderMan Tools group at Pixar Animation Studios in Seattle, developing new rendering software for use on animated feature films.  His film credits include a &apos;A Bug&apos;s Life&apos;, &apos;Toy Story 2&apos;, &apos;Monsters Inc., &apos;Finding Nemo&apos;, &apos;The Incredibles&apos;, &apos;Cars&apos;, &apos;Ratatouille&apos;, and &apos;WALL-E&apos;.  Wayne is currently busy developing new rendering software for Pixar&apos;s next movie, &apos;Up&apos;.  Before joining Pixar, Wayne received his PhD in Computer Science from the Georgia Institute of Technology in 1998.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, March 27, 2009 - <span class="date-display-range"><span class="date-display-start">16:00</span> to <span class="date-display-end">17:30</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">DMP 110</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+Abstract: \
+Pixar, recently receiving an Oscar for the movie 'WALL-E', has developed some of the world's most advanced techniques for generating computer animated feature films. In this talk I will discuss the research and development that occurs at Pixar and the technologies behind the film production process. My talk will also demonstrate the wide range of computer science disciplines required to create animated feature films, including software engineering, databases, networks, algorithms, compilers, operating systems, and computer graphics. Sequences from many of our feature films will be used as a case study for presenting how the various pieces of technology come together to create the final product.
+
+Speaker biography: \
+Wayne Wooten works in the RenderMan Tools group at Pixar Animation Studios in Seattle, developing new rendering software for use on animated feature films. His film credits include a 'A Bug's Life', 'Toy Story 2', 'Monsters Inc., 'Finding Nemo', 'The Incredibles', 'Cars', 'Ratatouille', and 'WALL-E'. Wayne is currently busy developing new rendering software for Pixar's next movie, 'Up'. Before joining Pixar, Wayne received his PhD in Computer Science from the Georgia Institute of Technology in 1998.
+
+When: 
+
+Friday, March 27, 2009 - 16:00 to 17:30
+
+Where: 
+
+DMP 110
+
+Tags: 
+
+[Career](/career)

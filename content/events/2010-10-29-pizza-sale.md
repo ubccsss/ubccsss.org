@@ -6,8 +6,20 @@ aliases:
   - /node/1402
 author: bertong
 images: []
+raw_date: Friday, October 29, 2010 - 13:00 to 15:00
+raw_location: Reboot Cafe
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>We&apos;re selling pizza. It is tasty. Grab some.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, October 29, 2010 - <span class="date-display-range"><span class="date-display-start">13:00</span> to <span class="date-display-end">15:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Reboot Cafe</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/social">Social</a></div></div></div>      </footer>
+We're selling pizza. It is tasty. Grab some.
+
+When: 
+
+Friday, October 29, 2010 - 13:00 to 15:00
+
+Where: 
+
+Reboot Cafe
+
+Tags: 
+
+[Social](/social)

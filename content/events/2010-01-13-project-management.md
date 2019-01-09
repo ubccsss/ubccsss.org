@@ -7,10 +7,24 @@ aliases:
   - /node/1298
 author: Christopher Head
 images: []
+raw_date: Thursday, January 21, 2010 - 17:30 to 19:00
+raw_location: DMP 110
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Speaker: David Hunter (ex-VP at SAP Business Objects)</p>
-<p>This workshop will describe some practical proven techniques for ensuring successful delivery of software development projects. These recommendations are based on Dave&apos;s experience leading many different software development projects around the world during his career with a variety of companies including IBM, Infowave, NGRAIN, and most recently SAP Business Objects.</p>
-<p>Note: This is the same workshop that was given on Thursday, November 12, 2009.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, January 21, 2010 - <span class="date-display-range"><span class="date-display-start">17:30</span> to <span class="date-display-end">19:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">DMP 110</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+Speaker: David Hunter (ex-VP at SAP Business Objects)
+
+This workshop will describe some practical proven techniques for ensuring successful delivery of software development projects. These recommendations are based on Dave's experience leading many different software development projects around the world during his career with a variety of companies including IBM, Infowave, NGRAIN, and most recently SAP Business Objects.
+
+Note: This is the same workshop that was given on Thursday, November 12, 2009.
+
+When: 
+
+Thursday, January 21, 2010 - 17:30 to 19:00
+
+Where: 
+
+DMP 110
+
+Tags: 
+
+[Career](/career)

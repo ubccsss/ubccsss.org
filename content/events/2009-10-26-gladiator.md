@@ -7,10 +7,24 @@ aliases:
   - /node/1269
 author: Christopher Head
 images: []
+raw_date: Wednesday, November 4, 2009 - 18:00 to Thursday, November 5, 2009 - 22:00
+raw_location: Student Recreation Centre
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Come be a part of <a href="http://www.rec.ubc.ca/events/gladiator/">UBC&apos;s Team Gladiator Competition</a>.&#xA0;The CUBE&#xA0;wants to get&#xA0;YOU to be a part of&#xA0;OUR TEAM!&#xA0;This is a team event in which there will be various activities such as racing through an obstacle course,&#xA0;duking&#xA0;it out on a Joust, or navigating through&#xA0;the Colossal&#xA0;Maze.&#xA0; Check out photos at <a href="http://www.rec.ubc.ca/pic-gallery.cfm?ActID=40&amp;path=gladiator&amp;term=0">http://www.rec.ubc.ca/pic-gallery.cfm?ActID=40&amp;path=gladiator&amp;term=0</a>. All teams will be co-ed. This is a great on-campus opportunity to get away from staring blankly at your computer screen and meet other students in the Computer Science faculty. We&#xA0;will compete against other faculties such as Foresty, Math, Engineering, and Arts to name a few.&#xA0;When the other faculties see the CPSC students ready to kick some butt, saying to themselves, &quot;This is&#xA0;madness...,&quot; we will swiftly respond, &quot;....Madness??, THIS! IS! JAVA!!&quot; Please forgive me&#xA0;for my &quot;300&quot; movie rip-off.</p>
-<p>If you&apos;re interested in being part of this fun night out please send an e-mail to <a href="/cdn-cgi/l/email-protection#94e7e4fbe6e0e7d4e0fcf1f7e1f6f1baf7f5">CSSS Sports Representatives Vivianne Barzu and Sukhdeep Parihar</a>&#xA0;with your name, student number,&#xA0;phone number, program year, and best e-mail address to contact you, by midnight on October 25th.
-</p><p>There will be 10 people per team and the cost is $7.50 per person. The precise time and date have not yet been determined; the event will be for 2 hours at either 6 or 8 PM on either the 4<sup>th</sup> or the 5<sup>th</sup>.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-range"><span class="date-display-start">Wednesday, November 4, 2009 - 18:00</span> to <span class="date-display-end">Thursday, November 5, 2009 - 22:00</span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Student Recreation Centre</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/social">Social</a></div></div></div>      </footer>
+Come be a part of [UBC's Team Gladiator Competition](http://www.rec.ubc.ca/events/gladiator/). The CUBE wants to get YOU to be a part of OUR TEAM! This is a team event in which there will be various activities such as racing through an obstacle course, duking it out on a Joust, or navigating through the Colossal Maze.  Check out photos at [http://www.rec.ubc.ca/pic-gallery.cfm?ActID=40&path=gladiator&term=0](http://www.rec.ubc.ca/pic-gallery.cfm?ActID=40&path=gladiator&term=0). All teams will be co-ed. This is a great on-campus opportunity to get away from staring blankly at your computer screen and meet other students in the Computer Science faculty. We will compete against other faculties such as Foresty, Math, Engineering, and Arts to name a few. When the other faculties see the CPSC students ready to kick some butt, saying to themselves, "This is madness...," we will swiftly respond, "....Madness??, THIS! IS! JAVA!!" Please forgive me for my "300" movie rip-off.
+
+If you're interested in being part of this fun night out please send an e-mail to [CSSS Sports Representatives Vivianne Barzu and Sukhdeep Parihar](/cdn-cgi/l/email-protection#94e7e4fbe6e0e7d4e0fcf1f7e1f6f1baf7f5) with your name, student number, phone number, program year, and best e-mail address to contact you, by midnight on October 25th.
+
+There will be 10 people per team and the cost is $7.50 per person. The precise time and date have not yet been determined; the event will be for 2 hours at either 6 or 8 PM on either the 4th or the 5th.
+
+When: 
+
+Wednesday, November 4, 2009 - 18:00 to Thursday, November 5, 2009 - 22:00
+
+Where: 
+
+Student Recreation Centre
+
+Tags: 
+
+[Social](/social)

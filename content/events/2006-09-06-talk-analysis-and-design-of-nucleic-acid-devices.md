@@ -7,11 +7,25 @@ aliases:
   - /node/484
 author: atjia
 images: []
+raw_date: Monday, September 11, 2006 - 16:00 to 17:00
+raw_location: Peter Wall Institute, 6331 Crescent Road, Room 309
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>SPEAKER</strong>: Niles A. Pierce, Applied &amp; Computational Mathematics and Bioengineering California Institute of Technology</p>
-<p><strong>ABSTRACT</strong>:<br>
-DNA and RNA are versatile construction materials.  By appropriately designing the sequence of bases in each strand, synthetic nucleic acid systems can be programmed to self-assemble into complex structures that implement dynamic mechanical tasks.  Motivated by the challenge of encoding arbitrary mechanical function into nucleic acid sequences, we are developing a suite of computational algorithms for analyzing the underlying free energy landscapes that control the behavior of a system.  This talk will focus on new algorithms for predicting the equilibrium properties of an entire test tube of interacting nucleic acid strands.  The utility of the approach will be demonstrated by elucidating the empirical behavior of a new class of instrument-free biosensors that are under development in the lab.</p>
-<p>For more information about the speaker, please see <a href="http://www.acm.caltech.edu/~niles/">http://www.acm.caltech.edu/~niles/</a>. Wine and Cheese reception to follow the talk</p>
-<!--break--></div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Monday, September 11, 2006 - <span class="date-display-range"><span class="date-display-start">16:00</span> to <span class="date-display-end">17:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Peter Wall Institute, 6331 Crescent Road, Room 309</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+**SPEAKER**: Niles A. Pierce, Applied & Computational Mathematics and Bioengineering California Institute of Technology
+
+**ABSTRACT**: \
+DNA and RNA are versatile construction materials. By appropriately designing the sequence of bases in each strand, synthetic nucleic acid systems can be programmed to self-assemble into complex structures that implement dynamic mechanical tasks. Motivated by the challenge of encoding arbitrary mechanical function into nucleic acid sequences, we are developing a suite of computational algorithms for analyzing the underlying free energy landscapes that control the behavior of a system. This talk will focus on new algorithms for predicting the equilibrium properties of an entire test tube of interacting nucleic acid strands. The utility of the approach will be demonstrated by elucidating the empirical behavior of a new class of instrument-free biosensors that are under development in the lab.
+
+For more information about the speaker, please see [http://www.acm.caltech.edu/~niles/](http://www.acm.caltech.edu/~niles/). Wine and Cheese reception to follow the talk
+
+When: 
+
+Monday, September 11, 2006 - 16:00 to 17:00
+
+Where: 
+
+Peter Wall Institute, 6331 Crescent Road, Room 309
+
+Tags: 
+
+[Career](/career)

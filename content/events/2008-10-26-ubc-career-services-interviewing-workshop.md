@@ -7,9 +7,21 @@ aliases:
   - /node/1120
 author: Christopher Head
 images: []
+raw_date: Wednesday, October 29, 2008 - 15:00 to 17:00
+raw_location: Neville Scarfe 209
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Please register here (scroll down to see all workshops):<br>
-<a href="http://www.students.ubc.ca/workshops/careers.cfm">www.students.ubc.ca/workshops/careers.cfm</a>.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, October 29, 2008 - <span class="date-display-range"><span class="date-display-start">15:00</span> to <span class="date-display-end">17:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Neville Scarfe 209</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+Please register here (scroll down to see all workshops): \
+[www.students.ubc.ca/workshops/careers.cfm](http://www.students.ubc.ca/workshops/careers.cfm).
+
+When: 
+
+Wednesday, October 29, 2008 - 15:00 to 17:00
+
+Where: 
+
+Neville Scarfe 209
+
+Tags: 
+
+[Career](/career)

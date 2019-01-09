@@ -7,10 +7,24 @@ aliases:
   - /node/1280
 author: Christopher Head
 images: []
+raw_date: Monday, November 16, 2009 - 17:00 to 18:00
+raw_location: FSC 1005
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Interested in working in IT when you graduate? This workshop will give you tips, tricks, and practice for technical interviews. You&apos;ll learn the IT interview process (and how it differs from other interviews), advance preparation techniques, and technical question answering skills.</p>
-<p>The workshop leader, Sabina Nawaz, worked for Microsoft for 15 years before starting her own business in 2005. Sabina began her career in software development and then worked in a variety of Microsoft Human Resources leadership positions. She has a BA in Computer Science and a M.S. in Computer Systems Engineering.</p>
-<p>Register for this FREE event at <a href="https://secure.students.ubc.ca/workshops/careers.cfm">https://secure.students.ubc.ca/workshops/careers.cfm</a>.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Monday, November 16, 2009 - <span class="date-display-range"><span class="date-display-start">17:00</span> to <span class="date-display-end">18:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">FSC 1005</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+Interested in working in IT when you graduate? This workshop will give you tips, tricks, and practice for technical interviews. You'll learn the IT interview process (and how it differs from other interviews), advance preparation techniques, and technical question answering skills.
+
+The workshop leader, Sabina Nawaz, worked for Microsoft for 15 years before starting her own business in 2005. Sabina began her career in software development and then worked in a variety of Microsoft Human Resources leadership positions. She has a BA in Computer Science and a M.S. in Computer Systems Engineering.
+
+Register for this FREE event at [https://secure.students.ubc.ca/workshops/careers.cfm](https://secure.students.ubc.ca/workshops/careers.cfm).
+
+When: 
+
+Monday, November 16, 2009 - 17:00 to 18:00
+
+Where: 
+
+FSC 1005
+
+Tags: 
+
+[Career](/career)

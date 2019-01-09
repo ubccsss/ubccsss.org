@@ -7,9 +7,22 @@ aliases:
   - /node/1362
 author: Christopher Head
 images: []
+raw_date: Saturday, June 5, 2010 - 20:00
+raw_location: Jericho Sailing Centre, 1300 Discovery Street
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The <a href="http://ubcsailing.org/">UBC Sailing Club</a> is hosting a beach party to kick off the summer. Local band <a href="https://myspace.com/tvheartattack">TV Heart Attack</a>, recently featured on the PEAK Performance Project and Canadian Music Week will be rocking the stage. Brad DJ Winter is back for another season to keep your feet moving by spinning some mean tracks. Experience the ultimate venue located right off the beach overlooking beautiful English Bay. Meet some new people over a BBQ and drinks. This is a party you don&apos;t want to miss. Be a hit with your friends and bring them to party.</p>
-<p><a href="http://brownpapertickets.com/event/111910">Tickets</a> <a href="https://facebook.com/event.php?eid=116660905036612">Facebook Event Page</a></p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, June 5, 2010 - 20:00</span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Jericho Sailing Centre, 1300 Discovery Street</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/social">Social</a></div></div></div>      </footer>
+The [UBC Sailing Club](http://ubcsailing.org/) is hosting a beach party to kick off the summer. Local band [TV Heart Attack](https://myspace.com/tvheartattack), recently featured on the PEAK Performance Project and Canadian Music Week will be rocking the stage. Brad DJ Winter is back for another season to keep your feet moving by spinning some mean tracks. Experience the ultimate venue located right off the beach overlooking beautiful English Bay. Meet some new people over a BBQ and drinks. This is a party you don't want to miss. Be a hit with your friends and bring them to party.
+
+[Tickets](http://brownpapertickets.com/event/111910) [Facebook Event Page](https://facebook.com/event.php?eid=116660905036612)
+
+When: 
+
+Saturday, June 5, 2010 - 20:00
+
+Where: 
+
+Jericho Sailing Centre, 1300 Discovery Street
+
+Tags: 
+
+[Social](/social)

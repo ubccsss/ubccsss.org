@@ -6,16 +6,27 @@ aliases:
   - /node/489
 author: atjia
 images: []
+raw_date: Thursday, September 21, 2006 - 12:30 to 14:00
+raw_location: ICCS X530
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>On Thursday, September 21st between 12:30-2pm <strong>Charles Krzysik</strong> will be offering a tutorial on the use of the Home Suite Home &apos;06 Remote Computing CD. The tutorial will take place in X350 and will include the following topics:</p>
-<ul>
-<li><a href="http://java.sun.com/">Jdk1.5</a> / <a href="https://www.eclipse.org">Eclipse 3.2</a> installation/troubleshooting and common issues.<p></p>
-</li><li><a href="https://www.cygwin.com/">Cygwin</a>/<a href="http://www.tkgate.org/">TkGate</a> setup
-</li><li><a href="https://www.mozilla.com/firefox/">Firefox</a>/<a href="https://www.mozilla.com/thunderbird/">Thunderbird</a> installation/setup to access your CS-Account email from home.
-</li><li>How to <a href="http://www.cs.ubc.ca/ugrad/facilities/windows/handin.shtml">handin</a> your assignments electronically. (issues/how to check submission)
-</li><li>File transfer between home and school (using <a href="http://filezilla.sourceforge.net/">Filezilla</a>)
-</li><li>(optional- depending on time) basic unix commands/tutorial <a href="https://www.vandyke.com/products/securecrt/">Secure CRT</a>
-</li></ul>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, September 21, 2006 - <span class="date-display-range"><span class="date-display-start">12:30</span> to <span class="date-display-end">14:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">ICCS X530</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+On Thursday, September 21st between 12:30-2pm **Charles Krzysik** will be offering a tutorial on the use of the Home Suite Home '06 Remote Computing CD. The tutorial will take place in X350 and will include the following topics:
+
+*   [Jdk1.5](http://java.sun.com/) / [Eclipse 3.2](https://www.eclipse.org) installation/troubleshooting and common issues.
+*   [Cygwin](https://www.cygwin.com/)/[TkGate](http://www.tkgate.org/) setup
+*   [Firefox](https://www.mozilla.com/firefox/)/[Thunderbird](https://www.mozilla.com/thunderbird/) installation/setup to access your CS-Account email from home.
+*   How to [handin](http://www.cs.ubc.ca/ugrad/facilities/windows/handin.shtml) your assignments electronically. (issues/how to check submission)
+*   File transfer between home and school (using [Filezilla](http://filezilla.sourceforge.net/))
+*   (optional- depending on time) basic unix commands/tutorial [Secure CRT](https://www.vandyke.com/products/securecrt/)
+
+When: 
+
+Thursday, September 21, 2006 - 12:30 to 14:00
+
+Where: 
+
+ICCS X530
+
+Tags: 
+
+[Career](/career)

@@ -8,11 +8,9 @@ author: Christopher Head
 images: []
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>From November 10 to 28, the Computer Science Student Society will be<br>
-collecting donations of nonperishable food and money for the Greater<br>
-Vancouver Food Bank. We will be accepting donations in our lounge (ICICS<br>
-X139). Please bring out a can or two of soup or a few dollars and help<br>
-set a great goal for next year&apos;s class to beat while helping out those<br>
-in need!</p>
-</div></div></div>    <footer>
-          </footer>
+From November 10 to 28, the Computer Science Student Society will be
+collecting donations of nonperishable food and money for the Greater
+Vancouver Food Bank. We will be accepting donations in our lounge (ICICS
+X139). Please bring out a can or two of soup or a few dollars and help
+set a great goal for next year's class to beat while helping out those
+in need!

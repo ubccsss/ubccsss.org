@@ -7,8 +7,16 @@ aliases:
   - /node/1380
 author: bertong
 images: []
+raw_date: Friday, September 10, 2010 - 11:00
+raw_location: Outside Reboot/Dempster
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Hey all, for those who couldn&apos;t make Thursday&apos;s BBQ, or just love burgers (and who doesn&apos;t?), the Cube is holding the first of many lunchtime BBQs! We&apos;ll be outside Reboot so stop by when you&apos;re heading out of class and grab a burger.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, September 10, 2010 - 11:00</span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Outside Reboot/Dempster</div></div></div>    <footer>
-          </footer>
+Hey all, for those who couldn't make Thursday's BBQ, or just love burgers (and who doesn't?), the Cube is holding the first of many lunchtime BBQs! We'll be outside Reboot so stop by when you're heading out of class and grab a burger.
+
+When: 
+
+Friday, September 10, 2010 - 11:00
+
+Where: 
+
+Outside Reboot/Dempster

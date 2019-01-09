@@ -10,7 +10,6 @@ author: jbrook
 images: []
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Just a quick note...</p>
-<p>If you want to play in the foosball tournament, you can sign up on the bulletin board outside the cube office, OR at the LAN party on friday. There will be a final showdown, one on one between the winning team to see who gets to take home a brand spankin&apos; new copy of NBA Live &apos;06 for Xbox.</p>
-</div></div></div>    <footer>
-          </footer>
+Just a quick note...
+
+If you want to play in the foosball tournament, you can sign up on the bulletin board outside the cube office, OR at the LAN party on friday. There will be a final showdown, one on one between the winning team to see who gets to take home a brand spankin' new copy of NBA Live '06 for Xbox.

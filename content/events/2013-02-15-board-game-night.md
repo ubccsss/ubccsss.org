@@ -7,17 +7,31 @@ aliases:
   - /node/1517
 author: Christopher Head
 images: []
+raw_date: Friday, February 15, 2013 - 17:00 to 21:00
+raw_location: Reboot Café
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Cube will once again be hosting our bi-weekly board/card game night this Friday in Reboot Caf&#xE9;. We&#x2019;ll be providing some games as usual but you&#x2019;re more than welcome to bring your own games&#x2014;and friends, too!</p>
-<p>Partial List of Games:<br>
-Dominion<br>
-Settlers of Catan<br>
-Bang!<br>
-Ticket to Ride: Europe<br>
-RoboRally<br>
-Citadels<br>
-Munchkin</p>
-<p>P.S. rumor has it there&#x2019;ll be snacks&#x2026;</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, February 15, 2013 - <span class="date-display-range"><span class="date-display-start">17:00</span> to <span class="date-display-end">21:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Reboot Caf&#xE9;</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/social">Social</a></div></div></div>      </footer>
+The Cube will once again be hosting our bi-weekly board/card game night this Friday in Reboot Café. We’ll be providing some games as usual but you’re more than welcome to bring your own games—and friends, too!
+
+Partial List of Games:
+- Dominion
+- Settlers of Catan
+- Bang!
+- Ticket to Ride: Europe
+- RoboRally
+- Citadels
+- Munchkin
+
+P.S. rumor has it there’ll be snacks…
+
+When: 
+
+Friday, February 15, 2013 - 17:00 to 21:00
+
+Where: 
+
+Reboot Café
+
+Tags: 
+
+[Social](/social)

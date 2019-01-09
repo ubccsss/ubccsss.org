@@ -6,7 +6,18 @@ aliases:
   - /node/1344
 author: Christopher Head
 images: []
+raw_date: Wednesday, March 24, 2010 - 12:00 to 15:00
+raw_location: Ladha Science Student Centre
 ---
 
-<div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, March 24, 2010 - <span class="date-display-range"><span class="date-display-start">12:00</span> to <span class="date-display-end">15:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Ladha Science Student Centre</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/social">Social</a></div></div></div>      </footer>
+When: 
+
+Wednesday, March 24, 2010 - 12:00 to 15:00
+
+Where: 
+
+Ladha Science Student Centre
+
+Tags: 
+
+[Social](/social)

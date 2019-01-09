@@ -7,28 +7,41 @@ aliases:
   - /node/728
 author: atjia
 images: []
+raw_date: Thursday, April 5, 2007 - 19:00 to 23:30
+raw_location: 450 Denman St. (North Foot of Denman)
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>It&apos;s finally official. The date for our annual Grad Boat Cruise is <b>Thursday April 5th!</b><br>
-Your friendly CSSS execs have put together another fun filled boat cruise for you.<br>
-So... for $25, you get to spend an awesome evening complete with a first-class<br>
-sit-down dinner on a chartered yacht! As well, a bar will be present for you to buy drinks from!<br>
-Last year&apos;s event went extremely well, and this year, we expect to do even better!<br>
-Of course, all Computer Science students are welcome, it will be a fun event to attend before<br>
-the start of exams! However, we will be giving preference to graduating students (and one guest).<br>
-<b>Tickets are only $25</b> and will be going on sale <b>until Wednesday April 4th!</b><br>
-at the CSSS office in the X-Wing building,in room X139.</p>
-<p><b>Date:</b> Thursday April 5th.<br>
-<b>Boarding Time:</b> 6:00 pm<br>
-<b>Departure Time:</b> 6:30 pm sharp<br>
-<b>Return Time:</b> 10:30 pm<br>
-<b>Pick Up / Drop Off:</b> 450 Denman St. (North Foot of Denman)</p>
-<p>There will be a dinner, a DJ,  and you will be able to buy drinks at the bar.</p>
-<p><b>Menu:</b> Chef Carved Prime Rib Roast Beef, Swiss Potatoes, Vegetarian Penne Pasta in<br>
-Tomato Sauce, Steamed Vegetables, Three Bean Salad, Caesar Salad, Dinner Rolls,<br>
-Assorted Pastries for Dessert, Coffee &amp; Tea</p>
-<p>As well, Evangelo&apos;s photography will be there taking pictures. They will do<br>
-2 5x7&apos;s for $20.00 for people. They will be able to pick up the prints later,<br>
-sometime during exams.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, April 5, 2007 - <span class="date-display-range"><span class="date-display-start">19:00</span> to <span class="date-display-end">23:30</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">450 Denman St. (North Foot of Denman)</div></div></div>    <footer>
-          </footer>
+It's finally official. The date for our annual Grad Boat Cruise is **Thursday April 5th!**
+Your friendly CSSS execs have put together another fun filled boat cruise for you.
+
+So... for $25, you get to spend an awesome evening complete with a first-class
+sit-down dinner on a chartered yacht! As well, a bar will be present for you to buy drinks from!
+Last year's event went extremely well, and this year, we expect to do even better!
+Of course, all Computer Science students are welcome, it will be a fun event to attend before
+the start of exams! However, we will be giving preference to graduating students (and one guest).
+**Tickets are only $25** and will be going on sale **until Wednesday April 4th!**
+at the CSSS office in the X-Wing building,in room X139.
+
+**Date:** Thursday April 5th. \
+**Boarding Time:** 6:00 pm \
+**Departure Time:** 6:30 pm sharp \
+**Return Time:** 10:30 pm \
+**Pick Up / Drop Off:** 450 Denman St. (North Foot of Denman)
+
+There will be a dinner, a DJ, and you will be able to buy drinks at the bar.
+
+**Menu:** Chef Carved Prime Rib Roast Beef, Swiss Potatoes, Vegetarian Penne Pasta in
+Tomato Sauce, Steamed Vegetables, Three Bean Salad, Caesar Salad, Dinner Rolls,
+Assorted Pastries for Dessert, Coffee & Tea
+
+As well, Evangelo's photography will be there taking pictures. They will do
+2 5x7's for $20.00 for people. They will be able to pick up the prints later,
+sometime during exams.
+
+When:
+
+Thursday, April 5, 2007 - 19:00 to 23:30
+
+Where:
+
+450 Denman St. (North Foot of Denman)

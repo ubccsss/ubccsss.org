@@ -28,6 +28,11 @@ menu:
       url: /contact
       weight: -100
 
+frontmatter:
+  date:
+    - ":filename"
+    - ":default"
+
 permalinks:
   post: /:year/:month/:title/
 

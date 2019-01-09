@@ -6,8 +6,20 @@ aliases:
   - /node/1266
 author: Christopher Head
 images: []
+raw_date: Friday, October 23, 2009 - 20:00 to 23:59
+raw_location: Abdul Ladha Science Student Centre
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>CSSS is holding a licensed event, the CSSSwashbuckle! All are invited to have fun! Please bring two pieces of ID to the event. Remember to dress up like a pirate.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, October 23, 2009 - <span class="date-display-range"><span class="date-display-start">20:00</span> to <span class="date-display-end">23:59</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Abdul Ladha Science Student Centre</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/social">Social</a></div></div></div>      </footer>
+CSSS is holding a licensed event, the CSSSwashbuckle! All are invited to have fun! Please bring two pieces of ID to the event. Remember to dress up like a pirate.
+
+When: 
+
+Friday, October 23, 2009 - 20:00 to 23:59
+
+Where: 
+
+Abdul Ladha Science Student Centre
+
+Tags: 
+
+[Social](/social)

@@ -8,27 +8,37 @@ aliases:
 author: arieljcao
 images:
   - /files/Retreo_Randomizer.jpg
+raw_date: Friday, December 1, 2017 - 18:00 to 21:00
+raw_location: DMP 301
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="https://ubccsss.org/files/Retreo_Randomizer.jpg" style="max-width: 100%"></p>
+![](/files/Retreo_Randomizer.jpg)
 
-<p>Join us for a night of chaos and mayhem as we dash through old-school games ranging from the classic to the awful to the straight-up absurd! Compete with your friends to rack up as many points as you can in a short amount of time for good times and prizes, not to mention supporting a good cause - all proceeds from the event go to support Child&apos;s Play charity!</p>
+Join us for a night of chaos and mayhem as we dash through old-school games ranging from the classic to the awful to the straight-up absurd! Compete with your friends to rack up as many points as you can in a short amount of time for good times and prizes, not to mention supporting a good cause - all proceeds from the event go to support Child's Play charity!
 
-<p>[SIGN UP - SPACE IS LIMITED]
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfDdvkaFW4h9LiGtxy8JQ5Koyew5LYO8dJneRKJ4LwTotXMEQ/viewform">Sign Up Here!</a></p>
+#### SIGN UP - SPACE IS LIMITED
+[Sign Up Here!](https://docs.google.com/forms/d/e/1FAIpQLSfDdvkaFW4h9LiGtxy8JQ5Koyew5LYO8dJneRKJ4LwTotXMEQ/viewform)
 
-<p>[COST]
-Admission by donation!</p>
+#### COST
+Admission by donation!
 
-<p>[WHEN]
-Please arrive no later than 6:15! We&apos;ll need time to get everyone set up on their laptops. The event will start at 6:30 SHARP and we don&apos;t want to leave anyone behind!</p>
+#### WHEN
+Please arrive no later than 6:15! We'll need time to get everyone set up on their laptops. The event will start at 6:30 SHARP and we don't want to leave anyone behind!
 
-<p>[WHAT WE BRING]
-- Snacks and drinks
-- A bunch o&apos; prizes
-- All the tools and info you&apos;ll need to get up and running</p>
+#### WHAT WE BRING
+Snacks and drinks - A bunch o' prizes - All the tools and info you'll need to get up and running
 
-<p>[WHAT YOU BRING]
-- A laptop (Any laptop will do!)</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, December 1, 2017 - <span class="date-display-range"><span class="date-display-start">18:00</span> to <span class="date-display-end">21:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">DMP 301</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/social">Social</a></div></div></div>      </footer>
+#### WHAT YOU BRING
+A laptop (Any laptop will do!)
+
+When: 
+
+Friday, December 1, 2017 - 18:00 to 21:00
+
+Where: 
+
+DMP 301
+
+Tags: 
+
+[Social](/social)

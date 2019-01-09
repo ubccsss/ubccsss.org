@@ -17,27 +17,22 @@ images:
   - /files/2010_b2e_9.jpg
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><!--break--><p>All photos are copyright &#xA9; Eason Hu.</p>
-<table border="0" cellpadding="0" cellspacing="10">
-<tbody><tr>
-<td><img src="/files/2010_b2e_1.jpg" width="300" height="400" alt="Table with Byte to Eat poster, donations, and Christmas tree"></td>
-<td><img src="/files/2010_b2e_2.jpg" width="300" height="400" alt="Christmas tree on table"></td>
-</tr>
-<tr>
-<td><img src="/files/2010_b2e_3.jpg" width="300" height="400" alt="Alden Salgado"></td>
-<td><img src="/files/2010_b2e_4.jpg" width="300" height="400" alt="Eason Hu"></td>
-</tr>
-<tr>
-<td><img src="/files/2010_b2e_5.jpg" width="300" height="225" alt="Eason Hu"></td>
-<td><img src="/files/2010_b2e_6.jpg" width="300" height="225" alt="Volunteers"></td>
-</tr>
-<tr>
-<td><img src="/files/2010_b2e_7.jpg" width="300" height="225" alt="Volunteers"></td>
-<td><img src="/files/2010_b2e_8.jpg" width="300" height="225" alt="Table with boxes and Christmas tree"></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="/files/2010_b2e_9.jpg" width="300" height="400" alt="Table with Byte to Eat poster, donations, and Christmas tree"></td>
-</tr>
-</tbody></table>
-</div></div></div>    <footer>
-          </footer>
+All photos are copyright © Eason Hu.
+
+![Table with Byte to Eat poster, donations, and Christmas tree](/files/2010_b2e_1.jpg)
+
+![Christmas tree on table](/files/2010_b2e_2.jpg)
+
+![Alden Salgado](/files/2010_b2e_3.jpg)
+
+![Eason Hu](/files/2010_b2e_4.jpg)
+
+![Eason Hu](/files/2010_b2e_5.jpg)
+
+![Volunteers](/files/2010_b2e_6.jpg)
+
+![Volunteers](/files/2010_b2e_7.jpg)
+
+![Table with boxes and Christmas tree](/files/2010_b2e_8.jpg)
+
+![Table with Byte to Eat poster, donations, and Christmas tree](/files/2010_b2e_9.jpg)

@@ -7,10 +7,24 @@ aliases:
 author: atjia
 images:
   - /files/header_logo.jpg
+raw_date: Thursday, February 15, 2007 - 13:00 to 14:00
+raw_location: Dempster 310
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="/files/header_logo.jpg" align="left" vspace="5" hspace="5">Let&#x2019;s face it &#x2014; the world needs help. The kind of help that happens when you take the top young minds from around the globe and turn them loose on solving the world&#x2019;s toughest problems. That&#x2019;s what the Imagine Cup is all about. This is your chance to innovate and create, show the world what you&#x2019;ve got, and win some serious prizes. Simply put, it&#x2019;s your chance to use the power of technology to change the world&#x2014;and have some fun while you&#x2019;re at it.  Come to see how you can win a trip to Seoul, South Korea in <strong>Microsoft&apos;s 2007 Imagine Cup Kickoff</strong>. Featuring Software Development, Algorithm, AI, IT, Web challenges, and more.</p>
-<p>You can find out more about the Imagine Cup at <a href="http://www.imaginecup.com">http://www.imaginecup.com</a>.  Register with code &quot;UBC&quot; to be counted!</p>
-<p>Pizza and Pop will be provided.  Please RSVP at <a href="/cdn-cgi/l/email-protection#b7daded4c5d8c4d8d1c3f7c3dfd2d4c2d5d299d4d6"><span class="__cf_email__" data-cfemail="2e43474d5c415d41485a6e5a464b4d5b4c4b004d4f">[email&#xA0;protected]</span></a> if you&apos;ll be there! :-)</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, February 15, 2007 - <span class="date-display-range"><span class="date-display-start">13:00</span> to <span class="date-display-end">14:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Dempster 310</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+![](/files/header_logo.jpg)Let’s face it — the world needs help. The kind of help that happens when you take the top young minds from around the globe and turn them loose on solving the world’s toughest problems. That’s what the Imagine Cup is all about. This is your chance to innovate and create, show the world what you’ve got, and win some serious prizes. Simply put, it’s your chance to use the power of technology to change the world—and have some fun while you’re at it. Come to see how you can win a trip to Seoul, South Korea in **Microsoft's 2007 Imagine Cup Kickoff**. Featuring Software Development, Algorithm, AI, IT, Web challenges, and more.
+
+You can find out more about the Imagine Cup at [http://www.imaginecup.com](http://www.imaginecup.com). Register with code "UBC" to be counted!
+
+Pizza and Pop will be provided. Please RSVP at [\[email protected\]](/cdn-cgi/l/email-protection#b7daded4c5d8c4d8d1c3f7c3dfd2d4c2d5d299d4d6) if you'll be there! :-)
+
+When: 
+
+Thursday, February 15, 2007 - 13:00 to 14:00
+
+Where: 
+
+Dempster 310
+
+Tags: 
+
+[Career](/career)

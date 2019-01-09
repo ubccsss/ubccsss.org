@@ -8,12 +8,20 @@ aliases:
 author: arieljcao
 images:
   - /files/26239200_1783018025055320_7185707354782333276_n.jpg
+raw_date: Friday, January 12, 2018 - 18:00 to 20:00
+raw_location: Pacific Poke Cafe/Old Reboot Cafe in ICICS
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="https://ubccsss.org/files/26239200_1783018025055320_7185707354782333276_n.jpg" style="max-width: 100%"></p>
+![](/files/26239200_1783018025055320_7185707354782333276_n.jpg)
 
-<p><strong>FREE DRINKS, FREE FOOD</strong></p>
+**FREE DRINKS, FREE FOOD**
 
-<p>Want to socialize with other CS students? The CSSS Board Games Night is a place to meet new friends and bond over some fun board games! Come for free snacks and a great time!</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, January 12, 2018 - <span class="date-display-range"><span class="date-display-start">18:00</span> to <span class="date-display-end">20:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Pacific Poke Cafe/Old Reboot Cafe in ICICS</div></div></div>    <footer>
-          </footer>
+Want to socialize with other CS students? The CSSS Board Games Night is a place to meet new friends and bond over some fun board games! Come for free snacks and a great time!
+
+When: 
+
+Friday, January 12, 2018 - 18:00 to 20:00
+
+Where: 
+
+Pacific Poke Cafe/Old Reboot Cafe in ICICS
