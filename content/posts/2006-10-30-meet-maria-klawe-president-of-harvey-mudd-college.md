@@ -6,10 +6,11 @@ aliases:
 author: robf
 images:
   - /modules/file/icons/application-pdf.png
+  - /files/ubc_logo.jpg
 tags: [Career]
 ---
 
-![](https://www.cs.ubc.ca/~depaulfm/img/ubc_logo.jpg)
+![](/files/ubc_logo.jpg)
 Focus on Women in Computer Science invites you to meet **Maria
 Klawe - President of Harvey Mudd College**.
 President Klawe was the former head of our department, as well

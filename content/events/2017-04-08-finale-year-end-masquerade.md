@@ -6,10 +6,11 @@ tags: [Year-End Gala]
 aliases:
   - /content/finale-csss-year-end-masquerade
 author: Tristan Rice
-images: []
+images:
+  - /files/Masquerade-small.jpg
 ---
 
-![](https://ubccsss.org/files/Masquerade-small.jpg)
+![](/files/Masquerade-small.jpg)
 
 We will be selling three rounds of tickets, priced according to time of purchase. Buy your tickets early to get the biggest discount!
 

@@ -7,9 +7,10 @@ author: robf
 images:
   - /modules/file/icons/application-pdf.png
   - /modules/file/icons/application-pdf.png
+  - /files/ibm-logo.gif
 ---
 
-![](https://www.ibm.com/i/v14/t/ibm-logo.gif)
+![](/files/ibm-logo.gif)
 
 IBM are sponsoring a **Cell Broadband Engine (Cell/B.E.) Trivia and
 Top Innovator** competition. Generous cash prizes will be given out, up to

@@ -20,6 +20,6 @@ images:
   - /files/Facebook%20Cover%20Welcome%20Breakfast.jpg
 ---
 
-![](https://ubccsss.org/files/Facebook%20Cover%20Welcome%20Breakfast.jpg)
+![](/files/Facebook%20Cover%20Welcome%20Breakfast.jpg)
 
 Welcome back everyone! Start off the new term at the Cube with **free** breakfast!

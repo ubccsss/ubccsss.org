@@ -6,9 +6,10 @@ aliases:
 author: robf
 images:
   - /modules/file/icons/application-pdf.png
+  - /files/ubc_logo.jpg
 ---
 
-![](https://www.cs.ubc.ca/~depaulfm/img/ubc_logo.jpg) \
+![](/files/ubc_logo.jpg) \
 This is a call for students who want to get involved in
 next year's IMAGINE event as Squad Leaders. Given that
 our department admits students directly to first year,

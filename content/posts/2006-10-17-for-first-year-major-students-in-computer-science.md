@@ -4,11 +4,12 @@ date: 2006-10-17T19:04:00.000Z
 aliases:
   - /node/512
 author: hybrid11
-images: []
+images:
+  - /files/ubc_logo.jpg
 tags: [Career]
 ---
 
-![](https://www.cs.ubc.ca/~depaulfm/img/ubc_logo.jpg) \
+![](/files/ubc_logo.jpg) \
 For **FIRST** year major students in Computer Science, it's time for your mid-term check-up.
 
 **Gain** strategies for staying "academically" healthy \
