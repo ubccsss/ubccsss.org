@@ -35,3 +35,19 @@ your friends, or make some new ones! Whether you’ve just started coding, have
 never coded before or are a hackathon veteran, HackThe90s is for you! It's an
 event that is a great intro to the world of hackathons for students ALL OVER
 Vancouver.
+
+### iGEM recruiting members
+
+UBC iGEM is currently in the process of recruiting members for the new year, and
+because of the multidisciplinary aspect of the iGEM competition, they are
+looking for computer science students to join our team. In this competition
+students get to work on a project throughout the summer that can help advance
+the field of synthetic biology, as well as attempt to solve real world problems.
+UBC's team has always been a strong participant since 2009 and they are
+currently looking for able applicants that will help continue they success.
+
+To join, the application can be found at: http://www.ubcigem.com/join-us/.
+
+There will be two information sessions at 4:00 pm on January 18th (Friday) in
+room LSC1510 and 12:00pm on January 21st (Monday) in room LSC3. Snacks and
+refreshments will be provided.
