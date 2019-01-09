@@ -8,7 +8,9 @@ author: atjia
 images: []
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><!-- Search Google --><p></p><center><br>
+<!-- Search Google -->
+<p></p>
+<center><br>
 <form method="GET" action="https://www.google.com/u/ubccsss"><br>
 <br><p></p><table bgcolor="#FFFFFF" cellspacing="0" border="0">
 <tbody><tr valign="middle">
@@ -23,6 +25,6 @@ images: []
 </tr>
 </tbody></table><br>
 </form><br>
-</center><p></p>
-<!-- Search Google --></div></div></div>    <footer>
-          </footer>
+</center>
+<p></p>
+<!-- Search Google -->

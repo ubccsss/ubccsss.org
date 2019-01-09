@@ -8,8 +8,8 @@ images:
   - /files/corporate_logo_nav.jpg
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="/files/corporate_logo_nav.jpg" align="left" vspace="5" hspace="5">Interested in working at <strong>Business Objects</strong>? Business Objects is launching an Apprentice program to hire 20 university graduates into its Global Services consulting practice.</p>
-<p>&quot;Have fun working together and transform the world through intelligent information. This is what we do at Business Objects. With over 39,000 customers worldwide, including 80% of the Fortune 500, Business Objects is the world&#x2019;s leading Business Intelligence software company. Our consultants are passionate about improving and changing the way our customers do business, and helping them to be successful by turning information into insight and driving business performance.&quot;</p>
-<p>If you&apos;ve just graduated and you haven&apos;t quite found a job yet, <a href="/files/bobj-job-posting.pdf">see the job description here</a>.</p>
-</div></div></div>    <footer>
-          </footer>
+![](/files/corporate_logo_nav.jpg)Interested in working at **Business Objects**? Business Objects is launching an Apprentice program to hire 20 university graduates into its Global Services consulting practice.
+
+"Have fun working together and transform the world through intelligent information. This is what we do at Business Objects. With over 39,000 customers worldwide, including 80% of the Fortune 500, Business Objects is the world’s leading Business Intelligence software company. Our consultants are passionate about improving and changing the way our customers do business, and helping them to be successful by turning information into insight and driving business performance."
+
+If you've just graduated and you haven't quite found a job yet, [see the job description here](/files/bobj-job-posting.pdf).

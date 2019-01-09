@@ -5,20 +5,33 @@ aliases:
   - /node/421
 author: dtan
 images: []
+tags: [Social]
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>All women in computer science and women interested in computer science are invited to attend this year&apos;s &quot;Getting To Know You: Women in Computer Science&quot;.</p>
-<p>Come out and meet female graduate students and members of industry and female faculty.  Hear about their experiences in the field and talk about what it&apos;s like to be a woman in computer science.</p>
-<ul>
-<li>Refreshments: pizza and snacks, drinks</li>
-<li>Networking with fellow students, alumnae and panel speakers</li>
-<li>A panel with industry and academic speakers</li>
-<li>Small-group discussions on the opportunities available in CS, and our<br>
-speakers&apos; experiences</li>
-</ul>
-<p>For more information and to view speaker bios, visit<br>
-<a href="http://www.cs.ubc.ca/local/affairs/committees/FoWCS/">http://www.cs.ubc.ca/local/affairs/committees/FoWCS/</a></p>
-<p>Brought to you by the UBC CS FoWCS:<br>
-Focus on Women in Computer Science Committee</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, March 1, 2006 - <span class="date-display-range"><span class="date-display-start">16:30</span> to <span class="date-display-end">18:30</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">ICICS/CS 7th floor boardroom (X736)</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/social">Social</a></div></div></div>      </footer>
+All women in computer science and women interested in computer science are invited to attend this year's "Getting To Know You: Women in Computer Science".
+
+Come out and meet female graduate students and members of industry and female faculty. Hear about their experiences in the field and talk about what it's like to be a woman in computer science.
+
+*   Refreshments: pizza and snacks, drinks
+*   Networking with fellow students, alumnae and panel speakers
+*   A panel with industry and academic speakers
+*   Small-group discussions on the opportunities available in CS, and our  
+    speakers' experiences
+
+For more information and to view speaker bios, visit  
+[http://www.cs.ubc.ca/local/affairs/committees/FoWCS/](http://www.cs.ubc.ca/local/affairs/committees/FoWCS/)
+
+Brought to you by the UBC CS FoWCS:  
+Focus on Women in Computer Science Committee
+
+When: 
+
+Wednesday, March 1, 2006 - 16:30 to 18:30
+
+Where: 
+
+ICICS/CS 7th floor boardroom (X736)
+
+Tags: 
+
+[Social](/social)

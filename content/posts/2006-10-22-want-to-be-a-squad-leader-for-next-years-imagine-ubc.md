@@ -8,13 +8,16 @@ images:
   - /modules/file/icons/application-pdf.png
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="https://www.cs.ubc.ca/~depaulfm/img/ubc_logo.jpg" align="left" vspace="5" hspace="5"><br>
-This is a call for students who want to get involved in<br>
-next year&apos;s IMAGINE event as Squad Leaders.   Given that<br>
-our department admits students directly to first year,<br>
-we have a special CPSC Squad so it&apos;s going to be important<br>
-to identify a Squad Leader from our student group. </p>
-<p>Check out the <b>attachement</b> to this post if you are interested, as well the deadline<br>
-for your application is <b>Octobert 30th</b>! </p>
-</div></div></div><div class="field field-name-field-file-attachments field-type-file field-label-above"><div class="field-label">File Attachments:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://ubccsss.org/files/Squad%20Leader%20Recruitment%20Email%202007.pdf" type="application/pdf; length=87352">Squad Leader Recruitment Email 2007.pdf</a></span></div></div></div>    <footer>
-          </footer>
+![](https://www.cs.ubc.ca/~depaulfm/img/ubc_logo.jpg) \
+This is a call for students who want to get involved in
+next year's IMAGINE event as Squad Leaders. Given that
+our department admits students directly to first year,
+we have a special CPSC Squad so it's going to be important
+to identify a Squad Leader from our student group.
+
+Check out the **attachement** to this post if you are interested, as well the deadline
+for your application is **Octobert 30th**!
+
+File Attachments: 
+
+ ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [Squad Leader Recruitment Email 2007.pdf](https://ubccsss.org/files/Squad%20Leader%20Recruitment%20Email%202007.pdf)

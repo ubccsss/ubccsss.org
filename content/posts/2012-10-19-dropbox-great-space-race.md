@@ -8,7 +8,6 @@ images:
   - /files/20121018-rocket-splash.jpg
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="/files/20121018-rocket-splash.jpg" width="363" height="290" alt="" align="left"></p>
-<p>Dropbox is having a promotion right now. &#x201C;Earn free Dropbox space for everyone at your school! Join Space Race to get an extra 3 GB for two years, plus the space your school earns!&#x201D; At the time of writing, Dropbox is offering a whopping 8 GB of storage to anyone at UBC that participates&#x2014;if enough people join in, that number could grow to 15 or even 25 GB. <a href="https://dropbox.com/spacerace">Go get your free space!</a></p>
-</div></div></div>    <footer>
-          </footer>
+![](/files/20121018-rocket-splash.jpg)
+
+Dropbox is having a promotion right now. “Earn free Dropbox space for everyone at your school! Join Space Race to get an extra 3 GB for two years, plus the space your school earns!” At the time of writing, Dropbox is offering a whopping 8 GB of storage to anyone at UBC that participates—if enough people join in, that number could grow to 15 or even 25 GB. [Go get your free space!](https://dropbox.com/spacerace)

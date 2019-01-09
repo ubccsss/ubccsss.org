@@ -7,10 +7,11 @@ author: Christopher Head
 images: []
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Do you have a simple idea for a fun and educational game but never got around to making it?<br>
-Imagine Cup 2009 gives you a reason to get a move on!</p>
-<p>Using the latest XNA Game Studio 3.0 and Visual Studio, we give you the tool necessary to bring your ideas to life!</p>
-<p>Round 1 Entry Deadline is March 1, 2009</p>
-<p>To sign up go to <a href="http://imaginecup.com/">http://imaginecup.com/</a> for more information.</p>
-</div></div></div>    <footer>
-          </footer>
+Do you have a simple idea for a fun and educational game but never got around to making it? \
+Imagine Cup 2009 gives you a reason to get a move on!
+
+Using the latest XNA Game Studio 3.0 and Visual Studio, we give you the tool necessary to bring your ideas to life!
+
+Round 1 Entry Deadline is March 1, 2009
+
+To sign up go to [http://imaginecup.com/](http://imaginecup.com/) for more information.

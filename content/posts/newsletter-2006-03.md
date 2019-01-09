@@ -8,211 +8,256 @@ author: mlee
 images: []
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>March for us CSers comes in like a lamb, but out like a lion.  You might as well try to fit a few of these into your schedule, if nothing else than to maintain your sanity.</p>
-<ol>
-<li><a href="/newsletters/2006/03#1">Co-op Info Sessions</a></li>
-<li><a href="/newsletters/2006/03#2">Henry Kautz: Understanding Human Behaviour from Sensor Data</a></li>
-<li><a href="/newsletters/2006/03#3">CSSS/MIS IT Night</a></li>
-<li><a href="/newsletters/2006/03#4">CSSS Games Night v3.0</a></li>
-<li><a href="/newsletters/2006/03#5">Day in a Firm @ IBM</a></li>
-<li><a href="/newsletters/2006/03#6">Ladies&apos; Movie Night</a></li>
-<li><a href="/newsletters/2006/03#7">Grad Boat Cruise</a></li>
-<li><a href="/newsletters/2006/03#8">Yearbook Picture Submissions</a></li>
-<li><a href="/newsletters/2006/03#9">Grad Gift 2006</a></li>
-<li><a href="/newsletters/2006/03#10">Grad Photos with Evangelos Photography</a></li>
-<li><a href="/newsletters/2006/03#11">CSSS Executive Elections</a></li>
-<li><a href="/newsletters/2006/03#12">Looking for GirlSmarts Volunteers</a></li>
-<li><a href="/newsletters/2006/03#13">Wireless Proposal Competition</a></li>
-<li><a href="/newsletters/2006/03#14">Student Excellence Awards</a></li>
-<li><a href="/newsletters/2006/03#15">Terry Writing Contest</a></li>
-<li><a href="/newsletters/2006/03#16">Vancouver Sun Run 2006</a></li>
-</ol>
-<p>____________________<br>
-<a name="1"></a><strong>Co-op Info Sessions</strong></p>
-<p><em>When: Wednesday Mar. 15, 3:00pm-4:30pm<br>
-Where: MacMillan Building, Room 158</em></p>
-<p>Find out why being a Co-op student is the best career decision you can make at University! In the program, you can:</p>
-<ul>
-<li>Get real programming experience</li>
-<li>Make $ $ $</li>
-<li>Make industry contacts</li>
-<li>Travel to exotic places</li>
-</ul>
-<p>There are two identical info sessions, so choose whichever one you can attend. But make sure you get your application in, in time for <strong>Friday, March 24, 2006</strong>. Applications must be submitted to Denise Jesudason at ICICS/CS x2412.</p>
-<p>More Co-op details can be found at <a href="http://www.sciencecoop.ubc.ca">http://www.sciencecoop.ubc.ca</a> or <a href="http://www.csss.cs.ubc.ca/files/info-session.pdf">see the poster</a>.</p>
-<p>____________________<br>
-<a name="2"></a><strong>Henry Kautz: Understanding Human Behaviour from Sensor Data</strong></p>
-<p><em>When: Thursday Mar. 16, 4:00-5:30pm<br>
-Where: Dempster Pavilion, Room 310</em></p>
-<p>The convergence of advances in algorithms for probabilistic reasoning and the development of low-cost, easily-deployed sensors is reviving the dream of AI to develop systems that can understand the narrative of ordinary human life. On the reasoning side, the AI community is developing techniques that bridge the gap between propositional Bayesian representations and hierarchical models of goals, plans, and actions. On the sensing side, new technologies such as RFID tags, GPS, motes, and wearable multi-modal sensors allow us to gather direct information about many aspects of human experience. I will describe recent work with my students and colleagues on developing systems that learn patterns of human activity for everyday tasks, both indoors and outdoors, using a variety of dynamic probabilistic models. I will then describe applications of these techniques to healthcare systems as part of the Assisted Cognition Project, a joint effort between our departments of computer science and rehabilitation medicine.</p>
-<p>More information: <a href="http://www.cs.ubc.ca/events/seminars/csicics.shtml">http://www.cs.ubc.ca/events/seminars/csicics.shtml</a></p>
-<p>____________________<br>
-<a name="3"></a><strong>CSSS/MIS IT Night</strong></p>
-<p><em>When: Thursday Mar. 16, 5:30-8:00pm<br>
-Where: Angus Building, David Lam Forum</em></p>
-<p>The Cube and MIS Club present IT Night, a business formal recruiting event.</p>
-<p>Recruiters from: KPMG, Orbital, Kodak (Creo), MDA, TSI, Ensemble, Blast Radius, Accenture<br>
-Focus: Project Management &amp; Consulting jobs<br>
-Prizes: Future Shop gift certificates &amp; USB Drives<br>
-Dress: Business attire</p>
-<p>Schedule<br>
-5:30 - Arrivals<br>
-6:00 - Opening Remarks<br>
-6:15 - Speakers</p>
-<ul>
-<li>Timothy Bult
-<ul>
-<li>MDA - Program Manager</li>
-</ul>
-</li>
-<li>Kevin Cheng
-<ul>
-<li>TSI Terminal Systems Inc. - Business Support Analyst</li>
-</ul>
-</li>
-</ul>
-<p>7:00 - Games<br>
-7:30 - Food &amp; Drinks</p>
-<p>Attendance is <strong>free</strong> for CS students, but tickets must be picked up before <strong>Tuesday March 13th</strong> from the CSSS office. There are <strong>only 35 tickets</strong>, so don&apos;t delay!</p>
-<p>____________________<br>
-<a name="4"></a><strong>CSSS Games Night v3.0</strong></p>
-<p><em>When: Friday Mar. 17, 5:00-11:00pm<br>
-Where: CS Student Lounge, X-wing</em></p>
-<p>We&apos;re back for the third and final instalment of the CSSS Games Night!  Come on out and play some dual XBox 360, foosball, poker, and more.</p>
-<p>____________________<br>
-<a name="5"></a><strong>Day in a Firm @ IBM</strong></p>
-<p><em>When: Thursday Mar. 23, 10:00am-12:00pm<br>
-Where: IBM PDC, <a href="https://maps.google.com/maps?f=q&amp;hl=en&amp;q=4611+Canada+Way,+Vancouver">4611 Canada Way</a><br>
-Attire: Business Casual</em></p>
-<p>Interested in learning what it&apos;s like to work at IBM?  Why not go there and see for yourself!</p>
-<p>The CSSS/MIS Day in a Firm is your chance to find out what it&apos;s like to work at the <a href="https://www-03.ibm.com/services/ca/en/innovation/vancouver/">IBM Pacific Development Centre</a>.</p>
-<p>The Pacific Development Centre, IBM&apos;s Centres for IBM e-business Innovation, is an inbound solution development lab working with IBM Global Services to bring custom software solutions to the world. In fact, only 4% of the solutions produced at the Pacific Development Centre are for companies based in the province of British Columbia.</p>
-<p>Excited?  RSVP to secretary(at)thecube.ca by <strong>Monday Mar. 20</strong>.  If you&apos;re without a ride, you can meet the group on campus at 8:50am at Bay 6 in the UBC Bus Loop.  There are <strong>only 30 spots available</strong>, so act now!</p>
-<p>____________________<br>
-<a name="6"></a><strong>Ladies&apos; Movie Night</strong></p>
-<p><em>When: Friday Mar. 24, 5:30pm<br>
-Where: CS Boardroom, Room X736</em></p>
-<p>Did you know that UBC CS is among the highest ranking universities in Canada when it comes to percentage of female enrolment?  Ladies, we&apos;ve a movie night just for you.  Come watch <a href="https://www.imdb.com/title/tt0375679/">Crash</a> and enjoy some sushi with your fellow women-at-keyboards!</p>
-<p>This is a free event, so come on out and network with the rest of the female CSers!</p>
-<p>____________________<br>
-<a name="7"></a><strong>Grad Boat Cruise</strong></p>
-<p><em>When: Saturday Apr. 1, 6:00-10:00pm</em></p>
-<p>The date has tentatively been set as April 1, but its no joke! This year&apos;s grad dinner will follow the success of previous years with another fun filled boat cruise. Mark it off on your calendars!  Check back soon for more details.</p>
-<p>____________________<br>
-<a name="8"></a><strong>Yearbook Picture Submissions</strong></p>
-<p>Got any pictures of you and your CS friends goofing around on campus?  How about pictures during some of the CS social events, or pictures of you and your projects?  We&apos;d like to see them!  Send any photos of CSers in action to yearbook(at)thecube.ca and for every entry you&apos;ll be entered into a draw to win a $70 gift certificate for Evangelos Photography.</p>
-<p>Get your photo in the yearbook AND save a few dollars on your grad pictures!</p>
-<p>____________________<br>
-<a name="9"></a><strong>Grad Gift 2006</strong></p>
-<p>Hey class of 2006!  Want a way to thank your professors for all their hard work?</p>
-<p>Donate toward the cause!  This year&apos;s grad gift is a much needed <em>modern</em> photocopier for the CS Reading Room.  Every dollar you donate will be matched by the department, for double the effectiveness!</p>
-<p>As well, every dollar donated will have your name entered into a draw to win one of <strong>three $70 gift certificates</strong> for Evangelos Photography.</p>
-<p>Give back to the CS faculty, create a lasting memory, AND save a few dollars on your grad pictures!  Visit the CSSS Office for donation forms.</p>
-<p>____________________<br>
-<a name="10"></a><strong>Grad Photos with Evangelos Photography</strong></p>
-<p>Are you graduating this year? Get your grad photos done now! Grad Portraits are being taken at:</p>
-<p>Evangelos Photography<br>
-3156 West Broadway, Vancouver<br>
-(604)731-8314 / 732-3023</p>
-<p><a href="http://www.evangelosphotography.com">http://www.evangelosphotography.com</a></p>
-<p>You must get your photos done if you want to be in the class composite and the yearbook (for Dec and May graduation). If you know you won&apos;t order any photos, you can book a shortened appointment just to take a picture for the class composite. There is no charge for that.</p>
-<p>A regular appointment requires a $35 deposit for the photo previews. If you choose not to order any photos and return the previews undamaged, your money if refunded. If you choose to order photos, that amount is deducted from the package you chose.</p>
-<p>Simply phone Evangelos to book your appointment.</p>
-<p>Come to the CSSS Office (X139) to pick up an info sheet with tips for getting your grad photos done.</p>
-<p><strong>GRAD PHOTOS MUST BE TAKEN ASAP! TO BE IN THE COMPOSITE YOU MUST GET YOUR PHOTOS DONE BY MARCH 31st. DON&apos;T MISS IT!!!</strong></p>
-<p>____________________<br>
-<a name="11"></a><strong>CSSS Executive Elections</strong></p>
-<p>Another year draws to an end for the cube execs, but the torch must be passed on! Here&apos;s your chance to get involved with the CS community and make next year that much better than this.</p>
-<p>Nomination forms will be accepted at the CSSS office from <strong>March 13-17, 2006</strong>.  Elections will take place Mar. 21-22.</p>
-<p>The following exec positions are up for election:</p>
-<ul>
-<li>President</li>
-<li>Vice President Internal</li>
-<li>Vice President External</li>
-<li>Treasurer</li>
-<li>SUS Representative</li>
-<li>Secretary</li>
-<li>Social Coordinator (2 positions)</li>
-<p>Questions? Feel free to contact Nakisa @ internalvp(at)csss.cs.ubc.ca.</p>
-<p><a href="/files/2006_csss_exec_election_app.pdf">Download the application</a></p>
-<p>____________________<br>
-<a name="12"></a><strong>Looking for GirlSmarts Volunteers</strong></p>
-<p>The <a href="http://www.jadeproject.ca/">Jade Project</a>, an organization that supports girls and women who are interested in Computer Science, is looking for eager volunteers for their upcoming GirlSmarts workshop!</p>
-<p><a href="http://www.jadeproject.ca/girlsmarts/">GIRLsmarts</a> is an outreach program affiliated with the Department of Computer Science (CS) at the University of British Columbia (UBC). They been offering this program since 2004 to Grade 6 and 7 girls, leading them through a series of activities that show that Computer Science and Math are fun topics and are everywhere! Naturally, they are looking for dependable, responsible, enthusiastic people with a background in computer science... which means YOU!</p>
-<p>To sign up and find out more about volunteering in the Jade Project&apos;s GIRLSmarts program, see <a href="http://www.jadeproject.ca/girlsmarts/volunteers.html">http://www.jadeproject.ca/girlsmarts/volunteers.html</a>. Or, if you know someone who would be interested in participating in the workshops themselves, point them to the GIRLSmarts program. Fun for everyone!</p>
-<p>Act fast, as volunteer interviews will cease by the end of March!</p>
-<p>____________________<br>
-<a name="13"></a><strong>Wireless Proposal Competition</strong></p>
-<p>The Communications Society of IEEE Student Branch at UBC is now hosting the &#x201C;UBC Wireless Venture Competition&#x201D; for students who are in Computer Science and Electrical and Computer Engineering. The purpose of this competition is to enhance students&#x2019; involvement in the UBC wireless network and help students develop their ability to create a well presented proposal and presentation.</p>
-<p>A team with no more than three students shall prepare a one-page summary based on the provided template and submit via email to Prof. Dave Michelson, the IEEE Communications Society Vancouver Chapter Chair, <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="57333621323a1732343279223534793436">[email&#xA0;protected]</a> no later than midnight on <strong>Friday, March 17th, 2006</strong>. The top four finalist teams shall be selected no later than 3 pm on Monday, March 20th, 2006. These teams will be invited to give a ten-minute presentation followed by a ten-minute question and answer session on Thursday, March 23rd, 2006.</p>
-<p>The rules and proposal template can be found at <a href="http://www.comsoc.org/vancouver/">http://www.comsoc.org/vancouver/</a>.</p>
-<p>____________________<br>
-<a name="14"></a><strong>Student Excellence Awards</strong></p>
-<p>A maximum of three (3) $500 Student Excellence Awards will be awarded for the 2005-2006 academic year to students in recognition of contributions to the undergraduate Computer Science student body and/or Department. These awards are intended to encourage and reward students who take initiative within the UBC Computer Science community to the benefit of both the student and their peers.</p>
-<p><em>NOTE: The selection committee reserves the right to refrain from distributing the maximum number of awards in the absence of reasonably eligible recipients. Preference will be given to graduating students where applicable.</em></p>
-<p><strong>Selection Criteria</strong></p>
-<p>Applicants for this award should:</p>
-<ul>
-<li>be an undergraduate student</li>
-<li>be enrolled in the Computer Science Major program, Computer Science Honors Program, a combined major/honors program with Computer Science, the BCS program or be in the Computer Science stream of the Cognitive Systems program</li>
-<li>have displayed substantial contributions to the undergraduate Computer Science student body through involvement with undergraduate activities or through the Department of Computer Science (paid work shall not qualify a student for this award)</li>
-<li>have not received this award before</li>
-<p><strong>Supporting Materials</strong></p>
-<p>All candidates must include the following in their nomination package:</p>
-<li>1 completed nomination form</li>
-<li>2 signed &amp; sealed letters of support from a peer student and a faculty member</li>
-<p><strong>Submission Information</strong></p>
-<p>Please submit application package in person no later than Friday March 31, 2006 at 2PM to the Computer Science Department Office (room 201 ICICS/CS building).</p>
-<p><a href="http://www.csss.cs.ubc.ca/files/2006_student_excellence_award.pdf">Download the nomination form</a>.</p>
-<p>____________________<br>
-<a name="15"></a><strong>Terry Writing Contest</strong></p>
-<p><a href="http://www.terry.ubc.ca&lt;/a&gt;Terry (www.terry.ubc.ca)&lt;/a&gt; is a joint TLEF initiative of the Faculty of Arts and the Faculty of Science, with support from the Michael Smith Laboratories, VP Students, UBC Campus Sustainability Office, UBC Okanagan, UBC Bookstore, UBC Let&apos;s Talk Science Partnership Program, and the Chan Centre for Performing Arts.&lt;/p&gt;
-&lt;p&gt;The UBC Bookstore and Terry are pleased to announce a writing challenge, and a grand one at that. There will be three sets of prizes available, which involve the hunt for pieces in the following categories.&lt;/p&gt;
-&lt;p&gt;For more information, please read on...&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;The first category seeks creative pieces that perhaps work best to subtlety elicit awareness of the myriad of global issues presented in this website. These pieces could take the form (but are not limited to) poetry, fiction, literary humour, visual, audio, and/or personal essay. Limited to those from the UBC community (students, staff and/or faculty).&lt;/li&gt;
-&lt;li&gt;The second category seeks out non-fiction pieces that can take the form of academic essay, review/textbook article, commentary, and/or critical analysis. More importantly, these pieces should discuss some aspect of the general themes that our speakers represent, in an attempt to help formulate (whether by describing methodology or simply by education) proactive responses. Limited to those from the UBC community (students, staff and/or faculty).&lt;/li&gt;
-&lt;li&gt;The third category is open to all. The first two categories are limited to those from the UBC community (students, staff and/or faculty). This simply entails submissions culled from the general public that would fit in either category, perhaps even both.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Pieces should be no longer than 2000 words , and can happily be something you have to write anyway for your courses. The deadline for submissions is &lt;strong&gt;March 31st, 2006&lt;/strong&gt;. Previously published material (where permission is obtained) is just fine although may be considered less competitive than original works. Please inquire with specifics regarding audio or visual pieces. Note that the author retains full copyright of any work published on our site, although we would love to be credited with showing it off. Please submit your entry to tscq(at)interchange.ubc.ca , subject heading " terry."<="" p="">
-</a></p><p><a href="http://www.terry.ubc.ca&lt;/a&gt;Terry (www.terry.ubc.ca)&lt;/a&gt; is a joint TLEF initiative of the Faculty of Arts and the Faculty of Science, with support from the Michael Smith Laboratories, VP Students, UBC Campus Sustainability Office, UBC Okanagan, UBC Bookstore, UBC Let&apos;s Talk Science Partnership Program, and the Chan Centre for Performing Arts.&lt;/p&gt;
-&lt;p&gt;The UBC Bookstore and Terry are pleased to announce a writing challenge, and a grand one at that. There will be three sets of prizes available, which involve the hunt for pieces in the following categories.&lt;/p&gt;
-&lt;p&gt;For more information, please read on...&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;The first category seeks creative pieces that perhaps work best to subtlety elicit awareness of the myriad of global issues presented in this website. These pieces could take the form (but are not limited to) poetry, fiction, literary humour, visual, audio, and/or personal essay. Limited to those from the UBC community (students, staff and/or faculty).&lt;/li&gt;
-&lt;li&gt;The second category seeks out non-fiction pieces that can take the form of academic essay, review/textbook article, commentary, and/or critical analysis. More importantly, these pieces should discuss some aspect of the general themes that our speakers represent, in an attempt to help formulate (whether by describing methodology or simply by education) proactive responses. Limited to those from the UBC community (students, staff and/or faculty).&lt;/li&gt;
-&lt;li&gt;The third category is open to all. The first two categories are limited to those from the UBC community (students, staff and/or faculty). This simply entails submissions culled from the general public that would fit in either category, perhaps even both.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Pieces should be no longer than 2000 words , and can happily be something you have to write anyway for your courses. The deadline for submissions is &lt;strong&gt;March 31st, 2006&lt;/strong&gt;. Previously published material (where permission is obtained) is just fine although may be considered less competitive than original works. Please inquire with specifics regarding audio or visual pieces. Note that the author retains full copyright of any work published on our site, although we would love to be credited with showing it off. Please submit your entry to tscq(at)interchange.ubc.ca , subject heading " terry."<="" p="">Note that the real beauty of this, is that these pieces can be the sorts of things that you may have written for your courses, blogs, letters anyway.</a></p><a href="http://www.terry.ubc.ca&lt;/a&gt;Terry (www.terry.ubc.ca)&lt;/a&gt; is a joint TLEF initiative of the Faculty of Arts and the Faculty of Science, with support from the Michael Smith Laboratories, VP Students, UBC Campus Sustainability Office, UBC Okanagan, UBC Bookstore, UBC Let&apos;s Talk Science Partnership Program, and the Chan Centre for Performing Arts.&lt;/p&gt;
-&lt;p&gt;The UBC Bookstore and Terry are pleased to announce a writing challenge, and a grand one at that. There will be three sets of prizes available, which involve the hunt for pieces in the following categories.&lt;/p&gt;
-&lt;p&gt;For more information, please read on...&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;The first category seeks creative pieces that perhaps work best to subtlety elicit awareness of the myriad of global issues presented in this website. These pieces could take the form (but are not limited to) poetry, fiction, literary humour, visual, audio, and/or personal essay. Limited to those from the UBC community (students, staff and/or faculty).&lt;/li&gt;
-&lt;li&gt;The second category seeks out non-fiction pieces that can take the form of academic essay, review/textbook article, commentary, and/or critical analysis. More importantly, these pieces should discuss some aspect of the general themes that our speakers represent, in an attempt to help formulate (whether by describing methodology or simply by education) proactive responses. Limited to those from the UBC community (students, staff and/or faculty).&lt;/li&gt;
-&lt;li&gt;The third category is open to all. The first two categories are limited to those from the UBC community (students, staff and/or faculty). This simply entails submissions culled from the general public that would fit in either category, perhaps even both.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Pieces should be no longer than 2000 words , and can happily be something you have to write anyway for your courses. The deadline for submissions is &lt;strong&gt;March 31st, 2006&lt;/strong&gt;. Previously published material (where permission is obtained) is just fine although may be considered less competitive than original works. Please inquire with specifics regarding audio or visual pieces. Note that the author retains full copyright of any work published on our site, although we would love to be credited with showing it off. Please submit your entry to tscq(at)interchange.ubc.ca , subject heading " terry."<="" p="">
-<p>Now, the prizes...<br>
-In all categories, we are please to have a first, second, and third prize available (nine prizes in total), in the sums of $500, $250, and $125. Prizes will be available as UBC Bookstore giftcards which are valid in all retail locations and can also be used on the store&apos;s website. Also, note that UBC winners may be asked to participate in a UBC Bookstore promotional event.</p>
-</a><p><a href="http://www.terry.ubc.ca&lt;/a&gt;Terry (www.terry.ubc.ca)&lt;/a&gt; is a joint TLEF initiative of the Faculty of Arts and the Faculty of Science, with support from the Michael Smith Laboratories, VP Students, UBC Campus Sustainability Office, UBC Okanagan, UBC Bookstore, UBC Let&apos;s Talk Science Partnership Program, and the Chan Centre for Performing Arts.&lt;/p&gt;
-&lt;p&gt;The UBC Bookstore and Terry are pleased to announce a writing challenge, and a grand one at that. There will be three sets of prizes available, which involve the hunt for pieces in the following categories.&lt;/p&gt;
-&lt;p&gt;For more information, please read on...&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;The first category seeks creative pieces that perhaps work best to subtlety elicit awareness of the myriad of global issues presented in this website. These pieces could take the form (but are not limited to) poetry, fiction, literary humour, visual, audio, and/or personal essay. Limited to those from the UBC community (students, staff and/or faculty).&lt;/li&gt;
-&lt;li&gt;The second category seeks out non-fiction pieces that can take the form of academic essay, review/textbook article, commentary, and/or critical analysis. More importantly, these pieces should discuss some aspect of the general themes that our speakers represent, in an attempt to help formulate (whether by describing methodology or simply by education) proactive responses. Limited to those from the UBC community (students, staff and/or faculty).&lt;/li&gt;
-&lt;li&gt;The third category is open to all. The first two categories are limited to those from the UBC community (students, staff and/or faculty). This simply entails submissions culled from the general public that would fit in either category, perhaps even both.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Pieces should be no longer than 2000 words , and can happily be something you have to write anyway for your courses. The deadline for submissions is &lt;strong&gt;March 31st, 2006&lt;/strong&gt;. Previously published material (where permission is obtained) is just fine although may be considered less competitive than original works. Please inquire with specifics regarding audio or visual pieces. Note that the author retains full copyright of any work published on our site, although we would love to be credited with showing it off. Please submit your entry to tscq(at)interchange.ubc.ca , subject heading " terry."<="" p="">____________________<br>
-</a><a name="16"></a><strong>Vancouver Sun Run 2006</strong></p>
-<p><em>When: Sunday Apr. 23, 9:00am</em></p>
-<p>Interested in joining UBC Computer Science at this year&apos;s Vancouver Sun Run? The race is on April 23, at 9:00 a.m. and would be a great way to take a short break from studying for finals and to support a number good causes. The cost to register is $35. Early registration for Corporate teams ends on February 10. After that, registration is $40, so be sure to register early.</p>
-<p>How you can register:<br>
-Online at <a href="https://www.sporg.com/registration?link_type=form&amp;form_id=35210&amp;Team+Number=1632">https://www.sporg.com/registration?link_type=form&amp;form_id=35210&amp;Team+Number=1632</a><br>
-Team Name: Speed Freaks<br>
-Team Number: 1632<br>
-Team Captain: Andrew Eisenberg</p>
-<p>If you&apos;d like more information, contact Andrew (ade [at] cs.ubc.ca). If you&apos;re interested in the event and have registered, please subscribe to the <strong>cs-running mailing list</strong>, since Andrew will be sending out more details:<br>
-- Send an email to <span class="__cf_email__" data-cfemail="761b171c190412191b193615055803141558151758">[email&#xA0;protected]</span> The body should contain: subscribe cs-running (and nothing else)</p>
-<p>If you&apos;d like to find out more about the Vancouver Sun Run visit www.sunrun.com.</p>
-</ul></ul></div></div></div>    <footer>
-          </footer>
+March for us CSers comes in like a lamb, but out like a lion. You might as well try to fit a few of these into your schedule, if nothing else than to maintain your sanity.
+
+1.  [Co-op Info Sessions](/newsletters/2006/03#1)
+2.  [Henry Kautz: Understanding Human Behaviour from Sensor Data](/newsletters/2006/03#2)
+3.  [CSSS/MIS IT Night](/newsletters/2006/03#3)
+4.  [CSSS Games Night v3.0](/newsletters/2006/03#4)
+5.  [Day in a Firm @ IBM](/newsletters/2006/03#5)
+6.  [Ladies' Movie Night](/newsletters/2006/03#6)
+7.  [Grad Boat Cruise](/newsletters/2006/03#7)
+8.  [Yearbook Picture Submissions](/newsletters/2006/03#8)
+9.  [Grad Gift 2006](/newsletters/2006/03#9)
+10.  [Grad Photos with Evangelos Photography](/newsletters/2006/03#10)
+11.  [CSSS Executive Elections](/newsletters/2006/03#11)
+12.  [Looking for GirlSmarts Volunteers](/newsletters/2006/03#12)
+13.  [Wireless Proposal Competition](/newsletters/2006/03#13)
+14.  [Student Excellence Awards](/newsletters/2006/03#14)
+15.  [Terry Writing Contest](/newsletters/2006/03#15)
+16.  [Vancouver Sun Run 2006](/newsletters/2006/03#16)
+
+___
+**Co-op Info Sessions**
+
+_When: Wednesday Mar. 15, 3:00pm-4:30pm \
+Where: MacMillan Building, Room 158_
+
+Find out why being a Co-op student is the best career decision you can make at University! In the program, you can:
+
+*   Get real programming experience
+*   Make $ $ $
+*   Make industry contacts
+*   Travel to exotic places
+
+There are two identical info sessions, so choose whichever one you can attend. But make sure you get your application in, in time for **Friday, March 24, 2006**. Applications must be submitted to Denise Jesudason at ICICS/CS x2412.
+
+More Co-op details can be found at [http://www.sciencecoop.ubc.ca](http://www.sciencecoop.ubc.ca) or [see the poster](http://www.csss.cs.ubc.ca/files/info-session.pdf).
+
+___
+**Henry Kautz: Understanding Human Behaviour from Sensor Data**
+
+_When: Thursday Mar. 16, 4:00-5:30pm \
+Where: Dempster Pavilion, Room 310_
+
+The convergence of advances in algorithms for probabilistic reasoning and the development of low-cost, easily-deployed sensors is reviving the dream of AI to develop systems that can understand the narrative of ordinary human life. On the reasoning side, the AI community is developing techniques that bridge the gap between propositional Bayesian representations and hierarchical models of goals, plans, and actions. On the sensing side, new technologies such as RFID tags, GPS, motes, and wearable multi-modal sensors allow us to gather direct information about many aspects of human experience. I will describe recent work with my students and colleagues on developing systems that learn patterns of human activity for everyday tasks, both indoors and outdoors, using a variety of dynamic probabilistic models. I will then describe applications of these techniques to healthcare systems as part of the Assisted Cognition Project, a joint effort between our departments of computer science and rehabilitation medicine.
+
+More information: [http://www.cs.ubc.ca/events/seminars/csicics.shtml](http://www.cs.ubc.ca/events/seminars/csicics.shtml)
+
+___
+**CSSS/MIS IT Night**
+
+_When: Thursday Mar. 16, 5:30-8:00pm \
+Where: Angus Building, David Lam Forum_
+
+The Cube and MIS Club present IT Night, a business formal recruiting event.
+
+Recruiters from: KPMG, Orbital, Kodak (Creo), MDA, TSI, Ensemble, Blast Radius, Accenture \
+Focus: Project Management & Consulting jobs \
+Prizes: Future Shop gift certificates & USB Drives \
+Dress: Business attire
+
+Schedule \
+5:30 - Arrivals \
+6:00 - Opening Remarks \
+6:15 - Speakers
+
+*   Timothy Bult
+    *   MDA - Program Manager
+*   Kevin Cheng
+    *   TSI Terminal Systems Inc. - Business Support Analyst
+
+7:00 - Games \
+7:30 - Food & Drinks
+
+Attendance is **free** for CS students, but tickets must be picked up before **Tuesday March 13th** from the CSSS office. There are **only 35 tickets**, so don't delay!
+
+___
+**CSSS Games Night v3.0**
+
+_When: Friday Mar. 17, 5:00-11:00pm \
+Where: CS Student Lounge, X-wing_
+
+We're back for the third and final instalment of the CSSS Games Night! Come on out and play some dual XBox 360, foosball, poker, and more.
+
+___
+**Day in a Firm @ IBM**
+
+_When: Thursday Mar. 23, 10:00am-12:00pm \
+Where: IBM PDC, [4611 Canada Way](https://maps.google.com/maps?f=q&hl=en&q=4611+Canada+Way,+Vancouver) \
+Attire: Business Casual_
+
+Interested in learning what it's like to work at IBM? Why not go there and see for yourself!
+
+The CSSS/MIS Day in a Firm is your chance to find out what it's like to work at the [IBM Pacific Development Centre](https://www-03.ibm.com/services/ca/en/innovation/vancouver/).
+
+The Pacific Development Centre, IBM's Centres for IBM e-business Innovation, is an inbound solution development lab working with IBM Global Services to bring custom software solutions to the world. In fact, only 4% of the solutions produced at the Pacific Development Centre are for companies based in the province of British Columbia.
+
+Excited? RSVP to secretary(at)thecube.ca by **Monday Mar. 20**. If you're without a ride, you can meet the group on campus at 8:50am at Bay 6 in the UBC Bus Loop. There are **only 30 spots available**, so act now!
+
+___
+**Ladies' Movie Night**
+
+_When: Friday Mar. 24, 5:30pm \
+Where: CS Boardroom, Room X736_
+
+Did you know that UBC CS is among the highest ranking universities in Canada when it comes to percentage of female enrolment? Ladies, we've a movie night just for you. Come watch [Crash](https://www.imdb.com/title/tt0375679/) and enjoy some sushi with your fellow women-at-keyboards!
+
+This is a free event, so come on out and network with the rest of the female CSers!
+
+___
+**Grad Boat Cruise**
+
+_When: Saturday Apr. 1, 6:00-10:00pm_
+
+The date has tentatively been set as April 1, but its no joke! This year's grad dinner will follow the success of previous years with another fun filled boat cruise. Mark it off on your calendars! Check back soon for more details.
+
+___
+**Yearbook Picture Submissions**
+
+Got any pictures of you and your CS friends goofing around on campus? How about pictures during some of the CS social events, or pictures of you and your projects? We'd like to see them! Send any photos of CSers in action to yearbook(at)thecube.ca and for every entry you'll be entered into a draw to win a $70 gift certificate for Evangelos Photography.
+
+Get your photo in the yearbook AND save a few dollars on your grad pictures!
+
+___
+**Grad Gift 2006**
+
+Hey class of 2006! Want a way to thank your professors for all their hard work?
+
+Donate toward the cause! This year's grad gift is a much needed _modern_ photocopier for the CS Reading Room. Every dollar you donate will be matched by the department, for double the effectiveness!
+
+As well, every dollar donated will have your name entered into a draw to win one of **three $70 gift certificates** for Evangelos Photography.
+
+Give back to the CS faculty, create a lasting memory, AND save a few dollars on your grad pictures! Visit the CSSS Office for donation forms.
+
+___
+**Grad Photos with Evangelos Photography**
+
+Are you graduating this year? Get your grad photos done now! Grad Portraits are being taken at:
+
+Evangelos Photography \
+3156 West Broadway, Vancouver \
+(604)731-8314 / 732-3023
+
+[http://www.evangelosphotography.com](http://www.evangelosphotography.com)
+
+You must get your photos done if you want to be in the class composite and the yearbook (for Dec and May graduation). If you know you won't order any photos, you can book a shortened appointment just to take a picture for the class composite. There is no charge for that.
+
+A regular appointment requires a $35 deposit for the photo previews. If you choose not to order any photos and return the previews undamaged, your money if refunded. If you choose to order photos, that amount is deducted from the package you chose.
+
+Simply phone Evangelos to book your appointment.
+
+Come to the CSSS Office (X139) to pick up an info sheet with tips for getting your grad photos done.
+
+**GRAD PHOTOS MUST BE TAKEN ASAP! TO BE IN THE COMPOSITE YOU MUST GET YOUR PHOTOS DONE BY MARCH 31st. DON'T MISS IT!!!**
+
+___
+**CSSS Executive Elections**
+
+Another year draws to an end for the cube execs, but the torch must be passed on! Here's your chance to get involved with the CS community and make next year that much better than this.
+
+Nomination forms will be accepted at the CSSS office from **March 13-17, 2006**. Elections will take place Mar. 21-22.
+
+The following exec positions are up for election:
+
+*   President
+*   Vice President Internal
+*   Vice President External
+*   Treasurer
+*   SUS Representative
+*   Secretary
+*   Social Coordinator (2 positions)
+
+Questions? Feel free to contact Nakisa @ internalvp(at)csss.cs.ubc.ca.
+
+[Download the application](/files/2006_csss_exec_election_app.pdf)
+
+___
+**Looking for GirlSmarts Volunteers**
+
+The [Jade Project](http://www.jadeproject.ca/), an organization that supports girls and women who are interested in Computer Science, is looking for eager volunteers for their upcoming GirlSmarts workshop!
+
+[GIRLsmarts](http://www.jadeproject.ca/girlsmarts/) is an outreach program affiliated with the Department of Computer Science (CS) at the University of British Columbia (UBC). They been offering this program since 2004 to Grade 6 and 7 girls, leading them through a series of activities that show that Computer Science and Math are fun topics and are everywhere! Naturally, they are looking for dependable, responsible, enthusiastic people with a background in computer science... which means YOU!
+
+To sign up and find out more about volunteering in the Jade Project's GIRLSmarts program, see [http://www.jadeproject.ca/girlsmarts/volunteers.html](http://www.jadeproject.ca/girlsmarts/volunteers.html). Or, if you know someone who would be interested in participating in the workshops themselves, point them to the GIRLSmarts program. Fun for everyone!
+
+Act fast, as volunteer interviews will cease by the end of March!
+
+___
+**Wireless Proposal Competition**
+
+The Communications Society of IEEE Student Branch at UBC is now hosting the “UBC Wireless Venture Competition” for students who are in Computer Science and Electrical and Computer Engineering. The purpose of this competition is to enhance students’ involvement in the UBC wireless network and help students develop their ability to create a well presented proposal and presentation.
+
+A team with no more than three students shall prepare a one-page summary based on the provided template and submit via email to Prof. Dave Michelson, the IEEE Communications Society Vancouver Chapter Chair, [\[email protected\]](/cdn-cgi/l/email-protection) no later than midnight on **Friday, March 17th, 2006**. The top four finalist teams shall be selected no later than 3 pm on Monday, March 20th, 2006. These teams will be invited to give a ten-minute presentation followed by a ten-minute question and answer session on Thursday, March 23rd, 2006.
+
+The rules and proposal template can be found at [http://www.comsoc.org/vancouver/](http://www.comsoc.org/vancouver/).
+
+___
+**Student Excellence Awards**
+
+A maximum of three (3) $500 Student Excellence Awards will be awarded for the 2005-2006 academic year to students in recognition of contributions to the undergraduate Computer Science student body and/or Department. These awards are intended to encourage and reward students who take initiative within the UBC Computer Science community to the benefit of both the student and their peers.
+
+_NOTE: The selection committee reserves the right to refrain from distributing the maximum number of awards in the absence of reasonably eligible recipients. Preference will be given to graduating students where applicable._
+
+**Selection Criteria**
+
+Applicants for this award should:
+
+*   be an undergraduate student
+*   be enrolled in the Computer Science Major program, Computer Science Honors Program, a combined major/honors program with Computer Science, the BCS program or be in the Computer Science stream of the Cognitive Systems program
+*   have displayed substantial contributions to the undergraduate Computer Science student body through involvement with undergraduate activities or through the Department of Computer Science (paid work shall not qualify a student for this award)
+*   have not received this award before
+
+**Supporting Materials**
+
+All candidates must include the following in their nomination package:
+
+*   1 completed nomination form
+*   2 signed & sealed letters of support from a peer student and a faculty member
+
+**Submission Information**
+
+Please submit application package in person no later than Friday March 31, 2006 at 2PM to the Computer Science Department Office (room 201 ICICS/CS building).
+
+[Download the nomination form](http://www.csss.cs.ubc.ca/files/2006_student_excellence_award.pdf).
+
+___
+**Terry Writing Contest**
+[Terry (www.terry.ubc.ca)](http://www.terry.ubc.ca) is a joint TLEF initiative of the Faculty of Arts and the Faculty of Science, with support from the Michael Smith Laboratories, VP Students, UBC Campus Sustainability Office, UBC Okanagan, UBC Bookstore, UBC Let's Talk Science Partnership Program, and the Chan Centre for Performing Arts.
+
+The UBC Bookstore and Terry are pleased to announce a writing challenge, and a grand one at that. There will be three sets of prizes available, which involve the hunt for pieces in the following categories.
+
+For more information, please read on...
+
+1. The first category seeks creative pieces that perhaps work best to subtlety elicit awareness of the myriad of global issues presented in this website. These pieces could take the form (but are not limited to) poetry, fiction, literary humour, visual, audio, and/or personal essay. Limited to those from the UBC community (students, staff and/or faculty).
+2. The second category seeks out non-fiction pieces that can take the form of academic essay, review/textbook article, commentary, and/or critical analysis. More importantly, these pieces should discuss some aspect of the general themes that our speakers represent, in an attempt to help formulate (whether by describing methodology or simply by education) proactive responses. Limited to those from the UBC community (students, staff and/or faculty).
+3. The third category is open to all. The first two categories are limited to those from the UBC community (students, staff and/or faculty). This simply entails submissions culled from the general public that would fit in either category, perhaps even both.
+
+Pieces should be no longer than 2000 words , and can happily be something you have to write anyway for your courses. The deadline for submissions is **March 31st, 2006**. Previously published material (where permission is obtained) is just fine although may be considered less competitive than original works. Please inquire with specifics regarding audio or visual pieces. Note that the author retains full copyright of any work published on our site, although we would love to be credited with showing it off. Please submit your entry to `tscq(at)interchange.ubc.ca`, subject heading "terry".
+___
+**Vancouver Sun Run 2006**
+
+_When: Sunday Apr. 23, 9:00am_
+
+Interested in joining UBC Computer Science at this year's Vancouver Sun Run? The race is on April 23, at 9:00 a.m. and would be a great way to take a short break from studying for finals and to support a number good causes. The cost to register is $35. Early registration for Corporate teams ends on February 10. After that, registration is $40, so be sure to register early.
+
+How you can register: \
+Online at [https://www.sporg.com/registration?link\_type=form&form\_id=35210&Team+Number=1632](https://www.sporg.com/registration?link_type=form&form_id=35210&Team+Number=1632) \
+Team Name: Speed Freaks \
+Team Number: 1632 \
+Team Captain: Andrew Eisenberg
+
+If you'd like more information, contact Andrew (ade \[at\] cs.ubc.ca). If you're interested in the event and have registered, please subscribe to the **cs-running mailing list**, since Andrew will be sending out more details: \
+\- Send an email to \[email protected\] The body should contain: subscribe cs-running (and nothing else)
+
+If you'd like to find out more about the Vancouver Sun Run visit www.sunrun.com.

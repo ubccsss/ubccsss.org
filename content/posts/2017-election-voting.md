@@ -8,8 +8,12 @@ author: Tristan Rice
 images: []
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Voting for the 2017 CSSS Elections opens at 12am on Wednesday. Go Vote!</p>
+Voting for the 2017 CSSS Elections opens at 12am on Wednesday. Go Vote!
 
-<p><a href="https://survey.ubc.ca/surveys/bli08/csss-elections-2017/">https://survey.ubc.ca/surveys/bli08/csss-elections-2017/</a></p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Tuesday, March 14, 2017 (All day)</span></div><div class="field-item odd"><span class="date-display-single">Wednesday, March 15, 2017 (All day)</span></div></div></div>    <footer>
-          </footer>
+[https://survey.ubc.ca/surveys/bli08/csss-elections-2017/](https://survey.ubc.ca/surveys/bli08/csss-elections-2017/)
+
+When: 
+
+Tuesday, March 14, 2017 (All day)
+
+Wednesday, March 15, 2017 (All day)

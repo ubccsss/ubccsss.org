@@ -7,7 +7,5 @@ author: Christopher Head
 images: []
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Closing date is March 5 2009<br>
-6 month term position. Competition number (10-08-84). Apply online to <a href="http://careers-carrieres.nrc-cnrc.gc.ca/careers/jobpost.nsf/EnglishAll/EFF0537B7B9F816A8525756200599438">http://careers-carrieres.nrc-cnrc.gc.ca/careers/jobpost.nsf/EnglishAll/EFF0537B7B9F816A8525756200599438</a>.</p>
-</div></div></div>    <footer>
-          </footer>
+Closing date is March 5 2009 \
+6 month term position. Competition number (10-08-84). Apply online to [http://careers-carrieres.nrc-cnrc.gc.ca/careers/jobpost.nsf/EnglishAll/EFF0537B7B9F816A8525756200599438](http://careers-carrieres.nrc-cnrc.gc.ca/careers/jobpost.nsf/EnglishAll/EFF0537B7B9F816A8525756200599438).

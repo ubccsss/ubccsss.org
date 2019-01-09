@@ -6,20 +6,35 @@ aliases:
   - /node/1508
 author: Christopher Head
 images: []
+tags: [Career, Social]
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Launch Academy (startup-oriented co-working space) is hosting the &#x201C;Iron Hacker&#x201D; hackathon on Saturday, Dec. 8<sup>th</sup>. It&#x2019;s in the mould of Iron Chef, where teams only learn the theme the day of, then have the day to make an app for that theme to present to a panel of judges and peers for a bunch of prizes for whichever team makes the best app. Example themes would be &#x201C;Viral joke apps&#x201D;, &#x201C;one-player games&#x201D;, or &#x201C;dating apps&#x201D;. The theme will also not be specific to any API, so you won&apos;t be limited to whichever companies&#x2019; are sponsoring.</p>
-<p>Format:</p>
-<ul>
-<li>Hacker teams of 2&#x2013;4</li>
-<p><li.you can="" do="" whatever="" preparation="" you="" want="" beforehand="" with="" your="" team,="" e.g.="" set="" up="" hosting="" environment<="" li="">
-</li.you></p><li>After registration the morning of the event, the theme of the hackathon will be revealed, and you have until 7pm to work on your hack</li>
-<li>Use whatever APIs, platforms, or frameworks you like to deliver your hack</li>
-<li>All presentations must be done on an organizer&#x2019;s laptop: i.e. you need to demo something live on the internet. Exception: native mobile apps</li>
-<li>Prizes awarded by judges based on how functional your team&#x2019;s app is and how well it corresponds to the theme</li>
-<li>&#x201C;Iron Hacker&#x201D; trophy will be awarded based on by peer judging of your team&#x2019;s app</li>
-</ul>
-<p>To keep this developer-centric, we&#x2019;ve set up a couple hurdles for coders to get through before they can register (shouldn&#x2019;t be a problem for even novice coders): <a href="http://ironhacker.org/">http://ironhacker.org/</a></p>
-<p>Hope to see you there!</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, December 8, 2012 - <span class="date-display-range"><span class="date-display-start">09:00</span> to <span class="date-display-end">21:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Launch Academy, 300 - 128 W. Hastings</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div><div class="field-item odd"><a href="/social">Social</a></div></div></div>      </footer>
+Launch Academy (startup-oriented co-working space) is hosting the “Iron Hacker” hackathon on Saturday, Dec. 8th. It’s in the mould of Iron Chef, where teams only learn the theme the day of, then have the day to make an app for that theme to present to a panel of judges and peers for a bunch of prizes for whichever team makes the best app. Example themes would be “Viral joke apps”, “one-player games”, or “dating apps”. The theme will also not be specific to any API, so you won't be limited to whichever companies’ are sponsoring.
+
+Format:
+
+*   Hacker teams of 2–4
+
+*   After registration the morning of the event, the theme of the hackathon will be revealed, and you have until 7pm to work on your hack
+*   Use whatever APIs, platforms, or frameworks you like to deliver your hack
+*   All presentations must be done on an organizer’s laptop: i.e. you need to demo something live on the internet. Exception: native mobile apps
+*   Prizes awarded by judges based on how functional your team’s app is and how well it corresponds to the theme
+*   “Iron Hacker” trophy will be awarded based on by peer judging of your team’s app
+
+To keep this developer-centric, we’ve set up a couple hurdles for coders to get through before they can register (shouldn’t be a problem for even novice coders): [http://ironhacker.org/](http://ironhacker.org/)
+
+Hope to see you there!
+
+When: 
+
+Saturday, December 8, 2012 - 09:00 to 21:00
+
+Where: 
+
+Launch Academy, 300 - 128 W. Hastings
+
+Tags: 
+
+[Career](/career)
+
+[Social](/social)

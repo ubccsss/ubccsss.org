@@ -7,10 +7,20 @@ author: hybrid11
 images: []
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><u><b>A Perspective on Career Paths with Senator Lillian Dyck</b></u></p>
-<p>A member of the Gordon First Nations in Saskatchewan, Dr. Lillian Eva Dyck is well-known as an advocate for women and Aboriginals, and is a leading figure and role model in Canada&#x2019;s scientific community. At the Keynote, Senator Dyck will talk about her family background and education. Feminism and Cree beliefs have proved to be of great help in providing her with insights and the strength to overcome various obstacles in her career as a scientist and professor. She will compare Western science, feminist science and Aboriginal science, and how the Medicine Wheel of the Plains Indians can be used to analyze science and show where it can be improved to attract and retain women and Aboriginals.</p>
-<p>Admission is <b>free</b>, and the event is open to the public. Please RSVP to:</p>
-<p><a gref="mailto=new@mech.ubc.ca"><span class="__cf_email__" data-cfemail="721c1705321f17111a5c0710115c1113">[email&#xA0;protected]</span></a></p>
-<p>Message Subject: Career Path Message Body: Your name</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, October 12, 2006 - <span class="date-display-range"><span class="date-display-start">18:00</span> to <span class="date-display-end">20:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">First Nations House of Learning, 1985 West Mall</div></div></div>    <footer>
-          </footer>
+**A Perspective on Career Paths with Senator Lillian Dyck**
+
+A member of the Gordon First Nations in Saskatchewan, Dr. Lillian Eva Dyck is well-known as an advocate for women and Aboriginals, and is a leading figure and role model in Canada’s scientific community. At the Keynote, Senator Dyck will talk about her family background and education. Feminism and Cree beliefs have proved to be of great help in providing her with insights and the strength to overcome various obstacles in her career as a scientist and professor. She will compare Western science, feminist science and Aboriginal science, and how the Medicine Wheel of the Plains Indians can be used to analyze science and show where it can be improved to attract and retain women and Aboriginals.
+
+Admission is **free**, and the event is open to the public. Please RSVP to:
+
+[new@mech.ubc.ca](mailto:new@mech.ubc.ca)
+
+Message Subject: Career Path Message Body: Your name
+
+When: 
+
+Thursday, October 12, 2006 - 18:00 to 20:00
+
+Where: 
+
+First Nations House of Learning, 1985 West Mall
