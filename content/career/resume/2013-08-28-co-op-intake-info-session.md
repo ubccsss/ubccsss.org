@@ -5,8 +5,22 @@ aliases:
   - /node/1260
 author: Christopher Head
 images: []
+raw_date: Thursday, September 24, 2009 - 12:00 to 13:00
+raw_location: Forest Science Building 1613
+categories: [Career]
+tags: [Resume]
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>If you can&apos;t make it, consider <a href="/node/1259">the one on September 23</a>.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, September 24, 2009 - <span class="date-display-range"><span class="date-display-start">12:00</span> to <span class="date-display-end">13:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Forest Science Building 1613</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+If you can't make it, consider [the one on September 23](/node/1259).
+
+When: 
+
+Thursday, September 24, 2009 - 12:00 to 13:00
+
+Where: 
+
+Forest Science Building 1613
+
+Tags: 
+
+[Career](/career)

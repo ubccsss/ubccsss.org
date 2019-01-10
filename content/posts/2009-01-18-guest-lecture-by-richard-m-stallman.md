@@ -5,7 +5,7 @@ aliases:
   - /node/1184
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 You are cordially invited to attend a special event at UBC's Faculty of Law: "FREE SOFTWARE IN ETHICS AND IN PRACTICE"

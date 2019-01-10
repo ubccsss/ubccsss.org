@@ -6,7 +6,7 @@ aliases:
   - /node/1503
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 Can you hack it? Be a part of [WOWZapp](https://blogs.msdn.com/b/cdnstudents/archive/2012/10/23/canada-join-the-worldwide-wowzapp-hackathon-november-9-11th.aspx), Microsoft’s Worldwide Windows 8 hackathon for students. November 9–11th students from around the world will be building Windows 8 apps. Microsoft Canada is bringing WOWZapp to Vancouver at the BCIT Campus in Burnaby. Food, giveaways, prizes, and of course hacking! [Register today!](https://www.microsoft.com/student/en-us/wowzapp/eventpage.aspx?drop=85WT.mc_id=club)

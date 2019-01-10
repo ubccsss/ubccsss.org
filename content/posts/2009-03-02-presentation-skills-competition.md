@@ -5,7 +5,7 @@ aliases:
   - /node/1205
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 If what you want is practice only, can sign up to present as part of a pair. To be considered for finals, you need to do this solo. Either way, you'll get feedback from fellow students and the workshop leader.

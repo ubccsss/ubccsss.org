@@ -1,6 +1,7 @@
 const fs = require('fs');
 const {join} = require('path');
 const { promisify } = require('util');
+const stat = promisify(fs.stat);
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
 const readdir = promisify(fs.readdir);
@@ -27,6 +28,9 @@ async function stripBadHtml(path) {
     const tags = $(field`tags`).map((i, el) => $(el).text().trim()).get();
 
     if (body.includes('<div')) {
+        if (tags.length > 0) {
+            frontMatter += `\ntags: [${tags.join(', ')}]`;
+        }
         if (date) {
             frontMatter += `\nraw_date: ${date}`;
         }
@@ -42,7 +46,11 @@ async function stripBadHtml(path) {
 
 async function main(folder) {
     const files = await readdir(folder);
-    await Promise.all(files.map(async file => stripBadHtml(join(folder, file))));
+    await Promise.all(files.map(async file => {
+        const path = join(folder, file);
+        const stats = await stat(path);
+        if (stats.isFile()) stripBadHtml(path);
+    }));
 }
 
 main(process.argv[2]);

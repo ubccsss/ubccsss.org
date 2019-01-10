@@ -5,7 +5,7 @@ aliases:
   - /node/1124
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 The application deadline is Nov 21. More information can be found at our website: [http://www.sciencecoop.ubc.ca/prospective/apply/cogs](http://www.sciencecoop.ubc.ca/prospective/apply/cogs).

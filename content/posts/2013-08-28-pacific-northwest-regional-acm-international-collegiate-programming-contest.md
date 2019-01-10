@@ -5,7 +5,7 @@ aliases:
   - /node/1108
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 On November 15, for the first time, UBC is hosting the Pacific NW region ACM International Collegiate Programming Contest. \

@@ -5,7 +5,7 @@ aliases:
   - /node/1011
 author: atjia
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 Nov 15 2007 CS FLS, Gregor Kiczales, UBC: \

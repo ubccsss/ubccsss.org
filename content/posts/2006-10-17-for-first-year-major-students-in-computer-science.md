@@ -6,7 +6,7 @@ aliases:
 author: hybrid11
 images:
   - /files/ubc_logo.jpg
-tags: [Career]
+categories: [Career]
 ---
 
 ![](/files/ubc_logo.jpg) \

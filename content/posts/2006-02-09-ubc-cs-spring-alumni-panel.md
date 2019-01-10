@@ -5,7 +5,7 @@ aliases:
   - /node/366
 author: atjia
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 The CS Alumni Panel Series brings UBC CS alumni together with current and prospective students to discuss how a Computer Science degree fits into our lives. Why choose to do a degree in computer science? Where can we go with our degrees? Each session starts with brief biographical presentations by alumni with distinguished and often unusual careers. Then, we open up for Q&A with the audience. Following the panel, there's opportunities to mingle with the panelists, alumni, current students, and prospective students while enjoying some light snacks and beverages.

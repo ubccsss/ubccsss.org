@@ -6,7 +6,7 @@ aliases:
   - /node/1395
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 Hey everyone,

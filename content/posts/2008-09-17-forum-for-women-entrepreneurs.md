@@ -5,7 +5,7 @@ aliases:
   - /node/1082
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 All female 3rd and 4th year applied science students are invited.

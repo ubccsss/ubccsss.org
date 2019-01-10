@@ -5,7 +5,7 @@ aliases:
   - /node/476
 author: atjia
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 Are you graduating soon and thinking of heading off to [grad school](http://www.phdcomics.com/)? Or perhaps you're interested in applying for an [NSERC](http://www.nserc-crsng.gc.ca/) scholarship?

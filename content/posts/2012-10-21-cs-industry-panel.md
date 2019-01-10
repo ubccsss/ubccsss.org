@@ -6,7 +6,7 @@ aliases:
 author: atjia
 images:
   - /files/paperwork1.jpg
-tags: [Career]
+categories: [Career]
 ---
 
 ![](/files/paperwork1.jpg)How do you approach your work search? Rather than blindly using Google, get some tips from those who've been there! On January 19th, 2006, the CS Department, led by moderator, Steven Wolfman will be hosting an Industry Panel. Many fine people are expected there including **Ronald Rabin** - Information Technology Architect at IBM, **Theresa Roberts** - Founder of TC Roberts & Associates Consulting, **Gwen Litchfield** - Internship Coordinator at SFU, **Mike Blackstone** - CTO of Colligo Networks, and **Bob Campbell** - of Ventures West.

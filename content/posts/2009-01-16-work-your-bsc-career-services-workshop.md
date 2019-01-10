@@ -6,7 +6,7 @@ aliases:
   - /node/1179
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 How to Prepare for a Career Fair

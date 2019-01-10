@@ -5,7 +5,7 @@ aliases:
   - /node/1170
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 The Computer Science department is holding an industry panel, and all undergraduate students are welcome! Come out, learn about potential employers, and don't miss the "speed-mentoring" networking session with the panelists and mentors from the tri-mentoring program at 6:30 in Reboot Café.

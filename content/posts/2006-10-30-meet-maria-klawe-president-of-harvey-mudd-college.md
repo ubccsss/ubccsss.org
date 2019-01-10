@@ -7,7 +7,7 @@ author: robf
 images:
   - /modules/file/icons/application-pdf.png
   - /files/ubc_logo.jpg
-tags: [Career]
+categories: [Career]
 ---
 
 ![](/files/ubc_logo.jpg)

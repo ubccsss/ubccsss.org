@@ -5,7 +5,7 @@ aliases:
   - /node/480
 author: atjia
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 **NOTE: The following event is only for first-year CS students and those newly admitted to the department.**

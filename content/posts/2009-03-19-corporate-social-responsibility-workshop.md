@@ -5,7 +5,7 @@ aliases:
   - /node/1228
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 Are you concerned about tomorrow? Do you think sustainability should be one of the top priorities for businesses? TELUS invites you to take part in a unique workshop where speakers give insight into best case practices and practical applications of Corporate Social Responsibility in the business world. This is an opportunity to learn and discuss the top CSR issues businesses face today and learn how they develop strategies to become premier corporate citizens. Share your challenges and learning while networking with business leaders and students.

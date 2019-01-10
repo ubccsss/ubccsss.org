@@ -7,7 +7,7 @@ aliases:
   - /node/1251
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 The ICICS/CS Reading Room is a great resource available to Undergraduate Students. To learn more about it, please consider joining a Reading Room Orientation session! You'll learn how to search the catalogue, sign out books, locate course reserves and use electronic resources (ebooks, databases).

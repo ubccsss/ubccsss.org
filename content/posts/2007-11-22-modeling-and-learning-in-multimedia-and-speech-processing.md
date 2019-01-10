@@ -5,7 +5,7 @@ aliases:
   - /node/1012
 author: atjia
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 This lecture will present recent advances and central issues in multimedia signal processing, speech processing/recognition in particular, from the speaker’s personal industrial and academic perspectives. Multimedia technologies represent rich applications and interactions among a variety of information sources including speech, music/audio, graphics, animation, image, video, and text/language. They also span over wide-ranging information processing tasks including coding/compression, transmission/networking, analysis, synthesis, perception, recognition, understanding, and retrieval. Future multimedia technology development will require an increasing level of intelligence, for which modeling and learning are two central issues. As a concrete example, this lecture will focus on the development of speech recognition and understanding technology over the past four decades and elaborate on the key roles that modeling and learning have been playing in the technology development.

@@ -5,7 +5,7 @@ aliases:
   - /node/1123
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 (PIRSS) is a multidisciplinary undergraduate seminar series presented by URO (Undergraduate Research Opportunities). Each seminar session will have research presentations by two or three undergraduate researchers followed by Q&A of the presenters' research experiences. If you want to find out what real research is like for undergraduates, this is the place to be!

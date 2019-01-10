@@ -5,7 +5,7 @@ aliases:
   - /node/1013
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 You are invited!

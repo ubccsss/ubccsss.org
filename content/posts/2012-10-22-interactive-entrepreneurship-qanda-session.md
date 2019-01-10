@@ -5,7 +5,7 @@ aliases:
   - /node/513
 author: hybrid11
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 The UBC Technology Entrepreneurship Club presents our second seminar of the year. \

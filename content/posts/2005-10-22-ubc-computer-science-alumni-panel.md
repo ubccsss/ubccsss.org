@@ -5,7 +5,7 @@ aliases:
   - /node/62
 author: atjia
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 YOU'RE INVITED!

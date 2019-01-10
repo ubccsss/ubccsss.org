@@ -6,7 +6,7 @@ aliases:
   - /node/1330
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 Bright Ideas Competition 2010 is now accepting applications!

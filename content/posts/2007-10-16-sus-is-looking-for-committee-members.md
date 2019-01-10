@@ -6,7 +6,7 @@ aliases:
 author: atjia
 images:
   - /files/sus.png
-tags: [Career]
+categories: [Career]
 ---
 
 ![](/files/sus.png)The [Science Undergraduate Society](http://www.sus.ubc.ca/) of UBC is looking for people to participate in a wide variety of committees. This is a **great** opportunity to get involved in our parent organization, SUS, and get some experience that really looks good on your resume! And you'll be able to help out and contribute to the UBC community. Everybody wins! October 18, SUB 206 at 12:45 pm to be appointed OR contact the Committee Chair if you cannot make it.

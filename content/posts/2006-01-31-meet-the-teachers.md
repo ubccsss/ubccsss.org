@@ -5,7 +5,7 @@ aliases:
   - /node/409
 author: atjia
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 **Meet the Teachers** is another fun event that usually happens at the start of second term. Having gone almost through half of the academic year already, you're no doubt full of lots of suggestions on how to make your next 4 (or less) years at UBC better. What courses could be added or what things would you like to see? Do you support issues like mandatory laptop programs that other Computer Science faculties in the States are doing?

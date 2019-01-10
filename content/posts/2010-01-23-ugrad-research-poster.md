@@ -6,7 +6,7 @@ aliases:
   - /node/1305
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 Have you thought about doing research? Are you interested in knowing more about the various areas of research of our professors? Come talk to various professors and check out research posters that your fellow undergrad students have put together. Learn more about research

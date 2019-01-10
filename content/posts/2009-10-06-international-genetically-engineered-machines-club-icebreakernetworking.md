@@ -5,7 +5,7 @@ aliases:
   - /node/1264
 author: Christopher Head
 images: []
-tags: [Career]
+categories: [Career]
 ---
 
 Want to be at the frontier of biotechnology and bioinformatics? Are you looking for dry lab as well as wet lab experience? Want to build machines in a biological system using principles of computational design? Curious about what the interdisciplinary field of synthetic biology is?
@@ -14,7 +14,7 @@ The iGEM (International Genetically Engineered Machines) of UBC Club is hosting 
 
 See you there!
 
-iGEM of UBC Execs 2009  
+iGEM of UBC Execs 2009
 [www.ubcigem.com](http://www.ubcigem.com/)
 
 When: 
