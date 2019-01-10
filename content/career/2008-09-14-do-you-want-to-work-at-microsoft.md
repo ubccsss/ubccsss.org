@@ -6,10 +6,11 @@ aliases:
   - /node/346
 author: Christopher Head
 images: []
+categories: [Career]
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Want to be <b>sure</b> your resume gets seen by the Microsoft Recruiter?  </p>
-<p>If you forgot to bring your resume to MS talk or weren&apos;t able to make it, you&apos;ve got another chance!  Email it to Joshua Shrode at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b7ddd8c4dfc5d8d3d2f7daded4c5d8c4d8d1c399d4d8da">[email&#xA0;protected]</a> with the subject &quot;UBC Resume&quot;.  Please note that he will not be able to reply to everyone.</p>
-<p>Remember, nobody has ever gotten hired without first applying!</p>
-</div></div></div>    <footer>
-          </footer>
+Want to be **sure** your resume gets seen by the Microsoft Recruiter?
+
+If you forgot to bring your resume to MS talk or weren't able to make it, you've got another chance! Email it to Joshua Shrode at [\[email protected\]](/cdn-cgi/l/email-protection) with the subject "UBC Resume". Please note that he will not be able to reply to everyone.
+
+Remember, nobody has ever gotten hired without first applying!

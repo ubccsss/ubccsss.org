@@ -5,9 +5,9 @@ aliases:
   - /node/1182
 author: Christopher Head
 images: []
+categories: [Career]
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Lumerical Solutions, a Vancouver-based provider of high-performance computer-aided engineering software, is looking to hire a software developer.</p>
-<p>Please see the <a href="/files/jan2009-lumerical-swdev1.pdf">the brochure</a> for more details!</p>
-</div></div></div>    <footer>
-          </footer>
+Lumerical Solutions, a Vancouver-based provider of high-performance computer-aided engineering software, is looking to hire a software developer.
+
+Please see the [the brochure](/files/jan2009-lumerical-swdev1.pdf) for more details!

@@ -6,8 +6,25 @@ aliases:
 author: atjia
 images:
   - /modules/file/icons/application-pdf.png
+categories: [Career]
+raw_date: Wednesday, September 10, 2008 - 18:30 to 20:30
+raw_location: Wesbrook 100 (6174 University Blvd)
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Telus is inviting all students to their Leadership Development Program info session today at Wesbrook 100.  For more information about their student and new grad opportunities, please visit <a href="http://telus.com/careers">http://telus.com/careers</a>.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, September 10, 2008 - <span class="date-display-range"><span class="date-display-start">18:30</span> to <span class="date-display-end">20:30</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Wesbrook 100 (6174 University Blvd)</div></div></div><div class="field field-name-field-file-attachments field-type-file field-label-above"><div class="field-label">File Attachments:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://ubccsss.org/files/TELUS_BTLDP.pdf" type="application/pdf; length=1648170">TELUS_BTLDP.pdf</a></span></div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+Telus is inviting all students to their Leadership Development Program info session today at Wesbrook 100. For more information about their student and new grad opportunities, please visit [http://telus.com/careers](http://telus.com/careers).
+
+When: 
+
+Wednesday, September 10, 2008 - 18:30 to 20:30
+
+Where: 
+
+Wesbrook 100 (6174 University Blvd)
+
+File Attachments: 
+
+ ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [TELUS\_BTLDP.pdf](https://ubccsss.org/files/TELUS_BTLDP.pdf)
+
+Tags: 
+
+[Career](/career)

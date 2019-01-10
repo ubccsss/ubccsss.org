@@ -5,13 +5,24 @@ aliases:
   - /node/1002
 author: atjia
 images: []
+raw_date: Monday, October 22, 2007 - 13:00 to 14:00
+raw_location: Scarfe Room 1020
+categories: [Career]
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Interested in Consulting?  Listen to speakers of Accenture give an introduction to consulting in an <a href="http://www.cus.sauder.ubc.ca/clubs/consulting">UBC Consulting Club</a> event.</p>
-<p>Event: What is Consulting<br>
-Date: Monday, October 22<br>
-Time &amp; Location: 1-2pm in Scarfe 1020<br>
-Keynote speakers: Presentation will be made by Annie Hsu and Andrew Kim (both are consultants from Accenture)</p>
-<p>Refreshments will be served.  Please RSVP with <a href="/cdn-cgi/l/email-protection#5b383435282e372f32353c38372e391b3c363a323775383436"><span class="__cf_email__" data-cfemail="6b080405181e071f02050c08071e092b0c060a020745080406">[email&#xA0;protected]</span></a>.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Monday, October 22, 2007 - <span class="date-display-range"><span class="date-display-start">13:00</span> to <span class="date-display-end">14:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Scarfe Room 1020</div></div></div>    <footer>
-          </footer>
+Interested in Consulting? Listen to speakers of Accenture give an introduction to consulting in an [UBC Consulting Club](http://www.cus.sauder.ubc.ca/clubs/consulting) event.
+
+Event: What is Consulting \
+Date: Monday, October 22 \
+Time & Location: 1-2pm in Scarfe 1020 \
+Keynote speakers: Presentation will be made by Annie Hsu and Andrew Kim (both are consultants from Accenture)
+
+Refreshments will be served. Please RSVP with [\[email protected\]](/cdn-cgi/l/email-protection#5b383435282e372f32353c38372e391b3c363a323775383436).
+
+When: 
+
+Monday, October 22, 2007 - 13:00 to 14:00
+
+Where: 
+
+Scarfe Room 1020

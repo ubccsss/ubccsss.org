@@ -6,8 +6,22 @@ aliases:
 author: atjia
 images:
   - /files/google-breakfast.png
+tags: [Social]
+categories: [Career]
+raw_date: Thursday, November 1, 2007 - 09:40 to 10:40
+raw_location: X-wing Lounge
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="/files/google-breakfast.png" vspace="5" hspace="5" align="left">Google Campus Ambassador, Yaying Guo, will be hosting a first-ever <strong>Google breakfast</strong> event on campus this November 1st.  Come and join us for some donuts and some conversation - anything really :-)  It&apos;s a little bit of a breather in between midterms and a good excuse to come in a bit earlier on a weekday than you might normally.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, November 1, 2007 - <span class="date-display-range"><span class="date-display-start">09:40</span> to <span class="date-display-end">10:40</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">X-wing Lounge</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/social">Social</a></div></div></div>      </footer>
+![](/files/google-breakfast.png)Google Campus Ambassador, Yaying Guo, will be hosting a first-ever **Google breakfast** event on campus this November 1st. Come and join us for some donuts and some conversation - anything really :-) It's a little bit of a breather in between midterms and a good excuse to come in a bit earlier on a weekday than you might normally.
+
+When: 
+
+Thursday, November 1, 2007 - 09:40 to 10:40
+
+Where: 
+
+X-wing Lounge
+
+Tags: 
+
+[Social](/social)

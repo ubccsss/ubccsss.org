@@ -5,12 +5,14 @@ aliases:
   - /node/1277
 author: Christopher Head
 images: []
+categories: [Career]
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Position is 10 hours/week, $19.07/hr.</p>
-<p>Duties involved: helping to develop, program and launch a web survey, assisting with online applications, and contributing to client support.<br>
-Eligibility Criteria: Must be a Canadian citizen or permanent resident; undergraduate or graduate student; must be enrolled in 9 credits or more if an undergraduate&#x2014;or enrolled full-time if a grad student.</p>
-<p>Qualifications: You need to know Microsoft Office, Windows and/or Linux, have programming experience with MySQL, PHP. Familiarity with Python and/or Django an asset.</p>
-<p>For more detailed information and application instructions, go to <a href="http://www.careers.ubc.ca">www.careers.ubc.ca</a>. Click on &#x201C;Work Learn and Work Study&#x201D;. On next screen, click on &#x201C;Search for Work Study jobs&#x201D;. Then enter project #3134.</p>
-</div></div></div>    <footer>
-          </footer>
+Position is 10 hours/week, $19.07/hr.
+
+Duties involved: helping to develop, program and launch a web survey, assisting with online applications, and contributing to client support. \
+Eligibility Criteria: Must be a Canadian citizen or permanent resident; undergraduate or graduate student; must be enrolled in 9 credits or more if an undergraduate—or enrolled full-time if a grad student.
+
+Qualifications: You need to know Microsoft Office, Windows and/or Linux, have programming experience with MySQL, PHP. Familiarity with Python and/or Django an asset.
+
+For more detailed information and application instructions, go to [www.careers.ubc.ca](http://www.careers.ubc.ca). Click on “Work Learn and Work Study”. On next screen, click on “Search for Work Study jobs”. Then enter project #3134.

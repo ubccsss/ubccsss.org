@@ -5,12 +5,25 @@ aliases:
   - /node/464
 author: mlee
 images: []
+raw_date: Thursday, March 23, 2006 - 09:00 to 11:00
+raw_location: 4611 Canada Way, Burnaby
+categories: [Career]
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Interested in learning what it&apos;s like to work at IBM? Why not go there and see for yourself!</p>
-<p>The CSSS/MIS Day in a Firm is your chance to find out what it&apos;s like to work at the <a href="https://www-03.ibm.com/services/ca/en/innovation/vancouver/">IBM Pacific Development Centre</a>.</p>
-<p>The Pacific Development Centre, IBM&apos;s Centres for IBM e-business Innovation, is an inbound solution development lab working with IBM Global Services to bring custom software solutions to the world. In fact, only 4% of the solutions produced at the Pacific Development Centre are for companies based in the province of British Columbia.</p>
-<p>Excited? RSVP to secretary(at)thecube.ca by <strong>Monday Mar. 20</strong>. If you&apos;re without a ride, you can meet the group on campus at 8:50am at Bay 6 in the UBC Bus Loop. There are <strong>only 30 spots</strong> available, so act now!</p>
-<p>Please note that business casual attire is recommended.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, March 23, 2006 - <span class="date-display-range"><span class="date-display-start">09:00</span> to <span class="date-display-end">11:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">4611 Canada Way, Burnaby</div></div></div>    <footer>
-          </footer>
+Interested in learning what it's like to work at IBM? Why not go there and see for yourself!
+
+The CSSS/MIS Day in a Firm is your chance to find out what it's like to work at the [IBM Pacific Development Centre](https://www-03.ibm.com/services/ca/en/innovation/vancouver/).
+
+The Pacific Development Centre, IBM's Centres for IBM e-business Innovation, is an inbound solution development lab working with IBM Global Services to bring custom software solutions to the world. In fact, only 4% of the solutions produced at the Pacific Development Centre are for companies based in the province of British Columbia.
+
+Excited? RSVP to secretary(at)thecube.ca by **Monday Mar. 20**. If you're without a ride, you can meet the group on campus at 8:50am at Bay 6 in the UBC Bus Loop. There are **only 30 spots** available, so act now!
+
+Please note that business casual attire is recommended.
+
+When: 
+
+Thursday, March 23, 2006 - 09:00 to 11:00
+
+Where: 
+
+4611 Canada Way, Burnaby

@@ -5,8 +5,7 @@ aliases:
   - /node/1242
 author: Christopher Head
 images: []
+categories: [Career]
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="/cdn-cgi/l/email-protection#355451545875595a47545b411b565a58">Adam Lorant</a> is looking for someone to take over managing and operating a completed iPhone application called <a href="http://reachmyfile.com">ReachMyFile</a>. If you&apos;re interested, contact Adam.</p>
-</div></div></div>    <footer>
-          </footer>
+[Adam Lorant](/cdn-cgi/l/email-protection#355451545875595a47545b411b565a58) is looking for someone to take over managing and operating a completed iPhone application called [ReachMyFile](http://reachmyfile.com). If you're interested, contact Adam.

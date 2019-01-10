@@ -5,16 +5,33 @@ aliases:
   - /node/511
 author: jlo
 images: []
+categories: [Career]
+raw_date: Tuesday, October 10, 2006 - 13:00 to 14:30
+raw_location: Henry Angus 309 (Commerce Building)
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="http://www.deloitte.com/dtt/cda/l10n/lid-1/img/site/firm_logo.gif" align="left" vspace="5" hspace="5"><br>
-Lunch &amp; Learn: Information Management</p>
-<p>Interested in learning about Enterprise Risk and Control Assurance?  Tuesday, Oct 10th, at 1pm to 2:30pm (Room HA 309), representatives from Deloitte&apos;s Enterprise Risk Services will be on-hand to discuss such topics as information organization, privacy, records management, Sarbanes-Oxley and the application of controls to address compliance issues.  Pizza and refreshments will be available.</p>
-<p>Looking forward to seeing you there!</p>
-<p>Oh, regarding investors education club, you can check it out at www.ubcinvestors.com. Let your members know if you can, haha. Thanks a lot. </p>
-<p>David Zhang<br>
-President<br>
-Investors Education Club<br>
-University of British Columbia</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Tuesday, October 10, 2006 - <span class="date-display-range"><span class="date-display-start">13:00</span> to <span class="date-display-end">14:30</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Henry Angus 309 (Commerce Building)</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+![](http://www.deloitte.com/dtt/cda/l10n/lid-1/img/site/firm_logo.gif)
+Lunch & Learn: Information Management
+
+Interested in learning about Enterprise Risk and Control Assurance? Tuesday, Oct 10th, at 1pm to 2:30pm (Room HA 309), representatives from Deloitte's Enterprise Risk Services will be on-hand to discuss such topics as information organization, privacy, records management, Sarbanes-Oxley and the application of controls to address compliance issues. Pizza and refreshments will be available.
+
+Looking forward to seeing you there!
+
+Oh, regarding investors education club, you can check it out at www.ubcinvestors.com. Let your members know if you can, haha. Thanks a lot.
+
+David Zhang \
+President \
+Investors Education Club \
+University of British Columbia
+
+When: 
+
+Tuesday, October 10, 2006 - 13:00 to 14:30
+
+Where: 
+
+Henry Angus 309 (Commerce Building)
+
+Tags: 
+
+[Career](/career)

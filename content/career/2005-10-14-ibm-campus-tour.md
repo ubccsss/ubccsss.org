@@ -5,10 +5,25 @@ aliases:
   - /node/57
 author: atjia
 images: []
+categories: [Career]
+raw_date: Wednesday, September 28, 2005 - 17:30 to 19:30
+raw_location: Wesbrook Building, Room 201
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Are you interested in finding more about the &quot;Big Blue&quot;?  Come to the IBM Campus Tour and meet your IBM Student Ambassador, Erik Zawadzki!</p>
-<p>&quot;IBM IS HIRING!!!  We are looking for Business and Technical graduates to fill a number of roles: Sales, Consulting, Procurement, Human Resources, Finance, IT, Software Developers, Business Analysts, and many, many more!</p>
-<p>IBM is coming to your campus because we want to speak with you!  We would like to take this opportunity to invite you to attend the Business and Technical Information Session on <b>Wednesday September 28, 2005 from 5:30-7:30pm in the Wesbrook Building Room 201</b>.   This is your chance to learn about our exciting New Graduate opportunities for 2006 and meet with hiring managers from across our business!&quot;</p>
-<!--break--></div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, September 28, 2005 - <span class="date-display-range"><span class="date-display-start">17:30</span> to <span class="date-display-end">19:30</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Wesbrook Building, Room 201</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+Are you interested in finding more about the "Big Blue"? Come to the IBM Campus Tour and meet your IBM Student Ambassador, Erik Zawadzki!
+
+"IBM IS HIRING!!! We are looking for Business and Technical graduates to fill a number of roles: Sales, Consulting, Procurement, Human Resources, Finance, IT, Software Developers, Business Analysts, and many, many more!
+
+IBM is coming to your campus because we want to speak with you! We would like to take this opportunity to invite you to attend the Business and Technical Information Session on **Wednesday September 28, 2005 from 5:30-7:30pm in the Wesbrook Building Room 201**. This is your chance to learn about our exciting New Graduate opportunities for 2006 and meet with hiring managers from across our business!"
+
+When: 
+
+Wednesday, September 28, 2005 - 17:30 to 19:30
+
+Where: 
+
+Wesbrook Building, Room 201
+
+Tags: 
+
+[Career](/career)

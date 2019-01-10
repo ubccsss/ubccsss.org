@@ -6,18 +6,31 @@ aliases:
 author: atjia
 images:
   - /files/ibm%20logo.jpg
+categories: [Career]
+raw_date: Thursday, November 10, 2005 - 11:30 to 12:00
+raw_location: Dempster Room 310
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="/files/ibm%20logo.jpg"><br>
-Come hear <b>Eric Zawadzki</b>, a Co-op student who worked 16 months at IBM talk about . . .</p>
-<ul>
-<li>Description of the EPIC program
-</li><li>Description of some of the internships and co-op positions
-</li><li>Brief description of the Toronto/Ottawa labs
-</li><li>Explain the Extreme Blue program
-</li><li>Give pointers on how to navigate through the IBM Career Website in particular the &#x201C;How to Apply&#x201D; section
-</li><li>Describe his work experience at IBM
-</li></ul>
-<p>No need to RSVP. See you there.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, November 10, 2005 - <span class="date-display-range"><span class="date-display-start">11:30</span> to <span class="date-display-end">12:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Dempster Room 310</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+![](/files/ibm%20logo.jpg)
+Come hear **Eric Zawadzki**, a Co-op student who worked 16 months at IBM talk about . . .
+
+*   Description of the EPIC program
+*   Description of some of the internships and co-op positions
+*   Brief description of the Toronto/Ottawa labs
+*   Explain the Extreme Blue program
+*   Give pointers on how to navigate through the IBM Career Website in particular the “How to Apply” section
+*   Describe his work experience at IBM
+
+No need to RSVP. See you there.
+
+When: 
+
+Thursday, November 10, 2005 - 11:30 to 12:00
+
+Where: 
+
+Dempster Room 310
+
+Tags: 
+
+[Career](/career)

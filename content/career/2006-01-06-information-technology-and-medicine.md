@@ -5,9 +5,23 @@ aliases:
   - /node/362
 author: atjia
 images: []
+categories: [Career]
+raw_date: Thursday, February 2, 2006 - 11:30 to 12:30
+raw_location: Scarfe 100
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Come to this information session and listen to <b>Dr. Kendall Ho</b>, the Associate Dean of UBC Faculty of Medicine talk about opportunities and research in the field of Medicine using Computer Science!</p>
-<p>For more information, see <a href="http://www.cs.ubc.ca/documents/Events.pdf">http://www.cs.ubc.ca/documents/Events.pdf</a></p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, February 2, 2006 - <span class="date-display-range"><span class="date-display-start">11:30</span> to <span class="date-display-end">12:30</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Scarfe 100</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+Come to this information session and listen to **Dr. Kendall Ho**, the Associate Dean of UBC Faculty of Medicine talk about opportunities and research in the field of Medicine using Computer Science!
+
+For more information, see [http://www.cs.ubc.ca/documents/Events.pdf](http://www.cs.ubc.ca/documents/Events.pdf)
+
+When: 
+
+Thursday, February 2, 2006 - 11:30 to 12:30
+
+Where: 
+
+Scarfe 100
+
+Tags: 
+
+[Career](/career)

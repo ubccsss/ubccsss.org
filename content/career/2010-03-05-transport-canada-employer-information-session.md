@@ -5,8 +5,21 @@ aliases:
   - /node/1333
 author: Christopher Head
 images: []
+categories: [Career]
+raw_date: Tuesday, March 16, 2010 - 16:00 to 18:00
+raw_location: Hennings 201
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Target audience: All students in Business, Engineering, Computer Science, Arts and Environmental Science.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Tuesday, March 16, 2010 - <span class="date-display-range"><span class="date-display-start">16:00</span> to <span class="date-display-end">18:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Hennings 201</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+Target audience: All students in Business, Engineering, Computer Science, Arts and Environmental Science.
+
+When: 
+
+Tuesday, March 16, 2010 - 16:00 to 18:00
+
+Where: 
+
+Hennings 201
+
+Tags: 
+
+[Career](/career)

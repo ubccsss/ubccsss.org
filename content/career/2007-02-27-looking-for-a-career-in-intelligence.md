@@ -5,14 +5,24 @@ aliases:
   - /node/712
 author: robf
 images: []
+raw_date: Tuesday, March 13, 2007 - 13:30 to 15:00
+raw_location: Dempster 301
+categories: [Career]
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><b>The Communications Security Establishment</b> (CSE), Canada&apos;s cryptologic agency,<br>
-provides foreign intelligence to the Government of Canada and protects communications<br>
-related to our country&apos;s national interests.  If you have a techical background and/or<br>
-an understanding of foreign languages, cultures and politics, come find out about the<br>
-challenging careers at CSE.  CSE representatives will be on campus to present the<br>
-following information session:</p>
-<p>Additional information about CSE job postings is available at campus.workopolis.com ( <a href="http://campusdb.workopolis.com/jobshome/db/campusen.featured_joblist?pi_employer=450822">http://campusdb.workopolis.com/jobshome/db/campusen.featured_joblist?pi_employer=450822</a>)</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Tuesday, March 13, 2007 - <span class="date-display-range"><span class="date-display-start">13:30</span> to <span class="date-display-end">15:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Dempster 301</div></div></div>    <footer>
-          </footer>
+**The Communications Security Establishment** (CSE), Canada's cryptologic agency,
+provides foreign intelligence to the Government of Canada and protects communications
+related to our country's national interests. If you have a techical background and/or
+an understanding of foreign languages, cultures and politics, come find out about the
+challenging careers at CSE. CSE representatives will be on campus to present the
+following information session:
+
+Additional information about CSE job postings is available at campus.workopolis.com ( [http://campusdb.workopolis.com/jobshome/db/campusen.featured\_joblist?pi\_employer=450822](http://campusdb.workopolis.com/jobshome/db/campusen.featured_joblist?pi_employer=450822))
+
+When: 
+
+Tuesday, March 13, 2007 - 13:30 to 15:00
+
+Where: 
+
+Dempster 301

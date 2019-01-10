@@ -5,9 +5,9 @@ aliases:
   - /node/1195
 author: Christopher Head
 images: []
+categories: [Career]
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Aer Marketing Inc. is a boutique web design agency focusing on online brand presence and usability schematics. We are currently looking for specialized web designers and coders who will be interested in part-time contract work. Please find the job description at the following link:</p>
-<p><a href="http://aermarketing.com/documents/aermarketing_aernetwork.pdf">http://aermarketing.com/documents/aermarketing_aernetwork.pdf</a></p>
-</div></div></div>    <footer>
-          </footer>
+Aer Marketing Inc. is a boutique web design agency focusing on online brand presence and usability schematics. We are currently looking for specialized web designers and coders who will be interested in part-time contract work. Please find the job description at the following link:
+
+[http://aermarketing.com/documents/aermarketing\_aernetwork.pdf](http://aermarketing.com/documents/aermarketing_aernetwork.pdf)

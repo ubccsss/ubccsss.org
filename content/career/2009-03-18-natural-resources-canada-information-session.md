@@ -5,8 +5,21 @@ aliases:
   - /node/1217
 author: Christopher Head
 images: []
+categories: [Career]
+raw_date: Thursday, March 19, 2009 - 11:00
+raw_location: SCRF 201
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>UBC Career Services would like to invite you to attend an Info Session presented by Natural Resources Canada. Lunch will be served. They are interested in meeting graduating students interested in working within the federal government. They will be presenting the different career opportunities within the company.</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, March 19, 2009 - 11:00</span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">SCRF 201</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+UBC Career Services would like to invite you to attend an Info Session presented by Natural Resources Canada. Lunch will be served. They are interested in meeting graduating students interested in working within the federal government. They will be presenting the different career opportunities within the company.
+
+When: 
+
+Thursday, March 19, 2009 - 11:00
+
+Where: 
+
+SCRF 201
+
+Tags: 
+
+[Career](/career)

@@ -6,13 +6,31 @@ aliases:
 author: atjia
 images:
   - /files/enterprize.png
+categories: [Career]
+raw_date: Friday, February 6, 2009 (All day) to Sunday, February 8, 2009 (All day)
+raw_location: Downtown Vancouver
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="/files/enterprize.png" alt="Enterprize"></p>
-<p>Wondering where else your degree can take you?  Are you eager to gain valuable networks with other inspired individuals, or are you just interested in learning more about business?</p>
-<p>If any of these questions appeal to you, then ticket sales to an exciting event for you have just opened! The Enterprize Entrepreneurship conference takes place in the Hyatt Regency Hotel from <strong>February 6-8th 2009</strong>. It is a 3 day conference in downtown Vancouver with <strong>2 keynote presentations, 20 speaker seminars, an entrepreneurship expo, innovation challenges, business plan finalist presentations, 2 night events, a gala dinner and amazing networking opportunity with 450 delegates, business professionals and entrepreneurs from across Canada</strong>.</p>
-<p>As a Science student, you are eligible to apply for a <a href="http://www.sus.ubc.ca/services/awardsgrants/#conferences">subsidy covering up to 80% of your ticket price</a>! Check out our website at <a href="http://www.enterprizecanada.org" title="www.enterprizecanada.org">www.enterprizecanada.org</a> or <strong>email <a class="spamspan" href="/cdn-cgi/l/email-protection#54303d3b3a3a317a373c3d3a333f3b3114313a20312624263d2e3137353a3530357a3b2633"><span class="__cf_email__" data-cfemail="5d393432333338733e3534333a3632381d383329382f2d2f3427383e3c333c393c73322f3a">[email&#xA0;protected]</span></a></strong> for more information!</p>
-<h3>Have a great idea?</h3>
-<p>Enterprize is also hosting a  National Business Plan Competition.  With an unparalleled prize pool worth <strong>over $100,000</strong>, the 2009 competition will showcase some of the best and brightest business plans from across Canada.  Transform your ideas into reality as you compete against over 100 teams for a chance at cash prizes, mentorship opportunities, or even an opportunity to audition in front of a panel of venture capitalist investors on <strong>CBC&apos;s Dragons&apos; Den</strong>! The competition is opened to undergraduate and graduate students.  Business plan&apos;s are due November 30.  There are regional competitions culminating in the national competition that will take place in Vancouver in February 2009.&quot;</p>
-</div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-range"><span class="date-display-start">Friday, February 6, 2009 (All day)</span> to <span class="date-display-end">Sunday, February 8, 2009 (All day)</span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Downtown Vancouver</div></div></div>    <footer>
-    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
+![Enterprize](/files/enterprize.png)
+
+Wondering where else your degree can take you? Are you eager to gain valuable networks with other inspired individuals, or are you just interested in learning more about business?
+
+If any of these questions appeal to you, then ticket sales to an exciting event for you have just opened! The Enterprize Entrepreneurship conference takes place in the Hyatt Regency Hotel from **February 6-8th 2009**. It is a 3 day conference in downtown Vancouver with **2 keynote presentations, 20 speaker seminars, an entrepreneurship expo, innovation challenges, business plan finalist presentations, 2 night events, a gala dinner and amazing networking opportunity with 450 delegates, business professionals and entrepreneurs from across Canada**.
+
+As a Science student, you are eligible to apply for a [subsidy covering up to 80% of your ticket price](http://www.sus.ubc.ca/services/awardsgrants/#conferences)! Check out our website at [www.enterprizecanada.org](http://www.enterprizecanada.org "www.enterprizecanada.org") or **email [\[email protected\]](/cdn-cgi/l/email-protection#54303d3b3a3a317a373c3d3a333f3b3114313a20312624263d2e3137353a3530357a3b2633)** for more information!
+
+### Have a great idea?
+
+Enterprize is also hosting a National Business Plan Competition. With an unparalleled prize pool worth **over $100,000**, the 2009 competition will showcase some of the best and brightest business plans from across Canada. Transform your ideas into reality as you compete against over 100 teams for a chance at cash prizes, mentorship opportunities, or even an opportunity to audition in front of a panel of venture capitalist investors on **CBC's Dragons' Den**! The competition is opened to undergraduate and graduate students. Business plan's are due November 30. There are regional competitions culminating in the national competition that will take place in Vancouver in February 2009."
+
+When: 
+
+Friday, February 6, 2009 (All day) to Sunday, February 8, 2009 (All day)
+
+Where: 
+
+Downtown Vancouver
+
+Tags: 
+
+[Career](/career)
