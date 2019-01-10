@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Thursday, September 17, 2009 - 15:30 to 16:50
-raw_location: DMP 110
+location:
+  name: DMP 110
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Dr. Ben Livshits will present his talk, "Towards Better Performance and Security for AJAX Web Application". Anyone is welcome to attend.

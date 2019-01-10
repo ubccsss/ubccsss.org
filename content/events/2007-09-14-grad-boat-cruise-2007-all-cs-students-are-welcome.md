@@ -8,7 +8,14 @@ aliases:
 author: atjia
 images: []
 raw_date: Thursday, April 5, 2007 - 19:00 to 23:30
-raw_location: 450 Denman St. (North Foot of Denman)
+location:
+  name: Pick Up/Drop Off at North Foot of Denman St
+  address:
+    streetAddress: 450 Denman St
+    addressLocality: Vancouver
+    postalCode: V6G 3H1
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 It's finally official. The date for our annual Grad Boat Cruise is **Thursday April 5th!**

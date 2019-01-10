@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Thursday, April 8, 2010 - 15:30 to 16:50
-raw_location: ICICS X360
+location:
+  name: ICICS X360
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Title: Physical Interface Design and Communication Through Touch

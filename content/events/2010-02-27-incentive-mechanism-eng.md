@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Thursday, March 11, 2010 - 14:30 to 15:50
-raw_location: DMP 110
+location:
+  name: DMP 110
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 The talk will be given by David Parkes a professor from Harvard University.

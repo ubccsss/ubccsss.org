@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Wednesday, November 27, 2013 - 17:30
-raw_location: DMP 110
+location:
+  name: DMP 110
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Invite friends, bring a date. The CSSS is presenting the Doctor Who 50th Anniversary episode.

@@ -9,7 +9,14 @@ author: njhu
 images:
   - /files/media%20cover%20new.jpg
 raw_date: Monday, October 29, 2018 - 18:30 to 20:30
-raw_location: DMP 301
+location:
+  name: DMP 301
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/media%20cover%20new.jpg)

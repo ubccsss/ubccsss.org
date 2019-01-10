@@ -9,7 +9,14 @@ author: arieljcao
 images:
   - /files/Board%20Games%20Night%202_0.jpg
 raw_date: Friday, November 3, 2017 - 18:00 to 20:00
-raw_location: The Cube (ICICS 021)
+location:
+  name: The Cube (ICICS 021)
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/Board%20Games%20Night%202_0.jpg)

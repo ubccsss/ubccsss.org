@@ -7,7 +7,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Friday, October 30, 2009 - 13:00 to 15:00
-raw_location: ICICS X-Wing First Floor Lobby (by Reboot Café)
+location:
+  name: ICICS X-Wing First Floor Lobby (by Reboot Café)
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 When: 

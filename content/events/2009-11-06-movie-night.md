@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Thursday, November 19, 2009 - 18:00 to 22:00
-raw_location: DMP 301
+location:
+  name: DMP 301
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Hosted by CSSS, we will be showing The Hangover and Star Trek. Entrance is free, and there will be free popcorn and pop!

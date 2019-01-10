@@ -7,7 +7,14 @@ aliases:
 author: atjia
 images: []
 raw_date: Thursday, September 21, 2006 - 12:30 to 14:00
-raw_location: ICCS X530
+location:
+  name: ICICS X530
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 On Thursday, September 21st between 12:30-2pm **Charles Krzysik** will be offering a tutorial on the use of the Home Suite Home '06 Remote Computing CD. The tutorial will take place in X350 and will include the following topics:

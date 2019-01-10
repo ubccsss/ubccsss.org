@@ -7,7 +7,14 @@ aliases:
 author: bertong
 images: []
 raw_date: Friday, October 29, 2010 - 19:00 to 22:00
-raw_location: DMP 301
+location:
+  name: DMP 301
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Hey all,

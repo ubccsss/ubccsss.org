@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Monday, January 25, 2010 - 17:00 to 18:00
-raw_location: DMP 101
+location:
+  name: DMP 101
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Don't stress out over public speaking! Learn some tips on how to effectively present in front of a group.

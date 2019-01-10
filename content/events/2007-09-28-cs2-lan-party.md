@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Friday, September 28, 2007 - 18:00 to 23:59
-raw_location: ICICS X-wing Lounge
+location:
+  name: ICICS X-wing Lounge
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 #### General:

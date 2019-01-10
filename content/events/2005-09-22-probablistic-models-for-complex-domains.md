@@ -9,7 +9,14 @@ author: Christopher Head
 images:
   - /files/daphne05.jpg
 raw_date: Thursday, September 22, 2005 - 16:00 to 17:30
-raw_location: DMP 310
+location:
+  name: DMP 310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/daphne05.jpg)Many domains in the real world are richly structured, containing a diverse set of objects, related to each other in a variety of ways. For example, a living cell contains a rich network of interacting genes, that come together to perform key functions.

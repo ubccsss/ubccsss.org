@@ -9,7 +9,14 @@ images:
   - /files/fowcs-scrolly-title.gif
   - /files/askwok.jpg
 raw_date: Friday, November 16, 2007 - 11:00 to 12:00
-raw_location: ICICS X836
+location:
+  name: ICICS X836
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/fowcs-scrolly-title.gif)

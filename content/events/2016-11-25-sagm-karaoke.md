@@ -7,7 +7,14 @@ author: Tristan Rice
 images:
   - /files/15205701_10154809941108982_1878677882_o.jpg
 raw_date: Friday, November 25, 2016 - 05:30
-raw_location: DMP 110
+location:
+  name: DMP 110
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/15205701_10154809941108982_1878677882_o.jpg)

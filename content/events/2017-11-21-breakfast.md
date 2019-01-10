@@ -9,7 +9,14 @@ author: arieljcao
 images:
   - /files/Cube%20Breakfast%202.jpg
 raw_date: Tuesday, November 21, 2017 - 09:00 to 11:00
-raw_location: The Cube (ICICS 021)
+location:
+  name: The Cube (ICICS 021)
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/Cube%20Breakfast%202.jpg)

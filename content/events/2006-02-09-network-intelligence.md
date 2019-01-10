@@ -9,7 +9,14 @@ author: atjia
 images:
   - /files/geng_lin_picture.jpg
 raw_date: Thursday, February 9, 2006 - 15:00 to 16:30
-raw_location: DMP 310
+location:
+  name: DMP 310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/geng_lin_picture.jpg)Traditionally communications network has been considered synonymous with connectivity. Focus for network research and development was majorly on bandwidth, availability and protocol interoperability. While these factors continue to play an important role in the future network R&D, a new set of business challenges and opportunities such as mission critical business applications, self-defending security networks, and network as a distributed computing platform, is emerging and requires the attention of network researchers and developers.

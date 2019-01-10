@@ -8,7 +8,14 @@ aliases:
 author: Tristan Rice
 images: []
 raw_date: Friday, March 10, 2017 - 16:30
-raw_location: The Cube - ICICS 021
+location:
+  name: The Cube (ICICS 021)
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 We have a ton of cool games in games in the Cube, but they're often neglected for that one particular game. So we've decided to give a chance for these forgotten gems to shine. One day every week, we will showcasing a video game and a board game, so you can come to the Cube to try them out.

@@ -9,7 +9,14 @@ author: atjia
 images:
   - /files/shlomo.jpg
 raw_date: Thursday, January 12, 2006 - 15:00 to 16:30
-raw_location: DMP 310
+location:
+  name: DMP 310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/shlomo.jpg)There are many applications where one needs to search for a "function" that has "minimal energy" while satisfying some boundary constraints. As a simple example, consider the problem of finding the minial area soap bubble surface that spans a wireframe boundary. Numerical methods are typically only good at finding local minima to such varational problems.

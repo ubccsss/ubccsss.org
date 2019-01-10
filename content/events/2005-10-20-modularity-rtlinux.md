@@ -9,7 +9,14 @@ author: atjia
 images:
   - /files/victoryodaiken.jpg
 raw_date: Thursday, October 20, 2005 - 15:30 to 17:00
-raw_location: ICICS X736
+location:
+  name: ICICS X736
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/victoryodaiken.jpg)_FSMLabs produces RTLinux, the popular real-time operating system. Dr. Yodaiken is in Vancouver specifically to announce the formal opening of the company’s newly-established Vancouver office._

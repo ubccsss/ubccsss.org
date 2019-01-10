@@ -7,7 +7,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Wednesday, September 24, 2008 - 13:00 to 15:00
-raw_location: ICICS X836 (boardroom)
+location:
+  name: ICICS X836 (boardroom)
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Hi everyone,

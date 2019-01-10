@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Friday, November 20, 2009 - 17:00 to 21:00
-raw_location: ICICS Reboot Lounge
+location:
+  name: ICICS Reboot Lounge
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 An event for CPSC students to meet new people and enjoy a night of fun with the all-time favourite Cranium and other various board games. Fundraiser to raise donations for the Greater Vancouver Food Bank Society.

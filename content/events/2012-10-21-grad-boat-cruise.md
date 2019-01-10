@@ -10,7 +10,14 @@ images:
   - /files/ship.jpg
   - /files/vansunset.jpg
 raw_date: Friday, March 31, 2006 - 17:00 to 21:30
-raw_location: Pick Up/Drop Off: 450 Denman St (North Foot of Denman St)
+location:
+  name: Pick Up/Drop Off at North Foot of Denman St
+  address:
+    streetAddress: 450 Denman St
+    addressLocality: Vancouver
+    postalCode: V6G 3H1
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/ship.jpg) ![](/files/vansunset.jpg)

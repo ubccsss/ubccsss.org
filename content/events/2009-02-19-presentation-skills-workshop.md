@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Tuesday, March 3, 2009 - 12:30 to 14:00
-raw_location: ICICS 304
+location:
+  name: ICICS 304
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Lots of people are nervous about public speaking. But sometimes you need to present information to a group, as a key part of class projects or job interviews. How do you become a confident, well-prepared, and interesting public speaker?

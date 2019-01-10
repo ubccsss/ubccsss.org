@@ -9,7 +9,14 @@ author: atjia
 images:
   - /files/byron2_milan.jpg
 raw_date: Friday, October 7, 2005 - 10:00 to 11:00
-raw_location: ICICS/CS Board Room (288)
+location:
+  name: ICICS/CS Board Room (288)
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/byron2_milan.jpg) Byron Cook is a researcher at Microsoft's research lab at Cambridge University:

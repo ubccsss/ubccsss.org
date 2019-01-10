@@ -34,7 +34,8 @@ frontmatter:
     - ":default"
 
 permalinks:
-  post: /:year/:month/:title/
+  posts: /posts/:year/:month/:title/
+  events: /events/:year/:month/:title/
 
 paginate: 5
 

@@ -8,7 +8,14 @@ aliases:
 author: mlee
 images: []
 raw_date: Thursday, September 8, 2005 - 12:30 to 14:00
-raw_location: Hugh Dempster Pavilion (DMP) -> Room 310 -> 6245 Agronomy Road
+location:
+  name: Hugh Dempster Pavilion (DMP) -> Room 310 -> 6245 Agronomy Road
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 [GUIDE ME](http://www.maps.ubc.ca/PROD/index_detail.php?show=y,n,n,n,n,y&bldg2Search=n&locat1=164)

@@ -9,7 +9,14 @@ author: atjia
 images:
   - /files/astrachan.jpg
 raw_date: Thursday, October 6, 2005 - 16:00 to 17:30
-raw_location: DMP 310
+location:
+  name: DMP 310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/astrachan.jpg)Is our discipline of computer science in a time of crisis? Our field has helped unlock the human genome, has allowed a hand-held device to be a gateway to the world's information, and has transformed communication and society. Yet students do not want to study computer science. Do enrollment trends portend serious problems requiring immediate solutions or is the crisis greatly exaggerated?

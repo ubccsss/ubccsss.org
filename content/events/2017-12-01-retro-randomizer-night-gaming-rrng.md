@@ -9,7 +9,14 @@ author: arieljcao
 images:
   - /files/Retreo_Randomizer.jpg
 raw_date: Friday, December 1, 2017 - 18:00 to 21:00
-raw_location: DMP 301
+location:
+  name: DMP 301
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/Retreo_Randomizer.jpg)

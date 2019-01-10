@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Thursday, March 11, 2010 - 17:00 to 21:00
-raw_location: DMP 310
+location:
+  name: DMP 310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Movies shown will be Zombieland and Iron Man. Free pop and popcorn will be available.

@@ -9,7 +9,14 @@ author: arieljcao
 images:
   - /files/Intel%20Workshop.jpg
 raw_date: Friday, October 20, 2017 - 16:30 to 18:00
-raw_location: DMP 301
+location:
+  name: DMP 301
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/Intel%20Workshop.jpg)

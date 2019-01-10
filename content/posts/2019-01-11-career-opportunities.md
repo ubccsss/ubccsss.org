@@ -3,7 +3,7 @@ title: Career Opportunities
 date: 2019-01-11
 categories: [Career]
 aliases:
-  - https://ubccsss.org/content/2019-01-11-career-opportunities
+  - /content/2019-01-11-career-opportunities
 author: Tiger Oakes
 images: []
 ---

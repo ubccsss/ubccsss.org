@@ -7,7 +7,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Thursday, February 12, 2009 - 12:30 to 13:30
-raw_location: ICICS 238
+location:
+  name: ICICS 238
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 The FoWCS committee would like to invite you to our upcoming FoWCS luncheon featuring a very insightful and thought-provoking talk by the President of SCWIST, Elana Brief.
