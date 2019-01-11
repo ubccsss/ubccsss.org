@@ -7,7 +7,14 @@ aliases:
 author: robf
 images: []
 raw_date: Thursday, March 15, 2007 - 19:30 to 22:00
-raw_location: The Vancouver Rowing Club, 450 Stanley Park Drive
+location:
+  name: The Vancouver Rowing Club
+  address:
+    streetAddress: 450 Stanley Park Dr
+    addressLocality: Vancouver
+    postalCode: V6G 3E2
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Come join us for the biggest Consulting Gathering of the year!

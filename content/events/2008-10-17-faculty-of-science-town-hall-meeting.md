@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Monday, October 27, 2008 - 13:30 to 15:00
-raw_location: Ladha Science Student Centre
+location:
+  name: Ladha Science Student Centre
+  address:
+    streetAddress: 2055 East Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1W5
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Dean Simon Peacock will be there to hear ideas and concerns from students, and to discuss with them major issues in the Faculty of Science.

@@ -9,7 +9,14 @@ author: arieljcao
 images:
   - /files/NaturalRecursion.jpg
 raw_date: Saturday, April 7, 2018 - 18:00 to 22:00
-raw_location: Gallery 2.0
+location:
+  name: Gallery 2.0
+  address:
+    streetAddress: 6133 University Blvd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z1
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/NaturalRecursion.jpg)

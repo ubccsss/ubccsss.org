@@ -7,7 +7,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Wednesday, March 24, 2010 - 12:00 to 15:00
-raw_location: Ladha Science Student Centre
+location:
+  name: Ladha Science Student Centre
+  address:
+    streetAddress: 2055 East Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1W5
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 When: 

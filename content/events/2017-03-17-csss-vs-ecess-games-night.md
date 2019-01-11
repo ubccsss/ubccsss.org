@@ -9,7 +9,14 @@ author: Tristan Rice
 images:
   - /files/ECEVSCPSC.jpg
 raw_date: Friday, March 17, 2017 - 17:00 to 22:00
-raw_location: MCLD 434
+location:
+  name: MCLD 434
+  address:
+    streetAddress: 2329 West Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/ECEVSCPSC.jpg)

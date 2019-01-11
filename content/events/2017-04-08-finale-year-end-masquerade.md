@@ -8,6 +8,14 @@ aliases:
 author: Tristan Rice
 images:
   - /files/Masquerade-small.jpg
+location:
+  name: Diamond Ballroom & Catering
+  address:
+    streetAddress: "1495 W 8th Ave #4"
+    addressLocality: Vancouver
+    postalCode: V6H 1C9
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/Masquerade-small.jpg)

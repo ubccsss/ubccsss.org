@@ -6,7 +6,14 @@ aliases:
 author: rchao
 images: []
 raw_date: Thursday, September 22, 2005 - 12:30 to 13:30
-raw_location: Student Lounge in ICICS/CS
+location:
+  name: Student Lounge in ICICS/CS
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 The CSSS will be having an AGM on Thursday Sept. 22 from 12:30 - 1:30 pm. This will be happening in the Student Lounge (near Reboot Cafe). We'll talk about some events we are planning, and then we'll open up the floor to get feedback from students. Everyone is invited!

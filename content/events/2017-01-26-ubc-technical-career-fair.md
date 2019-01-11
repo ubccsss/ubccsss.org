@@ -9,7 +9,14 @@ author: Tristan Rice
 images:
   - /files/Facebook%20Event.png
 raw_date: Thursday, January 26, 2017 - 10:00 to 16:00
-raw_location: West Atrium of the Life Sciences Centre
+location:
+  name: West Atrium of the Life Sciences Centre
+  address:
+    streetAddress: 2350 Health Sciences Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z3
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/Facebook%20Event.png)

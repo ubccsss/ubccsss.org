@@ -9,7 +9,14 @@ author: Christopher Head
 images:
   - /modules/file/icons/application-pdf.png
 raw_date: Friday, September 26, 2008 - 12:30 to 15:00
-raw_location: Outside the X-wing next to Dempster
+location:
+  name: Outside the X-wing next to Dempster
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Come and enjoy a lazy Friday afternoon with us over burgers, chips, and pop! Your CSSS Executives will be grilling tasty food and it's yours to enjoy for a very nominal price.

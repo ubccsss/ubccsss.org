@@ -10,7 +10,14 @@ images:
   - /files/17077890_10155134437718982_2090298928_n.jpg
   - /files/DinnerEvent.jpg
 raw_date: Thursday, March 9, 2017 - 18:00 to 20:00
-raw_location: Abdul Ladha Science Student Centre, 2055 East Mall, Vancouver, British Columbia V6T 1W5
+location:
+  name: Abdul Ladha Science Student Centre
+  address:
+    streetAddress: 2055 East Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1W5
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/17077890_10155134437718982_2090298928_n.jpg)

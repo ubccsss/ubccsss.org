@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Monday, March 31, 2008 - 19:15 to 22:15
-raw_location: Abdul Ladha Student Centre
+location:
+  name: Abdul Ladha Student Centre
+  address:
+    streetAddress: 2055 East Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1W5
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 The UBC MIS Club (BizTech) is holding an IT Night. For more details, please see their poster at [http://www.edmondng.net/biztech/ITNIghtPoster.jpg](http://www.edmondng.net/biztech/ITNIghtPoster.jpg).

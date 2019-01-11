@@ -9,7 +9,14 @@ author: arieljcao
 images:
   - /files/26240038_1781782651845524_1497206206029099164_o.jpg
 raw_date: Thursday, January 25, 2018 - 10:00 to 16:00
-raw_location: Life Science Building - 2350 Health Sciences Mall, Vancouver, British Columbia V6T 1Z3
+location:
+  name: Life Science Building - 2350 Health Sciences Mall, Vancouver, British Columbia V6T 1Z3
+  address:
+    streetAddress: 2350 Health Sciences Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z3
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/26240038_1781782651845524_1497206206029099164_o.jpg)

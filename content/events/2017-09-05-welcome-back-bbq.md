@@ -9,7 +9,14 @@ author: Tristan Rice
 images:
   - /files/flamingburger.jpg
 raw_date: Tuesday, September 5, 2017 - 11:00 to 12:00
-raw_location: Atrium Area inside ICICS (Open House); In front of ICICS, outside (BBQ)
+location:
+  name: Atrium Area inside ICICS (Open House); In front of ICICS, outside (BBQ)
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/flamingburger.jpg)

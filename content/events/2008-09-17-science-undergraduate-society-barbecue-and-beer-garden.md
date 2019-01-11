@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Friday, September 26, 2008 - 17:00 to 21:00
-raw_location: Abdul Ladha Science Student Centre
+location:
+  name: Abdul Ladha Science Student Centre
+  address:
+    streetAddress: 2055 East Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1W5
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Come out and enjoy some $1 Burgers, and social atmosphere at this 19+ event. A great opportunity to hang out with old friends and make new ones in the Faculty of Science! Get a chance to meet some of your previous, current or upcoming professors and get to know them better!

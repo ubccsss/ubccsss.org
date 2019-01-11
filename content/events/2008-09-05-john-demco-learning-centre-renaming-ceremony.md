@@ -7,7 +7,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Tuesday, September 9, 2008 - 18:00 to 19:00
-raw_location: X-wing Lounge (Reboot Cafe)
+location:
+  name: X-wing Lounge (Reboot Cafe)
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 The Department of Computer Science invites you to celebrate the renaming of the undergraduate learning centre to the Demco Learning Centre in honour of Mr. John C. Demco.

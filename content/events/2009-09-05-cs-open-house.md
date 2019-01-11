@@ -7,7 +7,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Tuesday, September 8, 2009 - 10:00 to 14:00
-raw_location: X-Wing Undergraduate Student Lounge
+location:
+  name: X-Wing Undergraduate Student Lounge
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 When: 

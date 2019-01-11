@@ -7,7 +7,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Friday, October 23, 2009 - 20:00 to 23:59
-raw_location: Abdul Ladha Science Student Centre
+location:
+  name: Abdul Ladha Science Student Centre
+  address:
+    streetAddress: 2055 East Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1W5
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 CSSS is holding a licensed event, the CSSSwashbuckle! All are invited to have fun! Please bring two pieces of ID to the event. Remember to dress up like a pirate.

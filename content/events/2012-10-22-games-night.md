@@ -9,10 +9,17 @@ author: dtan
 images:
   - /files/xbox.jpg
 raw_date: Friday, March 17, 2006 - 16:00 to 21:00
-raw_location: X-Wing Lounge
+location:
+  name: X-Wing Lounge
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
-![](/files/xbox.jpg)  
+![](/files/xbox.jpg)
 Xbox 360, Foosball, Poker and more. More details to follow. . .
 
 When: 

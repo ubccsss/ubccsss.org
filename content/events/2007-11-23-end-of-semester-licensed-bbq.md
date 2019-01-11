@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Friday, November 30, 2007 - 15:00 to 19:00
-raw_location: X-wing Lounge
+location:
+  name: X-wing Lounge
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 The Computer Science Students' Society presents a Licensed BBQ to celebrate the end of term! Come and chill with us one last time before exams and bask in the last of the autumn sunlight! We'll have standard BBQ fare. Alcoholic beverages will be at hand although photo ID will be required - (sorry Eugene) :-(.

@@ -8,7 +8,14 @@ aliases:
 author: cweston
 images: []
 raw_date: Friday, October 14, 2005 - 16:00 to 20:00
-raw_location: CS/ICICS Building in the new wing, Student Lounge (outside the Reboot Cafe)
+location:
+  name: CS/ICICS Building in the new wing, Student Lounge (outside the Reboot Cafe)
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Come join us after class on Friday, Oct. 14 at the first CSSS Licensed BBQ of the year! The event will be taking place in the student lounge area (outside the Reboot Cafe) of the new wing, and the BBQ will be just outside it, between the old wing and the new wing.

@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Wednesday, January 30, 2013 - 10:00 to 16:00
-raw_location: Life Sciences Institute, west atrium
+location:
+  name: Life Sciences Institute, west atrium
+  address:
+    streetAddress: 2350 Health Sciences Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z3
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 It’s the return of the annual Technical Career Fair at UBC! This year, we’re happy to announce that we have a record number of 50 companies attending the fair. We’ve also gone and moved the fair closer to the tech side of campus.

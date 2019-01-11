@@ -6,7 +6,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Tuesday, October 28, 2008 - 13:00 to 14:00
-raw_location: Abdul Ladha Science Student Centre
+location:
+  name: Abdul Ladha Science Student Centre
+  address:
+    streetAddress: 2055 East Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1W5
+    addressRegion: BC
+    addressCountry: CA
 categories: [Career]
 tags: [Resume]
 ---
