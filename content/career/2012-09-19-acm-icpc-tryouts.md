@@ -9,7 +9,14 @@ images: []
 tags: [Social]
 categories: [Career]
 raw_date: Saturday, September 29, 2012 - 12:00 to 17:00
-raw_location: ICICS 005/011
+location:
+  name: ICICS 005/011
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Love solving tough problems? Know how to code? (Like free pizza? Want to visit Russia?)

@@ -9,7 +9,14 @@ images:
 tags: [Social]
 categories: [Career]
 raw_date: Thursday, April 10, 2008 - 18:00 to 20:00
-raw_location: DMP 110
+location:
+  name: DMP 110
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 [![](/files/ms-logo.jpg)](https://www.microsoft.com)

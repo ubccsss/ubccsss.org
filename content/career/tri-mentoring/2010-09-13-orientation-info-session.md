@@ -6,7 +6,14 @@ aliases:
 author: bertong
 images: []
 raw_date: Monday, September 13, 2010 - 17:00 to 18:30
-raw_location: DMP 110
+location:
+  name: DMP 110
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 categories: [Career]
 tags: [Tri-Mentoring]
 ---

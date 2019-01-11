@@ -7,7 +7,14 @@ author: Christopher Head
 images: []
 categories: [Career]
 raw_date: Thursday, October 9, 2008 - 18:30 to 19:30
-raw_location: DMP 110
+location:
+  name: DMP 110
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 We would like to invite students to an information session on Blue Castle Games. Come learn about a local gaming company that has established itself successfully

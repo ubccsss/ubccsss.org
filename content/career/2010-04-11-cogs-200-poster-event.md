@@ -7,7 +7,14 @@ author: Christopher Head
 images: []
 categories: [Career]
 raw_date: Thursday, April 15, 2010 - 14:00 to 15:30
-raw_location: ICICS Atrium
+location:
+  name: ICICS Atrium
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 When: 

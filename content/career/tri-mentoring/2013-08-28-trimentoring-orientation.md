@@ -8,7 +8,14 @@ images: []
 categories: [Career]
 tags: [Tri-Mentoring]
 raw_date: Thursday, September 11, 2008 - 13:30 to 15:00
-raw_location: DMP310
+location:
+  name: DMP310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 When: 

@@ -8,7 +8,14 @@ images:
   - /files/ibm%20logo.jpg
 categories: [Career]
 raw_date: Thursday, November 10, 2005 - 11:30 to 12:00
-raw_location: Dempster Room 310
+location:
+  name: Dempster Room 310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/ibm%20logo.jpg)

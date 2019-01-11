@@ -7,7 +7,14 @@ author: Christopher Head
 images: []
 categories: [Career]
 raw_date: Thursday, November 6, 2008 - 17:00 to 19:00
-raw_location: ICICS X-Wing Lounge
+location:
+  name: ICICS X-Wing Lounge
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 BigPark is an interactive entertainment company founded in 2007 by a group of passionate gaming veterans who have worked together for over 20 years, and have led the creation and growth of two very successful software companies.

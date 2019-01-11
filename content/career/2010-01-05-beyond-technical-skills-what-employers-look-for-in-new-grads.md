@@ -7,7 +7,14 @@ author: Christopher Head
 images: []
 categories: [Career]
 raw_date: Tuesday, January 12, 2010 - 17:15 to 18:30
-raw_location: DMP 110
+location:
+  name: DMP 110
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Panelists from TELUS, IBM, Google and Microsoft are already confirmed for this event.

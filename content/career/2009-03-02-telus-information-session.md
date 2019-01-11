@@ -7,7 +7,14 @@ author: Christopher Head
 images: []
 categories: [Career]
 raw_date: Wednesday, March 11, 2009 - 17:30 to 19:30
-raw_location: DMP 301
+location:
+  name: DMP 301
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Join TELUS on campus to discover what the TELUS BTLDP can do for your career. Learn

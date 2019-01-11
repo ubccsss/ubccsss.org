@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Friday, October 15, 2010 - 17:30
-raw_location: ReBoot Cafe
+location:
+  name: ReBoot Cafe
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Hey all,

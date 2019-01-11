@@ -7,7 +7,14 @@ author: Christopher Head
 images: []
 categories: [Career]
 raw_date: Wednesday, February 10, 2010 - 12:00 to 13:00
-raw_location: ICICS X836
+location:
+  name: ICICS X836
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Get some tips - so you can start applying! E-mail [Diane Johnson](/cdn-cgi/l/email-protection#3e5a575f505b5451567e5d4d104b5c5d105d5f) to register.

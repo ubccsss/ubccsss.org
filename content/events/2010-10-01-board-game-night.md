@@ -8,7 +8,14 @@ aliases:
 author: bertong
 images: []
 raw_date: Friday, October 1, 2010 - 17:30 to 21:00
-raw_location: Reboot Cafe
+location:
+  name: Reboot Cafe
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Hey all,

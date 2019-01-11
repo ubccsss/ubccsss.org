@@ -7,7 +7,14 @@ author: mlee
 images: []
 categories: [Career]
 raw_date: Tuesday, September 20, 2005 - 17:30 to 19:30
-raw_location: Hugh Dempster Pavilion (DMP) -> Room 310 -> 6245 Agronomy Road
+location:
+  name: Hugh Dempster Pavilion (DMP) -> Room 310 -> 6245 Agronomy Road
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Are you interested in being mentored by an industry or faculty mentor? If yes, please come and find out more about the CS tri-mentoring program on September 20 (Tuesday) at 5:30 pm and join us for the orientation at 6 pm. Both sessions will be held in the Dempster Pavillion 310.

@@ -7,7 +7,14 @@ author: atjia
 images: []
 categories: [Career]
 raw_date: Friday, September 16, 2005 - 11:30 to 12:30
-raw_location: ICICS/CS X139
+location:
+  name: ICICS/CS X139
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Are you a Co-op student going on a workterm this January? If so then you are invited to an informal question and answer period with former Microsoft interns from UBC.

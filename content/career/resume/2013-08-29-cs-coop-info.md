@@ -6,7 +6,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Thursday, January 28, 2010 - 12:30 to 14:00
-raw_location: DMP 201
+location:
+  name: DMP 201
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 categories: [Career]
 tags: [Resume]
 ---

@@ -8,7 +8,14 @@ images: []
 categories: [Career]
 tags: [Tri-Mentoring]
 raw_date: Tuesday, September 12, 2006 - 17:30 to 18:30
-raw_location: DMP 310
+location:
+  name: DMP 310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Are you interested in being mentored by an industry or faculty member? Are you curious about what it's like to be working in the high tech industry? Please think about joining the tri-mentoring program to:

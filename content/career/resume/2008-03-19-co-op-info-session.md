@@ -6,7 +6,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Tuesday, March 25, 2008 - 18:00 to 19:00
-raw_location: Hugh Dempster Building, Room 101
+location:
+  name: Hugh Dempster Building, Room 101
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 categories: [Career]
 tags: [Resume]
 ---

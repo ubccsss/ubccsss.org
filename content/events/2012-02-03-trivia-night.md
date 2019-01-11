@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Friday, February 3, 2012 - 17:30 to 20:00
-raw_location: Reboot Café
+location:
+  name: Reboot Café
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Who doesn’t love trivial cases? Come join the CSSS at Reboot café for some good old fashioned trivia fun.

@@ -6,7 +6,14 @@ aliases:
 author: robf
 images: []
 raw_date: Tuesday, March 13, 2007 - 13:30 to 15:00
-raw_location: Dempster 301
+location:
+  name: Dempster 301
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 categories: [Career]
 ---
 

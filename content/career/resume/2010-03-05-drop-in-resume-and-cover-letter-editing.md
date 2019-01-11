@@ -6,7 +6,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Thursday, March 11, 2010 - 10:30 to 13:30
-raw_location: ICICS 255
+location:
+  name: ICICS 255
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 categories: [Career]
 tags: [Resume]
 ---

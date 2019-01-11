@@ -8,7 +8,14 @@ images:
   - /files/Logo_40wht.gif
 categories: [Career]
 raw_date: Tuesday, September 27, 2005 - 17:30 to 19:30
-raw_location: Dempster Pavillion, Room 310
+location:
+  name: Dempster Pavillion, Room 310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/Logo_40wht.gif)

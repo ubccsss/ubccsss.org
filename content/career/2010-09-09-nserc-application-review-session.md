@@ -7,7 +7,14 @@ author: Christopher Head
 images: []
 categories: [Career]
 raw_date: Thursday, September 9, 2010 - 13:00 to 14:30
-raw_location: ICICS 204
+location:
+  name: ICICS 204
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 We are into NSERC application season, once again! In order to maximize your chances of getting your submission through {the

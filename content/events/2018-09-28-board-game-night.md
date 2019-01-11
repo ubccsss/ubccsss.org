@@ -9,7 +9,14 @@ author: njhu
 images:
   - /files/Board%20Game%20Night%20New.jpg
 raw_date: Friday, September 28, 2018 - 17:30 to 20:00
-raw_location: Pacific Poke
+location:
+  name: Pacific Poke
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/Board%20Game%20Night%20New.jpg)

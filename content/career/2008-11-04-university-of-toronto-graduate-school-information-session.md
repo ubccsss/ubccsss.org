@@ -7,7 +7,14 @@ author: Christopher Head
 images: []
 categories: [Career]
 raw_date: Wednesday, November 12, 2008 - 16:30
-raw_location: ICICS 206
+location:
+  name: ICICS 206
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 "Is Graduate School for You?" Get the answers to your grad school questions—and enjoy a bite to eat, our treat!

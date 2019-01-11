@@ -7,7 +7,14 @@ author: Christopher Head
 images: []
 categories: [Career]
 raw_date: Thursday, February 11, 2010 - 12:30 to 13:30
-raw_location: DMP201
+location:
+  name: DMP201
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Join us for a special Masters of Digital Media (MDM) Program Information Session at UBC. There will be a short presentation followed by time for questions and answers about this exciting graduate program. Get your questions answered about MDM program admission requirements, the application process and career prospects for grads.

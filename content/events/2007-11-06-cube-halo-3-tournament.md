@@ -9,7 +9,14 @@ author: Christopher Head
 images:
   - /files/halo3.jpg
 raw_date: Friday, November 16, 2007 - 17:00 to 20:00
-raw_location: Dempster 110
+location:
+  name: Dempster 110
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/halo3.jpg)Come have a blast, and compete for prizes! This tournament is a Free for all event. Registration will be free, though pizza and pop for the event will be sold separately. This event has capacity for 48 people, so register as soon as you can! Though you are free to come and play before and after the tournament.

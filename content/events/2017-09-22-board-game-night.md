@@ -9,7 +9,14 @@ author: arieljcao
 images:
   - /files/Board%20Games%20Night.jpg
 raw_date: Friday, September 22, 2017 - 18:00 to 20:00
-raw_location: Pacific Poke Cafe/Old Reboot Cafe in ICICS
+location:
+  name: Pacific Poke Cafe/Old Reboot Cafe in ICICS
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/Board%20Games%20Night.jpg)

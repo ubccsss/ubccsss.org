@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Friday, November 29, 2013 - 18:00
-raw_location: Reboot Café
+location:
+  name: Reboot Café
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Come play board games with the CSSS and the Math club. Free pizza! Bring friends. Bring a date.

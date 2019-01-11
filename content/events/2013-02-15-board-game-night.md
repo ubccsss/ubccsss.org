@@ -8,7 +8,14 @@ aliases:
 author: Christopher Head
 images: []
 raw_date: Friday, February 15, 2013 - 17:00 to 21:00
-raw_location: Reboot Café
+location:
+  name: Reboot Café
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 The Cube will once again be hosting our bi-weekly board/card game night this Friday in Reboot Café. We’ll be providing some games as usual but you’re more than welcome to bring your own games—and friends, too!

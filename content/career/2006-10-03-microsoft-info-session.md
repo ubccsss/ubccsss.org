@@ -6,7 +6,14 @@ aliases:
 author: hybrid11
 images: []
 raw_date: Friday, October 6, 2006 - 17:30 to 19:30
-raw_location: Dempster 310
+location:
+  name: Dempster 310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 categories: [Career]
 ---
 

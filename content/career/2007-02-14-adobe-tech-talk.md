@@ -7,7 +7,14 @@ author: robf
 images: []
 categories: [Career]
 raw_date: Tuesday, February 13, 2007 - 17:00 to 18:00
-raw_location: Dempster 110
+location:
+  name: Dempster 110
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Learn New Technologies!

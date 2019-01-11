@@ -8,7 +8,14 @@ aliases:
 author: Tristan Rice
 images: []
 raw_date: Friday, September 23, 2016 - 16:00 to 19:00
-raw_location: Reboot Cafe - ICICS
+location:
+  name: Reboot Cafe - ICICS
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 [See the Facebook event for more info!](https://www.facebook.com/events/1793656260889522/)

@@ -7,7 +7,14 @@ aliases:
 author: atjia
 images: []
 raw_date: Thursday, September 29, 2005 - 12:30 to 13:30
-raw_location: Dempster 301
+location:
+  name: Dempster 301
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 If you've got the new [Home Suite Home CD](http://www.cs.ubc.ca/local/computing/software/hsh/), but have no idea what to do with the coaster that you've got, consider coming out to this tutorial!

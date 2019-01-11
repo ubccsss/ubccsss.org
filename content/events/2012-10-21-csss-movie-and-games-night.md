@@ -9,7 +9,14 @@ author: Christopher Head
 images:
   - /files/lanpartysign.png
 raw_date: Friday, January 20, 2006 - 17:00 to 22:00
-raw_location: DEMP 110 & CS Ugrad Lounge
+location:
+  name: DEMP 110 & CS Ugrad Lounge
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/lanpartysign.png)Yes, it's back!

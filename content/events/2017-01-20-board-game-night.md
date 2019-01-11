@@ -8,7 +8,14 @@ aliases:
 author: Tristan Rice
 images: []
 raw_date: Friday, January 20, 2017 - 16:00 to 19:00
-raw_location: Reboot Lounge
+location:
+  name: Reboot Lounge
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Looking for something to do after classes on Friday? Come out and play board games for a few hours at Reboot Cafe! We'll have board games set up, but feel free to bring your own as well! Everyone's welcome, so invite your friends~

@@ -7,7 +7,14 @@ author: atjia
 images: []
 categories: [Career]
 raw_date: Tuesday, October 25, 2005 - 16:00 to 17:00
-raw_location: Dempster Room 310
+location:
+  name: Dempster Room 310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/ibm%20logo.jpg)David will be talking about four software labs in Canada - Victoria, Toronto, Ottawa, Montreal - with a particular focus on the cutting edge work which is being done in Ottawa.

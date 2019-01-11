@@ -7,7 +7,14 @@ author: rchao
 images: []
 categories: [Career]
 raw_date: Friday, October 14, 2005 - 16:00 to 17:00
-raw_location: Demp 310
+location:
+  name: Demp 310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Are you planning on applying Grad School? Come to a workshop to find out exactly how to do it!

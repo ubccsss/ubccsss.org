@@ -9,7 +9,14 @@ author: arieljcao
 images:
   - /files/26239200_1783018025055320_7185707354782333276_n.jpg
 raw_date: Friday, January 12, 2018 - 18:00 to 20:00
-raw_location: Pacific Poke Cafe/Old Reboot Cafe in ICICS
+location:
+  name: Pacific Poke Cafe/Old Reboot Cafe in ICICS
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/26239200_1783018025055320_7185707354782333276_n.jpg)

@@ -7,7 +7,14 @@ author: bertong
 images: []
 categories: [Career]
 raw_date: Monday, September 27, 2010 - 18:00
-raw_location: Henry Angus 190: Birmingham Centre
+location:
+  name: "Henry Angus 190: Birmingham Centre"
+  address:
+    streetAddress: 2053 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z2
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 For those of you interested in the business side of things, our friends in the BizTech club have informed us about this event they're hosting:

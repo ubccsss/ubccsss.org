@@ -9,7 +9,14 @@ images:
   - /modules/file/icons/application-pdf.png
 categories: [Career]
 raw_date: Wednesday, November 8, 2006 - 16:30 to 17:30
-raw_location: Dempster 310
+location:
+  name: Dempster 310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/adobe_logo.gif)

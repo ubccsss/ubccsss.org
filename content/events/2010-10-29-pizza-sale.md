@@ -7,7 +7,14 @@ aliases:
 author: bertong
 images: []
 raw_date: Friday, October 29, 2010 - 13:00 to 15:00
-raw_location: Reboot Cafe
+location:
+  name: Reboot Cafe
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 We're selling pizza. It is tasty. Grab some.

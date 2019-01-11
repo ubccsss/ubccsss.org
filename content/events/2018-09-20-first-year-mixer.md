@@ -9,7 +9,14 @@ author: njhu
 images:
   - /files/First%20Year%20Mixer%20New.jpg
 raw_date: Thursday, September 20, 2018 - 18:00 to 20:00
-raw_location: Pacific PokePacific
+location:
+  name: Pacific Poke
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/First%20Year%20Mixer%20New.jpg)

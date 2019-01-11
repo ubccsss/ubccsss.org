@@ -7,7 +7,14 @@ author: atjia
 images: []
 categories: [Career]
 raw_date: Wednesday, November 23, 2005 - 17:00 to 18:15
-raw_location: Dempster Room 310
+location:
+  name: Dempster Room 310
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 After Google, IBM, and EA, who have we left out? **Microsoft**, of course!

@@ -8,7 +8,14 @@ images: []
 categories: [Career]
 tags: [Tri-Mentoring]
 raw_date: Tuesday, September 11, 2007 - 18:30 to 20:00
-raw_location: DMP 110
+location:
+  name: DMP 110
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 How are the first few days back in school? Having lots of fun, meeting old and new friends, or feeling grumpy that the summer has ended? Hope that you all are enjoying a brand new start in the new school year.

@@ -7,7 +7,14 @@ author: Christopher Head
 images: []
 categories: [Career]
 raw_date: Tuesday, March 3, 2009 - 17:00 to 18:30
-raw_location: DMP 201
+location:
+  name: DMP 201
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Please join Wayne Beaton, Developer Evangelist for the Eclipse Foundation, for this evening of information exchange and networking.
