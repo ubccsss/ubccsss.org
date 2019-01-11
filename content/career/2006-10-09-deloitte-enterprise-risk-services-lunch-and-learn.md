@@ -4,13 +4,14 @@ date: 2006-10-09T07:48:00.000Z
 aliases:
   - /node/511
 author: jlo
-images: []
+images:
+  - /files/deloitte_firm_logo.gif
 categories: [Career]
 raw_date: Tuesday, October 10, 2006 - 13:00 to 14:30
 raw_location: Henry Angus 309 (Commerce Building)
 ---
 
-![](http://www.deloitte.com/dtt/cda/l10n/lid-1/img/site/firm_logo.gif)
+![](/files/deloitte_firm_logo.gif)
 Lunch & Learn: Information Management
 
 Interested in learning about Enterprise Risk and Control Assurance? Tuesday, Oct 10th, at 1pm to 2:30pm (Room HA 309), representatives from Deloitte's Enterprise Risk Services will be on-hand to discuss such topics as information organization, privacy, records management, Sarbanes-Oxley and the application of controls to address compliance issues. Pizza and refreshments will be available.

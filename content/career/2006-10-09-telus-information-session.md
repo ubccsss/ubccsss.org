@@ -5,13 +5,14 @@ aliases:
   - /node/488
 author: jlo
 images:
+  - /files/telus_logo.gif
   - /modules/file/icons/application-pdf.png
 categories: [Career]
 raw_date: Wednesday, October 11, 2006 - 17:30 to 19:30
 raw_location: Wesbrook 100 (the white building across UBC bookstore)
 ---
 
-![](http://www.telus.com/images/newhp/logo.gif)
+![](/files/telus_logo.gif)
 Are you going?
 
 [TELUS](http://www.telus.ca) is taking our show on the road. We have exciting Leadership Development Programs for new grads and co-op opportunities to tell you about.

@@ -4,10 +4,11 @@ date: 2008-03-07T06:57:00.000Z
 aliases:
   - /node/1042
 author: atjia
-images: []
+images:
+  - /files/ms-logo.jpg
 ---
 
-[![](https://www.whoischarles.com/files/images/microsoft_logo.jpg)](https://www.microsoft.com)
+[![](/files/ms-logo.jpg)](https://www.microsoft.com)
 
 Microsoft has made several announcements lately, two of which might help you!
  

@@ -4,13 +4,14 @@ date: 2017-07-01T18:49:00.000Z
 aliases:
   - /node/692
 author: robf
-images: []
+images:
+  - /files/telus_logo.gif
 categories: [Career]
 raw_date: Friday, January 26, 2007 - 12:00 to 16:00
 raw_location: 3777 Kingsway, Burnaby (at the corner of Kingsway & Boundary)
 ---
 
-[![](http://www.telus.com/images/newhp/logo.gif)](http://www.telus.com) \
+[![](/files/telus_logo.gif)](http://www.telus.com) \
 **Graduating in 2007 or 2008?** Come on over and check out your future career—don't forget to bring your resume, we are hiring!
 
 We invite all **Computer Science & Engineering

@@ -4,11 +4,12 @@ date: 2007-01-09T09:57:00.000Z
 aliases:
   - /node/685
 author: robf
-images: []
+images:
+  - /files/ibm-logo.gif
 categories: [Career]
 ---
 
-![](https://www.ibm.com/i/v14/t/ibm-logo.gif)
+![](/files/ibm-logo.gif)
 _"The Extreme Blue™ program is IBM's premier internship for top-notch students
 pursuing software development and MBA degrees. If you're chosen for the program,
 you become part of a team working in one of a dozen Extreme Blue labs around the

@@ -4,13 +4,14 @@ date: 2007-01-31T01:44:00.000Z
 aliases:
   - /node/696
 author: robf
-images: []
+images:
+  - /files/ea.gif
 categories: [Career]
 raw_date: Wednesday, February 7, 2007 - 18:30 to 22:00
 raw_location: EAC (Burnaby Electronic Arts studio)
 ---
 
-![](http://images.ea.com/ea/_img/nav/2007/masthead.gif)
+![](/files/ea.gif)
 
 Date: February 7th, 6:30pm - 10:00pm \
 Location: EAC (Burnaby Studio)
