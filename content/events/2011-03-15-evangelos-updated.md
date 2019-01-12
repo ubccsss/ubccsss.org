@@ -6,7 +6,6 @@ tags: [Grad Photos]
 aliases:
   - /node/1424
 author: bertong
-images: []
 ---
 
 Hi everyone,

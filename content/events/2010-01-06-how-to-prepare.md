@@ -7,8 +7,8 @@ aliases:
   - /node/1286
 author: Christopher Head
 images: []
-start_date: 2010-01-6T17:00:00.000Z
-end_date: 2010-01-6T18:30:00.000Z
+start_date: 2010-01-06T17:00:00.000Z
+end_date: 2010-01-06T18:30:00.000Z
 location:
   name: DMP 110
   address:

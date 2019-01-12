@@ -11,27 +11,8 @@
     {{ .Content }}
 
     <div>
-        {{ $startDate := .Params.start_date | default .Date }}
-        {{ $endDate := .Params.end_date | default (add (time $startDate).Unix 36000) }}
-        {{ $fullDate := "Mon January 2, 2006 - 15:04" }}
-        {{ $isoDate := "2006-01-02" }}
-        {{ $isoDateTime := "2006-01-02T15:04:05.000Z" }}
-        {{ if eq (dateFormat $isoDate $startDate) (dateFormat $isoDate $endDate) }}
-        <p>
-            <strong>When:</strong>
-            <time datetime='{{ dateFormat $isoDateTime $startDate }}'>{{ dateFormat $fullDate $startDate }}</time>
-            to
-            <time datetime='{{ dateFormat $isoDateTime $endDate }}'>{{ dateFormat "15:04" $endDate }}</time>
-        </p>
-        {{ else }}
-        <p>
-            <strong>When:</strong>
-            <time datetime='{{ dateFormat $isoDateTime $startDate }}'>{{ dateFormat $fullDate $startDate }}</time>
-            to
-            <time datetime='{{ dateFormat $isoDateTime $endDate }}'>{{ dateFormat $fullDate $endDate }}</time>
-        </p>
-        {{ end }}
-        <p><strong>Where:</strong> {{ partial "address.html" . }}</p>
+        {{ partial "post-when.html" . }}
+        {{ partial "post-where.html" . }}
     </div>
 
     {{ partial "add-to-calendar" . }}
