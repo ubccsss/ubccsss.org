@@ -6,7 +6,7 @@ aliases:
 author: atjia
 categories: [Career]
 images:
-  - /modules/file/icons/image-x-generic.png
+  - /modules/file/icons/image-x-generic.svg
 ---
 
 The [Arts Undergraduate Society](http://www.aus.ubc.ca/) is hiring a Webmaster!
@@ -27,4 +27,4 @@ If you are interested in applying for this positions, please contact **Avneet Jo
 
 File Attachments: 
 
- ![Image icon](/modules/file/icons/image-x-generic.png "image/jpeg") [aus\_webmaster.jpg](https://ubccsss.org/files/aus_webmaster.jpg)
+ ![Image icon](/modules/file/icons/image-x-generic.svg "image/jpeg") [aus\_webmaster.jpg](https://ubccsss.org/files/aus_webmaster.jpg)

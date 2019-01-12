@@ -11,7 +11,9 @@ images:
 raw_date: Sunday, April 23, 2006 - 09:00
 ---
 
-![](/files/sunrun.png)Interested in joining UBC Computer Science at this year's **Vancouver Sun Run**? The race is on April 23, at 9:00 a.m. and would be a great way to take a short break from studying for finals and to support a number good causes. The cost to register is $35. Early registration for Corporate teams ends on February 10. After that, registration is $40, so be sure to register early.
+![](/files/sunrun.png)
+
+Interested in joining UBC Computer Science at this year's **Vancouver Sun Run**? The race is on April 23, at 9:00 a.m. and would be a great way to take a short break from studying for finals and to support a number good causes. The cost to register is $35. Early registration for Corporate teams ends on February 10. After that, registration is $40, so be sure to register early.
 
 How you can register: \
 Online at [https://www.sporg.com/registration?link\_type=form&form\_id=35210&Team+Number=1632](https://www.sporg.com/registration?link_type=form&form_id=35210&Team+Number=1632) \

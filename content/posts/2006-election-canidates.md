@@ -7,7 +7,7 @@ aliases:
 author: dtan
 images:
   - /files/vote-icon.gif
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
 ---
 
 ![](/files/vote-icon.gif)
@@ -28,4 +28,4 @@ Wednesday, March 29, 2006 - 08:00 to Friday, March 31, 2006 - 01:00
 
 File Attachments: 
 
- ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [2006\_csss\_exec\_election\_app.pdf](https://ubccsss.org/files/2006_csss_exec_election_app.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [2006\_csss\_exec\_election\_app.pdf](https://ubccsss.org/files/2006_csss_exec_election_app.pdf)

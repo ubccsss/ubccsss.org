@@ -7,7 +7,7 @@ aliases:
   - /node/1087
 author: Christopher Head
 images:
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
 raw_date: Friday, September 26, 2008 - 12:30 to 15:00
 location:
   name: Outside the X-wing next to Dempster
@@ -37,7 +37,7 @@ Outside the X-wing next to Dempster
 
 File Attachments: 
 
- ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [BBQ Poster.pdf](https://ubccsss.org/files/BBQ%20Poster.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [BBQ Poster.pdf](https://ubccsss.org/files/BBQ%20Poster.pdf)
 
 Tags: 
 

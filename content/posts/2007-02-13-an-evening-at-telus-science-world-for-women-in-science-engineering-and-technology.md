@@ -5,7 +5,7 @@ aliases:
   - /node/708
 author: robf
 images:
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
 categories: [Career]
 raw_date: Tuesday, March 6, 2007 - 17:30 to 21:00
 raw_location: TELUS Science World
@@ -46,7 +46,7 @@ TELUS Science World
 
 File Attachments: 
 
- ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [print poster 07.pdf](https://ubccsss.org/files/print%20poster%2007.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [print poster 07.pdf](https://ubccsss.org/files/print%20poster%2007.pdf)
 
 Tags: 
 

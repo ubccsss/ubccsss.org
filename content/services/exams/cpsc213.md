@@ -5,16 +5,16 @@ aliases:
   - /services/exams/cpsc213
 author: Tristan Rice
 images:
-  - /modules/file/icons/application-pdf.png
-  - /modules/file/icons/application-pdf.png
-  - /modules/file/icons/application-pdf.png
-  - /modules/file/icons/application-pdf.png
-  - /modules/file/icons/application-pdf.png
-  - /modules/file/icons/application-pdf.png
-  - /modules/file/icons/application-pdf.png
-  - /modules/file/icons/application-pdf.png
-  - /modules/file/icons/application-pdf.png
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
+  - /modules/file/icons/application-pdf.svg
+  - /modules/file/icons/application-pdf.svg
+  - /modules/file/icons/application-pdf.svg
+  - /modules/file/icons/application-pdf.svg
+  - /modules/file/icons/application-pdf.svg
+  - /modules/file/icons/application-pdf.svg
+  - /modules/file/icons/application-pdf.svg
+  - /modules/file/icons/application-pdf.svg
+  - /modules/file/icons/application-pdf.svg
 ---
 
 2006
@@ -65,10 +65,10 @@ images:
 2016
 ----
 
-* ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [CPSC 213 Midterm I Sample Questions.pdf](https://ubccsss.org/files/CPSC%20213%20Midterm%20I%20Sample%20Questions.pdf)
-* ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [CPSC 213 Midterm I Sample Questions\_Solutions.pdf](https://ubccsss.org/files/CPSC%20213%20Midterm%20I%20Sample%20Questions_Solutions.pdf)
-* ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [CPSC 213 Midterm II Sample Questions.pdf](https://ubccsss.org/files/CPSC%20213%20Midterm%20II%20Sample%20Questions.pdf)
-* ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [CPSC 213 Midterm II Sample Questions\_Solutions.pdf](https://ubccsss.org/files/CPSC%20213%20Midterm%20II%20Sample%20Questions_Solutions.pdf)
+* ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [CPSC 213 Midterm I Sample Questions.pdf](https://ubccsss.org/files/CPSC%20213%20Midterm%20I%20Sample%20Questions.pdf)
+* ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [CPSC 213 Midterm I Sample Questions\_Solutions.pdf](https://ubccsss.org/files/CPSC%20213%20Midterm%20I%20Sample%20Questions_Solutions.pdf)
+* ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [CPSC 213 Midterm II Sample Questions.pdf](https://ubccsss.org/files/CPSC%20213%20Midterm%20II%20Sample%20Questions.pdf)
+* ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [CPSC 213 Midterm II Sample Questions\_Solutions.pdf](https://ubccsss.org/files/CPSC%20213%20Midterm%20II%20Sample%20Questions_Solutions.pdf)
 
 Undated
 -------

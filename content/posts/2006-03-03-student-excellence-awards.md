@@ -6,7 +6,7 @@ aliases:
   - /student_excellence
 author: dtan
 images:
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
 ---
 
 A maximum of three (3) $500 Student Excellence Awards will be awarded for the 2005-2006 academic year to students in recognition of contributions to the undergraduate Computer Science student body and/or Department. These awards are intended to encourage and reward students who take initiative within the UBC Computer Science community to the benefit of both the student and their peers.
@@ -35,4 +35,4 @@ Please submit application package in person no later than **Friday March 31, 200
 
 File Attachments: 
 
- ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [2006\_student\_excellence\_award.pdf](https://ubccsss.org/files/2006_student_excellence_award.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [2006\_student\_excellence\_award.pdf](https://ubccsss.org/files/2006_student_excellence_award.pdf)

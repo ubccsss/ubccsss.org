@@ -5,7 +5,7 @@ aliases:
   - /services/exams/cpsc304
 author: Tristan Rice
 images:
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
 ---
 
 2004

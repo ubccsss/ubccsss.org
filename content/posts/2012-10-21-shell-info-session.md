@@ -5,7 +5,7 @@ aliases:
   - /node/496
 author: jlo
 images:
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
 categories: [Career]
 raw_date: Friday, September 29, 2006 - 12:00 to 13:00
 raw_location: Boardroom of Engineering Annex
@@ -27,4 +27,4 @@ Boardroom of Engineering Annex
 
 File Attachments: 
 
- ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [ubcmap.pdf](https://ubccsss.org/files/ubcmap.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [ubcmap.pdf](https://ubccsss.org/files/ubcmap.pdf)

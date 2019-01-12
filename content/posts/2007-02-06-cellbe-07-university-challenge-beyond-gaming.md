@@ -5,8 +5,8 @@ aliases:
   - /node/703
 author: robf
 images:
-  - /modules/file/icons/application-pdf.png
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
+  - /modules/file/icons/application-pdf.svg
   - /files/ibm-logo.gif
 ---
 
@@ -19,6 +19,6 @@ post or click the following [link](https://www-304.ibm.com/jct09002c/university/
 
 File Attachments: 
 
- ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [CUC07 Poster.pdf](https://ubccsss.org/files/CUC07%20Poster.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [CUC07 Poster.pdf](https://ubccsss.org/files/CUC07%20Poster.pdf)
 
- ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [CUC07 Brochure.pdf](https://ubccsss.org/files/CUC07%20Brochure.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [CUC07 Brochure.pdf](https://ubccsss.org/files/CUC07%20Brochure.pdf)

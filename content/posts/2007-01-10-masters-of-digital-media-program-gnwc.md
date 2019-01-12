@@ -5,7 +5,7 @@ aliases:
   - /node/598
 author: jlo
 images:
-  - /modules/file/icons/image-x-generic.png
+  - /modules/file/icons/image-x-generic.svg
 ---
 
 Our Great Northern Way campus' will be hosting an [open house](http://www.gnwc.ca/mdm/openhouse.htm)
@@ -35,4 +35,4 @@ UBC Great Northern Way Campus
 
 File Attachments: 
 
- ![Image icon](/modules/file/icons/image-x-generic.png "image/jpeg") [MDM-Open-House-Nov 25.JPG](https://ubccsss.org/files/MDM-Open-House-Nov%2025.JPG)
+ ![Image icon](/modules/file/icons/image-x-generic.svg "image/jpeg") [MDM-Open-House-Nov 25.JPG](https://ubccsss.org/files/MDM-Open-House-Nov%2025.JPG)

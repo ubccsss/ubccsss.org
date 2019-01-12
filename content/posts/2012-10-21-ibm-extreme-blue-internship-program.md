@@ -6,7 +6,7 @@ aliases:
 author: Christopher Head
 images:
   - /files/extremeblue.png
-  - /modules/file/icons/image-x-generic.png
+  - /modules/file/icons/image-x-generic.svg
 ---
 
 [![](/files/extremeblue.png)](https://www.ibm.com/employment/us/extremeblue/) _From the website:_ The Extreme Blue program is IBM's premier internship for top-notch students pursuing software development and MBA degrees. If you're chosen for the program, you become part of a team working in one of a dozen Extreme Blue labs around the world. Your team's challenge: develop the technology and business plan for a new product or service that addresses an existing market challenge. Through the program, interns have submitted more than 270 patent disclosures and contributed six projects to the open source community, two for alphaWorks, and helped create solutions for key clients and bring-to-market the next generation of IBM products. Not bad for just 12 weeks.
@@ -17,4 +17,4 @@ Unlike other intern programs that may relegate you to work on outdated technolog
 
 File Attachments: 
 
- ![Image icon](/modules/file/icons/image-x-generic.png "image/png") [extremeblue.png](https://ubccsss.org/files/extremeblue.png)
+ ![Image icon](/modules/file/icons/image-x-generic.svg "image/png") [extremeblue.png](https://ubccsss.org/files/extremeblue.png)

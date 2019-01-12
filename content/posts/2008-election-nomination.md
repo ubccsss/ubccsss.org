@@ -6,7 +6,7 @@ aliases:
   - /elections08
 author: atjia
 images:
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
 ---
 
 Hi folks,
@@ -30,4 +30,4 @@ Your 2007-08 CSSS Executive
 
 File Attachments: 
 
- ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [Elections 2008 rev 2.pdf](https://ubccsss.org/files/Elections%202008%20rev%202.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [Elections 2008 rev 2.pdf](https://ubccsss.org/files/Elections%202008%20rev%202.pdf)

@@ -5,7 +5,7 @@ aliases:
   - /node/668
 author: robf
 images:
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
   - /files/cutc.jpg
 ---
 
@@ -33,4 +33,4 @@ Check out [www.cutc.ca](http://www.cutc.ca) for more information about the **CUT
 
 File Attachments: 
 
- ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [applicationForm.pdf](https://ubccsss.org/files/applicationForm.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [applicationForm.pdf](https://ubccsss.org/files/applicationForm.pdf)

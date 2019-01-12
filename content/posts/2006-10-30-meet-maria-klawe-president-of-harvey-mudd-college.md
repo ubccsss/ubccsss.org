@@ -5,7 +5,7 @@ aliases:
   - /node/521
 author: robf
 images:
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
   - /files/ubc_logo.jpg
 categories: [Career]
 ---
@@ -43,7 +43,7 @@ X736
 
 File Attachments: 
 
- ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [flyer.pdf](https://ubccsss.org/files/flyer.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [flyer.pdf](https://ubccsss.org/files/flyer.pdf)
 
 Tags: 
 

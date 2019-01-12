@@ -5,7 +5,7 @@ aliases:
   - /node/707
 author: robf
 images:
-  - /modules/file/icons/x-office-document.png
+  - /modules/file/icons/x-office-document.svg
 categories: [Career]
 ---
 
@@ -19,4 +19,4 @@ make sure to put **"UBC" in the subject of the email**.
 
 File Attachments: 
 
- ![Microsoft Office document icon](/modules/file/icons/x-office-document.png "application/msword") [Software\_Development\_Positions\_2.doc](https://ubccsss.org/files/Software_Development_Positions_2.doc)
+ ![Microsoft Office document icon](/modules/file/icons/x-office-document.svg "application/msword") [Software\_Development\_Positions\_2.doc](https://ubccsss.org/files/Software_Development_Positions_2.doc)

@@ -6,7 +6,7 @@ aliases:
 author: hybrid11
 images:
   - /files/adobe_logo.gif
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
 categories: [Career]
 raw_date: Wednesday, November 8, 2006 - 16:30 to 17:30
 location:
@@ -39,7 +39,7 @@ Dempster 310
 
 File Attachments: 
 
- ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [ubc\_adobe.pdf](https://ubccsss.org/files/ubc_adobe.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [ubc\_adobe.pdf](https://ubccsss.org/files/ubc_adobe.pdf)
 
 Tags: 
 

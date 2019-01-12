@@ -5,8 +5,8 @@ aliases:
   - /node/996
 author: Christopher Head
 images:
-  - /modules/file/icons/x-office-document.png
-  - /modules/file/icons/x-office-document.png
+  - /modules/file/icons/x-office-document.svg
+  - /modules/file/icons/x-office-document.svg
 categories: [Career]
 ---
 
@@ -22,6 +22,6 @@ See the attached job descriptions for more information on how to apply or the or
 
 File Attachments: 
 
- ![Microsoft Office document icon](/modules/file/icons/x-office-document.png "application/msword") [SDE Vancouver Flyer 10 - 17 - 07.doc](https://ubccsss.org/files/SDE%20Vancouver%20Flyer%2010%20-%2017%20-%2007.doc)
+ ![Microsoft Office document icon](/modules/file/icons/x-office-document.svg "application/msword") [SDE Vancouver Flyer 10 - 17 - 07.doc](https://ubccsss.org/files/SDE%20Vancouver%20Flyer%2010%20-%2017%20-%2007.doc)
 
- ![Microsoft Office document icon](/modules/file/icons/x-office-document.png "application/msword") [STE Vancouver flyer 10 - 17- 07.doc](https://ubccsss.org/files/STE%20Vancouver%20flyer%2010%20-%2017-%2007.doc)
+ ![Microsoft Office document icon](/modules/file/icons/x-office-document.svg "application/msword") [STE Vancouver flyer 10 - 17- 07.doc](https://ubccsss.org/files/STE%20Vancouver%20flyer%2010%20-%2017-%2007.doc)

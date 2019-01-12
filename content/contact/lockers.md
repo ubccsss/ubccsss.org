@@ -3,7 +3,7 @@ title: Rent a locker
 date: 2019-01-11 # last time rates were updated
 ---
 
-<img alt="" width="66" height="150" src="/files/locker.png" class="float-right">
+<img alt="" width="66" height="150" src="/files/locker.svg" class="float-right">
 
 Lockers in the ICICS building are available to rent through the CSSS!
 

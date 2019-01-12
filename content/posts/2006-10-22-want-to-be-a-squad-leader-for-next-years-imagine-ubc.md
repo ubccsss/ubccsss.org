@@ -5,7 +5,7 @@ aliases:
   - /node/515
 author: robf
 images:
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
   - /files/ubc_logo.jpg
 ---
 
@@ -21,4 +21,4 @@ for your application is **Octobert 30th**!
 
 File Attachments: 
 
- ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [Squad Leader Recruitment Email 2007.pdf](https://ubccsss.org/files/Squad%20Leader%20Recruitment%20Email%202007.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [Squad Leader Recruitment Email 2007.pdf](https://ubccsss.org/files/Squad%20Leader%20Recruitment%20Email%202007.pdf)

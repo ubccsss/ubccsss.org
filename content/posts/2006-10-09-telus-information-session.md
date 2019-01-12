@@ -6,7 +6,7 @@ aliases:
 author: jlo
 images:
   - /files/telus_logo.gif
-  - /modules/file/icons/application-pdf.png
+  - /modules/file/icons/application-pdf.svg
 categories: [Career]
 raw_date: Wednesday, October 11, 2006 - 17:30 to 19:30
 raw_location: Wesbrook 100 (the white building across UBC bookstore)
@@ -38,7 +38,7 @@ Wesbrook 100 (the white building across UBC bookstore)
 
 File Attachments: 
 
- ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [TELUS\_info\_session.pdf](https://ubccsss.org/files/TELUS_info_session.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [TELUS\_info\_session.pdf](https://ubccsss.org/files/TELUS_info_session.pdf)
 
 Tags: 
 

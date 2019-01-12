@@ -6,7 +6,7 @@ aliases:
 author: Christopher Head
 categories: [Career]
 images:
-  - /modules/file/icons/image-x-generic.png
+  - /modules/file/icons/image-x-generic.svg
 ---
 
 [JP Morgan](http://jpmorgan.com) is seeking **Full Time & Internships Opportunities in Technology, Operations and Business Services**.
@@ -17,4 +17,4 @@ Apply before September 14, 2008 via the Asia Pacific section at [http://jpmorgan
 
 File Attachments: 
 
- ![Image icon](/modules/file/icons/image-x-generic.png "image/jpeg") [Full Time & Interns Opportunities in Technology, Operations and Business Services.jpg](https://ubccsss.org/files/Full%20Time%20%26%20Interns%20Opportunities%20in%20Technology%2C%20Operations%20and%20Business%20Services.jpg)
+ ![Image icon](/modules/file/icons/image-x-generic.svg "image/jpeg") [Full Time & Interns Opportunities in Technology, Operations and Business Services.jpg](https://ubccsss.org/files/Full%20Time%20%26%20Interns%20Opportunities%20in%20Technology%2C%20Operations%20and%20Business%20Services.jpg)
