@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<header>
+    {{ partial "post-title" . }}
+    {{ partial "post-date" . }}
+    {{ partial "post-tags" . }}
+    {{ partial "post-categories" . }}
+    <hr>
+</header>
+<article class="blog-post">
+    {{ .Content }}
+
+    {{ if .IsTranslated }}
+        <h4>{{ i18n "translations" }}</h4>
+        <ul>
+            {{ range .Translations }}
+            <li>
+                <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+            </li>
+            {{ end }}
+        </ul>
+    {{ end }}
+
+    {{ partial "pager" . }}
+
+</article>
+
+{{ end }}

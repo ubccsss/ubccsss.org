@@ -1,5 +1,6 @@
 ---
 title: Meeting Minutes
+layout: single
 aliases:
   - /club/about/minutes
   - /node/1555

@@ -42,3 +42,15 @@ h6,
     transform: rotateZ(2deg);
     margin-top: -0.5rem;
 }
+
+.outline-menu {
+    height: auto;
+    max-height: 20em;
+    overflow-x: hidden;
+}
+.outline-list {
+    list-style: none;
+}
+.outline-menu > .outline-list {
+    padding-left: 0;
+}

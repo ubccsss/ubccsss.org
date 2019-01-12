@@ -1,0 +1,22 @@
+<nav class="nav justify-content-between">
+    {{ with .PrevInSection }}
+    <a class="nav-link" href="{{ .RelPermalink }}">‹ {{ .Title }}</a>
+    {{ end }}
+    {{ if ne .Parent .Site.Home }}
+        {{ with .Parent }}
+        <a class="nav-link" href="{{ .RelPermalink }}">Up</a>
+        {{ end }}
+    {{ end }}
+    {{ with .NextInSection }}
+    <a class="nav-link" href="{{ .RelPermalink }}">{{ .Title }} ›</a>
+    {{ end }}
+
+    <div class="nav-item dropdown">
+        <button class="btn btn-secondary nav-link dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Outline
+        </button>
+        <div class="dropdown-menu outline-menu" aria-labelledby="dropdownMenuButton">
+            {{ partial "outline-items" (.GetPage "/about") }}
+        </div>
+    </div>
+</nav>

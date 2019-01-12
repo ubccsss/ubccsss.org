@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+{{ $currentExecs := index (sort .Pages "Title" "desc") 0 }}
+
+<header>
+    {{ partial "post-title" $currentExecs }}
+    <hr>
+</header>
+<article class="blog-post">
+    {{ with $currentExecs }}
+        {{ .Content }}
+
+        {{ if .IsTranslated }}
+        <h4>{{ i18n "translations" }}</h4>
+        <ul>
+            {{ range .Translations }}
+            <li>
+                <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+            </li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    {{ end }}
+
+    {{ partial "pager" . }}
+</article>
+
+{{ end }}
