@@ -2,7 +2,7 @@
 title: 'About Us'
 layout: single
 aliases:
-    - /club/about
+  - /club/about
 ---
 
 We are the UBC Computer Science Student Society (UBC CSSS), a student society to
@@ -44,13 +44,10 @@ of ICICS/CS, right, and at the end of the hallway by the undergraduate labs.
 ### How do I find out about CSSS events?
 
 We'll be posting our events here on our website (which also has an
-[RSS feed](/node/feed) and an [iCal calendar feed](/event/calendar.ics)),
+[RSS feed](/index.xml) and an [iCal calendar feed](/event/calendar.ics)),
 [Tweeting them](https://twitter.com/ubccsss), posting them on our
 [Facebook page](https://www.facebook.com/ubccsss/), and sending them to our
-announcements mailing list. To get on the mailing list, just send an e-mail to
-[announce-subscribe@ubccsss.org](mailto:announce-subscribe@ubccsss.org) with the
-word "subscribe" in the subject line and follow the instructions. If you have
-any problems, contact us at `postmaster[at]ubccsss[dot]org`.
+[announcements mailing list](/contact/email-newsletter/).
 
 ### How can I volunteer for CSSS events?
 
