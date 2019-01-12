@@ -33,7 +33,3 @@ Suggestions?
 ============
 
 We've now opened up a [suggestion box on our website](https://ubccsss.org/content/suggestions-box)! Our execs meet every 2 weeks to discuss suggestions from our members. Send over your ideas and hate mail.
-
-Tags: 
-
-[Club Activities](/club)

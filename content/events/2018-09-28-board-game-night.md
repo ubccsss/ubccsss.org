@@ -24,15 +24,3 @@ location:
 Start the year off right by getting together with friends, new and old, for a fun-filled night of games!
 
 [Add to calendar](https://www.google.com/calendar/render?action=TEMPLATE&text=Board+Game+Night&details=https%3A%2F%2Fubccsss.org%2Fcontent%2Fboard-game-night%0AStart+the+year+off+right+by+getting+together+with+friends%2C+new+and+old%2C+for+a+fun-filled+night+of+games%21&location=Pacific+Poke%2C+ICICS+Computer+Science%2C+2366+Main+Mall%2C+Vancouver%2C+BC+V6T+1Z4%2C+Canada&dates=20180929T003000Z%2F20180929T030000Z)
-
-When: 
-
-Friday, September 28, 2018 - 17:30 to 20:00
-
-Where: 
-
-Pacific Poke
-
-Tags: 
-
-[Club Activities](/club)

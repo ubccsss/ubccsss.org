@@ -28,15 +28,3 @@ _Speaker: Michael Reid_
 As machine learning has evolved, the systems that train and predict on machine learning models have increasingly become outsourced from those that own the data; for example, a company training its data in a public cloud like AWS, or Facebook giving away its user data to its partners. As an end user of these systems, we want to experience the personalized benefits that training sophisticated machine learning models enables, but also want to make sure our data is secure and not visible to unknown third parties. In this talk, we will look into how homomorphic encryption techniques can be used to allow neural networks to train atop data sets without being able to see the data underneath. We will discuss both fully and somewhat homomorphic cryptosystems, as well as the ongoing research being done to apply these to neural networks.
 
 Michael Reid is the co-founder of Nautilus Analytics Technologies, a company that is building privacy-preserving machine learning software for businesses in government, healthcare, and other security-focused sectors. Previously, Mike worked as a software engineer at Hootsuite, Splunk, and Amazon Web Services, dealing with both machine learning and large-scale, high-volume distributed systems.
-
-When: 
-
-Monday, October 29, 2018 - 18:30 to 20:30
-
-Where: 
-
-DMP 301
-
-Tags: 
-
-[CS/Science/UBC Relations](/taxonomy/term/1)

@@ -28,30 +28,28 @@ menu:
       url: /contact
       weight: -100
 
+# Get date from filename, Jekyll-style.
 frontmatter:
   date:
     - ":filename"
     - ":default"
 
+# Default values for event `location.address`
 default_location_address:
   addressLocality: Vancouver
   addressRegion: BC
   addressCountry: CA
 
 permalinks:
-  posts: /posts/:year/:month/:title/
-  events: /events/:year/:month/:title/
-  minutes: /about/minutes/:year/:month/:day/
+  posts: /:section/:year/:month/:day/:slug/
+  events: /:section/:year/:month/:day/:slug/
 
 paginate: 5
 
 params:
-  eventSections:
-    - events
   mainSections:
     - events
     - posts
-    - career
   truncate: false
   header:
     colorScheme: dark

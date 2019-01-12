@@ -8,14 +8,7 @@ const readdir = promisify(fs.readdir);
 
 async function renameFileWithTitle(folder, file) {
     const path = join(folder, file);
-    const input = await readFile(path, 'utf8');
-    const match = input.match(/title: (.*)/);
-    if (match) {
-        const title = match[1];
-        const slug = slugify(title, { remove: '"', lower: true });
-
-        await rename(path, join(folder, `${slug}.md`));
-    }
+    await rename(path, path.replace('-meeting-minutes', ''));
 }
 
 async function main(folder) {
