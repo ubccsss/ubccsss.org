@@ -44,10 +44,9 @@ of ICICS/CS, right, and at the end of the hallway by the undergraduate labs.
 ### How do I find out about CSSS events?
 
 We'll be posting our events here on our website (which also has an
-[RSS feed](/index.xml) and an [iCal calendar feed](/event/calendar.ics)),
-[Tweeting them](https://twitter.com/ubccsss), posting them on our
-[Facebook page](https://www.facebook.com/ubccsss/), and sending them to our
-[announcements mailing list](/contact/email-newsletter/).
+[RSS feed](/index.xml)), [Tweeting them](https://twitter.com/ubccsss), posting
+them on our [Facebook page](https://www.facebook.com/ubccsss/), and sending them
+to our [announcements mailing list](/contact/email-newsletter/).
 
 ### How can I volunteer for CSSS events?
 
@@ -62,7 +61,7 @@ three-layer reporting structure: the president, the other core executives, and
 the committees. The core executives are elected each spring, while the committee
 members are appointed throughout the year. If you see a position that interests
 you, or just want to be involved as a volunteer, send us an e-mail to us at
-`csss[at]ubccsss[dot]org`.
+`csss [at] ubccsss [dot] org`.
 
 ### Our Mission Statement and Constitution
 
@@ -77,13 +76,4 @@ For more information about the running of the club, please read our
 [constitution](/about/constitution).
 
 Thanks all! If you have any questions/concerns, please e-mail us at
-<code>csss[at]ubccsss[dot]org</code>!
-
-<iframe
-  src="https://calendar.google.com/calendar/embed?title=CSSS%20Calendar&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=6vkidfgigdr97ahbrvcalc5jno%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FLos_Angeles"
-  style="border-width:0"
-  width="800"
-  height="600"
-  frameborder="0"
-  scrolling="no"
-></iframe>
+`csss [at] ubccsss [dot] org`!
