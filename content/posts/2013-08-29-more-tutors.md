@@ -5,6 +5,8 @@ aliases:
   - /node/1504
 author: Christopher Head
 images: []
+categories: [Services]
+tags: [Tutor]
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Due to unexpectedly high demand, the UBC CSSS needs more tutors for our CPSC 110 tutoring service. Requirements: has taken CPSC 110 at UBC and received an 80% grade. This is a tutoring registry, so you decide your availability and rates.</p>

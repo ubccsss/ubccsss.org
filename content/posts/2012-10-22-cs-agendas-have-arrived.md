@@ -5,6 +5,8 @@ aliases:
   - /node/58
 author: atjia
 images: []
+categories: [Services]
+tags: [Merch]
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Come to the CSSS office any time to pick up your very own <strong>Computer Science button and day planner</strong> featuring the new CSSS logo!</p>

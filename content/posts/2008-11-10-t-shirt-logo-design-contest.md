@@ -4,6 +4,8 @@ date: 2008-11-11T05:18:00.000Z
 aliases:
   - /node/1071
 author: atjia
+categories: [Services]
+tags: [Merch]
 images:
   - /files/CSLogo_web_small.jpg
 ---

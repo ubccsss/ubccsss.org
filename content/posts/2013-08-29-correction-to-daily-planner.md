@@ -5,6 +5,8 @@ aliases:
   - /node/91
 author: atjia
 images: []
+categories: [Services]
+tags: [Merch]
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>On page 1 of the daily planner, our email addresses are listed incorrectly.  Please observe the following corrections:</p>

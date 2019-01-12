@@ -4,6 +4,8 @@ date: 2005-11-09T03:08:00.000Z
 aliases:
   - /node/125
 author: nshafiee
+categories: [Services]
+tags: [Merch]
 images:
   - /files/jeromeblack.jpg.jpeg
 ---

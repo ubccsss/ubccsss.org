@@ -4,6 +4,8 @@ date: 2012-10-22T06:44:00.000Z
 aliases:
   - /node/720
 author: Christopher Head
+categories: [Services]
+tags: [Merch]
 images:
   - /files/exhibitb_small.PNG
   - /files/CSLogo_web_small.jpg

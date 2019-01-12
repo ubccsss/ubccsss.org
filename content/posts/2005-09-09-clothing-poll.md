@@ -2,6 +2,8 @@
 title: "CS Clothing 2005 Poll"
 date: 2012-09-09T18:13:00.000Z
 type: page
+categories: [Services]
+tags: [Merch]
 aliases:
   - /node/1478
 author: Christopher Head

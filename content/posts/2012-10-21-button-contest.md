@@ -4,6 +4,8 @@ date: 2012-10-21T22:32:00.000Z
 aliases:
   - /node/6
 author: Christopher Head
+categories: [Services]
+tags: [Merch]
 images: []
 ---
 

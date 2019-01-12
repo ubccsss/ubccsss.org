@@ -4,6 +4,8 @@ date: 2008-11-21T08:27:00.000Z
 aliases:
   - /node/1161
 author: Christopher Head
+categories: [Services]
+tags: [Merch]
 images:
   - /files/2008-clothing-karen-logo.png
   - /files/2008-clothing-kitty-logo.png

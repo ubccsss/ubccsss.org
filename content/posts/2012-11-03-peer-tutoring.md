@@ -6,6 +6,8 @@ aliases:
   - /node/108
 author: rchao
 images: []
+categories: [Services]
+tags: [Tutor]
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>Wanna be a tutor?</strong></p>

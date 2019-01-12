@@ -4,6 +4,8 @@ date: 2012-10-22T02:07:00.000Z
 aliases:
   - /node/307
 author: Christopher Head
+categories: [Services]
+tags: [Merch]
 images:
   - /files/cstshirt.jpg
 ---

@@ -4,6 +4,8 @@ date: 2012-09-09T18:14:00.000Z
 aliases:
   - /clothingcontest2005
 author: Christopher Head
+categories: [Services]
+tags: [Merch]
 images:
   - /files/tshirtquestion.gif
   - /files/images/1.jpeg

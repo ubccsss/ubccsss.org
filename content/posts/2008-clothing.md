@@ -4,6 +4,8 @@ date: 2012-10-22T06:44:00.000Z
 aliases:
   - /clothing08
 author: atjia
+categories: [Services]
+tags: [Merch]
 images:
   - /files/tshirt_scaled.jpg
   - /files/sweatshirt_scaled.jpg

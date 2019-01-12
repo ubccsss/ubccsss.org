@@ -4,6 +4,8 @@ date: 2006-11-19T04:24:00.000Z
 aliases:
   - /node/517
 author: robf
+categories: [Services]
+tags: [Merch]
 images:
   - /files/CSLogo_web_small.jpg
 ---

@@ -4,6 +4,8 @@ date: 2012-10-21T22:34:00.000Z
 aliases:
   - /node/10
 author: Christopher Head
+categories: [Services]
+tags: [Merch]
 images:
   - /files/CSLogo_web.png
 ---

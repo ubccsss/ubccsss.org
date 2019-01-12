@@ -1,7 +1,6 @@
 ---
-title: "CPSC 213"
+title: CPSC 213
 date: 2017-03-09T03:54:00.000Z
-type: page
 aliases:
   - /services/exams/cpsc213
 author: Tristan Rice
@@ -18,103 +17,88 @@ images:
   - /modules/file/icons/application-pdf.png
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2006</h2>
+2006
+----
 
-<p><a href="/files/exams/2006/cs213-2006-t1-midterm1-solution.pdf">Midterm 1 (Term 1) (Solution)</a></p>
+* [Midterm 1 (Term 1) (Solution)](/files/exams/2006/cs213-2006-t1-midterm1-solution.pdf)
+* [Midterm 2 (Term 1) (Solution)](/files/exams/2006/cs213-2006-t1-midterm2-solution.pdf)
 
-<p><a href="/files/exams/2006/cs213-2006-t1-midterm2-solution.pdf">Midterm 2 (Term 1) (Solution)</a></p>
+2007
+----
 
-<h2>2007</h2>
+* [Sample Midterm (Summer)](/files/exams/2007/cs213-2007-s-sample-midterm.pdf) [(Solution)](/files/exams/2007/cs213-2007-s-sample-midterm-solution.pdf)
+* [Bootleg Final (Term 2)](/files/exams/2007/cs313-2007-t2-bootleg-final.pdf)
 
-<p><a href="/files/exams/2007/cs213-2007-s-sample-midterm.pdf">Sample Midterm (Summer)</a> <a href="/files/exams/2007/cs213-2007-s-sample-midterm-solution.pdf">(Solution)</a></p>
+2009
+----
 
-<p><a href="/files/exams/2007/cs313-2007-t2-bootleg-final.pdf">Bootleg Final (Term 2)</a></p>
+* [Midterm Review (Summer)](/files/exams/2009/cs213-2009-s-review-midterm.pdf) [(Solution)](/files/exams/2009/cs213-2009-s-review-midterm-solution.pdf)
+* [Sample Midterm (Term 2)](/files/exams/2009/cs213-2009-t2-sample-midterm.pdf) [(Solution)](/files/exams/2009/cs213-2009-t2-sample-midterm-solution.pdf)
+* [Final Review (Summer)](/files/exams/2009/cs213-2009-s-review-final.pdf) [(Solution)](/files/exams/2009/cs213-2009-s-review-final-solution.pdf)
+* [Final Review (Term 2)](/files/exams/2009/cs213-2009-t2-review-final.pdf)
 
-<h2>2009</h2>
+2010
+----
 
-<p><a href="/files/exams/2009/cs213-2009-s-review-midterm.pdf">Midterm Review (Summer)</a> <a href="/files/exams/2009/cs213-2009-s-review-midterm-solution.pdf">(Solution)</a></p>
+* [Quiz 1 (Term 1)](/files/exams/2010/cs213-2010-t1-quiz1.pdf) [(Solution)](/files/exams/2010/cs213-2010-t1-quiz1-solution.pdf)
+* [Quiz 2 (Term 1)](/files/exams/2010/cs213-2010-t1-quiz2.pdf) [(Solution)](/files/exams/2010/cs213-2010-t1-quiz2-solution.pdf)
+* [Quiz 3 (Term 1)](/files/exams/2010/cs213-2010-t1-quiz3.pdf) [(Solution)](/files/exams/2010/cs213-2010-t1-quiz3-solution.pdf)
+* [Midterm (Term 1)](/files/exams/2010/cs213-2010-t1-midterm.pdf) [(Solution)](/files/exams/2010/cs213-2010-t1-midterm-solution.pdf)
 
-<p><a href="/files/exams/2009/cs213-2009-t2-sample-midterm.pdf">Sample Midterm (Term 2)</a> <a href="/files/exams/2009/cs213-2009-t2-sample-midterm-solution.pdf">(Solution)</a></p>
+2013
+----
 
-<p><a href="/files/exams/2009/cs213-2009-s-review-final.pdf">Final Review (Summer)</a> <a href="/files/exams/2009/cs213-2009-s-review-final-solution.pdf">(Solution)</a></p>
+*   [Practice Final](https://ubccsss.org/files/213-2013-practice_final.pdf)
+*   [Practice Final (Solution)](https://ubccsss.org/files/213-2013-practice_final_solutions_1.pdf)
 
-<p><a href="/files/exams/2009/cs213-2009-t2-review-final.pdf">Final Review (Term 2)</a></p>
+2015
+----
 
-<h2>2010</h2>
+*   [Extra Questions](https://ubccsss.org/files/213-2015-extra-questions.pdf)
+*   [Extra Questions (Solution)](https://ubccsss.org/files/213-2015-extra-questions-solution.pdf)
+*   [Midterm](https://ubccsss.org/files/213-2015-mt.pdf)
+*   [Midterm (Solution)](https://ubccsss.org/files/213-2015-mt-soln.pdf)
+*   [Practice Midterm](https://ubccsss.org/files/213-2015-practice-mt.pdf)
+*   [Practice Midterm (Solution)](https://ubccsss.org/files/213-2015-practice-mt-soln.pdf)
+*   [Final Review](https://ubccsss.org/files/213-2015-finalreview.pdf)
 
-<p><a href="/files/exams/2010/cs213-2010-t1-quiz1.pdf">Quiz 1 (Term 1)</a> <a href="/files/exams/2010/cs213-2010-t1-quiz1-solution.pdf">(Solution)</a></p>
+2016
+----
 
-<p><a href="/files/exams/2010/cs213-2010-t1-quiz2.pdf">Quiz 2 (Term 1)</a> <a href="/files/exams/2010/cs213-2010-t1-quiz2-solution.pdf">(Solution)</a></p>
+* ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [CPSC 213 Midterm I Sample Questions.pdf](https://ubccsss.org/files/CPSC%20213%20Midterm%20I%20Sample%20Questions.pdf)
+* ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [CPSC 213 Midterm I Sample Questions\_Solutions.pdf](https://ubccsss.org/files/CPSC%20213%20Midterm%20I%20Sample%20Questions_Solutions.pdf)
+* ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [CPSC 213 Midterm II Sample Questions.pdf](https://ubccsss.org/files/CPSC%20213%20Midterm%20II%20Sample%20Questions.pdf)
+* ![PDF icon](/modules/file/icons/application-pdf.png "application/pdf") [CPSC 213 Midterm II Sample Questions\_Solutions.pdf](https://ubccsss.org/files/CPSC%20213%20Midterm%20II%20Sample%20Questions_Solutions.pdf)
 
-<p><a href="/files/exams/2010/cs213-2010-t1-quiz3.pdf">Quiz 3 (Term 1)</a> <a href="/files/exams/2010/cs213-2010-t1-quiz3-solution.pdf">(Solution)</a></p>
+Undated
+-------
 
-<p><a href="/files/exams/2010/cs213-2010-t1-midterm.pdf">Midterm (Term 1)</a> <a href="/files/exams/2010/cs213-2010-t1-midterm-solution.pdf">(Solution)</a></p>
+* [cs213-MidPracticeQuestions.pdf](/files/exams/undated/cs213-MidPracticeQuestions.pdf)
+* [cs213-MidPracticeSolutions.pdf](/files/exams/undated/cs213-MidPracticeSolutions.pdf)
+* [cs213-ReviewExercises.pdf](/files/exams/undated/cs213-ReviewExercises.pdf)
+* [cs213-ReviewExercises-Solutions.pdf](/files/exams/undated/cs213-ReviewExercises-Solutions.pdf)
+* [cs213-ReviewExercises-Solutions\_summero.pdf](/files/exams/undated/cs213-ReviewExercises-Solutions_summero.pdf)
 
-<h2>2013</h2>
-
-<ul>
-<li><a href="https://ubccsss.org/files/213-2013-practice_final.pdf">Practice Final</a></li>
-<li><a href="https://ubccsss.org/files/213-2013-practice_final_solutions_1.pdf">Practice Final (Solution)</a></li>
-</ul>
-
-<h2>2015</h2>
-
-<ul>
-<li><a href="https://ubccsss.org/files/213-2015-extra-questions.pdf">Extra Questions</a></li>
-<li><a href="https://ubccsss.org/files/213-2015-extra-questions-solution.pdf">Extra Questions (Solution)</a></li>
-<li><a href="https://ubccsss.org/files/213-2015-mt.pdf">Midterm</a></li>
-<li><a href="https://ubccsss.org/files/213-2015-mt-soln.pdf">Midterm (Solution)</a></li>
-<li><a href="https://ubccsss.org/files/213-2015-practice-mt.pdf">Practice Midterm</a></li>
-<li><a href="https://ubccsss.org/files/213-2015-practice-mt-soln.pdf">Practice Midterm (Solution)</a></li>
-<li><a href="https://ubccsss.org/files/213-2015-finalreview.pdf">Final Review</a></li>
-</ul>
-
-<h2>2016</h2>
-
-<div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://ubccsss.org/files/CPSC%20213%20Midterm%20I%20Sample%20Questions.pdf" type="application/pdf; length=163420">CPSC 213 Midterm I Sample Questions.pdf</a></span></div><div class="field-item odd"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://ubccsss.org/files/CPSC%20213%20Midterm%20I%20Sample%20Questions_Solutions.pdf" type="application/pdf; length=217752">CPSC 213 Midterm I Sample Questions_Solutions.pdf</a></span></div><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://ubccsss.org/files/CPSC%20213%20Midterm%20II%20Sample%20Questions.pdf" type="application/pdf; length=156913">CPSC 213 Midterm II Sample Questions.pdf</a></span></div><div class="field-item odd"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://ubccsss.org/files/CPSC%20213%20Midterm%20II%20Sample%20Questions_Solutions.pdf" type="application/pdf; length=66276">CPSC 213 Midterm II Sample Questions_Solutions.pdf</a></span></div></div>
-
-<h2>Undated</h2>
-
-<p><a href="/files/exams/undated/cs213-MidPracticeQuestions.pdf">cs213-MidPracticeQuestions.pdf</a></p>
-
-<p><a href="/files/exams/undated/cs213-MidPracticeSolutions.pdf">cs213-MidPracticeSolutions.pdf</a></p>
-
-<p><a href="/files/exams/undated/cs213-ReviewExercises.pdf">cs213-ReviewExercises.pdf</a></p>
-
-<p><a href="/files/exams/undated/cs213-ReviewExercises-Solutions.pdf">cs213-ReviewExercises-Solutions.pdf</a></p>
-
-<p><a href="/files/exams/undated/cs213-ReviewExercises-Solutions_summero.pdf">cs213-ReviewExercises-Solutions_summero.pdf</a></p>
-</div></div></div><div class="field field-name-field-file-attachments field-type-file field-label-above"><div class="field-label">File Attachments:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://ubccsss.org/files/213-2015-extra-questions.pdf" type="application/pdf; length=60996">213-2015-extra-questions.pdf</a></span></div><div class="field-item odd"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://ubccsss.org/files/213-2015-mt-soln.pdf" type="application/pdf; length=69038">213-2015-mt-soln.pdf</a></span></div><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://ubccsss.org/files/213-2015-mt.pdf" type="application/pdf; length=102780">213-2015-mt.pdf</a></span></div><div class="field-item odd"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://ubccsss.org/files/213-2015-practice-mt.pdf" type="application/pdf; length=108033">213-2015-practice-mt.pdf</a></span></div><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://ubccsss.org/files/213-2015-practice-mt-soln.pdf" type="application/pdf; length=82721">213-2015-practice-mt-soln.pdf</a></span></div><div class="field-item odd"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://ubccsss.org/files/213-2015-finalreview.pdf" type="application/pdf; length=65659">213-2015-finalreview.pdf</a></span></div></div></div>  <div id="book-navigation-1440" class="book-navigation">
-    <div class="book-toc btn-group pull-right">  <button type="button" class="btn btn-link dropdown-toggle" data-toggle="dropdown"><span class="icon glyphicon glyphicon-list" aria-hidden="true"></span> Outline <span class="caret"></span></button><ul class="dropdown-menu" role="menu"><li class="first last expanded" role="presentation"><a href="/services/exams">Exams Database</a><ul class="dropdown-menu" role="menu"><li class="first leaf" role="presentation"><a href="/services/exams/cpsc101">CPSC 101</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc110">CPSC 110</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc121">CPSC 121</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc173">CPSC 173</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc210">CPSC 210</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc211">CPSC 211</a></li>
-<li class="leaf active" role="presentation"><a href="/services/exams/cpsc213" class="active">CPSC 213</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc221">CPSC 221</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc302">CPSC 302</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc304">CPSC 304</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc310">CPSC 310</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc311">CPSC 311 </a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc312">CPSC 312</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc313">CPSC 313</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc314">CPSC 314</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc320">CPSC 320</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc322">CPSC 322</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc340">CPSC 340</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc404">CPSC 404</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc422">CPSC 422</a></li>
-<li class="leaf" role="presentation"><a href="/services/exams/cpsc448B">CPSC 448B</a></li>
-<li class="last leaf" role="presentation"><a href="/node/1455">Uncategorized</a></li>
-</ul></li>
-</ul></div>
-        <ul class="pager clearfix">
-              <li class="previous"><a href="/services/exams/cpsc211" class="page-previous" title="Go to previous page">&#x2039; CPSC 211</a></li>
-                    <li><a href="/services/exams" class="page-up" title="Go to parent page">up</a></li>
-                    <li class="next"><a href="/services/exams/cpsc221" class="page-next" title="Go to next page">CPSC 221 &#x203A;</a></li>
-          </ul>
-
-  </div>
-    <footer>
-          </footer>
+###### Outline
+* [CPSC 101](/services/exams/cpsc101)
+* [CPSC 110](/services/exams/cpsc110)
+* [CPSC 121](/services/exams/cpsc121)
+* [CPSC 173](/services/exams/cpsc173)
+* [CPSC 210](/services/exams/cpsc210)
+* [CPSC 211](/services/exams/cpsc211)
+* [CPSC 213](/services/exams/cpsc213)
+* [CPSC 221](/services/exams/cpsc221)
+* [CPSC 302](/services/exams/cpsc302)
+* [CPSC 304](/services/exams/cpsc304)
+* [CPSC 310](/services/exams/cpsc310)
+* [CPSC 311](/services/exams/cpsc311)
+* [CPSC 312](/services/exams/cpsc312)
+* [CPSC 313](/services/exams/cpsc313)
+* [CPSC 314](/services/exams/cpsc314)
+* [CPSC 320](/services/exams/cpsc320)
+* [CPSC 322](/services/exams/cpsc322)
+* [CPSC 340](/services/exams/cpsc340)
+* [CPSC 404](/services/exams/cpsc404)
+* [CPSC 422](/services/exams/cpsc422)
+* [CPSC 448B](/services/exams/cpsc448B)
+* [Uncategorized](/services/exams/uncategorized)
