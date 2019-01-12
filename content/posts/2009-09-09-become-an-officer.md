@@ -5,6 +5,7 @@ aliases:
   - /node/1258
 author: Christopher Head
 images: []
+tags: [Volunteer]
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>We have a long list of <strong>open officer positions</strong>. Becoming an officer will be a great opportunity to show leadership, meet new people, and get a better taste of the awesomeness that is THE CUBE. Please take the time to look over the available positions below. To apply, simply email a r&#xE9;sum&#xE9; and the position(s) you are interested in to Alden Salgado, Vice President, Volunteering Services at <a href="/cdn-cgi/l/email-protection#2452545264504c41475146410a4745"><span class="__cf_email__" data-cfemail="bbcdcbcdfbcfd3ded8ced9de95d8da">[email&#xA0;protected]</span></a> with the subject line &quot;Cube Application - <your name="">&quot;. If applying for multiple positions, please rank them in order of preference.</your></p>

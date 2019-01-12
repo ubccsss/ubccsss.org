@@ -5,6 +5,7 @@ aliases:
   - /node/65
 author: Christopher Head
 images: []
+tags: [Volunteer]
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The department would like to have an undergraduate representative on the following committees:</p>

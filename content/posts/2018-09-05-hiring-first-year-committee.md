@@ -5,6 +5,7 @@ aliases:
   - /content/hiring-first-year-committee
 author: Tiger Oakes
 images: []
+tags: [Volunteer]
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Computer Science Student Society First Year Committee (FYC for short) provides an exciting opportunity for students new to UBC interested in computer science to give back to their community. Along the way you will develop new interpersonal skills as you plan and coordinate events for your peers, and you&#x2019;ll meet a bunch of new people along the way!</p>

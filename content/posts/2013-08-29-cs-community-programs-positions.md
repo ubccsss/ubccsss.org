@@ -5,6 +5,7 @@ aliases:
   - /node/1265
 author: Christopher Head
 images: []
+tags: [Volunteer]
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>&#x201C;&#x2026;Community-Oriented Programming&#x201D;</p>
