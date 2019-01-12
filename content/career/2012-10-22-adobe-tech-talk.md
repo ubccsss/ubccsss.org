@@ -20,6 +20,7 @@ location:
 ---
 
 ![](/files/adobe_logo.gif)
+
 **Adobe** is coming to UBC! Join us on Wednesday, November 8th, in
 Dempster 310 at 5:30pm as we showcase our new Web 2.0 software, as well
 as take resumes from students. Pizza and pop will be provided. So bring

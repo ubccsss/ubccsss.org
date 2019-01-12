@@ -12,6 +12,7 @@ raw_location: Wesbrook Room 100
 ---
 
 ![](/files/ibm%20logo.jpg)
+
 Big Blue is hiring!
 
 When: 

@@ -10,6 +10,7 @@ categories: [Career]
 ---
 
 [![](/files/chictech.gif)](http://www.chictech.ca)
+
 The FoWCS Committee and the [Jade Project](http://www.jadeproject.ca/) are sponsoring a new program for high school girls called **ChicTech**. Teams of four girls and one teacher from area high schools will create web sites for non-profit organizations, and all of their projects will be judged in a competition at UBC at the end of the year. More information about the project is available at [http://www.chictech.ca](http://www.chictech.ca)
 
 Who We Need:

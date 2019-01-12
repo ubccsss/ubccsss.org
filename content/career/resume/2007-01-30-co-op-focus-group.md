@@ -12,6 +12,7 @@ raw_date: Thursday, February 8, 2007 - 12:30 to 13:00
 ---
 
 ![](/files/ubc.jpg)
+
 If you are a non-Co-op Computer Science undergrad student
 and interested in joining the Co-op program in the near
 future, you may come to the Co-op Focus Group Session held

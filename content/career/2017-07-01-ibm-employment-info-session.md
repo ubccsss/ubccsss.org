@@ -19,6 +19,7 @@ location:
 ---
 
 ![](/files/ibm%20logo.jpg)
+
 Come hear **Eric Zawadzki**, a Co-op student who worked 16 months at IBM talk about . . .
 
 *   Description of the EPIC program

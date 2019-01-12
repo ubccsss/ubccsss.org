@@ -8,7 +8,7 @@ images:
   - /files/innovate_or_die.jpg
 ---
 
-![](/files/innovate_or_die.jpg)[Google](https://www.google.com/) and [Specialized](http://www.specialized.com/) are searching for the brightest engineering minds on earth for the first ever **Innovate or Die Pedal-Powered Machine Contest**.
+![](/files/innovate_or_die.jpg) [Google](https://www.google.com/) and [Specialized](http://www.specialized.com/) are searching for the brightest engineering minds on earth for the first ever **Innovate or Die Pedal-Powered Machine Contest**.
 
 We're asking students to invent and build environmentally friendly, zero-emission machines that transform human pedal power into a new and useful purpose. After you build it, you will film it and post it on [YouTube](https://www.youtube.com) by **Sunday, December 15th**.
 

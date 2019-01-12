@@ -1,4 +1,5 @@
 {{ if .Params.location }}
 {{ $addr := .Params.location.address }}
-{{ .Params.location.name }} - {{ delimit (slice $addr.streetAddress $addr.addressLocality $addr.addressRegion $addr.postalCode) ", " }}
+{{ $def := .Site.Params.defaullt_location_address }}
+{{ .Params.location.name }} - {{ delimit (slice $addr.streetAddress (default $addr.addressLocality $def.addressLocality) (default $addr.addressRegion $def.addressRegion) $addr.postalCode) ", " }}
 {{ end }}

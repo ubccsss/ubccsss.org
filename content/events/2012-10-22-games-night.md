@@ -20,6 +20,7 @@ location:
 ---
 
 ![](/files/xbox.jpg)
+
 Xbox 360, Foosball, Poker and more. More details to follow. . .
 
 When: 

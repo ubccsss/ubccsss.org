@@ -11,7 +11,7 @@ raw_date: Wednesday, October 12, 2005 - 18:00 to 20:00
 raw_location: 4330 Sanderson Way, Burnaby
 ---
 
-[![](/files/eastudio.jpg)](/files/Studio%20Night%20Oct%2012.jpg)Disappointed you didn't win a video game in the last contest we had? [Electronic Arts](http://www.ea.com) is hosting a studio night, just for UBC students. Come and visit the EA campus, hear guest speakers, win cool prizes. Free food and beverages provided!
+[![](/files/eastudio.jpg)](/files/Studio%20Night%20Oct%2012.jpg) Disappointed you didn't win a video game in the last contest we had? [Electronic Arts](http://www.ea.com) is hosting a studio night, just for UBC students. Come and visit the EA campus, hear guest speakers, win cool prizes. Free food and beverages provided!
 
 Also, **Grace Lo**, formerly of UBC, will be there to share her experiences working for EA as a guest speaker. You should bring your resume and transcript if you're interested in being a potential candidate to work for EA.
 

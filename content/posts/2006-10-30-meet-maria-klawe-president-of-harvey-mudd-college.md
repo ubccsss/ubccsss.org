@@ -11,6 +11,7 @@ categories: [Career]
 ---
 
 ![](/files/ubc_logo.jpg)
+
 Focus on Women in Computer Science invites you to meet **Maria
 Klawe - President of Harvey Mudd College**.
 President Klawe was the former head of our department, as well

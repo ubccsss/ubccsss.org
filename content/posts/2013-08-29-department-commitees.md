@@ -9,6 +9,7 @@ images:
 ---
 
 ![](/files/CSLogo_web_small.jpg)
+
 Have any issues with the Computer Science Department?
 Then check out our new Department Representatives which
 will be attending various UBC Committees for us CPSC

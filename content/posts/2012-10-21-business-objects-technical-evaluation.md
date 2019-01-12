@@ -9,7 +9,7 @@ images:
 categories: [Career]
 ---
 
-![](/files/XIdiagram.gif)Win an Ipod Nano at [Business Objects'](http://www.businessobjects.com) upcoming technical evaluation.
+![](/files/XIdiagram.gif) Win an Ipod Nano at [Business Objects'](http://www.businessobjects.com) upcoming technical evaluation.
 
 This evaluation will consist of 2 parts—16 multiple choice questions and 3 coding questions.
 The multiple choice questions are evenly distributed across 4 major areas (4 questions in each area):

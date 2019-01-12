@@ -20,6 +20,7 @@ location:
 ---
 
 ![](/files/fowcs-scrolly-title.gif)
+
 Hello ladies!
 
 FoWCS will be holding its November luncheon this Friday, November 16th at noon. As usual, female graduate and undergraduate CS students are invited to come. We especially encourage 1st year undergrads to attend and network with other female students in the department. There will be light refreshments.

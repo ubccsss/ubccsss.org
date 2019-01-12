@@ -11,7 +11,7 @@ raw_date: Friday, November 25, 2005 - 18:00 to 22:00
 raw_location: CS Undergrad Lounge
 ---
 
-![](/files/wineandcheese.gif)Who says computer science students aren't sophisticated? Coming up is the first ever **Wine and Cheese event** (And no, we're not talking about [Wine](http://www.winehq.com/), which imho, is also quite sophisticated too). Tantalize your five senses and don't miss out.
+![](/files/wineandcheese.gif) Who says computer science students aren't sophisticated? Coming up is the first ever **Wine and Cheese event** (And no, we're not talking about [Wine](http://www.winehq.com/), which imho, is also quite sophisticated too). Tantalize your five senses and don't miss out.
 
 If the idea of rubbing shoulders with faculty, and students alike while sipping a stem of Pinot Noir doesn't appeal to you, consider the cultural enrichment that you'd get knowing that there are more varieties of cheese than Chedder or Mozza. It's all the fun of joining the [UBC Wine Tasting Club](http://www.ams.ubc.ca/clubs/winetasting) with none of the commitment! ;-)
 

@@ -13,6 +13,7 @@ raw_location: Wesbrook 100 (the white building across UBC bookstore)
 ---
 
 ![](/files/telus_logo.gif)
+
 Are you going?
 
 [TELUS](http://www.telus.ca) is taking our show on the road. We have exciting Leadership Development Programs for new grads and co-op opportunities to tell you about.

@@ -20,7 +20,7 @@ menu:
       url: /cube
       weight: -120
     - identifier: learn
-      name: Tutors & Exams Database
+      name: Services
       url: /services
       weight: -110
     - identifier: contact
@@ -32,6 +32,11 @@ frontmatter:
   date:
     - ":filename"
     - ":default"
+
+default_location_address:
+  addressLocality: Vancouver
+  addressRegion: BC
+  addressCountry: CA
 
 permalinks:
   posts: /posts/:year/:month/:title/

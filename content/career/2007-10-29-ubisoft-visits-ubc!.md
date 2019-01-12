@@ -18,7 +18,7 @@ location:
     addressCountry: CA
 ---
 
-![](/files/ubisoft_logo.gif)[Ubisoft](https://www.ubi.com/ENCA/default.aspx) will be coming on Thursday to do a recruitment talk. **Ben Mattes**, Producer for Prince of Persia 3 and another upcoming exciting but secret Ubisoft title will be doing a presentation about the design process (Ubisoft Pipeline) for all projects along with answering questions about his projects, Ubisoft, their studio, the [Too Much Imagination Game Design Challenge](http://www.toomuchimagination.ca/) and what Ubisoft looks for in a demo reel or portfolio.
+![](/files/ubisoft_logo.gif) [Ubisoft](https://www.ubi.com/ENCA/default.aspx) will be coming on Thursday to do a recruitment talk. **Ben Mattes**, Producer for Prince of Persia 3 and another upcoming exciting but secret Ubisoft title will be doing a presentation about the design process (Ubisoft Pipeline) for all projects along with answering questions about his projects, Ubisoft, their studio, the [Too Much Imagination Game Design Challenge](http://www.toomuchimagination.ca/) and what Ubisoft looks for in a demo reel or portfolio.
 
 As usual, **pizza and juice will be served**!
 
