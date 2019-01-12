@@ -1,12 +1,12 @@
 ---
-title: "OpenRoad seeking usability test subjects"
-date: 2012-10-21T23:12:00.000Z
+title: OpenRoad seeking usability test subjects
+date: 2012-10-21
 aliases:
   - /node/1482
 author: Christopher Head
-images: []
 categories: [Career]
-raw_date: Thursday, September 13, 2012 - 01:09
+start_date: 2012-09-13T01:09:00.000Z
+end_date: 2012-09-13T01:10:00.000Z
 raw_location: Downtown Vancouver
 ---
 

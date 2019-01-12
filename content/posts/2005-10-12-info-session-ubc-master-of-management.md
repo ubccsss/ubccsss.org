@@ -6,7 +6,8 @@ aliases:
 author: rchao
 images: []
 categories: [Career]
-raw_date: Wednesday, October 12, 2005 - 12:00 to 13:30
+start_date: 2005-10-12T12:00:00.000Z
+end_date: 2005-10-12T13:30:00.000Z
 raw_location: Volta room in Kaiser 2020
 ---
 

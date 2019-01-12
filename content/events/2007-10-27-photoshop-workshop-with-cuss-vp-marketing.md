@@ -7,7 +7,8 @@ aliases:
   - /node/1007
 author: Christopher Head
 images: []
-raw_date: Tuesday, November 6, 2007 - 16:30 to 18:00
+start_date: 2007-11-06T16:30:00.000Z
+end_date: 2007-11-06T18:00:00.000Z
 ---
 
 The CUS's VP Marketing, Brian Wong will be the host for this workshop where he will teach the basics of Photoshop and reveal the secrets of his great design work!

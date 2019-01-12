@@ -7,7 +7,8 @@ aliases:
   - /node/1423
 author: bertong
 images: []
-raw_date: Tuesday, February 1, 2011 - 10:00 to 16:00
+start_date: 2011-02-01T10:00:00.000Z
+end_date: 2011-02-01T16:00:00.000Z
 raw_location: SUB Ballroom
 ---
 

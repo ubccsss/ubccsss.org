@@ -6,7 +6,8 @@ aliases:
   - /node/1334
 author: Christopher Head
 images: []
-raw_date: Wednesday, March 17, 2010 - 12:00 to 13:00
+start_date: 2010-03-17T12:00:00.000Z
+end_date: 2010-03-17T13:00:00.000Z
 raw_location: Angus 426
 ---
 

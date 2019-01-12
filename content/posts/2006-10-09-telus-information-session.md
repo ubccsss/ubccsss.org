@@ -8,7 +8,8 @@ images:
   - /files/telus_logo.gif
   - /modules/file/icons/application-pdf.svg
 categories: [Career]
-raw_date: Wednesday, October 11, 2006 - 17:30 to 19:30
+start_date: 2006-10-11T17:30:00.000Z
+end_date: 2006-10-11T19:30:00.000Z
 raw_location: Wesbrook 100 (the white building across UBC bookstore)
 ---
 

@@ -7,7 +7,8 @@ aliases:
   - /node/1352
 author: Christopher Head
 images: []
-raw_date: Thursday, April 8, 2010 - 15:30 to 16:50
+start_date: 2010-04-08T15:30:00.000Z
+end_date: 2010-04-08T16:50:00.000Z
 location:
   name: ICICS X360
   address:

@@ -7,7 +7,8 @@ aliases:
 author: atjia
 images:
   - /files/wineandcheese.gif
-raw_date: Friday, November 25, 2005 - 18:00 to 22:00
+start_date: 2005-11-25T18:00:00.000Z
+end_date: 2005-11-25T22:00:00.000Z
 raw_location: CS Undergrad Lounge
 ---
 

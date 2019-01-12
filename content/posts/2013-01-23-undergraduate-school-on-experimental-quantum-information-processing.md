@@ -1,12 +1,12 @@
 ---
-title: "Undergraduate School on Experimental Quantum Information Processing"
-date: 2013-01-24T06:08:00.000Z
+title: Undergraduate School on Experimental Quantum Information Processing
+date: 2013-01-24
 aliases:
   - /node/1512
 author: Christopher Head
-images: []
+start_date: 2013-05-27T08:00:00.000Z
+end_date: 2013-06-07T18:00:00.000Z
 categories: [Career]
-raw_date: Monday, May 27, 2013 (All day) to Friday, June 7, 2013 (All day)
 ---
 
 Delve into the cutting-edge laboratories at the University of Waterloo’s Institute for Quantum Computing during an innovative summer program that puts you at the forefront of science and technology.
@@ -24,11 +24,3 @@ The deadline for applications is March 4th, 2013.
 For more information and to access the application form, visit [http://iqc.uwaterloo.ca/conferences/useqip](http://iqc.uwaterloo.ca/conferences/useqip).
 
 Apply today for USEQIP 2013!
-
-When: 
-
-Monday, May 27, 2013 (All day) to Friday, June 7, 2013 (All day)
-
-Tags: 
-
-[Career](/career)

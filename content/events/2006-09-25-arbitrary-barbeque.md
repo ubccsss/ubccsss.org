@@ -7,7 +7,8 @@ aliases:
   - /node/494
 author: atjia
 images: []
-raw_date: Thursday, September 28, 2006 - 12:00 to 14:00
+start_date: 2006-09-28T12:00:00.000Z
+end_date: 2006-09-28T14:00:00.000Z
 raw_location: Outside Dempster
 ---
 

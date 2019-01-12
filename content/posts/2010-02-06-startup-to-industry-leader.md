@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Tuesday, February 6, 2007 - 17:00 to 19:00
+start_date: 2007-02-06T17:00:00.000Z
+end_date: 2007-02-06T19:00:00.000Z
 raw_location: Hennings 201
 ---
 

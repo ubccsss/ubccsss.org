@@ -7,7 +7,8 @@ aliases:
   - /node/728
 author: atjia
 images: []
-raw_date: Thursday, April 5, 2007 - 19:00 to 23:30
+start_date: 2007-04-05T19:00:00.000Z
+end_date: 2007-04-05T23:00:00.000Z
 location:
   name: Pick Up/Drop Off at North Foot of Denman St
   address:

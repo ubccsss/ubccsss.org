@@ -8,7 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/krispykreme.gif
-raw_date: Wednesday, November 2, 2005 - 10:00 to 12:00
+start_date: 2005-11-02T10:00:00.000Z
+end_date: 2005-11-02T12:00:00.000Z
 raw_location: Between CICSR and Dempster
 ---
 

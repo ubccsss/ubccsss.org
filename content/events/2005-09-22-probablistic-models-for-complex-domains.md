@@ -8,7 +8,8 @@ aliases:
 author: Christopher Head
 images:
   - /files/daphne05.jpg
-raw_date: Thursday, September 22, 2005 - 16:00 to 17:30
+start_date: 2005-09-22T16:00:00.000Z
+end_date: 2005-09-22T17:30:00.000Z
 location:
   name: DMP 310
   address:

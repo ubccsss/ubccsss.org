@@ -1,12 +1,12 @@
 ---
 title: "Eclipse Information and Networking Session"
-date: 2009-02-26T07:57:00.000Z
+date: 2009-02-26
 aliases:
   - /node/1204
 author: Christopher Head
-images: []
 categories: [Career]
-raw_date: Tuesday, March 3, 2009 - 17:00 to 18:30
+start_date: 2009-03-03T17:00:00.000Z
+end_date: 2009-03-03T18:30:00.000Z
 location:
   name: DMP 201
   address:

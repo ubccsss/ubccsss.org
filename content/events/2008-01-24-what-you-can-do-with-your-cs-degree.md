@@ -7,7 +7,8 @@ aliases:
   - /node/1026
 author: jlo
 images: []
-raw_date: Thursday, January 24, 2008 - 17:30 to 19:30
+start_date: 2008-01-24T17:30:00.000Z
+end_date: 2008-01-24T19:30:00.000Z
 raw_location: UBC DMP 110
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: "Ryerson University Technology Conference 2012"
-date: 2012-10-22T00:18:00.000Z
+title: Ryerson University Technology Conference 2012
+date: 2012-10-22
 aliases:
   - /node/1486
 author: Christopher Head
-images: []
 categories: [Career]
-raw_date: Friday, November 2, 2012 (All day) to Sunday, November 4, 2012 (All day)
+start_date: 2012-11-02T08:00:00.000Z
+end_date: 2012-11-04T20:00:00.000Z
 raw_location: Ted Rogers School of Management, Ryerson University
 ---
 

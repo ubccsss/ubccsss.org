@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Wednesday, March 11, 2009 - 17:30 to 19:30
+start_date: 2009-03-11T17:30:00.000Z
+end_date: 2009-03-11T19:30:00.000Z
 location:
   name: DMP 301
   address:

@@ -7,7 +7,8 @@ author: atjia
 images:
   - /files/webct.gif
 categories: [Career]
-raw_date: Tuesday, January 31, 2006 - 15:00 to 16:30
+start_date: 2006-01-31T15:00:00.000Z
+end_date: 2006-01-31T16:30:00.000Z
 raw_location: Donald Rix Building, UBC   201-2389 Health Sciences Mall (& Agronomy Road)
 ---
 

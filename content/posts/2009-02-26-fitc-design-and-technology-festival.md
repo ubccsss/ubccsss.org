@@ -1,12 +1,12 @@
 ---
 title: "FITC Design and Technology Festival"
-date: 2009-02-26T08:35:00.000Z
+date: 2009-02-26
 aliases:
   - /node/1207
 author: Christopher Head
-images: []
 categories: [Career]
-raw_date: Saturday, April 25, 2009 - 00:31 to Wednesday, April 29, 2009 - 00:31
+start_date: 2009-04-25T00:31:00.000Z
+end_date: 2009-04-29T00:31:00.000Z
 raw_location: Toronto
 ---
 

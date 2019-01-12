@@ -5,7 +5,8 @@ aliases:
   - /node/1261
 author: Christopher Head
 images: []
-raw_date: Friday, September 25, 2009 - 12:00 to 13:00
+start_date: 2009-09-25T12:00:00.000Z
+end_date: 2009-09-25T13:00:00.000Z
 location:
   name: DMP 201
   address:

@@ -8,7 +8,8 @@ aliases:
 author: Tristan Rice
 images:
   - /files/ECEVSCPSC.jpg
-raw_date: Friday, March 17, 2017 - 17:00 to 22:00
+start_date: 2017-03-17T17:00:00.000Z
+end_date: 2017-03-17T22:00:00.000Z
 location:
   name: MCLD 434
   address:

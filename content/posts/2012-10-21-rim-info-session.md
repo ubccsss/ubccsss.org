@@ -7,7 +7,8 @@ author: atjia
 images:
   - /files/rimlogo.gif
 categories: [Career]
-raw_date: Wednesday, January 18, 2006 - 11:00 to 17:30
+start_date: 2006-01-18T11:00:00.000Z
+end_date: 2006-01-18T17:30:00.000Z
 raw_location: David Lam Forum
 ---
 

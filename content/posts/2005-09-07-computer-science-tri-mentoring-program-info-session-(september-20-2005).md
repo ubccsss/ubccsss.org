@@ -6,7 +6,8 @@ aliases:
 author: mlee
 images: []
 categories: [Career]
-raw_date: Tuesday, September 20, 2005 - 17:30 to 19:30
+start_date: 2005-09-20T17:30:00.000Z
+end_date: 2005-09-20T19:30:00.000Z
 location:
   name: Hugh Dempster Pavilion (DMP) -> Room 310 -> 6245 Agronomy Road
   address:

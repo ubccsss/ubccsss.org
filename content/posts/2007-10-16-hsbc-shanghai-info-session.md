@@ -6,7 +6,8 @@ aliases:
 author: atjia
 images: []
 categories: [Career]
-raw_date: Friday, October 19, 2007 - 17:45 to 19:30
+start_date: 2007-10-19T17:45:00.000Z
+end_date: 2007-10-19T19:30:00.000Z
 raw_location: Wesbrook Room 100
 ---
 

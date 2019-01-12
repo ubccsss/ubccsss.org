@@ -6,7 +6,8 @@ aliases:
 author: robf
 images: []
 categories: [Career]
-raw_date: Tuesday, March 27, 2007 - 14:00 to 15:30
+start_date: 2007-03-27T14:00:00.000Z
+end_date: 2007-03-27T15:30:00.000Z
 raw_location: Centre for Molecular Medicine and Therapeutics (CMMT)
 ---
 

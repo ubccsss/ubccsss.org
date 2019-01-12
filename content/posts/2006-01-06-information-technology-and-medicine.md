@@ -6,7 +6,8 @@ aliases:
 author: atjia
 images: []
 categories: [Career]
-raw_date: Thursday, February 2, 2006 - 11:30 to 12:30
+start_date: 2006-02-02T11:30:00.000Z
+end_date: 2006-02-02T12:30:00.000Z
 raw_location: Scarfe 100
 ---
 

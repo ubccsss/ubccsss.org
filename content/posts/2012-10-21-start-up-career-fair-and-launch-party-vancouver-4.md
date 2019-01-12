@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Wednesday, May 21, 2008 - 16:00 to 18:30
+start_date: 2008-05-21T16:00:00.000Z
+end_date: 2008-05-21T18:30:00.000Z
 raw_location: Republic at 958 Granville Street
 ---
 

@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Monday, September 22, 2008 - 18:30 to 19:30
+start_date: 2008-09-22T18:30:00.000Z
+end_date: 2008-09-22T19:30:00.000Z
 raw_location: Irving K. Barber Learning Centre, Room 182
 ---
 

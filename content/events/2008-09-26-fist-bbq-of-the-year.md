@@ -8,7 +8,8 @@ aliases:
 author: Christopher Head
 images:
   - /modules/file/icons/application-pdf.svg
-raw_date: Friday, September 26, 2008 - 12:30 to 15:00
+start_date: 2008-09-26T12:30:00.000Z
+end_date: 2008-09-26T15:00:00.000Z
 location:
   name: Outside the X-wing next to Dempster
   address:

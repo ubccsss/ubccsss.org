@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Friday, January 15, 2010 - 17:00 to 18:00
+start_date: 2010-01-15T17:00:00.000Z
+end_date: 2010-01-15T18:00:00.000Z
 raw_location: Irving K. Barber Learning Centre, RM 216
 ---
 

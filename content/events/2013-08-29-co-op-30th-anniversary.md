@@ -6,7 +6,8 @@ aliases:
   - /node/1344
 author: Christopher Head
 images: []
-raw_date: Wednesday, March 24, 2010 - 12:00 to 15:00
+start_date: 2010-03-24T12:00:00.000Z
+end_date: 2010-03-24T15:00:00.000Z
 location:
   name: Ladha Science Student Centre
   address:

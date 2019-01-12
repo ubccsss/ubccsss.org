@@ -6,7 +6,8 @@ aliases:
 author: dtan
 images: []
 categories: [Career]
-raw_date: Wednesday, March 29, 2006 - 13:00 to 14:00
+start_date: 2006-03-29T13:00:00.000Z
+end_date: 2006-03-29T14:00:00.000Z
 raw_location: Kaiser 2030
 ---
 

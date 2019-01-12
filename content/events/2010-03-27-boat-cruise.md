@@ -7,7 +7,8 @@ aliases:
   - /node/1338
 author: Eason
 images: []
-raw_date: Saturday, March 27, 2010 - 18:30 to 23:00
+start_date: 2010-03-27T18:30:00.000Z
+end_date: 2010-03-27T23:00:00.000Z
 raw_location: Harbour Cruises Marina, 501 Denman Street
 ---
 

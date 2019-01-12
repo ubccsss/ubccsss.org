@@ -5,7 +5,8 @@ aliases:
   - /node/1411
 author: bertong
 images: []
-raw_date: Wednesday, November 17, 2010 - 17:30 to 19:00
+start_date: 2010-11-17T17:30:00.000Z
+end_date: 2010-11-17T19:00:00.000Z
 location:
   name: DMP 101
   address:

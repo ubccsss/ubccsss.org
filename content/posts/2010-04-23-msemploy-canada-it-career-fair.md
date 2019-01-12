@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Wednesday, May 12, 2010 - 09:00 to 14:00
+start_date: 2010-05-12T09:00:00.000Z
+end_date: 2010-05-12T14:00:00.000Z
 raw_location: Executive Hotel & Conference Centre Burnaby, 4201 Lougheed Highway
 ---
 

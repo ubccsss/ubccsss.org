@@ -7,7 +7,8 @@ author: atjia
 images:
   - /files/eastudio.jpg
 categories: [Career]
-raw_date: Wednesday, October 12, 2005 - 18:00 to 20:00
+start_date: 2005-10-12T18:00:00.000Z
+end_date: 2005-10-12T20:00:00.000Z
 raw_location: 4330 Sanderson Way, Burnaby
 ---
 

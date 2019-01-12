@@ -8,7 +8,8 @@ images:
   - /files/ms-logo.jpg
 tags: [Social]
 categories: [Career]
-raw_date: Thursday, April 10, 2008 - 18:00 to 20:00
+start_date: 2008-04-10T18:00:00.000Z
+end_date: 2008-04-10T20:00:00.000Z
 location:
   name: DMP 110
   address:

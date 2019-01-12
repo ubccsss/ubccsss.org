@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Wednesday, September 26, 2012 - 10:00 to 16:00
+start_date: 2012-09-26T10:00:00.000Z
+end_date: 2012-09-26T16:00:00.000Z
 raw_location: SUB
 ---
 

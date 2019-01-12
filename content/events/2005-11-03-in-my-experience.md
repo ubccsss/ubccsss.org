@@ -8,7 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/presentor.jpg
-raw_date: Thursday, November 3, 2005 - 11:30 to 12:30
+start_date: 2005-11-03T11:30:00.000Z
+end_date: 2005-11-03T12:30:00.000Z
 raw_location: CEME 1215
 ---
 

@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Wednesday, February 10, 2010 - 12:00 to 13:00
+start_date: 2010-02-10T12:00:00.000Z
+end_date: 2010-02-10T13:00:00.000Z
 location:
   name: ICICS X836
   address:

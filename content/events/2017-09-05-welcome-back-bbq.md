@@ -8,7 +8,8 @@ aliases:
 author: Tristan Rice
 images:
   - /files/flamingburger.jpg
-raw_date: Tuesday, September 5, 2017 - 11:00 to 12:00
+start_date: 2017-09-05T11:00:00.000Z
+end_date: 2017-09-05T12:00:00.000Z
 location:
   name: Atrium Area inside ICICS (Open House); In front of ICICS, outside (BBQ)
   address:

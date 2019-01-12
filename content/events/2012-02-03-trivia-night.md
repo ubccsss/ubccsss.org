@@ -7,7 +7,8 @@ aliases:
   - /node/1465
 author: Christopher Head
 images: []
-raw_date: Friday, February 3, 2012 - 17:30 to 20:00
+start_date: 2012-02-03T17:30:00.000Z
+end_date: 2012-02-03T20:00:00.000Z
 location:
   name: Reboot Café
   address:

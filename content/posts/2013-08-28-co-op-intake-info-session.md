@@ -5,7 +5,8 @@ aliases:
   - /node/1260
 author: Christopher Head
 images: []
-raw_date: Thursday, September 24, 2009 - 12:00 to 13:00
+start_date: 2009-09-24T12:00:00.000Z
+end_date: 2009-09-24T13:00:00.000Z
 raw_location: Forest Science Building 1613
 categories: [Career]
 tags: [Resume]

@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Monday, February 1, 2010 - 15:30 to 17:00
+start_date: 2010-02-01T15:30:00.000Z
+end_date: 2010-02-01T17:00:00.000Z
 raw_location: CEME 1202
 ---
 

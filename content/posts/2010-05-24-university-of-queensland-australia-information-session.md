@@ -1,12 +1,12 @@
 ---
 title: "University of Queensland, Australia Information Session"
-date: 2010-05-24T16:55:00.000Z
+date: 2010-05-24
 aliases:
   - /node/1361
 author: Christopher Head
-images: []
+start_date: 2010-05-27T18:00:00.000Z
+end_date: 2010-05-27T19:00:00.000Z
 categories: [Career]
-raw_date: Thursday, May 27, 2010 - 18:00
 raw_location: UBC Robson Square
 ---
 

@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Thursday, September 13, 2007 - 17:30 to 18:30
+start_date: 2007-09-13T17:30:00.000Z
+end_date: 2007-09-13T18:30:00.000Z
 raw_location: Wesbrook Building 100 (6147 University Blvd at East Mall)
 ---
 

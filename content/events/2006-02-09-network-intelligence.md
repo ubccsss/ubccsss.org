@@ -8,7 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/geng_lin_picture.jpg
-raw_date: Thursday, February 9, 2006 - 15:00 to 16:30
+start_date: 2006-02-09T15:00:00.000Z
+end_date: 2006-02-09T16:30:00.000Z
 location:
   name: DMP 310
   address:

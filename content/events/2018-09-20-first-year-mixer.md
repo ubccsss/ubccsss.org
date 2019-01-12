@@ -8,7 +8,8 @@ aliases:
 author: njhu
 images:
   - /files/First%20Year%20Mixer%20New.jpg
-raw_date: Thursday, September 20, 2018 - 18:00 to 20:00
+start_date: 2018-09-20T18:00:00.000Z
+end_date: 2018-09-20T20:00:00.000Z
 location:
   name: Pacific Poke
   address:

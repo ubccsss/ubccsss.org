@@ -7,7 +7,8 @@ author: atjia
 images:
   - /modules/file/icons/application-pdf.svg
 categories: [Career]
-raw_date: Wednesday, September 10, 2008 - 18:30 to 20:30
+start_date: 2008-09-10T18:30:00.000Z
+end_date: 2008-09-10T20:30:00.000Z
 raw_location: Wesbrook 100 (6174 University Blvd)
 ---
 

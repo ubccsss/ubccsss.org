@@ -7,7 +7,8 @@ aliases:
   - /node/1328
 author: Christopher Head
 images: []
-raw_date: Thursday, March 11, 2010 - 17:00 to 21:00
+start_date: 2010-02-11T17:00:00.000Z
+end_date: 2010-02-11T21:00:00.000Z
 location:
   name: DMP 310
   address:

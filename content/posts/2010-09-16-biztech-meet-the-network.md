@@ -1,12 +1,12 @@
 ---
 title: "BizTech - Meet the Network"
-date: 2010-09-16T15:46:00.000Z
+date: 2010-09-16
 aliases:
   - /node/1390
 author: bertong
-images: []
 categories: [Career]
-raw_date: Monday, September 27, 2010 - 18:00
+start_date: 2010-09-27T19:00:00.000Z
+end_date: 2010-09-27T20:00:00.000Z
 location:
   name: "Henry Angus 190: Birmingham Centre"
   address:

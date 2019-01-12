@@ -8,7 +8,8 @@ aliases:
 author: robf
 images:
   - /modules/file/icons/image-x-generic.svg
-raw_date: Thursday, January 25, 2007 - 10:00 to 16:00
+start_date: 2007-01-25T10:00:00.000Z
+end_date: 2007-01-25T16:00:00.000Z
 raw_location: SUB Ballroom
 ---
 

@@ -6,8 +6,8 @@ tags: [Talk]
 aliases:
   - /node/1325
 author: Christopher Head
-images: []
-raw_date: Thursday, March 4, 2010 - 15:30 to 17:00
+start_date: 2010-03-04T15:30:00.000Z
+end_date: 2010-03-04T17:00:00.000Z
 location:
   name: DMP 110
   address:
@@ -19,15 +19,3 @@ location:
 ---
 
 Everyone's welcome to attend this talk by Dr. Son Vuong.
-
-When: 
-
-Thursday, March 4, 2010 - 15:30 to 17:00
-
-Where: 
-
-DMP 110
-
-Tags: 
-
-[Career](/career)

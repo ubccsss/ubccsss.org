@@ -7,7 +7,8 @@ author: atjia
 images:
   - /files/microsoft.gif
 categories: [Career]
-raw_date: Tuesday, September 18, 2007 - 18:30 to 19:30
+start_date: 2007-09-18T18:30:00.000Z
+end_date: 2007-09-18T19:30:00.000Z
 raw_location: FSC 1005
 ---
 

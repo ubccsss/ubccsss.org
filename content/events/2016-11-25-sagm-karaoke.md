@@ -6,7 +6,8 @@ aliases:
 author: Tristan Rice
 images:
   - /files/15205701_10154809941108982_1878677882_o.jpg
-raw_date: Friday, November 25, 2016 - 05:30
+start_date: 2016-11-25T17:30:00.000Z
+end_date: 2016-11-25T19:00:00.000Z
 location:
   name: DMP 110
   address:

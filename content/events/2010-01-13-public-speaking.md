@@ -7,7 +7,8 @@ aliases:
   - /node/1300
 author: Christopher Head
 images: []
-raw_date: Monday, January 25, 2010 - 17:00 to 18:00
+start_date: 2010-01-25T17:00:00.000Z
+end_date: 2010-01-25T18:00:00.000Z
 location:
   name: DMP 101
   address:

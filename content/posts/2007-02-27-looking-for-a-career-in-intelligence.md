@@ -5,7 +5,8 @@ aliases:
   - /node/712
 author: robf
 images: []
-raw_date: Tuesday, March 13, 2007 - 13:30 to 15:00
+start_date: 2007-03-13T13:30:00.000Z
+end_date: 2007-03-13T15:00:00.000Z
 location:
   name: Dempster 301
   address:

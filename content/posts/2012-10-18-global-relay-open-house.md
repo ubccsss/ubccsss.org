@@ -1,12 +1,12 @@
 ---
-title: "Global Relay Open House"
-date: 2012-10-19T06:26:00.000Z
+title: Global Relay Open House
+date: 2012-10-19
 aliases:
   - /node/1498
 author: Christopher Head
-images: []
 categories: [Career]
-raw_date: Tuesday, November 6, 2012 - 16:30
+start_date: 2012-11-06T16:30:00.000Z
+end_date: 2012-11-06T18:00:00.000Z
 raw_location: 220 Cambie St. 2nd Floor
 ---
 

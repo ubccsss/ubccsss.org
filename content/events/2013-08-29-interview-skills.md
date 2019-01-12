@@ -7,7 +7,8 @@ aliases:
   - /node/1268
 author: Christopher Head
 images: []
-raw_date: Thursday, October 22, 2009 - 12:30 to 14:00
+start_date: 2009-10-22T12:30:00.000Z
+end_date: 2009-10-22T14:00:00.000Z
 location:
   name: ICICS 202
   address:

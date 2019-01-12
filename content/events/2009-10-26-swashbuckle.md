@@ -6,7 +6,8 @@ aliases:
   - /node/1266
 author: Christopher Head
 images: []
-raw_date: Friday, October 23, 2009 - 20:00 to 23:59
+start_date: 2009-10-23T20:00:00.000Z
+end_date: 2009-10-23T23:59:00.000Z
 location:
   name: Abdul Ladha Science Student Centre
   address:

@@ -5,7 +5,8 @@ aliases:
   - /node/492
 author: jlo
 images: []
-raw_date: Tuesday, September 26, 2006 - 17:30 to 18:30
+start_date: 2006-09-26T17:30:00.000Z
+end_date: 2006-09-26T18:30:00.000Z
 raw_location: Wesbrook 100 (the white building across UBC bookstore)
 categories: [Career]
 ---

@@ -6,7 +6,8 @@ aliases:
 author: dtan
 images: []
 categories: [Career]
-raw_date: Wednesday, November 30, 2005 - 13:00 to 15:00
+start_date: 2005-11-30T13:00:00.000Z
+end_date: 2005-11-30T15:00:00.000Z
 ---
 
 Career Services Interview Skills Workshop on Nov. 30th! It is the last Workshop for the term and we have a few spots remaining. One of the Employers who will be participating is Electronic Arts so it would be a great opportunity for students who may be potentially targeting EA as an Employer, to attend and meet face-to-face with one of their HR Recruiting Staff. Students also get a chance to practice their Interview Skills with the Employers.

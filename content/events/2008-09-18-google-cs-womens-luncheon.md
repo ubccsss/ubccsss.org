@@ -6,7 +6,8 @@ aliases:
   - /node/1086
 author: Christopher Head
 images: []
-raw_date: Wednesday, September 24, 2008 - 13:00 to 15:00
+start_date: 2008-09-24T13:00:00.000Z
+end_date: 2008-09-24T15:00:00.000Z
 location:
   name: ICICS X836 (boardroom)
   address:

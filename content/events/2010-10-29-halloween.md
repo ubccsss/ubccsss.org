@@ -6,7 +6,8 @@ aliases:
   - /node/1403
 author: bertong
 images: []
-raw_date: Friday, October 29, 2010 - 19:00 to 22:00
+start_date: 2010-10-29T19:00:00.000Z
+end_date: 2010-10-29T22:00:00.000Z
 location:
   name: DMP 301
   address:

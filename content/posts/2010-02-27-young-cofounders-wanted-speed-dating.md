@@ -1,12 +1,12 @@
 ---
 title: "Vancouver's First \"Young Co-Founders Wanted\" Speed-dating session"
-date: 2010-02-27T06:41:00.000Z
+date: 2010-02-27
 aliases:
   - /node/1321
 author: Christopher Head
-images: []
 categories: [Career]
-raw_date: Wednesday, March 3, 2010 - 19:00
+start_date: 2010-03-03T19:00:00.000Z
+end_date: 2010-03-03T20:00:00.000Z
 raw_location: Toyo Sushi, 2211 Cambie Street, Vancouver, BC V5Z 2T5
 ---
 

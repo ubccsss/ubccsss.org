@@ -7,7 +7,8 @@ aliases:
   - /node/1517
 author: Christopher Head
 images: []
-raw_date: Friday, February 15, 2013 - 17:00 to 21:00
+start_date: 2013-02-15T17:00:00.000Z
+end_date: 2013-02-15T21:00:00.000Z
 location:
   name: Reboot Café
   address:

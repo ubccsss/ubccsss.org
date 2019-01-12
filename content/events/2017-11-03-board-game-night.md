@@ -8,7 +8,8 @@ aliases:
 author: arieljcao
 images:
   - /files/Board%20Games%20Night%202_0.jpg
-raw_date: Friday, November 3, 2017 - 18:00 to 20:00
+start_date: 2017-11-03T18:00:00.000Z
+end_date: 2017-11-03T20:00:00.000Z
 location:
   name: The Cube (ICICS 021)
   address:

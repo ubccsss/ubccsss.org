@@ -7,7 +7,8 @@ aliases:
   - /node/1199
 author: Christopher Head
 images: []
-raw_date: Tuesday, March 3, 2009 - 12:30 to 14:00
+start_date: 2009-03-03T12:30:00.000Z
+end_date: 2009-03-03T14:00:00.000Z
 location:
   name: ICICS 304
   address:

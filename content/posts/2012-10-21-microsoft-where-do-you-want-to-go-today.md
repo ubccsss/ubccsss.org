@@ -6,7 +6,8 @@ aliases:
 author: atjia
 images: []
 categories: [Career]
-raw_date: Wednesday, November 23, 2005 - 17:00 to 18:15
+start_date: 2005-11-23T17:00:00.000Z
+end_date: 2005-11-23T18:15:00.000Z
 location:
   name: Dempster Room 310
   address:

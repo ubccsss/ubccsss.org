@@ -5,7 +5,8 @@ aliases:
   - /node/370
 author: atjia
 images: []
-raw_date: Thursday, January 12, 2006 - 11:30 to 12:30
+start_date: 2006-01-12T11:30:00.000Z
+end_date: 2006-01-12T12:30:00.000Z
 raw_location: CS Ugrad Lounge
 ---
 

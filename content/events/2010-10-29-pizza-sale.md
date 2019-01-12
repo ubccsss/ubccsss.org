@@ -6,7 +6,8 @@ aliases:
   - /node/1402
 author: bertong
 images: []
-raw_date: Friday, October 29, 2010 - 13:00 to 15:00
+start_date: 2010-10-29T13:00:00.000Z
+end_date: 2010-10-29T15:00:00.000Z
 location:
   name: Reboot Cafe
   address:

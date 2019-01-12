@@ -5,7 +5,8 @@ aliases:
   - /node/709
 author: robf
 images: []
-raw_date: Monday, February 26, 2007 - 11:30 to 12:30
+start_date: 2007-02-26T11:30:00.000Z
+end_date: 2007-02-26T12:30:00.000Z
 raw_location: Buchanan Centre Penthouse
 categories: [Career]
 ---

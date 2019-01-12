@@ -8,7 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/victoryodaiken.jpg
-raw_date: Thursday, October 20, 2005 - 15:30 to 17:00
+start_date: 2005-10-20T15:30:00.000Z
+end_date: 2005-10-20T17:00:00.000Z
 location:
   name: ICICS X736
   address:

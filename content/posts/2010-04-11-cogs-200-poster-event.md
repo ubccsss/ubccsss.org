@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Thursday, April 15, 2010 - 14:00 to 15:30
+start_date: 2010-04-15T14:00:00.000Z
+end_date: 2010-04-15T15:30:00.000Z
 location:
   name: ICICS Atrium
   address:

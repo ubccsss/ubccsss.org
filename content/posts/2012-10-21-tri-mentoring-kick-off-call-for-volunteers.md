@@ -5,7 +5,8 @@ aliases:
   - /node/498
 author: jlo
 images: []
-raw_date: Thursday, October 5, 2006 - 15:45 to 19:30
+start_date: 2006-10-05T15:45:00.000Z
+end_date: 2006-10-05T19:30:00.000Z
 categories: [Career]
 tags: [Tri-Mentoring]
 ---

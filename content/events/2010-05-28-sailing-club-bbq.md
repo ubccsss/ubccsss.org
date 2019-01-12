@@ -1,13 +1,13 @@
 ---
-title: "UBC Sailing Club Barbecue Party"
+title: UBC Sailing Club Barbecue Party
 date: 2010-05-28
 categories: [Event]
 tags: [BBQ]
 aliases:
   - /node/1362
 author: Christopher Head
-images: []
-raw_date: Saturday, June 5, 2010 - 20:00
+start_date: 2010-06-05T20:00:00.000Z
+end_date: 2010-06-05T21:00:00.000Z
 raw_location: Jericho Sailing Centre, 1300 Discovery Street
 ---
 

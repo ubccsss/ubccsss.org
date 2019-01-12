@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Thursday, September 9, 2010 - 13:00 to 14:30
+start_date: 2010-09-09T13:00:00.000Z
+end_date: 2010-09-09T14:30:00.000Z
 location:
   name: ICICS 204
   address:

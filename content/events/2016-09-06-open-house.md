@@ -7,7 +7,8 @@ aliases:
   - /node/1554
 author: Tristan Rice
 images: []
-raw_date: Tuesday, September 6, 2016 - 10:30 to 12:30
+start_date: 2016-09-06T10:30:00.000Z
+end_date: 2016-09-06T12:30:00.000Z
 raw_location: Atrium Area, West Wing, CS/ICCS Building
 ---
 

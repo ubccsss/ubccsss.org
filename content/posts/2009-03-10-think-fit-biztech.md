@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Tuesday, March 10, 2009 - 18:30 to 20:45
+start_date: 2009-03-10T18:30:00.000Z
+end_date: 2009-03-10T20:45:00.000Z
 raw_location: Woodward 6
 ---
 

@@ -7,7 +7,8 @@ author: atjia
 images:
   - /files/ibm%20logo.jpg
 categories: [Career]
-raw_date: Wednesday, September 19, 2007 - 18:30 to 20:00
+start_date: 2007-09-19T18:30:00.000Z
+end_date: 2007-09-19T20:00:00.000Z
 raw_location: Wesbrook Room 100
 ---
 

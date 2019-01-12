@@ -7,7 +7,8 @@ aliases:
   - /node/1105
 author: Christopher Head
 images: []
-raw_date: Monday, October 27, 2008 - 13:30 to 15:00
+start_date: 2008-10-27T13:30:00.000Z
+end_date: 2008-10-27T15:00:00.000Z
 location:
   name: Ladha Science Student Centre
   address:

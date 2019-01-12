@@ -7,7 +7,8 @@ aliases:
   - /node/1418
 author: bertong
 images: []
-raw_date: Friday, January 7, 2011 - 15:15 to 17:45
+start_date: 2011-01-07T15:15:00.000Z
+end_date: 2011-01-07T17:45:00.000Z
 raw_location: UBC Thunderbird Arena
 ---
 

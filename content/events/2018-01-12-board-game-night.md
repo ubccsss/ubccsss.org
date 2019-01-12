@@ -8,7 +8,8 @@ aliases:
 author: arieljcao
 images:
   - /files/26239200_1783018025055320_7185707354782333276_n.jpg
-raw_date: Friday, January 12, 2018 - 18:00 to 20:00
+start_date: 2018-01-12T18:00:00.000Z
+end_date: 2018-01-12T20:00:00.000Z
 location:
   name: Pacific Poke Cafe/Old Reboot Cafe in ICICS
   address:

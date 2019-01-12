@@ -7,7 +7,8 @@ author: jlo
 images: []
 categories: [Career]
 tags: [Tri-Mentoring]
-raw_date: Tuesday, October 2, 2007 - 17:00 to 19:30
+start_date: 2007-10-02T17:00:00.000Z
+end_date: 2007-10-02T19:30:00.000Z
 raw_location: SUB Party Room, 2nd floor
 ---
 

@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Monday, January 25, 2010 - 17:45 to 19:15
+start_date: 2010-01-25T17:45:00.000Z
+end_date: 2010-01-25T19:15:00.000Z
 raw_location: Hebb 12
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: "TEC Young Entrepreneurs Dinner"
-date: 2009-02-25T18:20:00.000Z
+title: TEC Young Entrepreneurs Dinner
+date: 2009-02-25
 aliases:
   - /node/1202
 author: Christopher Head
-images: []
 categories: [Career]
-raw_date: Tuesday, March 3, 2009 - 17:30 to 21:00
+start_date: 2009-03-03T17:30:00.000Z
+end_date: 2009-03-03T21:00:00.000Z
 raw_location: Renaissance Vancouver Hotel Harbourside (1133 West Hastings Street)
 ---
 

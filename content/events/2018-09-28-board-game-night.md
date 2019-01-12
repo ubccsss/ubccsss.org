@@ -8,7 +8,8 @@ aliases:
 author: njhu
 images:
   - /files/Board%20Game%20Night%20New.jpg
-raw_date: Friday, September 28, 2018 - 17:30 to 20:00
+start_date: 2018-09-28T17:30:00.000Z
+end_date: 2018-09-28T20:00:00.000Z
 location:
   name: Pacific Poke
   address:

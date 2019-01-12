@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Wednesday, October 8, 2008 - 17:30 to 18:30
+start_date: 2008-10-08T17:30:00.000Z
+end_date: 2008-10-08T18:30:00.000Z
 raw_location: IBLC 261
 ---
 

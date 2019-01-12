@@ -7,7 +7,8 @@ author: dtan
 images:
   - /files/developmental.jpg
 categories: [Career]
-raw_date: Thursday, March 2, 2006 - 17:00 to 19:00
+start_date: 2006-03-02T17:00:00.000Z
+end_date: 2006-03-02T19:00:00.000Z
 raw_location: GSS Ballroom corner of West Mall & Crescent Rd
 ---
 

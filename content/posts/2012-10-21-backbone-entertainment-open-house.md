@@ -6,7 +6,8 @@ aliases:
 author: atjia
 images:
   - /files/mini-inconnu.jpg
-raw_date: Thursday, May 4, 2006 - 09:00 to Monday, May 8, 2006 - 18:00
+start_date: 2006-05-04T09:00:00.000Z
+end_date: 2006-05-08T18:00:00.000Z
 raw_location: 110-1650 West 1st Avenue
 categories: [Career]
 ---

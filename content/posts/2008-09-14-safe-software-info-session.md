@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Wednesday, September 17, 2008 - 18:30 to 20:30
+start_date: 2008-09-17T18:30:00.000Z
+end_date: 2008-09-17T20:30:00.000Z
 location:
   name: Dempster 310
   address:

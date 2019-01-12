@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Monday, May 10, 2010 - 17:30 to 19:30
+start_date: 2010-05-10T17:30:00.000Z
+end_date: 2010-05-10T19:30:00.000Z
 raw_location: H. R. MacMillan Space Centre, 1100 Chestnut Street
 ---
 

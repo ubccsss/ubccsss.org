@@ -6,7 +6,8 @@ aliases:
 author: arothbart
 images: []
 categories: [Career]
-raw_date: Tuesday, October 11, 2005 - 17:30 to 19:30
+start_date: 2005-10-11T17:30:00.000Z
+end_date: 2005-10-11T19:30:00.000Z
 raw_location: Wesbrook Room 100
 ---
 

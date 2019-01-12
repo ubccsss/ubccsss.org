@@ -8,7 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/shlomo.jpg
-raw_date: Thursday, January 12, 2006 - 15:00 to 16:30
+start_date: 2006-01-12T15:00:00.000Z
+end_date: 2006-01-12T16:30:00.000Z
 location:
   name: DMP 310
   address:

@@ -6,7 +6,8 @@ aliases:
 author: dtan
 images: []
 categories: [Career]
-raw_date: Thursday, September 29, 2005 - 17:30 to 19:30
+start_date: 2005-09-29T17:30:00.000Z
+end_date: 2005-09-29T19:30:00.000Z
 raw_location: Wesbrook Building, Room 100
 ---
 

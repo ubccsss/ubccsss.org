@@ -8,7 +8,8 @@ aliases:
 author: arieljcao
 images:
   - /files/Retreo_Randomizer.jpg
-raw_date: Friday, December 1, 2017 - 18:00 to 21:00
+start_date: 2017-12-01T18:00:00.000Z
+end_date: 2017-12-01T21:00:00.000Z
 location:
   name: DMP 301
   address:

@@ -8,7 +8,8 @@ aliases:
 author: arieljcao
 images:
   - /files/26240038_1781782651845524_1497206206029099164_o.jpg
-raw_date: Thursday, January 25, 2018 - 10:00 to 16:00
+start_date: 2018-01-25T10:00:00.000Z
+end_date: 2018-01-25T16:00:00.000Z
 location:
   name: Life Science Building - 2350 Health Sciences Mall, Vancouver, British Columbia V6T 1Z3
   address:

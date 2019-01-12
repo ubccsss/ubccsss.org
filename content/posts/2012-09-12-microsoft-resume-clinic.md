@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Wednesday, September 19, 2012 - 17:30 to 19:00
+start_date: 2012-09-19T17:30:00.000Z
+end_date: 2012-09-19T19:00:00.000Z
 location:
   name: Dempster 110
   address:

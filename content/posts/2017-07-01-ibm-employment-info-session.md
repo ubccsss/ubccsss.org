@@ -7,7 +7,8 @@ author: atjia
 images:
   - /files/ibm%20logo.jpg
 categories: [Career]
-raw_date: Thursday, November 10, 2005 - 11:30 to 12:00
+start_date: 2005-11-10T11:30:00.000Z
+end_date: 2005-11-10T12:00:00.000Z
 location:
   name: Dempster Room 310
   address:

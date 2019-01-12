@@ -7,7 +7,8 @@ aliases:
   - /node/1291
 author: Christopher Head
 images: []
-raw_date: Wednesday, January 13, 2010 - 10:00 to 16:00
+start_date: 2010-01-13T10:00:00.000Z
+end_date: 2010-01-13T16:00:00.000Z
 raw_location: SUB Ballroom
 ---
 

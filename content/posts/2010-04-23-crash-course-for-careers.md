@@ -5,7 +5,8 @@ aliases:
   - /node/1355
 author: Christopher Head
 images: []
-raw_date: Thursday, May 6, 2010 - 08:30 to 17:00
+start_date: 2010-05-06T08:30:00.000Z
+end_date: 2010-05-06T17:00:00.000Z
 raw_location: Lillooet Room, Irving K. Barber Learning Centre
 categories: [Career]
 tags: [Resume]

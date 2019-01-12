@@ -5,7 +5,8 @@ aliases:
   - /node/1287
 author: Christopher Head
 images: []
-raw_date: Thursday, January 7, 2010 - 12:30 to 14:00
+start_date: 2010-01-07T12:30:00.000Z
+end_date: 2010-01-07T14:00:00.000Z
 location:
   name: DMP 201
   address:

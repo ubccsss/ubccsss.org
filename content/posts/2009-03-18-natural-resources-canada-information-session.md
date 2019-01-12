@@ -1,12 +1,12 @@
 ---
 title: "Natural Resources Canada Information Session"
-date: 2009-03-18T20:19:00.000Z
+date: 2009-03-18
 aliases:
   - /node/1217
 author: Christopher Head
-images: []
 categories: [Career]
-raw_date: Thursday, March 19, 2009 - 11:00
+start_date: 2009-03-19T11:00:00.000Z
+end_date: 2009-03-19T12:00:00.000Z
 raw_location: SCRF 201
 ---
 

@@ -6,7 +6,8 @@ aliases:
 author: atjia
 images: []
 categories: [Career]
-raw_date: Friday, September 16, 2005 - 11:30 to 12:30
+start_date: 2005-09-16T11:30:00.000Z
+end_date: 2005-09-16T12:30:00.000Z
 location:
   name: ICICS/CS X139
   address:

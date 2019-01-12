@@ -7,7 +7,8 @@ author: robf
 images:
   - /files/ea.gif
 categories: [Career]
-raw_date: Wednesday, February 7, 2007 - 18:30 to 22:00
+start_date: 2007-02-07T18:30:00.000Z
+end_date: 2007-02-07T22:00:00.000Z
 raw_location: EAC (Burnaby Electronic Arts studio)
 ---
 

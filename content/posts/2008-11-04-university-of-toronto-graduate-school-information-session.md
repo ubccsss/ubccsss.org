@@ -4,9 +4,9 @@ date: 2008-11-05T06:51:00.000Z
 aliases:
   - /node/1127
 author: Christopher Head
-images: []
 categories: [Career]
-raw_date: Wednesday, November 12, 2008 - 16:30
+start_date: 2008-11-12T16:30:00.000Z
+end_date: 2008-11-12T18:00:00.000Z
 location:
   name: ICICS 206
   address:

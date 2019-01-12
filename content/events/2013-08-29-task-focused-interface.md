@@ -6,8 +6,8 @@ tags: [Talk]
 aliases:
   - /node/1293
 author: Christopher Head
-images: []
-raw_date: Thursday, January 28, 2010 - 18:00
+start_date: 2011-01-28T18:00:00.000Z
+end_date: 2011-01-28T19:00:00.000Z
 raw_location: Rm C400, Robson Square, 800 Robson Street
 ---
 

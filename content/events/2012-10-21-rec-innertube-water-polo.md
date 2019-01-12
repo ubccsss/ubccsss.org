@@ -6,8 +6,8 @@ tags: [Sports]
 aliases:
   - /node/1110
 author: Christopher Head
-images: []
-raw_date: Thursday, November 6, 2008 - 19:30
+start_date: 2008-11-06T19:30:00.000Z
+end_date: 2008-11-06T21:00:00.000Z
 raw_location: UBC Aquatic Centre
 ---
 

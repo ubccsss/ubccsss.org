@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Friday, September 27, 2013 - 12:30 to 15:00
+start_date: 2013-09-27T12:30:00.000Z
+end_date: 2013-09-27T15:00:00.000Z
 raw_location: Atrium, 3777 Kingsway, Burnaby
 ---
 

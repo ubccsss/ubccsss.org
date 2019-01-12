@@ -1,11 +1,11 @@
 ---
-title: "A Crash Course on Careers"
-date: 2009-03-31T21:47:00.000Z
+title: A Crash Course on Careers
+date: 2009-03-31
 aliases:
   - /node/1237
 author: Christopher Head
-images: []
-raw_date: Wednesday, May 6, 2009 - 14:38 to Friday, May 8, 2009 - 14:38
+start_date: 2009-05-06T14:38:00.000Z
+end_date: 2009-05-08T14:38:00.000Z
 categories: [Career]
 tags: [Resume]
 ---

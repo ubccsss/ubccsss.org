@@ -4,9 +4,9 @@ date: 2010-02-05T08:08:00.000Z
 aliases:
   - /node/1315
 author: Christopher Head
-images: []
+start_date: 2010-02-08T17:30:00.000Z
+end_date: 2010-02-08T19:00:00.000Z
 categories: [Career]
-raw_date: Monday, February 8, 2010 - 17:30
 raw_location: Hennings 201
 ---
 

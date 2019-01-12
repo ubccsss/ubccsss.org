@@ -4,9 +4,9 @@ date: 2012-09-13T03:29:00.000Z
 aliases:
   - /node/1483
 author: Christopher Head
-images: []
+start_date: 2012-10-19T20:22:00.000Z
+end_date: 2012-10-20T20:22:00.000Z
 categories: [Career]
-raw_date: Friday, October 19, 2012 - 20:22 to Saturday, October 20, 2012 - 20:22
 raw_location: University of Calgary
 ---
 

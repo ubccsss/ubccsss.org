@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Tuesday, June 29, 2010 - 18:30 to 20:00
+start_date: 2010-06-29T18:30:00.000Z
+end_date: 2010-06-29T20:00:00.000Z
 raw_location: UBC Robson Square Room C100
 ---
 

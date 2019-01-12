@@ -5,7 +5,8 @@ aliases:
   - /node/1290
 author: Christopher Head
 images: []
-raw_date: Thursday, January 21, 2010 - 12:30 to 14:00
+start_date: 2010-01-21T12:30:00.000Z
+end_date: 2010-01-21T14:00:00.000Z
 categories: [Career]
 tags: [Resume]
 ---

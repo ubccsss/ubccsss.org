@@ -8,7 +8,8 @@ images:
   - /files/adobe_logo.gif
   - /modules/file/icons/application-pdf.svg
 categories: [Career]
-raw_date: Wednesday, November 8, 2006 - 16:30 to 17:30
+start_date: 2006-11-08T16:30:00.000Z
+end_date: 2006-11-08T17:30:00.000Z
 location:
   name: Dempster 310
   address:

@@ -7,7 +7,8 @@ aliases:
   - /node/1263
 author: Christopher Head
 images: []
-raw_date: Thursday, October 8, 2009 - 11:00 to 14:00
+start_date: 2009-10-08T11:00:00.000Z
+end_date: 2009-10-08T14:00:00.000Z
 raw_location: Outside of Dempster
 ---
 

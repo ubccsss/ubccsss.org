@@ -5,7 +5,8 @@ aliases:
   - /node/1002
 author: atjia
 images: []
-raw_date: Monday, October 22, 2007 - 13:00 to 14:00
+start_date: 2007-10-22T13:00:00.000Z
+end_date: 2007-10-22T14:00:00.000Z
 raw_location: Scarfe Room 1020
 categories: [Career]
 ---

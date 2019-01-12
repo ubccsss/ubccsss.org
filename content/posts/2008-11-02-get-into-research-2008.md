@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Tuesday, November 4, 2008 - 17:00 to 20:00
+start_date: 2008-11-04T17:00:00.000Z
+end_date: 2008-11-04T20:00:00.000Z
 raw_location: Woodward 2
 ---
 

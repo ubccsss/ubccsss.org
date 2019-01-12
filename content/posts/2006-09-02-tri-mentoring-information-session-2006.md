@@ -7,7 +7,8 @@ author: atjia
 images: []
 categories: [Career]
 tags: [Tri-Mentoring]
-raw_date: Tuesday, September 12, 2006 - 17:30 to 18:30
+start_date: 2006-09-12T17:30:00.000Z
+end_date: 2006-09-12T18:30:00.000Z
 location:
   name: DMP 310
   address:

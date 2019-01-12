@@ -9,7 +9,8 @@ author: Tristan Rice
 images:
   - /files/17077890_10155134437718982_2090298928_n.jpg
   - /files/DinnerEvent.jpg
-raw_date: Thursday, March 9, 2017 - 18:00 to 20:00
+start_date: 2017-03-09T18:00:00.000Z
+end_date: 2017-03-09T20:00:00.000Z
 location:
   name: Abdul Ladha Science Student Centre
   address:

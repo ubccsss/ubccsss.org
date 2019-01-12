@@ -6,7 +6,8 @@ aliases:
 author: atjia
 images: []
 categories: [Career]
-raw_date: Wednesday, September 28, 2005 - 17:30 to 19:30
+start_date: 2005-09-28T17:30:00.000Z
+end_date: 2005-09-28T19:30:00.000Z
 raw_location: Wesbrook Building, Room 201
 ---
 

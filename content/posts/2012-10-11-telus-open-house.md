@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Thursday, October 25, 2012 - 12:00 to 16:00
+start_date: 2012-10-25T12:00:00.000Z
+end_date: 2012-10-25T16:00:00.000Z
 raw_location: 4th Floor of “The Boot” 3777 Kingsway
 ---
 

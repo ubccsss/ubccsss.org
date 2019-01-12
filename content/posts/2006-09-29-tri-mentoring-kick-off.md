@@ -7,7 +7,8 @@ author: atjia
 images: []
 categories: [Career]
 tags: [Tri-Mentoring]
-raw_date: Thursday, October 5, 2006 - 17:00 to 19:00
+start_date: 2006-10-05T17:00:00.000Z
+end_date: 2006-10-05T19:00:00.000Z
 raw_location: Graduate Students Society Ballroom
 ---
 

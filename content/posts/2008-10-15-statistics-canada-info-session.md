@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Wednesday, October 22, 2008 - 18:30 to 20:30
+start_date: 2008-10-22T18:30:00.000Z
+end_date: 2008-10-22T20:30:00.000Z
 location:
   name: DMP310
   address:

@@ -1,13 +1,13 @@
 ---
-title: "CSSS Board Game Night 2"
+title: CSSS Board Game Night 2
 date: 2012-10-21
 categories: [Event]
 tags: [Game Night]
 aliases:
   - /node/1397
 author: Christopher Head
-images: []
-raw_date: Friday, October 15, 2010 - 17:30
+start_date: 2010-10-15T17:30:00.000Z
+end_date: 2010-10-15T19:00:00.000Z
 location:
   name: ReBoot Cafe
   address:

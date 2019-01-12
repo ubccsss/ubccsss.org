@@ -8,7 +8,8 @@ aliases:
 author: njhu
 images:
   - /files/media%20cover%20new.jpg
-raw_date: Monday, October 29, 2018 - 18:30 to 20:30
+start_date: 2018-10-29T18:30:00.000Z
+end_date: 2018-10-29T20:30:00.000Z
 location:
   name: DMP 301
   address:

@@ -5,7 +5,8 @@ aliases:
   - /node/499
 author: hybrid11
 images: []
-raw_date: Friday, October 6, 2006 - 17:30 to 19:30
+start_date: 2006-10-06T17:30:00.000Z
+end_date: 2006-10-06T19:30:00.000Z
 location:
   name: Dempster 310
   address:

@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Tuesday, March 16, 2010 - 16:00 to 18:00
+start_date: 2010-03-16T16:00:00.000Z
+end_date: 2010-03-16T18:00:00.000Z
 raw_location: Hennings 201
 ---
 

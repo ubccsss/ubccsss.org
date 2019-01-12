@@ -7,7 +7,8 @@ author: atjia
 images:
   - /files/enterprize.png
 categories: [Career]
-raw_date: Friday, February 6, 2009 (All day) to Sunday, February 8, 2009 (All day)
+start_date: 2009-02-06T08:00:00.000Z
+end_date: 2009-02-08T22:00:00.000Z
 raw_location: Downtown Vancouver
 ---
 

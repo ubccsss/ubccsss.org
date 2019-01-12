@@ -7,13 +7,14 @@ aliases:
 author: atjia
 images:
   - /files/beach.jpg
-raw_date: Friday, September 22, 2006 - 14:00 to 23:59
+start_date: 2006-09-22T14:00:00.000Z
+end_date: 2006-09-22T23:59:00.000Z
 raw_location: Somewhere where the land meets the sea...
 ---
 
 **This event has been canceled due to a gloomy weather forecast tomorrow. Sorry for the inconvenience. :-(**
 
-![](/files/beach.jpg)  
+![](/files/beach.jpg)
 **You have received a nudge from CSSS!**
 
 Enjoy the last taste of summer.... (weather permitting)

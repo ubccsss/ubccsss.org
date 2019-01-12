@@ -7,7 +7,8 @@ author: atjia
 images:
   - /files/ubisoft_logo.gif
 categories: [Career]
-raw_date: Thursday, November 1, 2007 - 12:30 to 14:00
+start_date: 2007-11-01T12:30:00.000Z
+end_date: 2007-11-01T14:00:00.000Z
 location:
   name: Dempster Room 301
   address:

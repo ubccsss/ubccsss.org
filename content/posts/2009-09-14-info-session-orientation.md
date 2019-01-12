@@ -7,7 +7,8 @@ author: Christopher Head
 images: []
 categories: [Career]
 tags: [Tri-Mentoring]
-raw_date: Monday, September 14, 2009 - 17:00 to 18:30
+start_date: 2009-09-14T17:00:00.000Z
+end_date: 2009-09-14T18:30:00.000Z
 raw_location: Forest Science Centre Rm 1221, 2424 Main Mall
 ---
 

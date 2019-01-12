@@ -7,7 +7,8 @@ author: robf
 images:
   - /files/telus_logo.gif
 categories: [Career]
-raw_date: Friday, January 26, 2007 - 12:00 to 16:00
+start_date: 2007-01-26T12:00:00.000Z
+end_date: 2007-01-26T16:00:00.000Z
 raw_location: 3777 Kingsway, Burnaby (at the corner of Kingsway & Boundary)
 ---
 

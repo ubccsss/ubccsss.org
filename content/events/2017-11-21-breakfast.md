@@ -8,7 +8,8 @@ aliases:
 author: arieljcao
 images:
   - /files/Cube%20Breakfast%202.jpg
-raw_date: Tuesday, November 21, 2017 - 09:00 to 11:00
+start_date: 2017-11-21T09:00:00.000Z
+end_date: 2017-11-21T11:00:00.000Z
 location:
   name: The Cube (ICICS 021)
   address:

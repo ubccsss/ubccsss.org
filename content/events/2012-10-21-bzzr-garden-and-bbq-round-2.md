@@ -8,7 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/BeerGarden_image.jpg
-raw_date: Friday, February 3, 2006 - 15:00 to 19:00
+start_date: 2006-02-03T15:00:00.000Z
+end_date: 2006-02-03T19:00:00.000Z
 raw_location: CS Ugrad Lounge
 ---
 

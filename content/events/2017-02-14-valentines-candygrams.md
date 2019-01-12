@@ -8,7 +8,8 @@ aliases:
 author: Tristan Rice
 images:
   - /files/UPPERBOUNDLOVE.jpg
-raw_date: Tuesday, February 14, 2017 (All day)
+start_date: 2017-02-14T08:00:00.000Z
+end_date: 2017-02-14T18:00:00.000Z
 ---
 
 [![](/files/UPPERBOUNDLOVE.jpg)](https://ubccsss.org/candygrams)
@@ -26,13 +27,3 @@ If you want to send a candygram, just fill out the form below.
 [https://www.facebook.com/events/1777568772570059/](https://www.facebook.com/events/1777568772570059/)
 
 [View All Poster Designs](https://imgur.com/a/XDuzU)
-
-When: 
-
-Tuesday, February 14, 2017 (All day)
-
-Tags: 
-
-[Club Activities](/club)
-
-[Social](/social)

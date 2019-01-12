@@ -8,7 +8,8 @@ author: Christopher Head
 images: []
 tags: [Social]
 categories: [Career]
-raw_date: Saturday, September 29, 2012 - 12:00 to 17:00
+start_date: 2012-09-29T12:00:00.000Z
+end_date: 2012-09-29T17:00:00.000Z
 location:
   name: ICICS 005/011
   address:

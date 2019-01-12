@@ -8,7 +8,8 @@ aliases:
 author: Christopher Head
 images:
   - /files/lanpartysign.png
-raw_date: Friday, January 20, 2006 - 17:00 to 22:00
+start_date: 2006-01-20T17:00:00.000Z
+end_date: 2006-01-20T22:00:00.000Z
 location:
   name: DEMP 110 & CS Ugrad Lounge
   address:

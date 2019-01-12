@@ -7,7 +7,8 @@ aliases:
   - /node/1120
 author: Christopher Head
 images: []
-raw_date: Wednesday, October 29, 2008 - 15:00 to 17:00
+start_date: 2008-10-29T15:00:00.000Z
+end_date: 2008-10-29T17:00:00.000Z
 raw_location: Neville Scarfe 209
 ---
 

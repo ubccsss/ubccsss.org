@@ -8,7 +8,8 @@ aliases:
 author: arieljcao
 images:
   - /files/Intel%20Workshop.jpg
-raw_date: Friday, October 20, 2017 - 16:30 to 18:00
+start_date: 2017-10-20T16:30:00.000Z
+end_date: 2017-10-20T18:00:00.000Z
 location:
   name: DMP 301
   address:

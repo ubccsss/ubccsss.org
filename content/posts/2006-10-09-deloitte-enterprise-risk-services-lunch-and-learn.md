@@ -7,7 +7,8 @@ author: jlo
 images:
   - /files/deloitte_firm_logo.gif
 categories: [Career]
-raw_date: Tuesday, October 10, 2006 - 13:00 to 14:30
+start_date: 2006-10-10T13:00:00.000Z
+end_date: 2006-10-10T14:30:00.000Z
 raw_location: Henry Angus 309 (Commerce Building)
 ---
 

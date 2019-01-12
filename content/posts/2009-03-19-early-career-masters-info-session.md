@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Saturday, March 21, 2009 - 14:00 to 16:00
+start_date: 2009-03-21T14:00:00.000Z
+end_date: 2009-03-21T16:00:00.000Z
 raw_location: UBC Robson Square, C300 Theatre, 800 Robson Street
 ---
 

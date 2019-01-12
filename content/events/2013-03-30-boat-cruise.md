@@ -1,13 +1,13 @@
 ---
-title: "CSSS Annual Year-End Boat Cruise"
+title: CSSS Annual Year-End Boat Cruise
 date: 2013-03-20
 categories: [Event]
 tags: [Year-End Gala]
 aliases:
   - /node/1523
 author: Christopher Head
-images: []
-raw_date: Saturday, March 30, 2013 - 19:00
+start_date: 2013-03-30T19:00:00.000Z
+end_date: 2013-03-30T20:00:00.000Z
 raw_location: 501 Denman Street, Vancouver, British Columbia, Canada V6G 2W9
 ---
 

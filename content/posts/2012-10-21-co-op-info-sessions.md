@@ -6,7 +6,8 @@ aliases:
 author: atjia
 images: []
 categories: [Career]
-raw_date: Wednesday, March 15, 2006 - 14:00 to 15:30
+start_date: 2006-03-15T14:00:00.000Z
+end_date: 2006-03-15T15:30:00.000Z
 raw_location: MacMillan Building Room 158
 ---
 

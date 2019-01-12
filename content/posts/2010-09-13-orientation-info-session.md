@@ -5,7 +5,8 @@ aliases:
   - /node/1381
 author: bertong
 images: []
-raw_date: Monday, September 13, 2010 - 17:00 to 18:30
+start_date: 2010-09-13T17:00:00.000Z
+end_date: 2010-09-13T18:30:00.000Z
 location:
   name: DMP 110
   address:

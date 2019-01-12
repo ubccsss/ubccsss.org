@@ -7,7 +7,8 @@ author: jlo
 images:
   - /modules/file/icons/application-pdf.svg
 categories: [Career]
-raw_date: Friday, September 29, 2006 - 12:00 to 13:00
+start_date: 2006-09-29T12:00:00.000Z
+end_date: 2006-09-29T13:00:00.000Z
 raw_location: Boardroom of Engineering Annex
 ---
 

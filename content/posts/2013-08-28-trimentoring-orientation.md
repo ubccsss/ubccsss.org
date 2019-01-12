@@ -7,7 +7,8 @@ author: Christopher Head
 images: []
 categories: [Career]
 tags: [Tri-Mentoring]
-raw_date: Thursday, September 11, 2008 - 13:30 to 15:00
+start_date: 2008-09-11T13:30:00.000Z
+end_date: 2008-09-11T15:00:00.000Z
 location:
   name: DMP310
   address:

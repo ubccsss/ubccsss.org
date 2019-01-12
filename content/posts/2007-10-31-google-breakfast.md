@@ -8,7 +8,8 @@ images:
   - /files/google-breakfast.png
 tags: [Social]
 categories: [Career]
-raw_date: Thursday, November 1, 2007 - 09:40 to 10:40
+start_date: 2007-11-01T09:40:00.000Z
+end_date: 2007-11-01T10:40:00.000Z
 location:
   name: X-wing Lounge
   address:

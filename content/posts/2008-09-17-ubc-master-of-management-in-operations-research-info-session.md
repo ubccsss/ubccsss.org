@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Friday, September 19, 2008 - 17:00 to 18:00
+start_date: 2008-09-19T17:00:00.000Z
+end_date: 2008-09-19T18:00:00.000Z
 raw_location: Fred Kaiser Building, Room 2020/2030
 ---
 

@@ -8,7 +8,8 @@ images:
   - /files/ubc.jpg
 categories: [Career]
 tags: [Resume]
-raw_date: Thursday, February 8, 2007 - 12:30 to 13:00
+start_date: 2007-02-08T12:30:00.000Z
+end_date: 2007-02-08T13:00:00.000Z
 ---
 
 ![](/files/ubc.jpg)

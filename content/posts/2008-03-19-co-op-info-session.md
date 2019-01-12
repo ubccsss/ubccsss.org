@@ -5,7 +5,8 @@ aliases:
   - /node/1046
 author: Christopher Head
 images: []
-raw_date: Tuesday, March 25, 2008 - 18:00 to 19:00
+start_date: 2008-03-25T18:00:00.000Z
+end_date: 2008-03-25T19:00:00.000Z
 location:
   name: Hugh Dempster Building, Room 101
   address:

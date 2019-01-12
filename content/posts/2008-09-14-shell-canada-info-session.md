@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Thursday, September 18, 2008 - 18:30 to 20:30
+start_date: 2008-09-18T18:30:00.000Z
+end_date: 2008-09-18T20:30:00.000Z
 raw_location: Wesbrook 100
 ---
 

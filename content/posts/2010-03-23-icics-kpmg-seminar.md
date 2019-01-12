@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Tuesday, March 23, 2010 - 15:30 to 17:00
+start_date: 2010-03-23T15:30:00.000Z
+end_date: 2010-03-23T17:00:00.000Z
 raw_location: Kaiser 2020
 ---
 

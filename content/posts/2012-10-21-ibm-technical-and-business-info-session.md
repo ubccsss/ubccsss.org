@@ -7,7 +7,8 @@ author: jlo
 images:
   - /files/ibm%20logo.jpg
 categories: [Career]
-raw_date: Wednesday, September 27, 2006 - 17:30 to 19:30
+start_date: 2006-09-27T17:30:00.000Z
+end_date: 2006-09-27T19:30:00.000Z
 raw_location: Wesbrook 100 (the white building across UBC Bookstore)
 ---
 

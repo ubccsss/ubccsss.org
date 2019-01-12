@@ -6,7 +6,8 @@ aliases:
 author: atjia
 images: []
 categories: [Career]
-raw_date: Monday, February 20, 2006 - 15:00 to 16:30
+start_date: 2006-02-20T15:00:00.000Z
+end_date: 2006-02-20T16:30:00.000Z
 raw_location: Kaiser Room 2030
 ---
 

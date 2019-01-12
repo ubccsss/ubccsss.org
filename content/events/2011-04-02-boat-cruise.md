@@ -7,7 +7,8 @@ aliases:
   - /node/1452
 author: bertong
 images: []
-raw_date: Saturday, April 2, 2011 - 18:30 to 23:00
+start_date: 2011-04-02T18:30:00.000Z
+end_date: 2011-04-02T23:00:00.000Z
 raw_location: 501 Denman Street, Vancouver, British Columbia, Canada V6G 2W9
 ---
 

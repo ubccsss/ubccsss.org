@@ -7,7 +7,8 @@ author: atjia
 images:
   - /files/escience_logo.gif
 categories: [Career]
-raw_date: Wednesday, November 9, 2005 - 16:30 to 19:30
+start_date: 2005-11-09T16:30:00.000Z
+end_date: 2005-11-09T19:30:00.000Z
 raw_location: Woodward/IRC Building
 ---
 

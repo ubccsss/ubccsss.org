@@ -5,7 +5,8 @@ aliases:
   - /node/464
 author: mlee
 images: []
-raw_date: Thursday, March 23, 2006 - 09:00 to 11:00
+start_date: 2006-03-23T09:00:00.000Z
+end_date: 2006-03-23T11:00:00.000Z
 raw_location: 4611 Canada Way, Burnaby
 categories: [Career]
 ---

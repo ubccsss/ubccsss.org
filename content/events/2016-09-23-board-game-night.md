@@ -7,7 +7,8 @@ aliases:
   - /node/1557
 author: Tristan Rice
 images: []
-raw_date: Friday, September 23, 2016 - 16:00 to 19:00
+start_date: 2016-09-23T16:00:00.000Z
+end_date: 2016-09-23T19:00:00.000Z
 location:
   name: Reboot Cafe - ICICS
   address:

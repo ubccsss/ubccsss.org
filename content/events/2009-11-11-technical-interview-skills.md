@@ -7,7 +7,8 @@ aliases:
   - /node/1280
 author: Christopher Head
 images: []
-raw_date: Monday, November 16, 2009 - 17:00 to 18:00
+start_date: 2009-11-16T17:00:00.000Z
+end_date: 2009-11-16T18:00:00.000Z
 raw_location: FSC 1005
 ---
 

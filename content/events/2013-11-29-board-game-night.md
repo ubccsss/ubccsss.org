@@ -6,8 +6,8 @@ tags: [Game Night]
 aliases:
   - /node/1534
 author: Christopher Head
-images: []
-raw_date: Friday, November 29, 2013 - 18:00
+start_date: 2013-11-29T18:00:00.000Z
+end_date: 2013-11-29T19:00:00.000Z
 location:
   name: Reboot Café
   address:

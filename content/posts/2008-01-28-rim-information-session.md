@@ -6,7 +6,8 @@ aliases:
 author: atjia
 images: []
 categories: [Career]
-raw_date: Wednesday, January 30, 2008 - 13:00 to 14:00
+start_date: 2008-01-30T13:00:00.000Z
+end_date: 2008-01-30T14:00:00.000Z
 location:
   name: Dempster 310
   address:

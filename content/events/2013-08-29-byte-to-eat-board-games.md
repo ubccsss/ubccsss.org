@@ -7,7 +7,8 @@ aliases:
   - /node/1271
 author: Christopher Head
 images: []
-raw_date: Friday, November 20, 2009 - 17:00 to 21:00
+start_date: 2009-11-20T17:00:00.000Z
+end_date: 2009-11-20T21:00:00.000Z
 location:
   name: ICICS Reboot Lounge
   address:

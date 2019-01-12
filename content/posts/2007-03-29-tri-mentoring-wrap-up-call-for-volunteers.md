@@ -1,11 +1,11 @@
 ---
 title: "Tri-mentoring Wrap Up - Call for volunteers"
-date: 2007-03-29T17:32:00.000Z
+date: 2007-03-29
 aliases:
   - /node/727
 author: jlo
-images: []
-raw_date: Tuesday, April 3, 2007 - 18:15 to 19:15
+start_date: 2007-04-03T18:15:00.000Z
+end_date: 2007-04-03T19:15:00.000Z
 raw_location: Sage Bistro, 6331 Crescent Road, UBC (next to Rose Garden)
 categories: [Career]
 tags: [Tri-Mentoring]

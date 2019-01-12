@@ -8,7 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/kautz96dpi.jpg
-raw_date: Thursday, March 16, 2006 - 15:00 to 16:30
+start_date: 2006-03-16T15:00:00.000Z
+end_date: 2006-03-16T16:30:00.000Z
 location:
   name: DMP 310
   address:

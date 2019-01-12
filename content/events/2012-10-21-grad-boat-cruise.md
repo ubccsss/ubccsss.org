@@ -9,7 +9,8 @@ author: dtan
 images:
   - /files/ship.jpg
   - /files/vansunset.jpg
-raw_date: Friday, March 31, 2006 - 17:00 to 21:30
+start_date: 2006-03-31T17:00:00.000Z
+end_date: 2006-03-31T21:30:00.000Z
 location:
   name: Pick Up/Drop Off at North Foot of Denman St
   address:

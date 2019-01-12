@@ -7,7 +7,8 @@ aliases:
 author: atjia
 images:
   - /files/header_logo.jpg
-raw_date: Thursday, February 15, 2007 - 13:00 to 14:00
+start_date: 2007-02-15T13:00:00.000Z
+end_date: 2007-02-15T14:00:00.000Z
 location:
   name: Dempster 310
   address:

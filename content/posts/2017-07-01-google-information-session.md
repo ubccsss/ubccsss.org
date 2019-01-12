@@ -7,7 +7,8 @@ author: Christopher Head
 images:
   - /files/Logo_40wht.gif
 categories: [Career]
-raw_date: Thursday, September 28, 2006 - 17:30 to 18:30
+start_date: 2006-09-28T17:30:00.000Z
+end_date: 2006-09-28T18:30:00.000Z
 raw_location: Forest Sciences 1005 NOT Dempster 110 and NOT Dempster 310 as previously stated!
 ---
 

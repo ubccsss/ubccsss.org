@@ -7,7 +7,8 @@ author: rchao
 images:
   - /files/Logo_40wht.gif
 categories: [Career]
-raw_date: Tuesday, September 27, 2005 - 17:30 to 19:30
+start_date: 2005-09-27T17:30:00.000Z
+end_date: 2005-09-27T19:30:00.000Z
 location:
   name: Dempster Pavillion, Room 310
   address:

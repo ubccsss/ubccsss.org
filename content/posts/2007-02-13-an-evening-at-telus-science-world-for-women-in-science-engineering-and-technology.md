@@ -7,7 +7,8 @@ author: robf
 images:
   - /modules/file/icons/application-pdf.svg
 categories: [Career]
-raw_date: Tuesday, March 6, 2007 - 17:30 to 21:00
+start_date: 2007-03-06T17:30:00.000Z
+end_date: 2007-03-06T21:00:00.000Z
 raw_location: TELUS Science World
 ---
 

@@ -6,7 +6,8 @@ aliases:
 author: rchao
 images: []
 categories: [Career]
-raw_date: Friday, October 14, 2005 - 16:00 to 17:00
+start_date: 2005-10-14T16:00:00.000Z
+end_date: 2005-10-14T17:00:00.000Z
 location:
   name: Demp 310
   address:

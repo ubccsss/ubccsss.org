@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Thursday, February 11, 2010 - 12:30 to 13:30
+start_date: 2010-02-11T12:30:00.000Z
+end_date: 2010-02-11T13:30:00.000Z
 location:
   name: DMP201
   address:

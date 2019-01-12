@@ -5,7 +5,8 @@ aliases:
   - /node/1297
 author: Christopher Head
 images: []
-raw_date: Tuesday, January 19, 2010 - 12:30 to 14:00
+start_date: 2010-01-19T12:30:00.000Z
+end_date: 2010-01-19T14:00:00.000Z
 location:
   name: ICICS 255
   address:

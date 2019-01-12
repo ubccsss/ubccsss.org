@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Tuesday, January 29, 2013 - 16:30 to 18:30
+start_date: 2013-01-29T16:30:00.000Z
+end_date: 2013-01-29T18:30:00.000Z
 raw_location: Concourse, Student Union Building (SUB)
 ---
 

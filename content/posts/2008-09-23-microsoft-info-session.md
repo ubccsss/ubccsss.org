@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Tuesday, September 30, 2008 - 17:45 to 18:45
+start_date: 2008-09-30T17:45:00.000Z
+end_date: 2008-09-30T18:45:00.000Z
 raw_location: Woodward IRC 2
 ---
 

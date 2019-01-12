@@ -8,7 +8,8 @@ aliases:
 author: Christopher Head
 images:
   - /files/sunrun.png
-raw_date: Sunday, April 23, 2006 - 09:00
+start_date: 2006-04-23T09:00:00.000Z
+end_date: 2006-04-23T10:00:00.000Z
 ---
 
 ![](/files/sunrun.png)
@@ -25,11 +26,3 @@ If you'd like more information, contact Andrew (`ade [at] cs.ubc.ca`). If you're
 - Send an email to [\[email protected\]](/cdn-cgi/l/email-protection#bfd2ded5d0cddbd0d2d0ffdccc91cadddc91dcde). The body should contain: _subscribe cs-running_ (and nothing else)
 
 If you'd like to find out more about the Vancouver Sun Run visit [www.sunrun.com](http://www.sunrun.com).
-
-When: 
-
-Sunday, April 23, 2006 - 09:00
-
-Tags: 
-
-[Social](/social)

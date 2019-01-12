@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Thursday, November 6, 2008 - 17:00 to 19:00
+start_date: 2008-11-06T17:00:00.000Z
+end_date: 2008-11-06T19:00:00.000Z
 location:
   name: ICICS X-Wing Lounge
   address:

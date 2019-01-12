@@ -7,7 +7,8 @@ aliases:
 author: Christopher Head
 images:
   - /files/krispykreme.gif
-raw_date: Tuesday, January 24, 2006 - 11:00 to 14:00
+start_date: 2006-01-24T11:00:00.000Z
+end_date: 2006-01-24T14:00:00.000Z
 raw_location: SUB
 ---
 

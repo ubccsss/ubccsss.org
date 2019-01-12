@@ -6,7 +6,8 @@ aliases:
 author: Christopher Head
 images: []
 categories: [Career]
-raw_date: Wednesday, September 19, 2012 - 09:00 to 16:00
+start_date: 2012-09-19T09:00:00.000Z
+end_date: 2012-09-19T16:00:00.000Z
 location:
   name: ICICS X339 and X341
   address:

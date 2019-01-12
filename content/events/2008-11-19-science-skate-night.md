@@ -6,7 +6,8 @@ aliases:
   - /node/1158
 author: atjia
 images: []
-raw_date: Thursday, November 20, 2008 - 15:30 to 17:00
+start_date: 2008-11-20T15:30:00.000Z
+end_date: 2008-11-20T17:00:00.000Z
 raw_location: UBC Thunderbird Arena, Rink B
 ---
 

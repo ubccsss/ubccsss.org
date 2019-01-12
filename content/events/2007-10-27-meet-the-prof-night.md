@@ -6,7 +6,8 @@ aliases:
   - /node/1006
 author: Christopher Head
 images: []
-raw_date: Thursday, November 1, 2007 - 18:00 to 20:00
+start_date: 2007-11-01T18:00:00.000Z
+end_date: 2007-11-01T20:00:00.000Z
 ---
 
 Come out to the BizTech Meet the prof night where you get the chance to socialize with profs in a relaxed environment! Learn more about their career paths and about the MIS and E-business fields.

@@ -6,7 +6,8 @@ aliases:
 author: bertong
 images: []
 categories: [Career]
-raw_date: Tuesday, January 25, 2011 - 12:00 to 16:15
+start_date: 2011-01-25T12:00:00.000Z
+end_date: 2011-01-25T16:15:00.000Z
 raw_location: 3777 Kingway, Burnaby
 ---
 

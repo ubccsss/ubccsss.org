@@ -8,7 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/cfbannersmall.jpg
-raw_date: Thursday, January 26, 2006 - 09:00 to 15:00
+start_date: 2006-01-26T09:00:00.000Z
+end_date: 2006-01-26T15:00:00.000Z
 raw_location: SUB Ballroom
 ---
 

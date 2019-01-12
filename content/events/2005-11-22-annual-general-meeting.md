@@ -5,7 +5,8 @@ aliases:
   - /node/67
 author: rchao
 images: []
-raw_date: Thursday, September 22, 2005 - 12:30 to 13:30
+start_date: 2005-09-22T12:30:00.000Z
+end_date: 2005-09-22T13:30:00.000Z
 location:
   name: Student Lounge in ICICS/CS
   address:

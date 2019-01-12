@@ -5,7 +5,8 @@ aliases:
   - /node/596
 author: jlo
 images: []
-raw_date: Tuesday, November 21, 2006 - 17:30 to 19:00
+start_date: 2006-11-21T17:30:00.000Z
+end_date: 2006-11-21T19:00:00.000Z
 raw_location: CEME 1202 (the Civil and Mechanical Engineering Building)
 categories: [Career]
 ---
