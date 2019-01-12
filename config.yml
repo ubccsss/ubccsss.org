@@ -41,6 +41,7 @@ default_location_address:
 permalinks:
   posts: /posts/:year/:month/:title/
   events: /events/:year/:month/:title/
+  minutes: /about/minutes/:year/:month/:day/
 
 paginate: 5
 
