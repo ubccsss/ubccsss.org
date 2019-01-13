@@ -1,5 +1,6 @@
 ---
 title: 'Food Price List'
+date: 2018-09-30 # last time rates were updated
 aliases:
   - /club/prices
 layout: menu

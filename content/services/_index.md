@@ -1,15 +1,16 @@
 ---
-title: "Services"
-date: 2016-11-25T06:50:00.000Z
+title: Services
 layout: single
 aliases:
   - /services
-author: Christopher Head
 images:
+  - /files/career-fair.jpg
   - /files/exams.jpg
+  - /files/tutor.jpg
+  - /files/lounge.jpg
 ---
 
-The Cube offers the following services.
+The UBC CSSS offers the following services.
 
 <div class="card-deck mb-3">
   {{< card title="Technical Career Fair" href="https://ubctcf.com" src="/files/career-fair.jpg" >}}
@@ -30,7 +31,8 @@ The Cube offers the following services.
 
 ## [Food](cube/menu)
 
-We provide a variety of snacks and drinks at affordable prices (many things are less than $1!) to keep you going through those long coding projects in the lab.
+We provide a variety of snacks and drinks at affordable prices (many things are
+less than \$1!) to keep you going through those long coding projects in the lab.
 
 ## [Social Events](/events)
 
@@ -38,6 +40,7 @@ We run a variety of social events - board game nights, barbecues, and more!
 
 ## [Chat Server](https://chat.ubccsss.org)
 
-We run chat/messaging service similar to Slack. Feel free to create new channels and talk to friends. This is designed as a social space for all UBC CS students.
+We run chat/messaging service similar to Slack. Feel free to create new channels
+and talk to friends. This is designed as a social space for all UBC CS students.
 
 If you would like your own team for a CS associated club please contact the VPC.

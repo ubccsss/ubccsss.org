@@ -8,6 +8,22 @@ aliases:
 We are the UBC Computer Science Student Society (UBC CSSS), a student society to
 serve all Computer Science students.
 
+<ul class="nav mb-4">
+  <li class="nav-item">
+    <a class="nav-link" href="/about/team/">Executives</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/about/team/misc/officers/">Officers</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/about/constitution">Constitution</a>
+  </li>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/about/minutes/">Minutes</a>
+  </li>
+</ul>
+
 ### How do I join?
 
 **You don't have to! As long as you're a Computer Science student, you're a

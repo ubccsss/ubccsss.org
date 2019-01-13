@@ -12,7 +12,7 @@ end_date: 2006-01-24T14:00:00.000Z
 location:
   name: SUB
   address:
-    streetAddress :6000 Student Union Blvd
+    streetAddress: 6000 Student Union Blvd
     addressLocality: Vancouver
     postalCode: V6T 1Z1
     addressRegion: BC

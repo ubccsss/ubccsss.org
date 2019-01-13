@@ -1,0 +1,26 @@
+{{ $startYear := now.Format "2006" }}
+{{ if lt (int (now.Format "1")) 6 }}
+    {{/* if month less than September... */}}
+    {{ $startYear = (now.AddDate -1 0 0).Format "2006" }}
+{{ end }}
+{{ $start := time (printf "%s-06-01" $startYear) }}
+{{ $endYear := ($start.AddDate 1 0 0).Format "2006" }}
+<h2>{{ i18n "verifiedTutors" (dict "start" $startYear "end" $endYear) }}</h2>
+
+{{ range sort .Site.Data.tutor "lastmod" "desc" }}
+    {{ if gt (time .lastmod).Unix $start.Unix }}
+    <div class="card w-100 mb-3">
+        <div class="card-body">
+            <h5 class="card-title">{{ .name }}</h5>
+            <ul class="card-text">
+                <li>{{ i18n "courses" . | markdownify }}</li>
+                <li>{{ i18n "availability" . | markdownify }}</li>
+                <li>{{ i18n "rates" . | markdownify }}</li>
+                <li>{{ i18n "lastUpdated" }}{{ dateFormat "Jan 2 2006" .lastmod }}</li>
+                <li>{{ i18n "bio" . | markdownify }}</li>
+            </ul>
+            <a href="mailto:{{ .email }}" class="btn btn-info btn-sm">{{ i18n "emailTutor" . }}</a>
+        </div>
+    </div>
+    {{ end }}
+{{ end }}

@@ -1,17 +1,16 @@
 ---
-title: "OzTREKK Study in Australia Fair"
-date: 2013-01-24T06:08:00.000Z
+title: OzTREKK Study in Australia Fair
+date: 2013-01-24
 aliases:
   - /node/1511
 author: Christopher Head
-images: []
 categories: [Career]
 start_date: 2013-01-29T16:30:00.000Z
 end_date: 2013-01-29T18:30:00.000Z
 location:
   name: Concourse, Student Union Building (SUB)
   address:
-    streetAddress :6000 Student Union Blvd
+    streetAddress: 6000 Student Union Blvd
     addressLocality: Vancouver
     postalCode: V6T 1Z1
     addressRegion: BC

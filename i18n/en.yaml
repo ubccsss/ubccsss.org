@@ -28,3 +28,24 @@
     ICICS Room 021 <br>
     2366 Main Mall <br>
     Vancouver, BC V6T 1Z4
+
+- id: verifiedTutors
+  translation: "Verified {{ .start }}-{{ .end }} Tutors"
+
+- id: lastUpdated
+  translation: "Last updated: "
+
+- id: courses
+  translation: "Courses: {{ .courses }}"
+
+- id: availability
+  translation: "Availability: {{ .availability }}"
+
+- id: rates
+  translation: "Rates: {{ .rates }}"
+
+- id: bio
+  translation: "Bio: {{ .bio }}"
+
+- id: emailTutor
+  translation: "Email {{ .email }}"

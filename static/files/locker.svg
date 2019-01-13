@@ -9,26 +9,22 @@
   <path fill="none" stroke="#000" stroke-width="3.3" d="M1239.3 2064v-408.8L1026.9 1533v408.8l212.4 122.2z" transform="matrix(.1164 0 0 .1165 -115.4 -104.8)"/>
   <path fill="none" stroke="#000" stroke-width="3.3" d="M1240 2023.5l-.7-368.3-212.4-122.2.6 367.9 212.4 122.6z" transform="matrix(.1164 0 0 .1165 -115.4 -152.4)"/>
   <path fill="#b7adad" d="M8.2 100v-4.8l4.2 2.4v4.8L8.2 100zm.1-47.7v-4.7l4.1 2.4v4.7l-4.1-2.4z"/>
-  <path fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="1.5" d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -100)"/>
-  <path fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="1.5" d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -102.4)"/>
-  <path fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="1.5" d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -103.6)"/>
-  <path fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="1.5" d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -101.3)"/>
-  <path fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="1.5" d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -104.8)"/>
   <g fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="1.5">
+    <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -100)"/>
+    <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -102.4)"/>
+    <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -103.6)"/>
+    <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -101.3)"/>
+    <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -104.8)"/>
     <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -71.5)"/>
     <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -73.9)"/>
     <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -75)"/>
     <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -72.7)"/>
     <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -76.2)"/>
-  </g>
-  <g fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="1.5">
     <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -52.4)"/>
     <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -54.8)"/>
     <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -56)"/>
     <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -53.6)"/>
     <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -57.2)"/>
-  </g>
-  <g fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="1.5">
     <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -19.1)"/>
     <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -21.5)"/>
     <path d="M1133 1226.4l35.2 20.3" transform="matrix(.1164 0 0 .1165 -115.4 -22.7)"/>

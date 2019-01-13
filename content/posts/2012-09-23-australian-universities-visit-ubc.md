@@ -1,17 +1,16 @@
 ---
-title: "Australian Universities Visit UBC"
-date: 2012-09-23T22:28:00.000Z
+title: Australian Universities Visit UBC
+date: 2012-09-23
 aliases:
   - /node/1489
 author: Christopher Head
-images: []
 categories: [Career]
 start_date: 2012-09-26T10:00:00.000Z
 end_date: 2012-09-26T16:00:00.000Z
 location:
   name: SUB
   address:
-    streetAddress :6000 Student Union Blvd
+    streetAddress: 6000 Student Union Blvd
     addressLocality: Vancouver
     postalCode: V6T 1Z1
     addressRegion: BC

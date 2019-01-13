@@ -46,6 +46,8 @@ permalinks:
 
 paginate: 5
 
+copyright: © 2018-2019
+
 params:
   mainSections:
     - events
