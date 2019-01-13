@@ -1,5 +1,9 @@
 <nav class="nav justify-content-between">
-    {{ with .PrevInSection }}
+    {{ $prev := .PrevInSection }}
+    {{ if and (not $prev) (ne .CurrentSection .) }}
+    {{ $prev = .CurrentSection }}
+    {{ end }}
+    {{ with $prev }}
     <a class="nav-link" href="{{ .RelPermalink }}">‹ {{ .Title }}</a>
     {{ end }}
     {{ if ne .Parent .Site.Home }}
@@ -7,7 +11,16 @@
         <a class="nav-link" href="{{ .RelPermalink }}">Up</a>
         {{ end }}
     {{ end }}
-    {{ with .NextInSection }}
+    {{ $next := .NextInSection }}
+    {{ if eq .CurrentSection . }}
+    {{ $next = index .Pages (sub (len .Pages) 1) }}
+    {{ else }}
+    {{ $nextSection := index .CurrentSection.Sections 0 }}
+    {{ if $nextSection }}
+    {{ $next = index $nextSection.Pages (sub (len $nextSection.Pages) 1) }}
+    {{ end }}
+    {{ end }}
+    {{ with $next }}
     <a class="nav-link" href="{{ .RelPermalink }}">{{ .Title }} ›</a>
     {{ end }}
 
@@ -17,7 +30,7 @@
             Outline
         </button>
         <div class="dropdown-menu outline-menu" aria-labelledby="dropdownMenuButton">
-            {{ partial "outline-items" (.GetPage "/about") }}
+            {{ partial "outline-items" .CurrentSection }}
         </div>
     </div>
     {{ end }}

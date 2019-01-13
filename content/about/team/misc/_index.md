@@ -1,3 +1,4 @@
 ---
 title: Miscellaneous
+layout: single
 ---
