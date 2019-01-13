@@ -6,11 +6,13 @@
     {{ with $prev }}
     <a class="nav-link" href="{{ .RelPermalink }}">‹ {{ .Title }}</a>
     {{ end }}
+
     {{ if ne .Parent .Site.Home }}
         {{ with .Parent }}
         <a class="nav-link" href="{{ .RelPermalink }}">Up</a>
         {{ end }}
     {{ end }}
+
     {{ $next := .NextInSection }}
     {{ if eq .CurrentSection . }}
     {{ $next = index .Pages (sub (len .Pages) 1) }}
