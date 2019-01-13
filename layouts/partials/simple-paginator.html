@@ -2,10 +2,10 @@
 {{ if gt $pag.TotalPages 1 }}
 <nav class="blog-pagination">
     <a class="btn btn-outline-primary {{ if not $pag.HasNext }}disabled{{ end }}" href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}">
-        Older
+        {{ i18n "older" }}
     </a>
     <a class="btn btn-outline-primary {{ if not $pag.HasPrev }}disabled{{ end }}" href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}">
-        Newer
+        {{ i18n "newer" }}
     </a>
 </nav>
 {{ end }}

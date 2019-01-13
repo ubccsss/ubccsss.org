@@ -1,17 +1,31 @@
 {{ $colorScheme := default "light" .Site.Params.footer.colorScheme }}
-<footer class="blog-footer w-100 navbar navbar-{{ $colorScheme }} bg-{{ $colorScheme }}">
-    <div class="text-light container small">
-        <div class="about row w-100">
-            <img class="col-sm-auto logo-mono" alt="" src="/logo-mono.svg" width="26.3" height="31">
-            <address class="col">{{ .Site.Data.about.address | markdownify }}</address>
-            <div class="col-lg-auto social">
-                <h6>Connect with us</h6>
-                {{ partial "social" $.Site.Data.social }}
+<footer class="blog-footer navbar navbar-{{ $colorScheme }} bg-{{ $colorScheme }} py-md-5 w-100">
+    <div class="text-light container">
+        <div class="row w-100">
+            <div class="col-12 col-md">
+                <img class="mb-2" src="/logo-mono.svg" alt="" width="26.3" height="31">
+                <small class="d-block mb-3 text-muted">© 2019</small>
             </div>
-        </div>
-        <div class="row w-100 justify-content-between">
-            <p class="col">© 2019 UBC Computer Science Student Society. Page maintained by webmaster@ubccsss.org.</p>
-            <p class="col-sm-auto"><a href="#">{{ i18n "backToTop" }}</a></p>
+            {{ range .Site.Data.footer }}
+            <div class="col-6 col-md">
+                <h5>{{ i18n .header }}</h5>
+                <ul class="list-unstyled text-small">
+                    {{ range .items }}
+                    {{ with $.GetPage . }}
+                    <li><a class="text-muted" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                    {{ end }}
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
+            <div class="col-12 col-md small">
+                {{ i18n "cubeAddress" | markdownify }}
+
+                <p>
+                    <hr>
+                    <a href="#">{{ i18n "backToTop" }}</a>
+                </p>
+            </div>
         </div>
     </div>
 </footer>

@@ -1,0 +1,14 @@
+<article class="blog-post">
+    <header>
+        {{ partial "post-title" . }}
+        {{ partial "post-date" . }}
+        {{ partial "post-tags" . }}
+        {{ partial "post-categories" . }}
+    </header>
+    {{ .Content }}
+    <div class="small">
+        {{ partial "post-when.html" . }}
+        {{ partial "post-where.html" . }}
+    </div>
+    {{ partial "add-to-calendar" . }}
+</article>

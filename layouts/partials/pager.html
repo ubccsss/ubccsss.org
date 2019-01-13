@@ -11,6 +11,7 @@
     <a class="nav-link" href="{{ .RelPermalink }}">{{ .Title }} ›</a>
     {{ end }}
 
+    {{ if eq .Section "about" }}
     <div class="nav-item dropdown">
         <button class="btn btn-secondary nav-link dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             Outline
@@ -19,4 +20,5 @@
             {{ partial "outline-items" (.GetPage "/about") }}
         </div>
     </div>
+    {{ end }}
 </nav>

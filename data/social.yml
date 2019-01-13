@@ -1,18 +1,20 @@
+# Items in the "Elsewhere" section of the sidebar.
+
 - title: Facebook
-  x: 0
+  icon: /modules/facebook.svg
   link: https://www.facebook.com/ubccsss/
 - title: Twitter
-  x: 1
+  icon: /modules/twitter.svg
   link: https://twitter.com/ubccsss
 - title: Discord
-  x: 5
+  icon: /modules/discord.svg
   link: https://discord.gg/DDMga58
 - title: Reddit
-  x: 6
+  icon: /modules/reddit.svg
   link: https://reddit.com/r/ubccsss
 - title: Mailing List
-  x: 2
+  icon: /modules/mail.svg
   link: /subscribe
 - title: RSS
-  x: 3
+  icon: /modules/rss.svg
   link: /index.xml
