@@ -10,7 +10,14 @@ images:
   - /files/cfbannersmall.jpg
 start_date: 2006-01-26T09:00:00.000Z
 end_date: 2006-01-26T15:00:00.000Z
-raw_location: SUB Ballroom
+location:
+  name: SUB Ballroom
+  address:
+    streetAddress: 6000 Student Union Blvd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z1
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 [![](/files/cfbannersmall.jpg)](//cf06.ubccsss.org/) On Thursday, January 26th, 2006, we, along with our fine friends in UBC Engineering Physics and UBC IEEE, are putting on the **12th Annual UBC Tech Career Fair** with 18 companies confirmed, and many more in waiting. Everybody, both past and present, and in any discipline is invited to come!

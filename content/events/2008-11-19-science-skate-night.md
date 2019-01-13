@@ -8,7 +8,14 @@ author: atjia
 images: []
 start_date: 2008-11-20T15:30:00.000Z
 end_date: 2008-11-20T17:00:00.000Z
-raw_location: UBC Thunderbird Arena, Rink B
+location:
+  name: UBC Thunderbird Arena, Rink B
+  address:
+    streetAddress: 6066 Thunderbird Blvd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z3
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Come out for an awesome night of free skating ending with fun games and prizes.

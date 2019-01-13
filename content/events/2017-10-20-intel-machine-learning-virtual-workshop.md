@@ -29,15 +29,3 @@ Interested in Machine Learning? Come to a virtual workshop hosted by Intel Nerva
 There will be a live Intel engineer during the webcast to answer any questions as well as a chance to win prizes! The event is completely free and food will be provided.
 
 PLEASE sign-up here: [https://www.eventbrite.com/e/intel-nervanatm-ai-academy-student-webcast-...](https://www.eventbrite.com/e/intel-nervanatm-ai-academy-student-webcast-tickets-37547703191?aff=IEM)
-
-When: 
-
-Friday, October 20, 2017 - 16:30 to 18:00
-
-Where: 
-
-DMP 301
-
-Tags: 
-
-[Career](/career)

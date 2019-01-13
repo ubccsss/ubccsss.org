@@ -11,7 +11,7 @@ images:
 start_date: 2018-01-25T10:00:00.000Z
 end_date: 2018-01-25T16:00:00.000Z
 location:
-  name: Life Science Building - 2350 Health Sciences Mall, Vancouver, British Columbia V6T 1Z3
+  name: Life Science Building
   address:
     streetAddress: 2350 Health Sciences Mall
     addressLocality: Vancouver
@@ -89,15 +89,3 @@ COMPANIES:
 ***
 
 Check out [www.cs.ubc.ca/industry/techcareerfair](http://www.cs.ubc.ca/industry/techcareerfair) and ubctcf.com for more info!
-
-When: 
-
-Thursday, January 25, 2018 - 10:00 to 16:00
-
-Where: 
-
-Life Science Building - 2350 Health Sciences Mall, Vancouver, British Columbia V6T 1Z3
-
-Tags: 
-
-[Career](/career)

@@ -10,7 +10,14 @@ images:
   - /modules/file/icons/image-x-generic.svg
 start_date: 2007-01-25T10:00:00.000Z
 end_date: 2007-01-25T16:00:00.000Z
-raw_location: SUB Ballroom
+location:
+  name: SUB Ballroom
+  address:
+    streetAddress: 6000 Student Union Blvd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z1
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 When: 

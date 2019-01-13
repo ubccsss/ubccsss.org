@@ -9,7 +9,14 @@ author: atjia
 images: []
 start_date: 2006-09-28T12:00:00.000Z
 end_date: 2006-09-28T14:00:00.000Z
-raw_location: Outside Dempster
+location:
+  name: Outside Dempster
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Didn't get enough of the BBQ-goodness in our last welcome barbeque a few weeks ago? No worries, for we are hosting the **Arbitrary Barbeque** this Thursday! Something for everybody - fun for the whole family. As always, you're invited and you can experience the arbitrariness of it all. Better that it is "arbitrary" than the "midterm" BBQ coming up... soon.

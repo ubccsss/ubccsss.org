@@ -9,7 +9,14 @@ author: Christopher Head
 images: []
 start_date: 2010-01-13T10:00:00.000Z
 end_date: 2010-01-13T16:00:00.000Z
-raw_location: SUB Ballroom
+location:
+  name: SUB Ballroom
+  address:
+    streetAddress: 6000 Student Union Blvd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z1
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Google, Electronic Arts, MDA, and Microsoft are some of the employers who'll be attending. Find out about new grad, summer and co-op opportunities available with a variety of companies.

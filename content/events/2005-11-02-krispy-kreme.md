@@ -10,7 +10,14 @@ images:
   - /files/krispykreme.gif
 start_date: 2005-11-02T10:00:00.000Z
 end_date: 2005-11-02T12:00:00.000Z
-raw_location: Between CICSR and Dempster
+location:
+  name: Between CICSR and Dempster
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 On November 2nd, we're going to try something we've never done before.

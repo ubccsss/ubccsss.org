@@ -9,7 +9,14 @@ images:
 categories: [Career]
 start_date: 2006-09-28T17:30:00.000Z
 end_date: 2006-09-28T18:30:00.000Z
-raw_location: Forest Sciences 1005 NOT Dempster 110 and NOT Dempster 310 as previously stated!
+location:
+  name: Forest Sciences 1005 NOT Dempster 110 and NOT Dempster 310 as previously stated!
+  address:
+    streetAddress: 2424 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/Logo_40wht.gif)Search has become one of the most important and commonplace activities on the Internet. Underneath the hood, providing high-quality search results in a fraction of a second provides a variety of challenging Computer Science problems. Such challenges include building and managing highly scalable distributed systems, developing algorithms for effective information retrieval, making use of large quantities of data for machine learning and trend detection, and designing user interfaces to provide information to users on a variety of computing devices. In this talk, we'll consider a sampling of challenges tackled at Google over the past few years, including work in scalable systems infrastructure, algorithmic developments for search, and innovative applications that been built using Google's computing platform. We'll also talk a bit about how much fun we have doing all this!

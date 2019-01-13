@@ -43,11 +43,3 @@ Formal, Bring Your Own Mask (but we can provide one if you don't have one)
 ![](/files/DSC_8366.jpg)
 
 ![](/files/DSC_9208.jpg)
-
-**When:** \
-Saturday, April 8, 2017 - 18:00
-**Where:** \
-Diamond Ballroom & Catering, 1495 W 8th Ave #4, Vancouver, BC V6H 1C9
-**Tags:** \
-[Club Activities](/club) \
-[Social(/social)

@@ -8,7 +8,14 @@ author: hybrid11
 images: []
 start_date: 2006-10-04T09:00:00.000Z
 end_date: 2006-10-05T16:00:00.000Z
-raw_location: Student Union Building (SUB)
+location:
+  name: Student Union Building (SUB)
+  address:
+    streetAddress: 6000 Student Union Blvd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z1
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 **CAREER DAYS HOSTED BY UBC CAREER SERVICES**

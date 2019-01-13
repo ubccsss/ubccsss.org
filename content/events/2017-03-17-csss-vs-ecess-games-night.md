@@ -37,19 +37,3 @@ Oh and guess what we've got... That's right. A Nintendo Switch. Come try it out,
 P.S. the Switch will be arriving around ~6 PM
 
 Facebook event: [https://www.facebook.com/events/767009466790443/](https://www.facebook.com/events/767009466790443/)
-
-
-
-When: 
-
-Friday, March 17, 2017 - 17:00 to 22:00
-
-Where: 
-
-MCLD 434
-
-Tags: 
-
-[Club Activities](/club)
-
-[Social](/social)

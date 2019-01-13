@@ -9,7 +9,14 @@ images:
   - /files/wineandcheese.gif
 start_date: 2005-11-25T18:00:00.000Z
 end_date: 2005-11-25T22:00:00.000Z
-raw_location: CS Undergrad Lounge
+location:
+  name: CS Undergrad Lounge
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/wineandcheese.gif) Who says computer science students aren't sophisticated? Coming up is the first ever **Wine and Cheese event** (And no, we're not talking about [Wine](http://www.winehq.com/), which imho, is also quite sophisticated too). Tantalize your five senses and don't miss out.

@@ -10,7 +10,7 @@ images:
 start_date: 2007-02-15T13:00:00.000Z
 end_date: 2007-02-15T14:00:00.000Z
 location:
-  name: Dempster 310
+  name: DMP 310
   address:
     streetAddress: 6245 Agronomy Rd
     addressLocality: Vancouver
@@ -24,15 +24,3 @@ location:
 You can find out more about the Imagine Cup at [http://www.imaginecup.com](http://www.imaginecup.com). Register with code "UBC" to be counted!
 
 Pizza and Pop will be provided. Please RSVP at [\[email protected\]](/cdn-cgi/l/email-protection#b7daded4c5d8c4d8d1c3f7c3dfd2d4c2d5d299d4d6) if you'll be there! :-)
-
-When: 
-
-Thursday, February 15, 2007 - 13:00 to 14:00
-
-Where: 
-
-Dempster 310
-
-Tags: 
-
-[Career](/career)

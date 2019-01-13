@@ -10,7 +10,14 @@ images:
   - /files/sunbbq.png
 start_date: 2006-09-14T12:00:00.000Z
 end_date: 2006-09-14T14:00:00.000Z
-raw_location: Outside Dempster
+location:
+  name: Outside Dempster
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/sunbbq.png)

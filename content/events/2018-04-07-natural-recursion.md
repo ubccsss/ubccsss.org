@@ -27,15 +27,3 @@ It’s the end of one year, which marks the beginning of the next. Come party wi
 Dress Code: Formal Cost: $35 per person or $30 per person if you go in a group of 4
 
 Tickets can be purchased here: [https://tickets.ubccsss.org/](https://tickets.ubccsss.org/)
-
-When: 
-
-Saturday, April 7, 2018 - 18:00 to 22:00
-
-Where: 
-
-Gallery 2.0
-
-Tags: 
-
-[Social](/social)

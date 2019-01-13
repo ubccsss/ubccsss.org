@@ -9,7 +9,14 @@ author: bertong
 images: []
 start_date: 2011-01-07T15:15:00.000Z
 end_date: 2011-01-07T17:45:00.000Z
-raw_location: UBC Thunderbird Arena
+location:
+  name: UBC Thunderbird Arena
+  address:
+    streetAddress: 6066 Thunderbird Blvd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z3
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Hey everyone,

@@ -5,7 +5,6 @@ categories: [Event]
 aliases:
   - /node/715
 author: robf
-images: []
 start_date: 2007-03-15T19:30:00.000Z
 end_date: 2007-03-15T22:00:00.000Z
 location:
@@ -76,11 +75,3 @@ Feb 28 - Mar 13 \
 Monday - Thursday 11:30-2pm
 
 If you have questions or can’t make these times, email us at [\[email protected\]](/cdn-cgi/l/email-protection#73101c1d00061f071a1d14101f061133141e121a1f5d101c1e)
-
-When: 
-
-Thursday, March 15, 2007 - 19:30 to 22:00
-
-Where: 
-
-The Vancouver Rowing Club, 450 Stanley Park Drive

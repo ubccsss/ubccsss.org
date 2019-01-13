@@ -8,7 +8,14 @@ images: []
 categories: [Career]
 start_date: 2013-01-29T16:30:00.000Z
 end_date: 2013-01-29T18:30:00.000Z
-raw_location: Concourse, Student Union Building (SUB)
+location:
+  name: Concourse, Student Union Building (SUB)
+  address:
+    streetAddress :6000 Student Union Blvd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z1
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Interested in studying in Australia? University staff from 5 Australian universities will be at event to provide information and answer any questions that you may have:

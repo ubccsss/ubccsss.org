@@ -25,17 +25,3 @@ We will be starting this Friday at 4:30pm and this week we will be showcasing th
 Have your own (multiplayer) game that you think would be cool for people to try? Feel free to bring it in and share the fun!
 
 [https://www.facebook.com/events/638525969664729/](https://www.facebook.com/events/638525969664729/)
-
-When: 
-
-Friday, March 10, 2017 - 16:30
-
-Where: 
-
-The Cube - ICICS 021
-
-Tags: 
-
-[Club Activities](/club)
-
-[Social](/social)

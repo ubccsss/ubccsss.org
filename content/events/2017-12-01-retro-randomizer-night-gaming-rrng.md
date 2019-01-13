@@ -38,15 +38,3 @@ Snacks and drinks - A bunch o' prizes - All the tools and info you'll need to ge
 
 #### WHAT YOU BRING
 A laptop (Any laptop will do!)
-
-When: 
-
-Friday, December 1, 2017 - 18:00 to 21:00
-
-Where: 
-
-DMP 301
-
-Tags: 
-
-[Social](/social)

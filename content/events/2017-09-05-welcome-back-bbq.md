@@ -25,19 +25,3 @@ location:
 Come join us for the CSSS Welcome Back BBQ for a _free lunch_ on Imagine Day!
 
 We'll be serving hot dogs right in front of ICICS. The BBQ will run as part of the CS Open House, held in the ICICS atrium area. You can find out more about CS programs (both academic and extracurricular), CS clubs, and talk to company representatives about career opportunities!
-
-When: 
-
-Tuesday, September 5, 2017 - 11:00 to 12:00
-
-Where: 
-
-Atrium Area inside ICICS (Open House); In front of ICICS, outside (BBQ)
-
-Tags: 
-
-[Club Activities](/club)
-
-[CS/Science/UBC Relations](/taxonomy/term/1)
-
-[Social](/social)

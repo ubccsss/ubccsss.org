@@ -7,7 +7,14 @@ author: atjia
 images: []
 start_date: 2006-01-12T11:30:00.000Z
 end_date: 2006-01-12T12:30:00.000Z
-raw_location: CS Ugrad Lounge
+location:
+  name: CS Ugrad Lounge
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 Come one, come all to the **second Annual general meeting** of this year! It's a great time to come out, possibly enjoy some refreshments put out (to entice you to come), and share your thoughts and opinions on the coming term.

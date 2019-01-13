@@ -9,7 +9,14 @@ author: Christopher Head
 images: []
 start_date: 2009-10-08T11:00:00.000Z
 end_date: 2009-10-08T14:00:00.000Z
-raw_location: Outside of Dempster
+location:
+  name: Outside of Dempster
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 CSSS is holding a BBQ. Everyone is invited to join the fun!

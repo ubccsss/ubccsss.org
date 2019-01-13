@@ -9,7 +9,14 @@ categories: [Career]
 tags: [Tri-Mentoring]
 start_date: 2007-10-02T17:00:00.000Z
 end_date: 2007-10-02T19:30:00.000Z
-raw_location: SUB Party Room, 2nd floor
+location:
+  name: SUB Party Room
+  address:
+    streetAddress: 6000 Student Union Blvd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z1
+    addressRegion: BC
+    addressCountry: CA, 2nd floor
 ---
 
 If you're interested in having a chance to meet and network with CS experts from **Microsoft, IBM, Apple, EA, and Business Objects**, then you should come join us in volunteering for the 2007/08 Tri-mentoring Kick-off event.

@@ -10,7 +10,14 @@ images:
   - /files/BeerGarden_image.jpg
 start_date: 2006-02-03T15:00:00.000Z
 end_date: 2006-02-03T19:00:00.000Z
-raw_location: CS Ugrad Lounge
+location:
+  name: CS Ugrad Lounge
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 ![](/files/BeerGarden_image.jpg)This Friday come to the 2nd CSSS BBQ and Bzzr Garden from 4 - 8pm in the X-wing Lounge! This one will be even better than the last one, with a better tap system so that hopefully there won't be any lines. We'll be serving Granville Island, like last time. Come for great food, tasty drinks and good company!

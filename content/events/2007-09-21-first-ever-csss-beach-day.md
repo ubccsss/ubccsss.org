@@ -9,7 +9,14 @@ images:
   - /files/beach.jpg
 start_date: 2006-09-22T14:00:00.000Z
 end_date: 2006-09-22T23:59:00.000Z
-raw_location: Somewhere where the land meets the sea...
+location:
+  name: Somewhere where the land meets the sea...
+  address:
+    streetAddress: 4800 NW Marine Dr
+    addressLocality: Vancouver
+    postalCode: V6T 1A8
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 **This event has been canceled due to a gloomy weather forecast tomorrow. Sorry for the inconvenience. :-(**

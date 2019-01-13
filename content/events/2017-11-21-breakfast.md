@@ -23,11 +23,3 @@ location:
 ![](/files/Cube%20Breakfast%202.jpg)
 
 It’s tough to balance sleep and classes, so breakfast can get lost in the mix. The CSSS is here to help, with some FREE breakfast! Come by for a refuel, and a chance to hang out and meet some friends.
-
-When: 
-
-Tuesday, November 21, 2017 - 09:00 to 11:00
-
-Where: 
-
-The Cube (ICICS 021)

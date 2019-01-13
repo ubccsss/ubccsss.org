@@ -9,7 +9,14 @@ author: jlo
 images: []
 start_date: 2008-01-24T17:30:00.000Z
 end_date: 2008-01-24T19:30:00.000Z
-raw_location: UBC DMP 110
+location:
+  name: UBC DMP 110
+  address:
+    streetAddress: 6245 Agronomy Rd
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 What can you do with your bachelor's, master's, or Ph.D degree in Computer Science?
