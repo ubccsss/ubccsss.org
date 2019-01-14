@@ -4,7 +4,7 @@
 
     <div class="card-deck row mb-2">
         {{ range $recentEvents }}
-        {{ partial "event-card" . }}
+        {{ partial "event/event-card" . }}
         {{ end }}
     </div>
     <header>
@@ -14,7 +14,7 @@
     <section>
         {{ .Content }}
 
-        {{ partial "3d-cube" . }}
+        {{ partial "home/3d-cube" . }}
     </section>
 
     <div class="row">
@@ -30,10 +30,10 @@
             {{ end }}
             {{ end }}
 
-            {{ partial "simple-paginator" . }}
+            {{ partial "home/simple-paginator" . }}
         </div>
 
-        {{ partial "sidebar.html" . }}
+        {{ partial "sidebar" . }}
     </div>
 </div>
 {{ end }}

@@ -82,4 +82,17 @@ prices:
 
 Pay by putting money in the money jar.
 
-Online at [https://ubccsss.org/club/prices](https://ubccsss.org/club/prices).
+Online at https://ubccsss.org/club/prices.
+
+<div class="row">
+    <div class="col-md-6 col-xs-6">
+        <h2>Snacks</h2>
+        {{< prices "prices" "snacks" >}}
+    </div>
+    <div class="col-md-6 col-xs-6">
+        <h2>Meals</h2>
+        {{< prices "prices" "meals" >}}
+        <h2>Drinks</h2>
+        {{< prices "prices" "drinks" >}}
+    </div>
+</div>

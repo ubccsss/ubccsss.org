@@ -38,7 +38,7 @@ Outside the X-wing next to Dempster
 
 File Attachments: 
 
- ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [BBQ Poster.pdf](https://ubccsss.org/files/BBQ%20Poster.pdf)
+ ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [BBQ Poster.pdf](/files/BBQ%20Poster.pdf)
 
 Tags: 
 

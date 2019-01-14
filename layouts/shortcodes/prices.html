@@ -6,7 +6,9 @@
         </tr>
     </thead>
     <tbody>
-        {{ range . }}
+        {{ $items := $.Page.Params }}
+        {{ range .Params }}{{ $items = index $items . }}{{ end }}
+        {{ range $items }}
         <tr>
             <td>{{ .item }}</td>
             <td>{{ .price }}</td>

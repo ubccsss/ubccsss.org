@@ -7,8 +7,8 @@
     </header>
     {{ .Content }}
     <div class="small">
-        {{ partial "post-when.html" . }}
-        {{ partial "post-where.html" . }}
+        {{ partial "event/when" . }}
+        {{ partial "event/where" . }}
     </div>
-    {{ partial "add-to-calendar" . }}
+    {{ partial "event/add-to-calendar" . }}
 </article>

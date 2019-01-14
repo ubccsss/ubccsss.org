@@ -4,7 +4,7 @@
         <div class="row w-100">
             <div class="col-12 col-md">
                 <img class="mb-2" src="/logo-mono.svg" alt="" width="26.3" height="31">
-                <small class="d-block mb-3 text-muted">{{ .Site.Copyright }}</small>
+                <small class="d-block mb-3 text-light">{{ .Site.Copyright }}</small>
             </div>
             {{ range .Site.Data.footer }}
             <div class="col-6 col-md">
@@ -12,14 +12,14 @@
                 <ul class="list-unstyled text-small">
                     {{ range .items }}
                     {{ with $.GetPage . }}
-                    <li><a class="text-muted" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                    <li><a class="text-light" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
                     {{ end }}
                     {{ end }}
                 </ul>
             </div>
             {{ end }}
             <div class="col-12 col-md small">
-                {{ i18n "cubeAddress" | markdownify }}
+                <address>{{ i18n "cubeAddress" | markdownify }}</address>
 
                 <p>
                     <hr>

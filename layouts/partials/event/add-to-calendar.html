@@ -6,8 +6,8 @@
 action=TEMPLATE
 &{{ querify "text" .Title "details" $details "dates" $dates | safeURL }}
 &ctz=Canada/Pacific
-&location={{ partial "address.html" . | safeURL }}
+&location={{ partial "event/address" . | safeURL }}
 &trp=false
 &sprop=
 &sprop=name:'
-target="_blank" rel="nofollow">{{ i18n "addToCalendar" }}</a>
+target="_blank" rel="noopener">{{ i18n "addToCalendar" }}</a>

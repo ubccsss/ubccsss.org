@@ -1,5 +1,7 @@
-<link href="/css/3d-cube.css" rel="stylesheet">
-<script async defer src="/js/3d-cube.js"></script>
+{{ $style := resources.Get "css/3d-cube.css" | resources.Minify }}
+{{ $script := resources.Get "js/3d-cube.js" | resources.Minify }}
+<link href="{{ $style.RelPermalink }}" rel="stylesheet">
+<script async defer src="{{ $script.RelPermalink }}"></script>
 <div class="scene">
     <div class="cube">
         {{ $cube := .Site.Data.home_cube }}

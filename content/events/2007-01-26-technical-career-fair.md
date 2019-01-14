@@ -30,7 +30,7 @@ SUB Ballroom
 
 File Attachments: 
 
- ![Image icon](/modules/file/icons/image-x-generic.svg "image/jpeg") [FinalPosterSmaller.JPG](https://ubccsss.org/files/FinalPosterSmaller.JPG)
+ ![Image icon](/modules/file/icons/image-x-generic.svg "image/jpeg") [FinalPosterSmaller.JPG](/files/FinalPosterSmaller.JPG)
 
 Tags: 
 
