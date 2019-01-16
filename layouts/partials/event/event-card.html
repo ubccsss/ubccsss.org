@@ -4,10 +4,10 @@
     {{ if gt (len .Params.images) 0 }}<img class="card-img-top" src="{{ (index .Params.images 0) }}">{{ end }}
     {{ end }}
     <div class="card-body">
-        <h5 class="mb-0">
+        <h5 class="card-title">
             <a class="text-dark" href="{{ .RelPermalink }}">{{ .Title }}</a>
         </h5>
-        <p class="mb-1 text-muted">{{ dateFormat "Mon Jan 2, 2006" $startDate }}</p>
-        <p class="card-text mb-auto">{{ .Params.where }}</p>
+        <p class="card-text mb-1 text-muted">{{ dateFormat "Mon Jan 2, 2006" $startDate }}</p>
+        <p class="card-text small mb-auto">{{ partial "event/address" . }}</p>
     </div>
 </div>

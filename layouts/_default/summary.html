@@ -11,10 +11,4 @@
     <p></p>
     <a href="{{ .RelPermalink }}">{{ i18n "readMore" }}</a>
     {{ end }}
-    <div>
-        {{ partial "event/when" . }}
-        {{ partial "event/where" . }}
-    </div>
-
-    {{ partial "event/add-to-calendar" . }}
 </article>
