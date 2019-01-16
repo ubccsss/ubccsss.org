@@ -17,8 +17,8 @@
                 <li>{{ i18n "availability" . | markdownify }}</li>
                 <li>{{ i18n "rates" . | markdownify }}</li>
                 <li>{{ i18n "lastUpdated" }}{{ dateFormat "Jan 2 2006" .lastmod }}</li>
-                <li>{{ i18n "bio" . | markdownify }}</li>
             </ul>
+            <p class="card-text">{{ .bio | markdownify }}</p>
             <a href="mailto:{{ .email }}" class="btn btn-info btn-sm">{{ i18n "emailTutor" . }}</a>
         </div>
     </div>

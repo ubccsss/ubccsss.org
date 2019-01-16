@@ -44,8 +44,5 @@
 - id: rates
   translation: "Rates: {{ .rates }}"
 
-- id: bio
-  translation: "Bio: {{ .bio }}"
-
 - id: emailTutor
   translation: "Email {{ .email }}"

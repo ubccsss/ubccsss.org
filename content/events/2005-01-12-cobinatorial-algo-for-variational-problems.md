@@ -33,7 +33,3 @@ Thursday, January 12, 2006 - 15:00 to 16:30
 Where: 
 
 DMP 310
-
-Tags: 
-
-[Career](/career)

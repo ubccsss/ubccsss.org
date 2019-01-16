@@ -35,56 +35,56 @@ Hosted jointly by UBC Computer Science Student Society - CSSS, UBC IEEE, Cogniti
 COMPANIES:
 ----------
 
-👉 A Thinking Ape Entertainment Ltd.
-👉 Absolute Software
-👉 Amazon
-👉 Aquatic Informatics Inc.
-👉 Arista Networks
-👉 Avigilon
-👉 Benevity Inc.
-👉 Broadridge Financial Solutions Inc.
-👉 Canadian Forest Products Ltd.
-👉 Capital One
-👉 Clio
-👉 Communications Security Establishment
-👉 Copperleaf
-👉 CPP Investment Board
-👉 D2L Corporation
-👉 Deloitte
-👉 Delta Controls
-👉 Double Negative Canada Productions Ltd.
-👉 East Side Games Inc.
-👉 Finger Food Studios
-👉 Fortinet Technologies
-👉 Global Relay
-👉 Go2mobi
-👉 Groundswell Cloud Solutions
-👉 HERE Canada Inc.
-👉 Hootsuite
-👉 Intel of Canada
-👉 Konrad Group
-👉 Microsemi
-👉 Microsoft
-👉 Motion Metrics International Corp
-👉 NetApp
-👉 New Hippo Health
-👉 Orbis Investments (Canada) Ltd.
-👉 Ping Identity
-👉 PNI Digital Media
-👉 Realtor.com
-👉 RedMane Technology Canada
-👉 Relic Entertainment
-👉 Safe Software Inc.
-👉 Samsung R &amp; D Canada
-👉 SAP
-👉 Simba Technologies
-👉 SMART Technologies
-👉 Tableau Software
-👉 Tasktop Technologies
-👉 Vigilant - a DRW Company
-👉 Visier
-👉 Yelp
-👉 Zenefits
+👉 A Thinking Ape Entertainment Ltd. \
+👉 Absolute Software \
+👉 Amazon \
+👉 Aquatic Informatics Inc. \
+👉 Arista Networks \
+👉 Avigilon \
+👉 Benevity Inc. \
+👉 Broadridge Financial Solutions Inc. \
+👉 Canadian Forest Products Ltd. \
+👉 Capital One \
+👉 Clio \
+👉 Communications Security Establishment \
+👉 Copperleaf \
+👉 CPP Investment Board \
+👉 D2L Corporation \
+👉 Deloitte \
+👉 Delta Controls \
+👉 Double Negative Canada Productions Ltd. \
+👉 East Side Games Inc. \
+👉 Finger Food Studios \
+👉 Fortinet Technologies \
+👉 Global Relay \
+👉 Go2mobi \
+👉 Groundswell Cloud Solutions \
+👉 HERE Canada Inc. \
+👉 Hootsuite \
+👉 Intel of Canada \
+👉 Konrad Group \
+👉 Microsemi \
+👉 Microsoft \
+👉 Motion Metrics International Corp \
+👉 NetApp \
+👉 New Hippo Health \
+👉 Orbis Investments (Canada) Ltd. \
+👉 Ping Identity \
+👉 PNI Digital Media \
+👉 Realtor.com \
+👉 RedMane Technology Canada \
+👉 Relic Entertainment \
+👉 Safe Software Inc. \
+👉 Samsung R & D Canada \
+👉 SAP \
+👉 Simba Technologies \
+👉 SMART Technologies \
+👉 Tableau Software \
+👉 Tasktop Technologies \
+👉 Vigilant - a DRW Company \
+👉 Visier \
+👉 Yelp \
+👉 Zenefits \
 
 ***
 
