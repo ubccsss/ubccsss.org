@@ -6,10 +6,16 @@ tags: [BBQ]
 aliases:
   - /node/1554
 author: Tristan Rice
-images: []
 start_date: 2016-09-06T10:30:00.000Z
 end_date: 2016-09-06T12:30:00.000Z
-raw_location: Atrium Area, West Wing, CS/ICCS Building
+location:
+  name: Atrium Area, West Wing, CS/ICCS Building
+  address:
+    streetAddress: 2366 Main Mall
+    addressLocality: Vancouver
+    postalCode: V6T 1Z4
+    addressRegion: BC
+    addressCountry: CA
 ---
 
 [See Facebook for more info!](https://www.facebook.com/events/175531906214466/)
@@ -29,21 +35,3 @@ Description: Come by and visit us anytime between 10:30 am and 12:30 pm:
 *   Speak with company representatives from Amazon, A Thinking Ape and HootSuite. Learn about career opportunities at these companies and what it’s like to work there. Bring your resume along and get some quick “first impressions” resume feedback from them.
 *   Enjoy a free bbq lunch, courtesy of the department and the CSSS. Food served between 11 am and noon.
 *   Prize draw at noon for $50 Starbucks gift cards. You must be there in person to win!
-
-When: 
-
-Tuesday, September 6, 2016 - 10:30 to 12:30
-
-Where: 
-
-Atrium Area, West Wing, CS/ICCS Building
-
-Tags: 
-
-[Club Activities](/club)
-
-[Volunteer](/club/volunteer)
-
-[CS/Science/UBC Relations](/taxonomy/term/1)
-
-[Social](/social)
