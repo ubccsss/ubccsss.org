@@ -1,5 +1,4 @@
-# baseURL: "https://ubccsss.org/"
-baseURL: "https://ubc-csss.netlify.com/"
+baseURL: "https://ubccsss.org/"
 languageCode: "en-ca"
 title: UBC CSSS
 theme: hugo-bootstrap

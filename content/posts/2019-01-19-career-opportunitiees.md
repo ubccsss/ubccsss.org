@@ -2,6 +2,8 @@
 title: Career and Survey Opportunities
 categories: [Career]
 author: Tiger Oakes
+aliases:
+  - /content/career-and-survey-opportunities
 ---
 
 ### Battlesnake

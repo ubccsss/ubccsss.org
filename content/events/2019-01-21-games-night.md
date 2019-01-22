@@ -5,6 +5,8 @@ end_date: 2019-01-25T21:30:00
 categories: [Event]
 tags: [Game Night]
 author: Tiger Oakes
+aliases:
+  - /content/csss-x-ecess-video-games-board-games
 location:
   name: MacLeod 434
   address:
