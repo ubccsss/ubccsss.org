@@ -7,7 +7,7 @@ aliases:
 Subscribe to find out about upcoming events and opportunities for the Computer Science Student Society and the Computer Science Department!
 
 <!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<link href="https://cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <div id="mc_embed_signup">
     <form action="https://ubccsss.us19.list-manage.com/subscribe/post?u=2342b0212ce082aa126eb9720&amp;id=381240dfe6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
