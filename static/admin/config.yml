@@ -10,65 +10,172 @@ display_url: https://ubccsss.org
 logo_url: /logo.svg
 
 collections: # A list of collections the CMS should be able to edit
+  - name: events
+    label: Events
+    label_singular: Event
+    folder: "content/events"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Author, name: author, widget: string}
+      - {label: "Publish Date", name: date, widget: date}
+      - {label: Categories, name: categories, widget: hidden, default: [Event]}
+      - label: Tags
+        name: tags
+        widget: list
+        field:
+          label: Tag
+          name: tag
+          widget: select
+          required: false
+          options: [
+            BBQ, Care Package, Career, Free Breakfast, Game Night,
+            Grad Photos, IT Night, Lazer Tag, Mixer, Movie Night,
+            Semi-Annual General Meeting, Sports, Talk, Technical Career Fair, Townhall,
+            Trivia, Workshop, Year-End Gala
+          ]
+      - {label: "Event Start Date", name: "start_date", widget: "datetime"}
+      - {label: "Event End Date", name: "end_date", widget: "datetime"}
+      - {label: Location, name: location, widget: object, fields: [
+          {label: Name, name: name, widget: string, default: 'The Cube'},
+          {label: Address, name: address, widget: object, fields: [
+            {label: "Street Address", name: streetAddress, widget: string, default: '2366 Main Mall'},
+            {label: "City", name: addressLocality, widget: string, default: 'Vancouver'},
+            {label: "Postal Code", name: postalCode, widget: string, default: 'V6T 1Z4'},
+            {label: "Province", name: addressRegion, widget: string, default: 'BC'},
+            {label: "Country", name: addressCountry, widget: string, default: 'CA'}]}]}
+      - {label: Images, name: images, widget: list, required: false, field: [
+          {label: Image, name: image, widget: image}]}
+      - {label: Body, name: body, widget: markdown}
+
   - name: post # Used in routes, ie.: /admin/collections/:slug/edit
     label: Posts # Used in the UI, ie.: "New Post"
     label_singular: Post # Used in the UI, ie.: "New Post"
     folder: "content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Author", name: "author", widget: "string"}
+      - {label: Title, name: title, widget: string}
+      - {label: Author, name: author, widget: string}
       - {label: "Publish Date", name: date, widget: date}
-      - {label: Categories, name: categories, widget: list, required: false}
-      - {label: Tags, name: tags, widget: list, required: false}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: Images, name: images, widget: list, required: false, fields: [
-          {label: Image, name: image, widget: image}]}
-      - {label: "Body", name: "body", widget: "markdown"}
-
-  - name: event
-    label: Events
-    label_singular: Event
-    folder: "content/events"
-    create: true
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Author", name: "author", widget: "string"}
-      - {label: "Publish Date", name: date, widget: date}
-      - {label: "Event Start Date", name: "start_date", widget: "datetime"}
-      - {label: "Event End Date", name: "end_date", widget: "datetime"}
-      - {label: "Blurb", name: "description", widget: "text"}
-      - {label: Location, name: location, widget: object, fields: [
-          {label: Name, name: name, widget: string, default: 'The Cube'},
-          {label: Address, name: address, widget: object, fields: [
-            {label: "Street Address", name: streetAddress, widget: string},
-            {label: "City", name: addressLocality, widget: string, default: 'Vancouver'},
-            {label: "Postal Code", name: postalCode, widget: string, default: 'V6T 1Z4'},
-            {label: "Province", name: addressRegion, widget: string, default: 'BC'},
-            {label: "Country", name: addressCountry, widget: string, default: 'CA'}]}]}
-      - {label: Images, name: images, widget: list, required: false, fields: [
+      - label: Categories
+        name: categories
+        widget: list
+        required: false
+        field:
+          label: Category
+          name: category
+          widget: select
+          options: [Career, Elections, Hackathon, Services]
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+        field:
+          label: Tag
+          name: tag
+          widget: select
+          options: [
+            Career, Club Activities, Merch, Resume,
+            Social, Tri-Mentoring, Tutor, Volunteer
+          ]
+      - {label: Images, name: images, widget: list, required: false, field: [
           {label: Image, name: image, widget: image}]}
       - {label: Body, name: body, widget: markdown}
-
-  - name: post
-    label: Career posts
-    label_singular: Career post
-    folder: "content/career"
-    create: true
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Author", name: "author", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "date"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: Images, name: images, widget: list, required: false, fields: [
-          {label: Image, name: image, widget: image}]}
-      - {label: "Body", name: "body", widget: "markdown"}
 
   - name: pages
     label: Pages
     files:
       - file: "content/_index.md"
         label: "Home Page"
-        name: "home"
+        name: home
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - file: "content/volunteer/_index.md"
+        label: Volunteer
+        name: volunteer
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+
+      - file: "content/contact/_index.md"
+        label: Contact Us
+        name: contact
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - file: "content/contact/email-newsletter.md"
+        label: Email List
+        name: email
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - file: "content/contact/suggestions-box.md"
+        label: Suggestions Box
+        name: email
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+
+      - file: "content/cube/_index.md"
+        label: The Cube
+        name: cube
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - file: "content/cube/location.md"
+        label: Location
+        name: location
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - file: "content/cube/lockers.md"
+        label: Lockers
+        name: lockers
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+          - {label: "Update Date", name: date, widget: date}
+      - file: "content/cube/printer.md"
+        label: Printer
+        name: printer
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - file: "content/cube/menu.md"
+        label: Food Prices
+        name: menu
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Update Date", name: date, widget: date}
+          - {label: Prices, name: prices, widget: object, fields: [
+              {label: Snacks, name: snacks, widget: list, fields: [
+                {label: Item, name: item, widget: string},
+                {label: Price, name: price, widget: string}]}
+              {label: Meals, name: meals, widget: list, fields: [
+                {label: Item, name: item, widget: string},
+                {label: Price, name: price, widget: string}]}
+              {label: Drinks, name: drinks, widget: list, fields: [
+                {label: Item, name: item, widget: string},
+                {label: Price, name: price, widget: string}]}
+            ]}
+          - {label: Body, name: body, widget: markdown}
+
+      - file: "content/about/_index.md"
+        label: About
+        name: about
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - file: "content/about/constitution.md"
+        label: Constitution
+        name: constitution
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - file: "content/about/minutes/_index.md"
+        label: Meeting Minutes
+        name: minutes
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}

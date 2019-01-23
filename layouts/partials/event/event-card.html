@@ -8,6 +8,8 @@
             <a class="text-dark" href="{{ .RelPermalink }}">{{ .Title }}</a>
         </h5>
         <p class="card-text mb-1 text-muted">{{ dateFormat "Mon Jan 2, 2006" $startDate }}</p>
-        <p class="card-text small mb-auto">{{ partial "event/address" . }}</p>
+        {{ with .Params.location }}
+        <p class="card-text small mb-auto">{{ .name }}</p>
+        {{ end }}
     </div>
 </div>

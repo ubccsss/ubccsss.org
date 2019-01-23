@@ -1,6 +1,5 @@
 ---
 title: Constitution
-date: 2016-03-17
 aliases:
   - /club/about/constitution
 ---
