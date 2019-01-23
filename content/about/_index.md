@@ -52,10 +52,8 @@ pirates.
 
 ### Where is the CSSS lounge?
 
-You can find us in ICICS 021, which is just down the stairs from the front door
+You can find us in [ICICS 021](/cube/location/), which is just down the stairs from the front door
 of ICICS/CS, right, and at the end of the hallway by the undergraduate labs.
-
-[View Map](https://campus.fn.lc/#ICCS+021)
 
 ### How do I find out about CSSS events?
 

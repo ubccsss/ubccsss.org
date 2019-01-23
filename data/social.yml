@@ -12,6 +12,9 @@
 - title: Reddit
   icon: /modules/reddit.svg
   link: https://reddit.com/r/ubccsss
+- title: GitHub
+  icon: /modules/github.svg
+  link: https://github.com/ubccsss
 - title: Mailing List
   icon: /modules/mail.svg
   link: /subscribe
