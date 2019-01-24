@@ -2,4 +2,4 @@
     X-Frame-Options: DENY
     X-XSS-Protection: 1; mode=block
     X-Content-Type-Options: nosniff
-    Content-Security-Policy-Report-Only: default-src https:; frame-ancestors 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn-images.mailchimp.com https://stackpath.bootstrapcdn.com; script-src 'self' 'sha256-0C75CFC2C2B4B14074E02A71FE9F5545C6361D7651442C5913D193A7A420CE8A' https://www.google-analytics.com https://code.jquery.com/ https://cdnjs.cloudflare.com https://stackpath.bootstrapcdn.com; font-src https://fonts.gstatic.com; frame-src https://docs.google.com https://campus.fn.lc
+    Content-Security-Policy-Report-Only: default-src https:; frame-ancestors 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn-images.mailchimp.com https://stackpath.bootstrapcdn.com; script-src 'self' 'sha256-DHXPwsK0sUB04Cpx/p9VRcY2HXZRRCxZE9GTp6Qgzoo=' https://www.google-analytics.com https://code.jquery.com/ https://cdnjs.cloudflare.com https://stackpath.bootstrapcdn.com; font-src https://fonts.gstatic.com; frame-src https://docs.google.com https://campus.fn.lc
