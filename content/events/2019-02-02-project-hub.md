@@ -30,8 +30,6 @@ Meetings will occur biweekly and will consist of a 30-90 minute talk or workshop
 
 The first meeting will feature an Intro to Machine Learning workshop, open to everyone of all skill levels 🤖 We hope to see you there!
 
-📩 Bring your resume! 📩
-
 ---
 
 Check out our [Facebook event](https://www.facebook.com/events/753797034986865/) for more info!
