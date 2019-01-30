@@ -4,7 +4,7 @@ date: 2018-02-02
 start_date: 2019-02-02T15:30:00.000Z
 end_date: 2019-02-02T18:30:00.000Z
 categories: [Event]
-tags: [Project Hub]
+tags: [Project Hub, Career, Networking, Workshop]
 aliases:
   - /content/project-hub
 author: Hai Lin Zhang
@@ -17,10 +17,10 @@ location:
     addressRegion: BC
     addressCountry: CA
 images:
-  - /files/career-hub.jpg
+  - /files/project-hub.jpg
 ---
 
-![](/files/career-hub.jpg)
+![](/files/project-hub.jpg)
 
 Interested in learning a new technology? 
 
