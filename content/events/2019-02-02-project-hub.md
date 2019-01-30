@@ -1,6 +1,6 @@
 ---
 title: "LP x CSSS: Project Hub ft. Intro to Machine Learning"
-date: 2018-01-29
+date: 2019-01-29
 start_date: 2019-02-02T15:30:00.000Z
 end_date: 2019-02-02T18:30:00.000Z
 categories: [Event]
