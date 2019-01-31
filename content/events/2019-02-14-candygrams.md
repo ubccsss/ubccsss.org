@@ -18,7 +18,7 @@ images:
   - /files/candygrams_2019.jpg
 ---
 
-![](/files/candygrams.jpg)
+![](/files/candygrams_2019.jpg)
 
 Love is in the air! ♥ Whether it's a special someone or a really good friend, we all have someone we would like to show our appreciation to. The UBC CSSS will help you do just that by delivering candygrams filled with yummy chocolates and candies on Valentine's Day to these special people.
 
