@@ -15,7 +15,7 @@ location:
     addressRegion: BC
     addressCountry: CA
 images:
-  - /files/project-hub.jpg
+  - /files/candygrams_2019.jpg
 ---
 
 ![](/files/candygrams.jpg)
