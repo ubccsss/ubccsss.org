@@ -4,10 +4,10 @@ date: 2019-01-30
 start_date: 2019-02-14T00:00:00.000Z
 end_date: 2019-02-14T23:59:00.000Z
 categories: [Event]
-tags: [Candygrams]
+tags: [Care Package]
 author: Hai Lin Zhang
 location:
-  name: ICICS 021
+  name: The Cube (ICICS 021)
   address:
     streetAddress: 2366 Main Mall
     addressLocality: Vancouver
@@ -15,7 +15,7 @@ location:
     addressRegion: BC
     addressCountry: CA
 images:
-  - /files/candygrams_2019.jpg
+  - /files/candygrams_2019.svg
 ---
 
 ![](/files/candygrams_2019.jpg)
