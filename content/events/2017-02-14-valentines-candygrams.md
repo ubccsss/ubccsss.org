@@ -8,8 +8,8 @@ aliases:
 author: Tristan Rice
 images:
   - /files/UPPERBOUNDLOVE.jpg
-start_date: 2017-02-14T08:00:00.000Z
-end_date: 2017-02-14T18:00:00.000Z
+start_date: 2017-02-14 08:00:00
+end_date: 2017-02-14 18:00:00
 ---
 
 [![](/files/UPPERBOUNDLOVE.jpg)](https://ubccsss.org/candygrams)

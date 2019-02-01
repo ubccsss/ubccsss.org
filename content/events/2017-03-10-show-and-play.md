@@ -6,8 +6,8 @@ tags: [Game Night]
 aliases:
   - /content/cube-friday-show-and-play
 author: Tristan Rice
-start_date: 2017-03-10T16:30:00.000Z
-end_date: 2017-03-10T18:00:00.000Z
+start_date: 2017-03-10 16:30:00
+end_date: 2017-03-10 18:00:00
 location:
   name: The Cube (ICICS 021)
   address:

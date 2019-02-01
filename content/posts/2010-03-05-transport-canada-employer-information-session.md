@@ -1,13 +1,13 @@
 ---
 title: "Transport Canada employer information session"
-date: 2010-03-05T22:43:00.000Z
+date: 2010-03-05 22:43:00
 aliases:
   - /node/1333
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2010-03-16T16:00:00.000Z
-end_date: 2010-03-16T18:00:00.000Z
+start_date: 2010-03-16 16:00:00
+end_date: 2010-03-16 18:00:00
 raw_location: Hennings 201
 ---
 

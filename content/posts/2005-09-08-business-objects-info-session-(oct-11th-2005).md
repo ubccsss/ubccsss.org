@@ -1,13 +1,13 @@
 ---
 title: "Business Objects Info Session (Oct 11th, 2005)"
-date: 2005-09-08T17:57:00.000Z
+date: 2005-09-08 17:57:00
 aliases:
   - /node/50
 author: arothbart
 images: []
 categories: [Career]
-start_date: 2005-10-11T17:30:00.000Z
-end_date: 2005-10-11T19:30:00.000Z
+start_date: 2005-10-11 17:30:00
+end_date: 2005-10-11 19:30:00
 raw_location: Wesbrook Room 100
 ---
 

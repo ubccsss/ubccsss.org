@@ -1,6 +1,6 @@
 ---
 title: "Modeling and Learning in Multimedia and Speech Processing: Industrial and Academic Perspectives"
-date: 2007-10-29T21:51:00.000Z
+date: 2007-10-29 21:51:00
 aliases:
   - /node/1012
 author: atjia

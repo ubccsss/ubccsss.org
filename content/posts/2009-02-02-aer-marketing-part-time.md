@@ -1,6 +1,6 @@
 ---
 title: "Aer Marketing Inc: Part-time Position"
-date: 2009-02-02T18:07:00.000Z
+date: 2009-02-02 18:07:00
 aliases:
   - /node/1195
 author: Christopher Head

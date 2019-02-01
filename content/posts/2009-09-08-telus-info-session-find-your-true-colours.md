@@ -1,13 +1,13 @@
 ---
 title: "TELUS INFO SESSION - Find your true colours"
-date: 2009-09-09T06:34:00.000Z
+date: 2009-09-09 06:34:00
 aliases:
   - /node/1248
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2009-09-09T17:30:00.000Z
-end_date: 2009-09-09T19:30:00.000Z
+start_date: 2009-09-09 17:30:00
+end_date: 2009-09-09 19:30:00
 raw_location: Wesbrook 100
 ---
 

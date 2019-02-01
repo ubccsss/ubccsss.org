@@ -1,6 +1,6 @@
 ---
 title: "ACM ICPC Tryouts"
-date: 2012-09-20T02:58:00.000Z
+date: 2012-09-20 02:58:00
 aliases:
   - /node/1488
   - /node/1487
@@ -8,8 +8,8 @@ author: Christopher Head
 images: []
 tags: [Social]
 categories: [Career]
-start_date: 2012-09-29T12:00:00.000Z
-end_date: 2012-09-29T17:00:00.000Z
+start_date: 2012-09-29 12:00:00
+end_date: 2012-09-29 17:00:00
 location:
   name: ICICS 005/011
   address:

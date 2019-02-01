@@ -1,6 +1,6 @@
 ---
 title: "Reading Room Orientation Session"
-date: 2009-09-05T06:32:00.000Z
+date: 2009-09-05 06:32:00
 aliases:
   - /node/1249
   - /node/1250

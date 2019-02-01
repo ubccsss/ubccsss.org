@@ -1,6 +1,6 @@
 ---
 title: "General Meeting"
-date: 2008-12-15T02:43:00.000Z
+date: 2008-12-15 02:43:00
 aliases:
   - /node/1102
 author: Christopher Head

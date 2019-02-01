@@ -1,6 +1,6 @@
 ---
 title: "Come and Volunteer at GIRLsmarts"
-date: 2012-10-22T05:54:00.000Z
+date: 2012-10-22 05:54:00
 type: page
 aliases:
   - /node/595

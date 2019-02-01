@@ -1,6 +1,6 @@
 ---
 title: "Searching for an internship? Just Google it."
-date: 2008-01-17T02:37:00.000Z
+date: 2008-01-17 02:37:00
 type: page
 aliases:
   - /node/1027

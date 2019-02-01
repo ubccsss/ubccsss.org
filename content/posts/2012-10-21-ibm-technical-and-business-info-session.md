@@ -1,14 +1,14 @@
 ---
 title: "IBM Technical and Business Info Session"
-date: 2012-10-22T05:24:00.000Z
+date: 2012-10-22 05:24:00
 aliases:
   - /node/486
 author: jlo
 images:
   - /files/ibm%20logo.jpg
 categories: [Career]
-start_date: 2006-09-27T17:30:00.000Z
-end_date: 2006-09-27T19:30:00.000Z
+start_date: 2006-09-27 17:30:00
+end_date: 2006-09-27 19:30:00
 raw_location: Wesbrook 100 (the white building across UBC Bookstore)
 ---
 

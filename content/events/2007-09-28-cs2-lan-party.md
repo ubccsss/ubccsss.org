@@ -7,8 +7,8 @@ aliases:
   - /node/989
 author: Christopher Head
 images: []
-start_date: 2007-09-28T18:00:00.000Z
-end_date: 2007-09-28T23:59:00.000Z
+start_date: 2007-09-28 18:00:00
+end_date: 2007-09-28 23:59:00
 location:
   name: ICICS X-wing Lounge
   address:

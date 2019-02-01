@@ -1,12 +1,12 @@
 ---
 title: "Crash Course for Careers"
-date: 2010-04-24T00:01:00.000Z
+date: 2010-04-24 00:01:00
 aliases:
   - /node/1355
 author: Christopher Head
 images: []
-start_date: 2010-05-06T08:30:00.000Z
-end_date: 2010-05-06T17:00:00.000Z
+start_date: 2010-05-06 08:30:00
+end_date: 2010-05-06 17:00:00
 raw_location: Lillooet Room, Irving K. Barber Learning Centre
 categories: [Career]
 tags: [Resume]

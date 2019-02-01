@@ -1,6 +1,6 @@
 ---
 title: "Season's Greetings"
-date: 2012-10-22T05:43:00.000Z
+date: 2012-10-22 05:43:00
 aliases:
   - /node/351
 author: Christopher Head

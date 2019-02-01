@@ -7,8 +7,8 @@ aliases:
   - /node/1514
 author: Christopher Head
 images: []
-start_date: 2013-01-30T10:00:00.000Z
-end_date: 2013-01-30T16:00:00.000Z
+start_date: 2013-01-30 10:00:00
+end_date: 2013-01-30 16:00:00
 location:
   name: Life Sciences Institute, west atrium
   address:

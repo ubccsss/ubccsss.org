@@ -7,8 +7,8 @@ aliases:
   - /node/1026
 author: jlo
 images: []
-start_date: 2008-01-24T17:30:00.000Z
-end_date: 2008-01-24T19:30:00.000Z
+start_date: 2008-01-24 17:30:00
+end_date: 2008-01-24 19:30:00
 location:
   name: UBC DMP 110
   address:

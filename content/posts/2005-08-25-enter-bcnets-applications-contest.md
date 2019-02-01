@@ -1,6 +1,6 @@
 ---
 title: "Enter BCNET's Applications Contest"
-date: 2005-08-25T07:18:00.000Z
+date: 2005-08-25 07:18:00
 aliases:
   - /node/33
 author: atjia

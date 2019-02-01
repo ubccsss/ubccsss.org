@@ -1,13 +1,13 @@
 ---
 title: "IBM Campus Tour"
-date: 2005-10-14T07:08:00.000Z
+date: 2005-10-14 07:08:00
 aliases:
   - /node/57
 author: atjia
 images: []
 categories: [Career]
-start_date: 2005-09-28T17:30:00.000Z
-end_date: 2005-09-28T19:30:00.000Z
+start_date: 2005-09-28 17:30:00
+end_date: 2005-09-28 19:30:00
 raw_location: Wesbrook Building, Room 201
 ---
 

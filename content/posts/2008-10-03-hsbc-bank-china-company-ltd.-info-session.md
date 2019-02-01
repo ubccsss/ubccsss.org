@@ -1,13 +1,13 @@
 ---
 title: "HSBC Bank China Company Ltd. Info Session"
-date: 2008-10-04T05:49:00.000Z
+date: 2008-10-04 05:49:00
 aliases:
   - /node/1097
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-10-06T18:30:00.000Z
-end_date: 2008-10-06T19:30:00.000Z
+start_date: 2008-10-06 18:30:00
+end_date: 2008-10-06 19:30:00
 raw_location: IBLC Victoria Room 182
 ---
 

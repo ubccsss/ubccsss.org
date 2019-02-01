@@ -1,6 +1,6 @@
 ---
 title: "Local real estate agent looking for website"
-date: 2009-03-23T19:32:00.000Z
+date: 2009-03-23 19:32:00
 aliases:
   - /node/1233
 author: Christopher Head

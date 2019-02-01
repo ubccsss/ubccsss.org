@@ -1,13 +1,13 @@
 ---
 title: "TELUS Open House"
-date: 2011-01-12T19:39:00.000Z
+date: 2011-01-12 19:39:00
 aliases:
   - /node/1421
 author: bertong
 images: []
 categories: [Career]
-start_date: 2011-01-25T12:00:00.000Z
-end_date: 2011-01-25T16:15:00.000Z
+start_date: 2011-01-25 12:00:00
+end_date: 2011-01-25 16:15:00
 raw_location: 3777 Kingway, Burnaby
 ---
 

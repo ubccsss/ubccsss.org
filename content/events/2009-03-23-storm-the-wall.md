@@ -8,8 +8,8 @@ aliases:
 author: Christopher Head
 images:
   - /files/stormlogo.gif
-start_date: 2009-03-29T11:14:00.000Z
-end_date: 2009-03-29T13:00:00.000Z
+start_date: 2009-03-29 11:14:00
+end_date: 2009-03-29 13:00:00
 ---
 
 ![](/files/stormlogo.gif)

@@ -1,13 +1,13 @@
 ---
 title: "VSEA welcomes you to its first open meeting"
-date: 2010-01-23T20:03:00.000Z
+date: 2010-01-23 20:03:00
 aliases:
   - /node/1302
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2010-01-25T17:45:00.000Z
-end_date: 2010-01-25T19:15:00.000Z
+start_date: 2010-01-25 17:45:00
+end_date: 2010-01-25 19:15:00
 raw_location: Hebb 12
 ---
 

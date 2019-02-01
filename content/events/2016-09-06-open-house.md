@@ -6,8 +6,8 @@ tags: [BBQ]
 aliases:
   - /node/1554
 author: Tristan Rice
-start_date: 2016-09-06T10:30:00.000Z
-end_date: 2016-09-06T12:30:00.000Z
+start_date: 2016-09-06 10:30:00
+end_date: 2016-09-06 12:30:00
 location:
   name: Atrium Area, West Wing, CS/ICCS Building
   address:

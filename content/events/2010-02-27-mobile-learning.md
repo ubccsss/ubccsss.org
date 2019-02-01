@@ -6,8 +6,8 @@ tags: [Talk]
 aliases:
   - /node/1325
 author: Christopher Head
-start_date: 2010-03-04T15:30:00.000Z
-end_date: 2010-03-04T17:00:00.000Z
+start_date: 2010-03-04 15:30:00
+end_date: 2010-03-04 17:00:00
 location:
   name: DMP 110
   address:

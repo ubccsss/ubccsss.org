@@ -1,6 +1,6 @@
 ---
 title: "Google Search Demo"
-date: 2005-11-10T09:46:00.000Z
+date: 2005-11-10 09:46:00
 type: page
 aliases:
   - /node/261

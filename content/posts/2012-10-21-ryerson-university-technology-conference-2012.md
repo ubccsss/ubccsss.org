@@ -5,8 +5,8 @@ aliases:
   - /node/1486
 author: Christopher Head
 categories: [Career]
-start_date: 2012-11-02T08:00:00.000Z
-end_date: 2012-11-04T20:00:00.000Z
+start_date: 2012-11-02 08:00:00
+end_date: 2012-11-04 20:00:00
 raw_location: Ted Rogers School of Management, Ryerson University
 ---
 

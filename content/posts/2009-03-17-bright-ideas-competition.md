@@ -1,6 +1,6 @@
 ---
 title: "Bright Ideas Competition"
-date: 2009-03-17T18:29:00.000Z
+date: 2009-03-17 18:29:00
 aliases:
   - /node/1215
 author: Christopher Head

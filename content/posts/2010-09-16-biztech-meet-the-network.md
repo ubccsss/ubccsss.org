@@ -5,8 +5,8 @@ aliases:
   - /node/1390
 author: bertong
 categories: [Career]
-start_date: 2010-09-27T19:00:00.000Z
-end_date: 2010-09-27T20:00:00.000Z
+start_date: 2010-09-27 19:00:00
+end_date: 2010-09-27 20:00:00
 location:
   name: "Henry Angus 190: Birmingham Centre"
   address:

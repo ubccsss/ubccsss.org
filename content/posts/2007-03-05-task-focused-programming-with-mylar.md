@@ -1,6 +1,6 @@
 ---
 title: "Task Focused Programming with Mylar"
-date: 2007-03-05T08:14:00.000Z
+date: 2007-03-05 08:14:00
 aliases:
   - /node/711
 author: atjia

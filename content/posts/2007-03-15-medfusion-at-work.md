@@ -1,13 +1,13 @@
 ---
 title: "MedFusion @ Work"
-date: 2007-03-15T20:03:00.000Z
+date: 2007-03-15 20:03:00
 aliases:
   - /node/721
 author: robf
 images: []
 categories: [Career]
-start_date: 2007-03-27T14:00:00.000Z
-end_date: 2007-03-27T15:30:00.000Z
+start_date: 2007-03-27 14:00:00
+end_date: 2007-03-27 15:30:00
 raw_location: Centre for Molecular Medicine and Therapeutics (CMMT)
 ---
 

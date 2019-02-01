@@ -1,6 +1,6 @@
 ---
 title: "3rd Annual Winter Programming Contest"
-date: 2007-01-30T17:26:00.000Z
+date: 2007-01-30 17:26:00
 aliases:
   - /node/695
 author: atjia

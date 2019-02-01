@@ -1,12 +1,12 @@
 ---
 title: "Tri-mentoring Kick Off - Call for Volunteers"
-date: 2012-10-22T05:51:00.000Z
+date: 2012-10-22 05:51:00
 aliases:
   - /node/498
 author: jlo
 images: []
-start_date: 2006-10-05T15:45:00.000Z
-end_date: 2006-10-05T19:30:00.000Z
+start_date: 2006-10-05 15:45:00
+end_date: 2006-10-05 19:30:00
 categories: [Career]
 tags: [Tri-Mentoring]
 ---

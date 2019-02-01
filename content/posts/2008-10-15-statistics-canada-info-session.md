@@ -1,13 +1,13 @@
 ---
 title: "Statistics Canada Info Session"
-date: 2008-10-15T16:07:00.000Z
+date: 2008-10-15 16:07:00
 aliases:
   - /node/1103
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-10-22T18:30:00.000Z
-end_date: 2008-10-22T20:30:00.000Z
+start_date: 2008-10-22 18:30:00
+end_date: 2008-10-22 20:30:00
 location:
   name: DMP310
   address:

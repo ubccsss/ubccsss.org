@@ -1,13 +1,13 @@
 ---
 title: "Microsoft Info Session"
-date: 2008-09-23T20:19:00.000Z
+date: 2008-09-23 20:19:00
 aliases:
   - /node/1084
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-09-30T17:45:00.000Z
-end_date: 2008-09-30T18:45:00.000Z
+start_date: 2008-09-30 17:45:00
+end_date: 2008-09-30 18:45:00
 raw_location: Woodward IRC 2
 ---
 

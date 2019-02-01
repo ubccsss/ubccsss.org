@@ -1,6 +1,6 @@
 ---
 title: "CPSC111 Review Session"
-date: 2008-04-11T06:54:00.000Z
+date: 2008-04-11 06:54:00
 aliases:
   - /node/1054
 author: Christopher Head

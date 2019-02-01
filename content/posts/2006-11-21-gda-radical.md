@@ -1,12 +1,12 @@
 ---
 title: "GDA: Radical coming on campus"
-date: 2017-07-01T18:41:00.000Z
+date: 2017-07-01 18:41:00
 aliases:
   - /node/596
 author: jlo
 images: []
-start_date: 2006-11-21T17:30:00.000Z
-end_date: 2006-11-21T19:00:00.000Z
+start_date: 2006-11-21 17:30:00
+end_date: 2006-11-21 19:00:00
 raw_location: CEME 1202 (the Civil and Mechanical Engineering Building)
 categories: [Career]
 ---

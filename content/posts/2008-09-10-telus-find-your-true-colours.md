@@ -1,14 +1,14 @@
 ---
 title: "Telus - Find your True Colours"
-date: 2008-09-10T19:38:00.000Z
+date: 2008-09-10 19:38:00
 aliases:
   - /node/1073
 author: atjia
 images:
   - /modules/file/icons/application-pdf.svg
 categories: [Career]
-start_date: 2008-09-10T18:30:00.000Z
-end_date: 2008-09-10T20:30:00.000Z
+start_date: 2008-09-10 18:30:00
+end_date: 2008-09-10 20:30:00
 raw_location: Wesbrook 100 (6174 University Blvd)
 ---
 

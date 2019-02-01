@@ -1,13 +1,13 @@
 ---
 title: "Eclipse DemoCamp"
-date: 2013-08-29T03:46:00.000Z
+date: 2013-08-29 03:46:00
 aliases:
   - /node/1367
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2010-06-29T18:30:00.000Z
-end_date: 2010-06-29T20:00:00.000Z
+start_date: 2010-06-29 18:30:00
+end_date: 2010-06-29 20:00:00
 raw_location: UBC Robson Square Room C100
 ---
 

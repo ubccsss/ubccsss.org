@@ -1,6 +1,6 @@
 ---
 title: "MITACS Industrial Math Summer School"
-date: 2007-02-09T03:11:00.000Z
+date: 2007-02-09 03:11:00
 aliases:
   - /node/705
 author: robf

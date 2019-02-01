@@ -1,6 +1,6 @@
 ---
 title: "NSERC Undergraduate Student Research Award"
-date: 2006-02-09T21:01:00.000Z
+date: 2006-02-09 21:01:00
 aliases:
   - /node/418
 author: dtan

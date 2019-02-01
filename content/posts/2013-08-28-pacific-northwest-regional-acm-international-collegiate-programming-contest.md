@@ -1,6 +1,6 @@
 ---
 title: "Pacific Northwest Regional ACM International Collegiate Programming Contest"
-date: 2013-08-29T03:30:00.000Z
+date: 2013-08-29 03:30:00
 aliases:
   - /node/1108
 author: Christopher Head

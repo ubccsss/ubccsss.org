@@ -1,6 +1,6 @@
 ---
 title: "Gravatron looking for iOS developer"
-date: 2012-10-14T05:51:00.000Z
+date: 2012-10-14 05:51:00
 aliases:
   - /node/1493
 author: Christopher Head

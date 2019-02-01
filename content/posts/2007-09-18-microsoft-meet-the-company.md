@@ -1,14 +1,14 @@
 ---
 title: "Microsoft's \"Meet the Company\""
-date: 2012-10-22T05:26:00.000Z
+date: 2012-10-22 05:26:00
 aliases:
   - /node/980
 author: atjia
 images:
   - /files/microsoft.gif
 categories: [Career]
-start_date: 2007-09-18T18:30:00.000Z
-end_date: 2007-09-18T19:30:00.000Z
+start_date: 2007-09-18 18:30:00
+end_date: 2007-09-18 19:30:00
 raw_location: FSC 1005
 ---
 

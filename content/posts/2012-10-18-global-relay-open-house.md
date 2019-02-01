@@ -5,8 +5,8 @@ aliases:
   - /node/1498
 author: Christopher Head
 categories: [Career]
-start_date: 2012-11-06T16:30:00.000Z
-end_date: 2012-11-06T18:00:00.000Z
+start_date: 2012-11-06 16:30:00
+end_date: 2012-11-06 18:00:00
 raw_location: 220 Cambie St. 2nd Floor
 ---
 

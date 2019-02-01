@@ -6,8 +6,8 @@ tags: [Movie Night]
 aliases:
   - /node/1533
 author: Christopher Head
-start_date: 2013-11-27T17:30:00.000Z
-end_date: 2013-11-27T19:00:00.000Z
+start_date: 2013-11-27 17:30:00
+end_date: 2013-11-27 19:00:00
 location:
   name: DMP 110
   address:

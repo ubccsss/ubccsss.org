@@ -7,8 +7,8 @@ aliases:
   - /node/1275
 author: Christopher Head
 images: []
-start_date: 2009-11-19T18:00:00.000Z
-end_date: 2009-11-19T22:00:00.000Z
+start_date: 2009-11-19 18:00:00
+end_date: 2009-11-19 22:00:00
 location:
   name: DMP 301
   address:

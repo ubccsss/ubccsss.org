@@ -1,6 +1,6 @@
 ---
 title: "We have a winner!"
-date: 2012-10-21T22:34:00.000Z
+date: 2012-10-21 22:34:00
 aliases:
   - /node/10
 author: Christopher Head

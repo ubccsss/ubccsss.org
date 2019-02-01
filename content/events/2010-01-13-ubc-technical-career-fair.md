@@ -7,8 +7,8 @@ aliases:
   - /node/1291
 author: Christopher Head
 images: []
-start_date: 2010-01-13T10:00:00.000Z
-end_date: 2010-01-13T16:00:00.000Z
+start_date: 2010-01-13 10:00:00
+end_date: 2010-01-13 16:00:00
 location:
   name: SUB Ballroom
   address:

@@ -1,13 +1,13 @@
 ---
 title: "Co-op Info Sessions"
-date: 2012-10-22T05:48:00.000Z
+date: 2012-10-22 05:48:00
 aliases:
   - /node/460
 author: atjia
 images: []
 categories: [Career]
-start_date: 2006-03-15T14:00:00.000Z
-end_date: 2006-03-15T15:30:00.000Z
+start_date: 2006-03-15 14:00:00
+end_date: 2006-03-15 15:30:00
 raw_location: MacMillan Building Room 158
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: "Google Info Session"
-date: 2008-09-17T22:21:00.000Z
+date: 2008-09-17 22:21:00
 aliases:
   - /node/1083
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-09-24T18:30:00.000Z
-end_date: 2008-09-24T20:30:00.000Z
+start_date: 2008-09-24 18:30:00
+end_date: 2008-09-24 20:30:00
 raw_location: Wesbrook 100
 ---
 

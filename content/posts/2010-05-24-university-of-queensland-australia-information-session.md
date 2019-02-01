@@ -4,8 +4,8 @@ date: 2010-05-24
 aliases:
   - /node/1361
 author: Christopher Head
-start_date: 2010-05-27T18:00:00.000Z
-end_date: 2010-05-27T19:00:00.000Z
+start_date: 2010-05-27 18:00:00
+end_date: 2010-05-27 19:00:00
 categories: [Career]
 raw_location: UBC Robson Square
 ---

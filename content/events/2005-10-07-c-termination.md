@@ -8,8 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/byron2_milan.jpg
-start_date: 2005-10-07T10:00:00.000Z
-end_date: 2005-10-07T11:00:00.000Z
+start_date: 2005-10-07 10:00:00
+end_date: 2005-10-07 11:00:00
 location:
   name: ICICS/CS Board Room (288)
   address:

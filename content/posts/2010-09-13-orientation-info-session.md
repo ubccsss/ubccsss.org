@@ -1,12 +1,12 @@
 ---
 title: "Tri-Mentoring Orientation + Info Session"
-date: 2010-09-08T07:25:00.000Z
+date: 2010-09-08 07:25:00
 aliases:
   - /node/1381
 author: bertong
 images: []
-start_date: 2010-09-13T17:00:00.000Z
-end_date: 2010-09-13T18:30:00.000Z
+start_date: 2010-09-13 17:00:00
+end_date: 2010-09-13 18:30:00
 location:
   name: DMP 110
   address:

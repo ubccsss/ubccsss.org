@@ -1,6 +1,6 @@
 ---
 title: "November 2005 Newsletter"
-date: 2005-11-16T08:10:00.000Z
+date: 2005-11-16 08:10:00
 type: page
 aliases:
   - /newsletters/2005/11

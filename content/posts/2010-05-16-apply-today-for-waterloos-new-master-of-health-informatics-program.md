@@ -1,6 +1,6 @@
 ---
 title: "Apply today for Waterloo's new Master of Health Informatics Program"
-date: 2010-05-16T18:29:00.000Z
+date: 2010-05-16 18:29:00
 aliases:
   - /node/1360
 author: Christopher Head

@@ -7,8 +7,8 @@ aliases:
   - /node/1423
 author: bertong
 images: []
-start_date: 2011-02-01T10:00:00.000Z
-end_date: 2011-02-01T16:00:00.000Z
+start_date: 2011-02-01 10:00:00
+end_date: 2011-02-01 16:00:00
 location:
   name: SUB Ballroom
   address:

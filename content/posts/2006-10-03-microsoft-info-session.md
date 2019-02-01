@@ -1,12 +1,12 @@
 ---
 title: "Microsoft Info Session"
-date: 2006-10-03T22:26:00.000Z
+date: 2006-10-03 22:26:00
 aliases:
   - /node/499
 author: hybrid11
 images: []
-start_date: 2006-10-06T17:30:00.000Z
-end_date: 2006-10-06T19:30:00.000Z
+start_date: 2006-10-06 17:30:00
+end_date: 2006-10-06 19:30:00
 location:
   name: Dempster 310
   address:

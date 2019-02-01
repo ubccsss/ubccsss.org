@@ -1,6 +1,6 @@
 ---
 title: "The 7th Annual Multidisciplinary Undergraduate Research Conference"
-date: 2012-10-21T23:13:00.000Z
+date: 2012-10-21 23:13:00
 aliases:
   - /node/1028
 author: Christopher Head

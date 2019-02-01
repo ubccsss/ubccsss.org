@@ -1,13 +1,13 @@
 ---
 title: "BigPark on Campus!"
-date: 2008-11-02T18:47:00.000Z
+date: 2008-11-02 18:47:00
 aliases:
   - /node/1122
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-11-06T17:00:00.000Z
-end_date: 2008-11-06T19:00:00.000Z
+start_date: 2008-11-06 17:00:00
+end_date: 2008-11-06 19:00:00
 location:
   name: ICICS X-Wing Lounge
   address:

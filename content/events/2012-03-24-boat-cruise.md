@@ -7,8 +7,8 @@ aliases:
   - /node/1470
 author: Christopher Head
 images: []
-start_date: 2012-03-24T19:00:00.000Z
-end_date: 2012-03-24T23:00:00.000Z
+start_date: 2012-03-24 19:00:00
+end_date: 2012-03-24 23:00:00
 raw_location: Harbour Cruises, 501 Denman St.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "CS Industry Panel"
-date: 2012-10-22T05:26:00.000Z
+date: 2012-10-22 05:26:00
 aliases:
   - /node/372
 author: atjia

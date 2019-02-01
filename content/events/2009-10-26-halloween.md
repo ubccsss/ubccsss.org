@@ -6,8 +6,8 @@ aliases:
   - /node/1270
 author: Christopher Head
 images: []
-start_date: 2009-10-30T13:00:00.000Z
-end_date: 2009-10-30T15:00:00.000Z
+start_date: 2009-10-30 13:00:00
+end_date: 2009-10-30 15:00:00
 location:
   name: ICICS X-Wing First Floor Lobby (by Reboot Café)
   address:

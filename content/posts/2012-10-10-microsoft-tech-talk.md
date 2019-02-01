@@ -1,13 +1,13 @@
 ---
 title: "Microsoft Tech Talk"
-date: 2012-10-11T06:34:00.000Z
+date: 2012-10-11 06:34:00
 aliases:
   - /node/1491
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2012-10-17T17:30:00.000Z
-end_date: 2012-10-17T19:00:00.000Z
+start_date: 2012-10-17 17:30:00
+end_date: 2012-10-17 19:00:00
 location:
   name: DMP 110
   address:

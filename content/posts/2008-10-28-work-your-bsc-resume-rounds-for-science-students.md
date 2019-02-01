@@ -1,12 +1,12 @@
 ---
 title: "Work Your BSc: Résumé Rounds for Science Students"
-date: 2008-10-27T02:28:00.000Z
+date: 2008-10-27 02:28:00
 aliases:
   - /node/1117
 author: Christopher Head
 images: []
-start_date: 2008-10-28T13:00:00.000Z
-end_date: 2008-10-28T14:00:00.000Z
+start_date: 2008-10-28 13:00:00
+end_date: 2008-10-28 14:00:00
 location:
   name: Abdul Ladha Science Student Centre
   address:

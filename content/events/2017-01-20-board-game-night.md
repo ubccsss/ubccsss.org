@@ -7,8 +7,8 @@ aliases:
   - /content/csss-board-games-night
 author: Tristan Rice
 images: []
-start_date: 2017-01-20T16:00:00.000Z
-end_date: 2017-01-20T19:00:00.000Z
+start_date: 2017-01-20 16:00:00
+end_date: 2017-01-20 19:00:00
 location:
   name: Reboot Lounge
   address:

@@ -1,6 +1,6 @@
 ---
 title: "Junior System Administrator—Lambda Systems"
-date: 2009-06-21T23:54:00.000Z
+date: 2009-06-21 23:54:00
 aliases:
   - /node/1246
 author: Christopher Head

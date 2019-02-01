@@ -1,6 +1,6 @@
 ---
 title: CPSC 340
-date: 2016-12-07T18:36:00.000Z
+date: 2016-12-07 18:36:00
 aliases:
   - /services/exams/cpsc340
 author: Tristan Rice

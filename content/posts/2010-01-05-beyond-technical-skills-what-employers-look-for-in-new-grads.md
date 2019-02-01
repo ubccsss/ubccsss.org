@@ -1,13 +1,13 @@
 ---
 title: "Beyond Technical Skills - What Employers Look for In  New Grads"
-date: 2010-01-05T18:24:00.000Z
+date: 2010-01-05 18:24:00
 aliases:
   - /node/1289
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2010-01-12T17:15:00.000Z
-end_date: 2010-01-12T18:30:00.000Z
+start_date: 2010-01-12 17:15:00
+end_date: 2010-01-12 18:30:00
 location:
   name: DMP 110
   address:

@@ -1,13 +1,13 @@
 ---
 title: "Business Objects Info Session"
-date: 2008-10-04T05:51:00.000Z
+date: 2008-10-04 05:51:00
 aliases:
   - /node/1085
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-10-07T18:30:00.000Z
-end_date: 2008-10-07T19:30:00.000Z
+start_date: 2008-10-07 18:30:00
+end_date: 2008-10-07 19:30:00
 raw_location: Wesbrook 100
 ---
 

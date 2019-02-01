@@ -6,8 +6,8 @@ aliases:
   - /node/1256
 author: Christopher Head
 images: []
-start_date: 2009-09-08T10:00:00.000Z
-end_date: 2009-09-08T14:00:00.000Z
+start_date: 2009-09-08 10:00:00
+end_date: 2009-09-08 14:00:00
 location:
   name: X-Wing Undergraduate Student Lounge
   address:

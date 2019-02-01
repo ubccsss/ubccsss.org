@@ -1,8 +1,8 @@
 ---
 title: "LP x CSSS: Project Hub ft. Intro to Machine Learning"
 date: 2019-01-29
-start_date: 2019-02-02T15:30:00.000Z
-end_date: 2019-02-02T18:30:00.000Z
+start_date: 2019-02-02 15:30:00
+end_date: 2019-02-02 18:30:00
 categories: [Event]
 tags: [Project Hub]
 author: Hai Lin Zhang
@@ -15,12 +15,12 @@ location:
     addressRegion: BC
     addressCountry: CA
 images:
-  - /files/project-hub.jpg
+  - /files/project-hub.svg
 ---
 
-![](/files/project-hub.jpg)
+![](/files/project-hub.svg)
 
-Interested in learning a new technology? 
+Interested in learning a new technology?
 
 Project Hub is a new joint UBC Launch Pad and UBC Computer Science Student Society - CSSS initiative starting this weekend, Feburary 2nd, at 3:30PM! 🚀
 

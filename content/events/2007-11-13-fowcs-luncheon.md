@@ -8,8 +8,8 @@ author: Christopher Head
 images:
   - /files/fowcs-scrolly-title.gif
   - /files/askwok.jpg
-start_date: 2007-11-16T11:00:00.000Z
-end_date: 2007-11-16T12:00:00.000Z
+start_date: 2007-11-16 11:00:00
+end_date: 2007-11-16 12:00:00
 location:
   name: ICICS X836
   address:

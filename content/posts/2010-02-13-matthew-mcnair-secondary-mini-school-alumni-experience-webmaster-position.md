@@ -1,6 +1,6 @@
 ---
 title: "Matthew McNair Secondary Mini School Alumni Experience Webmaster Position"
-date: 2010-02-13T09:19:00.000Z
+date: 2010-02-13 09:19:00
 aliases:
   - /node/1319
 author: Christopher Head

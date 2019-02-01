@@ -1,6 +1,6 @@
 ---
 title: "ACM Programming Team Party"
-date: 2008-03-04T07:11:00.000Z
+date: 2008-03-04 07:11:00
 aliases:
   - /node/1040
 author: Christopher Head

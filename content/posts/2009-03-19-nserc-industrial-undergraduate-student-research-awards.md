@@ -1,6 +1,6 @@
 ---
 title: "NSERC Industrial Undergraduate Student Research Awards"
-date: 2009-03-20T06:04:00.000Z
+date: 2009-03-20 06:04:00
 aliases:
   - /node/1226
 author: Christopher Head

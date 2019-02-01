@@ -1,6 +1,6 @@
 ---
 title: "For FIRST year Major students in Computer Science"
-date: 2006-10-17T19:04:00.000Z
+date: 2006-10-17 19:04:00
 aliases:
   - /node/512
 author: hybrid11

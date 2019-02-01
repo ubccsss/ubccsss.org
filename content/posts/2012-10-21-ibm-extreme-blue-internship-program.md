@@ -1,6 +1,6 @@
 ---
 title: "IBM Extreme Blue Internship Program"
-date: 2012-10-22T05:59:00.000Z
+date: 2012-10-22 05:59:00
 aliases:
   - /node/373
 author: Christopher Head

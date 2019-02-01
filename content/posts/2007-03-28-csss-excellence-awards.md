@@ -1,6 +1,6 @@
 ---
 title: "CSSS Excellence Awards"
-date: 2007-03-28T21:58:00.000Z
+date: 2007-03-28 21:58:00
 aliases:
   - /node/731
 author: robf

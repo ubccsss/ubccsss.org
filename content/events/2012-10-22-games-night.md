@@ -8,8 +8,8 @@ aliases:
 author: dtan
 images:
   - /files/xbox.jpg
-start_date: 2006-03-17T16:00:00.000Z
-end_date: 2006-03-17T21:00:00.000Z
+start_date: 2006-03-17 16:00:00
+end_date: 2006-03-17 21:00:00
 location:
   name: X-Wing Lounge
   address:

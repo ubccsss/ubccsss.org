@@ -1,12 +1,12 @@
 ---
 title: "What is Consulting? - by Accenture"
-date: 2007-10-22T01:05:00.000Z
+date: 2007-10-22 01:05:00
 aliases:
   - /node/1002
 author: atjia
 images: []
-start_date: 2007-10-22T13:00:00.000Z
-end_date: 2007-10-22T14:00:00.000Z
+start_date: 2007-10-22 13:00:00
+end_date: 2007-10-22 14:00:00
 raw_location: Scarfe Room 1020
 categories: [Career]
 ---

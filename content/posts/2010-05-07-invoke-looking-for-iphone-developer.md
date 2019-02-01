@@ -1,6 +1,6 @@
 ---
 title: "Invoke Looking for iPhone Developer"
-date: 2010-05-07T07:57:00.000Z
+date: 2010-05-07 07:57:00
 aliases:
   - /node/1359
 author: Christopher Head

@@ -1,13 +1,13 @@
 ---
 title: "Semi-General Annual Meeting + Karaoke Night!"
-date: 2016-11-22T20:38:00.000Z
+date: 2016-11-22 20:38:00
 aliases:
   - /sagm-karaoke-fall-2016
 author: Tristan Rice
 images:
   - /files/15205701_10154809941108982_1878677882_o.jpg
-start_date: 2016-11-25T17:30:00.000Z
-end_date: 2016-11-25T19:00:00.000Z
+start_date: 2016-11-25 17:30:00
+end_date: 2016-11-25 19:00:00
 location:
   name: DMP 110
   address:

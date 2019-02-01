@@ -1,13 +1,13 @@
 ---
 title: "EADS Info Session"
-date: 2010-01-23T20:25:00.000Z
+date: 2010-01-23 20:25:00
 aliases:
   - /node/1306
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2010-02-01T15:30:00.000Z
-end_date: 2010-02-01T17:00:00.000Z
+start_date: 2010-02-01 15:30:00
+end_date: 2010-02-01 17:00:00
 raw_location: CEME 1202
 ---
 

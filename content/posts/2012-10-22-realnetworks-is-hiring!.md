@@ -1,6 +1,6 @@
 ---
 title: "RealNetworks is hiring!"
-date: 2012-10-22T07:41:00.000Z
+date: 2012-10-22 07:41:00
 aliases:
   - /node/996
 author: Christopher Head

@@ -1,13 +1,13 @@
 ---
 title: "IBM Info Session"
-date: 2008-01-17T02:39:00.000Z
+date: 2008-01-17 02:39:00
 aliases:
   - /node/1029
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-01-17T16:30:00.000Z
-end_date: 2008-01-17T17:30:00.000Z
+start_date: 2008-01-17 16:30:00
+end_date: 2008-01-17 17:30:00
 raw_location: Wesbrook 100
 ---
 

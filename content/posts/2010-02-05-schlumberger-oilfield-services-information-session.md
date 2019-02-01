@@ -1,11 +1,11 @@
 ---
 title: "Schlumberger Oilfield Services Information Session"
-date: 2010-02-05T08:08:00.000Z
+date: 2010-02-05 08:08:00
 aliases:
   - /node/1315
 author: Christopher Head
-start_date: 2010-02-08T17:30:00.000Z
-end_date: 2010-02-08T19:00:00.000Z
+start_date: 2010-02-08 17:30:00
+end_date: 2010-02-08 19:00:00
 categories: [Career]
 raw_location: Hennings 201
 ---

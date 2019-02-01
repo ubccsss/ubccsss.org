@@ -8,8 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/victoryodaiken.jpg
-start_date: 2005-10-20T15:30:00.000Z
-end_date: 2005-10-20T17:00:00.000Z
+start_date: 2005-10-20 15:30:00
+end_date: 2005-10-20 17:00:00
 location:
   name: ICICS X736
   address:

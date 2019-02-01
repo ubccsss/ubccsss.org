@@ -7,8 +7,8 @@ aliases:
 author: Christopher Head
 images:
   - /files/bitecan.png
-start_date: 2009-11-09T23:01:00.000Z
-end_date: 2009-11-23T23:01:00.000Z
+start_date: 2009-11-09 23:01:00
+end_date: 2009-11-23 23:01:00
 ---
 
 ![](/files/bitecan.png)

@@ -1,6 +1,6 @@
 ---
 title: "Department Commitees"
-date: 2013-08-29T07:46:00.000Z
+date: 2013-08-29 07:46:00
 aliases:
   - /node/567
 author: robf

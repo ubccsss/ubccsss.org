@@ -1,8 +1,8 @@
 ---
 title: Welcome Back Breakfast
 date: 2019-01-02
-start_date: 2019-01-04T08:00:00.000Z
-end_date: 2019-01-04T10:00:00.000Z
+start_date: 2019-01-04 08:00:00
+end_date: 2019-01-04 10:00:00
 categories: [Event]
 tags: [Free Breakfast]
 aliases:

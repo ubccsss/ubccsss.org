@@ -1,6 +1,6 @@
 ---
 title: CPSC 448B
-date: 2016-11-29T20:40:00.000Z
+date: 2016-11-29 20:40:00
 aliases:
   - /services/exams/cpsc448B
 author: Tristan Rice

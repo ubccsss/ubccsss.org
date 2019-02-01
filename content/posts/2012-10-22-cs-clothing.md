@@ -1,6 +1,6 @@
 ---
 title: "CS Clothing"
-date: 2012-10-22T05:48:00.000Z
+date: 2012-10-22 05:48:00
 aliases:
   - /node/126
 author: nshafiee

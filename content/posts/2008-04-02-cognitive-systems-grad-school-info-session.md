@@ -1,6 +1,6 @@
 ---
 title: "Cognitive Systems Grad School Info Session"
-date: 2008-04-02T23:01:00.000Z
+date: 2008-04-02 23:01:00
 aliases:
   - /node/1052
 author: Christopher Head

@@ -1,6 +1,6 @@
 ---
 title: "Motion Planning for Physical Systems"
-date: 2007-09-14T16:52:00.000Z
+date: 2007-09-14 16:52:00
 aliases:
   - /node/981
 author: atjia

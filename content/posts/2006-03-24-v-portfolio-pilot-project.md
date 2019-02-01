@@ -1,6 +1,6 @@
 ---
 title: "V-Portfolio Pilot Project"
-date: 2006-03-24T18:18:00.000Z
+date: 2006-03-24 18:18:00
 aliases:
   - /node/470
 author: dtan

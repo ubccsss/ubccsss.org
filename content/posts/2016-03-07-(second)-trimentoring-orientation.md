@@ -1,14 +1,14 @@
 ---
 title: "(Second) Trimentoring Orientation"
-date: 2016-03-08T05:57:00.000Z
+date: 2016-03-08 05:57:00
 aliases:
   - /node/93
 author: atjia
 images: []
 categories: [Career]
 tags: [Tri-Mentoring]
-start_date: 2005-09-27T17:30:00.000Z
-end_date: 2005-09-27T19:00:00.000Z
+start_date: 2005-09-27 17:30:00
+end_date: 2005-09-27 19:00:00
 raw_location: Henning 200
 ---
 

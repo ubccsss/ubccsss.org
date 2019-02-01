@@ -1,6 +1,6 @@
 ---
 title: "CS Clothing 2005 Poll"
-date: 2012-09-09T18:13:00.000Z
+date: 2012-09-09 18:13:00
 type: page
 categories: [Services]
 tags: [Merch]

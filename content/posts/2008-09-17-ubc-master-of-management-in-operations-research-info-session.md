@@ -1,13 +1,13 @@
 ---
 title: "UBC Master of Management in Operations Research Info Session"
-date: 2008-09-17T19:13:00.000Z
+date: 2008-09-17 19:13:00
 aliases:
   - /node/1079
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-09-19T17:00:00.000Z
-end_date: 2008-09-19T18:00:00.000Z
+start_date: 2008-09-19 17:00:00
+end_date: 2008-09-19 18:00:00
 raw_location: Fred Kaiser Building, Room 2020/2030
 ---
 

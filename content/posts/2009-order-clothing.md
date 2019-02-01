@@ -1,6 +1,6 @@
 ---
 title: "CSSS Clothing Orders"
-date: 2012-10-22T05:53:00.000Z
+date: 2012-10-22 05:53:00
 aliases:
   - /order09
 author: Christopher Head

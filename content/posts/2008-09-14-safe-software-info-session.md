@@ -1,13 +1,13 @@
 ---
 title: "Safe Software Info Session"
-date: 2008-09-14T09:45:00.000Z
+date: 2008-09-14 09:45:00
 aliases:
   - /node/1074
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-09-17T18:30:00.000Z
-end_date: 2008-09-17T20:30:00.000Z
+start_date: 2008-09-17 18:30:00
+end_date: 2008-09-17 20:30:00
 location:
   name: Dempster 310
   address:

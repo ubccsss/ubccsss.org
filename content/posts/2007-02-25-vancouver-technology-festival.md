@@ -1,6 +1,6 @@
 ---
 title: "Vancouver Technology Festival"
-date: 2007-02-25T18:17:00.000Z
+date: 2007-02-25 18:17:00
 aliases:
   - /node/693
 author: robf

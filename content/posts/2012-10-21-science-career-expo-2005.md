@@ -1,14 +1,14 @@
 ---
 title: "Science Career Expo 2005"
-date: 2012-10-22T05:23:00.000Z
+date: 2012-10-22 05:23:00
 aliases:
   - /node/127
 author: atjia
 images:
   - /files/escience_logo.gif
 categories: [Career]
-start_date: 2005-11-09T16:30:00.000Z
-end_date: 2005-11-09T19:30:00.000Z
+start_date: 2005-11-09 16:30:00
+end_date: 2005-11-09 19:30:00
 raw_location: Woodward/IRC Building
 ---
 

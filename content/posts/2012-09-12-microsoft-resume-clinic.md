@@ -1,13 +1,13 @@
 ---
 title: "Microsoft Résumé Clinic"
-date: 2012-09-12T08:08:00.000Z
+date: 2012-09-12 08:08:00
 aliases:
   - /node/1481
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2012-09-19T17:30:00.000Z
-end_date: 2012-09-19T19:00:00.000Z
+start_date: 2012-09-19 17:30:00
+end_date: 2012-09-19 19:00:00
 location:
   name: Dempster 110
   address:

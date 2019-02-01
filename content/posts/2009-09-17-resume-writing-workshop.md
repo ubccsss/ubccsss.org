@@ -1,12 +1,12 @@
 ---
 title: "Résumé Writing Workshop"
-date: 2009-09-18T06:16:00.000Z
+date: 2009-09-18 06:16:00
 aliases:
   - /node/1261
 author: Christopher Head
 images: []
-start_date: 2009-09-25T12:00:00.000Z
-end_date: 2009-09-25T13:00:00.000Z
+start_date: 2009-09-25 12:00:00
+end_date: 2009-09-25 13:00:00
 location:
   name: DMP 201
   address:

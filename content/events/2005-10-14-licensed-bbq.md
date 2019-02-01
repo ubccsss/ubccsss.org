@@ -7,8 +7,8 @@ aliases:
   - /node/111
 author: cweston
 images: []
-start_date: 2005-10-14T16:00:00.000Z
-end_date: 2005-10-14T20:00:00.000Z
+start_date: 2005-10-14 16:00:00
+end_date: 2005-10-14 20:00:00
 location:
   name: CS/ICICS Building in the new wing, Student Lounge (outside the Reboot Cafe)
   address:

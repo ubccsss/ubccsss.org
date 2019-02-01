@@ -8,8 +8,8 @@ aliases:
 author: arieljcao
 images:
   - /files/NaturalRecursion.jpg
-start_date: 2018-04-07T18:00:00.000Z
-end_date: 2018-04-07T22:00:00.000Z
+start_date: 2018-04-07 18:00:00
+end_date: 2018-04-07 22:00:00
 location:
   name: Gallery 2.0
   address:

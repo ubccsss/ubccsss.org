@@ -1,6 +1,6 @@
 ---
 title: "Telus Information Session"
-date: 2006-10-09T07:50:00.000Z
+date: 2006-10-09 07:50:00
 aliases:
   - /node/488
 author: jlo
@@ -8,8 +8,8 @@ images:
   - /files/telus_logo.gif
   - /modules/file/icons/application-pdf.svg
 categories: [Career]
-start_date: 2006-10-11T17:30:00.000Z
-end_date: 2006-10-11T19:30:00.000Z
+start_date: 2006-10-11 17:30:00
+end_date: 2006-10-11 19:30:00
 raw_location: Wesbrook 100 (the white building across UBC bookstore)
 ---
 

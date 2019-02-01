@@ -1,12 +1,12 @@
 ---
 title: "Drop-in Résumé Editing Session"
-date: 2010-01-05T18:23:00.000Z
+date: 2010-01-05 18:23:00
 aliases:
   - /node/1288
 author: Christopher Head
 images: []
-start_date: 2010-01-11T11:00:00.000Z
-end_date: 2010-01-11T14:00:00.000Z
+start_date: 2010-01-11 11:00:00
+end_date: 2010-01-11 14:00:00
 location:
   name: ICICS 255
   address:

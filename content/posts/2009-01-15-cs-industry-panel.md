@@ -1,6 +1,6 @@
 ---
 title: "CS Industry Panel"
-date: 2009-01-16T07:26:00.000Z
+date: 2009-01-16 07:26:00
 aliases:
   - /node/1170
 author: Christopher Head

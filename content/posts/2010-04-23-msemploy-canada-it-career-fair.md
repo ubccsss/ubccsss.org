@@ -1,13 +1,13 @@
 ---
 title: "MSEmploy Canada IT Career Fair"
-date: 2010-04-24T00:11:00.000Z
+date: 2010-04-24 00:11:00
 aliases:
   - /node/1357
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2010-05-12T09:00:00.000Z
-end_date: 2010-05-12T14:00:00.000Z
+start_date: 2010-05-12 09:00:00
+end_date: 2010-05-12 14:00:00
 raw_location: Executive Hotel & Conference Centre Burnaby, 4201 Lougheed Highway
 ---
 

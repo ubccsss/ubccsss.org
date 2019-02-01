@@ -7,8 +7,8 @@ aliases:
   - /node/1413
 author: bertong
 images: []
-start_date: 2010-11-19T18:00:00.000Z
-end_date: 2010-11-19T20:00:00.000Z
+start_date: 2010-11-19 18:00:00
+end_date: 2010-11-19 20:00:00
 raw_location: Cliffhanger, Vancouver
 ---
 

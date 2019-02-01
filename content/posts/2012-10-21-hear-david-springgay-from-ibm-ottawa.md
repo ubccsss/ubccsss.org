@@ -1,13 +1,13 @@
 ---
 title: "Hear David Springgay from IBM, Ottawa"
-date: 2012-10-22T05:24:00.000Z
+date: 2012-10-22 05:24:00
 aliases:
   - /node/193
 author: atjia
 images: []
 categories: [Career]
-start_date: 2005-10-25T16:00:00.000Z
-end_date: 2005-10-25T17:00:00.000Z
+start_date: 2005-10-25 16:00:00
+end_date: 2005-10-25 17:00:00
 location:
   name: Dempster Room 310
   address:

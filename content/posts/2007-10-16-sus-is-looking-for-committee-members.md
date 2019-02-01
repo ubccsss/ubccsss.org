@@ -1,6 +1,6 @@
 ---
 title: "SUS is looking for Committee Members"
-date: 2007-10-16T18:55:00.000Z
+date: 2007-10-16 18:55:00
 aliases:
   - /node/998
 author: atjia

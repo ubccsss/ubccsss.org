@@ -8,8 +8,8 @@ aliases:
 author: Christopher Head
 images:
   - /files/sunbbq.png
-start_date: 2006-09-14T12:00:00.000Z
-end_date: 2006-09-14T14:00:00.000Z
+start_date: 2006-09-14 12:00:00
+end_date: 2006-09-14 14:00:00
 location:
   name: Outside Dempster
   address:

@@ -5,8 +5,8 @@ aliases:
   - /node/1207
 author: Christopher Head
 categories: [Career]
-start_date: 2009-04-25T00:31:00.000Z
-end_date: 2009-04-29T00:31:00.000Z
+start_date: 2009-04-25 00:31:00
+end_date: 2009-04-29 00:31:00
 raw_location: Toronto
 ---
 

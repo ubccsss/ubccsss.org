@@ -1,6 +1,6 @@
 ---
 title: "Welcome (back)... We're Under Construction!"
-date: 2012-10-21T22:33:00.000Z
+date: 2012-10-21 22:33:00
 aliases:
   - /node/7
 author: Christopher Head

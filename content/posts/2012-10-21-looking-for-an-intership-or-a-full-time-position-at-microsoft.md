@@ -1,6 +1,6 @@
 ---
 title: "Looking for an intership or a full time position at Microsoft?"
-date: 2012-10-22T06:39:00.000Z
+date: 2012-10-22 06:39:00
 aliases:
   - /node/707
 author: robf

@@ -8,8 +8,8 @@ aliases:
 author: Christopher Head
 images:
   - /files/halo3.jpg
-start_date: 2007-11-16T17:00:00.000Z
-end_date: 2007-11-16T20:00:00.000Z
+start_date: 2007-11-16 17:00:00
+end_date: 2007-11-16 20:00:00
 location:
   name: Dempster 110
   address:

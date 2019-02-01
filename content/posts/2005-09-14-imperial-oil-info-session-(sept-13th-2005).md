@@ -1,13 +1,13 @@
 ---
 title: "Imperial Oil Info Session (Sept 13th, 2005)"
-date: 2005-09-15T06:36:00.000Z
+date: 2005-09-15 06:36:00
 aliases:
   - /node/51
 author: arothbart
 images: []
 categories: [Career]
-start_date: 2005-09-13T17:30:00.000Z
-end_date: 2005-09-13T19:30:00.000Z
+start_date: 2005-09-13 17:30:00
+end_date: 2005-09-13 19:30:00
 raw_location: Wesbrook Room 100
 ---
 

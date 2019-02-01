@@ -1,13 +1,13 @@
 ---
 title: "Accenture Info Session"
-date: 2009-09-09T06:41:00.000Z
+date: 2009-09-09 06:41:00
 aliases:
   - /node/1253
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2009-09-15T17:30:00.000Z
-end_date: 2009-09-15T19:00:00.000Z
+start_date: 2009-09-15 17:30:00
+end_date: 2009-09-15 19:00:00
 raw_location: Wesbrook 100
 ---
 

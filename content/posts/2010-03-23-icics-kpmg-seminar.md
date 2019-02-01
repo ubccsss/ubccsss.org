@@ -1,13 +1,13 @@
 ---
 title: "ICICS/KPMG Seminar: What Industry Wants"
-date: 2013-08-29T03:48:00.000Z
+date: 2013-08-29 03:48:00
 aliases:
   - /node/1343
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2010-03-23T15:30:00.000Z
-end_date: 2010-03-23T17:00:00.000Z
+start_date: 2010-03-23 15:30:00
+end_date: 2010-03-23 17:00:00
 raw_location: Kaiser 2020
 ---
 

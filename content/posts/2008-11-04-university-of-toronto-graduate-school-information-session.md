@@ -1,12 +1,12 @@
 ---
 title: "University of Toronto Graduate School Information Session"
-date: 2008-11-05T06:51:00.000Z
+date: 2008-11-05 06:51:00
 aliases:
   - /node/1127
 author: Christopher Head
 categories: [Career]
-start_date: 2008-11-12T16:30:00.000Z
-end_date: 2008-11-12T18:00:00.000Z
+start_date: 2008-11-12 16:30:00
+end_date: 2008-11-12 18:00:00
 location:
   name: ICICS 206
   address:

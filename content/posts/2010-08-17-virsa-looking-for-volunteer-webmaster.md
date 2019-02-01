@@ -1,6 +1,6 @@
 ---
 title: "Virsa looking for volunteer Webmaster"
-date: 2010-08-18T00:18:00.000Z
+date: 2010-08-18 00:18:00
 aliases:
   - /node/1375
 author: Christopher Head

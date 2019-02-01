@@ -1,6 +1,6 @@
 ---
 title: "PI Day with Google!"
-date: 2008-03-13T18:35:00.000Z
+date: 2008-03-13 18:35:00
 aliases:
   - /node/1044
 author: atjia

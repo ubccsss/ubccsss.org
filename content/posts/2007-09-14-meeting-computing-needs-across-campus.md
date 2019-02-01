@@ -1,6 +1,6 @@
 ---
 title: "Meeting Computing Needs Across Campus"
-date: 2007-09-14T16:55:00.000Z
+date: 2007-09-14 16:55:00
 aliases:
   - /node/982
 author: atjia

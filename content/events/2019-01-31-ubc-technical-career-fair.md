@@ -1,8 +1,8 @@
 ---
 title: "UBC Technical Career Fair 2019"
 date: 2018-12-31
-start_date: 2019-01-31T10:00:00.000Z
-end_date: 2019-01-31T16:00:00.000Z
+start_date: 2019-01-31 10:00:00
+end_date: 2019-01-31 16:00:00
 categories: [Event]
 tags: [Technical Career Fair]
 aliases:

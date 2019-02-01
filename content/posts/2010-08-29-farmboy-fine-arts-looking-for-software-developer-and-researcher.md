@@ -1,6 +1,6 @@
 ---
 title: "Farmboy Fine Arts looking for software developer and researcher"
-date: 2010-08-29T19:34:00.000Z
+date: 2010-08-29 19:34:00
 aliases:
   - /node/1377
 author: Christopher Head

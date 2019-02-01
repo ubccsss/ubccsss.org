@@ -1,12 +1,12 @@
 ---
 title: "The Cube AGM"
-date: 2010-11-15T07:42:00.000Z
+date: 2010-11-15 07:42:00
 aliases:
   - /node/1411
 author: bertong
 images: []
-start_date: 2010-11-17T17:30:00.000Z
-end_date: 2010-11-17T19:00:00.000Z
+start_date: 2010-11-17 17:30:00
+end_date: 2010-11-17 19:00:00
 location:
   name: DMP 101
   address:

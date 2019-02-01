@@ -1,13 +1,13 @@
 ---
 title: "NSERC application review session"
-date: 2010-09-09T07:53:00.000Z
+date: 2010-09-09 07:53:00
 aliases:
   - /node/1386
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2010-09-09T13:00:00.000Z
-end_date: 2010-09-09T14:30:00.000Z
+start_date: 2010-09-09 13:00:00
+end_date: 2010-09-09 14:30:00
 location:
   name: ICICS 204
   address:

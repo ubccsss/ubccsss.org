@@ -1,6 +1,6 @@
 ---
 title: "Website Developer / Technical Co-Founder (CTO) for Early Stage Start-Up"
-date: 2009-04-06T05:21:00.000Z
+date: 2009-04-06 05:21:00
 aliases:
   - /node/1239
 author: Christopher Head

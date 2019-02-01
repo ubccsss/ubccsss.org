@@ -1,13 +1,13 @@
 ---
 title: "TELUS Open House"
-date: 2013-09-25T16:48:00.000Z
+date: 2013-09-25 16:48:00
 aliases:
   - /node/1529
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2013-09-27T12:30:00.000Z
-end_date: 2013-09-27T15:00:00.000Z
+start_date: 2013-09-27 12:30:00
+end_date: 2013-09-27 15:00:00
 raw_location: Atrium, 3777 Kingsway, Burnaby
 ---
 

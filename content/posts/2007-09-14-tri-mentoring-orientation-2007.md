@@ -1,14 +1,14 @@
 ---
 title: "Tri-mentoring Orientation 2007"
-date: 2007-09-14T21:10:00.000Z
+date: 2007-09-14 21:10:00
 aliases:
   - /node/933
 author: atjia
 images: []
 categories: [Career]
 tags: [Tri-Mentoring]
-start_date: 2007-09-11T18:30:00.000Z
-end_date: 2007-09-11T20:00:00.000Z
+start_date: 2007-09-11 18:30:00
+end_date: 2007-09-11 20:00:00
 location:
   name: DMP 110
   address:

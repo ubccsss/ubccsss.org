@@ -8,8 +8,8 @@ aliases:
 author: njhu
 images:
   - /files/media%20cover%20new.jpg
-start_date: 2018-10-29T18:30:00.000Z
-end_date: 2018-10-29T20:30:00.000Z
+start_date: 2018-10-29 18:30:00
+end_date: 2018-10-29 20:30:00
 location:
   name: DMP 301
   address:

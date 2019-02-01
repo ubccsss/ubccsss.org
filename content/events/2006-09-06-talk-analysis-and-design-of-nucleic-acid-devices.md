@@ -7,8 +7,8 @@ aliases:
   - /node/484
 author: atjia
 images: []
-start_date: 2006-09-11T16:00:00.000Z
-end_date: 2006-09-11T17:00:00.000Z
+start_date: 2006-09-11 16:00:00
+end_date: 2006-09-11 17:00:00
 raw_location: Peter Wall Institute, 6331 Crescent Road, Room 309
 ---
 

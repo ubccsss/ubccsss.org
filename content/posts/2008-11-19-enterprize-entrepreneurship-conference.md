@@ -1,14 +1,14 @@
 ---
 title: "Enterprize Entrepreneurship conference"
-date: 2008-11-19T19:16:00.000Z
+date: 2008-11-19 19:16:00
 aliases:
   - /node/1159
 author: atjia
 images:
   - /files/enterprize.png
 categories: [Career]
-start_date: 2009-02-06T08:00:00.000Z
-end_date: 2009-02-08T22:00:00.000Z
+start_date: 2009-02-06 08:00:00
+end_date: 2009-02-08 22:00:00
 raw_location: Downtown Vancouver
 ---
 

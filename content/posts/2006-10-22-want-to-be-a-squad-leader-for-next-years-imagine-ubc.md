@@ -1,6 +1,6 @@
 ---
 title: "Want to be a Squad Leader for next year's IMAGINE UBC?"
-date: 2006-10-22T19:51:00.000Z
+date: 2006-10-22 19:51:00
 aliases:
   - /node/515
 author: robf

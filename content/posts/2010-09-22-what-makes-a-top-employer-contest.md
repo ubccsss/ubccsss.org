@@ -1,6 +1,6 @@
 ---
 title: "What Makes a Top Employer Contest"
-date: 2010-09-22T23:26:00.000Z
+date: 2010-09-22 23:26:00
 aliases:
   - /node/1393
 author: bertong

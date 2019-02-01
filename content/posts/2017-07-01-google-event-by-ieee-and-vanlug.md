@@ -1,13 +1,13 @@
 ---
 title: "Google event by IEEE and VanLUG"
-date: 2017-07-01T18:50:00.000Z
+date: 2017-07-01 18:50:00
 aliases:
   - /node/420
 author: atjia
 images: []
 categories: [Career]
-start_date: 2006-02-20T15:00:00.000Z
-end_date: 2006-02-20T16:30:00.000Z
+start_date: 2006-02-20 15:00:00
+end_date: 2006-02-20 16:30:00
 raw_location: Kaiser Room 2030
 ---
 

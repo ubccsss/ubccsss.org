@@ -5,8 +5,8 @@ categories: [Event]
 aliases:
   - /node/715
 author: robf
-start_date: 2007-03-15T19:30:00.000Z
-end_date: 2007-03-15T22:00:00.000Z
+start_date: 2007-03-15 19:30:00
+end_date: 2007-03-15 22:00:00
 location:
   name: The Vancouver Rowing Club
   address:

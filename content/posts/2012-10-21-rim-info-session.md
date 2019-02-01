@@ -1,14 +1,14 @@
 ---
 title: "RIM Info Session"
-date: 2012-10-22T05:26:00.000Z
+date: 2012-10-22 05:26:00
 aliases:
   - /node/371
 author: atjia
 images:
   - /files/rimlogo.gif
 categories: [Career]
-start_date: 2006-01-18T11:00:00.000Z
-end_date: 2006-01-18T17:30:00.000Z
+start_date: 2006-01-18 11:00:00
+end_date: 2006-01-18 17:30:00
 raw_location: David Lam Forum
 ---
 

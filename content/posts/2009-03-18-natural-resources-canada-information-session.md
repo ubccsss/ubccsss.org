@@ -5,8 +5,8 @@ aliases:
   - /node/1217
 author: Christopher Head
 categories: [Career]
-start_date: 2009-03-19T11:00:00.000Z
-end_date: 2009-03-19T12:00:00.000Z
+start_date: 2009-03-19 11:00:00
+end_date: 2009-03-19 12:00:00
 raw_location: SCRF 201
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "UBC Technology Entrepreneurship Club Seminar"
-date: 2006-11-01T10:21:00.000Z
+date: 2006-11-01 10:21:00
 aliases:
   - /node/522
 author: robf

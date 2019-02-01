@@ -1,13 +1,13 @@
 ---
 title: "Computer Science Tri-mentoring Program Info Session (September 20, 2005)"
-date: 2005-09-08T04:27:00.000Z
+date: 2005-09-08 04:27:00
 aliases:
   - /node/47
 author: mlee
 images: []
 categories: [Career]
-start_date: 2005-09-20T17:30:00.000Z
-end_date: 2005-09-20T19:30:00.000Z
+start_date: 2005-09-20 17:30:00
+end_date: 2005-09-20 19:30:00
 location:
   name: Hugh Dempster Pavilion (DMP) -> Room 310 -> 6245 Agronomy Road
   address:

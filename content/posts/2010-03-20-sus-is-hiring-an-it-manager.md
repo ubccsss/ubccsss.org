@@ -1,6 +1,6 @@
 ---
 title: "SUS is hiring an IT Manager"
-date: 2010-03-20T23:47:00.000Z
+date: 2010-03-20 23:47:00
 aliases:
   - /node/1341
 author: Christopher Head

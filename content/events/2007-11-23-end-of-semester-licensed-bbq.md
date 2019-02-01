@@ -7,8 +7,8 @@ aliases:
   - /node/1017
 author: Christopher Head
 images: []
-start_date: 2007-11-30T15:00:00.000Z
-end_date: 2007-11-30T19:00:00.000Z
+start_date: 2007-11-30 15:00:00
+end_date: 2007-11-30 19:00:00
 location:
   name: X-wing Lounge
   address:

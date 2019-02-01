@@ -1,6 +1,6 @@
 ---
 title: "UBC Computer Science Alumni Panel"
-date: 2005-10-23T02:20:00.000Z
+date: 2005-10-23 02:20:00
 aliases:
   - /node/62
 author: atjia

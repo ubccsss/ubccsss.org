@@ -8,8 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/geng_lin_picture.jpg
-start_date: 2006-02-09T15:00:00.000Z
-end_date: 2006-02-09T16:30:00.000Z
+start_date: 2006-02-09 15:00:00
+end_date: 2006-02-09 16:30:00
 location:
   name: DMP 310
   address:

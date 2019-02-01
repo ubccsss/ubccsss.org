@@ -7,8 +7,8 @@ aliases:
 author: atjia
 images:
   - /files/wineandcheese.gif
-start_date: 2005-11-25T18:00:00.000Z
-end_date: 2005-11-25T22:00:00.000Z
+start_date: 2005-11-25 18:00:00
+end_date: 2005-11-25 22:00:00
 location:
   name: CS Undergrad Lounge
   address:

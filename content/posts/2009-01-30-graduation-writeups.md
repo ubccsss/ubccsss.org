@@ -1,6 +1,6 @@
 ---
 title: "Graduation Writeups!"
-date: 2009-01-30T23:08:00.000Z
+date: 2009-01-30 23:08:00
 aliases:
   - /node/1194
 author: atjia

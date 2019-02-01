@@ -6,8 +6,8 @@ aliases:
   - /node/1156
 author: Christopher Head
 images: []
-start_date: 2008-11-28T18:57:00.000Z
-end_date: 2008-11-28T20:00:00.000Z
+start_date: 2008-11-28 18:57:00
+end_date: 2008-11-28 20:00:00
 ---
 
 From November 10 to 28, the Computer Science Student Society will be

@@ -1,6 +1,6 @@
 ---
 title: "Research Night"
-date: 2007-10-30T08:36:00.000Z
+date: 2007-10-30 08:36:00
 aliases:
   - /node/1013
 author: Christopher Head

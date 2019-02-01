@@ -1,13 +1,13 @@
 ---
 title: "Start-Up Career Fair and Launch Party Vancouver 4"
-date: 2012-10-22T06:43:00.000Z
+date: 2012-10-22 06:43:00
 aliases:
   - /node/1060
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-05-21T16:00:00.000Z
-end_date: 2008-05-21T18:30:00.000Z
+start_date: 2008-05-21 16:00:00
+end_date: 2008-05-21 18:30:00
 raw_location: Republic at 958 Granville Street
 ---
 

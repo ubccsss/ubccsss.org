@@ -1,6 +1,6 @@
 ---
 title: "SUS IT Manager and Webmaster positions still available!"
-date: 2007-09-20T05:01:00.000Z
+date: 2007-09-20 05:01:00
 aliases:
   - /node/988
 author: atjia

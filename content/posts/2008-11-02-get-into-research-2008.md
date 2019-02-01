@@ -1,13 +1,13 @@
 ---
 title: "Get Into Research 2008"
-date: 2008-11-02T18:22:00.000Z
+date: 2008-11-02 18:22:00
 aliases:
   - /node/1116
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-11-04T17:00:00.000Z
-end_date: 2008-11-04T20:00:00.000Z
+start_date: 2008-11-04 17:00:00
+end_date: 2008-11-04 20:00:00
 raw_location: Woodward 2
 ---
 

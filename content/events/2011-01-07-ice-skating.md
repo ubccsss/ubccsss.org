@@ -7,8 +7,8 @@ aliases:
   - /node/1418
 author: bertong
 images: []
-start_date: 2011-01-07T15:15:00.000Z
-end_date: 2011-01-07T17:45:00.000Z
+start_date: 2011-01-07 15:15:00
+end_date: 2011-01-07 17:45:00
 location:
   name: UBC Thunderbird Arena
   address:

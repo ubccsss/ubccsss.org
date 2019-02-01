@@ -1,14 +1,14 @@
 ---
 title: "Accenture Info Session – Engineering & Computer Science"
-date: 2007-09-16T19:06:00.000Z
+date: 2007-09-16 19:06:00
 aliases:
   - /node/966
 author: Christopher Head
 images:
   - /files/SigHP_Sz1_wht.jpg
 categories: [Career]
-start_date: 2007-09-12T17:30:00.000Z
-end_date: 2007-09-12T19:00:00.000Z
+start_date: 2007-09-12 17:30:00
+end_date: 2007-09-12 19:00:00
 raw_location: Fred Kaiser building, Room 2020
 ---
 

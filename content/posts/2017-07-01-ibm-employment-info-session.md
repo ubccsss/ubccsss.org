@@ -1,14 +1,14 @@
 ---
 title: "IBM Employment Info Session"
-date: 2017-07-01T18:49:00.000Z
+date: 2017-07-01 18:49:00
 aliases:
   - /node/234
 author: atjia
 images:
   - /files/ibm%20logo.jpg
 categories: [Career]
-start_date: 2005-11-10T11:30:00.000Z
-end_date: 2005-11-10T12:00:00.000Z
+start_date: 2005-11-10 11:30:00
+end_date: 2005-11-10 12:00:00
 location:
   name: Dempster Room 310
   address:

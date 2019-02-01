@@ -1,6 +1,6 @@
 ---
 title: "Exams Database"
-date: 2017-03-09T03:50:00.000Z
+date: 2017-03-09 03:50:00
 layout: single
 aliases:
   - /services/exams

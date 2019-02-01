@@ -1,6 +1,6 @@
 ---
 title: CPSC 304
-date: 2016-12-15T03:43:00.000Z
+date: 2016-12-15 03:43:00
 aliases:
   - /services/exams/cpsc304
 author: Tristan Rice

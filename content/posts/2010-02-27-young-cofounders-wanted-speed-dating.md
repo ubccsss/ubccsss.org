@@ -5,8 +5,8 @@ aliases:
   - /node/1321
 author: Christopher Head
 categories: [Career]
-start_date: 2010-03-03T19:00:00.000Z
-end_date: 2010-03-03T20:00:00.000Z
+start_date: 2010-03-03 19:00:00
+end_date: 2010-03-03 20:00:00
 raw_location: Toyo Sushi, 2211 Cambie Street, Vancouver, BC V5Z 2T5
 ---
 

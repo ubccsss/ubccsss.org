@@ -1,6 +1,6 @@
 ---
 title: "Summer of Code Application Deadline"
-date: 2009-04-01T16:07:00.000Z
+date: 2009-04-01 16:07:00
 aliases:
   - /node/1238
 author: Christopher Head

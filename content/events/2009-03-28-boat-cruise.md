@@ -7,8 +7,8 @@ aliases:
   - /node/1214
 author: Christopher Head
 images: []
-start_date: 2009-03-28T18:30:00.000Z
-end_date: 2009-03-28T23:00:00.000Z
+start_date: 2009-03-28 18:30:00
+end_date: 2009-03-28 23:00:00
 raw_location: Harbour Cruises Marina—#1 North Foot of Denman Street
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "FoWCS Brown Bag Lunch"
-date: 2007-03-08T21:52:00.000Z
+date: 2007-03-08 21:52:00
 aliases:
   - /node/716
 author: robf

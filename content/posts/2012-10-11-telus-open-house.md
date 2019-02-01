@@ -1,13 +1,13 @@
 ---
 title: "TELUS Open House"
-date: 2012-10-11T07:03:00.000Z
+date: 2012-10-11 07:03:00
 aliases:
   - /node/1492
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2012-10-25T12:00:00.000Z
-end_date: 2012-10-25T16:00:00.000Z
+start_date: 2012-10-25 12:00:00
+end_date: 2012-10-25 16:00:00
 raw_location: 4th Floor of “The Boot” 3777 Kingsway
 ---
 

@@ -7,8 +7,8 @@ aliases:
 author: atjia
 images:
   - /files/beach.jpg
-start_date: 2006-09-22T14:00:00.000Z
-end_date: 2006-09-22T23:59:00.000Z
+start_date: 2006-09-22 14:00:00
+end_date: 2006-09-22 23:59:00
 location:
   name: Somewhere where the land meets the sea...
   address:

@@ -6,8 +6,8 @@ aliases:
   - /node/489
 author: atjia
 images: []
-start_date: 2006-09-21T12:30:00.000Z
-end_date: 2006-09-21T14:00:00.000Z
+start_date: 2006-09-21 12:30:00
+end_date: 2006-09-21 14:00:00
 location:
   name: ICICS X530
   address:

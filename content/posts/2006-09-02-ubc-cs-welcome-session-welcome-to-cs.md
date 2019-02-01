@@ -1,6 +1,6 @@
 ---
 title: "UBC CS Welcome Session - Welcome to CS!"
-date: 2006-09-02T20:40:00.000Z
+date: 2006-09-02 20:40:00
 aliases:
   - /node/480
 author: atjia

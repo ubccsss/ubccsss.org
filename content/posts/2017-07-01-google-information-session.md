@@ -1,14 +1,14 @@
 ---
 title: "Google Information Session"
-date: 2017-07-01T18:48:00.000Z
+date: 2017-07-01 18:48:00
 aliases:
   - /node/478
 author: Christopher Head
 images:
   - /files/Logo_40wht.gif
 categories: [Career]
-start_date: 2006-09-28T17:30:00.000Z
-end_date: 2006-09-28T18:30:00.000Z
+start_date: 2006-09-28 17:30:00
+end_date: 2006-09-28 18:30:00
 location:
   name: Forest Sciences 1005 NOT Dempster 110 and NOT Dempster 310 as previously stated!
   address:

@@ -1,13 +1,13 @@
 ---
 title: "Greg Aasen, PMC-Sierra: From High-Tech Startup to Industry Leader"
-date: 2010-05-07T08:44:00.000Z
+date: 2010-05-07 08:44:00
 aliases:
   - /node/698
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2007-02-06T17:00:00.000Z
-end_date: 2007-02-06T19:00:00.000Z
+start_date: 2007-02-06 17:00:00
+end_date: 2007-02-06 19:00:00
 raw_location: Hennings 201
 ---
 

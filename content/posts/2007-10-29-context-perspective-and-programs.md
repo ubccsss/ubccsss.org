@@ -1,6 +1,6 @@
 ---
 title: "Context, Perspective and Programs"
-date: 2007-10-29T21:47:00.000Z
+date: 2007-10-29 21:47:00
 aliases:
   - /node/1011
 author: atjia

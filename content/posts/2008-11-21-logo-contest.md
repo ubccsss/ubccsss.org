@@ -1,6 +1,6 @@
 ---
 title: "Logo Contest Results"
-date: 2008-11-21T08:27:00.000Z
+date: 2008-11-21 08:27:00
 aliases:
   - /node/1161
 author: Christopher Head

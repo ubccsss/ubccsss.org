@@ -1,6 +1,6 @@
 ---
 title: "Imagine Cup 2009 Game Development"
-date: 2009-01-16T16:59:00.000Z
+date: 2009-01-16 16:59:00
 aliases:
   - /node/1181
 author: Christopher Head

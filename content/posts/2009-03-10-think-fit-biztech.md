@@ -1,13 +1,13 @@
 ---
 title: "Think F.I.T. Conference: BizTech’s annual event"
-date: 2009-03-04T00:03:00.000Z
+date: 2009-03-04 00:03:00
 aliases:
   - /node/1212
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2009-03-10T18:30:00.000Z
-end_date: 2009-03-10T20:45:00.000Z
+start_date: 2009-03-10 18:30:00
+end_date: 2009-03-10 20:45:00
 raw_location: Woodward 6
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Mailing List"
-date: 2016-03-08T06:17:00.000Z
+date: 2016-03-08 06:17:00
 aliases:
   - /node/1458
 author: Christopher Head

@@ -1,6 +1,6 @@
 ---
 title: "Graduate School and NSERC Scholarship Workshop"
-date: 2006-09-02T20:26:00.000Z
+date: 2006-09-02 20:26:00
 aliases:
   - /node/476
 author: atjia

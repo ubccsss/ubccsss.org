@@ -1,6 +1,6 @@
 ---
 title: "Imagine Cup 2009 Egypt Info Session"
-date: 2008-11-21T07:43:00.000Z
+date: 2008-11-21 07:43:00
 aliases:
   - /node/1160
 author: Christopher Head

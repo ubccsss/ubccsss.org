@@ -1,6 +1,6 @@
 ---
 title: "Guitar Hero Tournament"
-date: 2008-01-27T11:13:00.000Z
+date: 2008-01-27 11:13:00
 aliases:
   - /node/1034
 author: Christopher Head

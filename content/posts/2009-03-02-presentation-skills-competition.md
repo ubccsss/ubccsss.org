@@ -1,6 +1,6 @@
 ---
 title: "Presentation Skills Competition"
-date: 2009-03-02T16:38:00.000Z
+date: 2009-03-02 16:38:00
 aliases:
   - /node/1205
 author: Christopher Head

@@ -1,6 +1,6 @@
 ---
 title: "CSSS Logo Design Contest"
-date: 2006-11-19T04:24:00.000Z
+date: 2006-11-19 04:24:00
 aliases:
   - /node/517
 author: robf

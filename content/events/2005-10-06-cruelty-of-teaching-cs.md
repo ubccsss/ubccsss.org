@@ -8,8 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/astrachan.jpg
-start_date: 2005-10-06T16:00:00.000Z
-end_date: 2005-10-06T17:30:00.000Z
+start_date: 2005-10-06 16:00:00
+end_date: 2005-10-06 17:30:00
 location:
   name: DMP 310
   address:

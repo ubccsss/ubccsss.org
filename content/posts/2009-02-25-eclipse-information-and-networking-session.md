@@ -5,8 +5,8 @@ aliases:
   - /node/1204
 author: Christopher Head
 categories: [Career]
-start_date: 2009-03-03T17:00:00.000Z
-end_date: 2009-03-03T18:30:00.000Z
+start_date: 2009-03-03 17:00:00
+end_date: 2009-03-03 18:30:00
 location:
   name: DMP 201
   address:

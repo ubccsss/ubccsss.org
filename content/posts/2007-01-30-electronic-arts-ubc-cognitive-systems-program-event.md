@@ -1,14 +1,14 @@
 ---
 title: "Electronic Arts - UBC Cognitive Systems Program event"
-date: 2007-01-31T01:44:00.000Z
+date: 2007-01-31 01:44:00
 aliases:
   - /node/696
 author: robf
 images:
   - /files/ea.gif
 categories: [Career]
-start_date: 2007-02-07T18:30:00.000Z
-end_date: 2007-02-07T22:00:00.000Z
+start_date: 2007-02-07 18:30:00
+end_date: 2007-02-07 22:00:00
 raw_location: EAC (Burnaby Electronic Arts studio)
 ---
 

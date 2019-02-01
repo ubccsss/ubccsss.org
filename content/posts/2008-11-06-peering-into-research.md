@@ -1,6 +1,6 @@
 ---
 title: "Peering into Research: the seminar series"
-date: 2008-11-02T18:24:00.000Z
+date: 2008-11-02 18:24:00
 aliases:
   - /node/1123
 author: Christopher Head

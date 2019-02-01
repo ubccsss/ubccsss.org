@@ -1,6 +1,6 @@
 ---
 title: CPSC 211
-date: 2017-03-09T03:53:00.000Z
+date: 2017-03-09 03:53:00
 aliases:
   - /services/exams/cpsc211
 author: Tristan Rice

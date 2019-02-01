@@ -8,8 +8,8 @@ aliases:
 author: arieljcao
 images:
   - /files/26240038_1781782651845524_1497206206029099164_o.jpg
-start_date: 2018-01-25T10:00:00.000Z
-end_date: 2018-01-25T16:00:00.000Z
+start_date: 2018-01-25 10:00:00
+end_date: 2018-01-25 16:00:00
 location:
   name: Life Science Building
   address:

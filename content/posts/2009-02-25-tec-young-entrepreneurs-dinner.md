@@ -5,8 +5,8 @@ aliases:
   - /node/1202
 author: Christopher Head
 categories: [Career]
-start_date: 2009-03-03T17:30:00.000Z
-end_date: 2009-03-03T21:00:00.000Z
+start_date: 2009-03-03 17:30:00
+end_date: 2009-03-03 21:00:00
 raw_location: Renaissance Vancouver Hotel Harbourside (1133 West Hastings Street)
 ---
 

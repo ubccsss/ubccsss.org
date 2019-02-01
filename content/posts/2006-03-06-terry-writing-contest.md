@@ -1,6 +1,6 @@
 ---
 title: "Terry Writing Contest"
-date: 2006-03-07T05:44:00.000Z
+date: 2006-03-07 05:44:00
 aliases:
   - /node/457
 author: atjia

@@ -1,14 +1,14 @@
 ---
 title: "TELUS Business Transformation Open House"
-date: 2017-07-01T18:49:00.000Z
+date: 2017-07-01 18:49:00
 aliases:
   - /node/692
 author: robf
 images:
   - /files/telus_logo.gif
 categories: [Career]
-start_date: 2007-01-26T12:00:00.000Z
-end_date: 2007-01-26T16:00:00.000Z
+start_date: 2007-01-26 12:00:00
+end_date: 2007-01-26 16:00:00
 raw_location: 3777 Kingsway, Burnaby (at the corner of Kingsway & Boundary)
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The CSSS needs more tutors!"
-date: 2013-08-29T03:46:00.000Z
+date: 2013-08-29 03:46:00
 aliases:
   - /node/1504
 author: Christopher Head

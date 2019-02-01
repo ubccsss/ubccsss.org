@@ -1,13 +1,13 @@
 ---
 title: "Masters of Digital Media Information Session"
-date: 2010-02-05T09:43:00.000Z
+date: 2010-02-05 09:43:00
 aliases:
   - /node/1316
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2010-02-11T12:30:00.000Z
-end_date: 2010-02-11T13:30:00.000Z
+start_date: 2010-02-11 12:30:00
+end_date: 2010-02-11 13:30:00
 location:
   name: DMP201
   address:

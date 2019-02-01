@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Makes Developing Easier for You!"
-date: 2008-03-07T06:57:00.000Z
+date: 2008-03-07 06:57:00
 aliases:
   - /node/1042
 author: atjia

@@ -1,6 +1,6 @@
 ---
 title: "Upcoming Price Changes"
-date: 2010-09-13T22:22:00.000Z
+date: 2010-09-13 22:22:00
 aliases:
   - /node/1388
 author: bertong

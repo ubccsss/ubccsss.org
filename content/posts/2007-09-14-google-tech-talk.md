@@ -1,13 +1,13 @@
 ---
 title: "Google Tech Talk"
-date: 2007-09-14T20:54:00.000Z
+date: 2007-09-14 20:54:00
 aliases:
   - /node/944
 author: atjia
 images: []
 categories: [Career]
-start_date: 2007-09-26T18:30:00.000Z
-end_date: 2007-09-26T20:00:00.000Z
+start_date: 2007-09-26 18:30:00
+end_date: 2007-09-26 20:00:00
 location:
   name: DMP 310
   address:

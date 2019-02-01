@@ -1,12 +1,12 @@
 ---
 title: "(Semi) Annual General Meeting"
-date: 2006-01-16T07:48:00.000Z
+date: 2006-01-16 07:48:00
 aliases:
   - /node/370
 author: atjia
 images: []
-start_date: 2006-01-12T11:30:00.000Z
-end_date: 2006-01-12T12:30:00.000Z
+start_date: 2006-01-12 11:30:00
+end_date: 2006-01-12 12:30:00
 location:
   name: CS Ugrad Lounge
   address:

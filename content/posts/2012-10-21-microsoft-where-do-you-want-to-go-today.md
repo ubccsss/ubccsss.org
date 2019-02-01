@@ -1,13 +1,13 @@
 ---
 title: "Microsoft - Where do you want to go today?"
-date: 2012-10-22T05:25:00.000Z
+date: 2012-10-22 05:25:00
 aliases:
   - /node/217
 author: atjia
 images: []
 categories: [Career]
-start_date: 2005-11-23T17:00:00.000Z
-end_date: 2005-11-23T18:15:00.000Z
+start_date: 2005-11-23 17:00:00
+end_date: 2005-11-23 18:15:00
 location:
   name: Dempster Room 310
   address:

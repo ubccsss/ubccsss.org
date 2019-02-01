@@ -1,6 +1,6 @@
 ---
 title: "Application Developer - ZE Power Group, Vancouver"
-date: 2009-03-02T16:42:00.000Z
+date: 2009-03-02 16:42:00
 aliases:
   - /node/1210
 author: Christopher Head

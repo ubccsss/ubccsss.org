@@ -1,13 +1,13 @@
 ---
 title: "BizTech Network Enterprise Architecture Conference"
-date: 2012-10-25T09:01:00.000Z
+date: 2012-10-25 09:01:00
 aliases:
   - /node/1502
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2012-10-27T08:30:00.000Z
-end_date: 2012-10-27T17:00:00.000Z
+start_date: 2012-10-27 08:30:00
+end_date: 2012-10-27 17:00:00
 ---
 
 Want to learn more about IT and how to bridge the gap between IT and business? This year UBC BizTech Network is going to present the very first “Enterprise Architecture (EA) Conference”. This one-day conference aims to introduce university students the profession of Enterprise Architecture (EA) and how EA brings benefits to businesses. Come to the EA Conference and learn about this growing profession with growing importance, network with practitioners from ICBC, PHSA, Vancity, IBM, Troux, Finning Canada, and many more, and become a part of UBC’s new Enterprise Architecture Initiative!

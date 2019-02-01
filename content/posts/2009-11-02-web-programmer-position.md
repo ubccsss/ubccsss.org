@@ -1,6 +1,6 @@
 ---
 title: "Web programmer position"
-date: 2009-11-02T23:37:00.000Z
+date: 2009-11-02 23:37:00
 aliases:
   - /node/1273
 author: Christopher Head

@@ -1,14 +1,14 @@
 ---
 title: "An Evening at TELUS Science World for Women in Science, Engineering and Technology"
-date: 2007-02-13T09:04:00.000Z
+date: 2007-02-13 09:04:00
 aliases:
   - /node/708
 author: robf
 images:
   - /modules/file/icons/application-pdf.svg
 categories: [Career]
-start_date: 2007-03-06T17:30:00.000Z
-end_date: 2007-03-06T21:00:00.000Z
+start_date: 2007-03-06 17:30:00
+end_date: 2007-03-06 21:00:00
 raw_location: TELUS Science World
 ---
 

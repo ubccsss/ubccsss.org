@@ -1,6 +1,6 @@
 ---
 title: "End of term"
-date: 2012-10-22T05:46:00.000Z
+date: 2012-10-22 05:46:00
 aliases:
   - /node/338
 author: Christopher Head

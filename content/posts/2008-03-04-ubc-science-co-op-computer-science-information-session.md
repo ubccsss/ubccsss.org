@@ -1,6 +1,6 @@
 ---
 title: "UBC Science Co-op – Computer Science Information Session"
-date: 2008-03-04T08:17:00.000Z
+date: 2008-03-04 08:17:00
 aliases:
   - /node/1041
 author: atjia

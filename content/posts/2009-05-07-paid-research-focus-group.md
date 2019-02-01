@@ -5,8 +5,8 @@ aliases:
   - /node/1244
 author: Christopher Head
 categories: [Career]
-start_date: 2009-05-25T23:58:00.000Z
-end_date: 2009-05-25T23:59:00.000Z
+start_date: 2009-05-25 23:58:00
+end_date: 2009-05-25 23:59:00
 ---
 
 Get paid $100 for a 2-hour focus group. If you have any web, mobile, or desktop programming experience then fill out this two-minute survey to see if you qualify for the focus group. Those selected will be notified by e-mail on Wednesday, May 13th. Pizza will be served at each session, and this is a great way to make some easy money for simply showing up and participating in a discussion.

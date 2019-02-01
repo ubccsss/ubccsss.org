@@ -1,11 +1,11 @@
 ---
 title: "Discover Computer Science at the University of Calgary"
-date: 2012-09-13T03:29:00.000Z
+date: 2012-09-13 03:29:00
 aliases:
   - /node/1483
 author: Christopher Head
-start_date: 2012-10-19T20:22:00.000Z
-end_date: 2012-10-20T20:22:00.000Z
+start_date: 2012-10-19 20:22:00
+end_date: 2012-10-20 20:22:00
 categories: [Career]
 raw_location: University of Calgary
 ---

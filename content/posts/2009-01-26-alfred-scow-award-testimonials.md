@@ -1,6 +1,6 @@
 ---
 title: "Alfred Scow Award Testimonials"
-date: 2009-01-27T06:15:00.000Z
+date: 2009-01-27 06:15:00
 aliases:
   - /node/1191
 author: Christopher Head

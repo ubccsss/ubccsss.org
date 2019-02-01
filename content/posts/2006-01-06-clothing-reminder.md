@@ -1,6 +1,6 @@
 ---
 title: "Clothing Reminder"
-date: 2006-01-06T09:24:00.000Z
+date: 2006-01-06 09:24:00
 type: page
 aliases:
   - /node/359

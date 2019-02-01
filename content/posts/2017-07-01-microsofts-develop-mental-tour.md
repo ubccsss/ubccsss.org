@@ -1,14 +1,14 @@
 ---
 title: "Microsoft's Develop Mental Tour"
-date: 2017-07-01T18:47:00.000Z
+date: 2017-07-01 18:47:00
 aliases:
   - /node/448
 author: dtan
 images:
   - /files/developmental.jpg
 categories: [Career]
-start_date: 2006-03-02T17:00:00.000Z
-end_date: 2006-03-02T19:00:00.000Z
+start_date: 2006-03-02 17:00:00
+end_date: 2006-03-02 19:00:00
 raw_location: GSS Ballroom corner of West Mall & Crescent Rd
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Do you want to work at Microsoft??"
-date: 2008-09-14T09:34:00.000Z
+date: 2008-09-14 09:34:00
 type: page
 aliases:
   - /node/346

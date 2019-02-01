@@ -1,6 +1,6 @@
 ---
 title: "International Relations Students Association looking for Web designer/developer"
-date: 2009-06-22T00:08:00.000Z
+date: 2009-06-22 00:08:00
 aliases:
   - /node/1247
 author: Christopher Head

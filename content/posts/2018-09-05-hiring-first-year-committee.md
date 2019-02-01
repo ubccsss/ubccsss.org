@@ -1,6 +1,6 @@
 ---
 title: "Hiring for First Year Committee"
-date: 2018-09-05T20:36:00.000Z
+date: 2018-09-05 20:36:00
 aliases:
   - /content/hiring-first-year-committee
 author: Tiger Oakes

@@ -1,11 +1,11 @@
 ---
 title: "entrepreneurship@UBC looking for student- and alumni-founded companies"
-date: 2010-07-28T07:29:00.000Z
+date: 2010-07-28 07:29:00
 aliases:
   - /node/1371
 author: Christopher Head
-start_date: 2010-08-31T00:26:00.000Z
-end_date: 2010-08-31T01:26:00.000Z
+start_date: 2010-08-31 00:26:00
+end_date: 2010-08-31 01:26:00
 categories: [Career]
 ---
 

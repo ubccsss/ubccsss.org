@@ -1,6 +1,6 @@
 ---
 title: CPSC 101
-date: 2017-03-09T03:50:00.000Z
+date: 2017-03-09 03:50:00
 aliases:
   - /services/exams/cpsc101
 author: Tristan Rice

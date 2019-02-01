@@ -1,13 +1,13 @@
 ---
 title: "VSEA Speaker"
-date: 2010-01-08T08:26:00.000Z
+date: 2010-01-08 08:26:00
 aliases:
   - /node/1292
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2010-01-15T17:00:00.000Z
-end_date: 2010-01-15T18:00:00.000Z
+start_date: 2010-01-15 17:00:00
+end_date: 2010-01-15 18:00:00
 raw_location: Irving K. Barber Learning Centre, RM 216
 ---
 

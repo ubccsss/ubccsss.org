@@ -1,6 +1,6 @@
 ---
 title: CPSC 320
-date: 2016-12-15T03:58:00.000Z
+date: 2016-12-15 03:58:00
 aliases:
   - /services/exams/cpsc320
 author: Tristan Rice

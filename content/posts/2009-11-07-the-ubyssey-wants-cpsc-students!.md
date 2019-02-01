@@ -1,6 +1,6 @@
 ---
 title: "The Ubyssey wants CPSC Students!"
-date: 2009-11-07T08:50:00.000Z
+date: 2009-11-07 08:50:00
 aliases:
   - /node/1276
 author: Christopher Head

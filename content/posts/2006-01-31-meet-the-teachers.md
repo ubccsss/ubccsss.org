@@ -1,6 +1,6 @@
 ---
 title: "Meet the Teachers"
-date: 2006-01-31T20:47:00.000Z
+date: 2006-01-31 20:47:00
 aliases:
   - /node/409
 author: atjia

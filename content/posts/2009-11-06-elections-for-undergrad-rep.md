@@ -1,6 +1,6 @@
 ---
 title: "Elections for Undergraduate Student Representative"
-date: 2009-11-06T07:38:00.000Z
+date: 2009-11-06 07:38:00
 aliases:
   - /node/1274
 author: Christopher Head

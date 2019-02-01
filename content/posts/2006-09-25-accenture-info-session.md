@@ -1,12 +1,12 @@
 ---
 title: "Accenture Info Session"
-date: 2006-09-25T20:30:00.000Z
+date: 2006-09-25 20:30:00
 aliases:
   - /node/492
 author: jlo
 images: []
-start_date: 2006-09-26T17:30:00.000Z
-end_date: 2006-09-26T18:30:00.000Z
+start_date: 2006-09-26 17:30:00
+end_date: 2006-09-26 18:30:00
 raw_location: Wesbrook 100 (the white building across UBC bookstore)
 categories: [Career]
 ---

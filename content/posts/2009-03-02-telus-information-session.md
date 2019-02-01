@@ -1,13 +1,13 @@
 ---
 title: "TELUS Information Session"
-date: 2009-03-02T16:52:00.000Z
+date: 2009-03-02 16:52:00
 aliases:
   - /node/1206
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2009-03-11T17:30:00.000Z
-end_date: 2009-03-11T19:30:00.000Z
+start_date: 2009-03-11 17:30:00
+end_date: 2009-03-11 19:30:00
 location:
   name: DMP 301
   address:

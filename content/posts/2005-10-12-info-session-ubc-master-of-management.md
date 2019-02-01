@@ -1,13 +1,13 @@
 ---
 title: "Information Session: UBC Master of Management in Operations Research (Wed. Oct 12 @ 12pm)"
-date: 2005-11-25T06:01:00.000Z
+date: 2005-11-25 06:01:00
 aliases:
   - /node/96
 author: rchao
 images: []
 categories: [Career]
-start_date: 2005-10-12T12:00:00.000Z
-end_date: 2005-10-12T13:30:00.000Z
+start_date: 2005-10-12 12:00:00
+end_date: 2005-10-12 13:30:00
 raw_location: Volta room in Kaiser 2020
 ---
 

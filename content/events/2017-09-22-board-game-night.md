@@ -8,8 +8,8 @@ aliases:
 author: arieljcao
 images:
   - /files/Board%20Games%20Night.jpg
-start_date: 2017-09-22T18:00:00.000Z
-end_date: 2017-09-22T20:00:00.000Z
+start_date: 2017-09-22 18:00:00
+end_date: 2017-09-22 20:00:00
 location:
   name: Pacific Poke Cafe/Old Reboot Cafe in ICICS
   address:

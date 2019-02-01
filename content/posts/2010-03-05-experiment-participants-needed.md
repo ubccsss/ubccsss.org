@@ -1,6 +1,6 @@
 ---
 title: "Experiment Participants Needed"
-date: 2010-03-05T22:29:00.000Z
+date: 2010-03-05 22:29:00
 aliases:
   - /node/1329
 author: Christopher Head

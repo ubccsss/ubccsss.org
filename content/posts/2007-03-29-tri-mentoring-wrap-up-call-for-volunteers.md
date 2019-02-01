@@ -4,8 +4,8 @@ date: 2007-03-29
 aliases:
   - /node/727
 author: jlo
-start_date: 2007-04-03T18:15:00.000Z
-end_date: 2007-04-03T19:15:00.000Z
+start_date: 2007-04-03 18:15:00
+end_date: 2007-04-03 19:15:00
 raw_location: Sage Bistro, 6331 Crescent Road, UBC (next to Rose Garden)
 categories: [Career]
 tags: [Tri-Mentoring]

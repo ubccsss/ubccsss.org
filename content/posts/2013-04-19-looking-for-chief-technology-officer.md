@@ -1,6 +1,6 @@
 ---
 title: "Looking for Chief Technology Officer"
-date: 2013-04-19T07:18:00.000Z
+date: 2013-04-19 07:18:00
 aliases:
   - /node/1524
 author: Christopher Head

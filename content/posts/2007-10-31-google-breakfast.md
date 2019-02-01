@@ -1,6 +1,6 @@
 ---
 title: "Google Breakfast"
-date: 2007-11-01T00:30:00.000Z
+date: 2007-11-01 00:30:00
 aliases:
   - /node/1008
 author: atjia
@@ -8,8 +8,8 @@ images:
   - /files/google-breakfast.png
 tags: [Social]
 categories: [Career]
-start_date: 2007-11-01T09:40:00.000Z
-end_date: 2007-11-01T10:40:00.000Z
+start_date: 2007-11-01 09:40:00
+end_date: 2007-11-01 10:40:00
 location:
   name: X-wing Lounge
   address:

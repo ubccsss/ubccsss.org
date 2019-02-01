@@ -1,6 +1,6 @@
 ---
 title: "Co-op Focus Group"
-date: 2007-01-31T07:22:00.000Z
+date: 2007-01-31 07:22:00
 aliases:
   - /node/697
 author: robf
@@ -8,8 +8,8 @@ images:
   - /files/ubc.jpg
 categories: [Career]
 tags: [Resume]
-start_date: 2007-02-08T12:30:00.000Z
-end_date: 2007-02-08T13:00:00.000Z
+start_date: 2007-02-08 12:30:00
+end_date: 2007-02-08 13:00:00
 ---
 
 ![](/files/ubc.jpg)

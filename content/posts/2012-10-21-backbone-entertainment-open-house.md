@@ -1,13 +1,13 @@
 ---
 title: "Backbone Entertainment Open House"
-date: 2012-10-22T05:25:00.000Z
+date: 2012-10-22 05:25:00
 aliases:
   - /node/473
 author: atjia
 images:
   - /files/mini-inconnu.jpg
-start_date: 2006-05-04T09:00:00.000Z
-end_date: 2006-05-08T18:00:00.000Z
+start_date: 2006-05-04 09:00:00
+end_date: 2006-05-08 18:00:00
 raw_location: 110-1650 West 1st Avenue
 categories: [Career]
 ---

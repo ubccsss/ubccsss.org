@@ -1,12 +1,12 @@
 ---
 title: "CS Co-op Info Session"
-date: 2013-08-29T03:48:00.000Z
+date: 2013-08-29 03:48:00
 aliases:
   - /node/1304
 author: Christopher Head
 images: []
-start_date: 2010-01-28T12:30:00.000Z
-end_date: 2010-01-28T14:00:00.000Z
+start_date: 2010-01-28 12:30:00
+end_date: 2010-01-28 14:00:00
 location:
   name: DMP 201
   address:

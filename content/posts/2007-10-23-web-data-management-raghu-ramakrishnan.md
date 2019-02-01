@@ -1,6 +1,6 @@
 ---
 title: "Web Data Management - Raghu Ramakrishnan"
-date: 2007-10-23T18:09:00.000Z
+date: 2007-10-23 18:09:00
 aliases:
   - /node/1003
 author: atjia

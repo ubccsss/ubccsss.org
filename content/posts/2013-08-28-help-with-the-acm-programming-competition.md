@@ -5,8 +5,8 @@ aliases:
   - /node/1499
 author: Christopher Head
 categories: [Career]
-start_date: 2012-11-04T17:00:00.000Z
-end_date: 2012-11-04T18:00:00.000Z
+start_date: 2012-11-04 17:00:00
+end_date: 2012-11-04 18:00:00
 ---
 
 Volunteer to help with the ACM Pacific Northwest Regional Programming Contest! The contest is on the Saturday and there will be a volunteer briefing (with pizza) on the evening of Friday November 2. Please help us to host teams from western Canada here at UBC and see which teams advance to the World Finals in Saint Petersburg. UBC has advanced to the World Finals in 8 of the last 9 years.

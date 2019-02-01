@@ -7,8 +7,8 @@ aliases:
   - /node/1032
 author: Christopher Head
 images: []
-start_date: 2008-02-01T12:00:00.000Z
-end_date: 2008-02-01T13:00:00.000Z
+start_date: 2008-02-01 12:00:00
+end_date: 2008-02-01 13:00:00
 location:
   name: Abdul Ladha Science Student Centre
   address:

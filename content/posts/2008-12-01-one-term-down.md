@@ -1,6 +1,6 @@
 ---
 title: "One Term Down!"
-date: 2008-12-01T11:28:00.000Z
+date: 2008-12-01 11:28:00
 aliases:
   - /node/1129
 author: Christopher Head

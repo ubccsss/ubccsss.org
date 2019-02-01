@@ -1,13 +1,13 @@
 ---
 title: "HSBC Shanghai Info Session"
-date: 2007-10-16T19:00:00.000Z
+date: 2007-10-16 19:00:00
 aliases:
   - /node/999
 author: atjia
 images: []
 categories: [Career]
-start_date: 2007-10-19T17:45:00.000Z
-end_date: 2007-10-19T19:30:00.000Z
+start_date: 2007-10-19 17:45:00
+end_date: 2007-10-19 19:30:00
 raw_location: Wesbrook Room 100
 ---
 

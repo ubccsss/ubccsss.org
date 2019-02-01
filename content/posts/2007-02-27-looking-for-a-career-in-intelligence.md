@@ -1,12 +1,12 @@
 ---
 title: "Looking for a Career in Intelligence?"
-date: 2007-02-27T22:31:00.000Z
+date: 2007-02-27 22:31:00
 aliases:
   - /node/712
 author: robf
 images: []
-start_date: 2007-03-13T13:30:00.000Z
-end_date: 2007-03-13T15:00:00.000Z
+start_date: 2007-03-13 13:30:00
+end_date: 2007-03-13 15:00:00
 location:
   name: Dempster 301
   address:

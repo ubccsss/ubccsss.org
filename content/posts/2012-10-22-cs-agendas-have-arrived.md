@@ -1,6 +1,6 @@
 ---
 title: "CS Agendas have arrived!"
-date: 2012-10-22T05:52:00.000Z
+date: 2012-10-22 05:52:00
 aliases:
   - /node/58
 author: atjia

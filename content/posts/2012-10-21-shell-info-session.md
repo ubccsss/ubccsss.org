@@ -1,14 +1,14 @@
 ---
 title: "Shell Info session"
-date: 2012-10-22T05:46:00.000Z
+date: 2012-10-22 05:46:00
 aliases:
   - /node/496
 author: jlo
 images:
   - /modules/file/icons/application-pdf.svg
 categories: [Career]
-start_date: 2006-09-29T12:00:00.000Z
-end_date: 2006-09-29T13:00:00.000Z
+start_date: 2006-09-29 12:00:00
+end_date: 2006-09-29 13:00:00
 raw_location: Boardroom of Engineering Annex
 ---
 

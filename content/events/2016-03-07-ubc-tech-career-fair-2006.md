@@ -8,8 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/cfbannersmall.jpg
-start_date: 2006-01-26T09:00:00.000Z
-end_date: 2006-01-26T15:00:00.000Z
+start_date: 2006-01-26 09:00:00
+end_date: 2006-01-26 15:00:00
 location:
   name: SUB Ballroom
   address:

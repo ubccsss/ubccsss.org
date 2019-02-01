@@ -6,8 +6,8 @@ aliases:
   - /node/1158
 author: atjia
 images: []
-start_date: 2008-11-20T15:30:00.000Z
-end_date: 2008-11-20T17:00:00.000Z
+start_date: 2008-11-20 15:30:00
+end_date: 2008-11-20 17:00:00
 location:
   name: UBC Thunderbird Arena, Rink B
   address:

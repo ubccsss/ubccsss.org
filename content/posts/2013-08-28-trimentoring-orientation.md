@@ -1,14 +1,14 @@
 ---
 title: "Trimentoring Orientation"
-date: 2013-08-29T03:47:00.000Z
+date: 2013-08-29 03:47:00
 aliases:
   - /node/1069
 author: Christopher Head
 images: []
 categories: [Career]
 tags: [Tri-Mentoring]
-start_date: 2008-09-11T13:30:00.000Z
-end_date: 2008-09-11T15:00:00.000Z
+start_date: 2008-09-11 13:30:00
+end_date: 2008-09-11 15:00:00
 location:
   name: DMP310
   address:

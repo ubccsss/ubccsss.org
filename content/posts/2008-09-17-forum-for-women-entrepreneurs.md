@@ -1,6 +1,6 @@
 ---
 title: "Forum for Women Entrepreneurs"
-date: 2008-09-17T19:54:00.000Z
+date: 2008-09-17 19:54:00
 aliases:
   - /node/1082
 author: Christopher Head

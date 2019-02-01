@@ -5,8 +5,8 @@ aliases:
   - /node/1511
 author: Christopher Head
 categories: [Career]
-start_date: 2013-01-29T16:30:00.000Z
-end_date: 2013-01-29T18:30:00.000Z
+start_date: 2013-01-29 16:30:00
+end_date: 2013-01-29 18:30:00
 location:
   name: Concourse, Student Union Building (SUB)
   address:

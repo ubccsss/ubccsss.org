@@ -1,6 +1,6 @@
 ---
 title: CPSC 314
-date: 2016-12-02T23:20:00.000Z
+date: 2016-12-02 23:20:00
 aliases:
   - /services/exams/cpsc314
 author: Tristan Rice

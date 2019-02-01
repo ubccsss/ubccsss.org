@@ -1,6 +1,6 @@
 ---
 title: "Corporate Social Responsibility Workshop"
-date: 2009-03-20T06:20:00.000Z
+date: 2009-03-20 06:20:00
 aliases:
   - /node/1228
 author: Christopher Head

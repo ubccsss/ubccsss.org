@@ -1,6 +1,6 @@
 ---
 title: "New CompSci Grads—Get into PDFTron!"
-date: 2008-11-27T04:09:00.000Z
+date: 2008-11-27 04:09:00
 aliases:
   - /node/1162
 author: Christopher Head

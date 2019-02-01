@@ -8,8 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/BeerGarden_image.jpg
-start_date: 2006-02-03T15:00:00.000Z
-end_date: 2006-02-03T19:00:00.000Z
+start_date: 2006-02-03 15:00:00
+end_date: 2006-02-03 19:00:00
 location:
   name: CS Ugrad Lounge
   address:

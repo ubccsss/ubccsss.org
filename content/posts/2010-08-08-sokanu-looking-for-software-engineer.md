@@ -1,6 +1,6 @@
 ---
 title: "Sokanu looking for software engineer"
-date: 2010-08-09T03:07:00.000Z
+date: 2010-08-09 03:07:00
 aliases:
   - /node/1369
 author: Christopher Head

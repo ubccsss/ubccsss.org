@@ -1,6 +1,6 @@
 ---
 title: "MUG Leaders Wanted"
-date: 2012-10-21T23:14:00.000Z
+date: 2012-10-21 23:14:00
 aliases:
   - /node/1033
 author: Christopher Head
@@ -8,7 +8,7 @@ images: []
 tags: [Social]
 ---
 
-Calling for all ENERGETIC, and ENTHUSIASTIC volunteers for Imagine UBC!  
+Calling for all ENERGETIC, and ENTHUSIASTIC volunteers for Imagine UBC!
 If you are interested in joining the UBC Orientations Team as a:
 
 1.  MUG Leader, Squad Manager or Welcome Team Member with IMAGINE UBC

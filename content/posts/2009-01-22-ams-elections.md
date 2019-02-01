@@ -1,6 +1,6 @@
 ---
 title: "AMS Elections"
-date: 2009-01-23T00:46:00.000Z
+date: 2009-01-23 00:46:00
 aliases:
   - /node/1189
 author: Christopher Head

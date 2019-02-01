@@ -1,13 +1,13 @@
 ---
 title: "HSBC London Info Session"
-date: 2008-09-17T19:27:00.000Z
+date: 2008-09-17 19:27:00
 aliases:
   - /node/1080
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-09-22T18:30:00.000Z
-end_date: 2008-09-22T19:30:00.000Z
+start_date: 2008-09-22 18:30:00
+end_date: 2008-09-22 19:30:00
 raw_location: Irving K. Barber Learning Centre, Room 182
 ---
 

@@ -4,8 +4,8 @@ date: 2009-03-31
 aliases:
   - /node/1237
 author: Christopher Head
-start_date: 2009-05-06T14:38:00.000Z
-end_date: 2009-05-08T14:38:00.000Z
+start_date: 2009-05-06 14:38:00
+end_date: 2009-05-08 14:38:00
 categories: [Career]
 tags: [Resume]
 ---

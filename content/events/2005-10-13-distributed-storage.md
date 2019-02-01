@@ -8,8 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/Chandu.jpg
-start_date: 2005-10-13T16:00:00.000Z
-end_date: 2005-10-13T17:30:00.000Z
+start_date: 2005-10-13 16:00:00
+end_date: 2005-10-13 17:30:00
 location:
   name: DMP 310
   address:

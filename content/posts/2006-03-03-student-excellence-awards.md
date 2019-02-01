@@ -1,6 +1,6 @@
 ---
 title: "Student Excellence Awards"
-date: 2006-03-03T20:23:00.000Z
+date: 2006-03-03 20:23:00
 type: page
 aliases:
   - /student_excellence

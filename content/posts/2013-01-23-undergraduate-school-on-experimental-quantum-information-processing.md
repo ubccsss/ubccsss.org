@@ -4,8 +4,8 @@ date: 2013-01-24
 aliases:
   - /node/1512
 author: Christopher Head
-start_date: 2013-05-27T08:00:00.000Z
-end_date: 2013-06-07T18:00:00.000Z
+start_date: 2013-05-27 08:00:00
+end_date: 2013-06-07 18:00:00
 categories: [Career]
 ---
 

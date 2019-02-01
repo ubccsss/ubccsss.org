@@ -1,13 +1,13 @@
 ---
 title: "Microsoft Office Hours"
-date: 2012-09-12T08:06:00.000Z
+date: 2012-09-12 08:06:00
 aliases:
   - /node/1480
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2012-09-19T09:00:00.000Z
-end_date: 2012-09-19T16:00:00.000Z
+start_date: 2012-09-19 09:00:00
+end_date: 2012-09-19 16:00:00
 location:
   name: ICICS X339 and X341
   address:

@@ -1,6 +1,6 @@
 ---
 title: "Visual Cognition Lab looking for study subjects"
-date: 2010-08-09T03:18:00.000Z
+date: 2010-08-09 03:18:00
 aliases:
   - /node/1374
 author: Christopher Head

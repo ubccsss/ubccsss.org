@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Mixer @ UBC"
-date: 2008-04-07T22:48:00.000Z
+date: 2008-04-07 22:48:00
 aliases:
   - /node/1053
 author: Charles
@@ -8,8 +8,8 @@ images:
   - /files/ms-logo.jpg
 tags: [Social]
 categories: [Career]
-start_date: 2008-04-10T18:00:00.000Z
-end_date: 2008-04-10T20:00:00.000Z
+start_date: 2008-04-10 18:00:00
+end_date: 2008-04-10 20:00:00
 location:
   name: DMP 110
   address:

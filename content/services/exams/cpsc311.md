@@ -1,6 +1,6 @@
 ---
 title: CPSC 311
-date: 2016-12-15T01:56:00.000Z
+date: 2016-12-15 01:56:00
 aliases:
   - /services/exams/cpsc311
 author: Tristan Rice

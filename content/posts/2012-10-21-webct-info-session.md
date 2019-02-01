@@ -1,14 +1,14 @@
 ---
 title: "WebCT Info Session"
-date: 2012-10-22T05:27:00.000Z
+date: 2012-10-22 05:27:00
 aliases:
   - /node/412
 author: atjia
 images:
   - /files/webct.gif
 categories: [Career]
-start_date: 2006-01-31T15:00:00.000Z
-end_date: 2006-01-31T16:30:00.000Z
+start_date: 2006-01-31 15:00:00
+end_date: 2006-01-31 16:30:00
 raw_location: Donald Rix Building, UBC   201-2389 Health Sciences Mall (& Agronomy Road)
 ---
 

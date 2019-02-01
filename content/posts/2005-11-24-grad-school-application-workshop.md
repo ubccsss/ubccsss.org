@@ -1,13 +1,13 @@
 ---
 title: "Grad School Application Workshop"
-date: 2005-11-25T06:00:00.000Z
+date: 2005-11-25 06:00:00
 aliases:
   - /node/116
 author: rchao
 images: []
 categories: [Career]
-start_date: 2005-10-14T16:00:00.000Z
-end_date: 2005-10-14T17:00:00.000Z
+start_date: 2005-10-14 16:00:00
+end_date: 2005-10-14 17:00:00
 location:
   name: Demp 310
   address:

@@ -1,6 +1,6 @@
 ---
 title: "Join a Departmental Committee"
-date: 2009-09-09T06:55:00.000Z
+date: 2009-09-09 06:55:00
 aliases:
   - /node/1257
 author: Christopher Head

@@ -6,8 +6,8 @@ tags: [Game Night]
 aliases:
   - /node/1397
 author: Christopher Head
-start_date: 2010-10-15T17:30:00.000Z
-end_date: 2010-10-15T19:00:00.000Z
+start_date: 2010-10-15 17:30:00
+end_date: 2010-10-15 19:00:00
 location:
   name: ReBoot Cafe
   address:

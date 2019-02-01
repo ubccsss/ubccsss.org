@@ -1,6 +1,6 @@
 ---
 title: CPSC 404
-date: 2016-11-29T20:40:00.000Z
+date: 2016-11-29 20:40:00
 aliases:
   - /services/exams/cpsc404
 author: Tristan Rice

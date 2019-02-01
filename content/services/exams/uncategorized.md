@@ -1,6 +1,6 @@
 ---
 title: Uncategorized
-date: 2016-03-08T06:16:00.000Z
+date: 2016-03-08 06:16:00
 aliases:
   - /node/1455
 author: Christopher Head

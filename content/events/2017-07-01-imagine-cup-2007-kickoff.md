@@ -7,8 +7,8 @@ aliases:
 author: atjia
 images:
   - /files/header_logo.jpg
-start_date: 2007-02-15T13:00:00.000Z
-end_date: 2007-02-15T14:00:00.000Z
+start_date: 2007-02-15 13:00:00
+end_date: 2007-02-15 14:00:00
 location:
   name: DMP 310
   address:

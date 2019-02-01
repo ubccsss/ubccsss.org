@@ -1,6 +1,6 @@
 ---
 title: "What does Science mean to YOU?"
-date: 2010-05-07T08:45:00.000Z
+date: 2010-05-07 08:45:00
 aliases:
   - /node/1172
 author: Christopher Head

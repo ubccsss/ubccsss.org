@@ -7,8 +7,8 @@ aliases:
   - /node/1269
 author: Christopher Head
 images: []
-start_date: 2009-11-04T18:00:00.000Z
-end_date: 2009-11-05T22:00:00.000Z
+start_date: 2009-11-04 18:00:00
+end_date: 2009-11-05 22:00:00
 raw_location: Student Recreation Centre
 ---
 

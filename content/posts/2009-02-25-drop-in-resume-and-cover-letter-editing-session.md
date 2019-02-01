@@ -4,8 +4,8 @@ date: 2009-02-26
 aliases:
   - /node/1203
 author: Christopher Head
-start_date: 2009-03-02T11:30:00.000Z
-end_date: 2009-03-02T13:30:00.000Z
+start_date: 2009-03-02 11:30:00
+end_date: 2009-03-02 13:30:00
 location:
   name: ICICS 255
   address:

@@ -1,6 +1,6 @@
 ---
 title: "First Aid Course"
-date: 2010-09-22T23:11:00.000Z
+date: 2010-09-22 23:11:00
 aliases:
   - /node/1392
 author: bertong

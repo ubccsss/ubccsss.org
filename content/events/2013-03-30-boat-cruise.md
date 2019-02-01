@@ -6,8 +6,8 @@ tags: [Year-End Gala]
 aliases:
   - /node/1523
 author: Christopher Head
-start_date: 2013-03-30T19:00:00.000Z
-end_date: 2013-03-30T20:00:00.000Z
+start_date: 2013-03-30 19:00:00
+end_date: 2013-03-30 20:00:00
 raw_location: 501 Denman Street, Vancouver, British Columbia, Canada V6G 2W9
 ---
 

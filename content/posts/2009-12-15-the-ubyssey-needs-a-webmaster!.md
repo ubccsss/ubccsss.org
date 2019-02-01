@@ -1,6 +1,6 @@
 ---
 title: "The Ubyssey needs a Webmaster!"
-date: 2009-12-15T09:00:00.000Z
+date: 2009-12-15 09:00:00
 aliases:
   - /node/1284
 author: Christopher Head

@@ -1,6 +1,6 @@
 ---
 title: "Work Your BSc: Life Outside the Lab? Exploring Career Options for Science Students"
-date: 2008-10-27T02:28:00.000Z
+date: 2008-10-27 02:28:00
 aliases:
   - /node/1119
 author: Christopher Head

@@ -1,6 +1,6 @@
 ---
 title: "J.P. Morgan graduate and intern opportunities"
-date: 2008-09-14T09:27:00.000Z
+date: 2008-09-14 09:27:00
 aliases:
   - /node/1066
 author: Christopher Head

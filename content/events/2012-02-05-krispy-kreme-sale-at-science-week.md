@@ -7,8 +7,8 @@ aliases:
 author: Christopher Head
 images:
   - /files/krispykreme.gif
-start_date: 2006-01-24T11:00:00.000Z
-end_date: 2006-01-24T14:00:00.000Z
+start_date: 2006-01-24 11:00:00
+end_date: 2006-01-24 14:00:00
 location:
   name: SUB
   address:

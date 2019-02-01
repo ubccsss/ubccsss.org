@@ -1,6 +1,6 @@
 ---
 title: "BCNET/CANARIE National Conference 2010, New Ideas for Shared Solutions"
-date: 2010-01-27T07:19:00.000Z
+date: 2010-01-27 07:19:00
 aliases:
   - /node/1309
 author: Christopher Head

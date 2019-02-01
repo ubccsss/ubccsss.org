@@ -1,6 +1,6 @@
 ---
 title: "Get involved with the Cube!"
-date: 2013-08-29T07:46:00.000Z
+date: 2013-08-29 07:46:00
 aliases:
   - /node/1378
 author: Christopher Head

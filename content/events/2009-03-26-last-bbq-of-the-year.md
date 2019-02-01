@@ -7,8 +7,8 @@ aliases:
   - /node/1232
 author: Christopher Head
 images: []
-start_date: 2009-03-26T11:00:00.000Z
-end_date: 2009-03-26T14:00:00.000Z
+start_date: 2009-03-26 11:00:00
+end_date: 2009-03-26 14:00:00
 location:
   name: Between ICICS and Dempster
   address:

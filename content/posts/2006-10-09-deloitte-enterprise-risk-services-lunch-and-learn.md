@@ -1,14 +1,14 @@
 ---
 title: "Deloitte Enterprise Risk Services Lunch & Learn"
-date: 2006-10-09T07:48:00.000Z
+date: 2006-10-09 07:48:00
 aliases:
   - /node/511
 author: jlo
 images:
   - /files/deloitte_firm_logo.gif
 categories: [Career]
-start_date: 2006-10-10T13:00:00.000Z
-end_date: 2006-10-10T14:30:00.000Z
+start_date: 2006-10-10 13:00:00
+end_date: 2006-10-10 14:30:00
 raw_location: Henry Angus 309 (Commerce Building)
 ---
 

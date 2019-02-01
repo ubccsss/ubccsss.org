@@ -1,6 +1,6 @@
 ---
 title: "IEEE Think Engineering Networking Event"
-date: 2008-10-09T08:42:00.000Z
+date: 2008-10-09 08:42:00
 aliases:
   - /node/1100
 author: Christopher Head

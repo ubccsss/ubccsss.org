@@ -1,12 +1,12 @@
 ---
 title: "CSSS Annual General Meeting (Sept. 22 - 12:30pm)"
-date: 2005-09-21T20:17:00.000Z
+date: 2005-09-21 20:17:00
 aliases:
   - /node/67
 author: rchao
 images: []
-start_date: 2005-09-22T12:30:00.000Z
-end_date: 2005-09-22T13:30:00.000Z
+start_date: 2005-09-22 12:30:00
+end_date: 2005-09-22 13:30:00
 location:
   name: Student Lounge in ICICS/CS
   address:

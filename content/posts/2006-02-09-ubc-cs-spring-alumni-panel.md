@@ -1,6 +1,6 @@
 ---
 title: "UBC CS Spring Alumni Panel"
-date: 2006-02-09T21:02:00.000Z
+date: 2006-02-09 21:02:00
 aliases:
   - /node/366
 author: atjia

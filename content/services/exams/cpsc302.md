@@ -1,6 +1,6 @@
 ---
 title: CPSC 302
-date: 2016-11-29T20:37:00.000Z
+date: 2016-11-29 20:37:00
 aliases:
   - /services/exams/cpsc302
 author: Tristan Rice

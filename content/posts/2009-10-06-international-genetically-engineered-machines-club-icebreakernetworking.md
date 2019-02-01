@@ -1,6 +1,6 @@
 ---
 title: "International Genetically Engineered Machines Club Icebreaker/Networking"
-date: 2009-10-07T05:21:00.000Z
+date: 2009-10-07 05:21:00
 aliases:
   - /node/1264
 author: Christopher Head

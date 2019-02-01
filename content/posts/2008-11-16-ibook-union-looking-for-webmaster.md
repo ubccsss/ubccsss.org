@@ -1,6 +1,6 @@
 ---
 title: "iBook Union Looking for Webmaster"
-date: 2008-11-17T01:59:00.000Z
+date: 2008-11-17 01:59:00
 aliases:
   - /node/1155
 author: Christopher Head

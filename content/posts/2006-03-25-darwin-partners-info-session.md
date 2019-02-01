@@ -1,13 +1,13 @@
 ---
 title: "Darwin Partners Info Session"
-date: 2006-03-26T03:40:00.000Z
+date: 2006-03-26 03:40:00
 aliases:
   - /node/471
 author: dtan
 images: []
 categories: [Career]
-start_date: 2006-03-29T13:00:00.000Z
-end_date: 2006-03-29T14:00:00.000Z
+start_date: 2006-03-29 13:00:00
+end_date: 2006-03-29 14:00:00
 raw_location: Kaiser 2030
 ---
 

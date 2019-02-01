@@ -1,13 +1,13 @@
 ---
 title: "Information Technology and Medicine"
-date: 2006-01-07T06:15:00.000Z
+date: 2006-01-07 06:15:00
 aliases:
   - /node/362
 author: atjia
 images: []
 categories: [Career]
-start_date: 2006-02-02T11:30:00.000Z
-end_date: 2006-02-02T12:30:00.000Z
+start_date: 2006-02-02 11:30:00
+end_date: 2006-02-02 12:30:00
 raw_location: Scarfe 100
 ---
 

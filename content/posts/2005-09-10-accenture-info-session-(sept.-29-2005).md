@@ -1,13 +1,13 @@
 ---
 title: "Accenture Info Session (Sept. 29, 2005)"
-date: 2005-09-10T16:52:00.000Z
+date: 2005-09-10 16:52:00
 aliases:
   - /node/38
 author: dtan
 images: []
 categories: [Career]
-start_date: 2005-09-29T17:30:00.000Z
-end_date: 2005-09-29T19:30:00.000Z
+start_date: 2005-09-29 17:30:00
+end_date: 2005-09-29 19:30:00
 raw_location: Wesbrook Building, Room 100
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Subversion hosting for students"
-date: 2009-01-12T20:48:00.000Z
+date: 2009-01-12 20:48:00
 aliases:
   - /node/1175
 author: Christopher Head

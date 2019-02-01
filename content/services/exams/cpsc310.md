@@ -1,6 +1,6 @@
 ---
 title: CPSC 310
-date: 2016-11-29T20:38:00.000Z
+date: 2016-11-29 20:38:00
 aliases:
   - /services/exams/cpsc310
 author: Tristan Rice

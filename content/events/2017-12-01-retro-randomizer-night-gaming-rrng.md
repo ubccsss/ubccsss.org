@@ -8,8 +8,8 @@ aliases:
 author: arieljcao
 images:
   - /files/Retreo_Randomizer.jpg
-start_date: 2017-12-01T18:00:00.000Z
-end_date: 2017-12-01T21:00:00.000Z
+start_date: 2017-12-01 18:00:00
+end_date: 2017-12-01 21:00:00
 location:
   name: DMP 301
   address:

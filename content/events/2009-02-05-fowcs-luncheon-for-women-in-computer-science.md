@@ -6,8 +6,8 @@ aliases:
   - /node/1196
 author: Christopher Head
 images: []
-start_date: 2009-02-12T12:30:00.000Z
-end_date: 2009-02-12T13:30:00.000Z
+start_date: 2009-02-12 12:30:00
+end_date: 2009-02-12 13:30:00
 location:
   name: ICICS 238
   address:

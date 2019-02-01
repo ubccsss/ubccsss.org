@@ -6,8 +6,8 @@ tags: [BBQ]
 aliases:
   - /node/1380
 author: bertong
-start_date: 2010-09-10T11:00:00.000Z
-end_date: 2010-09-10T12:00:00.000Z
+start_date: 2010-09-10 11:00:00
+end_date: 2010-09-10 12:00:00
 location:
   name: Outside Reboot/Dempster
   address:

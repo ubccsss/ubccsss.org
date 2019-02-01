@@ -5,8 +5,8 @@ aliases:
   - /node/1482
 author: Christopher Head
 categories: [Career]
-start_date: 2012-09-13T01:09:00.000Z
-end_date: 2012-09-13T01:10:00.000Z
+start_date: 2012-09-13 01:09:00
+end_date: 2012-09-13 01:10:00
 raw_location: Downtown Vancouver
 ---
 

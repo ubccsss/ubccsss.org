@@ -1,13 +1,13 @@
 ---
 title: "RIM Information Session"
-date: 2008-01-28T23:02:00.000Z
+date: 2008-01-28 23:02:00
 aliases:
   - /node/1035
 author: atjia
 images: []
 categories: [Career]
-start_date: 2008-01-30T13:00:00.000Z
-end_date: 2008-01-30T14:00:00.000Z
+start_date: 2008-01-30 13:00:00
+end_date: 2008-01-30 14:00:00
 location:
   name: Dempster 310
   address:

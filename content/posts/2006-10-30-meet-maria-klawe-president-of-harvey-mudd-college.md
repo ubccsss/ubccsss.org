@@ -1,6 +1,6 @@
 ---
 title: "Meet Maria Klawe - President of Harvey Mudd College"
-date: 2006-10-31T06:49:00.000Z
+date: 2006-10-31 06:49:00
 aliases:
   - /node/521
 author: robf

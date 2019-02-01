@@ -8,8 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/presentor.jpg
-start_date: 2005-11-03T11:30:00.000Z
-end_date: 2005-11-03T12:30:00.000Z
+start_date: 2005-11-03 11:30:00
+end_date: 2005-11-03 12:30:00
 raw_location: CEME 1215
 ---
 

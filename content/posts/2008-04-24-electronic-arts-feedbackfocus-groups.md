@@ -1,6 +1,6 @@
 ---
 title: "Electronic Arts feedback/focus groups"
-date: 2008-04-25T02:20:00.000Z
+date: 2008-04-25 02:20:00
 aliases:
   - /node/1057
 author: atjia

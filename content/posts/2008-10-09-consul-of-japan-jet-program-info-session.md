@@ -1,13 +1,13 @@
 ---
 title: "Consul of Japan - JET Program Info Session"
-date: 2008-10-09T08:42:00.000Z
+date: 2008-10-09 08:42:00
 aliases:
   - /node/1098
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-10-08T17:30:00.000Z
-end_date: 2008-10-08T18:30:00.000Z
+start_date: 2008-10-08 17:30:00
+end_date: 2008-10-08 18:30:00
 raw_location: IBLC 261
 ---
 

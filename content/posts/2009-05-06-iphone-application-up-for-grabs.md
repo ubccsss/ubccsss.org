@@ -1,6 +1,6 @@
 ---
 title: "iPhone Application Up for Grabs"
-date: 2009-05-07T05:20:00.000Z
+date: 2009-05-07 05:20:00
 aliases:
   - /node/1242
 author: Christopher Head

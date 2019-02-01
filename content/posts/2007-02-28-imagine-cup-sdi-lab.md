@@ -1,6 +1,6 @@
 ---
 title: "Imagine Cup SDI Lab"
-date: 2007-03-01T00:31:00.000Z
+date: 2007-03-01 00:31:00
 aliases:
   - /node/713
 author: atjia

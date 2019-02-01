@@ -1,6 +1,6 @@
 ---
 title: "A Perspective on Career Paths with Senator Lillian Dyck"
-date: 2017-07-01T18:48:00.000Z
+date: 2017-07-01 18:48:00
 aliases:
   - /node/497
 author: hybrid11

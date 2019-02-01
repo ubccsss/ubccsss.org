@@ -7,8 +7,8 @@ aliases:
   - /node/1263
 author: Christopher Head
 images: []
-start_date: 2009-10-08T11:00:00.000Z
-end_date: 2009-10-08T14:00:00.000Z
+start_date: 2009-10-08 11:00:00
+end_date: 2009-10-08 14:00:00
 location:
   name: Outside of Dempster
   address:

@@ -8,8 +8,8 @@ aliases:
 author: Tristan Rice
 images:
   - /files/Facebook%20Event.png
-start_date: 2017-01-26T10:00:00.000Z
-end_date: 2017-01-26T16:00:00.000Z
+start_date: 2017-01-26 10:00:00
+end_date: 2017-01-26 16:00:00
 location:
   name: West Atrium of the Life Sciences Centre
   address:

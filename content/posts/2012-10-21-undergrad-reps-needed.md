@@ -1,6 +1,6 @@
 ---
 title: "Undergraduate Representatives needed!"
-date: 2012-10-21T22:34:00.000Z
+date: 2012-10-21 22:34:00
 aliases:
   - /node/65
 author: Christopher Head

@@ -1,6 +1,6 @@
 ---
 title: "Stay informed!"
-date: 2013-09-03T08:26:00.000Z
+date: 2013-09-03 08:26:00
 aliases:
   - /node/123
 author: atjia

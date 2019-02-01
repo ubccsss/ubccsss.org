@@ -1,6 +1,6 @@
 ---
 title: CPSC 221
-date: 2017-03-09T03:54:00.000Z
+date: 2017-03-09 03:54:00
 aliases:
   - /services/exams/cpsc221
 author: Tristan Rice

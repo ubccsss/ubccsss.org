@@ -8,8 +8,8 @@ aliases:
 author: robf
 images:
   - /modules/file/icons/image-x-generic.svg
-start_date: 2007-01-25T10:00:00.000Z
-end_date: 2007-01-25T16:00:00.000Z
+start_date: 2007-01-25 10:00:00
+end_date: 2007-01-25 16:00:00
 location:
   name: SUB Ballroom
   address:

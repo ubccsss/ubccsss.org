@@ -1,6 +1,6 @@
 ---
 title: "Modernistic Enterprises looking for a Web developer"
-date: 2010-08-17T06:10:00.000Z
+date: 2010-08-17 06:10:00
 aliases:
   - /node/1372
   - /node/1373

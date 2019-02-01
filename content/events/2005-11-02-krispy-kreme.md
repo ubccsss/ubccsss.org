@@ -8,8 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/krispykreme.gif
-start_date: 2005-11-02T10:00:00.000Z
-end_date: 2005-11-02T12:00:00.000Z
+start_date: 2005-11-02 10:00:00
+end_date: 2005-11-02 12:00:00
 location:
   name: Between CICSR and Dempster
   address:

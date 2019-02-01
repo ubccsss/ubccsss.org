@@ -1,6 +1,6 @@
 ---
 title: "Guest Lecture by Richard M. Stallman"
-date: 2009-01-19T04:22:00.000Z
+date: 2009-01-19 04:22:00
 aliases:
   - /node/1184
 author: Christopher Head

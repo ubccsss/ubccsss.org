@@ -1,14 +1,14 @@
 ---
 title: "Tri-mentoring Kick off - Sign up now to become a Volunteer"
-date: 2013-08-29T03:46:00.000Z
+date: 2013-08-29 03:46:00
 aliases:
   - /node/987
 author: jlo
 images: []
 categories: [Career]
 tags: [Tri-Mentoring]
-start_date: 2007-10-02T17:00:00.000Z
-end_date: 2007-10-02T19:30:00.000Z
+start_date: 2007-10-02 17:00:00
+end_date: 2007-10-02 19:30:00
 location:
   name: SUB Party Room
   address:

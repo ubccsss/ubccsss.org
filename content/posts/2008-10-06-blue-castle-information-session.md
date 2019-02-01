@@ -1,13 +1,13 @@
 ---
 title: "Blue Castle Information Session"
-date: 2008-10-06T16:07:00.000Z
+date: 2008-10-06 16:07:00
 aliases:
   - /node/1099
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-10-09T18:30:00.000Z
-end_date: 2008-10-09T19:30:00.000Z
+start_date: 2008-10-09 18:30:00
+end_date: 2008-10-09 19:30:00
 location:
   name: DMP 110
   address:

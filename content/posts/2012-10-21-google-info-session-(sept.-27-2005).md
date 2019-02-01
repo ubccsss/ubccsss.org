@@ -1,14 +1,14 @@
 ---
 title: "Google Info Session (Sept. 27, 2005)"
-date: 2012-10-22T05:20:00.000Z
+date: 2012-10-22 05:20:00
 aliases:
   - /node/40
 author: rchao
 images:
   - /files/Logo_40wht.gif
 categories: [Career]
-start_date: 2005-09-27T17:30:00.000Z
-end_date: 2005-09-27T19:30:00.000Z
+start_date: 2005-09-27 17:30:00
+end_date: 2005-09-27 19:30:00
 location:
   name: Dempster Pavillion, Room 310
   address:

@@ -1,13 +1,13 @@
 ---
 title: "Early Career Masters Info Session"
-date: 2009-03-20T05:49:00.000Z
+date: 2009-03-20 05:49:00
 aliases:
   - /node/1225
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2009-03-21T14:00:00.000Z
-end_date: 2009-03-21T16:00:00.000Z
+start_date: 2009-03-21 14:00:00
+end_date: 2009-03-21 16:00:00
 raw_location: UBC Robson Square, C300 Theatre, 800 Robson Street
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "Find a Job Fast!"
-date: 2010-02-27T06:48:00.000Z
+date: 2010-02-27 06:48:00
 aliases:
   - /node/1323
 author: Christopher Head
 images: []
-start_date: 2010-03-04T12:30:00.000Z
-end_date: 2010-03-04T13:45:00.000Z
+start_date: 2010-03-04 12:30:00
+end_date: 2010-03-04 13:45:00
 location:
   name: DMP 201
   address:

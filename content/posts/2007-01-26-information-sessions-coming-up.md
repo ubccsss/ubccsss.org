@@ -1,6 +1,6 @@
 ---
 title: "Information Sessions Coming up!"
-date: 2007-01-27T03:11:00.000Z
+date: 2007-01-27 03:11:00
 aliases:
   - /node/691
 author: robf

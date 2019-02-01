@@ -1,6 +1,6 @@
 ---
 title: "Adobe Tech-Talk"
-date: 2012-10-22T07:44:00.000Z
+date: 2012-10-22 07:44:00
 aliases:
   - /node/514
 author: hybrid11
@@ -8,8 +8,8 @@ images:
   - /files/adobe_logo.gif
   - /modules/file/icons/application-pdf.svg
 categories: [Career]
-start_date: 2006-11-08T16:30:00.000Z
-end_date: 2006-11-08T17:30:00.000Z
+start_date: 2006-11-08 16:30:00
+end_date: 2006-11-08 17:30:00
 location:
   name: Dempster 310
   address:

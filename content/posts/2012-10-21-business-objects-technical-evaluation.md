@@ -1,6 +1,6 @@
 ---
 title: "Business Objects Technical Evaluation"
-date: 2012-10-22T06:47:00.000Z
+date: 2012-10-22 06:47:00
 aliases:
   - /node/413
 author: dtan

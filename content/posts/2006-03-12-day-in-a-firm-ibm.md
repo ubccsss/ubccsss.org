@@ -1,12 +1,12 @@
 ---
 title: "Day in a Firm @ IBM"
-date: 2006-03-12T11:12:00.000Z
+date: 2006-03-12 11:12:00
 aliases:
   - /node/464
 author: mlee
 images: []
-start_date: 2006-03-23T09:00:00.000Z
-end_date: 2006-03-23T11:00:00.000Z
+start_date: 2006-03-23 09:00:00
+end_date: 2006-03-23 11:00:00
 raw_location: 4611 Canada Way, Burnaby
 categories: [Career]
 ---

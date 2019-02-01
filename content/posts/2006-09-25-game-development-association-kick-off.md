@@ -1,6 +1,6 @@
 ---
 title: "Game Development Association Kick off"
-date: 2006-09-25T20:16:00.000Z
+date: 2006-09-25 20:16:00
 aliases:
   - /node/493
 author: jlo

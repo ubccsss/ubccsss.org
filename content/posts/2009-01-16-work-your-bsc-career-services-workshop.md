@@ -1,6 +1,6 @@
 ---
 title: "Work your BSc - Career Services Workshop"
-date: 2009-01-16T16:42:00.000Z
+date: 2009-01-16 16:42:00
 aliases:
   - /node/1178
   - /node/1179

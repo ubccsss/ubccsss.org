@@ -1,13 +1,13 @@
 ---
 title: "TELUS Information Session"
-date: 2012-09-10T04:20:00.000Z
+date: 2012-09-10 04:20:00
 aliases:
   - /node/955
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2007-09-13T17:30:00.000Z
-end_date: 2007-09-13T18:30:00.000Z
+start_date: 2007-09-13 17:30:00
+end_date: 2007-09-13 18:30:00
 raw_location: Wesbrook Building 100 (6147 University Blvd at East Mall)
 ---
 

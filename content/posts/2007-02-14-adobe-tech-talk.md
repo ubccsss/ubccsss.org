@@ -1,13 +1,13 @@
 ---
 title: "Adobe Tech Talk"
-date: 2007-02-15T02:15:00.000Z
+date: 2007-02-15 02:15:00
 aliases:
   - /node/701
 author: robf
 images: []
 categories: [Career]
-start_date: 2007-02-13T17:00:00.000Z
-end_date: 2007-02-13T18:00:00.000Z
+start_date: 2007-02-13 17:00:00
+end_date: 2007-02-13 18:00:00
 location:
   name: Dempster 110
   address:

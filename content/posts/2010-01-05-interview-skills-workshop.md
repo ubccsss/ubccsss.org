@@ -1,12 +1,12 @@
 ---
 title: "Interview Skills Workshop"
-date: 2010-01-05T18:27:00.000Z
+date: 2010-01-05 18:27:00
 aliases:
   - /node/1290
 author: Christopher Head
 images: []
-start_date: 2010-01-21T12:30:00.000Z
-end_date: 2010-01-21T14:00:00.000Z
+start_date: 2010-01-21 12:30:00
+end_date: 2010-01-21 14:00:00
 categories: [Career]
 tags: [Resume]
 ---

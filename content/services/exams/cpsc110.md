@@ -1,6 +1,6 @@
 ---
 title: CPSC 110
-date: 2017-03-09T03:51:00.000Z
+date: 2017-03-09 03:51:00
 aliases:
   - /services/exams/cpsc110
 author: Tristan Rice

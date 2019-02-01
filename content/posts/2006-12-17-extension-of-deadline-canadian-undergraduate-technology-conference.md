@@ -1,6 +1,6 @@
 ---
 title: "EXTENSION of deadline - Canadian Undergraduate Technology Conference (CUTC)"
-date: 2006-12-18T03:45:00.000Z
+date: 2006-12-18 03:45:00
 aliases:
   - /node/668
 author: robf

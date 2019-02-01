@@ -1,6 +1,6 @@
 ---
 title: "Masters of Digital Media program - GNWC"
-date: 2007-01-10T18:04:00.000Z
+date: 2007-01-10 18:04:00
 aliases:
   - /node/598
 author: jlo

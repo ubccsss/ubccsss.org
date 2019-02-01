@@ -1,13 +1,13 @@
 ---
 title: "Shell Canada Info Session"
-date: 2008-09-14T09:47:00.000Z
+date: 2008-09-14 09:47:00
 aliases:
   - /node/1075
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-09-18T18:30:00.000Z
-end_date: 2008-09-18T20:30:00.000Z
+start_date: 2008-09-18 18:30:00
+end_date: 2008-09-18 20:30:00
 raw_location: Wesbrook 100
 ---
 

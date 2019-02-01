@@ -6,8 +6,8 @@ tags: [BBQ]
 aliases:
   - /node/1379
 author: bertong
-start_date: 2010-09-09T17:00:00.000Z
-end_date: 2010-09-09T18:00:00.000Z
+start_date: 2010-09-09 17:00:00
+end_date: 2010-09-09 18:00:00
 location:
   name: Outside Reboot
   address:

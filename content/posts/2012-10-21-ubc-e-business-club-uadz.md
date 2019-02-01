@@ -1,6 +1,6 @@
 ---
 title: "UBC e-Business Club - Uadz"
-date: 2012-10-22T05:52:00.000Z
+date: 2012-10-22 05:52:00
 aliases:
   - /node/1420
 author: bertong

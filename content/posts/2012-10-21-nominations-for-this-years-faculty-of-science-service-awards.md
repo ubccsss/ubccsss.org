@@ -1,6 +1,6 @@
 ---
 title: "Nominations for this Year's Faculty of Science Service Awards"
-date: 2012-10-21T22:19:00.000Z
+date: 2012-10-21 22:19:00
 aliases:
   - /node/710
 author: Christopher Head

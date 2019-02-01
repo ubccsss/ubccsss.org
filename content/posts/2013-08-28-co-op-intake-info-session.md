@@ -1,12 +1,12 @@
 ---
 title: "Co-op Intake Info Session"
-date: 2013-08-29T03:47:00.000Z
+date: 2013-08-29 03:47:00
 aliases:
   - /node/1260
 author: Christopher Head
 images: []
-start_date: 2009-09-24T12:00:00.000Z
-end_date: 2009-09-24T13:00:00.000Z
+start_date: 2009-09-24 12:00:00
+end_date: 2009-09-24 13:00:00
 raw_location: Forest Science Building 1613
 categories: [Career]
 tags: [Resume]

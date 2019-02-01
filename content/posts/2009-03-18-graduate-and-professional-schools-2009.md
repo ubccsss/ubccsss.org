@@ -1,13 +1,13 @@
 ---
 title: "Graduate and Professional Schools 2009"
-date: 2009-03-18T20:38:00.000Z
+date: 2009-03-18 20:38:00
 aliases:
   - /node/1219
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2009-03-25T17:15:00.000Z
-end_date: 2009-03-25T19:00:00.000Z
+start_date: 2009-03-25 17:15:00
+end_date: 2009-03-25 19:00:00
 raw_location: Woodward IRC
 ---
 

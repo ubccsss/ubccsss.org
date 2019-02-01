@@ -1,6 +1,6 @@
 ---
 title: "Become a Cube Officer"
-date: 2009-09-09T07:05:00.000Z
+date: 2009-09-09 07:05:00
 aliases:
   - /node/1258
 author: Christopher Head

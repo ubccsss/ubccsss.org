@@ -1,12 +1,12 @@
 ---
 title: "Résumé and Cover Letter Drop-in Editing for Non-Coop Students"
-date: 2010-02-27T06:47:00.000Z
+date: 2010-02-27 06:47:00
 aliases:
   - /node/1322
 author: Christopher Head
 images: []
-start_date: 2010-03-03T12:00:00.000Z
-end_date: 2010-03-03T15:00:00.000Z
+start_date: 2010-03-03 12:00:00
+end_date: 2010-03-03 15:00:00
 location:
   name: ICICS 255
   address:

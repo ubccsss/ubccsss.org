@@ -1,14 +1,14 @@
 ---
 title: "Electronic Arts Studio Night"
-date: 2012-10-22T05:14:00.000Z
+date: 2012-10-22 05:14:00
 aliases:
   - /node/112
 author: atjia
 images:
   - /files/eastudio.jpg
 categories: [Career]
-start_date: 2005-10-12T18:00:00.000Z
-end_date: 2005-10-12T20:00:00.000Z
+start_date: 2005-10-12 18:00:00
+end_date: 2005-10-12 20:00:00
 raw_location: 4330 Sanderson Way, Burnaby
 ---
 

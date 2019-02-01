@@ -1,6 +1,6 @@
 ---
 title: "Design Based Learning in Electrical and Computer Engineering"
-date: 2006-03-08T06:01:00.000Z
+date: 2006-03-08 06:01:00
 aliases:
   - /node/459
 author: atjia

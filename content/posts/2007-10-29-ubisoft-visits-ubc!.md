@@ -1,14 +1,14 @@
 ---
 title: "Ubisoft visits UBC!"
-date: 2007-10-29T21:38:00.000Z
+date: 2007-10-29 21:38:00
 aliases:
   - /node/1010
 author: atjia
 images:
   - /files/ubisoft_logo.gif
 categories: [Career]
-start_date: 2007-11-01T12:30:00.000Z
-end_date: 2007-11-01T14:00:00.000Z
+start_date: 2007-11-01 12:30:00
+end_date: 2007-11-01 14:00:00
 location:
   name: Dempster Room 301
   address:

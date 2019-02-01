@@ -6,8 +6,8 @@ aliases:
   - /node/500
 author: hybrid11
 images: []
-start_date: 2006-10-04T09:00:00.000Z
-end_date: 2006-10-05T16:00:00.000Z
+start_date: 2006-10-04 09:00:00
+end_date: 2006-10-05 16:00:00
 location:
   name: Student Union Building (SUB)
   address:

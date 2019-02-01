@@ -1,13 +1,13 @@
 ---
 title: "Life at Microsoft"
-date: 2005-09-15T19:39:00.000Z
+date: 2005-09-15 19:39:00
 aliases:
   - /node/59
 author: atjia
 images: []
 categories: [Career]
-start_date: 2005-09-16T11:30:00.000Z
-end_date: 2005-09-16T12:30:00.000Z
+start_date: 2005-09-16 11:30:00
+end_date: 2005-09-16 12:30:00
 location:
   name: ICICS/CS X139
   address:

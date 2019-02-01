@@ -1,6 +1,6 @@
 ---
 title: "Hallowe'en Costume Contest"
-date: 2008-11-11T05:18:00.000Z
+date: 2008-11-11 05:18:00
 aliases:
   - /node/1106
 author: atjia

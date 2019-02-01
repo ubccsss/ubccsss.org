@@ -1,6 +1,6 @@
 ---
 title: "Peer Tutoring!"
-date: 2012-11-03T08:28:00.000Z
+date: 2012-11-03 08:28:00
 type: page
 aliases:
   - /node/108

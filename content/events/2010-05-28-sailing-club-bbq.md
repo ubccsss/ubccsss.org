@@ -6,8 +6,8 @@ tags: [BBQ]
 aliases:
   - /node/1362
 author: Christopher Head
-start_date: 2010-06-05T20:00:00.000Z
-end_date: 2010-06-05T21:00:00.000Z
+start_date: 2010-06-05 20:00:00
+end_date: 2010-06-05 21:00:00
 raw_location: Jericho Sailing Centre, 1300 Discovery Street
 ---
 

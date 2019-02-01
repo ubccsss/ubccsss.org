@@ -1,6 +1,6 @@
 ---
 title: "CPSC 111 Final Exam Review Session"
-date: 2007-11-30T19:39:00.000Z
+date: 2007-11-30 19:39:00
 aliases:
   - /node/1020
 author: Christopher Head

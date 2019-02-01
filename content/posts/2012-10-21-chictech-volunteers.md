@@ -1,6 +1,6 @@
 ---
 title: "ChicTech Volunteers"
-date: 2012-10-21T22:36:00.000Z
+date: 2012-10-21 22:36:00
 aliases:
   - /node/242
 author: Christopher Head

@@ -1,13 +1,13 @@
 ---
 title: "Interview Skills Practice Session"
-date: 2010-03-05T22:42:00.000Z
+date: 2010-03-05 22:42:00
 aliases:
   - /node/1332
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2010-03-15T12:00:00.000Z
-end_date: 2010-03-15T14:00:00.000Z
+start_date: 2010-03-15 12:00:00
+end_date: 2010-03-15 14:00:00
 location:
   name: ICICS 202
   address:

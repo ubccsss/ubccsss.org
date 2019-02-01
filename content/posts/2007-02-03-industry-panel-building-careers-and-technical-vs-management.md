@@ -1,6 +1,6 @@
 ---
 title: "Industry Panel - Building Careers & Technical vs. Management"
-date: 2007-02-04T07:56:00.000Z
+date: 2007-02-04 07:56:00
 aliases:
   - /node/597
 author: robf

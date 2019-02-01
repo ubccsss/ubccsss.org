@@ -1,6 +1,6 @@
 ---
 title: "Computer Science Co-op Information Sessions"
-date: 2007-03-15T06:52:00.000Z
+date: 2007-03-15 06:52:00
 aliases:
   - /node/717
 author: robf

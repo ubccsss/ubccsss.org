@@ -6,8 +6,8 @@ aliases:
   - /node/1301
 author: Christopher Head
 images: []
-start_date: 2010-01-15T11:00:00.000Z
-end_date: 2010-01-15T13:00:00.000Z
+start_date: 2010-01-15 11:00:00
+end_date: 2010-01-15 13:00:00
 location:
   name: ICICS X-Wing Lounge
   address:

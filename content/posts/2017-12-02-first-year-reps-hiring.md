@@ -1,6 +1,6 @@
 ---
 title: "First Year Reps Hiring"
-date: 2017-12-02T07:55:00.000Z
+date: 2017-12-02 07:55:00
 aliases:
   - /content/first-year-reps-hiring
 author: arieljcao

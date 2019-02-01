@@ -7,8 +7,8 @@ aliases:
   - /node/1048
 author: Christopher Head
 images: []
-start_date: 2008-04-04T18:00:00.000Z
-end_date: 2008-04-04T22:00:00.000Z
+start_date: 2008-04-04 18:00:00
+end_date: 2008-04-04 22:00:00
 
 raw_location: Plaza of Nations Marina, 750 Pacific Blvd.
 ---

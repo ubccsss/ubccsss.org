@@ -7,8 +7,8 @@ aliases:
   - /node/1465
 author: Christopher Head
 images: []
-start_date: 2012-02-03T17:30:00.000Z
-end_date: 2012-02-03T20:00:00.000Z
+start_date: 2012-02-03 17:30:00
+end_date: 2012-02-03 20:00:00
 location:
   name: Reboot Café
   address:

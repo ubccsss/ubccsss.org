@@ -1,13 +1,13 @@
 ---
 title: "Research in Motion Info Session"
-date: 2008-10-11T04:57:00.000Z
+date: 2008-10-11 04:57:00
 aliases:
   - /node/1101
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2008-10-15T18:30:00.000Z
-end_date: 2008-10-15T19:30:00.000Z
+start_date: 2008-10-15 18:30:00
+end_date: 2008-10-15 19:30:00
 location:
   name: DMP301
   address:

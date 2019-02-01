@@ -1,12 +1,12 @@
 ---
 title: "Drop In Résumé and Cover Letter Editing"
-date: 2010-03-19T19:12:00.000Z
+date: 2010-03-19 19:12:00
 aliases:
   - /node/1342
 author: Christopher Head
 images: []
-start_date: 2010-03-23T12:30:00.000Z
-end_date: 2010-03-23T14:30:00.000Z
+start_date: 2010-03-23 12:30:00
+end_date: 2010-03-23 14:30:00
 location:
   name: ICICS 255
   address:

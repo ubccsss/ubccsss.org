@@ -8,8 +8,8 @@ aliases:
 author: Christopher Head
 images:
   - /files/sunrun.png
-start_date: 2006-04-23T09:00:00.000Z
-end_date: 2006-04-23T10:00:00.000Z
+start_date: 2006-04-23 09:00:00
+end_date: 2006-04-23 10:00:00
 ---
 
 ![](/files/sunrun.png)

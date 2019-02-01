@@ -1,6 +1,6 @@
 ---
 title: "Interactive Entrepreneurship Q&A Session"
-date: 2012-10-22T07:40:00.000Z
+date: 2012-10-22 07:40:00
 aliases:
   - /node/513
 author: hybrid11

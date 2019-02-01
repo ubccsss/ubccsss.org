@@ -1,6 +1,6 @@
 ---
 title: "Computer Science 490 Student Seminar"
-date: 2006-12-24T15:34:00.000Z
+date: 2006-12-24 15:34:00
 aliases:
   - /node/680
 author: robf

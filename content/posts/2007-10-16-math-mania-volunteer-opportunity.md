@@ -1,6 +1,6 @@
 ---
 title: "Math Mania Volunteer Opportunity"
-date: 2007-10-17T01:21:00.000Z
+date: 2007-10-17 01:21:00
 aliases:
   - /node/1000
 author: atjia

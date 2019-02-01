@@ -1,13 +1,13 @@
 ---
 title: "Finding a Summer Job or Internship Information Session"
-date: 2010-02-05T19:03:00.000Z
+date: 2010-02-05 19:03:00
 aliases:
   - /node/1317
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2010-02-10T12:00:00.000Z
-end_date: 2010-02-10T13:00:00.000Z
+start_date: 2010-02-10 12:00:00
+end_date: 2010-02-10 13:00:00
 location:
   name: ICICS X836
   address:

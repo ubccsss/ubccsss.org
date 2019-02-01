@@ -1,14 +1,14 @@
 ---
 title: "Tri-Mentoring Information Session 2006"
-date: 2006-09-03T03:59:00.000Z
+date: 2006-09-03 03:59:00
 aliases:
   - /node/479
 author: atjia
 images: []
 categories: [Career]
 tags: [Tri-Mentoring]
-start_date: 2006-09-12T17:30:00.000Z
-end_date: 2006-09-12T18:30:00.000Z
+start_date: 2006-09-12 17:30:00
+end_date: 2006-09-12 18:30:00
 location:
   name: DMP 310
   address:

@@ -1,6 +1,6 @@
 ---
 title: CPSC 313
-date: 2016-12-02T23:14:00.000Z
+date: 2016-12-02 23:14:00
 aliases:
   - /services/exams/cpsc313
 author: Tristan Rice

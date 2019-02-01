@@ -5,8 +5,8 @@ aliases:
   - /node/1489
 author: Christopher Head
 categories: [Career]
-start_date: 2012-09-26T10:00:00.000Z
-end_date: 2012-09-26T16:00:00.000Z
+start_date: 2012-09-26 10:00:00
+end_date: 2012-09-26 16:00:00
 location:
   name: SUB
   address:

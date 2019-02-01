@@ -1,6 +1,6 @@
 ---
 title: "Software Developer Position at PDFTron"
-date: 2010-05-28T08:00:00.000Z
+date: 2010-05-28 08:00:00
 aliases:
   - /node/1363
 author: Christopher Head

@@ -7,8 +7,8 @@ aliases:
   - /node/494
 author: atjia
 images: []
-start_date: 2006-09-28T12:00:00.000Z
-end_date: 2006-09-28T14:00:00.000Z
+start_date: 2006-09-28 12:00:00
+end_date: 2006-09-28 14:00:00
 location:
   name: Outside Dempster
   address:

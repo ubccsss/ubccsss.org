@@ -6,8 +6,8 @@ aliases:
   - /node/1068
 author: Christopher Head
 images: []
-start_date: 2008-09-09T18:00:00.000Z
-end_date: 2008-09-09T19:00:00.000Z
+start_date: 2008-09-09 18:00:00
+end_date: 2008-09-09 19:00:00
 location:
   name: X-wing Lounge (Reboot Cafe)
   address:

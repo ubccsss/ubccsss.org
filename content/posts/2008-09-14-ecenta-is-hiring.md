@@ -1,6 +1,6 @@
 ---
 title: "ecenta is hiring"
-date: 2008-09-14T09:51:00.000Z
+date: 2008-09-14 09:51:00
 aliases:
   - /node/1076
 author: Christopher Head

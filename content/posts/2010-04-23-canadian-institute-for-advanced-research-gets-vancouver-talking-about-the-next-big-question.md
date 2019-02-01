@@ -1,13 +1,13 @@
 ---
 title: "Canadian Institute for Advanced Research gets Vancouver talking  about The Next Big Question"
-date: 2010-04-24T00:08:00.000Z
+date: 2010-04-24 00:08:00
 aliases:
   - /node/1356
 author: Christopher Head
 images: []
 categories: [Career]
-start_date: 2010-05-10T17:30:00.000Z
-end_date: 2010-05-10T19:30:00.000Z
+start_date: 2010-05-10 17:30:00
+end_date: 2010-05-10 19:30:00
 raw_location: H. R. MacMillan Space Centre, 1100 Chestnut Street
 ---
 

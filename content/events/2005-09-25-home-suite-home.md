@@ -6,8 +6,8 @@ aliases:
   - /node/94
 author: atjia
 images: []
-start_date: 2005-09-29T12:30:00.000Z
-end_date: 2005-09-29T13:30:00.000Z
+start_date: 2005-09-29 12:30:00
+end_date: 2005-09-29 13:30:00
 location:
   name: Dempster 301
   address:
