@@ -46,3 +46,6 @@
 
 - id: emailTutor
   translation: "Email {{ .email }}"
+
+- id: edit
+  translation: "Edit on GitHub"

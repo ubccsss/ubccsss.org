@@ -33,12 +33,6 @@ frontmatter:
     - ":filename"
     - ":default"
 
-# Default values for event `location.address`
-default_location_address:
-  addressLocality: Vancouver
-  addressRegion: BC
-  addressCountry: CA
-
 permalinks:
   posts: /:section/:year/:month/:day/:slug/
   events: /:section/:year/:month/:day/:slug/
@@ -48,6 +42,14 @@ paginate: 5
 copyright: © 2018-2019
 
 params:
+  github:
+    repo: ubccsss/ubccsss.org
+    branch: master
+  # Default values for event `location.address`
+  default_location_address:
+    addressLocality: Vancouver
+    addressRegion: BC
+    addressCountry: CA
   mainSections:
     - events
     - posts

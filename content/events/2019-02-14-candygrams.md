@@ -1,8 +1,8 @@
 ---
-title: "CSSS: Valentine's Candygrams"
+title: "Valentine's Candygrams"
 date: 2019-01-30
-start_date: 2019-02-14T00:00:00.000Z
-end_date: 2019-02-14T23:59:00.000Z
+start_date: 2019-02-14 00:00:00
+end_date: 2019-02-14 23:59:00
 categories: [Event]
 tags: [Care Package]
 author: Hai Lin Zhang
