@@ -11,6 +11,6 @@
 /2017-03-agm-agenda  https://docs.google.com/document/d/1UEkb3s7FF7oVnuQYWKN_zPsonfaLEoqbwfv2WHEus5w/mobilebasic
 
 # Alternate domains
-https://ubccsss.netlify.com  https://ubccsss.org/:splat 301!
-https://thecube.ca  https://ubccsss.org/:splat 301!
-https://www.thecube.ca  https://ubccsss.org/:splat 301!
+# https://ubccsss.netlify.com/*  https://ubccsss.org/:splat 301!
+https://thecube.ca/*  https://ubccsss.org/:splat 301!
+https://www.thecube.ca/*  https://ubccsss.org/:splat 301!
