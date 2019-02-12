@@ -1,6 +1,5 @@
 ---
 title: "CS Clothing Contest 2005"
-date: 2012-09-09 18:14:00
 aliases:
   - /clothingcontest2005
 author: Christopher Head
@@ -24,12 +23,17 @@ images:
   - /files/14.gif
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="/files/tshirtquestion.gif" vspace="5" hspace="5" align="left">The CSSS wants your input again - this time, we&apos;re choosing the logo for our clothing contest!  As you know, we all like to style ourselves CS students, so this is, understandably, of enormous importance.  Your input is very valuable to us :-)</p>
-<p>We received your designs, and to make things a little more interesting, we&apos;ve also brought back the logos from the button contest to make a grand total of 14 designs from which to choose from.  Personally, I&apos;m rooting for *CENSORED* (you&apos;re making our readers biased! -hrmmp)  When you&apos;ve finally made up your mind by reading the entire article, <i><a href="/node/1478">head on over to the polls and cast your vote</a></i>!</p>
-<p>Please put on your judging cap and express your opinion by <u>Thursday, October 13th, 2005 at 5pm</u>.  Thank you.</p>
-<p><b><a href="/clothing2005">Read on for more details...</a></b></p>
-<p>EDIT:  Sorry - apparently some picture links broke earlier.  I&apos;ve fixed them now.</p>
-<!--break--><hr>
+<img src="/files/tshirtquestion.gif" vspace="5" hspace="5" align="left"> The CSSS wants your input again - this time, we're choosing the logo for our clothing contest!  As you know, we all like to style ourselves CS students, so this is, understandably, of enormous importance.  Your input is very valuable to us :-)
+
+We received your designs, and to make things a little more interesting, we've also brought back the logos from the button contest to make a grand total of 14 designs from which to choose from.  Personally, I'm rooting for *CENSORED* (you're making our readers biased! -hrmmp)  When you've finally made up your mind by reading the entire article, _[head on over to the polls and cast your vote](/node/1478)_!
+
+Please put on your judging cap and express your opinion by <u>Thursday, October 13th, 2005 at 5pm</u>.  Thank you.
+
+**[Read on for more details...](/clothing2005)**
+
+EDIT:  Sorry - apparently some picture links broke earlier.  I've fixed them now.
+
+<hr>
 <table>
 <tbody><tr>
 <th width="100">Design 1</th>
@@ -88,6 +92,5 @@ images:
 </td><td><img src="/files/14.gif"></td>
 </tr>
 </tbody></table>
-<p>Made up your mind?  I thought so.  <b><a href="/node/1478">Head on over to the polls to cast your vote!</a></b></p>
-</div></div></div>    <footer>
-          </footer>
+
+Made up your mind?  I thought so. **[Head on over to the polls to cast your vote!](/node/1478)**

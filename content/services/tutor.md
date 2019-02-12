@@ -2,6 +2,7 @@
 title: Tutoring
 aliases:
   - /services/tutoring
+# Tutor data can be found in /data/tutor.yaml
 ---
 
 The CSSS has found a number of tutors interested in providing extra help for
