@@ -1,8 +1,8 @@
 ---
 title: 'LP x CSSS: Project Hub ft. Starting a Startup!'
 date: 2019-03-02
-start_date: 2019-03-02 15:00:00
-end_date: 2019-03-02 18:00:00
+start_date: 2019-03-02 15:30:00
+end_date: 2019-03-02 18:03:00
 categories: [Event]
 tags: [Project Hub]
 author: Hai Lin Zhang
