@@ -1,6 +1,6 @@
 ---
 title: "2019-2020 Executive Nominations"
-date: 2019-04-04
+date: 2019-03-03
 categories: [Elections]
 author: Tiger Oakes
 images: []
