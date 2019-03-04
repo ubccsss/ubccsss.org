@@ -3,17 +3,20 @@ title: "2019-2020 Executive Nominations"
 date: 2019-03-03
 categories: [Elections]
 author: Tiger Oakes
-images: []
+images:
+  - /files/nominate.svg
 tags: [Club Activities]
 ---
 
+![](/files/nominate.svg)
+
 The CSSS is running elections for the 2019-2020 executive team! Want to contribute to the community, or become an overlord over CS students? Get a nomination form!
 
-Candidates will need to fill out nomination forms before March 15th. Forms can be picked up at The Cube (ICICS 021). If no one is there, please take one from the bulletin board.
+Candidates will need to fill out nomination forms before **March 15th**. Forms can be picked up at The Cube (ICICS 021).
 
 Campaigning is optional, but encouraged. Voting will occur on March 18th and 22nd.
 
-[**Nomination Form**](/files/CSSS Elections Nomination Form 2019-2020.pdf)  
+[**Nomination Form**](/files/CSSS Elections Nomination Form 2019-2020.pdf)
 
 #### Positions
 
