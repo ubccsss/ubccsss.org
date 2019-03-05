@@ -23,6 +23,6 @@ location:
 It's the end of the year and the beginning of the next! Everyone's invited to this year's Year End Gala, out at sea! Come for a one-of-a-kind evening complete with a first-class dinner and some dancing. Tickets will be on sale soon!
 
 Dress Code: Formal \
-Cost: $35 per person or $30 per person if you go in a group of 4
+Cost: $30 for early bird tickets or groups of 3. $40 per person after early bird period.
 
 _Tickets can be purchased soon!_
