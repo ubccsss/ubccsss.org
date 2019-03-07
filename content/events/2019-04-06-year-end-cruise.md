@@ -20,9 +20,9 @@ location:
 
 ![](/files/floating-point.svg)
 
-It's the end of the year and the beginning of the next! Everyone's invited to this year's Year End Gala, out at sea! Come for a one-of-a-kind evening complete with a first-class dinner and some dancing. Tickets will be on sale soon!
+It's the end of the year and the beginning of the next! Everyone's invited to this year's Year End Gala, out at sea! We'll be cruising on the water for 3 hours on the Britannia, departing near Stanley Park. You'll enjoy a full-service bar, a catered dinner, games, a raffle, a DJ, dancing, and the company of your friends!
 
 Dress Code: Formal \
 Cost: $30 for early bird tickets or groups of 3. $40 per person after early bird period.
 
-_Tickets can be purchased soon!_
+#### [Purchase tickets](https://csssgala.ticketleap.com/ubc-csss-floating-point/)
