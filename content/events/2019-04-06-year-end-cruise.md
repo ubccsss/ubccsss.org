@@ -7,7 +7,7 @@ author: Tiger Oakes
 images:
   - /files/floating-point.svg
 start_date: 2019-04-06 17:30:00
-end_date: 2019-04-06 22:00:00
+end_date: 2019-04-06 21:00:00
 location:
   name: Harbour Cruises
   address:
