@@ -33,6 +33,6 @@ Remember when the UBC CSSS sold food for super cheap at the end of last year? We
 * 😋 Tue., Wed., Thu @ 12-1PM
 * 😋 Fri @ 5-6:30PM at the Semi-Annual General Meeting
 
-Friday will be the Food Week Finale, at our [Semi-Annual General Meeting](/events/2019/03/19/general-meeting/)! Head towards DMP 301 and join in to get your Friday bubble tea! We'll also be announcing the election winners at the meeting!
+Friday will be the Food Week Finale, at our [Semi-Annual General Meeting](/events/2019/03/22/general-meeting/)! Head towards DMP 301 and join in to get your Friday bubble tea! We'll also be announcing the election winners at the meeting!
 
 For more information, check out our [Facebook Event!](https://www.facebook.com/events/433831074026875/)
