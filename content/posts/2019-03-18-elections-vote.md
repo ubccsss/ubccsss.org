@@ -1,10 +1,8 @@
 ---
-title: '2019-2020 Executive Voting'
+title: "2019-2020 Executive Voting"
 date: 2019-03-14
-start_date: 2019-03-18 00:00:00
-end_date: 2019-03-18 23:59:59
-categories: [Club Activities]
-tags: [Elections]
+categories: [Elections]
+tags: [Club Activities]
 author: Hai Lin Zhang
 location:
   name: The Cube (ICICS 021)
