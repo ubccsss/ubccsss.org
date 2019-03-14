@@ -6,8 +6,8 @@ tags: [Food Week]
 author: Hai Lin Zhang
 images:
   - /files/food-week-march2019.svg
-start_date: 2019-03-19 00:00:00
-end_date: 2019-05-22 23:59:59
+start_date: 2019-03-19 12:00:00
+end_date: 2019-03-22 18:30:00
 location:
   name: The Cube (ICICS 021)
   address:
