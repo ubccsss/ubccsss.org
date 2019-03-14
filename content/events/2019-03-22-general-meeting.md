@@ -20,7 +20,7 @@ images:
 
 ![](/files/general-meeting-march2019.svg)
 
-Affect the future of the CSSS and the Cube! Come to our cheap food week **FINALE** and buy bubble tea! See the reveal of the new executive team!
+Affect the future of the CSSS and the Cube! Come to our [cheap food week](/events/2019/03/19/cube-food-week/) **FINALE** and buy bubble tea! See the reveal of the new executive team!
 
 If you have any questions about the CSSS or would like to give input about the club and discuss club matters, this is a great opportunity to do so.
 
