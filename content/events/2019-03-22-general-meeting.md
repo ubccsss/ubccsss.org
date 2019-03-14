@@ -25,5 +25,3 @@ Affect the future of the CSSS and the Cube! Come to our [cheap food week](/event
 If you have any questions about the CSSS or would like to give input about the club and discuss club matters, this is a great opportunity to do so.
 
 We'll be proposing a new VP Academic position at the meeting, moving towards students and the CSSS having an effect on the curriculum.
-
-Check out our [Facebook Event](https://www.facebook.com/events/846682532343087/) for more information!
