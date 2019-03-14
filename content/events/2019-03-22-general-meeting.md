@@ -4,7 +4,7 @@ date: 2019-03-14
 start_date: 2019-03-22 17:00:00
 end_date: 2019-03-22 18:30:00
 categories: [Event]
-tags: [Food Week]
+tags: [Food Week, Semi-Annual General Meeting]
 author: Hai Lin Zhang
 location:
   name: DMP 301
