@@ -14,6 +14,7 @@ Our proposed change to the [constitution](/about/constitution):
 
 ##### _8.1 Positions:_
 _The Core Executive of the Club shall comprise the following positions:_
+
 - _President_
 - _Vice President, Volunteering_
 - _Vice President, Internal_
