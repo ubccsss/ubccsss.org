@@ -32,7 +32,7 @@ The UBC CSSS offers the following services.
 ## [Food](cube/menu)
 
 We provide a variety of snacks and drinks at affordable prices (many things are
-less than \$1!) to keep you going through those long coding projects in the lab.
+less than \$2!) to keep you going through those long coding projects in the lab.
 
 ## [Social Events](/events)
 
