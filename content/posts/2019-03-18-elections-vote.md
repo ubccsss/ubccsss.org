@@ -14,7 +14,7 @@ The CSSS is running elections for the 2019-2020 executive team! Vote from
 **March 18th to 22nd** for your new CS overlords. Winners will be announced at
 our [Semi-Annual General Meeting](/events/2019/03/22/general-meeting/)!
 
-Voting will be open online here on Monday! Check back soon.
+**Vote now at [ubccsss.org/vote](https://www.ugrad.cs.ubc.ca/~v7w9a/elections/)**
 
 View positions and their descriptions in By-Law 8 of
 [our constitution](/about/constitution).
