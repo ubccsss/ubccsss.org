@@ -25,4 +25,6 @@ It's the end of the year and the beginning of the next! Everyone's invited to th
 Dress Code: Formal \
 Cost: $30 per person for groups of 3. $40 for individuals. 
 
-#### [Purchase tickets](https://csssgala.ticketleap.com/ubc-csss-floating-point/)
+#### [Sold out! Join our waitlist](https://docs.google.com/forms/d/e/1FAIpQLScFUMNigF3WL7gIRh8hsh3p4fr37J5DCnCOl-lyWyJyOgDCsA/viewform)
+
+#### ~[Purchase tickets](https://csssgala.ticketleap.com/ubc-csss-floating-point/)~
