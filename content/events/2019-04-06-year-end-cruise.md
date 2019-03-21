@@ -27,4 +27,4 @@ Cost: $30 per person for groups of 3. $40 for individuals.
 
 #### [Sold out! Join our waitlist](https://docs.google.com/forms/d/e/1FAIpQLScFUMNigF3WL7gIRh8hsh3p4fr37J5DCnCOl-lyWyJyOgDCsA/viewform)
 
-#### ~[Purchase tickets](https://csssgala.ticketleap.com/ubc-csss-floating-point/)~
+#### ~~~[Purchase tickets](https://csssgala.ticketleap.com/ubc-csss-floating-point/)~~~
