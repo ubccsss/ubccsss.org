@@ -23,8 +23,8 @@ location:
 It's the end of the year and the beginning of the next! Everyone's invited to this year's Year End Gala, out at sea! We'll be cruising on the water for 3 hours on the Britannia, departing near Stanley Park. You'll enjoy a full-service bar, a catered dinner, games, a raffle, a DJ, dancing, and the company of your friends!
 
 Dress Code: Formal \
-Cost: $30 per person for groups of 3. $40 for individuals. 
+Cost: $30 per person for groups of 3. $40 for individuals.
 
 #### [Sold out! Join our waitlist](https://docs.google.com/forms/d/e/1FAIpQLScFUMNigF3WL7gIRh8hsh3p4fr37J5DCnCOl-lyWyJyOgDCsA/viewform)
 
-#### ~~~[Purchase tickets](https://csssgala.ticketleap.com/ubc-csss-floating-point/)~~~
+#### ~~[Purchase tickets](https://csssgala.ticketleap.com/ubc-csss-floating-point/)~~
