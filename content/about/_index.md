@@ -33,7 +33,7 @@ member!**
 
 Expect BBQs (weather permitting), free breakfasts, board games nights, 
 Industry Panels and Info Sessions, volunteer opportunities within the Computer Science department, 
-the highly-anticipated Career Fair, and social events such as our year-end boat cruise!
+the highly-anticipated Career Fair, and social events such as our year-end gala!
 
 We also distribute all kinds of free stuff. Snag cool retractable CSSS pens and
 blue whiteboard markers, deck out your laptop with our signature CSSS and Cube 
