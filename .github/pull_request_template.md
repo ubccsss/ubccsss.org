@@ -1,1 +1,0 @@
-Reviewer: @ubccsss/vp-communications
