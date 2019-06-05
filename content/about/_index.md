@@ -13,9 +13,6 @@ serve all Computer Science students.
     <a class="nav-link" href="/about/team/">Executives</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="/about/team/misc/officers/">Officers</a>
-  </li>
-  <li class="nav-item">
     <a class="nav-link" href="/about/constitution">Constitution</a>
   </li>
   </li>
