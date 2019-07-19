@@ -8,12 +8,7 @@ author: Christopher Head
 images: []
 ---
 
-> ## New Exam Database
-> This exam page is now deprecated and only available for historical reasons. Please visit the new exam database at https://exams.ubccsss.org.
-
-___
-
-### Please send any exams you have to [vpc@ubccsss.org](mailto:vpc@ubccsss.org)!
+### Please send any exams you have to [vpc.ubccsss@gmail.com](mailto:vpc.ubccsss@gmail.com)!
 
 You can find our collection of CPSC exams and quizzes here. They're sorted by year and course. Solutions (where they exist) are also provided.
 
