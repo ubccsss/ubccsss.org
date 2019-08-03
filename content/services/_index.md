@@ -28,6 +28,11 @@ The UBC CSSS offers the following services.
     We run a student lounge in ICICS 021, with cheap food, free microwaves, video games, and a place to hang out.
   {{</ card >}}
 </div>
+<div class="card-deck mb-3">
+  {{< card title="Coffee Chat" href="/services/coffeechat" src="/files/coffeechat.jpg" >}}
+    Every month, we match junior students with senior students so that they can meet for coffee, chat, and give or receive mentorship.
+  {{</ card >}}
+</div>
 
 ## [Food](cube/menu)
 
