@@ -175,7 +175,18 @@
 - name: Wayne
   lastmod: 2019-07-30
   courses: cpsc 110, 121, 210,213, 221,310, 313, 314, 340
+  availability: after 5pm
   rates: 40/h
   email: 7111605ying@gmail.com
   bio: >
     ubc cs graduated, 5 years cs tutor experience.
+
+- name: Yifu Chen
+  lastmod: 2019-08-19
+  courses: CPSC 110, 121, 210
+  availability: Flexible
+  rates: 25
+  email: charles.chen.personal@gmail.com
+  bio: >
+    I am a sophomore CS student. I received the following final grades: CPSC 110 - 94%, CPSC 121 - 88%, and CPSC 210 - 94%.
+    If you have a quick question, send me an email and I will try answer it if I'm not too busy (free of charge). Otherwise, we can meet on campus or use Skype.
