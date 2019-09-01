@@ -5,7 +5,7 @@ categories: [Elections]
 tags: [Club Activities]
 images:
   - /files/elections-vote-march2019.svg
-author: Leo Lin 🦁
+author: Leo Lin
 
 ---
 
