@@ -29,8 +29,8 @@ The UBC CSSS offers the following services.
   {{</ card >}}
 </div>
 <div class="card-deck single-card mb-3">
-  {{< card title="Coffee Chat" href="/services/coffeechat" src="/files/coffeechat.jpg" >}}
-    Every month, we match junior students with senior students so that they can meet for coffee, chat, and give or receive mentorship.
+  {{< card title="Coffee Chat" href="/events/2019/09/01/coffee-chat/" src="/files/coffee_chat_stock_image.jpg" >}}
+     This low-commitment and informal mentorship program randomly pairs a lower year student with an upper year student for a quick meetup on a monthly basis. 
   {{</ card >}}
 </div>
 
