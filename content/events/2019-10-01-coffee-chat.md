@@ -1,9 +1,9 @@
 ---
 title: "Coffee Chat"
-date: 2019-06-16
+date: 2019-09-01
 categories: [Event]
-tags: [bbq]
-author: 🦁
+tags: [coffeechat]
+author: Sherry
 images:
   - /files/coffee_chat_banner_2019.png
 start_date: 2019-10-01 00:00:00
@@ -30,6 +30,6 @@ Make new friends and get to know other people walking around ICICS :)
 __Sign up to join the October round [here](https://ubc.ca1.qualtrics.com/jfe/preview/SV_bDaYpMXZ3BOYlnf?Q_SurveyVersionID=&Q_CHL=preview&fbclid=IwAR0r1h4l5QPEV4xSBahHHezUT4QH0vLwy2nqWeVhgaDur3iHLd7ZgLKQu9E)!__
 
 #### WHEN 
-Signup is open for the October round until September 30 11:59 PM. Matches will be sent out in the first week of October.
+Sign-up is open for the October round until September 30 11:59 PM. Matches will be sent out in the first week of October.
 
 To kick things off, we're hosting an event on EVENT_NAME for you to meet you match in person and meet other people in CS Coffee Chat.
