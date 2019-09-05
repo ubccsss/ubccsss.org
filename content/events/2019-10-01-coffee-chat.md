@@ -27,9 +27,9 @@ CS Coffee Chat is a program that randomly pairs a lower year student with an upp
 
 Make new friends and get to know other people walking around ICICS :) 
 
-__Sign up to join the October round [here](https://ubc.ca1.qualtrics.com/jfe/form/SV_bDaYpMXZ3BOYlnf?fbclid=IwAR17JTpRzU5VgqwsTqVTGc57JSHQ0gz4WjqI__wR0_gPTVCeKF3morGUmkE)!__
+__Sign up to join the October round [here](https://ubc.ca1.qualtrics.com/jfe/form/SV_bDaYpMXZ3BOYlnf)!__
 
 #### WHEN 
 Sign-up is open for the October round until September 30 11:59 PM. Matches will be sent out in the first week of October.
 
-To kick things off, we're hosting an event on EVENT_NAME for you to meet you match in person and meet other people in CS Coffee Chat.
+To kick things off, we'll be hosting an event in mid-October for you to meet you match in person and meet other people in CS Coffee Chat. Stay tuned for more details!
