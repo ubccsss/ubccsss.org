@@ -2,7 +2,7 @@
 title: UBC Computer Science Student Society
 ---
 <head>
-<meta http-equiv="Refresh" content="5; url=https://www.students.cs.ubc.ca/~amyjzhu/">
+<meta http-equiv="Refresh" content="2; url=https://www.students.cs.ubc.ca/~amyjzhu/">
 </head>
 
 
