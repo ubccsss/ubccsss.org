@@ -7,8 +7,8 @@ tags: [free-breakfast]
 author: Leo Lin
 images:
   - /files/2019-09-19-free-breakfast.png
-start_date: 2019-09-13 19:00:00
-end_date: 2019-09-10 22:00:00
+start_date: 2019-09-19 19:00:00
+end_date: 2019-09-19 22:00:00
 location:
   name: ICICS 021
   address:
