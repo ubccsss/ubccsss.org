@@ -6,7 +6,7 @@ tags: [coffeechat]
 author: Sherry
 images:
   - /files/coffee_chat_banner_2019.png
-start_date: 2019-10-01 00:00:00
+start_date: 2019-10-09 00:00:00
 end_date: 2020-05-01 00:00:00
 location:
   name: ICICS
@@ -30,6 +30,6 @@ Make new friends and get to know other people walking around ICICS :)
 __Sign up to join the October round [here](https://ubc.ca1.qualtrics.com/jfe/form/SV_bDaYpMXZ3BOYlnf)!__
 
 #### WHEN 
-Sign-up is open for the October round until September 30 11:59 PM. Matches will be sent out in the first week of October.
+Sign-up is open for the October round until October 9 11:59 PM. Matches will be sent out the week after.
 
-To kick things off, we'll be hosting an event in mid-October for you to meet your match in person and meet other people in CS Coffee Chat. Stay tuned for more details!
+To kick things off, we'll be hosting an event on __October 16 5:30 - 6:30 in ICICS X860__ for you to meet your match in person and meet other people in CS Coffee Chat. Stay tuned for more details!
