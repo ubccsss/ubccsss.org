@@ -32,4 +32,4 @@ __Sign up to join the October round [here](https://ubc.ca1.qualtrics.com/jfe/for
 #### WHEN 
 Sign-up is open for the October round until October 9 11:59 PM. Matches will be sent out the week after.
 
-To kick things off, we'll be hosting an event on __October 16 5:30 - 6:30 in ICICS X860__ for you to meet your match in person and meet other people in CS Coffee Chat. Stay tuned for more details!
+To kick things off, we'll be hosting an event on __October 16 5:30 - 6:30 in ICICS X860__ for you to meet your match in person and meet other people in CS Coffee Chat. Light refreshments will be provided. You're welcome to join if you plan to participate in the October round or any future rounds. You can RSVP for the kick-off event [here](https://forms.gle/RbRRYe6GnvLar1DE7).
