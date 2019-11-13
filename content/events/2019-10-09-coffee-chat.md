@@ -23,13 +23,14 @@ location:
 
 
 #### WHAT 
-CS Coffee Chat is a program that randomly pairs a junior (1st or 2nd year) student with a senior (3rd+ year) student for a quick meet-up on a monthly basis. This is a low-commitment and informal opportunity for junior students to ask questions about Computer Science majors, classes, extracurriculars, or internships and senior students to share their experiences! If more junior than senior students sign up, we'll make sure everyone is still in placed a match - either in a group of three or with another junior student.
+CS Coffee Chat is a program that randomly pairs a junior (1st or 2nd year) student with a senior (3rd+ year) student for a quick meet-up on a monthly basis. This is a low-commitment and informal opportunity for junior students to ask questions about Computer Science majors, classes, extracurriculars, or internships and senior students to share their experiences! If more junior than senior students sign up, we'll make sure everyone is still in placed a match in a group of three - either in a group of three or with another junior student. 
 
 Make new friends and get to know other people walking around ICICS :) 
 
-__Sign up to join the October round [here](https://ubc.ca1.qualtrics.com/jfe/form/SV_bDaYpMXZ3BOYlnf)!__
+_Sign-ups are closed for October and November rounds._
+ We had a great turnout for both months, with 40 people in October and 84 in November. Since December is finals season, we look forward to picking this up again next January. 
 
-#### WHEN 
-Sign-up is open for the October round until October 9 11:59 PM. Matches will be sent out the week after.
+ Every month, we open the form on first day and close on the last day. Matchings are then sent out to your email during the first week of next month. If you have any questions, reach out to ubc.cs.coffee.chat@gmail.com.
 
-To kick things off, we'll be hosting an event on __October 16 5:30 - 6:30 in ICICS X860__ for you to meet your match in person and meet other people in CS Coffee Chat. Light refreshments will be provided. You're welcome to join if you plan to participate in the October round or any future rounds. You can RSVP for the kick-off event [here](https://forms.gle/RbRRYe6GnvLar1DE7).
+#### KICK-OFF
+We held a kick-off on Oct 16th for you to meet your match in person and meet other people in CS Coffee Chat over snacks and light refreshments. We have yet to decide if we'll be running the meet-up again, but if we do, we'll be sure to let you know here and in weekly emails.
