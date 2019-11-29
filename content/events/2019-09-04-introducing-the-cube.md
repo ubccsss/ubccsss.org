@@ -1,4 +1,3 @@
-
 ---
 title: "Introducing the Cube"
 date: 2019-09-01
@@ -23,7 +22,7 @@ location:
 
 
 
-Want to learn more about the cube and the services/events we provide? Want to get involved? Or maybe you missed us on imagine day and just want to pick up some merch. 
+Want to learn more about the cube and the services/events we provide? Want to get involved? Or maybe you missed us on imagine day and just want to pick up some merch.
 
 Fear not, visit us at the cube (ICICS 021) to see what we have to offer you!
 
