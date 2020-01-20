@@ -12,6 +12,8 @@ pull requests etc. We would love to hear from you.
 ##### `content`
 
 Contains content files corresponding to every post, event, and page.
+The `events` folder contains events which can be added to a student's calendar,
+and the `posts` folder contain general posts to display.
 
 ##### `data`
 

@@ -8,7 +8,7 @@ author: Christopher Head
 images: []
 ---
 
-### Please send any exams you have to [vpc.ubccsss@gmail.com](mailto:vpc.ubccsss@gmail.com)!
+### Please send any exams you have to [vpa@ubccsss.org](mailto:vpa@ubccsss.org)!
 
 You can find our collection of CPSC exams and quizzes here. They're sorted by year and course. Solutions (where they exist) are also provided.
 
