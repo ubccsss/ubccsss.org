@@ -8,11 +8,12 @@ images:
   - /files/exams.jpg
   - /files/tutor.jpg
   - /files/lounge.jpg
+  - /files/coffee_chat_stock_image.jpg
+# Card images should all be 348x196
 ---
 
 The UBC CSSS offers the following services.
 
-<!--Card images should all be 348x196-->
 <div class="card-deck mb-3">
   {{< card title="Technical Career Fair" href="https://ubctcf.com" src="/files/career-fair.jpg" >}}
     We co-host the annual Tech Career Fair, which gathers technical companies from all over in one place on campus.
@@ -30,8 +31,8 @@ The UBC CSSS offers the following services.
   {{</ card >}}
 </div>
 <div class="card-deck single-card mb-3">
-  {{< card title="Coffee Chat" href="/events/2019/10/09/coffee-chat/" src="/files/coffee_chat_stock_image.jpg" >}}
-     This low-commitment and informal mentorship program randomly pairs a lower year student with an upper year student for a quick meetup on a monthly basis.
+  {{< card title="Coffee Chat" href="/services/coffeechat/" src="/files/coffee_chat_stock_image.jpg" >}}
+     This low-commitment and informal mentorship program pairs a lower year student with an upper year student for a quick meetup on a monthly basis.
   {{</ card >}}
 </div>
 
