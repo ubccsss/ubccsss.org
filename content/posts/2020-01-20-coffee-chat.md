@@ -21,4 +21,4 @@ Every month, we open the form on first day and close on the last day. Matchings 
 
 **Sign-up for the February 2020 round is now open, and you can find the sign-up form [here](https://ubc.ca1.qualtrics.com/jfe/form/SV_aV1r4019aH8eiNf?fbclid=IwAR1l5NxwMZ33RBMep2qGK4W6KhMoHvXstvanxZ7ky2jl4SmYDFSnY5xk9nM).**
 
-[More info](/services/coffee-chat)
+[More info](/services/coffeechat)
