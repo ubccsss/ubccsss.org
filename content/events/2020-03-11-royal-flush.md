@@ -34,7 +34,8 @@ In addition to a plated dinner, your tickets will cover the following:
 - Music + Photo Booth + Activities at the Gala
 - Cover to after party at Twelve West with 1 drink ticket
 
-TICKET SALES WILL BE OPEN ON MARCH 11, 2020 (6 PM):
+[TICKET SALES](https://www.eventbrite.ca/e/csss-presents-royal-flush-tickets-99105225397) WILL BE OPEN ON MARCH 11, 2020 (6 PM):
+
 
 Early-Bird Group Price: $35 (When four tickets are bought together)
 Early-Bird Price: $40
