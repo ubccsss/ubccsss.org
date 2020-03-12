@@ -1,4 +1,3 @@
-
 ---
 title: Nomnations Open
 date: 2019-10-31
