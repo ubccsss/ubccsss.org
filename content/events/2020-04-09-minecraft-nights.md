@@ -1,8 +1,8 @@
 ---
 title: "Minecraft Nights"
 date: 2020-04-09
-categories: [event]
-tags: [year-end-gala]
+categories: [services]
+tags: [gaming]
 author: Leo Lin
 images:
   - /files/2020-04-09-minecraft.jpg
@@ -14,7 +14,7 @@ start_date: 2020-04-09 20:00:00
 
 I hope you all are having fun during the quarantine, we've set up a Minecraft server for people to enjoy (it is actually up at all time so feel free to hop in):
 
-18.224.29.104
+192.99.44.26:25578
 
 There is also a discord channel if people are interested:
 https://discord.gg/mJT3GYN
