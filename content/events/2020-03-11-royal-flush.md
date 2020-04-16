@@ -1,5 +1,5 @@
 ---
-title: "CSSS Presents: Royal Flush - A Year End Gala"
+title: "Cancelled - CSSS Presents: Royal Flush - A Year End Gala"
 date: 2020-03-11
 categories: [event]
 tags: [year-end-gala]
