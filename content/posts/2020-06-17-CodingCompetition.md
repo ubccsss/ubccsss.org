@@ -17,7 +17,7 @@ Whether you want to brave the sea by yourself or with the help of your buddies (
 
 With your assigned team, and with teamwork, creativity, and collaboration, we believe you will come out having learned something new, or a couple new friends.
 
-Sign up - [](bit.ly/cssscompetition)
+Sign up - https://docs.google.com/forms/d/e/1FAIpQLSeuq2BFyhcs4F9LQ4mou-CYQ_EINOa2UD5Sm-OPq9tXnl814w/viewform?fbclid=IwAR1Eam4e6LSGCUjV8LnsgzsQfx_8NM6X_aG67ERwyOlT9txA1rzSS4uyjSg
 
 We will send out our Zoom Meeting link Saturday morning via EMAIL. Please have every group member sign up!
 
