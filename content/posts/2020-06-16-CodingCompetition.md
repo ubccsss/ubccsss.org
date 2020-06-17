@@ -1,6 +1,6 @@
 ---
 title: Coding Competition
-date: 2020-06-17
+date: 2020-06-16
 categories: [event]
 tags: [club-activities]
 author: Lauren Kerker
