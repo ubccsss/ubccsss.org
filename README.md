@@ -32,6 +32,12 @@ files in the `themes/hugo-bootstrap` folder.
 Static files that are copied into the website with no modifications. Images and
 PDF files are placed here.
 
+#### Headers and Redirects
+
+HTTP [headers](https://docs.netlify.com/routing/headers/) can be set by editing the `static/_headers` file.
+
+Short links and other [redirects](https://docs.netlify.com/routing/redirects/) can be configured in the `static/_redirects` file.
+
 ### Build
 
 To view the site locally, you need to clone this repository:
