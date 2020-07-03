@@ -10,10 +10,4 @@ CS Coffee Chat is a program that randomly pairs a junior (1st or 2nd year) stude
 
 Make new friends and get to know other people walking around ICICS ☺️
 
-**Sign-up for the February 2020 round is now open.**
-
-<a class="btn btn-outline btn-primary my-3" href="https://ubc.ca1.qualtrics.com/jfe/form/SV_aV1r4019aH8eiNf?fbclid=IwAR1l5NxwMZ33RBMep2qGK4W6KhMoHvXstvanxZ7ky2jl4SmYDFSnY5xk9nM">
-    Sign up now!
-</a>
-
 [View posts](/tags/coffeechat/)
