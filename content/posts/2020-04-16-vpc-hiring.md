@@ -1,12 +1,11 @@
-
 ---
 title: VPC Hiring
 date: 2019-04-16
-categories: [election]
+categories: [elections]
 tags: [club-activities]
 author: Leo Lin
 images:
-    - /files/2020-09-03-officer-hiring.jpg 
+    - /files/2020-09-03-officer-hiring.jpg
 ---
 ![](/files/2019-09-03-officer-hiring.jpg)
 

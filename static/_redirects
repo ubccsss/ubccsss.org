@@ -14,6 +14,9 @@
 /2017-03-agm-agenda  https://docs.google.com/document/d/1UEkb3s7FF7oVnuQYWKN_zPsonfaLEoqbwfv2WHEus5w/mobilebasic
 /ballot              https://www.ugrad.cs.ubc.ca/~v7w9a/elections/
 
+# Moved pages
+/posts/2020/06/16/codingcompetition/ /events/2020/06/16/codingcompetition/
+
 # Alternate domains
 # https://ubccsss.netlify.com/*  https://ubccsss.org/:splat 301!
 https://thecube.ca/*  https://ubccsss.org/:splat 301!

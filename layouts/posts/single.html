@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+<header>
+    {{ partial "post-title" . }}
+    {{ partial "post-date" . }}
+    {{ partial "post-tags" . }}
+    {{ partial "post-categories" . }}
+    {{ if in (apply .Params.categories "lower" ".") "event" }}
+        <!-- Events are promoted at the top of the site, posts are not. -->
+        {{ errorf "Post '%s' was categorized as event, it should be moved to events folder" .File.LogicalName }}
+    {{ end }}
+    <hr>
+</header>
+<article class="blog-post">
+    {{ .Content }}
+
+    {{ if .IsTranslated }}
+      <h4>{{ i18n "translations" }}</h4>
+      <ul>
+        {{ range .Translations }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+
+    {{ partial "related" . }}
+
+</article>
+
+{{ end }}
