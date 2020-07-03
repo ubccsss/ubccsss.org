@@ -58,3 +58,9 @@ params:
     colorScheme: dark
   footer:
     colorScheme: dark
+
+markup:
+  goldmark:
+    renderer:
+      # Allow HTML inside markdown
+      unsafe: true
