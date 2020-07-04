@@ -36,7 +36,7 @@ PDF files are placed here.
 
 HTTP [headers](https://docs.netlify.com/routing/headers/) can be set by editing the `static/_headers` file.
 
-Short links and other [redirects](https://docs.netlify.com/routing/redirects/) can be configured in the `static/_redirects` file.
+Short links and other [redirects](https://docs.netlify.com/routing/redirects/) can be configured in the `static/_redirects` file. If you want to redirect to another page on the site, you can add a `aliases` item to the metadata.
 
 ### Build
 

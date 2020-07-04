@@ -5,13 +5,15 @@ categories: [event]
 tags: [club-activities]
 author: Lauren Kerker
 images:
-    - /files/SummerHackathon_FBEventBanner.png 
+    - /files/SummerHackathon_FBEventBanner.png
+aliases:
+    - /posts/2020/06/16/codingcompetition/
 ---
 ![](/files/SummerHackathon_FBEventBanner.png)
 
 Join us this Saturday for our Summer Coding Competition!
 
-Make a few new friends and sharpen up your coding and problem-solving skills. 
+Make a few new friends and sharpen up your coding and problem-solving skills.
 
 Whether you want to brave the sea by yourself or with the help of your buddies (ELECTED by you or APPOINTED by us) solve your way through our course of problems curated by the CSSS team.
 

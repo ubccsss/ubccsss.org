@@ -16,9 +16,6 @@
 /election            https://www.students.cs.ubc.ca/~amyjzhu/
 /elections           https://www.students.cs.ubc.ca/~amyjzhu/
 
-# Moved pages
-/posts/2020/06/16/codingcompetition/ /events/2020/06/16/codingcompetition/
-
 # Alternate domains
 # https://ubccsss.netlify.com/*  https://ubccsss.org/:splat 301!
 https://thecube.ca/*  https://ubccsss.org/:splat 301!
