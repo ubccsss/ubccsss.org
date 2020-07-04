@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<header>
+    <h1 class="blog-post-title">
+      {{ replace (upper .File.ContentBaseName) "-" " " }}
+    </h1>
+    <h2 class="blog-post-title">
+      {{ .Title | markdownify }}
+    </h2>
+    {{ partial "post-date" . }}
+    {{ partial "post-tags" . }}
+    {{ partial "post-categories" . }}
+    <hr>
+</header>
+<article class="blog-post">
+    {{ replace .RawContent "<cite>" "<cite class='blockquote-footer'>" | markdownify }}
+
+    {{ partial "course/grades" . }}
+
+    {{ if .IsTranslated }}
+      <h4>{{ i18n "translations" }}</h4>
+      <ul>
+        {{ range .Translations }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+
+    {{ partial "related" . }}
+
+</article>
+
+{{ end }}
