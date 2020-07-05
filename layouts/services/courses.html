@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+<header>
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item">
+        <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a>
+      </li>
+      <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+    </ol>
+  </nav>
+
+  {{ partial "post-title" . }}
+  {{ partial "post-date" . }}
+  {{ partial "post-tags" . }}
+  {{ partial "post-categories" . }}
+  <hr>
+</header>
+<article class="blog-post">
+  {{ .Content }}
+
+  {{ partial "course/table" (sort .Pages ".File.ContentBaseName" "asc") }}
+
+  {{ if .IsTranslated }}
+    <h4>{{ i18n "translations" }}</h4>
+    <ul>
+      {{ range .Translations }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ partial "related" . }}
+
+</article>
+
+{{ end }}

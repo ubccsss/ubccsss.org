@@ -1,0 +1,20 @@
+<table class="table">
+  <thead>
+    <tr>
+      <th>Course</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {{ range . }}
+    <tr>
+      {{ $parts := split .File.ContentBaseName "-" }}
+      {{ $subject := index $parts 0 | upper }}
+      {{ $course := index $parts 1 }}
+      <td><a href="{{ .RelPermalink }}">{{ replace (upper .File.ContentBaseName) "-" " " }}</a></td>
+      <td>{{ .Title }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
