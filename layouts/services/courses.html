@@ -4,30 +4,22 @@
   <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
       <li class="breadcrumb-item">
-        <a href="{{ .Parent.Parent.RelPermalink }}">{{ .Parent.Parent.Title }}</a>
-      </li>
-      <li class="breadcrumb-item">
         <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a>
       </li>
-      <li class="breadcrumb-item active" aria-current="page">{{ replace (upper .File.ContentBaseName) "-" " " }}</li>
+      <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
     </ol>
   </nav>
 
-  <h1 class="blog-post-title">
-    {{ replace (upper .File.ContentBaseName) "-" " " }}
-  </h1>
-  <h3 class="blog-post-title">
-    {{ .Title | markdownify }}
-  </h3>
+  {{ partial "post-title" . }}
   {{ partial "post-date" . }}
   {{ partial "post-tags" . }}
   {{ partial "post-categories" . }}
   <hr>
 </header>
 <article class="blog-post">
-  {{ replace .RawContent "<cite>" "<cite class='blockquote-footer'>" | markdownify }}
+  {{ .Content }}
 
-  {{ partial "course/grades" . }}
+  {{ partial "course/table" (sort .Pages ".File.ContentBaseName" "asc") }}
 
   {{ if .IsTranslated }}
     <h4>{{ i18n "translations" }}</h4>
