@@ -30,9 +30,12 @@ The UBC CSSS offers the following services.
     We run a student lounge in ICICS 021, with cheap food, free microwaves, video games, and a place to hang out.
   {{</ card >}}
 </div>
-<div class="card-deck single-card mb-3">
+<div class="card-deck mb-3">
   {{< card title="Coffee Chat" href="/services/coffeechat/" src="/files/coffee_chat_stock_image.jpg" >}}
-     This low-commitment and informal mentorship program pairs a lower year student with an upper year student for a quick meetup on a monthly basis.
+    This low-commitment and informal mentorship program pairs a lower year student with an upper year student for a quick meetup on a monthly basis.
+  {{</ card >}}
+  {{< card title="Courses Database" href="/services/courses/" src="/files/classroom.jpg" >}}
+    We provide a database of student-sourced course descriptions to help you choose you next classes.
   {{</ card >}}
 </div>
 

@@ -1,12 +1,11 @@
-
 ---
 title: Year End Gala Update
 date: 2019-04-16
-categories: [event]
+categories: []
 tags: [year-end-gala]
 author: Leo Lin
 images:
-    - /files/2020-04-09-royal-flush.png 
+    - /files/2020-04-09-royal-flush.png
 ---
 ![](/files/2020-04-09-royal-flush.png)
 
