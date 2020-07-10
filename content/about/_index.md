@@ -10,7 +10,7 @@ serve all Computer Science students.
 
 <ul class="nav mb-4">
   <li class="nav-item">
-    <a class="nav-link" href="/about/team/">Executives</a>
+    <a class="nav-link" href="/about/team/">Executives</a>                                  
   </li>
   <li class="nav-item">
     <a class="nav-link" href="/about/constitution">Constitution</a>
