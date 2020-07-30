@@ -2,7 +2,9 @@
 title: Contact Us
 ---
 
-Need to send us an email? Contact `csss [at] ubccsss [dot] org`. You can also
+Need to send us an email? Contact `ubc [dot] cs [dot] csss [at] gmail [dot] com`. You can also
 find us on [Facebook](https://www.facebook.com/ubccsss),
 [Twitter](https://twitter.com/ubccsss), and
 [Reddit](https://reddit.com/r/ubccsss).
+
+[comment]: <> (`csss [at] ubccsss [dot] org`)
