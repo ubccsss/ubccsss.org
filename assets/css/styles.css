@@ -23,7 +23,7 @@ h6,
     border-radius: 50%;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('/static/modules/social.svg');
+    background-image: url('/modules/social.svg');
 }
 
 .blog-header {
@@ -53,14 +53,6 @@ h6,
 }
 .outline-menu > .outline-list {
     padding-left: 0;
-}
-.nav mb-4 {
-    background: #cce5ff;
-    margin: 5px;
-}
-.nav-item {
-    background: #cce5ff;
-    margin: 5px;
 }
 @media only screen and (min-width: 576px) {
     .single-card {
