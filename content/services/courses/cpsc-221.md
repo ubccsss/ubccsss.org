@@ -7,5 +7,4 @@ layout: course
 so not a lot of prior knowledge is required. Most importantly, this is the first class that introduces asymptotics notation (big O notation, like `O(n)`)
 and using them for algorithm analysis formally, so this could be handy for job interviews. You also learn about C++ and pointers.
 >
-> <cite><a href="https://github.com/Frozemint">Current CPSC 221 TA</a></cite>
-
+> <cite><a href="https://github.com/Frozemint">2020 CPSC 221 TA</a></cite>
