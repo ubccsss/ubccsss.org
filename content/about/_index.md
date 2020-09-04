@@ -8,18 +8,11 @@ aliases:
 We are the UBC Computer Science Student Society (UBC CSSS), a student society to
 serve all Computer Science students.
 
-<ul class="nav mb-4">
-  <li class="nav-item">
-    <a class="nav-link" href="/about/team/">Executives</a>                                  
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="/about/constitution">Constitution</a>
-  </li>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="/about/minutes/">Minutes</a>
-  </li>
-</ul>
+<div class="mb-4">
+  <a class="btn btn-primary" href="/about/team/">Executives</a>
+  <a class="btn btn-primary" href="/about/constitution">Constitution</a>
+  <a class="btn btn-primary" href="/about/minutes/">Minutes</a>
+</div>
 
 ### How do I join?
 
@@ -28,18 +21,18 @@ member!**
 
 ### What can we do for you?
 
-Expect BBQs (weather permitting), free breakfasts, board games nights, 
-Industry Panels and Info Sessions, volunteer opportunities within the Computer Science department, 
+Expect BBQs (weather permitting), free breakfasts, board games nights,
+Industry Panels and Info Sessions, volunteer opportunities within the Computer Science department,
 the highly-anticipated Career Fair, and social events such as our year-end gala!
 
 We also distribute all kinds of free stuff. Snag cool retractable CSSS pens and
-blue whiteboard markers, deck out your laptop with our signature CSSS and Cube 
+blue whiteboard markers, deck out your laptop with our signature CSSS and Cube
 vinyl stickers, pause your reading with a CSSS bookmark, or just come listen
 to the complimentary sage advice being dispensed in our clubroom.
 
 So come by and socialize with your CS peers; hang out, eat and be merry! We
 organize tons of events just for CS students. We can also help you dial into
-the rest of UBC CS. Find a home in the department by getting involved 
+the rest of UBC CS. Find a home in the department by getting involved
 with various volunteer opportunities. Increase your connections by networking
 with industry members at the career fair. And of course, we also stock cheap food
 ([Food Price List](/cube/menu)). Forget those greedy vending machines — we're not
