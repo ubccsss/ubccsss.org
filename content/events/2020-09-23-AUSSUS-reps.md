@@ -1,6 +1,6 @@
 ---
-title: Coding Competition
-date: 2020-06-16
+title: AUS SUS Applications
+date: 2020-09-23
 categories: [event]
 tags: [applications]
 author: Lauren Kerker
