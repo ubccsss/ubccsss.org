@@ -76,5 +76,4 @@ holding social events.
 For more information about the running of the club, please read our
 [constitution](/about/constitution).
 
-Thanks everyone! If you have any questions/concerns, please e-mail us at
-`csss [at] ubccsss [dot] org`!
+Thanks everyone! If you have any questions/concerns, please reach out to us on Facebook!
