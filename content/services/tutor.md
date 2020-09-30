@@ -33,11 +33,6 @@ ___
 **Courses:** CPSC 110, CPSC 121
 ___
 
-**Name:** Olivia Foster
-**Email:** <oliviarfoster@gmail.com>
-**Courses:** CPSC 110, CPSC 210
-___
-
 **Name:** XinRan Zhang
 **Email:** <xinran@zhangxinran.net>
 **Courses:** CPSC 110, CPSC 121, CPSC 210
