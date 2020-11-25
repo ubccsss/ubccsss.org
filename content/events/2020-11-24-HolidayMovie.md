@@ -1,6 +1,6 @@
 ---
 title: Cheesy Holiday Netflix Party
-date: 2020-11-02
+date: 2020-11-24
 categories: [event]
 tags: [club-activities]
 author: Lauren Kerker
