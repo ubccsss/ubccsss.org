@@ -62,7 +62,7 @@ three-layer reporting structure: the president, the other core executives, and
 the committees. The president and core executives are elected each spring, while committee
 members are appointed throughout the year. If you see a position that interests
 you, or just want to get involved, shoot us an e-mail at
-`csss [at] ubccsss [dot] org`.
+`president [at] ubccsss [dot] org`.
 
 ### Our Mission Statement and Constitution
 
