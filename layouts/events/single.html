@@ -16,6 +16,7 @@
     </div>
 
     {{ partial "event/add-to-calendar" . }}
+    <a class="btn btn-outline btn-primary my-3" href='./index.ics'>{{ i18n "addToIcsCalendar" }}</a>
 
     {{ if .IsTranslated }}
     <h4>{{ i18n "translations" }}</h4>

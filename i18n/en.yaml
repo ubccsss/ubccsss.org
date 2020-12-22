@@ -1,8 +1,11 @@
 - id: elsewhere
   translation: "Elsewhere"
 
-- id: addToCalendar
-  translation: "Add to my calendar"
+- id: addToGoogleCalendar
+  translation: "Add to Google Calendar"
+
+- id: addToIcsCalendar
+  translation: "Add to other calendar apps"
 
 - id: item
   translation: "Item"
