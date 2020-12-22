@@ -1,0 +1,26 @@
+---
+title: UBC Virtual Technical Career Fair 2021
+date: 2020-12-22
+categories: [event]
+tags: [club-activities]
+author: Lauren Kerker
+images:
+   - /files/tcf2021.jpg
+aliases:
+   - /posts/2020/12/22/TCF2021/
+---
+![](/files/tcf2021.jpg)
+🎉 Welcome to the UBC Virtual Technical Career Fair 2021! 🎉
+Last year, numerous companies attended the Technical Career Fair to meet undergraduate and graduate students from a wide range of disciplines, including Computer Science, Cognitive Systems, Engineering Physics, and Electrical & Computer Engineering. This is a wonderful way for you to showcase your portfolio, and network with a wide range of companies to find out about internships, Co-op, and new grad career opportunities.
+
+Hosted jointly by UBC Computer Science Student Society (CSSS), UBC IEEE, Cognitive Systems Society, and Engineering Physics, the Technical Career Fair will be held virtually on Jan. 21, 2021 @ 10am - 3pm (PST) via Microsoft Teams .
+
+Download Microsoft Teams here:
+https://it.ubc.ca/.../email-voice-internet/microsoft-teams
+
+📩 Bring your resume! 📩
+---
+*****IMPORTANT INFORMATION*****
+RSVP on CareersOnline by Jan 15th! Detailed access instructions will be emailed to you no later
+than Jan 18th.
+https://ubc-csm.symplicity.com/students -> CWL login -> Events -> Career Fairs/Special Events -> UBC Virtual Technical Career Fair 2021 -> RSVP
