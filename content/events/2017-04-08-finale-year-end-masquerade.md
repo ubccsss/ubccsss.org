@@ -16,6 +16,8 @@ location:
     postalCode: V6H 1C9
     addressRegion: BC
     addressCountry: CA
+start_date: 2017-03-15 17:30:00
+end_date: 2017-03-15 23:30:00
 ---
 
 ![](/files/Masquerade-small.jpg)

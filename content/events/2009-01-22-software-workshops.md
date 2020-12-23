@@ -7,6 +7,8 @@ aliases:
   - /node/1188
 author: Christopher Head
 images: []
+start_date: 2009-01-23 12:00:00
+end_date: 2009-01-23 13:00:00
 ---
 
 Interested in gaining some proficiency with Photoshop, Powerpoint, Dreamweaver, or Excel? Arts UBC is holding workshops on these three programs. Each workshop runs from noon to 1PM in Koerner Library 216. For each application, workshop dates run from lowest to highest level workshop.

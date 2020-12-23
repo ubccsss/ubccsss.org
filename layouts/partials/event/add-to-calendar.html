@@ -1,4 +1,7 @@
-{{ $startDate := .Params.start_date | default .Date }}
+{{ $startDate := .Params.start_date }}
+{{ if not $startDate }}
+    {{ errorf "Missing start date in event. Fix by adding date or moving to posts folder.\n File: ./content/%s" .File.Path }}
+{{ end }}
 {{ $endDate := .Params.end_date | default (time (add (time $startDate).Unix 36000)) }}
 {{ if (lt $endDate $startDate) }}
     {{ errorf "End date for '%s' is after the start date (%s, %s)" .Title $startDate $endDate }}

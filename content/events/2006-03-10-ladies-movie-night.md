@@ -7,6 +7,8 @@ aliases:
     - /node/463
 author: mlee
 images: []
+start_date: 2006-03-10 16:30:00
+end_date: 2006-03-10 19:00:00
 ---
 
 Did you know that UBC CS is among the highest ranking universities in Canada

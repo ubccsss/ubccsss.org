@@ -8,6 +8,7 @@ images:
     - /files/SummerHackathon_FBEventBanner.png
 aliases:
     - /posts/2020/06/16/codingcompetition/
+start_date: 2020-06-20 09:30:00
 ---
 ![](/files/SummerHackathon_FBEventBanner.png)
 

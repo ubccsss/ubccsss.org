@@ -8,6 +8,8 @@ aliases:
 author: atjia
 images:
   - /files/Ag.jpg
+start_date: 2007-11-01 18:00:00
+end_date: 2007-11-02 11:59:00
 ---
 
 ![](/files/Ag.jpg)**GLADIATOR** is coming up!

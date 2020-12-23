@@ -7,6 +7,8 @@ aliases:
   - /node/1419
 author: bertong
 images: []
+start_date: 2011-01-14 17:30:00
+end_date: 2011-01-14 21:30:00
 ---
 
 Hi all,
