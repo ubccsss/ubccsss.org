@@ -2,6 +2,7 @@
 title: Virtual Lounge
 aliases:
   - /events/2020/11/10/virtual-lounge/
+  - /services/virtualloungeservices/
 ---
 
 ![](/files/virtualLounge.jpg)
@@ -13,7 +14,7 @@ They will be present in voice chat during the duration of their
 shifts for casual chat and to answer questions about the CS community.
 
 
-Current schedule: 
+Current schedule:
 
 
 Mon (8pm-9pm) -Dhairya

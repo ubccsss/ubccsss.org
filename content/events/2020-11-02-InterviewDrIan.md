@@ -5,13 +5,15 @@ categories: [event]
 tags: [club-activities]
 author: Lauren Kerker
 images:
-   - /files/Q&A CSSS.jpg
+   - /files/Q&A%20CSSS.jpg
 aliases:
    - /posts/2020/11/02/Questions/
 start_date: 2020-11-02 15:00:00
 end_date: 2020-11-02 15:40:00
 ---
-![](/files/Q&A CSSS.jpg)
+
+![](/files/Q&A%20CSSS.jpg)
+
 All undergraduate students are invited to Dr. Ian Mitchell’s interview on Monday Nov. 2 from 3-3:40pm
 to ask questions and get answers from one of our potential new CS Head.
 

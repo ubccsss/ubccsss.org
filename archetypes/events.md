@@ -1,6 +1,8 @@
 ---
 # The title of the event
 title: "{{ delimit (split .Name "-" | after 3) " " | title }}"
+# Publishing date when the event appears, not the date of the event.
+date: {{ delimit (split .Name "-" | first 3) "-" }}
 # Tags that apply to the event
 tags: []
 # Name of the author (you)
@@ -11,7 +13,7 @@ images:
 # Start date and time. Used for calendar page.
 start_date: {{ delimit (split .Name "-" | first 3) "-" }} 12:00:00
 # End date and time (defaults to one hour after start). Used for calendar page.
-end_date:
+end_date: {{ delimit (split .Name "-" | first 3) "-" }} 11:00:00
 ---
 
 ![](/files/TODO-banner.png)
