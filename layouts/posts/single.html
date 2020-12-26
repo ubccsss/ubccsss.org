@@ -6,8 +6,8 @@
     {{ partial "post-tags" . }}
     {{ partial "post-categories" . }}
     {{ if in (apply .Params.categories "lower" ".") "event" }}
-        <!-- Events are promoted at the top of the site, posts are not. -->
-        {{ errorf "Post '%s' was categorized as event, it should be moved to events folder" .File.LogicalName }}
+      <!-- Events are promoted at the top of the site, posts are not. -->
+      {{ errorf "Post was categorized as event. Posts do not appear at the top of the site. Fix by moving to events folder.\n File: ./content/%s" .File.Path }}
     {{ end }}
     <hr>
 </header>
