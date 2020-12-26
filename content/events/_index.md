@@ -9,3 +9,5 @@ cascade:
 ---
 
 Upcoming events from the CSSS.
+
+{{< calendar >}}
