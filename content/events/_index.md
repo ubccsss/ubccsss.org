@@ -6,8 +6,6 @@ cascade:
     - Calendar
   categories:
     - Event
-outputs:
-  - HTML
 ---
 
 Upcoming events from the CSSS.
