@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: ubccsss/ubccsss.org-experimental
+  name: git-gateway
   squash_merges: true
 
 publish_mode: editorial_workflow
@@ -75,8 +74,15 @@ collections: # A list of collections the CMS should be able to edit
           name: tag
           widget: select
           options: [
-            Career, Club Activities, Merch, Resume,
-            Social, Tri-Mentoring, Tutor, Volunteer
+            Applications, BBQ, Care Package, Career,
+            Club Activities, CoffeeChat, Food Week,
+            Free Breakfast, Game Night, Gaming,
+            Grad Photos, IT Night, Lazer Tag, Merch,
+            Mixer, Movie Night, Project Hub,
+            Resume, Semi Annual General Meeting,
+            Social, Sports, Talk, Technical Career Fair,
+            Townhall, Tri-Mentoring, Trivia, Tutor,
+            Volunteer, Workshop, Year End Gala
           ]
       - {label: Images, name: images, widget: list, required: false, field: [
           {label: Image, name: image, widget: image}]}
