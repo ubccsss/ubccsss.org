@@ -10,6 +10,7 @@ aliases:
    - /posts/2020/11/02/Questions/
 start_date: 2020-11-02 15:00:00
 end_date: 2020-11-02 15:40:00
+virtual_location: https://ubc.zoom.us/j/63679913308?pwd=c1V0TFlDNzJVZ1RpUUFEUkg1cHljZz09
 ---
 
 ![](/files/Q&A%20CSSS.jpg)

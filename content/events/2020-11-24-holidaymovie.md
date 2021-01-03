@@ -9,6 +9,7 @@ images:
 aliases:
    - /posts/2020/11/24/HolidayMovie/
 start_date: 2020-12-05 05:00:00
+virtual_location: https://discord.gg/fqt6e8TP6q
 ---
 ![](/files/snowman.jpg)
 🧀🎄🧀 CSSS Cheesy Holiday Netflix Party 🧀🎄🧀

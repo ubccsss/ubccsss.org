@@ -9,6 +9,7 @@ images:
 aliases:
     - /posts/2020/10/27/virtualPictionary/
 start_date: 2020-10-28 18:00:00
+virtual_location: https://ubc.zoom.us/j/61074632465
 ---
 ![](/files/pictionary_csss.jpg)
 
