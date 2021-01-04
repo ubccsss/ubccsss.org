@@ -4,7 +4,7 @@
 
     <div class="row mb-2">
         {{ range $recentEvents }}
-        {{ partial "event/event-card" . }}
+            {{ .Render "card" }}
         {{ end }}
     </div>
     <header>
