@@ -2,7 +2,7 @@
 <div class="container">
     {{ $recentEvents := (.Site.GetPage "/events").Pages | first 3 }}
 
-    <div class="card-deck row mb-2">
+    <div class="row mb-2">
         {{ range $recentEvents }}
         {{ partial "event/event-card" . }}
         {{ end }}
