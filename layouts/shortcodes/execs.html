@@ -1,0 +1,24 @@
+{{ range .Page.Params.execs }}
+<div class="row">
+  <div class="col-auto">
+    {{- $path := printf "images/execs/%s" (.img | default "default.svg") -}}
+    {{- $img := resources.Get $path -}}
+    {{- if ne $img.MediaType.SubType "svg" -}}
+      {{- $img = $img.Fill "100x100 Center" -}}
+    {{- end -}}
+    <img class="rounded-circle" height="100" width="100" src="{{ $img.RelPermalink }}" alt="">
+  </div>
+  <div class="col">
+    <h3>{{ .position }}</h3>
+    <div>
+      <h4 class="d-inline fs-6 fw-bold" style="font: inherit">Name:</h4>
+      <span>{{ .name }}</span>
+    </div>
+    <div>
+      <h4 class="d-inline fs-6 fw-bold" style="font: inherit">Email:</h4>
+      <code>{{ replace (replace .email "@" " [at] ") "." " [dot] " }}</code>
+    </div>
+  </div>
+</div>
+<hr>
+{{ end }}
