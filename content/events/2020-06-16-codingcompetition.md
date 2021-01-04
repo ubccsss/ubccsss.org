@@ -8,6 +8,8 @@ images:
     - /files/SummerHackathon_FBEventBanner.png
 aliases:
     - /posts/2020/06/16/codingcompetition/
+start_date: 2020-06-20 09:30:00
+virtual_location: https://us02web.zoom.us/j/89278946578?pwd=VmpsQ2RRdlZId1M0bENmSGhUTUdtdz09
 ---
 ![](/files/SummerHackathon_FBEventBanner.png)
 

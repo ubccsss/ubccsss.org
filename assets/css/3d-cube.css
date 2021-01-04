@@ -18,7 +18,8 @@
   transform: translateZ(-6.25em) rotateX(330deg) rotateY(-45deg);
   transition: transform 1s ease;
 }
-.cube:hover, .cube.focus {
+.cube:hover,
+.cube.focus {
   transform: translateZ(-6.25em) rotateX(150deg) rotateY(-45deg);
 }
 
@@ -44,6 +45,17 @@
 .cubeimg {
   border: 5px solid #498df8;
 }
+.cubeface-label {
+  display: block;
+  position: absolute;
+
+  content: attr(title);
+  font-family: "Montserrat", sans-serif;
+  font-size: 2em;
+  transform: rotateX(90deg);
+  transform-origin: top;
+  backface-visibility: hidden;
+}
 .cubeface-img {
   width: 100%;
   height: 100%;
@@ -53,7 +65,7 @@
   backface-visibility: hidden;
 }
 a .cubeface-img {
-    transition: transform 0.2s ease;
+  transition: transform 0.2s ease;
 }
 a:hover .cubeface-img,
 a:focus .cubeface-img {
@@ -63,8 +75,16 @@ a:focus .cubeface-img {
 #cubeface-thecube {
   transform: rotateX(-90deg) translateZ(6.25em);
 }
+#cubeface-thecube .cubeface-label {
+  top: 0;
+  transform: translateY(-100%) rotateX(-90deg);
+  transform-origin: bottom;
+}
 #cubeface-tutorexam {
   transform: rotateY(180deg) rotateZ(180deg) translateZ(6.25em);
+}
+#cubeface-tutorexam .cubeface-label {
+  right: 0;
 }
 #cubeface-careerfair {
   transform: rotateY(-90deg) rotateZ(180deg) translateZ(6.25em);

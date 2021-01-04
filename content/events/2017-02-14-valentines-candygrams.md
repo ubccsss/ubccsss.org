@@ -10,6 +10,7 @@ images:
   - /files/UPPERBOUNDLOVE.jpg
 start_date: 2017-02-14 08:00:00
 end_date: 2017-02-14 18:00:00
+virtual_location: https://www.facebook.com/events/1777568772570059/
 ---
 
 [![](/files/UPPERBOUNDLOVE.jpg)](https://ubccsss.org/candygrams)

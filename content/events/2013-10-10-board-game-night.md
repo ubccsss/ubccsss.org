@@ -7,6 +7,7 @@ aliases:
   - /node/1530
 author: Christopher Head
 images: []
+start_date: 2013-10-17 18:00:00
 ---
 
 Come and play boardgames with other CS students! Some games we often play:

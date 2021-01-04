@@ -1,7 +1,9 @@
 {{ define "main" }}
 
 <header>
-    {{ partial "post-title" . }}
+    <h1 class="blog-post-title">
+        <a class="text-dark text-decoration-none" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+    </h1>
     {{ partial "post-date" . }}
     {{ partial "post-tags" . }}
     {{ partial "post-categories" . }}
@@ -16,6 +18,7 @@
     </div>
 
     {{ partial "event/add-to-calendar" . }}
+    <a class="btn btn-outline btn-primary my-3" href='./index.ics'>{{ i18n "addToIcsCalendar" }}</a>
 
     {{ if .IsTranslated }}
     <h4>{{ i18n "translations" }}</h4>

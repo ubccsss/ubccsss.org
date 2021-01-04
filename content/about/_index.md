@@ -77,3 +77,5 @@ For more information about the running of the club, please read our
 [constitution](/about/constitution).
 
 Thanks everyone! If you have any questions/concerns, please reach out to us on Facebook!
+
+{{< calendar >}}

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UBC CSSS//Event Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+{{range .Pages -}}
+{{- $startDate := .Params.start_date | default .Date }}
+{{- $endDate := .Params.end_date | default (time (add (time $startDate).Unix 36000)) }}
+BEGIN:VEVENT
+DTSTAMP:{{dateFormat "20060102T150405Z" now}}
+UID:{{ .File.ContentBaseName }}@ubccsss.org
+DTSTART:{{dateFormat "20060102T150405" $startDate}}
+DTEND:{{dateFormat "20060102T150405" $endDate}}
+SUMMARY:{{.Title}}
+DESCRIPTION:(Info: {{.Permalink}})
+{{ with (partial "event/address" .) }}LOCATION:{{ . }}{{ end }}
+URL:{{.Permalink}}
+END:VEVENT
+{{end -}}
+END:VCALENDAR

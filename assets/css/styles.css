@@ -1,5 +1,5 @@
 body {
-    background: #fcfcfc;
+  background: #fcfcfc;
 }
 
 h1,
@@ -9,53 +9,32 @@ h4,
 h5,
 h6,
 .navbar-brand {
-    font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .blog-post {
-    margin-bottom: 4rem;
-}
-
-.social-link {
-    height: 32px;
-    width: 32px;
-
-    border-radius: 50%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-image: url('/modules/social.svg');
+  margin-bottom: 4rem;
 }
 
 .blog-header {
-    overflow: hidden;
+  overflow: hidden;
 }
 
 .blog-header .navbar {
-    padding: 10em 2em 1em;
-    margin: -9em -1em 2%;
-    color: white;
-    background: #0a0e1a;
-    transform: rotateZ(-2deg);
+  padding: 10em 2em 1em;
+  margin: -9em -1em 2%;
+  color: white;
+  background: #0a0e1a;
+  transform: rotateZ(-2deg);
 }
 
 .navbar-brand {
-    transform: rotateZ(2deg);
-    margin-top: -0.5rem;
+  transform: rotateZ(2deg);
+  margin-top: -0.5rem;
 }
 
 .outline-menu {
-    height: auto;
-    max-height: 20em;
-    overflow-x: hidden;
-}
-.outline-list {
-    list-style: none;
-}
-.outline-menu > .outline-list {
-    padding-left: 0;
-}
-@media only screen and (min-width: 576px) {
-    .single-card {
-        width: 52%;
-    }
+  height: auto;
+  max-height: 20em;
+  overflow-x: hidden;
 }

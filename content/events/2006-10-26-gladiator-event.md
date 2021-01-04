@@ -8,6 +8,8 @@ aliases:
 author: robf
 images:
   - /files/CSLogo_web_small.jpg
+start_date: 2006-11-01 09:00:00
+end_date: 2006-11-02 17:00:00
 ---
 
 ![](/files/CSLogo_web_small.jpg)

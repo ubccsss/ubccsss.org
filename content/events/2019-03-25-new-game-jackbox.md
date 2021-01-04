@@ -2,7 +2,7 @@
 title: 'New games in the Cube: Jackbox Party Pack'
 date: 2019-03-22
 categories: [Event]
-tags: [Games Night]
+tags: [Game Night]
 author: Tiger Oakes
 images:
   - /files/intro-jackbox-party-pack.jpg

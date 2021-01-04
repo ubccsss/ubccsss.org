@@ -1,13 +1,13 @@
 ---
 title: Virtual Lounge
 date: 2020-11-10
-categories: [service]
+categories: [services]
 tags: [club-activities]
 author: Lauren Kerker
 images:
    - /files/virtualLounge.jpg
 aliases:
-   - /posts/2020/11/10/VirtualLounge/ 
+   - /posts/2020/11/10/VirtualLounge/
 ---
 ![](/files/virtualLounge.jpg)
 We are announcing the new Virtual Lounge Coordinator initiative,
@@ -17,7 +17,7 @@ They will be present in voice chat during the duration of their
 shifts for casual chat and to answer questions about the CS community.
 
 
-Current schedule: 
+Current schedule:
 
 
 Mon (8pm-9pm) -Dhairya

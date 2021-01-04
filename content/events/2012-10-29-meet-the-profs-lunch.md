@@ -6,6 +6,8 @@ aliases:
   - /node/1532
 author: Christopher Head
 images: []
+start_date: 2013-10-31 12:30:00
+end_date: 2013-10-31 14:00:00
 ---
 
 Come and get to know your professors over free lunch (courtesy of the CSSS) this Hallowe’en. Free pizza and pop!

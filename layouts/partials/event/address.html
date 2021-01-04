@@ -1,5 +1,10 @@
-{{ if .Params.location }}
-{{ $addr := .Params.location.address }}
-{{ $def := .Site.Params.default_location_address }}
-{{ .Params.location.name }} - {{ delimit (slice $addr.streetAddress (default $addr.addressLocality $def.addressLocality) (default $addr.addressRegion $def.addressRegion) $addr.postalCode) ", " }}
+{{ $result := "" }}
+{{ if .Params.virtual_location }}
+  {{ $result = .Params.virtual_location }}
+{{ else if .Params.location }}
+  {{ $addr := .Params.location.address }}
+  {{ $def := .Site.Params.default_location_address }}
+  {{ $addrLong := delimit (slice $addr.streetAddress (default $addr.addressLocality $def.addressLocality) (default $addr.addressRegion $def.addressRegion) $addr.postalCode) ", " }}
+  {{ $result = printf "%s - %s" .Params.location.name $addrLong }}
 {{ end }}
+{{ return $result }}
