@@ -16,16 +16,6 @@ h6,
     margin-bottom: 4rem;
 }
 
-.social-link {
-    height: 32px;
-    width: 32px;
-
-    border-radius: 50%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-image: url('/modules/social.svg');
-}
-
 .blog-header {
     overflow: hidden;
 }
@@ -47,9 +37,4 @@ h6,
     height: auto;
     max-height: 20em;
     overflow-x: hidden;
-}
-@media only screen and (min-width: 576px) {
-    .single-card {
-        width: 52%;
-    }
 }
