@@ -1,39 +1,30 @@
-<nav class="nav justify-content-between">
-    {{ $prev := .PrevInSection }}
-    {{ if and (not $prev) (ne .CurrentSection .) }}
-    {{ $prev = .CurrentSection }}
-    {{ end }}
-    {{ with $prev }}
-    <a class="nav-link" href="{{ .RelPermalink }}">‹ {{ .Title }}</a>
-    {{ end }}
-
-    {{ if ne .Parent .Site.Home }}
-        {{ with .Parent }}
+<ul class="about-pager nav nav-pills flex-column align-items-start">
+    {{ $page := . }}
+    {{ with .CurrentSection }}
+    {{ with .Parent }}
+    <li class="nav-item about-pager-up">
         <a class="nav-link" href="{{ .RelPermalink }}">Up</a>
-        {{ end }}
+    </li>
     {{ end }}
 
-    {{ $next := .NextInSection }}
-    {{ if eq .CurrentSection . }}
-    {{ $next = index .Pages (sub (len .Pages) 1) }}
-    {{ else }}
-    {{ $nextSection := index .CurrentSection.Sections 0 }}
-    {{ if $nextSection }}
-    {{ $next = index $nextSection.Pages (sub (len $nextSection.Pages) 1) }}
-    {{ end }}
-    {{ end }}
-    {{ with $next }}
-    <a class="nav-link" href="{{ .RelPermalink }}">{{ .Title }} ›</a>
+    {{ range .RegularPages }}
+    <li class="ms-3 nav-item">
+        <a class="nav-link {{ if eq . $page }}active{{ end }}" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
     {{ end }}
 
-    {{ if eq .Section "about" }}
-    <div class="nav-item dropdown">
-        <button class="btn btn-secondary nav-link dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Outline
-        </button>
-        <div class="dropdown-menu outline-menu" aria-labelledby="dropdownMenuButton">
-            {{ partial "pages/outline-items" .CurrentSection }}
-        </div>
-    </div>
+    {{ range .Sections }}
+    <li class="ms-3 nav-item btn-group">
+        <a class="nav-link pe-0" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <a class="nav-link dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false" title="Show subpages">
+            <span class="visually-hidden">Show subpages</span>
+        </a>
+        <ul class="dropdown-menu outline-menu">
+            {{ range .Pages }}
+            <li><a class="dropdown-item" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+        </ul>
+    </li>
     {{ end }}
-</nav>
+    {{ end }}
+</ul>

@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ $currentExecs := index (sort .Pages "Title" "desc") 0 }}
+{{ $currentExecs := index (sort .RegularPages "Title" "desc") 0 }}
 
 <header>
     {{ partial "post-title" $currentExecs }}

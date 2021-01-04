@@ -48,12 +48,6 @@ h6,
     max-height: 20em;
     overflow-x: hidden;
 }
-.outline-list {
-    list-style: none;
-}
-.outline-menu > .outline-list {
-    padding-left: 0;
-}
 @media only screen and (min-width: 576px) {
     .single-card {
         width: 52%;
