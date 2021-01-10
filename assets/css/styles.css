@@ -12,6 +12,10 @@ h6,
   font-family: "Montserrat", sans-serif;
 }
 
+a {
+  word-break: break-word;
+}
+
 .blog-post {
   margin-bottom: 4rem;
 }

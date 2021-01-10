@@ -27,7 +27,7 @@ We will send out our Zoom Meeting link Saturday morning via EMAIL. Please have e
 
 The top-scoring team will walk away with a $50 Amazon gift card!
 
-==============================================
+---
 
 **NOTE: You will be required to use Github and git, for code submissions. Please ensure you are familiar with both. We will have a crash course on both at 1 hour before the competition starts (11 am PST) via this link: https://us02web.zoom.us/j/89278946578?pwd=VmpsQ2RRdlZId1M0bENmSGhUTUdtdz09
 
