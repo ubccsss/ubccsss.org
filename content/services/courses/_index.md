@@ -1,5 +1,7 @@
 ---
 title: "Courses Database"
+cascade:
+  layout: course
 layout: courses
 ---
 

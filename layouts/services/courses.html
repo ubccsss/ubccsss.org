@@ -1,16 +1,11 @@
 {{ define "main" }}
 
 <header>
-  <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
-      <li class="breadcrumb-item">
-        <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a>
-      </li>
-      <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
-    </ol>
-  </nav>
+  {{ partial "breadcrumb/breadcrumbs" . }}
 
-  {{ partial "post-title" . }}
+  <h1 class="blog-post-title">
+    <a class="text-dark text-decoration-none" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+  </h1>
   {{ partial "post-date" . }}
   {{ partial "post-tags" . }}
   {{ partial "post-categories" . }}

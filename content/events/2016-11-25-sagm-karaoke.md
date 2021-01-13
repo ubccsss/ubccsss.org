@@ -21,7 +21,8 @@ location:
 ![](/files/15205701_10154809941108982_1878677882_o.jpg)
 
 Come for the meeting, stay for the singing.
-===========================================
+
+---
 
 The Computer Science Student Society invites all of our members to the first Semi-Annual General Meeting of the year! If you have any questions about the CSSS or like to give input about the club and discuss club matters, this is a great opportunity to do so. There will be food provided at the meeting. We're also hosting a karaoke night after the meeting (at around 6:30), so invite your friends to swing by and sing to your heart's content!
 

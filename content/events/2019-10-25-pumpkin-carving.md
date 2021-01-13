@@ -1,4 +1,3 @@
-
 ---
 title: "Pumpkin Carving"
 date: 2019-10-20

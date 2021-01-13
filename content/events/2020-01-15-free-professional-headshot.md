@@ -1,5 +1,3 @@
-
-
 ---
 title: "Free Portrait Photography Session"
 date: 2020-01-09
@@ -23,7 +21,7 @@ location:
 ![](/files/2020-01-15-free-professional-headshot.jpg)
 
 
-The CSSS is offering a free portrait photography session for CS students! 
+The CSSS is offering a free portrait photography session for CS students!
 
 This is perfect if you are looking to update your professional profile just before the Technical Career Fair! (TCF event here: https://www.facebook.com/events/1413043358865329)
 
@@ -32,4 +30,3 @@ Drop by the ICICS Atrium to get your photo taken by a professional photographer!
 Priority will be given to CS students as well as students who signed up.
 
 Sign up here: https://ubc.ca1.qualtrics.com/jfe/form/SV_6EDcqxVcK7yPo1v
-

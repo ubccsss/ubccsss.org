@@ -1,1 +1,0 @@
-{{ if eq .page .Site.Home }}{{ .n }}{{ else }}{{ partial "breadcrumb/num-parents" (dict "n" (add .n 1) "page" .page.Parent) }}{{ end }}

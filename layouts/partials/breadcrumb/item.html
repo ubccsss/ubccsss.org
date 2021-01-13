@@ -1,9 +1,0 @@
-{{ if ne . .Site.Home }}
-{{ partial "breadcrumb/item" .Parent }}
-<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item">
-    <a itemtype="https://schema.org/Thing" itemprop="item" href="{{ .Permalink }}">
-        <span itemprop="name">{{ .Title }}</span>
-    </a>
-    <meta itemprop="position" content='{{- trim (partial "breadcrumb/num-parents" (dict "n" -1 "page" .)) "\n" -}}' />
-</li>
-{{ end }}
