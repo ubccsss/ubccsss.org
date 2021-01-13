@@ -50,8 +50,8 @@ Arista is a fast growing mid-size company that builds multi-layer Ethernet switc
 **Broadridge**
 Since becoming independent in 2007, Broadridge has grown into a global Fintech company with over $4.5 billion in revenues and is recognized as an invaluable partner for the world's leading companies and financial institutions. They help drive business transformation for their clients with solutions for enriching client engagement, navigating risk, optimizing efficiency and generating revenue growth. Visit their website here: http://www.broadridge.com and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
-![](/files/Burli-NE-Logo.png)
-**Burli**
+![](/files/Burli-NE-Logo.png)\
+**Burli**\
 Burli Software is a Vancouver-based software company that has been developing, selling and supporting software for the broadcast industry for more than 20 years. Its key products, which are used worldwide by thousands of professional journalists, are applications for managing content (text, audio, video) for radio and television newsrooms. Visit their website here: http://www.burli.com and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
 
@@ -124,7 +124,7 @@ WorkSafeBC is a provincial agency dedicated to promoting safe and healthy workpl
 
 
 ![](/files/zaber.png)
-**Zaber Technologies**
+**Zaber Technologies**\
 Zaber Technologies is an established and steadily growing employee-owned company that designs, manufactures, and sells precision motion control equipment for high-tech markets around the world. Visit their website here: http://www.zaber.com and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
 
