@@ -5,7 +5,7 @@ author: Lauren Kerker
 images:
    - /files/logo.png
    - /files/generac.png
-   - /files/SAP.png
+   - /files/SAP-logo.png
    - /files/kabam.jpg
    - /files/Arista_Logo.png
    - /files/broadridge.jpg
@@ -19,8 +19,8 @@ images:
    - /files/safe.png
    - /files/skybox.png
    - /files/teck.png
-   - /files/Visier.png
-   - /files/Worksafebc-logo.png
+   - /files/visier.png
+   - /files/Worksafebc.png
    - /files/zaber.png
 start_date: 2021-01-21 10:00:00
 end_date: 2021-01-21 15:00:00
@@ -39,7 +39,7 @@ The following companies will be at the UBC Virtual Technical Career Fair:
 Vancouver-based, Kabam Games, started in 2006 and now has 5 offices across North America. They have developed games with big names such as Marvel, Disney, and Hasbro. Kabam has job opportunities in areas such as, Game Engineering, Data Science, and UX. Visit their website here: https://kabam.com/ and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
 
-<img src="/files/SAP.png" width="500">\
+<img src="/files/SAP-logo.png" width="500">\
 **SAP**\
 SAP values entrepreneurial spirit, fostering creativity and building lasting relationships with their employees. They know that a diverse and inclusive workforce keeps them competitive and provides opportunities for all. They believe that together we can transform industries, grow economics, lift up societies and sustain our environment. Visit their website here: https://www.sap.com/canada/  and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
