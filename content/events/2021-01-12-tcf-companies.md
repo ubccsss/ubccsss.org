@@ -76,7 +76,7 @@ In 2019, Neurio Technology and Pika Energy were acquired by Generac Power System
 Global Relay helps organizations manage and control their communications data. Their services provide all employees with the tools and data they need - helping them make decisions and organizations stay competitive. Visit their website here: http://globalrelay.com and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
 
-<img src="/files/icbc-logo.jpg" width="500">\
+<img src="/files/icbc-logo.jpg" width="300">\
 **ICBC**\
 A career at ICBC is an opportunity to be part of a talented, diverse and inclusive team that is driven to serve its customers and community. Make the most of your skills and take the opportunity to grow and develop your career. You can expect a competitive salary, comprehensive benefits and a challenging work environment. Drive your career with ICBC. Visit their website here: http://www.icbc.com and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
@@ -96,7 +96,7 @@ PDFTron is an industry-leading provider of document processing technology that p
 Qumulo is the leading file data platform for multi cloud environments, providing unrivaled freedom, control, and real-time visibility for file data at massive scale. Fortune 500 companies, major film studios, and the largest research facilities in the world trust Qumulo to help them innovate with their mission-critical digital files. Visit their website here: http://www.qumulo.com and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
 
-<img src="/files/RedMane_Logo.jpg" width="500">\
+<img src="/files/RedMane_Logo.jpg" width="300">\
 **RedMane**\
 RedMane's business is the design, delivery, and support of large mission critical business application systems for governments and large businesses across North America. Visit their website here: https://www.redmane.com/ and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
@@ -116,12 +116,12 @@ SkyBox Labs is a full-service game development studio based in Vancouver, BC, Ca
 Teck is a diversified resource company committed to responsible mining and mineral development with business units focused on copper, zinc, and steelmaking coal. Teck hires more than 150 students each year to work at their various operations and offices in Western Canada. If you are driven to succeed, self-motivated and seeking a fast-paced, dynamic organization with extensive education and career development opportunities, you have come to the right place. Visit their website here: http://teck.com/campus and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
 
-<img src="/files/Visier.png" width="500">\
+<img src="/files/visier.png" width="500">\
 **Visier**\
 A leading innovator in Applied Big Data cloud technology, Visier provides Workforce Intelligence solutions that are enabling a rapidly growing number of the world's best brands to maximize their business outcomes through their people. Visit their website here: http://www.visier.com and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
 
-<img src="/files/Worksafebc-logo.png">\
+<img src="/files/worksafebc.png">\
 **WorkSafeBC**\
 WorkSafeBC is a provincial agency dedicated to promoting safe and healthy workplaces across B.C. We partner with workers and employers to save lives and prevent work-related injury, disease, and disability. Visit their website here: http://www.worksafebc.com/careers and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
