@@ -27,14 +27,14 @@ end_date: 2021-01-21 15:00:00
 virtual_location: https://ubc-csm.symplicity.com/students
 ---
 <img src="/files/logo.png" width="200">\
-🎉 Welcome to the UBC Virtual Technical Career Fair 2021! 🎉
+**Welcome to the UBC Virtual Technical Career Fair 2021!**\
 
 
-The following companies will be at the UBC Virtual Technical Career Fair:
+The following companies will be at the UBC Virtual Technical Career Fair:\
 
 
 
-![](/files/kabam.jpg)\
+<img src="/files/kabam.jpg" width="500">\
 **Kabam**\
 Vancouver-based, Kabam Games, started in 2006 and now has 5 offices across North America. They have developed games with big names such as Marvel, Disney, and Hasbro. Kabam has job opportunities in areas such as, Game Engineering, Data Science, and UX. Visit their website here: https://kabam.com/ and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
