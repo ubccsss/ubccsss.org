@@ -131,3 +131,14 @@ WorkSafeBC is a provincial agency dedicated to promoting safe and healthy workpl
 Zaber Technologies is an established and steadily growing employee-owned company that designs, manufactures, and sells precision motion control equipment for high-tech markets around the world. Visit their website here: http://www.zaber.com and chat with them at the 2021 UBC Virtual Career Fair to learn more! (event info -> https://fb.me/e/1qeVvWd3P)
 
 
+
+**Benevity Inc**\
+Better Work and a Better World: at Benevity that's what they're all about. They're a software company in the business of doing good, building better ways for companies to connect with their customers and employees around causes (they make doing well by doing good more than just a tagline!). They're growing fast and looking for more great people to join the team.\
+
+They are not Bono, just a passionate crew of workhorses out to change the world. They have that fun, flexible tech culture that people love (ok, some people, you know who you are!) and they have a heart.\
+
+Benevity, Inc., a certified B Corporation, is the global leader in corporate social responsibility and employee engagement software, including online giving, matching, volunteering and community investment.\
+
+
+
+
