@@ -28,11 +28,6 @@ ___
 
 ___
 
-**Name:** Ryan Shar
-**Email:** <ryan.shar01@gmail.com>
-**Courses:** CPSC 110, CPSC 121
-___
-
 **Name:** XinRan Zhang
 **Email:** <xinran@zhangxinran.net>
 **Courses:** CPSC 110, CPSC 121, CPSC 210
