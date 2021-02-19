@@ -22,6 +22,12 @@ ___
 **Courses:** CPSC 103
 ___
 
+**Name:** Emily Gubski
+**Email:** <emily.gubski@ubc.ca>
+**Courses:** CPSC 103
+
+___
+
 **Name:** Kamsi Oramasionwu
 **Email:** <kamsi.oramasionwu@gmail.com>
 **Courses:** CPSC 110
