@@ -58,10 +58,9 @@ less than \$2!) to keep you going through those long coding projects in the lab.
 
 We run a variety of social events - board game nights, barbecues, and more!
 
-## [Chat Server](https://chat.ubccsss.org)
+## [Discord Server](https://discord.gg/xF3WbYDubF)
 
-We run chat/messaging service similar to Slack. Feel free to create new channels
-and talk to friends. This is designed as a social space for all UBC CS students.
+Feel free to join our discord server to chat with fellow CSSS peers, as well as to attend our virtual events!
 
 If you would like your own team for a CS associated club please contact the VPC.
 
