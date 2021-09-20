@@ -30,7 +30,7 @@ ___
 
 **Name:** Kamsi Oramasionwu
 **Email:** <kamsi.oramasionwu@gmail.com>
-**Courses:** CPSC 110
+**Courses:** CPSC 110, CPSC 210
 
 ___
 
