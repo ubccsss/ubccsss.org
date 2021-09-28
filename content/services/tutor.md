@@ -12,26 +12,14 @@ listed here, please fill out the
 
 {{< tutors >}}
 
-**Name:** Kristine Gonzales
-**Email:** <gonzkristine@gmail.com>
-**Courses:** CPSC 103
-___
-
-**Name:** Timothy Yap
-**Email:** <timothyyap1106@gmail.com>
-**Courses:** CPSC 103
-___
-
 **Name:** Emily Gubski
 **Email:** <emily.gubski@ubc.ca>
 **Courses:** CPSC 103
-
 ___
 
 **Name:** Kamsi Oramasionwu
 **Email:** <kamsi.oramasionwu@gmail.com>
 **Courses:** CPSC 110, CPSC 210
-
 ___
 
 **Name:** XinRan Zhang
@@ -72,6 +60,7 @@ ___
 **Name:** Daocheng Wang
 **Email:** <wangdc2010@gmail.com>
 **Courses:** CPSC110, CPSC 121
+
 ___
 
 **Name:** Vancoding
@@ -83,5 +72,6 @@ ___
 **Name:** Wayne
 **Email:** <kathyye26@yahoo.com>
 **Courses:** CPSC 110, CPSC 121, CPSC 210, CPSC 213, CPSC 221, CPSC 310, CPSC 320, CPSC 314, CPSC 304, CPSC 425
+
 
 
