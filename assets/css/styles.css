@@ -42,3 +42,9 @@ a {
   max-height: 20em;
   overflow-x: hidden;
 }
+
+@media all and (max-width:768px) {
+  .blog-header .navbar, .navbar-brand {
+    transform: none;
+  }
+}
