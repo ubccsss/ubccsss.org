@@ -15,9 +15,6 @@
 - title: GitHub
   icon: /modules/github.svg
   link: https://github.com/ubccsss
-- title: Mailing List
-  icon: /modules/mail.svg
-  link: /subscribe
 - title: RSS
   icon: /modules/rss.svg
   link: /index.xml
