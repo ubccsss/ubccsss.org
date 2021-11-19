@@ -47,8 +47,8 @@ of ICICS/CS, turn right, and we'll be at the end of the hallway, beside the unde
 
 We'll be publishing our events here on our website (which also has an
 [RSS feed](/index.xml)), [Tweeting them](https://twitter.com/ubccsss), posting
-them on our [Facebook page](https://www.facebook.com/ubccsss/), and sending them
-to our [announcements mailing list](/contact/email-newsletter/).
+them on our [Facebook page](https://www.facebook.com/ubccsss/), and including them 
+in the weekly department emails.
 
 ### How can I volunteer for CSSS events?
 
