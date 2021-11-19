@@ -1,8 +1,6 @@
 ---
 title: 'Food Price List'
 date: 2019-01-27 # last time rates were updated
-aliases:
-  - /club/prices
 layout: menu
 prices:
   snacks:
@@ -56,7 +54,7 @@ prices:
 
 Pay by putting money in the money jar.
 
-Online at https://ubccsss.org/club/prices.
+Online at https://ubccsss.org/cube/menu/.
 
 <div class="row">
     <div class="col-md-6 col-xs-6">

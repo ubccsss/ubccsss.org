@@ -37,7 +37,7 @@ The UBC CSSS offers the following services.
   </div>
   <div class="col-lg-6 col-xl-4 mb-4">
     {{< card title="Coffee Chat" href="/services/coffeechat/" src="/files/coffee_chat_stock_image.jpg" >}}
-      This low-commitment and informal mentorship program pairs a lower year student with an upper year student for a quick meetup on a monthly basis.
+      This low-commitment and informal mentorship program pairs a lower year student with an upper year student for a quick meetup on a monthly basis. <em>Not currently running - check back 2021W2.</em>
     {{</ card >}}
   </div>
   <div class="col-lg-6 col-xl-4 mb-4">
