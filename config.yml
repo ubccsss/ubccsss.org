@@ -10,10 +10,10 @@ menu:
       name: About
       url: /about/
       weight: -140
-    # - identifier: volunteer
-    #   name: Volunteer
-    #   url: /volunteer/
-    #   weight: -130
+    - identifier: volunteer
+      name: Volunteer
+      url: /volunteer/
+      weight: -130
     - identifier: cube
       name: The Cube
       url: /cube/

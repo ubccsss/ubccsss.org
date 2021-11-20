@@ -110,12 +110,12 @@ collections: # A list of collections the CMS should be able to edit
         field: {label: Image, name: image, widget: image}
       - {label: Body, name: body, widget: markdown}
 
-  # - name: pages
-  #   label: Pages
-  #   files:
-  #     - file: "content/volunteer/_index.md"
-  #       label: Volunteer
-  #       name: volunteer
-  #       fields:
-  #         - {label: Title, name: title, widget: string}
-  #         - {label: Body, name: body, widget: markdown}
+  - name: pages
+    label: Pages
+    files:
+      - file: "content/volunteer/_index.md"
+        label: Volunteer
+        name: volunteer
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
