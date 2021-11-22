@@ -22,8 +22,6 @@ location:
 
 ![](/files/Facebook%20Event.png)
 
-[https://ubctcf.com](https://ubctcf.com)
-
 [https://www.cs.ubc.ca/industry/techcareerfair](https://www.cs.ubc.ca/industry/techcareerfair)
 
 [https://www.facebook.com/events/1330074267058521/](https://www.facebook.com/events/1330074267058521/)

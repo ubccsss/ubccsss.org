@@ -32,4 +32,4 @@ Hosted jointly by UBC Computer Science Student Society (CSSS), UBC IEEE, Cogniti
 
 ---
 
-Check out [cs.ubc.ca/industry/techcareerfair](https://www.cs.ubc.ca/industry/techcareerfair) and [ubctcf.com](https://ubctcf.com/) for more info!
+Check out [cs.ubc.ca/industry/techcareerfair](https://www.cs.ubc.ca/industry/techcareerfair) for more info!
