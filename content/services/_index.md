@@ -4,11 +4,12 @@ layout: single
 aliases:
   - /services
 images:
-  - /files/career-fair.jpg
   - /files/exams.jpg
   - /files/tutor.jpg
   - /files/lounge.jpg
   - /files/coffee_chat_stock_image.jpg
+  - /files/classroom.jpg
+  - /files/chips.jpg
 # Card images should all be 348x196
 ---
 
@@ -38,6 +39,11 @@ The UBC CSSS offers the following services.
   <div class="col-lg-6 col-xl-4 mb-4">
     {{< card title="Courses Database" href="/services/courses/" src="/files/classroom.jpg" >}}
       We provide a database of student-sourced course descriptions to help you choose you next classes.
+    {{</ card >}}
+  </div>
+  <div class="col-lg-6 col-xl-4 mb-4">
+    {{< card title="Cube Menu" href="/cube/menu/" src="/files/chips.jpg" >}}
+      We provide cheap snacks, like chips, pizza, candy, and drinks, in the Cube.
     {{</ card >}}
   </div>
 </div>
