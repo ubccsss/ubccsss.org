@@ -3,24 +3,31 @@
     {{/* if month less than September... */}}
     {{ $startYear = (now.AddDate -1 0 0).Format "2006" }}
 {{ end }}
-{{ $start := time (printf "%s-06-01" $startYear) }}
-{{ $endYear := ($start.AddDate 1 0 0).Format "2006" }}
-<h2>{{ i18n "verifiedTutors" (dict "start" $startYear "end" $endYear) }}</h2>
+{{ $start := (printf "%s-06-01" $startYear) }}
+{{ $startDate := time $start }}
+{{ $endDate := ($startDate.AddDate 1 0 0).Format "2006" }}
+<h2>{{ i18n "verifiedTutors" (dict "start" $startYear "end" $endDate) }}</h2>
 
-{{ range sort .Site.Data.tutor "lastmod" "desc" }}
-    {{ if gt (time .lastmod).Unix $start.Unix }}
+{{ range sort .Site.Data.tutor ".lastmod" "desc" }}
     <div class="card w-100 mb-3">
         <div class="card-body">
             <h5 class="card-title">{{ .name }}</h5>
-            <ul class="card-text">
+            <ul class="card-text mb-2">
                 <li>{{ i18n "courses" . | markdownify }}</li>
+                {{ if .availability }}
                 <li>{{ i18n "availability" . | markdownify }}</li>
+                {{ end }}
+                {{ if .rates }}
                 <li>{{ i18n "rates" . | markdownify }}</li>
-                <li>{{ i18n "lastUpdated" }}{{ dateFormat "Jan 2 2006" .lastmod }}</li>
+                {{ end }}
             </ul>
-            <p class="card-text">{{ .bio | markdownify }}</p>
-            <a href="mailto:{{ .email }}" class="btn btn-info btn-sm">{{ i18n "emailTutor" . }}</a>
+            <details><summary>More</summary>
+                <p>{{ i18n "lastUpdated" }}{{ .lastmod }}</p>
+                {{ if .bio }}
+                <p class="card-text">{{ .bio | markdownify }}</p>
+                {{ end }}
+            </details>
+            <a href="mailto:{{ .email }}" class="btn btn-primary btn-sm mt-2">{{ i18n "emailTutor" . }}</a>
         </div>
     </div>
-    {{ end }}
 {{ end }}
