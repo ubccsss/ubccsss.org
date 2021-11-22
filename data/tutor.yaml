@@ -1,192 +1,58 @@
 # Tutors for the tutor page.
-# Note that the page sorts by date and does not obey this list's order.
+# Note that the page sorts by last modified and does not obey this list's order strictly.
 
-- name: Jonathan Budiardjo
-  lastmod: 2019-09-01
-  courses: First and Second Year CPSC Courses
-  availability: By Request
-  rates: >
-      Contact for more information -- (discounted rates for groups and advance
-      bookings)
-  email: cpsc.tutor.ubc@gmail.com
-  bio: >
-      * 10+ terms of TAing and tutoring different CPSC courses.
+- name: Emily Gubski
+  lastmod: 2021-11-21
+  courses: CPSC 103
+  email: emily.gubski@ubc.ca
 
-      * Received the CS Undergraduate Teaching Award twice.
-      
-      * Flexible teaching style to adapt to different learning styles.
+- name: Kamsi Oramasionwu 
+  lastmod: 2021-11-21
+  courses: CPSC 110, CPSC 210
+  email: kamsi.oramasionwu@gmail.com
 
-- name: Bob Zhang
-  lastmod: 2019-01-28
-  courses: CPSC 103, 110
-  availability: Upon Request
-  rates: TBD
-  email: l7w9a@ugrad.cs.ubc.ca
-  bio: >
-      Lead Grader/Head TA for CPSC 110 for 4 terms. Created, proofed, and graded
-      problem sets, exams, and other course material. Extensive mentorship
-      experience as a TA, instructor, and in other leadership roles. Willing to
-      offer customized learning opportunities to best support students’ needs.
+- name: XinRan Zhang
+  lastmod: 2021-11-21
+  courses: CPSC 121, CPSC 210, CPSC 310, CPSC 312
+  email: xinran@zhangxinran.net
 
-- name: Austin Kwong
-  lastmod: 2018-01-15
-  courses: CPSC 110, 121, 210, 213, 221
-  availability: $40/hour
-  rates: 2018-01-15
-  email: augustinekwong@gmail.com
-  bio: >
-      Past TA for CPSC 110, 121 and 213. Specializes in 110 with a private
-      problem bank available to students. Deeply understands learning objectives
-      for 110 and 213. Focuses on understanding and practice by leveraging what
-      the student already knows; often using analogies to reinforce
-      relationships between concepts.
+- name: Rahim Mammadli
+  lastmod: 2021-11-21
+  courses: CPSC 221, CPSC 320, CPSC 322
+  email: rehijm@mail.ru
 
-- name: David Rowswell
-  lastmod: 2017-09-05
-  courses: ''
-  availability: ''
-  rates: $30/hr
-  email: d.rowswell@alumni.ubc.ca
-  bio: >
-      Computer Science graduate from the UBCO campus and currently employed by
-      the Biodiversity Museum. Three years of TA experience with good reviews
-      during the time of my undergrad. Available for anywhere on campus
-      tutoring.
+- name: Siddhartha Gupta
+  lastmod: 2021-11-21
+  courses: CPSC 110, CPSC 121, CPSC 210, CPSC 310, CPSC 221, CPSC 304, CPSC 320
+  email: siddhero97@gmail.com
 
-- name: Arie
-  lastmod: 2018-08-09
-  courses: CPSC 110, 210
-  availability: Book by appointment, available often on campus
-  rates: $40/hr
-  email: amilner42@gmail.com
-  bio: >
-      I have been a TA for both CPSC 110 and CPSC 210, scoring 4.85 / 5 in my
-      final TA evaluation. I also switched from TAing to tutoring a couple years
-      ago and have plenty of experience tutoring both of these courses. If you
-      really want to solidify your understanding of the underlying concepts in
-      these courses, then send me an email.
+- name: Michael Allan
+  lastmod: 2021-11-21
+  courses: CPSC 110, CPSC 121, CPSC 210, CPSC 213, CPSC 221
+  email: mb.allan@ymail.com
 
-- name: Zexu (Hailey) Yan
-  lastmod: 2018-09-18
-  courses: CPSC 121
-  availability: Monday - Friday, 5:00-6:00
-  rates: $20-35/hr
-  email: zexu.yan@gmail.com
-  bio: ''
+- name: Roceley Yuo
+  courses: CPSC 110, CPSC 210, CPSC 213, CPSC 310, CPSC 304, CPSC 313, CPSC 415
+  email: roceleylaw@gmail.com
 
-- name: George Gianacopoulos
-  lastmod: 2019-02-16
-  courses: CPSC 110, 121, 210, 213, 317, 320; MATH 220, 221
-  availability: Flexible; available on and near campus
-  rates: $50/hr on weekdays; $60/hr on weekends
-  email: cpsc.tutor.george@gmail.com
-  bio: >
-      U of T Computer Science - graduated with distinction. I have research
-      experience with computer networks and embedded Linux, and a command over
-      listed courses' material. If you want to solidify your understanding in a
-      course, or simply need help catching up: send me an email.
+- name: Kat Ye
+  courses: CPSC 110, CPSC 210, CPSC 221, CPSC 214, CPSC 304, CPSC 310, CPSC 313, CPSC 320, CPSC 340 
+  email: 7111605ying@gmail.com
 
-- name: Jasmine Lai
-  lastmod: 2019-01-09
-  courses: CPSC 110, 301
-  availability: Flexible
-  rates: $20/hr
-  email: jasmine.lai@alumni.ubc.ca
-  bio: >
-      TA for CPSC 301 for two terms and familiar with the recent CPSC 110
-      changes in 2018WT1
+- name: Frank Hui
+  courses: CPSC 121, CPSC 210, MATH 100, MATH 101, MATH 200, MATH 221
+  email: huifrank@live.com
 
-- name: Arsh Jhaj
-  lastmod: 2019-02-02
-  courses: CPSC 121 (also available for other MATH/CPSC courses below the 400-level)
-  availability: By Appointment
-  rates: $30/hr tentatively
-  email: a.jhaj@alumni.ubc.ca
-  bio: >
-      Hi! I'm a combined major in math and computer science at UBC. I have
-      experience TAing CPSC 121 for four terms, with responsibilities having
-      included tutorial instruction, grading and holding office hours. This is
-      certainly the course I have most experience with, and I can say with a
-      fair degree of confidence that I know the material inside out. I also have
-      experience TAing CPSC 110 for one term, where I instructed several lab
-      sections. I have taken numerous first, second, and third year computer
-      science and honours math courses and have aced all of them. I would say
-      that I'm fairly mathematically-minded and have a working knowledge of most
-      of the theoretical and proof-heavy MATH and CPSC courses below the
-      400-level. I'm pretty flexible with regard to rates; it's tentatively
-      $30/hr, but depending on your circumstances, there is flexibility. Shoot
-      me an email for more information!
+- name: Daocheng Wang
+  courses: CPSC 110, CPSC 121
+  email: wangdc2010@gmail.com
 
-- name: Augustine
-  lastmod: 2019-03-21
-  courses: CPSC 110, CPSC 121, CPSC 213
-  availability: As needed.
-  rates: 40/hour
-  email: augustinekwong@gmail.com
-  bio: >
-      Past teaching assistant for CPSC 110, CPSC 121 and CPSC 213. Specializing 
-      in CPSC 110 with private problem bank and questions created to suit student's 
-      needs. Concepts are explained in context of previous knowledge to foster 
-      lasting understanding of material
-
-- name: Ben
-  lastmod: 2019-03-21
-  courses: CPSC 110, 121, 210, 213
-  availability: Flexible
-  rates: $40/hour
-  email: bendgrafstein@gmail.com
-  bio: >
-      I have TA'd both CPSC 110 and 210 multiple times and have plenty of experience 
-      teaching the concepts in the listed courses. Also available for other 200 and 
-      300 level CS courses by request. Shoot me an email if you want to get in some 
-      high quality studying before exam season.
-      
-- name: David Ewert
-  lastmod: 2019-04-07
-  courses: CPSC 110, 121, 210, MATH 100
-  availability: Flexible-By Request
-  rates: $25/hour
-  email: dewert10@gmail.com
-  bio: >
-      Finishing 2nd year CPSC, have been a private tutor for three years
-
-- name: Yuan Wang
-  lastmod: 2019-04-27
-  courses: CPSC 110, MATH 100, 101
-  availability: Flexible by request
-  rates: 20$/hour
-  email: wang95098@gmail.com
-  bio: >
-    If you are looking for a person who can offer the most updated and intuitive teaching experience, I will be the one.
-    I have just taken Cpsc 110 and various math courses.
-    As a result, with the course content still vivid in my mind, I can help you avoid most student's common pitfall in the course.
-
-- name: Simon Diemert
-  lastmod: 2019-07-28
-  courses: Most first and second year CPSC courses (CPSC 1xx and CPSC 2xx).
-  availability: Evenings and weekends
-  rates: 30 CAD per hour; other rates possible for longer term commitments.
-  email: simon.diemert@gmail.com
-  bio: >
-    I have a Bachelors of Engineering (Software) and a Masters of Computer Science from the University of Victoria.
-    I have worked as both a private tutor, teaching assistant, and a sessional instructor for Computer Science in the past.
-    I currently work as a software engineer in Vancouver.
+- name: Vancoding
+  courses: CPSC 100, CPSC 103, CPSC 107, CPSC 110, CPSC 121, CPSC 210, CPSC 221, CPSC 213, CPSC 302, CPSC 304, CPSC 310, CPSC 313, CPSC 314, CPSC 317, CPSC 320, CPSC 322, CPSC 330, CPSC 340, CPSC 424, CPSC 425
+  email: vancodingcs@gmail.com
 
 - name: Wayne
-  lastmod: 2019-07-30
-  courses: cpsc 110, 121, 210,213, 221,310, 313, 314, 340
-  availability: after 5pm
-  rates: 40/h
-  email: 7111605ying@gmail.com
-  bio: >
-    ubc cs graduated, 5 years cs tutor experience.
+  courses: CPSC 110, CPSC 121, CPSC 210, CPSC 213, CPSC 221, CPSC 310, CPSC 320, CPSC 314, CPSC 304, CPSC 425
+  email: kathyye26@yahoo.com
 
-- name: Chee Loong Soon
-  lastmod: 2019-10-31
-  courses: All Computer Science courses
-  availability: Weekends
-  rates: 45 per hour
-  email: scheeloong@gmail.com
-  bio: >
-    Currently Software Engineer at Amazon. Past internships at Google, Salesforce, Huawei, Intel.
-    Teaching Assistant for > 5 courses. https://scheeloong.github.io/tutor/
+
