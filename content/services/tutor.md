@@ -8,7 +8,7 @@ aliases:
 The CSSS has found a number of tutors interested in providing extra help for
 students taking Computer Science courses. If you are a tutor and wish to be
 listed here, please fill out the
-[application form](https://docs.google.com/forms/d/e/1FAIpQLScUMU5bdNh7Mb_NMn-Yr7YIGW2dF_CwvT72JMDuSujU58hi3Q/viewform).
+[application form](https://docs.google.com/forms/d/e/1FAIpQLScUMU5bdNh7Mb_NMn-Yr7YIGW2dF_CwvT72JMDuSujU58hi3Q/viewform). 
 
 {{< tutors >}}
 
@@ -32,9 +32,9 @@ ___
 **Courses:** CPSC 221, CPSC 320, CPSC 322
 ___
 
-**Name:** Siddhartha Gupta
-**Email:** <siddhero97@gmail.com>
-**Courses:** CPSC 110, CPSC 121, CPSC 210, CPSC 310, CPSC 221, CPSC 304, CPSC 320
+**Name:** Leo Sporn
+**Email:** <spornleo@gmail.com>
+**Courses:** CPSC 121, CPSC 221, CPSC 320, MATH 1XX
 ___
 
 **Name:** Michael Allan
@@ -66,7 +66,6 @@ ___
 **Name:** Vancoding
 **Email:** <vancodingcs@gmail.com>
 **Courses:** CPSC 100, CPSC 103, CPSC 107, CPSC 110, CPSC 121, CPSC 210, CPSC 221, CPSC 213, CPSC 302, CPSC 304, CPSC 310, CPSC 313, CPSC 314, CPSC 317, CPSC 320, CPSC 322, CPSC 330, CPSC 340, CPSC 424, CPSC 425 
-
 ___
 
 **Name:** Wayne
