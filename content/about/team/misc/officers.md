@@ -5,75 +5,96 @@ aliases:
   - /club/about/officers
 ---
 
-### Leslie Min
+### Xiaoyang Zhang
 
-Office Manager
+Communications Officer
 
-___
+---
 
+### Kit Liu
+
+Communications Officer
+
+---
+
+### Ashmit Gupta
+
+Communications Officer
+
+---
+
+### Seongjoo Kim
+
+Communications Officer
+
+---
+
+### Emily Chu
+
+External Affairs Officer
+
+---
+
+### Xiaomeng Nie
+
+External Affairs Officer
+
+---
+
+### Krish Sridar
+
+External Affairs Officer
+
+---
+
+### Jason Hsu
+
+Internal Affairs Officer
+
+---
 
 ### Bronwyn Damm
 
-Office Manager
+Internal Affairs Officer
 
-___
+---
 
-
-### Aidan Perras
-
-Office Manager
-
-___
-
-
-### Subi
-
-Supply Run Officer
-
-___
-
-
-### Stevens Qiu
+### Ethan Zhao
 
 Financial Officer
 
-___
+---
 
+### Leila Gazizova
 
-### Colin Chen
+Volunteering Officer
 
-Office Manager
+---
 
-___
+### Allan Tan
 
+Volunteering Officer
 
-### Kevin Wu
+---
 
-Office Manager
+### Devvrat Tiwari
 
-___
+Volunteering Officer
 
+---
 
-### Andrew Ouyang
-
-Office Manager
-
-___
-
-
-### Jamie Polintan
-
-Financial Officer
-
-___
-
-
-### Dante Cerron
-
-Office Manager
-
-___
-
-### Dmitry Narkevich
+### Asad Dhorajiwala
 
 Webmaster
+
+---
+
+### Emilie Ma
+
+Webmaster
+
+---
+
+### Ramit Kataria
+
+Webmaster and Internal Affairs Officer
