@@ -1,5 +1,17 @@
 # Tutors for the tutor page.
-# Note that the page sorts by last modified and does not obey this list's order strictly.
+# Note that the page sorts by (first) name and does not obey this list's order strictly.
+# The page also only displays bio, rates, and availability if they exist
+
+# Example:
+# - name: John Doe 
+#   lastmod: 2021-11-21
+#   courses: CPSC XXX
+#   email: johndoe@abc.com
+#   bio: |
+#     * Bio point 1
+#     * Bio point 2
+#   rates: $X/hr
+#   availability: MWF, 9AM-9PM
 
 - name: Emily Gubski
   lastmod: 2021-11-21
@@ -21,10 +33,10 @@
   courses: CPSC 221, CPSC 320, CPSC 322
   email: rehijm@mail.ru
 
-- name: Siddhartha Gupta
+- name: Leo Sporn
   lastmod: 2021-11-21
-  courses: CPSC 110, CPSC 121, CPSC 210, CPSC 310, CPSC 221, CPSC 304, CPSC 320
-  email: siddhero97@gmail.com
+  courses: CPSC 121, CPSC 221, CPSC 320, MATH 1XX 
+  email: spornleo@gmail.com
 
 - name: Michael Allan
   lastmod: 2021-11-21
@@ -32,26 +44,32 @@
   email: mb.allan@ymail.com
 
 - name: Roceley Yuo
+  lastmod: 2021-11-21
   courses: CPSC 110, CPSC 210, CPSC 213, CPSC 310, CPSC 304, CPSC 313, CPSC 415
   email: roceleylaw@gmail.com
 
 - name: Kat Ye
+  lastmod: 2021-11-21
   courses: CPSC 110, CPSC 210, CPSC 221, CPSC 214, CPSC 304, CPSC 310, CPSC 313, CPSC 320, CPSC 340 
   email: 7111605ying@gmail.com
 
 - name: Frank Hui
+  lastmod: 2021-11-21
   courses: CPSC 121, CPSC 210, MATH 100, MATH 101, MATH 200, MATH 221
   email: huifrank@live.com
 
 - name: Daocheng Wang
+  lastmod: 2021-11-21
   courses: CPSC 110, CPSC 121
   email: wangdc2010@gmail.com
 
 - name: Vancoding
+  lastmod: 2021-11-21
   courses: CPSC 100, CPSC 103, CPSC 107, CPSC 110, CPSC 121, CPSC 210, CPSC 221, CPSC 213, CPSC 302, CPSC 304, CPSC 310, CPSC 313, CPSC 314, CPSC 317, CPSC 320, CPSC 322, CPSC 330, CPSC 340, CPSC 424, CPSC 425
   email: vancodingcs@gmail.com
 
 - name: Wayne
+  lastmod: 2021-11-21
   courses: CPSC 110, CPSC 121, CPSC 210, CPSC 213, CPSC 221, CPSC 310, CPSC 320, CPSC 314, CPSC 304, CPSC 425
   email: kathyye26@yahoo.com
 
