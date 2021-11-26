@@ -3,24 +3,31 @@
     {{/* if month less than September... */}}
     {{ $startYear = (now.AddDate -1 0 0).Format "2006" }}
 {{ end }}
-{{ $start := time (printf "%s-06-01" $startYear) }}
-{{ $endYear := ($start.AddDate 1 0 0).Format "2006" }}
-<h2>{{ i18n "verifiedTutors" (dict "start" $startYear "end" $endYear) }}</h2>
+{{ $start := (printf "%s-06-01" $startYear) }}
+{{ $startDate := time $start }}
+{{ $endDate := ($startDate.AddDate 1 0 0).Format "2006" }}
+<h2>{{ i18n "verifiedTutors" (dict "start" $startYear "end" $endDate) }}</h2>
 
-{{ range sort .Site.Data.tutor "lastmod" "desc" }}
-    {{ if gt (time .lastmod).Unix $start.Unix }}
+{{ range sort .Site.Data.tutor ".name" "asc" }}
     <div class="card w-100 mb-3">
         <div class="card-body">
             <h5 class="card-title">{{ .name }}</h5>
-            <ul class="card-text">
-                <li>{{ i18n "courses" . | markdownify }}</li>
-                <li>{{ i18n "availability" . | markdownify }}</li>
-                <li>{{ i18n "rates" . | markdownify }}</li>
-                <li>{{ i18n "lastUpdated" }}{{ dateFormat "Jan 2 2006" .lastmod }}</li>
-            </ul>
-            <p class="card-text">{{ .bio | markdownify }}</p>
-            <a href="mailto:{{ .email }}" class="btn btn-info btn-sm">{{ i18n "emailTutor" . }}</a>
+            <p class="card-text mb-2">{{ i18n "courses" . | markdownify }}</p>
+            {{ if or (.availability) (.rates) (.bio) }}
+            <details class="mb-2"><summary>More</summary>
+                {{ if .availability }}
+                <p class="mt-1 mb-1">{{ i18n "availability" . | markdownify }}</p>
+                {{ end }}
+                {{ if .rates }}
+                <p class="mt-1 mb-1">{{ i18n "rates" . | markdownify }}</p>
+                {{ end }}
+                {{ if .bio }}
+                <p class="card-text mt-1 mb-1">{{ .bio | markdownify }}</p>
+                {{ end }}
+                <small class="text-muted"><em>{{ i18n "lastUpdated" }}{{ .lastmod }}</em></small>
+            </details>
+            {{ end }}
+            <a href="mailto:{{ .email }}" class="btn btn-primary btn-sm mt-2">{{ i18n "emailTutor" . }}</a>
         </div>
     </div>
-    {{ end }}
 {{ end }}
