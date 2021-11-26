@@ -22,55 +22,80 @@
   lastmod: 2021-11-21
   courses: CPSC 110, CPSC 210
   email: kamsi.oramasionwu@gmail.com
+  rates: $25-30/hr
+  availability: Tuesdays - 11-12 PST, Thursdays - 1-2 PST
+  bio: |
+    I am a 2nd year CS student. I took CPSC110 last year in the fall. I really enjoyed the class and ended with a 91%.
 
 - name: XinRan Zhang
   lastmod: 2021-11-21
-  courses: CPSC 121, CPSC 210, CPSC 310, CPSC 312
+  courses: CPSC 110, CPSC 121, CPSC 210, CPSC 310, CPSC 312
   email: xinran@zhangxinran.net
+  availability: Weekend and some weekday, flexible
+  rates: $30/hr
 
 - name: Rahim Mammadli
   lastmod: 2021-11-21
   courses: CPSC 221, CPSC 320, CPSC 322
   email: rehijm@mail.ru
+  rates: $20/hr
 
 - name: Leo Sporn
   lastmod: 2021-11-21
   courses: CPSC 121, CPSC 221, CPSC 320, MATH 1XX 
   email: spornleo@gmail.com
+  rates: $40/hr
+  availability: Flexible
 
 - name: Michael Allan
   lastmod: 2021-11-21
   courses: CPSC 110, CPSC 121, CPSC 210, CPSC 213, CPSC 221
   email: mb.allan@ymail.com
+  availability: After 2 PM on weekdays, anytime on weekends
+  bio: |
+    I am a full time, 3rd year computer science major. I have two co-op work terms under my belt. In addition, I have pre-university experience in software development, both as a volunteer and as an employee.
+  rates: $40/hr
 
 - name: Roceley Yuo
   lastmod: 2021-11-21
   courses: CPSC 110, CPSC 210, CPSC 213, CPSC 310, CPSC 304, CPSC 313, CPSC 415
   email: roceleylaw@gmail.com
+  availability: Full day
+  rates: $40/hr
 
 - name: Kat Ye
   lastmod: 2021-11-21
   courses: CPSC 110, CPSC 210, CPSC 221, CPSC 214, CPSC 304, CPSC 310, CPSC 313, CPSC 320, CPSC 340 
   email: 7111605ying@gmail.com
+  rates: $45/hr
+  bio: CPSC graduated student
+  availability: Thursday to Sunday
 
 - name: Frank Hui
   lastmod: 2021-11-21
   courses: CPSC 121, CPSC 210, MATH 100, MATH 101, MATH 200, MATH 221
   email: huifrank@live.com
+  rates: $30/hr
+  bio: |
+    I have been programming for 7 years now, and have experience in Java, Python, R, JS, HTML/CSS. Got a 5 in AP Computer Science, and have won silver medals at science fairs and top 20 at nwHacks. Worked as a tutor for two years for college students and high school students in CS subjects.
+  availability: Weekends, MWF 3-6pm, Thursdays 9am-1pm
 
 - name: Daocheng Wang
   lastmod: 2021-11-21
   courses: CPSC 110, CPSC 121
   email: wangdc2010@gmail.com
+  rates: $70/hr
 
 - name: Vancoding
   lastmod: 2021-11-21
   courses: CPSC 100, CPSC 103, CPSC 107, CPSC 110, CPSC 121, CPSC 210, CPSC 221, CPSC 213, CPSC 302, CPSC 304, CPSC 310, CPSC 313, CPSC 314, CPSC 317, CPSC 320, CPSC 322, CPSC 330, CPSC 340, CPSC 424, CPSC 425
   email: vancodingcs@gmail.com
+  rates: $10/hr
 
 - name: Wayne
   lastmod: 2021-11-21
   courses: CPSC 110, CPSC 121, CPSC 210, CPSC 213, CPSC 221, CPSC 310, CPSC 320, CPSC 314, CPSC 304, CPSC 425
   email: kathyye26@yahoo.com
+  rates: $50/hr
 
 
