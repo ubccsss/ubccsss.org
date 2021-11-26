@@ -88,4 +88,4 @@ COMPANIES:
 
 ***
 
-Check out [www.cs.ubc.ca/industry/techcareerfair](http://www.cs.ubc.ca/industry/techcareerfair) and ubctcf.com for more info!
+Check out [www.cs.ubc.ca/industry/techcareerfair](http://www.cs.ubc.ca/industry/techcareerfair) for more info!
