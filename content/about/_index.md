@@ -9,7 +9,8 @@ We are the UBC Computer Science Student Society (UBC CSSS), a student society to
 serve all Computer Science students.
 
 <div class="mb-4">
-  <a class="btn btn-primary" href="/about/team/">Executives</a>
+  <a class="btn btn-primary" href="/about/team/executives">Executives</a>
+  <a class="btn btn-primary" href="/about/team/officers/">Officers</a>
   <a class="btn btn-primary" href="/about/constitution">Constitution</a>
   <a class="btn btn-primary" href="/about/minutes/">Minutes</a>
 </div>
@@ -47,7 +48,7 @@ of ICICS/CS, turn right, and we'll be at the end of the hallway, beside the unde
 
 We'll be publishing our events here on our website (which also has an
 [RSS feed](/index.xml)), [Tweeting them](https://twitter.com/ubccsss), posting
-them on our [Facebook page](https://www.facebook.com/ubccsss/), and including them 
+them on our [Facebook page](https://www.facebook.com/ubccsss/), and including them
 in the weekly department emails.
 
 ### How can I volunteer for CSSS events?
