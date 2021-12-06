@@ -11,8 +11,8 @@
 
 - header: about
   items:
-    - /about/team
-    - /about/team/misc/officers
+    - /about/team/executives
+    - /about/team/officers
     - /about/minutes
     - /volunteer
     - /contact/suggestions-box
