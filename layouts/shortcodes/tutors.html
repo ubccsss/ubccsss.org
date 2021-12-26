@@ -10,9 +10,9 @@
 
 {{ range sort .Site.Data.tutor ".name" "asc" }}
     <div class="card w-100 mb-3">
-        <div class="card-body">
+        <div class="card-body {{ range (.courses) }}{{ . }} {{ end }}">
             <h5 class="card-title">{{ .name }}</h5>
-            <p class="card-text mb-2">{{ i18n "courses" . | markdownify }}</p>
+            <p class="card-text mb-2">{{ i18n "courses" . | markdownify }} {{ delimit .courses ", " }}</p>
             {{ if or (.availability) (.rates) (.bio) }}
             <details class="mb-2"><summary>More</summary>
                 {{ if .availability }}
