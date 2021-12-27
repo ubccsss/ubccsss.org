@@ -18,7 +18,7 @@
 
 <div class="dropdown">
   <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Filter courses
+    Filter by course
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
     <a class="dropdown-item" id="tutors-show-all" onClick="showAll()" >Show All</a>
@@ -54,15 +54,18 @@
 
 <script>
 const showAll = () => {
-        document.querySelectorAll('.tutor').forEach((element) => {element.style.display = "block";});
+    document.querySelectorAll('.tutor').forEach((element) => {element.style.display = "block";});
+    document.querySelectorAll('#dropdownMenuButton').forEach((element) => {element.innerText = "Filter by course"});
 }
 
 const showId = (id) => {
     document.querySelectorAll('.tutor').forEach((element) => {element.style.display = "none";});
     document.querySelectorAll(`.${id}`).forEach((element) => {element.style.display = "block";});
+    document.querySelectorAll('#dropdownMenuButton').forEach((element) => {element.innerText = id});
 }
 </script>
 
+<!-- for cosmetic purposes -->
 <style>
 .dropdown-item {
     cursor: pointer;
