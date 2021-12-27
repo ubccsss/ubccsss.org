@@ -8,9 +8,29 @@
 {{ $endDate := ($startDate.AddDate 1 0 0).Format "2006" }}
 <h2>{{ i18n "verifiedTutors" (dict "start" $startYear "end" $endDate) }}</h2>
 
+{{/* building list of unique course codes */}}
+{{ $scratch := newScratch }}
+{{ range .Site.Data.tutor }}
+    {{ $scratch.Add "courseCodes" .courses }}
+{{ end }}
+
+{{ $scratch.Set "courseCodes" (sort (uniq ($scratch.Get "courseCodes"))) }}
+
+<div class="dropdown">
+  <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Filter courses
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" id="tutors-show-all" onClick="showAll()" >Show All</a>
+    {{ range ($scratch.Get "courseCodes") }}
+        <a class="dropdown-item" id="tutors-{{ . }}" onClick="showId({{ . }})">{{ . }}</a>
+    {{ end }}
+  </div>
+</div><br>
+
 {{ range sort .Site.Data.tutor ".name" "asc" }}
-    <div class="card w-100 mb-3">
-        <div class="card-body {{ range (.courses) }}{{ . }} {{ end }}">
+    <div class="card w-100 mb-3 {{ range (.courses) }}{{ . }} {{ end }} tutor">
+        <div class="card-body">
             <h5 class="card-title">{{ .name }}</h5>
             <p class="card-text mb-2">{{ i18n "courses" . | markdownify }} {{ delimit .courses ", " }}</p>
             {{ if or (.availability) (.rates) (.bio) }}
@@ -31,3 +51,21 @@
         </div>
     </div>
 {{ end }}
+
+<script>
+const showAll = () => {
+        document.querySelectorAll('.tutor').forEach((element) => {element.style.display = "block";});
+}
+
+const showId = (id) => {
+    document.querySelectorAll('.tutor').forEach((element) => {element.style.display = "none";});
+    document.querySelectorAll(`.${id}`).forEach((element) => {element.style.display = "block";});
+}
+</script>
+
+<style>
+.dropdown-item {
+    cursor: pointer;
+}
+</style>
+ 
