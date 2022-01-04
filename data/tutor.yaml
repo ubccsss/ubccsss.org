@@ -15,12 +15,12 @@
 
 - name: Emily Gubski
   lastmod: 2021-11-21
-  courses: CPSC 103
+  courses: ["CPSC103"]
   email: emily.gubski@ubc.ca
 
 - name: Kamsi Oramasionwu 
   lastmod: 2021-11-21
-  courses: CPSC 110, CPSC 210
+  courses: ["CPSC110", "CPSC210"]
   email: kamsi.oramasionwu@gmail.com
   rates: $25-30/hr
   availability: Tuesdays - 11-12 PST, Thursdays - 1-2 PST
@@ -29,27 +29,27 @@
 
 - name: XinRan Zhang
   lastmod: 2021-11-21
-  courses: CPSC 110, CPSC 121, CPSC 210, CPSC 310, CPSC 312
+  courses: ["CPSC110", "CPSC121", "CPSC210", "CPSC310", "CPSC312"]
   email: xinran@zhangxinran.net
   availability: Weekend and some weekday, flexible
   rates: $30/hr
 
 - name: Rahim Mammadli
   lastmod: 2021-11-21
-  courses: CPSC 221, CPSC 320, CPSC 322
+  courses: ["CPSC221", "CPSC320", "CPSC322"]
   email: rehijm@mail.ru
   rates: $20/hr
 
 - name: Leo Sporn
   lastmod: 2021-11-21
-  courses: CPSC 121, CPSC 221, CPSC 320, MATH 1XX 
+  courses: ["CPSC121", "CPSC221", "CPSC320", "MATH1XX"] 
   email: spornleo@gmail.com
   rates: $40/hr
   availability: Flexible
 
 - name: Michael Allan
   lastmod: 2021-11-21
-  courses: CPSC 110, CPSC 121, CPSC 210, CPSC 213, CPSC 221
+  courses: ["CPSC110", "CPSC121", "CPSC210", "CPSC213", "CPSC221"]
   email: mb.allan@ymail.com
   availability: After 2 PM on weekdays, anytime on weekends
   bio: |
@@ -58,14 +58,14 @@
 
 - name: Roceley Yuo
   lastmod: 2021-11-21
-  courses: CPSC 110, CPSC 210, CPSC 213, CPSC 310, CPSC 304, CPSC 313, CPSC 415
+  courses: ["CPSC110", "CPSC210", "CPSC213", "CPSC310", "CPSC304", "CPSC313", "CPSC415"]
   email: roceleylaw@gmail.com
   availability: Full day
   rates: $40/hr
 
 - name: Kat Ye
   lastmod: 2021-11-21
-  courses: CPSC 110, CPSC 210, CPSC 221, CPSC 214, CPSC 304, CPSC 310, CPSC 313, CPSC 320, CPSC 340 
+  courses: ["CPSC110", "CPSC210", "CPSC221", "CPSC214", "CPSC304", "CPSC310", "CPSC313", "CPSC320", "CPSC340"] 
   email: 7111605ying@gmail.com
   rates: $45/hr
   bio: CPSC graduated student
@@ -73,7 +73,7 @@
 
 - name: Frank Hui
   lastmod: 2021-11-21
-  courses: CPSC 121, CPSC 210, MATH 100, MATH 101, MATH 200, MATH 221
+  courses: ["CPSC121", "CPSC210", "MATH100", "MATH101", "MATH200", "MATH221"]
   email: huifrank@live.com
   rates: $30/hr
   bio: |
@@ -82,19 +82,19 @@
 
 - name: Daocheng Wang
   lastmod: 2021-11-21
-  courses: CPSC 110, CPSC 121
+  courses: ["CPSC110", "CPSC121"]
   email: wangdc2010@gmail.com
   rates: $70/hr
 
 - name: Vancoding
   lastmod: 2021-11-21
-  courses: CPSC 100, CPSC 103, CPSC 107, CPSC 110, CPSC 121, CPSC 210, CPSC 221, CPSC 213, CPSC 302, CPSC 304, CPSC 310, CPSC 313, CPSC 314, CPSC 317, CPSC 320, CPSC 322, CPSC 330, CPSC 340, CPSC 424, CPSC 425
+  courses: ["CPSC100", "CPSC103", "CPSC107", "CPSC110", "CPSC121", "CPSC210", "CPSC221", "CPSC213", "CPSC302", "CPSC304", "CPSC310", "CPSC313", "CPSC314", "CPSC317", "CPSC320", "CPSC322", "CPSC330", "CPSC340", "CPSC424", "CPSC425"]
   email: vancodingcs@gmail.com
   rates: $10/hr
 
 - name: Wayne
   lastmod: 2021-11-21
-  courses: CPSC 110, CPSC 121, CPSC 210, CPSC 213, CPSC 221, CPSC 310, CPSC 320, CPSC 314, CPSC 304, CPSC 425
+  courses: ["CPSC110", "CPSC121", "CPSC210", "CPSC213", "CPSC221", "CPSC310", "CPSC320", "CPSC314", "CPSC304", "CPSC425"]
   email: kathyye26@yahoo.com
   rates: $50/hr
 

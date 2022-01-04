@@ -39,7 +39,7 @@
   translation: "Last updated: "
 
 - id: courses
-  translation: "Courses: {{ .courses }}"
+  translation: 'Courses: '
 
 - id: availability
   translation: "Availability: {{ .availability }}"
