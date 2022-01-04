@@ -8,6 +8,7 @@
     - /services/resources
     - /cube/menu
     - /cube/lockers
+    - /about/clubs
 
 - header: about
   items:

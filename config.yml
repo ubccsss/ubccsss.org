@@ -22,10 +22,14 @@ menu:
       name: Services
       url: /services/
       weight: -110
+    - identifier: clubs
+      name: Clubs
+      url: /about/clubs/
+      weight: -100
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: -100
+      weight: -90
 
 # Get date from filename, Jekyll-style.
 frontmatter:
