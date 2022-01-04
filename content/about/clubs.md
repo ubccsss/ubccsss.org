@@ -1,10 +1,10 @@
 ---
-title: Affiliated Clubs
+title: Partner Clubs
 layout: single
 # Card images should all be 348x196
 ---
 
-The UBC CSSS is affiliated with the following UBC CS-related clubs.
+The following UBC CS-related clubs are partners of the CSSS.
 
 ## Computer Science Clubs
 <div class="row">
@@ -46,21 +46,4 @@ The UBC CSSS is affiliated with the following UBC CS-related clubs.
 </div>
 
 ## Engineering Design Teams
-<div class="row">
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< card title="UBC AgroBot" href="https://ubcagrobot.com/" src="/files/agrobot.png" >}}
-      A diverse team of UBC students  with a shared passion to make agriculture more efficient and sustainable.
-    {{</ card >}}
-  </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< card title="UBC Rocket" href="https://www.ubcrocket.com/" src="/files/ubcrocket.png" >}}
-      A student engineering design team at UBC dedicated to the design, manufacture and launch of suborbital rockets.
-    {{</ card >}}
-  </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< card title="UBC Mars Colony" href="https://ubcmarscolony.wordpress.com/" src="/files/ubcmarscolony.png" >}}
-      A design team aiming to encourage students and society to get involved in the space industry.
-    {{</ card >}}
-  </div>
-</div>
-More engineering design teams are listed <a href="https://teams.engineering.ubc.ca/the-teams/">here</a>.
+Many engineering design teams accept computer science students, and need software engineers. A list of all engineering design teams can be found <a href="https://teams.engineering.ubc.ca/the-teams/">here</a>.
