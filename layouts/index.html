@@ -1,5 +1,7 @@
 {{ define "body" }}
 <div class="container">
+    {{partial "search"}}
+
     {{ $recentEvents := (.Site.GetPage "/events").Pages | first 3 }}
 
     <div class="row row-cols-1 row-cols-sm-3 g-4 mb-2">
