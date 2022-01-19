@@ -22,4 +22,4 @@ The CSSS will host the first 2022 Tech Industry Night during the inaugural CS we
 
 Students will have the opportunity to interact with industry professionals and recruiters from tech companies and learn more about the job market, interview strategies, resume tips, and more!
 
-Sign up by scanning the QR code on the poster!
+Sign up by filling out [this signup survey](https://ubc.ca1.qualtrics.com/jfe/form/SV_3a8WDxJVILuRiku), or by scanning the QR code on the poster!
