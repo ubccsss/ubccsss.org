@@ -1,0 +1,31 @@
+{{ $script := resources.Get "js/create-github-issue.js" | resources.Minify }}
+<script async defer src="{{ $script.RelPermalink }}"></script>
+
+<div id="review-div">
+  <h3>Add a Review for this course</h3>
+  <form novalidate>
+    <div class="my-3">
+      <label for="github-issue-user" class="form-label">Name/Username*</label>
+      <input  class="form-control" type="text" id="github-issue-user" placeholder="enter the reviewers name/username" required/>
+      <div class="invalid-feedback">
+        Please enter a name/username.
+      </div>
+    </div>
+    <div class="my-3">
+      <label for="github-issue-reference" class="form-label">Reference*</label>
+      <input class="form-control" type="url" id="github-issue-reference" placeholder="link to the review or a link to your GitHub if this is your review" required/>
+      <div class="invalid-feedback">
+        Enter a valid url including the 'https://' prefix. (https://www.example.com)
+      </div>
+    </div>
+    <div class="my-3">
+      <label for="github-issue-review" class="form-label">Course review*</label>
+      <textarea class="form-control" type="text" id="github-issue-review" rows="3" placeholder="enter the course review" required></textarea>
+      <div class="invalid-feedback">
+        Please enter your course review.
+    </div>
+    <div class="my-3">
+      <button class="btn btn-primary" id="github-issue-btn">Submit</button>
+    </div>
+  </form>
+</div>

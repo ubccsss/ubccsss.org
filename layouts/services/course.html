@@ -22,8 +22,6 @@
 <article class="blog-post">
   {{ replace .RawContent "<cite>" "<cite class='blockquote-footer'>" | markdownify }}
 
-  {{ partial "course/grades" . }}
-
   {{ if .IsTranslated }}
     <h4>{{ i18n "translations" }}</h4>
     <ul>
@@ -36,6 +34,12 @@
   {{ end }}
 
   {{ partial "related" . }}
+
+  <br>
+
+  {{ partial "related-form" . }}
+
+  {{ partial "course/grades" . }}
 
 </article>
 
