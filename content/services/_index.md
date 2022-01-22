@@ -38,7 +38,7 @@ The UBC CSSS offers the following services.
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
     {{< card title="Courses Database" href="/services/courses/" src="/files/classroom.jpg" >}}
-      We provide a database of student-sourced course descriptions to help you choose you next classes.
+      We provide a database of student-sourced course reviews and descriptions to help you choose you next classes.
     {{</ card >}}
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
