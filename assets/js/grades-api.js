@@ -20,8 +20,8 @@
   const fragment = document.createDocumentFragment();
   addDescription(fragment, 'Average (all time)', average);
   addDescription(fragment, 'Average (past 5 years)', average_past_5_yrs);
-  addDescription(fragment, 'Highest Grade', max_course_avg);
-  addDescription(fragment, 'Lowest Grade', min_course_avg);
+  addDescription(fragment, 'Highest Average', max_course_avg);
+  addDescription(fragment, 'Lowest Average', min_course_avg);
   addDescription(fragment, 'Standard Deviation', stdev);
   gradesEl.append(fragment);
 })();
