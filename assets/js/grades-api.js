@@ -10,7 +10,7 @@
     dt.className = 'col-sm-3';
     dt.textContent = term;
     dd.className = 'col-sm-9';
-    dd.textContent = details + '%';
+    dd.textContent = details.toFixed(2) + '%';
     list.append(dt, dd);
   }
 
