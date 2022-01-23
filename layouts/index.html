@@ -1,6 +1,6 @@
 {{ define "body" }}
 <div class="container">
-    {{partial "search"}}
+    {{partial "search-box"}}
 
     {{ $recentEvents := (.Site.GetPage "/events").Pages | first 3 }}
 
