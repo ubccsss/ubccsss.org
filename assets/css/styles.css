@@ -43,8 +43,19 @@ a {
   overflow-x: hidden;
 }
 
-@media all and (max-width:768px) {
-  .blog-header .navbar, .navbar-brand {
+.gsc-control-cse {
+  border-radius: 0.25rem;
+}
+
+.blog-header .gsc-control-cse {
+  transform: rotateZ(2deg);
+  width: max-content;
+}
+
+@media all and (max-width: 768px) {
+  .blog-header .navbar,
+  .navbar-brand,
+  .blog-header .gsc-control-cse {
     transform: none;
   }
 }
