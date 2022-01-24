@@ -4,36 +4,30 @@ const WORKER_URL = `https://githubissues.ubccsssbot.workers.dev`;
 
 // call createGithubIssue if form is valid and display link to the new issue
 (() => {
-  'use strict';
-
   const form = document.querySelector('form');
-  form.addEventListener(
-    'submit',
-    async (event) => {
-      event.preventDefault();
-      event.stopPropagation();
-      form.classList.add('was-validated');
-      // if form is valid, create issue
-      if (form.checkValidity()) {
-        const url = await createGithubIssue();
-        if (!url) {
-          alert('Unable to submit review. Please try again later or check the console for more information.');
-          return;
-        }
-        form.style.display = 'none';
-        const div = document.getElementById('review-div');
-        const p = document.createElement('p');
-        p.innerText = `Your review has been submitted. `;
-        const link = document.createElement('a');
-        link.href = url;
-        link.innerText = 'View your review submission on GitHub';
-        link.target = '_blank';
-        p.appendChild(link);
-        div.appendChild(p);
+  form.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    form.classList.add('was-validated');
+    // if form is valid, create issue
+    if (form.checkValidity()) {
+      const url = await createGithubIssue();
+      if (!url) {
+        alert('Unable to submit review. Please try again later or check the console for more information.');
+        return;
       }
-    },
-    false
-  );
+      form.style.display = 'none';
+      const div = document.getElementById('review-div');
+      const p = document.createElement('p');
+      p.innerText = `Your review has been submitted. `;
+      const link = document.createElement('a');
+      link.href = url;
+      link.innerText = 'View your review submission on GitHub';
+      link.target = '_blank';
+      p.appendChild(link);
+      div.appendChild(p);
+    }
+  });
 })();
 
 /**
