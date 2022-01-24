@@ -24,3 +24,7 @@ layout: course
 > When I took it, it was an easy course with Prof. Joshua Dunfied. He is no longer at UBC. The course is taught by Dr. Wolfman now (iirc) and I would say it is the same level of difficulty as his 320 classes.
 >
 > <cite><a href="https://www.reddit.com/r/UBC/comments/bsasu1/comp_sci_courses_at_ubc/eom20bx">/u/vaastav05</a></cite>
+
+> Awesome course that teaches you about programming languages, with a emphasis on language semantics. Despite being a third year course, CPSC 311 directly uses quite a lot of the concepts from CPSC 110. Some notable things include the PLAI (Racket) language and templates. Finally, for recent offerings taught by Prof. Ron Garcia (2020, 2021), all exams are coding exams done on the computer. 
+>
+> <cite><a href="https://github.com/eqfy">eqfy</a></cite>
