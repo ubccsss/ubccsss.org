@@ -3,7 +3,7 @@
 # The page also only displays bio, rates, and availability if they exist
 
 # Example:
-# - name: John Doe 
+# - name: John Doe
 #   lastmod: 2021-11-21
 #   courses: CPSC XXX
 #   email: johndoe@abc.com
@@ -14,18 +14,23 @@
 #   availability: MWF, 9AM-9PM
 
 - name: Emily Gubski
-  lastmod: 2021-11-21
-  courses: ["CPSC103"]
-  email: emily.gubski@ubc.ca
-
-- name: Kamsi Oramasionwu 
-  lastmod: 2021-11-21
-  courses: ["CPSC110", "CPSC210"]
-  email: kamsi.oramasionwu@gmail.com
-  rates: $25-30/hr
-  availability: Tuesdays - 11-12 PST, Thursdays - 1-2 PST
+  lastmod: 2022-01-22
+  courses: [CPSC103, Highschool CS and Math, MCAT CARS Prep]
+  email: eagubski@student.ubc.ca
+  availability: Available during the week and weekends- contact to schedule
   bio: |
-    I am a 2nd year CS student. I took CPSC110 last year in the fall. I really enjoyed the class and ended with a 91%.
+    * I did my undergrad at UBC in Computer Science and Microbiology and Immunology and am now in med school. 
+    * I have TA'd CPSC103- 8 times and CPSC310- 2 times and have been tutoring for 3 years. I have also been teaching children's programming classes for 7 years. In addition to CS, I have tutored Math and CARS for the MCAT. 
+    * I also offer group tutoring sessions."
+
+- name: Kamsi Oramasionwu
+  lastmod: 2022-01-22
+  courses: ["CPSC110", "CPSC210", "CPSC313"]
+  email: kamsi.oramasionwu@gmail.com
+  rates: $30-35/hr
+  availability: Flexible
+  bio: |
+    I'm a 3rd year CS student. I really enjoyed CPSC 110, 210, and 313 and scored A/A+s in all of them. I have coding experience outside of university, and I will complete an internship this summer.
 
 - name: XinRan Zhang
   lastmod: 2021-11-21
@@ -42,60 +47,171 @@
 
 - name: Leo Sporn
   lastmod: 2021-11-21
-  courses: ["CPSC121", "CPSC221", "CPSC320", "MATH1XX"] 
+  courses: ["CPSC121", "CPSC221", "CPSC320", "MATH1XX"]
   email: spornleo@gmail.com
   rates: $40/hr
   availability: Flexible
 
 - name: Michael Allan
-  lastmod: 2021-11-21
-  courses: ["CPSC110", "CPSC121", "CPSC210", "CPSC213", "CPSC221"]
+  lastmod: 2022-01-22
+  courses: [CPSC110, CPSC121, CPSC210, CPSC213, CPSC221]
   email: mb.allan@ymail.com
-  availability: After 2 PM on weekdays, anytime on weekends
+  availability: "Monday, Wednesday, Friday: 11 AM - 2 PM, after 4 PM    Tuesday, Thursday: 12 PM - 3 PM     Weekends: All day"
   bio: |
     I am a full time, 3rd year computer science major. I have two co-op work terms under my belt. In addition, I have pre-university experience in software development, both as a volunteer and as an employee.
-  rates: $40/hr
+  rates: $50/hr
 
 - name: Roceley Yuo
-  lastmod: 2021-11-21
-  courses: ["CPSC110", "CPSC210", "CPSC213", "CPSC310", "CPSC304", "CPSC313", "CPSC415"]
+  lastmod: 2022-01-22
+  courses:
+    [
+      "CPSC110",
+      "CPSC210",
+      "CPSC213",
+      "CPSC310",
+      "CPSC304",
+      "CPSC313",
+      "CPSC415",
+    ]
   email: roceleylaw@gmail.com
   availability: Full day
   rates: $40/hr
 
-- name: Kat Ye
-  lastmod: 2021-11-21
-  courses: ["CPSC110", "CPSC210", "CPSC221", "CPSC214", "CPSC304", "CPSC310", "CPSC313", "CPSC320", "CPSC340"] 
-  email: 7111605ying@gmail.com
-  rates: $45/hr
+- name: Kathy Ye
+  lastmod: 2022-01-22
+  courses:
+    [
+      CPSC110,
+      CPSC210,
+      CPSC221,
+      CPSC304,
+      CPSC310,
+      CPSC313,
+      CPSC314,
+      CPSC320,
+      CPSC340,
+    ]
+  email: kathyye26@yahoo.com
+  rates: $50-70
   bio: CPSC graduated student
-  availability: Thursday to Sunday
+  availability: Monday to Friday
 
 - name: Frank Hui
-  lastmod: 2021-11-21
-  courses: ["CPSC121", "CPSC210", "MATH100", "MATH101", "MATH200", "MATH221"]
+  lastmod: 2022-01-22
+  courses: [CPSC121, CPSC210, CPSC213, CPSC221, EOSC211]
   email: huifrank@live.com
-  rates: $30/hr
+  rates: $45/hr
   bio: |
-    I have been programming for 7 years now, and have experience in Java, Python, R, JS, HTML/CSS. Got a 5 in AP Computer Science, and have won silver medals at science fairs and top 20 at nwHacks. Worked as a tutor for two years for college students and high school students in CS subjects.
-  availability: Weekends, MWF 3-6pm, Thursdays 9am-1pm
+    "I have been programming for 8 years now, and have experience in Java, Python, R, JS, C/C++, HTML/CSS. I have won best Computer Science project twice at the Greater Vancouver Regional Science Fair and top 20 at nwHacks. Received a 5 in AP Computer Science. Worked as a tutor for two years for college students and high school students in CS subjects. I can also tutor basic computer programming courses outside of CPSC, such as EOSC 211 or APSC 160."
+  availability: MWF After 3pm, Thursdays before 5pm, all day on weekends.
 
 - name: Daocheng Wang
-  lastmod: 2021-11-21
+  lastmod: 2022-01-22
   courses: ["CPSC110", "CPSC121"]
   email: wangdc2010@gmail.com
   rates: $70/hr
+  bio: Tech Lead @ one of FAANG companies.
 
 - name: Vancoding
-  lastmod: 2021-11-21
-  courses: ["CPSC100", "CPSC103", "CPSC107", "CPSC110", "CPSC121", "CPSC210", "CPSC221", "CPSC213", "CPSC302", "CPSC304", "CPSC310", "CPSC313", "CPSC314", "CPSC317", "CPSC320", "CPSC322", "CPSC330", "CPSC340", "CPSC424", "CPSC425"]
+  lastmod: 2022-01-22
+  courses:
+    [
+      CPSC100,
+      CPSC103,
+      CPSC107,
+      CPSC110,
+      CPSC121,
+      CPSC210,
+      CPSC221,
+      CPSC213,
+      CPSC302,
+      CPSC304,
+      CPSC310,
+      CPSC313,
+      CPSC314,
+      CPSC317,
+      CPSC320,
+      CPSC322,
+      CPSC330,
+      CPSC340,
+      CPSC404,
+      CPSC424,
+      CPSC425,
+    ]
   email: vancodingcs@gmail.com
-  rates: $10/hr
+  availability: Monday to Sunday
+  rates: from $50
 
 - name: Wayne
-  lastmod: 2021-11-21
-  courses: ["CPSC110", "CPSC121", "CPSC210", "CPSC213", "CPSC221", "CPSC310", "CPSC320", "CPSC314", "CPSC304", "CPSC425"]
-  email: kathyye26@yahoo.com
+  lastmod: 2022-01-22
+  courses:
+    [
+      CPSC110,
+      CPSC121,
+      CPSC210,
+      CPSC213,
+      CPSC221,
+      CPSC310,
+      CPSC320,
+      CPSC404,
+      CPSC425,
+    ]
+  email: 7111605ying@gmail.com
   rates: $50/hr
 
+- name: Miranda Yin
+  lastmod: 2022-01-22
+  courses:
+    [
+      MATH100,
+      MATH101,
+      MATH200,
+      MATH221,
+      MATH220,
+      MATH215,
+      CPSC110,
+      CPSC210,
+      CPSC221,
+      CPSC213,
+    ]
+  email: miranda.yin132@gmail.com
+  bio: |
+    2nd year combined computer science and physics student, TA for CPSC 121 (do not contact for CPSC 121 tutoring), regularly tutor others for CPSC and MATH courses
+  rates: $45-55/hr
+  availability: MWF after 3pm, anytime weekends, some flexibility for other times
 
+- name: Dennis Chiu
+  lastmod: 2022-01-22
+  courses: [CPSC103]
+  email: dennischiu14@gmail.com
+  bio: |
+    I completed CPSC 103 in 2021W and received a final mark of 92%. Offering free help for students taking the course as I plan to become TA for the course later on
+  rates: Free
+  availability: Monday to Friday 1-2pm, anytime during the weekend
+
+- name: Jay Ho
+  lastmod: 2022-01-22
+  courses: [CPSC210]
+  email: jayhomn@gmail.com
+  bio: |
+    I am a 3/4th year CS student and I finished CPSC 210 with a 98% during the 2018W2 session. In addition, I also have 2 Co-op terms under my belt with one using Java extensively
+  rates: $25/hr
+  availability: Weekends, Monday
+
+- name: Arsh Jhaj
+  lastmod: 2022-01-22
+  courses: [CPSC121, CPSC221, CPSC320, CPSC420, MATH1XX, MATH2XX, MATH32X]
+  email: a.jhaj@alumni.ubc.ca
+  bio: |
+    I'm a first-year MSc. student in the CS department specializing in ML theory. I graduated with a CS/Math degree (with distinction) from UBC in 2021. I have 4 years (2017-2021) of TA experience with the CS department, specifically in the discrete math and algorithms courses, and I've tutored UBC students privately in MATH/CPSC courses on-and-off for the past few years.
+  rates: $35-50 depending on how many sessions we do.
+  availability: Generally very flexible (contact for further details)
+
+- name: Nate Sternberg
+  lastmod: 2022-01-22
+  courses: [CPSC110, CPSC121]
+  email: sternbergnate@gmail.com
+  bio: |
+    Third year CS major with a solid first-year CS knowledge base.
+  rates: $20/hr
+  availability: Upon request
