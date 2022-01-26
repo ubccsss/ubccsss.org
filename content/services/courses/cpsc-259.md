@@ -1,5 +1,5 @@
 ---
-title: Numerical Computation for Algebraic Problems
+title: Data Structures and Algorithms for Electrical Engineers
 layout: course
 ---
 

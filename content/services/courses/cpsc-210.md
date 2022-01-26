@@ -1,5 +1,5 @@
 ---
-title: Numerical Computation for Algebraic Problems
+title: Software Construction
 layout: course
 ---
 

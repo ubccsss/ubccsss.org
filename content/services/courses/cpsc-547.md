@@ -1,7 +1,8 @@
 ---
-title: Numerical Computation for Algebraic Problems
+title: 	Information Visualization 
 layout: course
 ---
 
 No reviews yet - please add yours below!
+
 

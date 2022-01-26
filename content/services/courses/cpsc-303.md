@@ -1,5 +1,5 @@
 ---
-title: Numerical Computation for Algebraic Problems
+title: Numerical Approximation and Discretization
 layout: course
 ---
 

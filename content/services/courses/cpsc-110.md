@@ -1,5 +1,5 @@
 ---
-title: Numerical Computation for Algebraic Problems
+title: Computation, Programs, and Programming
 layout: course
 ---
 

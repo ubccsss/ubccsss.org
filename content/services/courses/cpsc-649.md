@@ -1,7 +1,8 @@
 ---
-title: Numerical Computation for Algebraic Problems
+title: Doctoral Dissertation 
 layout: course
 ---
 
 No reviews yet - please add yours below!
+
 

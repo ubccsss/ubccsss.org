@@ -1,7 +1,8 @@
 ---
-title: Numerical Computation for Algebraic Problems
+title: Computational Linguistics I 
 layout: course
 ---
 
 No reviews yet - please add yours below!
+
 

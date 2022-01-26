@@ -1,5 +1,5 @@
 ---
-title: Numerical Computation for Algebraic Problems
+title: Computer Hardware and Operating Systems
 layout: course
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Numerical Computation for Algebraic Problems
+title: Applied Machine Learning
 layout: course
 ---
 
