@@ -28,6 +28,7 @@
   </div>
 </div><br>
 
+<div id="tutor-list">
 {{ range sort .Site.Data.tutor ".name" "asc" }}
     <div class="card w-100 mb-3 {{ range (.courses) }}{{ . }} {{ end }} tutor">
         <div class="card-body">
@@ -51,8 +52,21 @@
         </div>
     </div>
 {{ end }}
+</div>
 
 <script>
+const randomizeOrder = () => {
+    let tutorElements = [];
+    document.querySelectorAll('.tutor').forEach((element) => tutorElements.push(element));
+    for (let i = tutorElements.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [tutorElements[i], tutorElements[j]] = [tutorElements[j], tutorElements[i]];
+    }
+    const tutorList = document.getElementById('tutor-list');
+    tutorList.innerHTML = "";
+    tutorElements.forEach((element) => tutorList.appendChild(element));
+}
+
 const showAll = () => {
     document.querySelectorAll('.tutor').forEach((element) => {element.style.display = "block";});
     document.querySelectorAll('#dropdownMenuButton').forEach((element) => {element.innerText = "Filter by course"});
@@ -63,6 +77,8 @@ const showId = (id) => {
     document.querySelectorAll(`.${id}`).forEach((element) => {element.style.display = "block";});
     document.querySelectorAll('#dropdownMenuButton').forEach((element) => {element.innerText = id});
 }
+
+randomizeOrder();
 </script>
 
 <!-- for cosmetic purposes -->
