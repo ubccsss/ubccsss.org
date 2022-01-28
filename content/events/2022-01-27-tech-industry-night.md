@@ -21,9 +21,6 @@ start_date: 2022-01-27 17:00:00
 # End date and time (defaults to one hour after start). Used for calendar page.
 end_date: 2022-01-27 19:00:00
 ---
-#### ⬇️⬇️ Jan 27, 5pm - 7pm on Zoom, join now! ⬇️⬇️
-https://ubc.zoom.us/j/65200538386?pwd=aHZVaDNvbGRGemlsV3V1Zk9VdzdrUT09
-
 ![Tech Industry Night 2022 Banner](/files/2022-01-19-tech-industry-night.png)
 
 The CSSS will host the first 2022 Tech Industry Night during the inaugural CS week which runs from January 24th-31st.
