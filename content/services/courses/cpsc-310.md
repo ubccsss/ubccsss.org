@@ -1,5 +1,5 @@
 ---
-title: Numerical Computation for Algebraic Problems
+title: Introduction to Software Engineering
 layout: course
 ---
 

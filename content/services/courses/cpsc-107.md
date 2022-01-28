@@ -1,5 +1,5 @@
 ---
-title: Numerical Computation for Algebraic Problems
+title: Systematic Program Design
 layout: course
 ---
 

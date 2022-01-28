@@ -1,5 +1,5 @@
 ---
-title: Numerical Computation for Algebraic Problems
+title: Intermediate Algorithm Design and Analysis
 layout: course
 ---
 

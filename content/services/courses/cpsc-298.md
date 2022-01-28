@@ -1,5 +1,5 @@
 ---
-title: Numerical Computation for Algebraic Problems
+title: Co-operative Work Placement I (CS Co-ops)
 layout: course
 ---
 
