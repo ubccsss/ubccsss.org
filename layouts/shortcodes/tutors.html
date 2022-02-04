@@ -16,20 +16,32 @@
 
 {{ $scratch.Set "courseCodes" (sort (uniq ($scratch.Get "courseCodes"))) }}
 
-<div class="dropdown">
-  <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Filter by course
-  </button>
-  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="dropdown-item" id="tutors-show-all" onClick="showAll()" >Show All</a>
-    {{ range ($scratch.Get "courseCodes") }}
-        <a class="dropdown-item" id="tutors-{{ . }}" onClick="showId({{ . }})">{{ . }}</a>
-    {{ end }}
-  </div>
+<div class="btn-group">
+    <div class="dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Filter by course
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="dropdown-item" id="tutors-show-all" onClick="showAll()" >Show All</a>
+            {{ range ($scratch.Get "courseCodes") }}
+            <a class="dropdown-item" id="tutors-{{ . }}" onClick="showId({{ . }})">{{ . }}</a>
+            {{ end }}
+        </div>
+    </div>
+    <div class="dropdown">
+        <button class="btn btn-primary dropdown-toggle" type="button" id="sortMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Sort 
+        </button>
+        <div class="dropdown-menu" aria-labelledby="sortMenuButton">
+            <a class="dropdown-item" onClick="sortAsc()" >Sort Asc.</a>
+            <a class="dropdown-item" onClick="sortDesc()">Sort Desc.</a>
+        </div>
+    </div>
 </div><br>
 
+<div id="tutor-list">
 {{ range sort .Site.Data.tutor ".name" "asc" }}
-    <div class="card w-100 mb-3 {{ range (.courses) }}{{ . }} {{ end }} tutor">
+    <div class='card w-100 mb-3 {{ range (.courses) }}{{ . }} {{ end }} tutor' id='{{ lower (replace .name " " "-") }}'>
         <div class="card-body">
             <h5 class="card-title">{{ .name }}</h5>
             <p class="card-text mb-2">{{ i18n "courses" . | markdownify }} {{ delimit .courses ", " }}</p>
@@ -51,24 +63,62 @@
         </div>
     </div>
 {{ end }}
+</div>
 
 <script>
+const randomizeOrder = () => {
+    let tutorElements = [];
+    document.querySelectorAll('.tutor').forEach((element) => tutorElements.push(element));
+    for (let i = tutorElements.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [tutorElements[i], tutorElements[j]] = [tutorElements[j], tutorElements[i]];
+    }
+    const tutorList = document.getElementById('tutor-list');
+    tutorList.innerHTML = "";
+    tutorElements.forEach((element) => tutorList.appendChild(element));
+}
+
 const showAll = () => {
     document.querySelectorAll('.tutor').forEach((element) => {element.style.display = "block";});
     document.querySelectorAll('#dropdownMenuButton').forEach((element) => {element.innerText = "Filter by course"});
+    randomizeOrder();
 }
 
 const showId = (id) => {
     document.querySelectorAll('.tutor').forEach((element) => {element.style.display = "none";});
     document.querySelectorAll(`.${id}`).forEach((element) => {element.style.display = "block";});
     document.querySelectorAll('#dropdownMenuButton').forEach((element) => {element.innerText = id});
+    randomizeOrder();
 }
+
+const sortTutors = (compareFunc) => {
+    let tutorElements = [];
+    document.querySelectorAll('.tutor').forEach((element) => tutorElements.push(element));
+    tutorElements.sort(compareFunc);
+    const tutorList = document.getElementById('tutor-list');
+    tutorList.innerHTML = "";
+    tutorElements.forEach((element) => tutorList.appendChild(element));
+}
+
+const sortAsc = () => {
+    sortTutors((a, b) => a.id.localeCompare(b.id));
+}
+
+const sortDesc = () => {
+    sortTutors((a, b) => b.id.localeCompare(a.id));
+}
+
+randomizeOrder();
 </script>
 
 <!-- for cosmetic purposes -->
 <style>
 .dropdown-item {
     cursor: pointer;
+}
+
+.btn-group > .dropdown {
+    margin: 0.25rem 0.125rem 0.75rem;
 }
 </style>
  
