@@ -38,7 +38,11 @@ a {
 }
 
 .gsc-control-cse {
-  border-radius: 0.25rem;
+  /* !important required, otherwise the CSS file from Google overwrites this */
+  padding: 0;
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
 }
 
 .gsc-input-box {
