@@ -29,12 +29,6 @@ a {
   margin: -9em -1em 2%;
   color: white;
   background: #0a0e1a;
-  transform: rotateZ(-2deg);
-}
-
-.navbar-brand {
-  transform: rotateZ(2deg);
-  margin-top: -0.5rem;
 }
 
 .outline-menu {
@@ -43,8 +37,10 @@ a {
   overflow-x: hidden;
 }
 
-@media all and (max-width:768px) {
-  .blog-header .navbar, .navbar-brand {
-    transform: none;
-  }
+.gsc-control-cse {
+  border-radius: 0.25rem;
+}
+
+.gsc-input-box {
+  border-radius: 1rem;
 }
