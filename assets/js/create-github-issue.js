@@ -13,7 +13,6 @@ const WORKER_URL = `https://githubissues.ubccsssbot.workers.dev`;
     if (form.checkValidity()) {
       const url = await createGithubIssue();
       if (!url) {
-        alert('Unable to submit review. Please try again later or check the console for more information.');
         return;
       }
       form.style.display = 'none';
@@ -41,6 +40,13 @@ const createGithubIssue = async () => {
   const reference = document.getElementById('github-issue-reference').value;
   const review = document.getElementById('github-issue-review').value;
 
+  // check if reCAPTCHA has been completed
+  const token = grecaptcha.getResponse();
+  if (token.length == 0) {
+    alert('Please complete reCAPTCHA to verify that you are not a robot.');
+    return;
+  }
+
   try {
     const issues = await fetch(WORKER_URL, {
       method: 'POST',
@@ -48,15 +54,21 @@ const createGithubIssue = async () => {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        course: course,
-        user: user,
-        review: review,
-        reference: reference,
+        recaptcha: {
+          token: token,
+        },
+        details: {
+          course: course,
+          user: user,
+          review: review,
+          reference: reference,
+        },
       }),
     });
     const json = await issues.json();
     return json.data.html_url;
   } catch (error) {
     console.error(error);
+    alert('Unable to submit review. Please try again later or check the console for more information.');
   }
 };
