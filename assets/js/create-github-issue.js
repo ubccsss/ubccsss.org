@@ -2,17 +2,25 @@
 // use https://githubissues-dev.ubccsssbot.workers.dev for live dev environment
 const WORKER_URL = `https://githubissues.ubccsssbot.workers.dev`;
 
+const createIssueButton = document.getElementById('github-issue-btn');
+
 // call createGithubIssue if form is valid and display link to the new issue
 (() => {
   const form = document.querySelector('form');
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
     event.stopPropagation();
+
+    // disable button to prevent multiple submissions while waiting for response
+    createIssueButton.disabled = true;
+
     form.classList.add('was-validated');
+
     // if form is valid, create issue
     if (form.checkValidity()) {
       const url = await createGithubIssue();
       if (!url) {
+        createIssueButton.disabled = false;
         return;
       }
       form.style.display = 'none';
@@ -25,6 +33,8 @@ const WORKER_URL = `https://githubissues.ubccsssbot.workers.dev`;
       link.target = '_blank';
       p.appendChild(link);
       div.appendChild(p);
+    } else {
+      createIssueButton.disabled = false;
     }
   });
 })();
