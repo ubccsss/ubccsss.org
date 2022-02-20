@@ -46,6 +46,7 @@ paginate: 5
 copyright: © 2019-2021
 
 params:
+  _merge: deep
   github:
     repo: ubccsss/ubccsss.org
     branch: master
