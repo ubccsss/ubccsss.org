@@ -1,8 +1,4 @@
 {{ $script := resources.Get "js/create-github-issue.js" | resources.Minify }}
-{{ $siteKey := os.Getenv "HUGO_CAPTCHA_SITE_KEY_DEV" }}
-{{ if hugo.IsProduction }}
-{{ $siteKey := os.Getenv "HUGO_CAPTCHA_SITE_KEY" }}
-{{ end }}
 
 <script async defer src="{{ $script.RelPermalink }}"></script>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
@@ -33,7 +29,7 @@
       <div class="invalid-feedback">
         Please enter your course review. <b>[minimum length: 50 characters]</b>
       </div>
-      <div class="g-recaptcha my-3" data-sitekey="{{ $siteKey }}"></div>
+      <div class="g-recaptcha my-3" data-sitekey="{{ .Site.Params.recaptchaSiteKey }}"></div>
       <div class="my-3">
         <button class="btn btn-primary" id="github-issue-btn" type="submit">Submit</button>
       </div>
