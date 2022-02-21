@@ -76,9 +76,14 @@ const createGithubIssue = async () => {
       }),
     });
     const json = await issues.json();
-    return json.data.html_url;
-  } catch (error) {
-    console.error(error);
+    if (issues.ok) {
+      return json.url;
+    } else {
+      console.error('Error validating reCAPTCHA:', json.errors);
+      alert('Error valdiating reCAPTCHA. Check console for details.');
+    }
+  } catch (e) {
+    console.error(e);
     alert('Unable to submit review. Please try again later or check the console for more information.');
   }
 };
