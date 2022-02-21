@@ -1,11 +1,12 @@
 {{ $script := resources.Get "js/create-github-issue.js" | resources.Minify }}
+{{ $course := replace (upper .File.ContentBaseName) "-" " " }}
 
 <script async defer src="{{ $script.RelPermalink }}"></script>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 <div id="review-div">
   <h3>Add a Review for this course</h3>
-  <form novalidate>
+  <form id="github-issue-form" data-course="{{ $course }}" data-workerurl="{{ .Site.Params.workerURL }}" novalidate>
     <div class="my-3">
       <label for="github-issue-user" class="form-label">Name/Username*</label>
       <input class="form-control" type="text" pattern=".*\S+.*" id="github-issue-user"

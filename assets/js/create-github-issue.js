@@ -1,12 +1,11 @@
-// use localhost:[port] when running Cloudflare worker locally using `wrangler dev`
-// use https://githubissues-dev.ubccsssbot.workers.dev for live dev environment
-const WORKER_URL = `https://githubissues.ubccsssbot.workers.dev`;
-
+const form = document.getElementById('github-issue-form');
 const createIssueButton = document.getElementById('github-issue-btn');
+
+// see ./config/[env]/params.yml for different urls used for different environments
+const WORKER_URL = form.dataset.workerurl;
 
 // call createGithubIssue if form is valid and display link to the new issue
 (() => {
-  const form = document.querySelector('form');
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
     event.stopPropagation();
@@ -45,7 +44,7 @@ const createIssueButton = document.getElementById('github-issue-btn');
  * otherwise, displays success message
  */
 const createGithubIssue = async () => {
-  const course = document.getElementsByClassName('blog-post-title')[0].innerText.trim();
+  const course = form.dataset.course;
   const user = document.getElementById('github-issue-user').value;
   const reference = document.getElementById('github-issue-reference').value;
   const review = document.getElementById('github-issue-review').value;
