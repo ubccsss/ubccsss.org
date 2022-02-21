@@ -1,57 +1,41 @@
 ---
 title: 'Food Price List'
-date: 2019-01-27 # last time rates were updated
+date: 2022-02-20 # last time rates were updated
 layout: menu
 prices:
   snacks:
-    - item: 'Candy Bar'
-      price: '$1.25'
-    - item: 'Candy, Mix + Match'
-      price: '4 for $1.00'
+    - item: 'Fruit Snack'
+      price: '$0.25'
+    - item: 'Biscuits'
+      price: '$0.50'
     - item: 'Chips'
       price: '$0.50'
-    - item: 'Cookies'
-      price: '$0.75'
-    - item: 'Fruit Cups'
-      price: '$0.75'
-    - item: 'Fruit Snacks'
-      price: '$0.25'
-    - item: 'Gum'
-      price: '$0.75'
-    - item: 'Popcorn'
+    - item: 'Granola Bar'
       price: '$0.50'
+    - item: 'Ice Cream Sandwhich'
+      price: '$0.75'
+    - item: 'Chocolate Bar'
+      price: '$1.00'
+    - item: 'Ice Cream Bar'
+      price: '$1.00'
   meals:
-    - item: 'Nong Shim Bowl Noodles'
-      price: '$1.25'
-    - item: 'Asian Meal Bowl Noodles'
-      price: '$2.00'
     - item: 'Chimichanga'
       price: '$1.25'
-    - item: 'Pizza Pop'
-      price: '$1.50'
-    - item: 'Pizzas'
-      price: '$1.25'
-    - item: 'Lasagna'
-      price: '$2.75'
-    - item: 'Chicken Pot Pie'
+    - item: 'Fried Rice'
+      price: '$3.00'
+    - item: 'Noodles'
+      price: '$3.00'
+  beverages:
+    - item: 'Pop'
+      price: '$0.50'
+    - item: 'Yogurt'
+      price: '$0.50'
+    - item: 'Tea'
+      price: '$0.50'
+    - item: 'Coffee'
+      price: '$1.00'
+    - item: 'Redbull'
       price: '$2.00'
-    - item: 'Edamame'
-      price: '$1.25'
-  drinks:
-    - item: 'Juice Box'
-      price: '$0.50'
-    - item: 'Water'
-      price: '$0.50'
-    - item: 'Soda'
-      price: '$0.50'
-    - item: 'Apple Cider'
-      price: '$0.25'
-    - item: 'Tea Bag'
-      price: '2 for $0.25'
-    - item: 'Hot Chocolate'
-      price: '$0.50'
-    - item: 'Keurig Cups'
-      price: '$0.75'
 ---
 
 <style>td { white-space: nowrap }</style>
@@ -68,7 +52,7 @@ Online at https://ubccsss.org/cube/menu/.
     <div class="col-md-6 col-xs-6">
         <h2>Meals</h2>
         {{< prices "prices" "meals" >}}
-        <h2>Drinks</h2>
-        {{< prices "prices" "drinks" >}}
+        <h2>Beverages</h2>
+        {{< prices "prices" "beverages" >}}
     </div>
 </div>
