@@ -58,7 +58,7 @@ const createGithubIssue = async () => {
   }
 
   try {
-    const issues = await fetch(WORKER_URL, {
+    const issue = await fetch(WORKER_URL, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -75,8 +75,8 @@ const createGithubIssue = async () => {
         },
       }),
     });
-    const json = await issues.json();
-    if (issues.ok) {
+    const json = await issue.json();
+    if (issue.ok) {
       return json.url;
     } else {
       console.error('Error validating reCAPTCHA:', json.errors);
