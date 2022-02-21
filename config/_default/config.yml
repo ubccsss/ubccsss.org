@@ -2,7 +2,6 @@ baseURL: "https://ubccsss.org/"
 languageCode: "en-ca"
 title: UBC CSSS
 theme: hugo-bootstrap-5
-googleAnalytics: UA-88004303-1
 
 menu:
   main:
