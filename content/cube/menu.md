@@ -1,51 +1,39 @@
 ---
 title: 'Food Price List'
-date: 2019-01-27 # last time rates were updated
+date: 2022-02-20 # last time rates were updated
 layout: menu
 prices:
   snacks:
-    - item: 'Candy Bar'
-      price: '$1.25'
-    - item: 'Candy, Mix + Match'
-      price: '4 for $1.00'
+    - item: 'Fruit Snack'
+      price: '$0.25'
+    - item: 'Biscuits'
+      price: '$0.50'
     - item: 'Chips'
       price: '$0.50'
-    - item: 'Clif Bar'
+    - item: 'Granola Bar'
+      price: '$0.50'
+    - item: 'Ice Cream Sandwhich'
+      price: '$0.75'
+    - item: 'Chocolate Bar'
       price: '$1.00'
-    - item: 'Bear Paws'
-      price: '$0.25'
-    - item: 'Ice Cream Sandwich'
-      price: '$0.75'
-    - item: 'Ice Cream Cone'
-      price: '$1.50'
-    - item: 'Granola Bars'
-      price: '$0.50'
-    - item: 'Pudding'
-      price: '$0.75'
-    - item: 'Yogurt'
-      price: '$0.75'
-    - item: 'Fruit Cups'
-      price: '$0.75'
+    - item: 'Ice Cream Bar'
+      price: '$1.00'
   meals:
-    - item: 'Calzone'
-      price: '$4.00'
-    - item: 'Noodles'
-      price: '$1.75'
-    - item: 'Pizza Pop'
-      price: '$1.50'
-    - item: 'Pizzas'
+    - item: 'Chimichanga'
       price: '$1.25'
-  drinks:
-    - item: 'Water'
-      price: '$0.50'
+    - item: 'Fried Rice'
+      price: '$3.00'
+    - item: 'Noodles'
+      price: '$3.00'
+  beverages:
     - item: 'Pop'
       price: '$0.50'
-    - item: 'Tea Bag'
-      price: '2 for $0.25'
-    - item: 'Hot Chocolate'
+    - item: 'Yogurt'
       price: '$0.50'
-    - item: 'Keurig Cups'
-      price: '$0.75'
+    - item: 'Tea'
+      price: '$0.50'
+    - item: 'Coffee'
+      price: '$1.00'
     - item: 'Redbull'
       price: '$2.00'
 ---
@@ -64,7 +52,7 @@ Online at https://ubccsss.org/cube/menu/.
     <div class="col-md-6 col-xs-6">
         <h2>Meals</h2>
         {{< prices "prices" "meals" >}}
-        <h2>Drinks</h2>
-        {{< prices "prices" "drinks" >}}
+        <h2>Beverages</h2>
+        {{< prices "prices" "beverages" >}}
     </div>
 </div>
