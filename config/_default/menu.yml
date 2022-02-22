@@ -1,0 +1,25 @@
+main:
+  - identifier: about
+    name: About
+    url: /about/
+    weight: -140
+  - identifier: volunteer
+    name: Volunteer
+    url: /volunteer/
+    weight: -130
+  - identifier: cube
+    name: The Cube
+    url: /cube/
+    weight: -120
+  - identifier: learn
+    name: Services
+    url: /services/
+    weight: -110
+  - identifier: clubs
+    name: Clubs
+    url: /about/clubs/
+    weight: -100
+  - identifier: contact
+    name: Contact
+    url: /contact/
+    weight: -90

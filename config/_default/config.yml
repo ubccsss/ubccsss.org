@@ -1,0 +1,24 @@
+baseURL: "https://ubccsss.org/"
+languageCode: "en-ca"
+title: UBC CSSS
+theme: hugo-bootstrap-5
+
+# Get date from filename, Jekyll-style.
+frontmatter:
+  date:
+    - ":filename"
+    - ":default"
+
+permalinks:
+  posts: /:section/:year/:month/:day/:slug/
+  events: /:section/:year/:month/:day/:slug/
+
+paginate: 5
+
+copyright: © 2019-2021
+
+markup:
+  goldmark:
+    renderer:
+      # Allow HTML inside markdown
+      unsafe: true
