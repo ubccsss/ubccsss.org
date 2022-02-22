@@ -15,7 +15,7 @@ permalinks:
 
 paginate: 5
 
-copyright: © 2019-2021
+copyright: © 2019-2022
 
 markup:
   goldmark:
