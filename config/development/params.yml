@@ -1,2 +1,2 @@
-recaptchaSiteKey: 6LeVlo0eAAAAAIA-BcPCs9kTttkpdWa-wPhSeWRh
+recaptchaSiteKey: 6LfsnJMeAAAAAK1J8BN0RVt66qtV3EL4-KWqeRWF
 workerURL: localhost:8787  # default wrangler URL for `wrangler dev` command
