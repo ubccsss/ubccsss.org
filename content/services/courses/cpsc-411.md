@@ -1,6 +1,7 @@
 ---
 title: Introduction to Compiler Construction
 layout: course
+count: 1
 ---
 
 > You build a compiler. Its fun if you are into that sort of thing tbh. Its not for everyone.

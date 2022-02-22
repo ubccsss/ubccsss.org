@@ -1,6 +1,7 @@
 ---
 title: Computational Optimization
 layout: course
+count: 1
 ---
 
 > Great course with Prof. Friedlander. Although you should only take it if you are into Numerical Computation stuff.

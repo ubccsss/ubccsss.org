@@ -1,6 +1,7 @@
 ---
 title: Software Engineering Project
 layout: course
+count: 1
 ---
 
 > Its a full on project course where you kinda have to deal with real industry people but not really. Having a solid project in this class can help you improve your resume. If you have a bunch of personal projects then I'm not sure if this is the best use of your time.

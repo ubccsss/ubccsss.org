@@ -1,8 +1,7 @@
 ---
-title: 	Honours Thesis 
+title: Honours Thesis
 layout: course
+count: 0
 ---
 
 No reviews yet - please add yours below!
-
-

@@ -1,6 +1,7 @@
 ---
 title: Distributed Systems
 layout: course
+count: 2
 ---
 
 > I think 416 is underrated. You get to build complicated backend systems from scratch with no instructions, just a list of requirements. There is a lot of effort that you need to put a lot more thought in planning out what the pieces are and how they'll fit together, as opposed to a course like 415, where every step is already neatly outlined. I'd put 340 and 416 as my top 2 courses.

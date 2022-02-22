@@ -1,9 +1,10 @@
 ---
 title: Introduction to Relational Databases
 layout: course
+count: 4
 ---
 
->CPSC 304 is UBC's introductory course to relational databases...you're not expected to have had any exposure...prior to taking this course. You'll learn about a fairly wide breadth of material; this includes database design (Entity-Relationship models), the relational model, formal relational query languages (relational algebra), writing actual queries (using SQL and datalog), normalization and normal forms (3NF, BCNF), and a few miscellaneous topics near the end of the course like XML. In 2013W1, CPSC 304 also covered topics that have apparently since been moved to CPSC 404 now (as of 2015), including logging, crash recovery, and concurrency control. I'm not entirely sure I understand the rationale; yes, the topics that were moved are more pertinent to CPSC 404 because they cover database internals, which isn't the focus of 304, but I felt that the pacing of 304 was pretty good already to begin with. Anyways, I digress... [Read more](http://www.vcheng.org/2015/06/22/review-cpsc-304-310/)
+> CPSC 304 is UBC's introductory course to relational databases...you're not expected to have had any exposure...prior to taking this course. You'll learn about a fairly wide breadth of material; this includes database design (Entity-Relationship models), the relational model, formal relational query languages (relational algebra), writing actual queries (using SQL and datalog), normalization and normal forms (3NF, BCNF), and a few miscellaneous topics near the end of the course like XML. In 2013W1, CPSC 304 also covered topics that have apparently since been moved to CPSC 404 now (as of 2015), including logging, crash recovery, and concurrency control. I'm not entirely sure I understand the rationale; yes, the topics that were moved are more pertinent to CPSC 404 because they cover database internals, which isn't the focus of 304, but I felt that the pacing of 304 was pretty good already to begin with. Anyways, I digress... [Read more](http://www.vcheng.org/2015/06/22/review-cpsc-304-310/)
 >
 > <cite><a href="http://www.vcheng.org/2015/06/22/review-cpsc-304-310/">Vincent Cheng</a></cite>
 

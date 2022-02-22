@@ -3,6 +3,7 @@
     <tr>
       <th>Course</th>
       <th>Description</th>
+      <th># Reviews</th>
     </tr>
   </thead>
 
@@ -14,6 +15,7 @@
       {{ $course := index $parts 1 }}
       <td><a href="{{ .RelPermalink }}">{{ replace (upper .File.ContentBaseName) "-" " " }}</a></td>
       <td>{{ .Title }}</td>
+      <td>{{ .Params.count }}</td>
     </tr>
     {{ end }}
   </tbody>
