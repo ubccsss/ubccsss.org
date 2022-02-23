@@ -1,6 +1,7 @@
 ---
 title: Advanced Operating Systems
 layout: course
+count: 1
 ---
 
 > You build a very basic kernel. Great course if you ask me. You do need some C proficiency otherwise it would be a struggle imo. Prof. Acton is great in this course.

@@ -1,6 +1,7 @@
 ---
 title: Computer Vision
 layout: course
+count: 1
 ---
 
 > If you are into Vision and Neural Networks then sure otherwise no point taking it imo.

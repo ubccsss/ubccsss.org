@@ -1,6 +1,7 @@
 ---
 title: Functional and Logic Programming
 layout: course
+count: 1
 ---
 
 > I personally would really recommend 311 and 312. While they don't teach you the most directly applicable skills, they really develop critical thinking skills and give you many tools for thinking outside of the box with regards to programming.

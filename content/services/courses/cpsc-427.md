@@ -1,8 +1,7 @@
 ---
-title: Video Game Programming 
+title: Video Game Programming
 layout: course
+count: 0
 ---
 
 No reviews yet - please add yours below!
-
-

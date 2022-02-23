@@ -1,6 +1,7 @@
 ---
 title: Definition of Programming Languages
 layout: course
+count: 4
 ---
 
 > I personally would really recommend 311 and 312. While they don't teach you the most directly applicable skills, they really develop critical thinking skills and give you many tools for thinking outside of the box with regards to programming.
@@ -25,6 +26,6 @@ layout: course
 >
 > <cite><a href="https://www.reddit.com/r/UBC/comments/bsasu1/comp_sci_courses_at_ubc/eom20bx">/u/vaastav05</a></cite>
 
-> Awesome course that teaches you about programming languages, with a emphasis on language semantics. Despite being a third year course, CPSC 311 directly uses quite a lot of the concepts from CPSC 110. Some notable things include the PLAI (Racket) language and templates. Finally, for recent offerings taught by Prof. Ron Garcia (2020, 2021), all exams are coding exams done on the computer. 
+> Awesome course that teaches you about programming languages, with a emphasis on language semantics. Despite being a third year course, CPSC 311 directly uses quite a lot of the concepts from CPSC 110. Some notable things include the PLAI (Racket) language and templates. Finally, for recent offerings taught by Prof. Ron Garcia (2020, 2021), all exams are coding exams done on the computer.
 >
 > <cite><a href="https://github.com/eqfy">eqfy</a></cite>

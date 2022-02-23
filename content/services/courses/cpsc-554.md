@@ -1,8 +1,7 @@
 ---
-title: Topics in Human-Computer Interaction 
+title: Topics in Human-Computer Interaction
 layout: course
+count: 0
 ---
 
 No reviews yet - please add yours below!
-
-
