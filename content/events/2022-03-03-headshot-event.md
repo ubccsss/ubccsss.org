@@ -1,6 +1,6 @@
 ---
 # The title of the event
-title: "Headshot Photo Session - Thursday"
+title: "Free Headshot Photo Session - Thursday"
 # Publishing date when the event appears, not the date of the event.
 date: 2022-02-28
 # Tags that apply to the event
@@ -15,9 +15,7 @@ start_date: 2022-03-03 15:30:00
 # End date and time (defaults to one hour after start). Used for calendar page.
 end_date: 2022-03-03 17:00:00
 ---
-![Tech Industry Night 2022 Banner](/files/2022-02-28-headshot-event.png)
-
-## Free Headshot Photo Session
+![Headshot Photo Session](/files/2022-02-28-headshot-event.png)
 
 Dates & Times: **Thurs. March 3 (3:30 pm – 5:00 pm)** and **Fri. March 4 (3:00 pm – 5:00 pm)**
 
