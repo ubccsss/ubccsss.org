@@ -41,9 +41,14 @@ https://www.fdmgroup.com/en-ca/ca-home
 **NetApp** specializes on helping businesses get the most out of their data. No matter where the data is located or how the data is used, NetApp brings it all together in a carefully choreographed symphony of software, hardware, and the world’s biggest clouds. For nearly three decades, NetApp has supported customers like DreamWorks Animation, AstraZeneca, and Dow Jones accelerate their unique data fabrics and extend their workflows into a hybrid cloud environment. Discover more about how their fun and driven team tackle data related challenges in this event!
 https://www.netapp.com/
 
+<img src="/files/logos/solidigm.svg" height="90" style="padding-top: 10px; padding-bottom: 10px;">
+
+**Solidigm** is the world's second-largest supplier of innovative NAND flash memory solutions. The company's origins reflect Intel’s longstanding innovation in memory products and SK hynix’s international leadership and scale in the semiconductor industry. In December 2021, became a standalone U.S. subsidiary under SK hynix. Headquartered in San Jose, CA, Solidigm is powered by the inventiveness of close to 2,000 employees in 20 locations around the world. Learn more about CS careers in computer hardware fields at the Tech Industry Night!
+https://www.solidigmtechnology.com/en.html
+
 <img src="/files/logos/Visier.png" height="140">
 
-**Visier**, is the recognized global leader in people analytics and on-demand answers for people-powered business. Founded in 2010 by the pioneers of business intelligence, Visier focuses on answering the right questions to shape business strategy, provide the impetus for taking action, and drive better business outcomes through workforce optimization. **Headquartered in Vancouver, B.C.**, with global offices, Visier has many notable enterprises including Adobe, BASF, Bridgestone, Electronic Arts, McKesson, Merck KGaA, Uber, and more. Join us to learn more about opportunities at Vancouver's leading tech firm!
+**Visier** is the recognized global leader in people analytics and on-demand answers for people-powered business. Founded in 2010 by the pioneers of business intelligence, Visier focuses on answering the right questions to shape business strategy, provide the impetus for taking action, and drive better business outcomes through workforce optimization. **Headquartered in Vancouver, B.C.**, with global offices, Visier has many notable enterprises including Adobe, BASF, Bridgestone, Electronic Arts, McKesson, Merck KGaA, Uber, and more. Join us to learn more about opportunities at Vancouver's leading tech firm!
 https://www.visier.com/
 
 
