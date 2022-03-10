@@ -43,7 +43,7 @@ https://www.netapp.com/
 
 <img src="/files/logos/solidigm.svg" height="90" style="padding-top: 10px; padding-bottom: 10px;">
 
-**Solidigm** is the world's second-largest supplier of innovative NAND flash memory solutions. The company's origins reflect Intel’s longstanding innovation in memory products and SK hynix’s international leadership and scale in the semiconductor industry. In December 2021, became a standalone U.S. subsidiary under SK hynix. Headquartered in San Jose, CA, Solidigm is powered by the inventiveness of close to 2,000 employees in 20 locations around the world. Learn more about CS careers in computer hardware fields at the Tech Industry Night!
+**Solidigm**, a subsidiary under SK hynix since December 2021, is the world's second-largest supplier of NAND flash memory solutions. The company's origins reflect Intel’s longstanding innovation in memory products and SK hynix’s international leadership and scale in the semiconductor industry. Headquartered in San Jose, CA, Solidigm is powered by the inventiveness of close to 2,000 employees in 20 locations around the world. Learn more about CS careers in computer hardware fields at the Tech Industry Night!
 https://www.solidigmtechnology.com/en.html
 
 <img src="/files/logos/Visier.png" height="140">
