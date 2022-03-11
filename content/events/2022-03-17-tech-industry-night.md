@@ -15,7 +15,7 @@ start_date: 2022-03-17 17:00:00
 # End date and time (defaults to one hour after start). Used for calendar page.
 end_date: 2022-03-17 19:30:00
 ---
-The **UBC CSSS** will host its second **__Tech Industry Night__** on **Thurday, March 17, 2022 - 5:00PM to 7:30PM**! This is an event designed to connect students in computing disciplines with companies looking for co-ops and new grads. Students will have the opportunity to interact with industry professionals and recruiters from local tech companies, hot startups, and multinational firms in diverse fields, including cloud technologies, enterprise software, engineering, and consulting.
+The **UBC CSSS** will host its second **__Tech Industry Night__** on **Thurday, March 17, 2022 - 5:00PM to 7:30PM**! This is an event designed to connect students in computing disciplines with companies looking for co-ops and new grads. Students will have the opportunity to interact with industry professionals and recruiters from local tech companies, hot startups, and multinational firms in diverse fields, including cloud technologies, enterprise software, manufacturing, engineering, and consulting.
 
 Join us to learn more about the job market, interview strategies, resume tips, as well as company presentations, a round table panel discussion, and informational breakout rooms. **Sign up [here](https://my.cs.ubc.ca/event/2022/03/tech-industry-night-2)!** 
 
@@ -43,13 +43,18 @@ https://www.netapp.com/
 
 <img src="/files/logos/solidigm.svg" height="90" style="padding-top: 10px; padding-bottom: 10px;">
 
-**Solidigm** is the world's second-largest supplier of innovative NAND flash memory solutions. The company's origins reflect Intel’s longstanding innovation in memory products and SK hynix’s international leadership and scale in the semiconductor industry. In December 2021, became a standalone U.S. subsidiary under SK hynix. Headquartered in San Jose, CA, Solidigm is powered by the inventiveness of close to 2,000 employees in 20 locations around the world. Learn more about CS careers in computer hardware fields at the Tech Industry Night!
+**Solidigm**, a subsidiary under SK hynix since December 2021, is the world's second-largest supplier of NAND flash memory solutions. The company's origins reflect Intel’s longstanding innovation in memory products and SK hynix’s international leadership and scale in the semiconductor industry. Headquartered in San Jose, CA, Solidigm is powered by the inventiveness of close to 2,000 employees in 20 locations around the world. Learn more about CS careers in computer hardware fields at the Tech Industry Night!
 https://www.solidigmtechnology.com/en.html
 
 <img src="/files/logos/Visier.png" height="140">
 
-**Visier** is the recognized global leader in people analytics and on-demand answers for people-powered business. Founded in 2010 by the pioneers of business intelligence, Visier focuses on answering the right questions to shape business strategy, provide the impetus for taking action, and drive better business outcomes through workforce optimization. **Headquartered in Vancouver, B.C.**, with global offices, Visier has many notable enterprises including Adobe, BASF, Bridgestone, Electronic Arts, McKesson, Merck KGaA, Uber, and more. Join us to learn more about opportunities at Vancouver's leading tech firm!
+**Visier** is the recognized global leader in people analytics and on-demand answers for people-powered business. Founded in 2010 by the pioneers of business intelligence, Visier focuses on answering the right questions to shape business strategy, provide the impetus for taking action, and drive better business outcomes through workforce optimization. Headquartered in Vancouver, B.C., with global offices, Visier has many notable enterprises including Adobe, BASF, Bridgestone, Electronic Arts, McKesson, Merck KGaA, Uber, and more. Join us to learn more about opportunities at Vancouver's leading tech firm!
 https://www.visier.com/
+
+<img src="/files/logos/zaber.png" height="100">
+
+**Zaber** designs and manufactures precision positioning devices that are affordable, integrated, and easy to use. Their devices have many different appliations and markets, such as photonics and optics, life sciences, microscopy, and industrial automation. Founded in 1997 and headquartered in Vancouver, B.C., Zaber's product offering has grown to include over 100 montion control products distributed worldwide. Come and learn about opportunities for CS students at Zaber and the broader manufacturing industry.
+https://www.zaber.com/
 
 
 ### Event Agenda
