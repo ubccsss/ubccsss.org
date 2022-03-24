@@ -1,6 +1,3 @@
-[submodule "themes/hugo-bootstrap"]
-	path = themes/hugo-bootstrap
-	url = https://github.com/Xzya/hugo-bootstrap.git
 [submodule "themes/hugo-bootstrap-5"]
 	path = themes/hugo-bootstrap-5
 	url = https://github.com/ubccsss/hugo-bootstrap-5.git
