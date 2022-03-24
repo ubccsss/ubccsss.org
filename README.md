@@ -46,6 +46,44 @@ HTTP [headers](https://docs.netlify.com/routing/headers/) can be set by editing 
 
 Short links and other [redirects](https://docs.netlify.com/routing/redirects/) can be configured in the `static/_redirects` file. If you want to redirect to another page on the site, you can add a `aliases` item to the metadata.
 
+### Environments
+
+The site has three environments:
+
+- `development`: This enviroment is used for development.
+- `preview`: The enviroment used for previewing the site on [Netlify deploy previews](https://docs.netlify.com/site-deploys/deploy-previews/)(previews for merge requests).
+- `production`: This enviroment is used for production.
+
+Each environment has its own environment variables accessible in the `config` folder.
+
+#### Config folder
+
+The `config` folder contains the following folders:
+
+- `_default`
+- `development`
+- `preview`
+- `production`
+
+`_default` contains the base configuration files, and depending on the environment, the files in the other folders will be automatically merged into the base configuration if `_merge: deep` is added to the base file.
+
+`hugo server` runs the site in development mode by default.
+`hugo` builds the site in production mode by default.
+
+Read the [Hugo docs](https://gohugo.io/getting-started/configuration/) for more information on how they work.
+
+#### Environment variables
+
+Currently, there are three enviornment variables:
+
+- `recaptchaSiteKey`: reCAPTCHA key for courses databse new review form
+- `workerURL`: Cloudflare worker url for courses databse new review form
+- `gcseURL`: Google custom search engine url for searchbar
+
+#### netlify.toml
+
+netlify.toml contains the configuration for the Netlify. `HUGO_ENV` is used to select the environment for different Netlify environments.
+
 ### Build
 
 To view the site locally, you need to clone this repository:
