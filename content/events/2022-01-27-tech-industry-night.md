@@ -1,6 +1,6 @@
 ---
 # The title of the event
-title: "Tech Industry Night"
+title: "Tech Industry Night - Jan 2022"
 # Publishing date when the event appears, not the date of the event.
 date: 2022-01-18
 # Tags that apply to the event

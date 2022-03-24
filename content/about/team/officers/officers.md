@@ -28,6 +28,11 @@ Communications Officer
 Communications Officer
 
 ---
+### Elliot Qi
+
+External Affairs Officer
+
+---
 
 ### Emily Chu
 
