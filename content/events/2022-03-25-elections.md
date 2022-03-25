@@ -4,7 +4,8 @@ title: "CSSS Elections"
 # Publishing date when the event appears, not the date of the event.
 date: 2022-03-25
 # Tags that apply to the event
-tags: []
+tags: [club-activities]
+categories: [elections]
 # Name of the author (you)
 author: Ramit Kataria
 # Images associated to this event. Used for banner.
