@@ -1,3 +1,4 @@
 recaptchaSiteKey: 6LfsnJMeAAAAAK1J8BN0RVt66qtV3EL4-KWqeRWF
 workerURL: localhost:8787 # default wrangler URL for `wrangler dev` command
 gcseURL: https://cse.google.com/cse.js?cx=7ec12103dfbe60f4f
+CFBeaconData: '{"token": "dummyDevCFToken"}'
