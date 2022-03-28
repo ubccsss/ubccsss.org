@@ -1,6 +1,6 @@
 ---
 # The title of the event
-title: "CSSS Elections"
+title: "CSSS Elections - Voting Open"
 # Publishing date when the event appears, not the date of the event.
 date: 2022-03-25
 # Tags that apply to the event
@@ -17,13 +17,12 @@ start_date: 2022-03-21 12:00:00
 end_date: 2022-04-03 23:59:59
 ---
 
+Please submit your vote by **Sunday, April 3rd 2022, 11:59PM**. 
+
+Feel free to message vpc@ubccsss.org if you have any questions!
+
+<p style="font-size: 16pt; text-align: center; margin: 30px;">
+  <a href="https://ubccsss.org/election">VOTE HERE</a>
+</p>
+
 ![](/files/2022-03-25-elections.jpg)
-
-**CSSS ELECTIONS BEGIN**  
-
-Interested in joining the CSSS as an Exec in the 2022/23 academic year? Passionate about the CS community @ UBC or simply are cynical? Be sure to fill out our candidacy by March 27th to apply for our annual elections :)
-
-Feel free to message vpc@ubccsss.org if you have any questions about the positions too!
-
-https://ubc.ca1.qualtrics.com/jfe/form/SV_0ICQgnXbsUxuq8K
-
