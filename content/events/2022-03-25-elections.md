@@ -1,6 +1,6 @@
 ---
 # The title of the event
-title: "CSSS Elections - Voting Open"
+title: "CSSS Elections - Voting Closed"
 # Publishing date when the event appears, not the date of the event.
 date: 2022-03-25
 # Tags that apply to the event
@@ -19,7 +19,7 @@ end_date: 2022-04-03 23:59:59
 
 Please submit your vote by **Sunday, April 3rd 2022, 11:59PM**. 
 
-Feel free to message vpc@ubccsss.org if you have any questions!
+Feel free to message csss@ubccsss.org if you have any questions!
 
 <p style="font-size: 16pt; text-align: center; margin: 30px;">
   <a href="https://ubccsss.org/election">VOTE HERE</a>
