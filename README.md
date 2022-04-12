@@ -79,6 +79,7 @@ Currently, there are three enviornment variables:
 - `recaptchaSiteKey`: reCAPTCHA key for courses databse new review form
 - `workerURL`: Cloudflare worker url for courses databse new review form
 - `gcseURL`: Google custom search engine url for searchbar
+- `CFBeaconData` : Data required for Cloudflare Analytics, which only includes our token for now
 
 #### netlify.toml
 
