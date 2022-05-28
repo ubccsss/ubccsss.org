@@ -29,8 +29,8 @@ The UBC CSSS will host its third Tech Industry Night, an event designed to conne
 Join us to learn more about the job market, interview strategies, resume tips, as well as company presentations, a round table panel discussion, and informational AMA booths (breakout rooms)! Sign up here to reserve your seat for free!
 
 Also, to hear about more events in the CS community, feel free to connect with us in the following ways:  
-Website: <https://ubccsss.org/>  
+Website: <https://ubccsss.org>  
 Discord: <https://discord.gg/ptGYbPwE>  
-Facebook: <https://www.facebook.com/ubccsss/>  
-Instagram: <https://www.instagram.com/ubc_csss/?hl=en>  
-LinkedIn: <https://www.linkedin.com/company/ubccsss/mycompany/>  
+Facebook: <https://www.facebook.com/ubccsss>  
+Instagram: <https://www.instagram.com/ubc_csss>  
+LinkedIn: <https://www.linkedin.com/company/ubccsss/mycompany>  
