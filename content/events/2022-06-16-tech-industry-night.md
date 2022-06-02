@@ -33,4 +33,4 @@ Website: <https://ubccsss.org>
 Discord: <https://discord.gg/ptGYbPwE>  
 Facebook: <https://www.facebook.com/ubccsss>  
 Instagram: <https://www.instagram.com/ubc_csss>  
-LinkedIn: <https://www.linkedin.com/company/ubccsss/mycompany>  
+LinkedIn: <https://www.linkedin.com/company/ubccsss>  
