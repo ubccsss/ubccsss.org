@@ -1,96 +1,19 @@
 ---
 title: Officers
-date: 2018-08-31
+date: 2022-06-16
 aliases:
   - /club/about/officers
 ---
 
-### Xiaoyang Zhang
+### Jeremy Qiao
 
-Communications Officer
-
----
-
-### Kit Liu
-
-Communications Officer
+External Officer
 
 ---
 
-### Ashmit Gupta
+### Taryn Wou
 
-Communications Officer
-
----
-
-### Seongjoo Kim
-
-Communications Officer
-
----
-### Elliot Qi
-
-External Affairs Officer
-
----
-
-### Emily Chu
-
-External Affairs Officer
-
----
-
-### Xiaomeng Nie
-
-External Affairs Officer
-
----
-
-### Krish Sridar
-
-External Affairs Officer
-
----
-
-### Jason Hsu
-
-Internal Affairs Officer
-
----
-
-### Bronwyn Damm
-
-Internal Affairs Officer
-
----
-
-### Ethan Zhao
-
-Financial Officer
-
----
-
-### Leila Gazizova
-
-Volunteering Officer
-
----
-
-### Allan Tan
-
-Volunteering Officer
-
----
-
-### Devvrat Tiwari
-
-Volunteering Officer
-
----
-
-### Asad Dhorajiwala
-
-Webmaster
+External Officer
 
 ---
 
@@ -100,6 +23,12 @@ Webmaster
 
 ---
 
+### Asad Dhorajiwala
+
+Webmaster
+
+---
+
 ### Ramit Kataria
 
-Webmaster and Internal Affairs Officer
+Webmaster
