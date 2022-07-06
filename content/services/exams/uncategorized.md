@@ -48,7 +48,6 @@ We've also collected some PDFs that we weren't able to match find a course quiz/
 * [CPSC 314](/services/exams/cpsc314)
 * [CPSC 320](/services/exams/cpsc320)
 * [CPSC 322](/services/exams/cpsc322)
-* [CPSC 340](/services/exams/cpsc340)
 * [CPSC 404](/services/exams/cpsc404)
 * [CPSC 422](/services/exams/cpsc422)
 * [CPSC 448B](/services/exams/cpsc448B)
