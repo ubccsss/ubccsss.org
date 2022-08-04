@@ -17,7 +17,7 @@ The UBC CSSS offers the following services.
 
 <div class="row">
   <div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< card title="Exams Database" href="https://exams.ubccsss.org/" src="/files/exams.jpg" >}}
+    {{< card title="Exams Database" href="https://ubccsss.org/services/exams" src="/files/exams.jpg" >}}
       We provide a database of old midterm and final exams for review.
     {{</ card >}}
   </div>
