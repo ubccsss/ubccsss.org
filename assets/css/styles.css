@@ -22,6 +22,7 @@ a {
 
 .blog-header {
   overflow: hidden;
+  margin-bottom: 1rem;
 }
 
 .blog-header .navbar {
@@ -45,6 +46,30 @@ a {
   padding: 0 !important;
 }
 
-.gsc-input-box {
-  border-radius: 1rem;
+.title h1 {
+  font-size: 75px;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 768px) {
+  .title h1 {
+    font-size: 50px;
+  }
+}
+
+.large-text h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.navbar-top {
+  background-color: white !important;
+}
+
+.nav-link {
+  color: var(--bs-dark) !important;
+}
+
+.nav-link:hover {
+  color: var(--bs-blue) !important;
 }

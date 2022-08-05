@@ -1,0 +1,157 @@
+{{ define "body" }}
+<div class="container-fluid">
+    {{ $recentEvents := (.Site.GetPage "/events").Pages | first 4 }}
+    <div class="row justify-content-lg-start justify-content-center pt-3 mb-lg-5 mb-3">
+        <div class="col-lg-10 ms-lg-5 ps-lg-5 ps-4 title">
+            <h1 class="mb-lg-4">{{ .Title }}</h1>
+            <p>{{ .Content }}</p>
+        </div>
+    </div>
+    <hr class="w-75 mx-auto">
+    <div class="row justify-content-center mt-3 py-lg-4">
+        <div class="col-lg-8 text-center large-text">
+            <h1>Recent Events</h1>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 px-5 pt-lg-3 pt-3 g-4 mb-5">
+        {{ range $recentEvents }}
+            {{ .Render "card" }}
+        {{ end }}
+    </div>
+    <hr class="w-75 mx-auto">
+    <div class="row mb-4 mt-5 py-lg-4">
+        <div class="col-12 col-lg-8 blog-main">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 text-center large-text pb-5">
+                    <h1>Services</h1>
+                </div>
+            </div>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 px-5 pt-lg-3 pt-3 g-4 mb-5">
+                <div class="col">
+                    <div class="card w-100">
+                        <img
+                            class="card-img-top img-fluid"
+                            src="https://d33wubrfki0l68.cloudfront.net/e42ea3beeba3cc5b34c9ae1ec7b033c3045eb1e0/4619c/files/exams.jpg"
+                            alt=""
+                            width="348"
+                            height="196"
+                        >
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a class="card-link" href="https://ubccsss.org/services/exams">Exams Database</a>
+                            </h5>
+                            <p class="card-text">We provide a database of old midterm and final exams for review.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card w-100">
+                        <img
+                            class="card-img-top img-fluid"
+                            src="https://d33wubrfki0l68.cloudfront.net/10e0ed0cbab83ecb5a61de3106d5fa309ae1b8b8/b3e32/files/tutor.jpg"
+                            alt=""
+                            width="348"
+                            height="196"
+                        >
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a class="card-link" href="/services/tutor">Tutoring</a>
+                            </h5>
+                            <p class="card-text">We provide a place for tutors to advertise their availability and for students to find a tutor for Computer Science courses.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card w-100">
+                        <img
+                            class="card-img-top img-fluid"
+                            src="https://d33wubrfki0l68.cloudfront.net/623ada90eddf24598a01bd2a3ee52e750515e9e9/06d8d/files/lounge.jpg"
+                            alt=""
+                            width="348"
+                            height="196"
+                        >
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a class="card-link" href="/cube/">The Cube</a>
+                            </h5>
+                            <p class="card-text">We run a student lounge in ICICS 021, with cheap food, free microwaves, video games, and a place to hang out.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card w-100">
+                        <img
+                            class="card-img-top img-fluid"
+                            src="https://d33wubrfki0l68.cloudfront.net/81098c9a102dddcba8eed4d56942b105494168e1/3b5bc/files/coffee_chat_stock_image.jpg"
+                            alt=""
+                            width="348"
+                            height="196"
+                        >
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a class="card-link" href="/services/coffeechat/">Coffee Chat</a>
+                            </h5>
+                            <p class="card-text">
+                                This low-commitment and informal mentorship program pairs a lower year student with an upper year student for a quick meetup on a monthly basis.
+                                <em>Not currently running - check back 2021W2.</em>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card w-100">
+                        <img
+                            class="card-img-top img-fluid"
+                            src="https://d33wubrfki0l68.cloudfront.net/e2ad15d073dbd9d0a734261924994fc7fac2f302/bc5f9/files/classroom.jpg"
+                            alt=""
+                            width="348"
+                            height="196"
+                        >
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a class="card-link" href="/services/courses/">Courses Database</a>
+                            </h5>
+                            <p class="card-text">We provide a database of student-sourced course reviews and descriptions to help you choose you next classes.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card w-100">
+                        <img
+                            class="card-img-top img-fluid"
+                            src="https://d33wubrfki0l68.cloudfront.net/e71f6e23e6c2a230223c6e13f9eb1ab25244b27e/00822/files/chips.jpg"
+                            alt=""
+                            width="348"
+                            height="196"
+                        >
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a class="card-link" href="/cube/menu/">Cube Menu</a>
+                            </h5>
+                            <p class="card-text">We provide cheap snacks, like chips, pizza, candy, and drinks, in the Cube.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-8 text-center large-text pb-5">
+                    <h1>Calendar</h1>
+                </div>
+            </div>
+            <iframe
+                id="open-web-calendar"
+                style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
+                src="https://open-web-calendar.herokuapp.com/calendar.html?url=https%3A%2F%2Fubccsss.org%2Fevents%2Findex.ics&amp;title=UBC%20CSSS%20Calendar"
+                sandbox="allow-scripts allow-same-origin allow-top-navigation"
+                allowTransparency="true"
+                scrolling="no"
+                frameborder="0"
+                height="600px"
+                width="100%"
+                class="px-5 pb-5"
+            ></iframe>
+        </div>
+        {{ partial "sidebar" . }}
+    </div>
+</div>
+{{ end }}
