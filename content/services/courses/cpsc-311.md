@@ -12,7 +12,7 @@ count: 4
 >
 > I am also personally a fan of the profs who often teach these classes, Steve (311) and Kurt (312). If either is on sabbatical though, the experience might be different from my own.
 >
-> <cite><a href="https://www.reddit.com/r/UBC/comments/1zo80v/recommended_300level_cpsc_course/cfvhfrm">/u/Aruzan</a></cite>
+> <cite><a href="https://www.reddit.com/r/UBC/comments/1zo80v/recommended_300level_cpsc_course/cfvhfrm">/u/Aruzan</a>, Mar 5 2014</cite>
 
 > 311 with Steve Wolfman. It was very intellectually engaging. It managed to be both very abstract and very technical. Easily one of my favourite courses of 3rd year. I think you'd be doing yourself a disservice as someone in CS if you don't understand how interpreted languages get well... interpreted.
 >
@@ -20,12 +20,12 @@ count: 4
 >
 > It forces you think about programming languages in ways you never really considered. All very fascinating stuff.
 >
-> <cite><a href="https://www.reddit.com/r/UBC/comments/1zo80v/recommended_300level_cpsc_course/cfvk5zf">/u/creamenator</a></cite>
+> <cite><a href="https://www.reddit.com/r/UBC/comments/1zo80v/recommended_300level_cpsc_course/cfvk5zf">/u/creamenator</a>, Mar 5 2014</cite>
 
 > When I took it, it was an easy course with Prof. Joshua Dunfied. He is no longer at UBC. The course is taught by Dr. Wolfman now (iirc) and I would say it is the same level of difficulty as his 320 classes.
 >
-> <cite><a href="https://www.reddit.com/r/UBC/comments/bsasu1/comp_sci_courses_at_ubc/eom20bx">/u/vaastav05</a></cite>
+> <cite><a href="https://www.reddit.com/r/UBC/comments/bsasu1/comp_sci_courses_at_ubc/eom20bx">/u/vaastav05</a>, May 23 2019</cite>
 
 > Awesome course that teaches you about programming languages, with a emphasis on language semantics. Despite being a third year course, CPSC 311 directly uses quite a lot of the concepts from CPSC 110. Some notable things include the PLAI (Racket) language and templates. Finally, for recent offerings taught by Prof. Ron Garcia (2020, 2021), all exams are coding exams done on the computer.
 >
-> <cite><a href="https://github.com/eqfy">eqfy</a></cite>
+> <cite><a href="https://github.com/eqfy">eqfy</a>, 21 Jan 2022</cite>

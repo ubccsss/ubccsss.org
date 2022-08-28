@@ -12,4 +12,4 @@ count: 1
 >
 > I am also personally a fan of the profs who often teach these classes, Steve (311) and Kurt (312). If either is on sabbatical though, the experience might be different from my own.
 >
-> <cite><a href="https://www.reddit.com/r/UBC/comments/1zo80v/recommended_300level_cpsc_course/cfvhfrm">/u/Aruzan</a></cite>
+> <cite><a href="https://www.reddit.com/r/UBC/comments/1zo80v/recommended_300level_cpsc_course/cfvhfrm">/u/Aruzan</a>, Mar 5 2014</cite>
