@@ -151,6 +151,8 @@
                 class="px-5 pb-5"
             ></iframe>
         </div>
+        <!-- https://harmstyler.me/posts/2019/how-to-pass-variables-to-a-partial-template-in-hugo/ -->
+        {{ .Scratch.Set "classes" "hide-on-mobile" }}
         {{ partial "sidebar" . }}
     </div>
 </div>

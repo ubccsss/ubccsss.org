@@ -28,7 +28,7 @@ a {
 .blog-header .navbar {
   padding: 10em 2em 1em;
   margin: -9em -1em 2%;
-  color: white;
+  color: #fcfcfc;
   background: #0a0e1a;
 }
 
@@ -63,7 +63,7 @@ a {
 }
 
 .navbar-top {
-  background-color: white !important;
+  background-color: #fcfcfc !important;
 }
 
 .nav-link {
@@ -72,4 +72,12 @@ a {
 
 .nav-link:hover {
   color: var(--bs-blue) !important;
+}
+
+/* hide on devices smaller than 768px */
+@media screen and (max-width: 768px) {
+  .hide-on-mobile {
+    visibility: hidden;
+    display: none;
+  }
 }
