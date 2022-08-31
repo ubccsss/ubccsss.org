@@ -12,6 +12,6 @@ mainSections:
   - posts
 truncate: false
 header:
-  colorScheme: dark
+  colorScheme: light
 footer:
   colorScheme: dark
