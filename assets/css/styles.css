@@ -72,3 +72,14 @@ a {
     display: none;
   }
 }
+
+.dropdown-menu {
+  padding: 0;
+}
+
+@media only screen and (max-width: 992px) {
+  .dropdown-menu {
+      border: none;
+      background-color: #fcfcfc;
+  }
+}
