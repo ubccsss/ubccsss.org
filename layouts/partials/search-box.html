@@ -25,20 +25,30 @@
         height: auto;
         width: 16px;
     }
-    
     .gsib_a {
         border-bottom: #0a0e1a 1px solid !important;
         display: inline-block !important;
         font-family: var(--bs-body-font-family);
     }
-
     #gs_st50 {
         width: none !important;
         display: none !important;
     }
-    
-    .gsc-input {
-        width: 200px !important;
+    @media only screen and (min-width: 960px) {
+        .gsc-input {
+            width: 200px !important;
+        }
+    }
+    .gsc-control-cse {
+        /* !important required, otherwise the CSS file from Google overwrites this */
+        padding: 0;
+        background: transparent !important;
+        border: none !important;
+        padding: 0 !important;
+    }
+    .gsc-search-button, .gsc-input-box, .gsc-input1, #gsc-i-id1 {
+        background-color: #fcfcfc !important;
+        border-color: #fcfcfc !important;
     }
 </style>
 
