@@ -63,6 +63,11 @@ a {
       background-color: #fcfcfc;
   }
 
+  .dropdown-item:active {
+    background-color: #e9ecef;
+    color: black;
+  }
+
   .blog-header {
     margin-bottom: 0rem;
   }
