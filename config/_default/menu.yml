@@ -15,11 +15,14 @@ main:
     name: Services
     url: /services/
     weight: -110
+  - identifier: databases
+    name: Databases
+    weight: -100
   - identifier: clubs
     name: Clubs
     url: /about/clubs/
-    weight: -100
+    weight: -90
   - identifier: contact
     name: Contact
     url: /contact/
-    weight: -90
+    weight: -80

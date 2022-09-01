@@ -1,5 +1,5 @@
 ---
-title: "Courses Database"
+title: "Course Reviews Database"
 cascade:
   layout: course
 layout: courses
