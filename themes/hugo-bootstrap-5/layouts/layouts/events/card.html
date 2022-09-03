@@ -1,0 +1,17 @@
+{{ $startDate := .Params.start_date | default .Date }}
+<div class="col">
+  <div class="card mb-4 shadow-sm h-md-250">
+    {{ if isset .Params "images" }}
+    {{ if gt (len .Params.images) 0 }}<img class="card-img-top" src="{{ (index .Params.images 0) }}" />{{ end }} 
+    {{ end }}
+    <div class="card-body">
+      <h5 class="card-title">
+        <a class="card-link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h5>
+      <p class="card-text mb-1 text-muted">{{ dateFormat "Mon Jan 2, 2006" $startDate }}</p>
+      {{ with .Params.location }}
+      <p class="card-text small mb-auto">{{ .name }}</p>
+      {{ end }}
+    </div>
+  </div>
+</div>

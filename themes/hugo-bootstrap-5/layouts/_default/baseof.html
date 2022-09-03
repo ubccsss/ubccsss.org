@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="{{ .Lang }}">
+  <head>
+    {{ partial "head-meta" . }}
+
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <title>
+      {{ block "title" . }}
+        {{ .Title}}{{ if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}
+      {{ end }}
+    </title>
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css"
+      integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    
+    <link href='{{ "css/style.css" | relURL }}' rel="stylesheet">
+
+    {{ range .AlternativeOutputFormats -}}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+    {{ end -}}
+
+    {{ template "_internal/google_analytics_async.html" . }}
+
+    {{ partial "head-custom.html" . }}
+  </head>
+  <body>
+    {{ block "header" . }}
+      {{ partial "header" . }}
+    {{ end }}
+
+    {{ block "body" . }}
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-lg-8 blog-main">
+
+          {{ block "main" . }}
+          {{ end }}
+
+        </div>
+
+        {{ partial "sidebar.html" . }}
+
+      </div>
+    </div>
+    {{ end }}
+
+    {{ block "footer" . }}
+      {{ partial "footer" . }}
+    {{ end }}
+
+    <!-- Bootstrap and Popper -->
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/js/bootstrap.bundle.min.js"
+      integrity="sha512-pax4MlgXjHEPfCwcJLQhigY7+N8rt6bVvWLFyUMuxShv170X53TRzGPmPkZmGBhk+jikR8WBM4yl7A9WMHHqvg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+  </body>
+</html>
