@@ -1,6 +1,0 @@
-{{- if not .IsHome -}}
-  {{- with .Parent -}}{{ partial "breadcrumb/chain" . }}{{- end -}}
-  <li class="breadcrumb-item">
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  </li>
-{{- end -}}
