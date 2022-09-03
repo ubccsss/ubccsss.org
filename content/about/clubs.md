@@ -44,7 +44,7 @@ The following UBC CS-related clubs are partners of the CSSS.
     {{</ card >}}
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< card title="WiDS (Women in Data Science" href="https://linktr.ee/widsubc" src="/files/wids.png" >}}
+    {{< card title="WiDS (Women in Data Science)" href="https://linktr.ee/widsubc" src="/files/wids.png" >}}
       WiDS is a student led initiative that aims to empower, inspire, and connect women in data science.
     {{</ card >}}
   </div>
