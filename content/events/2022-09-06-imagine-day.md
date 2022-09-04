@@ -10,8 +10,8 @@ categories: [event]
 author: Asad Dhorajiwala
 # Images associated to this event. Used for banner.
 images:
-  - /files/2022-09-04-imagine-day-preview.png
-  - /files/2022-09-04-imagine-day-map.png
+  - /files/2022-09-06-imagine-day-preview.png
+  - /files/2022-09-06-imagine-day-map.png
 # Start date and time. Used for calendar page.
 start_date: 2022-09-06 10:45:00
 # End date and time (defaults to one hour after start). Used for calendar page.
