@@ -21,7 +21,7 @@ end_date: 2022-09-06 16:30:00
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-md-8">
-      <img src="/files/2022-09-04-imagine-day-map.png">
+      <img src="/files/2022-09-06-imagine-day-map.png">
     </div>
   </div>
 </div>
