@@ -30,7 +30,7 @@ end_date: 2022-09-06 16:30:00
 
 Interested in events CSSS has in stock for Imagine Day? Look no further!
 
-Imagine Day BBQ — Kick off your Imagine Day by coming to our BBQ at the Main Mall side of the ICICS building
+Imagine Day BBQ — Kick off your Imagine Day by coming to our BBQ at the Main Mall side of the ICICS building. Food service begins at 10:45 and ends at 12:00.
 
 Imagine Day Booth — Find our booth located between the student alumni centre and UBC bookstore for some free merch and more club info!
 
