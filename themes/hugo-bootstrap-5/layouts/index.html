@@ -1,0 +1,39 @@
+{{ define "body" }}
+<div class="container">
+    {{ $recentEvents := (.Site.GetPage "/events").Pages | first 3 }}
+
+    <div class="row row-cols-1 row-cols-sm-3 g-4 mb-2">
+        {{ range $recentEvents }}
+            {{ .Render "card" }}
+        {{ end }}
+    </div>
+    <header>
+        <h1 class="blog-post-title">{{ .Title | markdownify }}</h1>
+        <hr>
+    </header>
+    <section>
+        {{ .Content }}
+
+        {{ partial "home/3d-cube" . }}
+    </section>
+
+    <div class="row">
+        <div class="col-12 col-lg-8 blog-main">
+            {{ $truncate := default true .Site.Params.truncate }}
+            {{ $paginator := where .Site.RegularPages "Section" "in" .Site.Params.mainSections | symdiff $recentEvents | .Paginate }}
+
+            {{ range $paginator.Pages }}
+            {{ if $truncate }}
+                {{ .Render "summary" }}
+            {{ else }}
+                {{ .Render "content" }}
+            {{ end }}
+            {{ end }}
+
+            {{ partial "home/simple-paginator" . }}
+        </div>
+
+        {{ partial "sidebar" . }}
+    </div>
+</div>
+{{ end }}

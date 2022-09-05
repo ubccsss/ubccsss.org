@@ -1,0 +1,36 @@
+{{ $colorScheme := default "light" .Site.Params.footer.colorScheme }}
+<footer class="blog-footer navbar navbar-{{ $colorScheme }} bg-{{ $colorScheme }} py-md-5 w-100">
+    <div class="text-light container">
+        <div class="row w-100">
+            <div class="col-12 col-md">
+                <img class="mb-2" src="/logo-mono.svg" alt="" width="26.3" height="31">
+                <small class="d-block mb-3 text-light">{{ .Site.Copyright }}</small>
+            </div>
+            {{ range .Site.Data.footer }}
+            <div class="col-6 col-md">
+                <h5>{{ i18n .header }}</h5>
+                <ul class="list-unstyled text-small">
+                    {{ range .items }}
+                    {{ with $.GetPage . }}
+                    <li><a class="text-light" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                    {{ end }}
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
+            <div class="col-12 col-md small">
+                <address>{{ i18n "cubeAddress" | markdownify }}</address>
+
+                <p>
+                    <hr>
+                    <a href="#">{{ i18n "backToTop" }}</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon="{{ site.Params.CFBeaconData }}">
+</script>
+<!-- End Cloudflare Web Analytics -->

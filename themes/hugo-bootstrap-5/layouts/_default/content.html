@@ -1,0 +1,9 @@
+<article class="blog-post">
+    <header>
+        {{ partial "post-title" . }}
+        {{ partial "post-date" . }}
+        {{ partial "post-tags" . }}
+        {{ partial "post-categories" . }}
+    </header>
+    {{ .Content }}
+</article>

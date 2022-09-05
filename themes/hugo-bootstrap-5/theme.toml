@@ -1,0 +1,17 @@
+name = "Hugo Bootstrap 5"
+license = "MIT"
+licenselink = "https://github.com/NotWoods/hugo-bootstrap-5/blob/master/LICENSE.md"
+description = "A simple hugo theme using Bootstrap 5"
+homepage = "https://github.com/NotWoods/hugo-bootstrap-5"
+tags = ["blog", "multilingual", "bootstrap"]
+features = ["blog", "responsive", "Google Analytics", "bootstrap", "multilingual", "i18n"]
+min_version = 0.56
+
+[author]
+  name = "Tiger Oakes"
+  homepage = "https://tigeroakes.com"
+
+[original]
+  author =  "Mihail Cristian Dumitru"
+  homepage = "https://github.com/Xzya"
+  repo = "https://github.com/Xzya/hugo-bootstrap"
