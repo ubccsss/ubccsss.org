@@ -1,38 +1,103 @@
-{{ $script := resources.Get "js/create-github-issue.js" | resources.Minify }}
-{{ $course := replace (upper .File.ContentBaseName) "-" " " }}
+{{ $script := resources.Get "js/create-github-issue.js" | resources.Minify }} {{
+$course := replace (upper .File.ContentBaseName) "-" " " }}
 
 <script async defer src="{{ $script.RelPermalink }}"></script>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 <div id="review-div">
   <h3>Add a Review for this course</h3>
-  <form id="github-issue-form" data-course="{{ $course }}" data-workerurl="{{ .Site.Params.workerURL }}" novalidate>
+  <small class="text-muted"
+    >These reviews may take several days to process and will be scanned for
+    inappropriate or malicious content.</small
+  >
+  <form
+    id="github-issue-form"
+    data-course="{{ $course }}"
+    data-workerurl="{{ .Site.Params.workerURL }}"
+    novalidate
+  >
     <div class="my-3">
       <label for="github-issue-user" class="form-label">Name/Username*</label>
-      <input class="form-control" type="text" pattern=".*\S+.*" id="github-issue-user"
-        placeholder="enter the reviewers name/username" required />
-      <div class="invalid-feedback">
-        Please enter a name/username.
-      </div>
+      <input
+        class="form-control"
+        type="text"
+        pattern=".*\S+.*"
+        id="github-issue-user"
+        placeholder="enter the reviewers name/username"
+        required
+      />
+      <div class="invalid-feedback">Please enter a name/username.</div>
     </div>
     <div class="my-3">
       <label for="github-issue-reference" class="form-label">Reference*</label>
-      <input class="form-control" type="url" id="github-issue-reference"
-        placeholder="link to the review or a link to your GitHub if this is your review" required />
+      <input
+        class="form-control"
+        type="url"
+        id="github-issue-reference"
+        placeholder="link to the review or a link to your GitHub if this is your review"
+        required
+      />
       <div class="invalid-feedback">
-        Enter a valid url including the 'https://' prefix. (https://www.example.com)
+        Enter a valid url including the 'https://' prefix.
+        (https://www.example.com)
       </div>
     </div>
     <div class="my-3">
       <label for="github-issue-review" class="form-label">Course review*</label>
-      <textarea class="form-control" type="text" minlength="50" id="github-issue-review" rows="3"
-        placeholder="enter the course review" required></textarea>
+      <textarea
+        class="form-control"
+        type="text"
+        minlength="50"
+        id="github-issue-review"
+        rows="3"
+        placeholder="enter the course review"
+        required
+      ></textarea>
       <div class="invalid-feedback">
         Please enter your course review. <b>[minimum length: 50 characters]</b>
       </div>
-      <div class="g-recaptcha my-3" data-sitekey="{{ .Site.Params.recaptchaSiteKey }}"></div>
-      <div class="my-3">
-        <button class="btn btn-primary" id="github-issue-btn" type="submit">Submit</button>
+    </div>
+    <div class="my-3">
+      <label for="github-issue-difficulty" class="form-label">Difficulty</label>
+      <div class="d-flex gap-2">
+        <input
+          type="range"
+          class="form-range"
+          min="1"
+          max="5"
+          step="0.5"
+          id="github-issue-difficulty"
+          oninput="document.getElementById('github-issue-difficulty-label').innerText = this.value"
+        />
+        <small id="github-issue-difficulty-label">—</small>
       </div>
+    </div>
+    <div class="my-3">
+      <label for="github-issue-overall" class="form-label"
+        >Overall Course Quality</label
+      >
+      <div class="d-flex gap-2">
+        <input
+          type="range"
+          class="form-range"
+          min="1"
+          max="5"
+          step="0.5"
+          id="github-issue-overall"
+          oninput="document.getElementById('github-issue-overall-label').innerText = this.value"
+        />
+        <small id="github-issue-overall-label">—</small>
+      </div>
+    </div>
+    <div
+      class="g-recaptcha my-3"
+      data-sitekey="{{ .Site.Params.recaptchaSiteKey }}"
+    ></div>
+    <div class="my-3">
+      <button class="btn btn-primary" id="github-issue-btn" type="submit">
+        Submit
+      </button>
+    </div>
   </form>
 </div>
+
