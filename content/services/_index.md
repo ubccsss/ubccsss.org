@@ -31,9 +31,14 @@ The UBC CSSS offers the following services.
       We run a student lounge in ICICS 021, with cheap food, free microwaves, video games, and a place to hang out.
     {{</ card >}}
   </div>
-  <div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">
+  <!--<div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">
     {{< card title="Coffee Chat" href="/services/coffeechat/" src="/files/coffee_chat_stock_image.jpg" >}}
       This low-commitment and informal mentorship program pairs a lower year student with an upper year student for a quick meetup on a monthly basis. <em>Not currently running - check back 2021W2.</em>
+    {{</ card >}}
+  </div>-->
+  <div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">
+    {{< card title="Locker Rentals" href="/cube/lockers/" src="/files/lockers.jpg" >}}
+      We offer lockers in ICICS for rent at $15 per semester - the cheapest rates at UBC.
     {{</ card >}}
   </div>
   <div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">
