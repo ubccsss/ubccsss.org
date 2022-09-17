@@ -58,7 +58,9 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
       </div>
     </div>
     <div class="my-3">
-      <label for="github-issue-difficulty" class="form-label">Difficulty</label>
+      <label for="github-issue-difficulty" class="form-label"
+        >Difficulty*</label
+      >
       <div class="d-flex gap-2">
         <input
           type="range"
@@ -68,13 +70,14 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
           step="0.5"
           id="github-issue-difficulty"
           oninput="document.getElementById('github-issue-difficulty-label').innerText = this.value"
+          required
         />
-        <small id="github-issue-difficulty-label">—</small>
+        <small id="github-issue-difficulty-label" style="width: 3rem">3</small>
       </div>
     </div>
     <div class="my-3">
       <label for="github-issue-overall" class="form-label"
-        >Overall Course Quality</label
+        >Overall Course Quality*</label
       >
       <div class="d-flex gap-2">
         <input
@@ -85,8 +88,9 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
           step="0.5"
           id="github-issue-overall"
           oninput="document.getElementById('github-issue-overall-label').innerText = this.value"
+          required
         />
-        <small id="github-issue-overall-label">—</small>
+        <small id="github-issue-overall-label" style="width: 3rem">3</small>
       </div>
     </div>
     <div
@@ -100,4 +104,3 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
     </div>
   </form>
 </div>
-

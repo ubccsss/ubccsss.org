@@ -48,14 +48,8 @@ const createGithubIssue = async () => {
   const user = document.getElementById("github-issue-user").value;
   const reference = document.getElementById("github-issue-reference").value;
   const review = document.getElementById("github-issue-review").value;
-  const difficulty =
-    document.getElementById("github-issue-difficulty-label").innerText !== "—"
-      ? document.getElementById("github-issue-difficulty").value
-      : 0;
-  const overall =
-    document.getElementById("github-issue-overall-label").value !== "—"
-      ? document.getElementById("github-issue-overall").value
-      : 0;
+  const difficulty = document.getElementById("github-issue-difficulty").value;
+  const overall = document.getElementById("github-issue-overall").value;
 
   // check if reCAPTCHA has been completed
   const token = grecaptcha.getResponse();
