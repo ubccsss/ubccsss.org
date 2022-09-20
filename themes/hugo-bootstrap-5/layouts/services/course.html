@@ -4,42 +4,71 @@
   <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
       {{ partial "breadcrumb/chain" .Parent }}
-      <li class="breadcrumb-item active" aria-current="page">{{ replace (upper .File.ContentBaseName) "-" " " }}</li>
+      <li class="breadcrumb-item active" aria-current="page">
+        {{ replace (upper .File.ContentBaseName) "-" " " }}
+      </li>
     </ol>
   </nav>
 
   <h1 class="blog-post-title">
     {{ replace (upper .File.ContentBaseName) "-" " " }}
   </h1>
-  <h3 class="blog-post-title">
-    {{ .Title | markdownify }}
-  </h3>
-  {{ partial "post-date" . }}
-  {{ partial "post-tags" . }}
-  {{ partial "post-categories" . }}
-  <hr>
+  <h3 class="blog-post-title">{{ .Title | markdownify }}</h3>
+  {{ partial "post-date" . }} {{ partial "post-tags" . }} {{ partial
+  "post-categories" . }}
+  <hr />
 </header>
 <article class="blog-post">
-  {{ replace .RawContent "<cite>" "<cite class='blockquote-footer'>" | markdownify }}
-
-  {{ if .IsTranslated }}
-    <h4>{{ i18n "translations" }}</h4>
-    <ul>
-      {{ range .Translations }}
-      <li>
-        <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
-      </li>
-      {{ end }}
-    </ul>
+  {{ if (index $.Site.Data.courseReviews .File.ContentBaseName) }}
+      {{$averageDifficulty := 0 }}
+      {{ $difficultyCount := 0 }}
+      {{ $averageOverall := 0}}
+      {{ $overallCount := 0 }}
+      {{ with (index $.Site.Data.courseReviews .File.ContentBaseName)}}
+        {{ range . }}
+            {{ partial "course/review" . }}
+            {{range .}}
+                {{if not (eq .difficulty 0)}} {{ $difficulty := .difficulty }}
+                    {{ $averageDifficulty = add $averageDifficulty $difficulty }}
+                    {{ $difficultyCount = add $difficultyCount 1 }}
+                {{end}}
+                {{if not (eq .quality 0)}} {{ $quality := .quality }}
+                    {{ $averageOverall = add $averageOverall $quality }}
+                    {{$overallCount = add $overallCount 1 }}
+                {{end}}
+            {{ end }}
+        {{end}}
+        <br/>
+        {{ if or (not (eq $averageDifficulty 0)) (not (eq $averageOverall 0)) }}
+          <hr style="margin-top: 0;" />
+        {{end}}
+        {{ if and (not (eq $averageDifficulty 0)) (not (eq $difficultyCount 0)) }}
+          <p style="margin-bottom: 0;">Average course difficulty: {{trim (div (float $averageDifficulty) (float $difficultyCount) | lang.FormatNumber 2)  ".0"}}/5</p>
+        {{end}}
+        {{if and (not (eq $averageOverall 0)) (not (eq $overallCount 0))}}
+          <p>Average course overall: {{trim (div (float $averageOverall) (float $overallCount) | lang.FormatNumber 2) ".0" }}/5</p>
+        {{end}}
+        {{ if or (not (eq $averageDifficulty 0)) (not (eq $averageOverall 0)) }}
+          <hr />
+        {{end}}
+     {{end}}
+      {{else}} No reviews yet - please add yours below! <br />
+      <br />
   {{ end }}
+  {{ if .IsTranslated }}
+  <h4>{{ i18n "translations" }}</h4>
+  <ul>
+    {{ range .Translations }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }} {{ partial "related" . }}
 
-  {{ partial "related" . }}
+  <br />
 
-  <br>
-
-  {{ partial "course/grades" . }}
-
-  {{ partial "related-form" . }}
+  {{ partial "course/grades" . }} {{ partial "related-form" . }}
 </article>
 
 {{ end }}

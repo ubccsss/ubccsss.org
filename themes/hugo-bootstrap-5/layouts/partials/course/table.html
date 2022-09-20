@@ -10,13 +10,21 @@
   <tbody>
     {{ range . }}
     <tr>
-      {{ $parts := split .File.ContentBaseName "-" }}
-      {{ $subject := index $parts 0 | upper }}
-      {{ $course := index $parts 1 }}
-      <td><a href="{{ .RelPermalink }}">{{ replace (upper .File.ContentBaseName) "-" " " }}</a></td>
+      {{ $parts := split .File.ContentBaseName "-" }} {{ $subject := index
+      $parts 0 | upper }} {{ $course := index $parts 1 }}
+      <td>
+        <a href="{{ .RelPermalink }}"
+          >{{ replace (upper .File.ContentBaseName) "-" " " }}</a
+        >
+      </td>
       <td>{{ .Title }}</td>
-      <td>{{ .Params.count }}</td>
+      <td>
+        {{ if (index .Site.Data.courseReviews .File.ContentBaseName )}} {{ len
+        ((index .Site.Data.courseReviews .File.ContentBaseName ).reviews) }}
+        {{else }} 0 {{ end }}
+      </td>
     </tr>
     {{ end }}
   </tbody>
 </table>
+

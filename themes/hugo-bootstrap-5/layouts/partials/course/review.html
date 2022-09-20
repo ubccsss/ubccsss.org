@@ -1,0 +1,14 @@
+{{range . }}
+<blockquote style="margin-top: 20px">{{ .review | markdownify }}</blockquote>
+{{if not (eq .difficulty 0)}}
+<p style="margin-bottom: 0">Difficulty: {{.difficulty}}/5</p>
+{{end}} {{if not (eq .quality 0)}}
+<p>Overall course quality: {{.quality}}/5</p>
+{{end}}
+
+<cite class="blockquote-footer"
+  ><a href="{{ .authorLink }}">{{ .author }}</a>, {{ dateFormat "Jan 2 2006"
+  .date }}
+</cite>
+{{end}}
+<br />
