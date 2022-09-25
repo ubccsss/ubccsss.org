@@ -1,5 +1,8 @@
 # Items in the "Elsewhere" section of the sidebar.
 
+- title: Linktree
+  icon: /modules/linktree.svg
+  link: https://linktr.ee/ubc_csss
 - title: Facebook
   icon: /modules/facebook.svg
   link: https://www.facebook.com/ubccsss
@@ -18,3 +21,4 @@
 - title: RSS
   icon: /modules/rss.svg
   link: /index.xml
+
