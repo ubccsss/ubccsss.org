@@ -1,6 +1,5 @@
 ---
-title: Topics in Data Management
+title: Computational Geometry
 layout: course
 description: 
 ---
-

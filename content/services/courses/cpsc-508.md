@@ -1,6 +1,5 @@
 ---
-title: Topics in Data Management
+title: Operating Systems
 layout: course
 description: 
 ---
-

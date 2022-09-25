@@ -16,6 +16,10 @@
   <h3 class="blog-post-title mb-0">{{ .Title | markdownify }}</h3>
 </header>
 <article class="blog-post">
+  {{ with .Description }}
+    <hr />
+    {{ . }}
+  {{ end }}
   {{ with (index $.Site.Data.courseReviews .File.ContentBaseName)}}
     {{$averageDifficulty := 0 }}
     {{ $difficultyCount := 0 }}
