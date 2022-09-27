@@ -1,6 +1,5 @@
 ---
-title: Topics in Data Management
+title: Data Management
 layout: course
 description: 
 ---
-

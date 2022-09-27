@@ -1,6 +1,5 @@
 ---
-title: Topics in Data Management
+title: Software Engineering
 layout: course
 description: 
 ---
-
