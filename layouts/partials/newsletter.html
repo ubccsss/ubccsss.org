@@ -1,0 +1,25 @@
+{{ $script := resources.Get "js/newsletter.js" | resources.Minify }}
+<script defer src="{{ $script.RelPermalink }}"></script>
+<div class="modal fade" id="newsletter-modal" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-body text-center py-5">
+                <h2 class="pb-3">Join our mailing list!</h2>
+                <p class="pb-3">
+                    UBCCSSS is starting a mailing list! We will send out emails about upcoming events, workshops, and more. If you would like to join, please click the button below.
+                </p>
+                <button
+                    id="maybe-later-btn"
+                    type="button"
+                    class="btn btn-secondary me-3"
+                    data-bs-dismiss="modal"
+                >
+                    Maybe later
+                </button>
+                <a href="http://eepurl.com/h-QQ_z" target="_blank">
+                    <button id="join-btn" class="btn btn-primary" data-bs-dismiss="modal">Click here to join</button>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
