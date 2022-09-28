@@ -13,6 +13,8 @@
 </header>
 <article class="blog-post">
   {{ .Content }}
+  
+  {{ partial "courses-graph" . }}
 
   {{ partial "course/table" (sort .Pages ".File.ContentBaseName" "asc") }}
 
