@@ -7,8 +7,9 @@
 {{end}}
 
 <cite class="blockquote-footer"
-  ><a href="{{ .authorLink }}">{{ .author }}</a>, {{ dateFormat "Jan 2 2006"
-  .date }}
+  >{{with .authorLink }}<a href="{{ . }}"
+    >{{end}}{{ .author }}{{with .authorLink}}</a
+  >{{end}}, {{ dateFormat "Jan 2 2006" .date }}
 </cite>
 {{end}}
 <br />
