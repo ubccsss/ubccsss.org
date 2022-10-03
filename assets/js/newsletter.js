@@ -1,6 +1,6 @@
 (() => {
     // add 10 second delay in showing the newsletter popup
-    setInterval(() => {
+    setTimeout(() => {
         const newsletterModalEl = document.getElementById('newsletter-modal');
         const newsletterModal = new bootstrap.Modal(newsletterModalEl);
         if (document.cookie.indexOf('newsletter') < 0) {
