@@ -13,7 +13,7 @@ The CSSS is looking for Officers and Volunteers to organize events like the Welc
 <!-- Officer applications are now closed. You can always reach out to us at [Facebook](https://www.facebook.com/ubccsss), [Twitter](https://twitter.com/ubccsss), [Reddit](https://reddit.com/r/ubccsss), or [Discord](https://discord.gg/KcQrrPz). -->
 
 <iframe
-  src="https://docs.google.com/forms/d/e/1FAIpQLSf_KtmBmWQF7V1krXGIDjhoQf8F6ZsB8KGxfNSCCKyCNWN1YA/viewform?embedded=true"
+  src="https://docs.google.com/forms/d/e/1FAIpQLSdSHkXDvkWShmfFCVmNfra4oDlhITE8oNCLLT5EP1gUIdqvFg/viewform?embedded=true"
   class="w-100"
   width="700"
   height="2400"
