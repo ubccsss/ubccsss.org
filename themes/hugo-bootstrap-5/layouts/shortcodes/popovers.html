@@ -1,0 +1,2 @@
+{{ $script := resources.Get "js/popovers.js" | resources.Minify }}
+<script defer src="{{ $script.RelPermalink }}"></script>
