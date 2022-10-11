@@ -76,7 +76,7 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
       </div>
     </div>
     <div class="my-3">
-      <label for="github-issue-overall" class="form-label"
+      <label for="github-issue-quality" class="form-label"
         >Overall Course Quality*</label
       >
       <div class="d-flex gap-2">
@@ -86,11 +86,11 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
           min="1"
           max="5"
           step="0.5"
-          id="github-issue-overall"
-          oninput="document.getElementById('github-issue-overall-label').innerText = this.value"
+          id="github-issue-quality"
+          oninput="document.getElementById('github-issue-quality-label').innerText = this.value"
           required
         />
-        <small id="github-issue-overall-label" style="width: 3rem">3</small>
+        <small id="github-issue-quality-label" style="width: 3rem">3</small>
       </div>
     </div>
     <div
