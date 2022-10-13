@@ -18,7 +18,9 @@
 <article class="blog-post">
   {{ with .Description }}
     <hr />
-    {{ . }}
+    <p>
+      {{ . }}
+    </p>
   {{ end }}
   {{ with (index $.Site.Data.courseReviews .File.ContentBaseName)}}
     {{ $averageDifficulty := 0 }}
@@ -37,14 +39,11 @@
             {{end}}
         {{ end }}
     {{end}}
-    {{ if or (not (eq $averageDifficulty 0)) (not (eq $averageQuality 0)) }}
-      <hr />
-    {{end}}
     {{ if and (not (eq $averageDifficulty 0)) (not (eq $difficultyCount 0)) }}
-      <p style="margin-bottom: 0;">Average course difficulty: {{trim (div (float $averageDifficulty) (float $difficultyCount) | lang.FormatNumber 2)  ".0"}}/5</p>
+      <p class="mb-0">Average difficulty: {{trim (div (float $averageDifficulty) (float $difficultyCount) | lang.FormatNumber 2)  ".0"}}/5</p>
     {{end}}
     {{if and (not (eq $averageQuality 0)) (not (eq $qualityCount 0))}}
-      <p>Average course quality: {{trim (div (float $averageQuality) (float $qualityCount) | lang.FormatNumber 2) ".0" }}/5</p>
+      <p>Average quality: {{trim (div (float $averageQuality) (float $qualityCount) | lang.FormatNumber 2) ".0" }}/5</p>
     {{end}}
     {{ if or (not (eq $averageDifficulty 0)) (not (eq $averageQuality 0)) }}
       <hr />
