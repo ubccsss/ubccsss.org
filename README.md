@@ -113,8 +113,6 @@ Press Ctrl+C to stop
 
 ## Related
 
--   [ubccsss/exams](https://github.com/ubccsss/exams) - The site for our exam
-    database.
--   [ubccsss/tcf](https://github.com/ubccsss/tcf) - The website for the
-    Technical Career Fair.
--   [ubccsss/style](https://github.com/ubccsss/styles) - Our online style guide.
+- [ubccsss/exams](https://github.com/ubccsss/exams) - The site for our exam database.
+- [ubccsss/tcf](https://github.com/ubccsss/tcf) - The website for the Technical Career Fair.
+- [ubccsss/style](https://github.com/ubccsss/styles) - Our online style guide.
