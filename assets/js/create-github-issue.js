@@ -6,6 +6,9 @@ const WORKER_URL = form.dataset.workerurl;
 
 // call createGithubIssue if form is valid and display link to the new issue
 (() => {
+  document.getElementById("github-issue-year-taken").max =
+    new Date().getFullYear();
+
   form.addEventListener("submit", async (event) => {
     event.preventDefault();
     event.stopPropagation();
