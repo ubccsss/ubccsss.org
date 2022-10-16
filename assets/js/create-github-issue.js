@@ -50,6 +50,9 @@ const createGithubIssue = async () => {
   const review = document.getElementById("github-issue-review").value;
   const difficulty = document.getElementById("github-issue-difficulty").value;
   const quality = document.getElementById("github-issue-quality").value;
+  const sessionTaken =
+    document.getElementById("github-issue-year-taken").value +
+    document.getElementById("github-issue-session-taken").value;
 
   // check if reCAPTCHA has been completed
   const token = grecaptcha.getResponse();
@@ -75,6 +78,7 @@ const createGithubIssue = async () => {
           reference: reference,
           difficulty: difficulty,
           quality: quality,
+          sessionTaken: sessionTaken,
         },
       }),
     });

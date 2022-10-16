@@ -29,13 +29,12 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
       <div class="invalid-feedback">Please enter a name/username.</div>
     </div>
     <div class="my-3">
-      <label for="github-issue-reference" class="form-label">Reference*</label>
+      <label for="github-issue-reference" class="form-label">Attribution</label>
       <input
         class="form-control"
         type="url"
         id="github-issue-reference"
-        placeholder="link to the review or a link to your GitHub if this is your review"
-        required
+        placeholder="link to a personal website or GitHub, leave empty if you wish to remain anonymous"
       />
       <div class="invalid-feedback">
         Enter a valid url including the 'https://' prefix.
@@ -55,6 +54,31 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
       ></textarea>
       <div class="invalid-feedback">
         Please enter your course review. <b>[minimum length: 50 characters]</b>
+      </div>
+    </div>
+    <div class="my-3">
+      <label for="github-issue-session-taken" class="form-label"
+        >Session Taken*</label
+      >
+      <div class="input-group">
+        <input
+          type="number"
+          class="form-control"
+          placeholder="enter year the course was taken"
+          min="1908"
+          id="github-issue-year-taken"
+        />
+        <select
+          class="form-select"
+          aria-label="Choose a session"
+          required
+          id="github-issue-session-taken"
+        >
+          <option value="W1" selected>W1 (Fall)</option>
+          <option value="W2">W2 (Spring)</option>
+          <option value="S1">S1 (Summer Term 1)</option>
+          <option value="S2">S2 (Summer Term 2)</option>
+        </select>
       </div>
     </div>
     <div class="my-3">
@@ -104,3 +128,8 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
     </div>
   </form>
 </div>
+
+<script>
+  document.getElementById("github-issue-year-taken").max =
+    new Date().getFullYear();
+</script>
