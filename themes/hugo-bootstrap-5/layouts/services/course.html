@@ -18,13 +18,15 @@
 <article class="blog-post">
   {{ with .Description }}
     <hr />
-    {{ . }}
+    <p>
+      {{ . }}
+    </p>
   {{ end }}
   {{ with (index $.Site.Data.courseReviews .File.ContentBaseName)}}
-    {{$averageDifficulty := 0 }}
+    {{ $averageDifficulty := 0 }}
     {{ $difficultyCount := 0 }}
-    {{ $averageOverall := 0}}
-    {{ $overallCount := 0 }}
+    {{ $averageQuality := 0}}
+    {{ $qualityCount := 0 }}
     {{ range . }}
         {{range .}}
             {{if not (eq .difficulty 0)}} {{ $difficulty := .difficulty }}
@@ -32,24 +34,21 @@
                 {{ $difficultyCount = add $difficultyCount 1 }}
             {{end}}
             {{if not (eq .quality 0)}} {{ $quality := .quality }}
-                {{ $averageOverall = add $averageOverall $quality }}
-                {{$overallCount = add $overallCount 1 }}
+                {{ $averageQuality = add $averageQuality $quality }}
+                {{$qualityCount = add $qualityCount 1 }}
             {{end}}
         {{ end }}
     {{end}}
-    {{ if or (not (eq $averageDifficulty 0)) (not (eq $averageOverall 0)) }}
-      <hr />
-    {{end}}
     {{ if and (not (eq $averageDifficulty 0)) (not (eq $difficultyCount 0)) }}
-      <p style="margin-bottom: 0;">Average course difficulty: {{trim (div (float $averageDifficulty) (float $difficultyCount) | lang.FormatNumber 2)  ".0"}}/5</p>
+      <p class="mb-0">Average difficulty: {{trim (div (float $averageDifficulty) (float $difficultyCount) | lang.FormatNumber 2)  ".0"}}/5</p>
     {{end}}
-    {{if and (not (eq $averageOverall 0)) (not (eq $overallCount 0))}}
-      <p>Average course overall: {{trim (div (float $averageOverall) (float $overallCount) | lang.FormatNumber 2) ".0" }}/5</p>
+    {{if and (not (eq $averageQuality 0)) (not (eq $qualityCount 0))}}
+      <p>Average quality: {{trim (div (float $averageQuality) (float $qualityCount) | lang.FormatNumber 2) ".0" }}/5</p>
     {{end}}
-    {{ if or (not (eq $averageDifficulty 0)) (not (eq $averageOverall 0)) }}
+    {{ if or (not (eq $averageDifficulty 0)) (not (eq $averageQuality 0)) }}
       <hr />
     {{end}}
-    {{ if and (eq $averageDifficulty 0) (eq $averageOverall 0) }}
+    {{ if and (eq $averageDifficulty 0) (eq $averageQuality 0) }}
       <hr />
     {{end}}
   {{end}}

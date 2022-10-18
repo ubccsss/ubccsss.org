@@ -90,7 +90,7 @@ netlify.toml contains the configuration for the Netlify. `HUGO_ENV` is used to s
 To view the site locally, you need to clone this repository:
 
 ```bash
-git clone --recurse-submodules https://github.com/ubccsss/ubccsss.org.git
+git clone https://github.com/ubccsss/ubccsss.org.git
 ```
 
 You'll also need to
@@ -113,8 +113,6 @@ Press Ctrl+C to stop
 
 ## Related
 
--   [ubccsss/exams](https://github.com/ubccsss/exams) - The site for our exam
-    database.
--   [ubccsss/tcf](https://github.com/ubccsss/tcf) - The website for the
-    Technical Career Fair.
--   [ubccsss/style](https://github.com/ubccsss/styles) - Our online style guide.
+- [ubccsss/exams](https://github.com/ubccsss/exams) - The site for our exam database.
+- [ubccsss/tcf](https://github.com/ubccsss/tcf) - The website for the Technical Career Fair.
+- [ubccsss/style](https://github.com/ubccsss/styles) - Our online style guide.

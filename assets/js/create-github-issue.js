@@ -6,6 +6,9 @@ const WORKER_URL = form.dataset.workerurl;
 
 // call createGithubIssue if form is valid and display link to the new issue
 (() => {
+  document.getElementById("github-issue-year-taken").max =
+    new Date().getFullYear();
+
   form.addEventListener("submit", async (event) => {
     event.preventDefault();
     event.stopPropagation();
@@ -49,7 +52,10 @@ const createGithubIssue = async () => {
   const reference = document.getElementById("github-issue-reference").value;
   const review = document.getElementById("github-issue-review").value;
   const difficulty = document.getElementById("github-issue-difficulty").value;
-  const overall = document.getElementById("github-issue-overall").value;
+  const quality = document.getElementById("github-issue-quality").value;
+  const sessionTaken =
+    document.getElementById("github-issue-year-taken").value +
+    document.getElementById("github-issue-session-taken").value;
 
   // check if reCAPTCHA has been completed
   const token = grecaptcha.getResponse();
@@ -74,7 +80,8 @@ const createGithubIssue = async () => {
           review: review,
           reference: reference,
           difficulty: difficulty,
-          overall: overall,
+          quality: quality,
+          sessionTaken: sessionTaken,
         },
       }),
     });
