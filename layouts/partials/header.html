@@ -14,17 +14,6 @@
         <ul class="navbar-nav">
           {{ $url := .RelPermalink | relLangURL }}
           {{ range .Site.Menus.main }}
-            {{ if eq .Name "Databases" }}
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="databaseDropdownLink" role="button" data-bs-toggle="dropdown">
-                  Databases
-                </a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="/services/exams">Exams</a></li>
-                  <li><a class="dropdown-item" href="/services/courses">Course Reviews</a></li>
-                </ul>
-              </li>
-            {{ else }}
               <li class="nav-item">
                 {{ if eq (hasPrefix .URL "mailto:") true }}
                   <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
@@ -33,7 +22,6 @@
                   <a class="nav-link {{ if eq $url $menuUrl }}active{{end}}" href="{{ $menuUrl }}">{{ .Name }}</a>
                 {{ end }}
               </li>
-            {{ end }}
           {{ end }}
         </ul>
         {{ if gt (len .Site.Home.AllTranslations) 1 }}
