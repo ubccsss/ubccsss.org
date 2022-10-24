@@ -7,6 +7,8 @@ Website for the UBC Computer Science Student Society.
 We welcome contributions of any kind including pages, suggestions, bug reports,
 pull requests etc. We would love to hear from you.
 
+Additional documentation can be found in the [`docs`](./docs) folder.
+
 ### Add a new event
 
 Create a new event from the template using the `hugo new` command. Replace "2021-01-01" with the day of the event, and "cool-event" with the URL for the event. The URL should be lowercase.
