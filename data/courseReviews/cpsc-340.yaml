@@ -1,0 +1,17 @@
+reviews:
+  - author: Tommy
+    authorLink:
+    date: 2022-10-25
+    review: |
+      The course is amazing. Great material, stimulating assignments that are moderately challenging, and great teaching. I would definitely recommend getting solid foundations in Matrix stuff (either reviewing MATH 221 material, or even taking MATH 307 (I strongly recommend this)) before taking this course. Waitlists are long, but it gets cleared almost every year, so don't lose hope and make sure to work on A1 during the time you're waiting!
+    difficulty: 4.5
+    quality: 5
+    sessionTaken: 2021W2
+  - author: nitahieb
+    authorLink:
+    date: 2022-10-25
+    review: |
+       I thought it was a really good course, it teaches you about a lot about machine learning as a whole. It goes over a lot of the fundamentals but also has some focus on the more modern methods later into the course. We were able to have cheat sheets on the exam, so generally the course was a lot more focused on critical thinking as opposed to memorization. The exams and assignments felt fair, it was just a lot of work.  It is very math heavy, so be comfortable with linear algebra.
+    difficulty: 4.5
+    quality: 4.5
+    sessionTaken: 2021W1
