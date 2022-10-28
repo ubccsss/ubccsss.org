@@ -1,0 +1,9 @@
+reviews:
+  - author: Michael DeMarco
+    authorLink: https://michaeldemar.co
+    date: 2022-10-25
+    review: |
+      Strikingly similar to CPSC 121 in terms of course structure, but on more advanced topics (e.g., DP, greedy, etc.). Course was well ran and assignments were challenging, but fair.
+    difficulty: 4
+    quality: 4.5
+    sessionTaken: 2021W1

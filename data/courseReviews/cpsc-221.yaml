@@ -1,4 +1,12 @@
 reviews:
+  - author: Shubh
+    authorLink:
+    date: 2022-10-25
+    review: |
+      Great intro to Data Structure and Algorithms course. Prepares you for basic Technical interviews. Loved the prof (Cinda Heeran) and rate her 5/5.
+    difficulty: 3
+    quality: 5
+    sessionTaken: 2021W2
   - author: 2020 CPSC 221 TA 
     authorLink: https://github.com/Frozemint
     date: 2020-08-26

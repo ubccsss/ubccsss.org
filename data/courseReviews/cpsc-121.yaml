@@ -1,0 +1,33 @@
+reviews:
+  - author: Stephanie Ho
+    authorLink:
+    date: 2022-10-25
+    review: |
+      The course was logical and no coding was required. Tutorials are super helpful to gain a better understanding on the course material. In labs, we worked in pairs and it was a good experience to meet new people in CS but it was a definitely a time crunch. Make sure to set aside plenty of time for assignments.
+    difficulty: 1.5
+    quality: 5
+    sessionTaken: 2021W2
+  - author: Leila
+    authorLink:
+    date: 2022-10-25
+    review: |
+      Interesting course that is actually more about logic rather than actual programming. Not too hard, but definitely requires a lot of studying
+    difficulty: 3.5
+    quality: 3.5
+    sessionTaken: 2022W2
+  - author: cinadia
+    authorLink:
+    date: 2022-10-25
+    review: |
+      Covers extremely important CS and mathematical concepts, but I found the course to be poorly structured *compared to* other CS courses. Material in labs seemed completely unrelated to lecture. Professors are great though, funny, caring, hold excellent office hours. Course can be quite challenging for those who struggle with logical thinking. Find a good assignment partner!!
+    difficulty: 5
+    quality: 4
+    sessionTaken: 2021W1
+  - author: pilatus14a
+    authorLink:
+    date: 2022-10-25
+    review: |
+      Confusing but fun. Keep doing the work and you will get an A
+    difficulty: 4.5
+    quality: 4.5
+    sessionTaken: 2019W2
