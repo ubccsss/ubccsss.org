@@ -31,3 +31,11 @@ reviews:
     difficulty: 4.5
     quality: 4.5
     sessionTaken: 2019W2
+  - author: Sss
+    authorLink: 
+    date: 2022-11-03
+    review: |
+      Did not like this course personally. A lot of proofs and boolean algebra. Also Hated using LaTeX for the assignments.
+    difficulty: 3.5
+    quality: 3
+    sessionTaken: 2019W2
