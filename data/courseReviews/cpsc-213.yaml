@@ -1,0 +1,9 @@
+reviews:
+  - author: averagestudent
+    authorLink: 
+    date: 2022-11-03
+    review: |
+      This course teaches a lot about how computers work on the hardware side and how low level code works. Fun course that teaches you a lot but not an easy one for sure. I liked the concepts of deadlocks the most. Took this course with Robert Xiao and had a great time!
+    difficulty: 4
+    quality: 5
+    sessionTaken: 2020W2
