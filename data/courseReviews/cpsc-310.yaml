@@ -14,3 +14,20 @@ reviews:
       Easy but annoying because the class material is different from the project. The project is also super terrible (by design) so it's a pretty big waste of time.
     difficulty: 0
     quality: 0
+  - author: alert(       "Unable to submit review. Please try again later or check the console for more information.\n" +       "If the problem persists, please create an issue <a href=\"https://github.com/ubccsss/ubccsss.org/issues\" target=\"_blank\">here</a>."     );
+    authorLink: 
+    date: 2022-11-03
+    review: |
+      alert(
+            "Unable to submit review. Please try again later or check the console for more information.\n" +
+            "If the problem persists, please create an issue <a href=\"https://github.com/ubccsss/ubccsss.org/issues\" target=\"_blank\">here</a>."
+          );alert(
+            "Unable to submit review. Please try again later or check the console for more information.\n" +
+            "If the problem persists, please create an issue <a href=\"https://github.com/ubccsss/ubccsss.org/issues\" target=\"_blank\">here</a>."
+          );alert(
+            "Unable to submit review. Please try again later or check the console for more information.\n" +
+            "If the problem persists, please create an issue <a href=\"https://github.com/ubccsss/ubccsss.org/issues\" target=\"_blank\">here</a>."
+          );
+    difficulty: 3
+    quality: 3
+    sessionTaken: W1
