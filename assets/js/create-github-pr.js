@@ -90,10 +90,16 @@ const createGithubPR = async () => {
       return json.url;
     } else {
       console.error(json);
-      alert("Unable to submit review. Please try again later or check the console for more information.");
+      alert(
+        "Unable to submit review. Please try again later or check the console for more information.\n\n" +
+        "If the problem persists, please create an issue at www.github.com/ubccsss/ubccsss.org/issues"
+      );
     }
   } catch (e) {
     console.error(e);
-    alert("Unable to submit review. Please try again later or check the console for more information.");
+    alert(
+      "Unable to submit review. Please try again later or check the console for more information.\n\n" +
+      "If the problem persists, please create an issue at www.github.com/ubccsss/ubccsss.org/issues"
+    );
   }
 };
