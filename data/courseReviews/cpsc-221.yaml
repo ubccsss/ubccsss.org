@@ -14,3 +14,11 @@ reviews:
       An introductionary course into algorithms and data structures, such as sorting algorithms, and linked list. The class covers the basics, so not a lot of prior knowledge is required. Most importantly, this is the first class that introduces asymptotics notation (big O notation, like `O(n)`) and using them for algorithm analysis formally, so this could be handy for job interviews. You also learn about C++ and pointers.
     difficulty: 0
     quality: 0
+  - author: Eugene
+    authorLink: 
+    date: 2022-11-04
+    review: |
+      Introduction to algorithm design. The course can be difficult and the assignments can be time consuming. Make sure to study well for this one.
+    difficulty: 4
+    quality: 5
+    sessionTaken: 2019W1
