@@ -1,14 +1,13 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="{{ .Lang }}">
   <head>
     {{ partial "head-meta" . }}
 
-    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="canonical" href="{{ .Permalink }}" />
 
     <title>
-      {{ block "title" . }}
-        {{ .Title}}{{ if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}
-      {{ end }}
+      {{ block "title" . }} {{ .Title}}{{ if ne .Title .Site.Title }} | {{
+      .Site.Title }}{{ end }} {{ end }}
     </title>
 
     <!-- Bootstrap CSS -->
@@ -19,43 +18,31 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
-    
-    <link href='{{ "css/style.css" | relURL }}' rel="stylesheet">
+
+    <link href='{{ "css/style.css" | relURL }}' rel="stylesheet" />
 
     {{ range .AlternativeOutputFormats -}}
-    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
-    {{ end -}}
-
-    {{ template "_internal/google_analytics_async.html" . }}
-
-    {{ partial "head-custom.html" . }}
+    <link
+      rel="{{ .Rel }}"
+      type="{{ .MediaType.Type }}"
+      href="{{ .Permalink | safeURL }}"
+    />
+    {{ end -}} {{ template "_internal/google_analytics_async.html" . }} {{
+    partial "head-custom.html" . }}
   </head>
   <body>
-    {{ block "header" . }}
-      {{ partial "header" . }}
-    {{ end }}
-
-    {{ partial "newsletter" }}
-
-    {{ block "body" . }}
+    {{ block "header" . }} {{ partial "header" . }} {{ end }} {{ partial
+    "newsletter" }} {{ block "body" . }}
     <div class="container">
       <div class="row">
         <div class="col-12 col-lg-8 blog-main">
-
-          {{ block "main" . }}
-          {{ end }}
-
+          {{ block "main" . }} {{ end }}
         </div>
 
         {{ partial "sidebar.html" . }}
-
       </div>
     </div>
-    {{ end }}
-
-    {{ block "footer" . }}
-      {{ partial "footer" . }}
-    {{ end }}
+    {{ end }} {{ block "footer" . }} {{ partial "footer" . }} {{ end }}
 
     <!-- Bootstrap and Popper -->
     <script 
