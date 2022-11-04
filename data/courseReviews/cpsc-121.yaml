@@ -39,3 +39,13 @@ reviews:
     difficulty: 3.5
     quality: 3
     sessionTaken: 2019W2
+  - author: Eugene
+    authorLink: 
+    date: 2022-11-04
+    review: |
+      - important topics
+      - course content can be difficult like the proofs
+      - there is a big time investment needed to do work and have solid understanding
+    difficulty: 4
+    quality: 3.5
+    sessionTaken: 2017W2
