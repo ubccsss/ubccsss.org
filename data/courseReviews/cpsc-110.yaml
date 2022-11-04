@@ -1,0 +1,49 @@
+reviews:
+  - author: cinadia
+    authorLink:
+    date: 2022-10-25
+    review: |
+      Course is extremely well structured. Instructors are very friendly, helpful, and engaging. Concepts behind the material are definitely needed for future courses, so be sure you thoroughly understand the topics! Gets expontentially difficult towards the end, so be ready to put in the work!
+    difficulty: 3.5
+    quality: 5
+    sessionTaken: 2021W1
+  - author: Leila
+    authorLink:
+    date: 2022-10-25
+    review: |
+      Pretty hard course. It helps a lot if you already have an experience in coding, but otherwise, struggled with workload , and especially some problem sets. Wouldn’t say that the profs were very helpful, mostly self studying
+    difficulty: 5
+    quality: 3.5
+    sessionTaken: 2021W1
+  - author: Stephanie Ho
+    authorLink:
+    date: 2022-10-25
+    review: |
+      As someone with no previous experience in programming, this course was definitely challenging but fun. Would recommend setting aside 10-15 hours for this course per week.
+    difficulty: 4.5
+    quality: 5
+    sessionTaken: 2021W1
+  - author: ying
+    authorLink:
+    date: 2022-10-25
+    review: |
+      Heavy workload; students usually spend at least a few hours per day on it because of the large amount of practice problems, pre-lecture work, and homework. Heavy emphasis on "design recipes" which are basically guidelines for programming; although there is a sometimes unpleasant rigidity present in the coursework because of this, the concepts taught are interesting. The overall gist of the material is not too hard to understand but to get every detail right is very hard. It uses a barebones programming language not commonly used professionally. Something really annoying about it is you have to watch a few hours' worth of videos before every lecture, and sometimes these videos are outdated and don't contain correct information - the professors correct the information during lectures. The professors and TAs respond pretty quickly on Piazza, though. Overall, a pretty unique course quite unlike other introductory programming courses.
+    difficulty: 4
+    quality: 4
+    sessionTaken: 2022W1
+  - author: student
+    authorLink:
+    date: 2022-10-25
+    review: |
+      The course teaches about BSL.  There are a lot of contents included so taking time to practice is really important to do well in this course.
+    difficulty: 4
+    quality: 5
+    sessionTaken: 2022W1
+  - author: 110student
+    authorLink: 
+    date: 2022-10-17
+    review: |
+      The course was a bit on the harder side. the language that they teach is very different than what is usually used in the industry. Make sure to give this course a lot of time per week to excel in it!
+    difficulty: 4
+    quality: 4
+    sessionTaken: 2019W1

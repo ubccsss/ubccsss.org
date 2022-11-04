@@ -1,12 +1,12 @@
-const form = document.getElementById("github-issue-form");
-const createIssueButton = document.getElementById("github-issue-btn");
+const form = document.getElementById("github-pr-form");
+const createPRButton = document.getElementById("github-pr-btn");
 
 // see ./config/[env]/params.yml for different urls used for different environments
 const WORKER_URL = form.dataset.workerurl;
 
-// call createGithubIssue if form is valid and display link to the new issue
+// call createGithubPR if form is valid and display link to the new PR
 (() => {
-  document.getElementById("github-issue-year-taken").max =
+  document.getElementById("github-pr-year-taken").max =
     new Date().getFullYear();
 
   form.addEventListener("submit", async (event) => {
@@ -14,15 +14,15 @@ const WORKER_URL = form.dataset.workerurl;
     event.stopPropagation();
 
     // disable button to prevent multiple submissions while waiting for response
-    createIssueButton.disabled = true;
+    createPRButton.disabled = true;
 
     form.classList.add("was-validated");
 
-    // if form is valid, create issue
+    // if form is valid, create PR
     if (form.checkValidity()) {
-      const url = await createGithubIssue();
+      const url = await createGithubPR();
       if (!url) {
-        createIssueButton.disabled = false;
+        createPRButton.disabled = false;
         return;
       }
       form.style.display = "none";
@@ -36,26 +36,26 @@ const WORKER_URL = form.dataset.workerurl;
       p.appendChild(link);
       div.appendChild(p);
     } else {
-      createIssueButton.disabled = false;
+      createPRButton.disabled = false;
     }
   });
 })();
 
 /**
- * Makes POST request to Cloudflare worker to create a new issue on GitHub
+ * Makes POST request to Cloudflare worker to create a new PR on GitHub
  * if error, displays error message, logs error to console
  * otherwise, displays success message
  */
-const createGithubIssue = async () => {
+const createGithubPR = async () => {
   const course = form.dataset.course;
-  const user = document.getElementById("github-issue-user").value;
-  const reference = document.getElementById("github-issue-reference").value;
-  const review = document.getElementById("github-issue-review").value;
-  const difficulty = document.getElementById("github-issue-difficulty").value;
-  const quality = document.getElementById("github-issue-quality").value;
+  const user = document.getElementById("github-pr-user").value;
+  const reference = document.getElementById("github-pr-reference").value;
+  const review = document.getElementById("github-pr-review").value;
+  const difficulty = document.getElementById("github-pr-difficulty").value;
+  const quality = document.getElementById("github-pr-quality").value;
   const sessionTaken =
-    document.getElementById("github-issue-year-taken").value +
-    document.getElementById("github-issue-session-taken").value;
+    document.getElementById("github-pr-year-taken").value +
+    document.getElementById("github-pr-session-taken").value;
 
   // check if reCAPTCHA has been completed
   const token = grecaptcha.getResponse();
@@ -65,7 +65,7 @@ const createGithubIssue = async () => {
   }
 
   try {
-    const issue = await fetch(WORKER_URL, {
+    const pr = await fetch(WORKER_URL, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -85,17 +85,21 @@ const createGithubIssue = async () => {
         },
       }),
     });
-    const json = await issue.json();
-    if (issue.ok) {
+    const json = await pr.json();
+    if (pr.ok) {
       return json.url;
     } else {
-      console.error("Error validating reCAPTCHA:", json.errors);
-      alert("Error valdiating reCAPTCHA. Check console for details.");
+      console.error(json);
+      alert(
+        "Unable to submit review. Please try again later or check the console for more information.\n\n" +
+        "If the problem persists, please create an issue at www.github.com/ubccsss/ubccsss.org/issues"
+      );
     }
   } catch (e) {
     console.error(e);
     alert(
-      "Unable to submit review. Please try again later or check the console for more information."
+      "Unable to submit review. Please try again later or check the console for more information.\n\n" +
+      "If the problem persists, please create an issue at www.github.com/ubccsss/ubccsss.org/issues"
     );
   }
 };

@@ -1,4 +1,12 @@
 reviews:
+  - author: 310isgood
+    authorLink: 
+    date: 2022-11-01
+    review: |
+      The lecture content is not that hard. The main project though is very tedious and if you do not know TypeScript or Promises then there is a very steep learning curve. Try to give a lot of time to the project and start early!
+    difficulty: 4
+    quality: 3
+    sessionTaken: 2022W1
   - author: Positivelectron0
     authorLink: https://www.reddit.com/r/UBC/comments/ncltx2/comment/gy65jdk/?utm_source=share&utm_medium=web2x&context=3
     date: 2021-05-14

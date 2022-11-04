@@ -1,0 +1,17 @@
+reviews:
+  - author: cinadia
+    authorLink: 
+    date: 2022-10-25
+    review: |
+      Well-structured course. Concepts covered are very valuable for the workplace, job interviews, and general software engineering. Instructors are attentive, engaging, and fun. Felix especially! 
+    difficulty: 3.5
+    quality: 5
+    sessionTaken: 2022W2
+  - author: ubcstudent1
+    authorLink:
+    date: 2022-10-25
+    review: |
+      fun and relaxing course
+    difficulty: 3
+    quality: 5
+    sessionTaken: 2020W1

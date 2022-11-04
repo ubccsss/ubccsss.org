@@ -15,14 +15,19 @@ main:
     name: Services
     url: /services/
     weight: -110
-  - identifier: databases
-    name: Databases
+  - identifier: exams
+    name: Past Exams 
+    url: /services/exams/
     weight: -100
+  - identifier: courses
+    name: Course Reviews 
+    url: /services/courses/
+    weight: -90
   - identifier: clubs
     name: Clubs
     url: /about/clubs/
-    weight: -90
+    weight: -80
   - identifier: contact
     name: Contact
     url: /contact/
-    weight: -80
+    weight: -70
