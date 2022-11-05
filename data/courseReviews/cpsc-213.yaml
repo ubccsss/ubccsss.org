@@ -7,3 +7,11 @@ reviews:
     difficulty: 4
     quality: 5
     sessionTaken: 2020W2
+  - author: lolmaker
+    authorLink: 
+    date: 2022-11-05
+    review: |
+      Was quite fun. Assembly was a bit annoying at first, and it remained annoying unfortunately. But, It was interesting. I recommend to all CS students.
+    difficulty: 4.5
+    quality: 3.5
+    sessionTaken: 2020W1
