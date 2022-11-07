@@ -20,3 +20,11 @@ reviews:
       A fairly interesting course that covers the basics of internet computing. The course goes over each of the five layers of the internet and focuses on a few select protocols from each layer (HTTP, SMTP, POP3, IMAP, DNS, TCP, IP, DHCP, BGP, VPN, TLS etc.). Jonatan Schroeder (currently at York University) is a great professor who explains the concepts very thoroughly. Beware that there is going to be a lot of technical documentation reading (RFCs) for assignments and the quizzes/exams focus quite heavily on conceptual understanding.
     difficulty: 0
     quality: 0
+  - author: Eugene
+    authorLink: 
+    date: 2022-11-07
+    review: |
+      Very interesting and practical class. You learn a lot ablut networking while doing interesting assignments. Can be on tge kore difficult side in some sections
+    difficulty: 3.5
+    quality: 5
+    sessionTaken: 2020W1
