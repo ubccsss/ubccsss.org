@@ -20,8 +20,10 @@ const WORKER_URL = form.dataset.workerurl;
 
     // if form is valid, create PR
     if (form.checkValidity()) {
+      createPRButton.innerHTML = `<div class="spinner-border spinner-border-sm" role="status"><span class="visually-hidden">Loading...</span></div>`;
       const url = await createGithubPR();
       if (!url) {
+        createPRButton.innerHTML = "Submit";
         createPRButton.disabled = false;
         return;
       }
@@ -35,6 +37,7 @@ const WORKER_URL = form.dataset.workerurl;
       link.target = "_blank";
       p.appendChild(link);
       div.appendChild(p);
+      createPRButton.innerHTML = "Submit";
     } else {
       createPRButton.disabled = false;
     }
@@ -92,14 +95,14 @@ const createGithubPR = async () => {
       console.error(json);
       alert(
         "Unable to submit review. Please try again later or check the console for more information.\n\n" +
-        "If the problem persists, please create an issue at www.github.com/ubccsss/ubccsss.org/issues"
+          "If the problem persists, please create an issue at www.github.com/ubccsss/ubccsss.org/issues"
       );
     }
   } catch (e) {
     console.error(e);
     alert(
       "Unable to submit review. Please try again later or check the console for more information.\n\n" +
-      "If the problem persists, please create an issue at www.github.com/ubccsss/ubccsss.org/issues"
+        "If the problem persists, please create an issue at www.github.com/ubccsss/ubccsss.org/issues"
     );
   }
 };

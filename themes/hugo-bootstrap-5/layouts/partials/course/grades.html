@@ -1,13 +1,22 @@
-{{ $script := resources.Get "js/grades-api.js" | resources.Minify }}
-{{ $parts := split .File.ContentBaseName "-" }}
-{{ $subject := index $parts 0 | upper }}
+{{ $script := resources.Get "js/grades-api.js" | resources.Minify }} {{ $parts
+:= split .File.ContentBaseName "-" }} {{ $subject := index $parts 0 | upper }}
 {{ $course := index $parts 1 }}
+<hr style="margin: 2rem 0" />
 <h3>Historical grade information</h3>
-<dl class="grades-api row mb-2" data-subject="{{ $subject }}" data-course="{{ $course }}"></dl>
+<dl
+  class="grades-api row mb-2"
+  data-subject="{{ $subject }}"
+  data-course="{{ $course }}"
+></dl>
 <p class="grades-api__attribution">
   <small>
     Grades information from
-    <a href="https://ubcgrades.com/statistics-by-course#UBCV-{{ $subject }}-{{ $course }}" target="_blank">UBC Grades Database</a>
+    <a
+      href="https://ubcgrades.com/statistics-by-course#UBCV-{{ $subject }}-{{ $course }}"
+      target="_blank"
+      >UBC Grades Database</a
+    >
   </small>
 </p>
+<hr style="margin: 2rem 0" />
 <script async defer src="{{ $script.RelPermalink }}"></script>
