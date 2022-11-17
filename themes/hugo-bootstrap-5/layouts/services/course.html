@@ -17,9 +17,9 @@
 </header>
 <article class="blog-post">
   {{ with .Description }}
-    <hr />
+    <hr style="margin: 2rem 0" />
     <p>
-      {{ . }}
+        <em>Course description:</em> {{ . }}
     </p>
   {{ end }}
   {{ with (index $.Site.Data.courseReviews .File.ContentBaseName)}}
@@ -45,11 +45,12 @@
     {{if and (not (eq $averageQuality 0)) (not (eq $qualityCount 0))}}
       <p>Average quality: {{trim (div (float $averageQuality) (float $qualityCount) | lang.FormatNumber 2) ".0" }}/5</p>
     {{end}}
+    <a class="btn btn-primary" href="#review-div" role="button">Write your own review below!</a>
     {{ if or (not (eq $averageDifficulty 0)) (not (eq $averageQuality 0)) }}
-      <hr />
+      <hr style="margin: 2rem 0" />
     {{end}}
     {{ if and (eq $averageDifficulty 0) (eq $averageQuality 0) }}
-      <hr />
+      <hr style="margin: 2rem 0" />
     {{end}}
   {{end}}
   {{ if (index $.Site.Data.courseReviews .File.ContentBaseName) }}
@@ -60,7 +61,8 @@
         <br/>
      {{end}}
   {{else}}
-  <hr/>
+  <a class="btn btn-primary" href="#review-div" role="button">Write your own review below!</a>
+  <hr style="margin: 2rem 0"/>
   No reviews yet - please add yours below! <br /><br />
   {{ end }}
   {{ if .IsTranslated }}
@@ -74,9 +76,9 @@
   </ul>
   {{ end }} {{ partial "related" . }}
 
-  <br />
+  {{ partial "course/grades" . }}
 
-  {{ partial "course/grades" . }} {{ partial "related-form" . }}
+  {{ partial "related-form" . }}
 </article>
 
 {{ end }}

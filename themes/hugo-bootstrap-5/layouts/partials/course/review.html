@@ -1,5 +1,7 @@
 {{range . }}
-<blockquote style="margin-top: 20px">{{ .review | markdownify }}</blockquote>
+<blockquote style="margin-top: 20px; word-wrap: break-word">
+  {{ .review | markdownify }}
+</blockquote>
 {{if not (eq .difficulty 0)}}
 <p style="margin-bottom: 0">Difficulty: {{.difficulty}}/5</p>
 {{end}} {{if not (eq .quality 0)}}
