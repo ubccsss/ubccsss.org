@@ -49,3 +49,11 @@ reviews:
     difficulty: 4
     quality: 3.5
     sessionTaken: 2017W2
+  - author: proofbyinduction
+    authorLink: 
+    date: 2022-11-17
+    review: |
+      The course covers a wide range of material, including propositional logic, proofs, and circuit diagrams. I found the course pace and progression quite reasonable. I especially enjoyed the labs - the content builds up from simple AND gates to simulating an entire CPU. Assignments and tutorials are very useful for building a deeper understanding of the topics!
+    difficulty: 4
+    quality: 4.5
+    sessionTaken: 2021W2
