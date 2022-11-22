@@ -19,7 +19,7 @@
   {{ with .Description }}
     <hr style="margin: 2rem 0" />
     <p>
-        <em>Course description:</em> {{ . }}
+        <em><b>Course description:</b></em> {{ . }}
     </p>
   {{ end }}
   {{ with (index $.Site.Data.courseReviews .File.ContentBaseName)}}
