@@ -1,4 +1,12 @@
 reviews:
+  - author: Arman
+    authorLink: https://github.com/armanmoztar
+    date: 2022-11-25
+    review: |
+      Enjoyed the course and the way it was structured. Content is pretty interesting and not too bad to learn, but the assignments can be challenging. All in all good course with goated profs.
+    difficulty: 4
+    quality: 5
+    sessionTaken: 2021W2
   - author: Shubh
     authorLink:
     date: 2022-10-25
