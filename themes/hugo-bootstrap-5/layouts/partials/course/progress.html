@@ -1,0 +1,17 @@
+{{/*  https://blog.anantshri.info/concatinating-strings-in-hugo/  */}}
+{{ $width := printf "%s" "%" | printf "%f%s" (mul (div (float .val) (5) ) (100)) | printf "%s%s" "width:" | printf "%s"}}
+{{ $color := .color | default "bg-success" }}
+{{ if not (isset . "color")}}
+    {{ if lt .val 3 }}
+        {{ $color = "bg-danger" }}
+    {{ else if lt .val 4 }}
+        {{ $color = "bg-warning" }}
+    {{ end }}
+{{ end }}
+
+<em>
+    <b>{{ .label }}</b>
+</em>
+<div class="progress" style="height: 25px">
+    <div class="progress-bar {{ $color }}" role="progressbar" style={{ $width }}>{{ .val }} / 5</div>
+</div>
