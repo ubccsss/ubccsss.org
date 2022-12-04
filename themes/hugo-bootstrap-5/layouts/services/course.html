@@ -19,8 +19,9 @@
             {{ with .Description }}
             <p class="card-text">
                 <em>
-                    <b>Course description:</b>
+                    <b>Course description</b>
                 </em>
+                <br>
                 {{ . }}
             </p>
             {{ end }}
@@ -45,7 +46,7 @@
                 {{ if and (not (eq $averageDifficulty 0)) (not (eq $difficultyCount 0)) }}
                 <div class="col pb-4">
                     {{ $val := trim (div (float $averageDifficulty) (float $difficultyCount) | lang.FormatNumber 2)  ".0" }}
-                    {{ partial "course/progress.html" (dict "val" $val "label" "Average difficulty:" "color" "bg-secondary") }}
+                    {{ partial "course/progress.html" (dict "val" $val "label" "Average difficulty" "color" "bg-secondary") }}
                 </div>
                 {{end}}
                 {{if and (not (eq $averageQuality 0)) (not (eq $qualityCount 0))}}
