@@ -6,8 +6,7 @@
     <link rel="canonical" href="{{ .Permalink }}" />
 
     <title>
-      {{ block "title" . }} {{ .Title}}{{ if ne .Title .Site.Title }} | {{
-      .Site.Title }}{{ end }} {{ end }}
+        UBC Technical Career Fair 2023
     </title>
 
     <!-- Bootstrap CSS -->
@@ -51,10 +50,10 @@
               <i class="bi-list"></i>
           </button>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">About</a></li>
-            <li><a class="dropdown-item" href="#">Companies</a></li>
-            <li><a class="dropdown-item" href="#">Event Info</a></li>
-            <li><a class="dropdown-item" href="#">FAQ</a></li>
+            <li><a class="dropdown-item" href="/tcf#about">About</a></li>
+            <li><a class="dropdown-item" href="/tcf/companies">Companies</a></li>
+            <li><a class="dropdown-item" href="/tcf#event-info">Event Info</a></li>
+            <li><a class="dropdown-item" href="/tcf#faq">FAQ</a></li>
           </ul>
     </div>
     <div class="hero-header py-6">
@@ -63,9 +62,9 @@
           <p class="hero-header-text pt-5">UBC CSSS presents...</p>
           <h1 class="display-1 fw-bold">TCF 2023</h1>
           <div class="d-flex pt-3 flex-row gap-3 justify-content-center">
-            <button class="btn btn-light">
+            <a href="/tcf/companies" class="btn btn-light">
               <i class="bi-people"></i> See companies
-            </button>
+            </a>
             <div class="dropdown">
               <button
                 class="btn btn-light dropdown-toggle"
@@ -97,7 +96,7 @@
         </div>
       </div>
     </div>
-    <div class="container">
+    <div class="container" id="about">
       <div class="row pt-3">
         <div class="col">
           <h1>Lorem ipsum dolor sit amet!</h1>
@@ -106,9 +105,9 @@
             eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
           <div class="d-flex flex-row gap-2">
-            <button class="btn btn-outline-primary">
+            <a href="/tcf#faq" class="btn btn-outline-primary">
               <i class="bi-question-circle"></i> See FAQ
-            </button>
+            </a>
           </div>
         </div>
         <div class="col">
@@ -127,6 +126,7 @@
         {{ if .Params.imageLink }}
         <div class="col-3">
           <div class="card w-100">
+              <a href="{{ .RelPermalink }}" class="position-absolute w-100 h-100"></a>
             <img
               class="card-img-top img-fluid"
               src="{{ .Params.imageLink }}"
@@ -153,7 +153,7 @@
         >
       </div>
     </div>
-    <div class="container">
+    <div class="container" id="event-info">
       <h1 class="text-center">Location + Event Map</h1>
       <p>The TCF will take place at ...</p>
       <div class="row gap-3">
@@ -173,7 +173,7 @@
         </div>
       </div>
     </div>
-    <div class="container background-blue">
+    <div class="container background-blue" id="faq">
       <h1 class="text-center">Code of Conduct + FAQ</h1>
       <div class="row pt-3">
         <div class="col">
