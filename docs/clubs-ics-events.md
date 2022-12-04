@@ -3,7 +3,7 @@
 ## Background
 Our [clubs page](https://ubccsss.org/about/clubs/) has a club calendar. Its intention is to collect all CS-related events at UBC and to be a central events calendar for all CS-related clubs.
 
-Under the hood, it uses [open-web-calendar.herokuapp.com](https://open-web-calendar.herokuapp.com/) to display events. It automatically pulls from our own events, hosted at [/events/index.ics](https://ubccsss.org/events/index.ics), which is itself automatically generated when we add new events to the website (see main repository README).
+Under the hood, it uses [open-web-calendar](https://open-web-calendar.hosted.quelltext.eu/) to display events. It automatically pulls from our own events, hosted at [/events/index.ics](https://ubccsss.org/events/index.ics), which is itself automatically generated when we add new events to the website (see main repository README).
 
 Other club executives can request that their club events be added as well by contacting a CSSS exec. Please ask them to provide a hosted ICS file (i.e. Google Calendar or Outlook) so events are automatically updated.
 
