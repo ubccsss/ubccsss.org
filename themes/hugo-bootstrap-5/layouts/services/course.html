@@ -1,84 +1,90 @@
 {{ define "main" }}
-
 <header>
-  <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
-      {{ partial "breadcrumb/chain" .Parent }}
-      <li class="breadcrumb-item active" aria-current="page">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            {{ partial "breadcrumb/chain" .Parent }}
+            <li class="breadcrumb-item active" aria-current="page">
+                {{ replace (upper .File.ContentBaseName) "-" " " }}
+            </li>
+        </ol>
+    </nav>
+    <h1 class="blog-post-title">
         {{ replace (upper .File.ContentBaseName) "-" " " }}
-      </li>
-    </ol>
-  </nav>
-
-  <h1 class="blog-post-title">
-    {{ replace (upper .File.ContentBaseName) "-" " " }}
-  </h1>
-  <h3 class="blog-post-title mb-0">{{ .Title | markdownify }}</h3>
+    </h1>
+    <h3 class="blog-post-title mb-0">{{ .Title | markdownify }}</h3>
 </header>
-<article class="blog-post">
-  {{ with .Description }}
-    <hr style="margin: 2rem 0" />
-    <p>
-        <em><b>Course description:</b></em> {{ . }}
-    </p>
-  {{ end }}
-  {{ with (index $.Site.Data.courseReviews .File.ContentBaseName)}}
-    {{ $averageDifficulty := 0 }}
-    {{ $difficultyCount := 0 }}
-    {{ $averageQuality := 0}}
-    {{ $qualityCount := 0 }}
-    {{ range . }}
-        {{range .}}
-            {{if not (eq .difficulty 0)}} {{ $difficulty := .difficulty }}
-                {{ $averageDifficulty = add $averageDifficulty $difficulty }}
-                {{ $difficultyCount = add $difficultyCount 1 }}
+<article class="blog-post py-4">
+    <div class="card" style="background-color: #fcfcfc">
+        <div class="card-body">
+            {{ with .Description }}
+            <p class="card-text">
+                <em>
+                    <b>Course description</b>
+                </em>
+                <br>
+                {{ . }}
+            </p>
+            {{ end }}
+            {{ with (index $.Site.Data.courseReviews .File.ContentBaseName)}}
+            {{ $averageDifficulty := 0 }}
+            {{ $difficultyCount := 0 }}
+            {{ $averageQuality := 0}}
+            {{ $qualityCount := 0 }}
+            {{ range . }}
+                {{range .}}
+                    {{if not (eq .difficulty 0)}} {{ $difficulty := .difficulty }}
+                        {{ $averageDifficulty = add $averageDifficulty $difficulty }}
+                        {{ $difficultyCount = add $difficultyCount 1 }}
+                    {{end}}
+                    {{if not (eq .quality 0)}} {{ $quality := .quality }}
+                        {{ $averageQuality = add $averageQuality $quality }}
+                        {{$qualityCount = add $qualityCount 1 }}
+                    {{end}}
+                {{ end }}
             {{end}}
-            {{if not (eq .quality 0)}} {{ $quality := .quality }}
-                {{ $averageQuality = add $averageQuality $quality }}
-                {{$qualityCount = add $qualityCount 1 }}
+            <div class="row">
+                {{ if and (not (eq $averageDifficulty 0)) (not (eq $difficultyCount 0)) }}
+                <div class="col pb-4">
+                    {{ $val := trim (div (float $averageDifficulty) (float $difficultyCount) | lang.FormatNumber 2)  ".0" }}
+                    {{ partial "course/progress.html" (dict "val" $val "label" "Average difficulty" "color" "bg-secondary") }}
+                </div>
+                {{end}}
+                {{if and (not (eq $averageQuality 0)) (not (eq $qualityCount 0))}}
+                <div class="col pb-4">
+                    {{ $val := trim (div (float $averageQuality) (float $qualityCount) | lang.FormatNumber 2)  ".0" }}
+                    {{ partial "course/progress.html" (dict "val" $val "label" "Average quality:") }}
+                </div>
+                {{end}}
+            </div>
             {{end}}
-        {{ end }}
-    {{end}}
-    {{ if and (not (eq $averageDifficulty 0)) (not (eq $difficultyCount 0)) }}
-      <p class="mb-0">Average difficulty: {{trim (div (float $averageDifficulty) (float $difficultyCount) | lang.FormatNumber 2)  ".0"}}/5</p>
-    {{end}}
-    {{if and (not (eq $averageQuality 0)) (not (eq $qualityCount 0))}}
-      <p>Average quality: {{trim (div (float $averageQuality) (float $qualityCount) | lang.FormatNumber 2) ".0" }}/5</p>
-    {{end}}
-    <a class="btn btn-primary" href="#review-div" role="button">Write your own review below!</a>
-    {{ if or (not (eq $averageDifficulty 0)) (not (eq $averageQuality 0)) }}
-      <hr style="margin: 2rem 0" />
-    {{end}}
-    {{ if and (eq $averageDifficulty 0) (eq $averageQuality 0) }}
-      <hr style="margin: 2rem 0" />
-    {{end}}
-  {{end}}
-  {{ if (index $.Site.Data.courseReviews .File.ContentBaseName) }}
+            <a class="btn btn-primary" href="#review-div" role="button">Write your own review below!</a>
+        </div>
+    </div>
+    {{ if (index $.Site.Data.courseReviews .File.ContentBaseName) }}
       {{ with (index $.Site.Data.courseReviews .File.ContentBaseName)}}
         {{ range . }}
             {{ partial "course/review" . }}
         {{end}}
-        <br/>
-     {{end}}
+      {{end}}
   {{else}}
-  <a class="btn btn-primary" href="#review-div" role="button">Write your own review below!</a>
-  <hr style="margin: 2rem 0"/>
-  No reviews yet - please add yours below! <br /><br />
-  {{ end }}
-  {{ if .IsTranslated }}
-  <h4>{{ i18n "translations" }}</h4>
-  <ul>
-    {{ range .Translations }}
-    <li>
-      <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
-    </li>
+    <br>
+    No reviews yet. Be the first to write one!
+    <br>
+    <br>
     {{ end }}
-  </ul>
-  {{ end }} {{ partial "related" . }}
-
-  {{ partial "course/grades" . }}
+  {{ if .IsTranslated }}
+    <h4>{{ i18n "translations" }}</h4>
+    <ul>
+        {{ range .Translations }}
+        <li>
+            <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+        </li>
+        {{ end }}
+    </ul>
+    {{ end }} {{ partial "related" . }}
+    <br>
+    {{ partial "course/grades" . }}
 
   {{ partial "related-form" . }}
 </article>
-
 {{ end }}

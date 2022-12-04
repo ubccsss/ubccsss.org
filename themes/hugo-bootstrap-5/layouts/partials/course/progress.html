@@ -1,0 +1,16 @@
+{{ $width := (mul (div (float .val) (5) ) (100))}}
+{{ $height := .height | default 25}}
+{{ $color := .color | default "bg-success" }}
+{{ if not (isset . "color")}}
+    {{ if lt .val 3 }}
+        {{ $color = "bg-danger" }}
+    {{ else if lt .val 4 }}
+        {{ $color = "bg-warning" }}
+    {{ end }}
+{{ end }}
+<em>
+    <b>{{ .label }}</b>
+</em>
+<div class="progress" style="height: {{ $height }}px; margin-top: 0.5rem">
+    <div class="progress-bar {{ $color }}" role="progressbar" style="width: {{ $width }}%">{{ .val }} / 5</div>
+</div>
