@@ -56,8 +56,8 @@
                 </div>
                 {{end}}
             </div>
-            <a class="btn btn-primary" href="#review-div" role="button">Write your own review below!</a>
             {{end}}
+            <a class="btn btn-primary" href="#review-div" role="button">Write your own review below!</a>
         </div>
     </div>
     {{ if (index $.Site.Data.courseReviews .File.ContentBaseName) }}
@@ -67,9 +67,8 @@
         {{end}}
       {{end}}
   {{else}}
-    <a class="btn btn-primary" href="#review-div" role="button">Write your own review below!</a>
-    <hr style="margin: 2rem 0">
-    No reviews yet - please add yours below!
+    <br>
+    No reviews yet. Be the first to write one!
     <br>
     <br>
     {{ end }}
