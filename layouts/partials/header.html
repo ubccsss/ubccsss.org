@@ -19,7 +19,7 @@
                   <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
                 {{ else }}
                   {{ $menuUrl := .URL | relLangURL }}
-                  <a class="nav-link {{ if eq $url $menuUrl }}active{{end}}" href="{{ $menuUrl }}">{{ .Name }}</a>
+                  <a class="nav-link {{ if eq $url $menuUrl }}active{{end}}" href="{{ $menuUrl }}" {{if eq .Name "TCF"}}style='color: var(--bs-blue) !important'{{end}}>{{ .Name }}</a>
                 {{ end }}
               </li>
           {{ end }}
