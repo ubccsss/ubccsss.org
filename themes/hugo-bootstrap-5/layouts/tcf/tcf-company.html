@@ -44,7 +44,7 @@
     {{ end -}} {{ template "_internal/google_analytics_async.html" . }} {{
     partial "head-custom.html" . }}
   </head>
-  <body>
+  <body class="d-flex flex-column min-vh-100">
       <div class="dropdown nav-sticky">
           <button class="btn btn-light dropdown-toggle position-absolute m-3 small-shadow" type="button" data-bs-toggle="dropdown" aria-expanded="false">
               <i class="bi-list"></i>
@@ -60,17 +60,19 @@
       <div class="hero-header-content">
         <div class="mx-auto py-5">
             <h1 class="display-1 fw-bold pb-1">{{.Params.title}}</h1>
+            <div class="d-flex justify-content-center">
+                <a href="{{.Params.link}}" class="btn btn-light mx-auto"><i class="bi-link"></i> Connect with {{.Params.title}}</a>
+            </div>
         </div>
       </div>
     </div>
     <div class="container">
         <a href="/tcf/companies">&lt; back to companies</a>
       <div class="row pt-4">
-<div class="col">
-    <img src="{{.Params.imageLink}}" alt="{{.Params.title}} logo" class="mw-100 img-shadow img-outline">
+<div class="col me-2">
+    <img src="{{.Params.imageLink}}" alt="{{.Params.title}} logo" class="mw-100 w-100 img-shadow img-outline">
 </div>
       <div class="col">
-          <h1>{{.Params.title}}</h1>
           <p>
       {{.Params.short_bio}} 
 </p>
@@ -83,7 +85,8 @@
           {{end }}
       </div>
     </div>
-    <div class="container px-0 py-0">
+    </div>
+    <div class="container py-0 mt-auto">
       <footer
         class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4"
       >
@@ -118,4 +121,14 @@
       </footer>
     </div>
   </body>
+  <style>
+.hero-header {
+background: url(/files/tcf6.jpg);
+background-position:center;
+}
+
+    .hero-header-content {
+padding: 5rem 0;
+    }
+  </style>
 </html>

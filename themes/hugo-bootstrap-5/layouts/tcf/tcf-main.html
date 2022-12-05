@@ -56,10 +56,10 @@
             <li><a class="dropdown-item" href="/tcf#faq">FAQ</a></li>
           </ul>
     </div>
-    <div class="hero-header py-6">
-      <div class="hero-header-content">
-        <div class="mx-auto pt-5">
-          <p class="hero-header-text pt-5">UBC CSSS presents...</p>
+    <div class="hero-header">
+      <div class="hero-header-content py-5">
+        <div class="mx-auto py-5 my-5">
+          <p class="hero-header-text">UBC CSSS presents</p>
           <h1 class="display-1 fw-bold">TCF 2023</h1>
           <div class="d-flex pt-3 flex-row gap-3 justify-content-center">
             <a href="/tcf/companies" class="btn btn-light">
@@ -98,7 +98,7 @@
     </div>
     <div class="container" id="about">
       <div class="row pt-3">
-        <div class="col">
+        <div class="col-lg-6 col-sm-12">
           <h1>Lorem ipsum dolor sit amet!</h1>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -110,148 +110,146 @@
             </a>
           </div>
         </div>
-        <div class="col">
+        <div class="col-lg-6 col-sm-12 pt-3">
           <img
-            src="https://www.bcitsa.ca/careerservices/wp-content/uploads/sites/7/2018/04/career-fairs-2048x1024.jpg"
+            src="/files/tcf3.jpg"
             alt="Photo of a past UBC CSSS technical career fair."
             class="mw-100 img-shadow"
           />
         </div>
       </div>
     </div>
-    <div class="container background-blue">
-      <h1 class="text-center">Companies Attending</h1>
-      <div class="row pt-4">
-        {{ range first 12 .Pages }}
-        {{ if .Params.imageLink }}
-        <div class="col-3">
-          <div class="card w-100">
-              <a href="{{ .RelPermalink }}" class="position-absolute w-100 h-100"></a>
-            <img
-              class="card-img-top img-fluid"
-              src="{{ .Params.imageLink }}"
-              alt="{{ .Params.title }} company logo"
-              width="348"
-              height="196"
-            />
-            <div class="card-body">
-              <h5 class="card-title">
-                <a class="card-link" href="{{ .RelPermalink }}"
-                  >{{ .Params.title }}</a
-                >
-              </h5>
-              <p class="card-text text-truncate">{{ .Params.short_bio }}</p>
+    <div class="background-blue"><div class="container">
+            <h1 class="text-center mb-0">Companies Attending</h1>
+            <div class="row pt-4">
+                {{ range first 12 .Pages }}
+                {{ if .Params.imageLink }}
+                <div class="col-lg-3 col-sm-12 col-md-6">
+                    <div class="card w-100 mt-3">
+                        <a href="{{ .RelPermalink }}" class="position-absolute w-100 h-100"></a>
+                        <img
+                                class="card-img-top img-fluid"
+                                src="{{ .Params.imageLink }}"
+                                alt="{{ .Params.title }} company logo"
+                                width="348"
+                                height="196"
+                                />
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a class="card-link" href="{{ .RelPermalink }}"
+                                                     >{{ .Params.title }}</a
+                                                 >
+                            </h5>
+                                    <p class="card-text text-truncate">{{ .Params.short_bio }}</p>
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+                {{ end }}
             </div>
-          </div>
-        </div>
-        {{ end }}
-        {{ end }}
-      </div>
-      <div class="d-flex flex-row justify-content-center pt-4">
-        <a href="/tcf/companies" class="btn btn-outline-light"
-          ><i class="bi-people"></i> See more companies</a
-        >
-      </div>
-    </div>
+            <div class="d-flex flex-row justify-content-center pt-4">
+                <a href="/tcf/companies" class="btn btn-outline-light"
+                                         ><i class="bi-people"></i> See more companies</a
+                                     >
+            </div>
+        </div></div>
     <div class="container" id="event-info">
       <h1 class="text-center">Location + Event Map</h1>
       <p>The TCF will take place at ...</p>
-      <div class="row gap-3">
-        <div class="col">
+      <div class="row">
+        <div class="col-lg-6 col-sm-12">
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d650.8807803304653!2d-123.25052691227467!3d49.266484060046565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe9bbdd7328c09b21!2sAMS%20Student%20Nest!5e0!3m2!1sen!2sca!4v1670126049391!5m2!1sen!2sca"
-            width="600"
-            height="450"
-            style="border: 0"
+            style="border: 0; width: 100%;"
             allowfullscreen=""
             loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"
           ></iframe>
         </div>
-        <div class="col">
+        <div class="col-lg-6 col-sm-12">
           <p>Placeholder event map here...</p>
         </div>
       </div>
     </div>
-    <div class="container background-blue" id="faq">
-      <h1 class="text-center">Code of Conduct + FAQ</h1>
-      <div class="row pt-3">
-        <div class="col">
-          <p>By attending this event, you agree to the following terms:</p>
-        </div>
-        <div class="col">
-          <div class="accordion" id="accordionExample">
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="headingOne">
-                <button
-                  class="accordion-button"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#collapseOne"
-                  aria-expanded="true"
-                  aria-controls="collapseOne"
-                >
-                  FAQ Item 1
-                </button>
-              </h2>
-              <div
-                id="collapseOne"
-                class="accordion-collapse collapse show"
-                aria-labelledby="headingOne"
-                data-bs-parent="#accordionExample"
-              >
-                <div class="accordion-body">FAQ contents 1</div>
-              </div>
+    <div class="background-blue"><div class="container" id="faq">
+            <h1 class="text-center">Code of Conduct + FAQ</h1>
+            <div class="row pt-3">
+                <div class="col-lg-6 col-sm-12">
+                    <p>By attending this event, you agree to the following terms:</p>
+                </div>
+                <div class="col-lg-6 col-sm-12">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button
+                                        class="accordion-button"
+                                        type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne"
+                                        aria-expanded="true"
+                                        aria-controls="collapseOne"
+                                        >
+                                        FAQ Item 1
+                                </button>
+                            </h2>
+                            <div
+                                    id="collapseOne"
+                                    class="accordion-collapse collapse show"
+                                    aria-labelledby="headingOne"
+                                    data-bs-parent="#accordionExample"
+                                    >
+                                    <div class="accordion-body">FAQ contents 1</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingTwo">
+                                <button
+                                        class="accordion-button collapsed"
+                                        type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#collapseTwo"
+                                        aria-expanded="false"
+                                        aria-controls="collapseTwo"
+                                        >
+                                        FAQ Item 2
+                                </button>
+                            </h2>
+                            <div
+                                    id="collapseTwo"
+                                    class="accordion-collapse collapse"
+                                    aria-labelledby="headingTwo"
+                                    data-bs-parent="#accordionExample"
+                                    >
+                                    <div class="accordion-body">FAQ contents 2</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingThree">
+                                <button
+                                        class="accordion-button collapsed"
+                                        type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree"
+                                        aria-expanded="false"
+                                        aria-controls="collapseThree"
+                                        >
+                                        FAQ Item 3
+                                </button>
+                            </h2>
+                            <div
+                                    id="collapseThree"
+                                    class="accordion-collapse collapse"
+                                    aria-labelledby="headingThree"
+                                    data-bs-parent="#accordionExample"
+                                    >
+                                    <div class="accordion-body">FAQ contents 3</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="headingTwo">
-                <button
-                  class="accordion-button collapsed"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#collapseTwo"
-                  aria-expanded="false"
-                  aria-controls="collapseTwo"
-                >
-                  FAQ Item 2
-                </button>
-              </h2>
-              <div
-                id="collapseTwo"
-                class="accordion-collapse collapse"
-                aria-labelledby="headingTwo"
-                data-bs-parent="#accordionExample"
-              >
-                <div class="accordion-body">FAQ contents 2</div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="headingThree">
-                <button
-                  class="accordion-button collapsed"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#collapseThree"
-                  aria-expanded="false"
-                  aria-controls="collapseThree"
-                >
-                  FAQ Item 3
-                </button>
-              </h2>
-              <div
-                id="collapseThree"
-                class="accordion-collapse collapse"
-                aria-labelledby="headingThree"
-                data-bs-parent="#accordionExample"
-              >
-                <div class="accordion-body">FAQ contents 3</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container px-0 py-0">
+        </div></div>
+    <div class="container py-0">
       <footer
         class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4"
       >

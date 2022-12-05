@@ -3,9 +3,9 @@
   --shadows: #67a4ff;
 }
 .hero-header {
-  background: url(https://www.bcitsa.ca/careerservices/wp-content/uploads/sites/7/2018/04/career-fairs-2048x1024.jpg);
+  background: url(/files/tcf2.jpg);
   background-size: cover;
-  height: 50vh;
+  height: max-content;
 }
 .hero-header-content {
   width: 100%;
@@ -40,7 +40,6 @@
 .background-blue {
   background-color: var(--main-blue);
   max-width: 100%;
-  padding: 3rem 10rem;
   color: white;
 }
 .card {
@@ -68,4 +67,10 @@
   top: 0;
   display: flex;
   justify-content: end;
+}
+@media screen and (max-width: 1000px) {
+  .display-1 {
+    font-size: 5rem;
+    text-shadow: 4px 4px 0px var(--shadows);
+  }
 }
