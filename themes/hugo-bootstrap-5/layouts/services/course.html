@@ -52,7 +52,7 @@
                 {{if and (not (eq $averageQuality 0)) (not (eq $qualityCount 0))}}
                 <div class="col pb-4">
                     {{ $val := trim (div (float $averageQuality) (float $qualityCount) | lang.FormatNumber 2)  ".0" }}
-                    {{ partial "course/progress.html" (dict "val" $val "label" "Average quality:") }}
+                    {{ partial "course/progress.html" (dict "val" $val "label" "Average quality") }}
                 </div>
                 {{end}}
             </div>
