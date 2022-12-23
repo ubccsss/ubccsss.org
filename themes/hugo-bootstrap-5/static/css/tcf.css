@@ -10,7 +10,7 @@
 .hero-header-content {
   width: 100%;
   height: 100%;
-  background: #0d6efdb3;
+  background: #0d6efdd1;
 }
 .hero-header p,
 .hero-header h1 {
@@ -40,6 +40,9 @@
 .background-blue {
   background-color: var(--main-blue);
   max-width: 100%;
+  color: white;
+}
+.background-blue li > a {
   color: white;
 }
 .card {
