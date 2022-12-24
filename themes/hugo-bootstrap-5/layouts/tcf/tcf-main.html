@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+  <head>
+    {{ partial "head-meta" . }}
+
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    <title>
+        UBC Technical Career Fair 2023
+    </title>
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.2/css/bootstrap.min.css"
+      integrity="sha512-CpIKUSyh9QX2+zSdfGP+eWLx23C8Dj9/XmHjZY2uDtfkdLGo0uY12jgcnkX9vXOgYajEKb/jiw67EYm+kBf+6g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+      integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
+      integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css"
+    />
+
+    <link href='{{ "css/style.css" | relURL }}' rel="stylesheet" />
+    <link href='{{ "css/tcf.css" | relURL }}' rel="stylesheet" />
+
+    {{ range .AlternativeOutputFormats -}}
+    <link
+      rel="{{ .Rel }}"
+      type="{{ .MediaType.Type }}"
+      href="{{ .Permalink | safeURL }}"
+    />
+    {{ end -}} {{ template "_internal/google_analytics_async.html" . }} {{
+    partial "head-custom.html" . }}
+  </head>
+  <body>
+      <div class="dropdown nav-sticky">
+          <button class="btn btn-light dropdown-toggle position-absolute m-3 small-shadow" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+              <i class="bi-list"></i>
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="/tcf#about">About</a></li>
+            <li><a class="dropdown-item" href="#companies">Companies</a></li>
+            <li><a class="dropdown-item" href="/tcf#event-info">Event Info</a></li>
+            <li><a class="dropdown-item" href="/tcf#faq">FAQ</a></li>
+          </ul>
+    </div>
+    <div class="hero-header">
+      <div class="hero-header-content py-5">
+        <div class="mx-auto py-5 my-5">
+          <p class="hero-header-text">UBC CSSS presents</p>
+          <h1 class="display-1 fw-bold">TCF 2023</h1>
+          <p>January 19, 2023 ◦ 10AM - 4PM PST ◦ Great Hall in the AMS Nest</p>
+          <div class="d-flex pt-3 flex-row gap-3 justify-content-center">
+            <a href="#companies" class="btn btn-light">
+              <i class="bi-people"></i> See companies
+            </a>
+            <div class="dropdown">
+              <button
+                class="btn btn-light dropdown-toggle"
+                type="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                <i class="bi-calendar-check"></i>
+                Add to calendar
+              </button>
+              <ul class="dropdown-menu">
+                <li>
+                  <a
+                    class="dropdown-item"
+                    href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20221222T180000Z%2F20221223T000000Z&details=The%20University%20of%20British%20Columbia%20Computer%20Science%20Student%20Society%20is%20hosting%20its%202023%20Technical%20Career%20Fair.%20Join%20us%20to%20showcase%20your%20portfolio%20and%20network%20with%20a%20wide%20range%20of%20companies%20to%20find%20out%20about%20internships%20and%20post-graduate%20career%20opportunities.%0A%0A&location=Great%20Hall%2C%20AMS%20Nest%20%286133%20University%20Blvd%2C%20Vancouver%2C%20BC.%2C%20V6T1Z1%29&text=UBC%20CSSS%20Technical%20Career%20Fair"
+                    >+ Google Calendar</a
+                  >
+                </li>
+                <li>
+                  <a
+                    class="dropdown-item"
+                    href="https://outlook.live.com/calendar/0/deeplink/compose?body=The%20University%20of%20British%20Columbia%20Computer%20Science%20Student%20Society%20is%20hosting%20its%202023%20Technical%20Career%20Fair.%20Join%20us%20to%20showcase%20your%20portfolio%20and%20network%20with%20a%20wide%20range%20of%20companies%20to%20find%20out%20about%20internships%20and%20post-graduate%20career%20opportunities.%0A%0A&enddt=2022-12-23T00%3A00%3A00%2B00%3A00&location=Great%20Hall%2C%20AMS%20Nest%20%286133%20University%20Blvd%2C%20Vancouver%2C%20BC.%2C%20V6T1Z1%29&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2022-12-22T18%3A00%3A00%2B00%3A00&subject=UBC%20CSSS%20Technical%20Career%20Fair"
+                    >+ Outlook</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container" id="about">
+      <div class="row pt-3">
+        <div class="col-lg-6 col-sm-12">
+          <h1>Welcome to TCF 2023!</h1>
+          <p class="mt-3">We are thrilled to invite you to join us for the upcoming 2023 Technical Career
+Fair (TCF)! Attracting over 2000 UBC students from Computational Sciences
+and Engineering disciplines and numerous companies in tech, our career fair provides students the unique
+opportunity to showcase your portfolio and network with a wide range of companies to find out about internships and post-graduate career opportunities.</p>
+          <div class="d-flex flex-row gap-2">
+            <a href="/tcf#faq" class="btn btn-outline-primary">
+              <i class="bi-question-circle"></i> See FAQ
+            </a>
+          </div>
+        </div>
+        <div class="col-lg-6 col-sm-12 pt-3">
+          <img
+            src="/files/tcf3.jpg"
+            alt="Photo of a past UBC CSSS technical career fair."
+            class="mw-100 img-shadow"
+          />
+        </div>
+      </div>
+    </div>
+    <div class="background-blue"><div class="container" id="companies">
+            <h1 class="text-center mb-0">Companies Attending</h1>
+            <p class="text-center mt-3">Check back later for a finalized list!</p>
+            <!--<div class="row pt-4">
+                {{ range first 12 .Pages }}
+                {{ if .Params.imageLink }}
+                <div class="col-lg-3 col-sm-12 col-md-6">
+                    <div class="card w-100 mt-3">
+                        <a href="{{ .RelPermalink }}" class="position-absolute w-100 h-100"></a>
+                        <img
+                                class="card-img-top img-fluid"
+                                src="{{ .Params.imageLink }}"
+                                alt="{{ .Params.title }} company logo"
+                                width="348"
+                                height="196"
+                                />
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <a class="card-link" href="{{ .RelPermalink }}"
+                                                     >{{ .Params.title }}</a
+                                                 >
+                            </h5>
+                                    <p class="card-text text-truncate">{{ .Params.short_bio }}</p>
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+                {{ end }}
+            </div>
+            <div class="d-flex flex-row justify-content-center pt-4">
+                <a href="/tcf/companies" class="btn btn-outline-light"
+                                         ><i class="bi-people"></i> See more companies</a
+                                     >
+            </div> -->
+        </div></div>
+    <div class="container" id="event-info">
+      <h1 class="text-center">Location + Event Map</h1>
+      <div class="row">
+        <div class="col-lg-6 col-sm-12">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d650.8807803304653!2d-123.25052691227467!3d49.266484060046565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe9bbdd7328c09b21!2sAMS%20Student%20Nest!5e0!3m2!1sen!2sca!4v1670126049391!5m2!1sen!2sca"
+            style="border: 0; width: 100%;"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            class="mt-1"
+          ></iframe>
+        </div>
+        <div class="col-lg-6 col-sm-12">
+            <p class="mt-1">The TCF will take place:</p>
+            <ul>
+                <li>January 19th, 2023</li>
+                <li>10AM - 4PM PST</li>
+                <li>at the Great Hall (2nd floor) in the AMS Nest (6133 University Blvd, Vancouver, BC, V6T1Z1)</li>
+            </ul>
+            <p>Check back later for a dedicated event map!</p>
+        </div>
+      </div>
+    </div>
+    <div class="background-blue"><div class="container" id="faq">
+            <h1 class="text-center">Code of Conduct + FAQ</h1>
+            <div class="row pt-3">
+                <div class="col-lg-6 col-sm-12">
+                    <p>By attending this event, you agree to the following codes of conduct:</p>
+                    <ul>
+                        <li><a href="https://students.ubc.ca/campus-life/student-code-conduct" target="_blank" rel="noopener noreferrer">UBC Student Code of Conduct</a></li>
+                        <li><a href="https://hr.ubc.ca/working-ubc/respectful-environment" target="_blank" rel="noopener noreferrer">UBC Respectful Environment Guidelines</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-6 col-sm-12">
+                    <div class="accordion" id="accordion">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button
+                                        class="accordion-button"
+                                        type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne"
+                                        aria-expanded="true"
+                                        aria-controls="collapseOne"
+                                        >How do I prepare for the event?</button>
+                            </h2>
+                            <div
+                                    id="collapseOne"
+                                    class="accordion-collapse collapse show"
+                                    aria-labelledby="headingOne"
+                                    data-bs-parent="#accordion"
+                                    >
+                                    <div class="accordion-body">We got you covered! The CSSS is holding a resume review workshop in collaboration with Workday on January 16th in ICCS Atrium. Come to improve your resume and get awesome feedback! </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div></div>
+    <div class="container py-0">
+      <footer
+        class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4"
+      >
+        <div class="col-md-4 d-flex align-items-center">
+          <a
+            href="/"
+            class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1"
+          >
+            <img class="bi" width="30" height="24" src="/logo.svg"></svg>
+          </a>
+          <span class="mb-3 mb-md-0 text-muted">© 2023 UBC CSSS</span>
+        </div>
+
+        <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+          <li class="me-3">
+            <a class="text-muted" href="https://www.instagram.com/ubc_csss/"
+                                  ><i class="bi-instagram"></i></a>
+          </li>
+<li class="me-3">
+              <a class="text-muted" href="https://twitter.com/ubccsss">
+              <i class="bi-twitter"></i></a>
+          </li>
+          <li class="me-3">
+              <a class="text-muted" href="http://ubccsss.org/discord">
+              <i class="bi-discord"></i></a>
+          </li>
+<li class="me-3">
+              <a class="text-muted" href="https://www.facebook.com/ubccsss">
+              <i class="bi-facebook"></i></a>
+          </li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>
