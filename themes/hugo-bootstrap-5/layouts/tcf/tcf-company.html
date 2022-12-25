@@ -74,7 +74,7 @@
 </div>
       <div class="col">
           <p>
-      {{.Params.short_bio}} 
+      {{.Params.short_bio | markdownify}} 
 </p>
           <p>
           <a href="{{.Params.link}}" class="btn btn-primary"><i class="bi-link"></i> Connect with {{.Params.title}}</a>

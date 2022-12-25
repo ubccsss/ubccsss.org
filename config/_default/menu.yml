@@ -2,36 +2,36 @@ main:
   - identifier: about
     name: About
     url: /about/
-    weight: -140
+    weight: -130
   - identifier: volunteer
     name: Volunteer
     url: /volunteer/
-    weight: -130
+    weight: -120
   - identifier: cube
     name: The Cube
     url: /cube/
-    weight: -120
+    weight: -110
   - identifier: learn
     name: Services
     url: /services/
-    weight: -110
+    weight: -100
   - identifier: exams
     name: Past Exams 
     url: /services/exams/
-    weight: -100
+    weight: -90
   - identifier: courses
     name: Course Reviews 
     url: /services/courses/
-    weight: -90
+    weight: -80
   - identifier: clubs
     name: Clubs
     url: /about/clubs/
-    weight: -80
+    weight: -70
   - identifier: contact
     name: Contact
     url: /contact/
-    weight: -70
+    weight: -60
   - identifier: TCF
     name: TCF 
     url: /tcf/
-    weight: -60
+    weight: -140
