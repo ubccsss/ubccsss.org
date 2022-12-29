@@ -13,6 +13,7 @@ serve all Computer Science students.
   <a class="btn btn-primary" href="/about/team/officers/">Officers</a>
   <a class="btn btn-primary" href="/about/constitution">Constitution</a>
   <a class="btn btn-primary" href="/about/minutes/">Minutes</a>
+  <a class="btn btn-primary" href="/about/clubs/">Clubs</a>
 </div>
 
 ### How do I join?
