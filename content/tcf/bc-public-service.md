@@ -9,5 +9,6 @@ short_bio: >
     - Providing government with honest and objective advice<br/>
     - Responsibly taking care of public resources and information
 imageLink: /files/tcf2023/bcps.png
+industry: Public Services
 type: tcf
 ---

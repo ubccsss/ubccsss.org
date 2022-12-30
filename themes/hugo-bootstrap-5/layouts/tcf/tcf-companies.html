@@ -69,26 +69,25 @@
       <div class="row pt-4">
         {{ range .Site.Pages }}
         {{ if (and (eq .Params.type "tcf") (.Params.imageLink)) }}
-        <div class="col-lg-3 col-sm-12 col-md-6 mb-3">
-          <div class="card w-100 h-100">
-            <a href="{{ .RelPermalink }}" class="position-absolute w-100 h-100"></a>
-            <img
-              class="card-img-top img-fluid p-2"
-              src="{{ .Params.imageLink }}"
-              alt="{{ .Params.title }} company logo"
-              width="348"
-              height="196"
-            />
-            <div class="card-body">
-              <h5 class="card-title">
-                <a class="card-link" href="{{ .RelPermalink }}"
-                  >{{ .Params.title }}</a
-                >
-              </h5>
-              <p class="card-text text-truncate">{{ .Params.short_bio }}</p>
-            </div>
-          </div>
-        </div>
+        <div class="col-lg-3 col-sm-12 col-md-6 mt-3">
+                <div class="card w-100 mt-3 h-100">
+                    <a href="{{ .RelPermalink }}" class="position-absolute w-100 h-100"></a>
+                    <div class="h-75 d-flex flex-column justify-content-center"><img
+                             class="card-img-top img-fluid p-2"
+                             src="{{ .Params.imageLink }}"
+                             alt="{{ .Params.title }} company logo"
+                             /></div>
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <a class="card-link text-truncate" href="{{ .RelPermalink }}"
+                                             >{{ .Params.title }}</a
+                             >
+                        </h5>
+                        {{ $badge_colors := dict "Gaming" "primary" "Networking" "secondary" "Public Services" "success" "Insurance" "danger" "Digital Media" "warning" "Cybersecurity" "info" "Personal Computing" "purple" "Sensors and Data" "orange" "Forestry" "dark-green" "Investments" "teal" "Business Operations" "pink" "Mining" "gold" }}
+                        <span class="badge bg-{{index $badge_colors .Params.industry}}">{{.Params.industry}}</span>
+                    </div>
+                </div>
+                </div>
         {{ end }}
         {{ end }}
       </div>
@@ -135,6 +134,24 @@ background-position-y:center;
 }
     .hero-header-content {
 padding: 5rem 0;
+    }
+    .bg-purple {
+        background-color: #7744ab !important;
+    }
+    .bg-orange {
+        background-color: #b3621b !important;
+    }
+    .bg-dark-green {
+        background-color: #0e5214 !important;
+    }
+    .bg-teal {
+        background-color: #077f8c !important;
+    }
+    .bg-pink {
+        background-color: #a860a8 !important;
+    }
+    .bg-gold {
+        background-color: #8c7f0b !important;
     }
   </style>
 </html>
