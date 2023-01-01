@@ -7,5 +7,6 @@ short_bio: >
   Our efforts in climate action, human rights, and digital equity prove that we are doing everything in our power to make it so.<br/><br/>
   With over 80 years of actions that prove our intentions, we have the confidence to envision a world where innovation drives extraordinary contributions to humanity.
 imageLink: /files/tcf2023/hp.jpg
+industry: Personal Computing 
 type: tcf
 ---
