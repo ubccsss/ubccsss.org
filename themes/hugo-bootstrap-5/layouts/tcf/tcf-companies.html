@@ -83,7 +83,7 @@
                                              >{{ .Params.title }}</a
                              >
                         </h5>
-                        {{ $badge_colors := dict "Gaming" "primary" "Networking" "secondary" "Public Services" "success" "Insurance" "danger" "Digital Media" "warning" "Cybersecurity" "info" "Personal Computing" "purple" "Sensors and Data" "orange" "Forestry" "dark-green" "Investments" "teal" "Business Operations" "pink" "Mining" "gold" }}
+                            {{ $badge_colors := dict "Gaming" "primary" "Networking" "secondary" "Public Services" "success" "Insurance and Banking" "danger" "Digital Media" "warning" "Cybersecurity" "info" "Personal Computing" "purple" "Sensors and Data" "orange" "Forestry" "dark-green" "Investments" "teal" "Business Operations" "pink" "Mining" "gold" }}
                         <span class="badge bg-{{index $badge_colors .Params.industry}}">{{.Params.industry}}</span>
                     </div>
                 </div>
