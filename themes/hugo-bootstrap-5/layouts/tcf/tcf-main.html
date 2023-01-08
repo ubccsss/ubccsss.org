@@ -125,25 +125,27 @@ opportunity to showcase your portfolio and network with a wide range of companie
       </div>
     </div>
     <div class="background-blue"><div class="container" id="companies">
-            <h1 class="text-center mb-0">Companies Attending</h1>
+            <h1 class="text-center mb-0">{{ len (where .Pages ".Params.type" "tcf") }} Companies Attending</h1>
             <div class="row pt-4">
                 {{ range first 13 (sort .Pages) }}
                 {{ if .Params.imageLink }}
                 <div class="col-lg-3 col-sm-12 col-md-6 mt-3">
                     <div class="card w-100 mt-3 h-100">
                         <a href="{{ .RelPermalink }}" class="position-absolute w-100 h-100"></a>
-                        <div class="h-75 d-flex flex-column justify-content-center"><img
-                                     class="card-img-top img-fluid p-2"
+                        <div class="d-flex flex-column justify-content-center" style="height: 200px"
+                             ><img
+                                     class="card-img-top img-fluid p-2 mh-100"
                                      src="{{ .Params.imageLink }}"
                                      alt="{{ .Params.title }} company logo"
+                                     style="object-fit: contain"
                                      /></div>
                         <div class="card-body">
-                            <h5 class="card-title">
-                                <a class="card-link text-truncate" href="{{ .RelPermalink }}"
+                            <h5 class="card-title text-truncate">
+                                <a class="card-link" href="{{ .RelPermalink }}"
                                                      >{{ .Params.title }}</a
                                                  >
                             </h5>
-                            {{ $badge_colors := dict "Gaming" "primary" "Networking" "secondary" "Public Services" "success" "Insurance" "danger" "Digital Media" "warning" "Cybersecurity" "info" "Personal Computing" "purple" "Sensors and Data" "orange" "Forestry" "dark-green" "Investments" "teal" "Business Operations" "pink" "Mining" "gold" }}
+                            {{ $badge_colors := dict "Gaming" "primary" "Networking" "secondary" "Public Services" "success" "Insurance and Banking" "danger" "Digital Media" "warning" "Cybersecurity" "info" "Personal Computing" "purple" "Sensors and Data" "orange" "Forestry" "dark-green" "Investments" "teal" "Business Operations" "pink" "Mining" "gold" }}
                             <span class="badge bg-{{index $badge_colors .Params.industry}}">{{.Params.industry}}</span>
                         </div>
                     </div>

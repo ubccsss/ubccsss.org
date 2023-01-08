@@ -1,6 +1,6 @@
 ---
 layout: tcf-company
-title: HP
+title: HP Inc.
 link: https://jobs.hp.com/
 short_bio: >
   We are a technology company born of the belief that companies should do more than just make a profit. They should make the world a better place.<br/><br/>
