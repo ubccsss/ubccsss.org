@@ -22,14 +22,14 @@ Panelists from TELUS, IBM, Google and Microsoft are already confirmed for this e
 
 Food and networking afterwards in Reboot area.
 
-When: 
+When:
 
 Tuesday, January 12, 2010 - 17:15 to 18:30
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Career](/career)

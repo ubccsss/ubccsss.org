@@ -27,14 +27,14 @@ Date: Thursday, Nov 1 \
 Time: 12:30 to 2 pm \
 Place: DMP 301
 
-When: 
+When:
 
 Thursday, November 1, 2007 - 12:30 to 14:00
 
-Where: 
+Where:
 
 Dempster Room 301
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -15,14 +15,14 @@ Come to this information session and listen to **Dr. Kendall Ho**, the Associate
 
 For more information, see [http://www.cs.ubc.ca/documents/Events.pdf](http://www.cs.ubc.ca/documents/Events.pdf)
 
-When: 
+When:
 
 Thursday, February 2, 2006 - 11:30 to 12:30
 
-Where: 
+Where:
 
 Scarfe 100
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -28,14 +28,14 @@ Terminator is based on a newly discovered method of counterexample-guided abstra
 
 For more information about the speaker, see [http://research.microsoft.com/~bycook/](http://research.microsoft.com/~bycook/)
 
-When: 
+When:
 
 Friday, October 7, 2005 - 10:00 to 11:00
 
-Where: 
+Where:
 
 ICICS/CS Board Room (288)
 
-Tags: 
+Tags:
 
 [Career](/career)

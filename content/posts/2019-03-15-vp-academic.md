@@ -4,15 +4,16 @@ author: Tiger Oakes
 images: []
 ---
 
-At our upcoming [Semi-Annual General Meeting](/events/2019/03/22/general-meeting/), 
+At our upcoming [Semi-Annual General Meeting](/events/2019/03/22/general-meeting/),
 we want to propose a new executive role for the CSSS! We want students to have a bigger voice
 in academic matters.
 
 ---
 
-Our proposed change to the [constitution](/about/constitution): 
+Our proposed change to the [constitution](/about/constitution):
 
 ##### _8.1 Positions:_
+
 _The Core Executive of the Club shall comprise the following positions:_
 
 - _President_
@@ -26,6 +27,7 @@ _The Core Executive of the Club shall comprise the following positions:_
 - Vice President, Academic
 
 ##### 8.10 The Vice President, Academic shall:
+
 - Liaise between the department and student body on issues regarding academic matters requiring student input.
 - Manage academic resources provided by the club, including the exam database and tutoring services.
 - Direct academic-focused events undertaken by the Club.

@@ -5,8 +5,9 @@ categories: [elections]
 tags: [club-activities]
 author: Leo Lin
 images:
-    - /files/2020-09-03-officer-hiring.jpg
+  - /files/2020-09-03-officer-hiring.jpg
 ---
+
 ![](/files/2019-09-03-officer-hiring.jpg)
 
 We are looking for a VP Communications to join the team for next year.

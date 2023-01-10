@@ -1,0 +1,19 @@
+{
+  "name": "ubccsss.org",
+  "version": "0.0.1",
+  "description": "Website for the UBC CSSS",
+  "repository": "https://github.com/ubccsss/ubccsss.org.git",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.2",
+    "prettier-plugin-go-template": "^0.0.13"
+  },
+  "scripts": {
+    "format": "prettier --write '**/*.+(js|html|css|json|md|yaml)'",
+    "dry": "prettier --check '**/*.+(js|html|css|json|md|yaml)'",
+    "dev": "hugo server -D",
+    "build": "hugo"
+  }
+}

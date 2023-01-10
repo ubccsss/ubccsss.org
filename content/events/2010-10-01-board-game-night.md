@@ -35,14 +35,14 @@ and more!
 
 Hope to see you there
 
-When: 
+When:
 
 Friday, October 1, 2010 - 17:30 to 21:00
 
-Where: 
+Where:
 
 Reboot Cafe
 
-Tags: 
+Tags:
 
 [Social](/social)

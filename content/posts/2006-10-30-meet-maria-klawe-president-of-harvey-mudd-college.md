@@ -27,24 +27,23 @@ Science (formerly ARC) Program.
 This is a great opportunity for you to meet an amazing woman who has
 made a great contribution to the UBC CS community!
 
-\* Friday, November 10, 2006 at 4-5pm in X736 \*
-\* refreshments will be served \*
+\* Friday, November 10, 2006 at 4-5pm in X736 \* \* refreshments will be served \*
 
 Please R.S.V.P. to Maribeth Malvar at [\[email protected\]](/cdn-cgi/l/email-protection) if you
 plan to attend so we can get an accurate count for refreshments!
 
-When: 
+When:
 
 Friday, November 10, 2006 - 15:00 to 16:00
 
-Where: 
+Where:
 
 X736
 
-File Attachments: 
+File Attachments:
 
- ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [flyer.pdf](https://ubccsss.org/files/flyer.pdf)
+![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [flyer.pdf](https://ubccsss.org/files/flyer.pdf)
 
-Tags: 
+Tags:
 
 [Career](/career)

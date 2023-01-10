@@ -20,10 +20,10 @@ Keynote speakers: Presentation will be made by Annie Hsu and Andrew Kim (both ar
 
 Refreshments will be served. Please RSVP with [\[email protected\]](/cdn-cgi/l/email-protection#5b383435282e372f32353c38372e391b3c363a323775383436).
 
-When: 
+When:
 
 Monday, October 22, 2007 - 13:00 to 14:00
 
-Where: 
+Where:
 
 Scarfe Room 1020

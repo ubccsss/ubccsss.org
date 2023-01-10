@@ -35,14 +35,14 @@ Brought to you by the [Science Undergraduate Society Sports Committee](http://ww
 
 Required for event entry: print and sign the [event waiver form](http://www.sus.ubc.ca/sites/default/files/science_skate_night_waiver.pdf).
 
-When: 
+When:
 
 Thursday, November 20, 2008 - 15:30 to 17:00
 
-Where: 
+Where:
 
 UBC Thunderbird Arena, Rink B
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -1,5 +1,5 @@
 ---
-title: 'CSSS x ECESS: Video Games & Board Games'
+title: "CSSS x ECESS: Video Games & Board Games"
 start_date: 2019-01-25T18:00:00
 end_date: 2019-01-25T21:30:00
 categories: [Event]

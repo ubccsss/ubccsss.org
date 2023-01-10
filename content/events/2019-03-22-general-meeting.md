@@ -9,7 +9,7 @@ author: Hai Lin Zhang
 location:
   name: DMP 301
   address:
-    streetAddress: 6245 Agronomy Road 
+    streetAddress: 6245 Agronomy Road
     addressLocality: Vancouver
     postalCode: V6T 1Z4
     addressRegion: BC

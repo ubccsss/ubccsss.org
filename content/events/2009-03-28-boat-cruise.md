@@ -16,14 +16,14 @@ The year is almost over and everyone deserves a break—how better than a dinner
 
 Tickets are $35 and can be purchased in the CSSS office, ICICS X139.
 
-When: 
+When:
 
 Saturday, March 28, 2009 - 18:30 to 23:00
 
-Where: 
+Where:
 
 Harbour Cruises Marina—#1 North Foot of Denman Street
 
-Tags: 
+Tags:
 
 [Social](/social)

@@ -15,14 +15,14 @@ Are you graduating soon and thinking of heading off to [grad school](http://www.
 When: **Thursday, September 14, 12:30-14:00** \
 Where: **Dempster 110**
 
-When: 
+When:
 
 Thursday, September 14, 2006 - 12:30 to 14:00
 
-Where: 
+Where:
 
 Dempster 110
 
-Tags: 
+Tags:
 
 [Career](/career)

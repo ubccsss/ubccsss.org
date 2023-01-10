@@ -20,9 +20,8 @@ location:
 
 ![](/files/2019-11-29-meet-the-profs.svg)
 
-
 Why not spend the last day of classes unwinding with some of your favourite computer science professors?
 
 Join the Computer Science Student Society at our Meet the Profs event on Friday November 29th from 6-9pm! Get to know your professors and your peers while enjoying some drinks.
 
- See you there!
+See you there!

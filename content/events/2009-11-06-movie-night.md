@@ -21,14 +21,14 @@ location:
 
 Hosted by CSSS, we will be showing The Hangover and Star Trek. Entrance is free, and there will be free popcorn and pop!
 
-When: 
+When:
 
 Thursday, November 19, 2009 - 18:00 to 22:00
 
-Where: 
+Where:
 
 DMP 301
 
-Tags: 
+Tags:
 
 [Social](/social)

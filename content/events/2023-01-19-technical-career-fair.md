@@ -6,7 +6,7 @@ date: 2023-01-06
 # Tags that apply to the event
 tags: ["technical-career-fair"]
 # Name of the author (you)
-author: Emilie Ma 
+author: Emilie Ma
 # Images associated to this event. Used for banner.
 images:
   - /files/Technical-Career-Fair-2023.png

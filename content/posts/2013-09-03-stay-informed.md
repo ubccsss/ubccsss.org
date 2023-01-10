@@ -14,6 +14,6 @@ Check out our meeting minutes that have been updated constantly since the beginn
 
 Take a look at what we have planned (stuff that hasn't been finalized enough to get onto the main page of the website) and let us know what you think! There's also the great forums (editor’s note: now closed) where you can discuss about anything. (when we say "anything", we really mean it)
 
-Tags: 
+Tags:
 
 [Club Activities](/club)

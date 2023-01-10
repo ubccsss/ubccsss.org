@@ -21,14 +21,14 @@ For more information about each of these lectures, please check the [web site](h
 
 RSVP to [Michele Ng](/cdn-cgi/l/email-protection#f4999a93b49787da819697da9795) if attending.
 
-When: 
+When:
 
 Thursday, January 28, 2010 - 18:00
 
-Where: 
+Where:
 
 Rm C400, Robson Square, 800 Robson Street
 
-Tags: 
+Tags:
 
 [Career](/career)

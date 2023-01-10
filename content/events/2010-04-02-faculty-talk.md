@@ -25,14 +25,14 @@ Abstract: I'm interested in how people communicate through the sense of touch, a
 
 We’ll meet this time in the HCI Learning Studio, a resource created with a special grant by the CS HCI faculty for studio-style courses. Snacks possibly available for early arrivals.
 
-When: 
+When:
 
 Thursday, April 8, 2010 - 15:30 to 16:50
 
-Where: 
+Where:
 
 ICICS X360
 
-Tags: 
+Tags:
 
 [Career](/career)

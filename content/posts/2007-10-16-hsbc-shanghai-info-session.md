@@ -15,14 +15,14 @@ raw_location: Wesbrook Room 100
 
 Please check with UBC Career Services' website Event Calendar at [www.careers.ubc.ca](http://www.careers.ubc.ca) for new Information Sessions or changes to existing events.
 
-When: 
+When:
 
 Friday, October 19, 2007 - 17:45 to 19:30
 
-Where: 
+Where:
 
 Wesbrook Room 100
 
-Tags: 
+Tags:
 
 [Career](/career)

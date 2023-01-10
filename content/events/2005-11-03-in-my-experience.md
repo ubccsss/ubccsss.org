@@ -19,14 +19,14 @@ What's the state of CS in general? Hear why those naysayers who claim we're doom
 
 And... ahem, where there be speakers, there be giveaways ;-) But even if you don't get to snag a t-shirt or one of those newfangled cdroms, I guarantee you that you'll definitely snag something way more valuable - helpful advice that could make a difference in your education or career. It's what you make of it, and it's your experience!
 
-When: 
+When:
 
 Thursday, November 3, 2005 - 11:30 to 12:30
 
-Where: 
+Where:
 
 CEME 1215
 
-Tags: 
+Tags:
 
 [Social](/social)

@@ -12,14 +12,14 @@ raw_location: Wesbrook Room 100
 
 Free food will be provided.
 
-When: 
+When:
 
 Tuesday, October 11, 2005 - 17:30 to 19:30
 
-Where: 
+Where:
 
 Wesbrook Room 100
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -20,14 +20,14 @@ location:
 
 Practice answering typical job interview questions in a small group environment. E-mail [Diane Johnson](/cdn-cgi/l/email-protection#c6a2afa7a8a3aca9ae86a5b5e8b3a4a5e8a5a7) to register.
 
-When: 
+When:
 
 Monday, March 15, 2010 - 12:00 to 14:00
 
-Where: 
+Where:
 
 ICICS 202
 
-Tags: 
+Tags:
 
 [Career](/career)

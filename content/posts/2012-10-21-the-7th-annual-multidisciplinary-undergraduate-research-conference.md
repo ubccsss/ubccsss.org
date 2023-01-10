@@ -32,10 +32,10 @@ E: [\[email protected\]](/cdn-cgi/l/email-protection#3f4c5051555e115a525d4d5a5a
 [www.murp.ubc.ca](http://www.murp.ubc.ca)
 [www.research.ubc.ca/murc](http://www.research.ubc.ca/murc)
 
-When: 
+When:
 
 Saturday, March 8, 2008 (All day)
 
-Where: 
+Where:
 
 Irving K. Barber Learning Centre

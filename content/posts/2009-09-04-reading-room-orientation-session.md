@@ -16,14 +16,14 @@ If you have any questions, or would like to reserve a spot, please email [\[emai
 
 If you can't make it, there are also sessions on September 10 at 12:30 and September 15 at 13:30.
 
-When: 
+When:
 
 Thursday, September 17, 2009 - 13:00
 
-Where: 
+Where:
 
 ICICS 262
 
-Tags: 
+Tags:
 
 [Career](/career)

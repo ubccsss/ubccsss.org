@@ -13,14 +13,14 @@ categories: [Career]
 
 The panel will begin at 5pm in DMP 110 and will be followed with a Networking event combined with a reception from 6:15 to 7pm in the 7th floor lounge, ICICS/CS X736. Hope to see you there!
 
-When: 
+When:
 
 Thursday, January 19, 2006 - 16:00 to 18:00
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Career](/career)

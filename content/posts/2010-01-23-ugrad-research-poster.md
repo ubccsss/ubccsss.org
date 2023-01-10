@@ -16,14 +16,14 @@ For those students interested in doing summer research or applying for USRAs, th
 
 There will be pizza, donuts, juice and pop! Please enter your name in [the doodle poll](https://www.doodle.com/uabcsbapfa9ihgfu) if you are interested in coming so we know how much food to order.
 
-When: 
+When:
 
 Thursday, January 28, 2010 - 15:30 to 17:30
 
-Where: 
+Where:
 
 ICICS Atrium
 
-Tags: 
+Tags:
 
 [Career](/career)

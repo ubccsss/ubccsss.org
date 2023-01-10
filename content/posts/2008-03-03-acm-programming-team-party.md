@@ -21,14 +21,14 @@ Hors d'oeuvres, sandwiches, cookies and punch will be served.
 
 RSVP to: [\[email protected\]](/cdn-cgi/l/email-protection#600c190f0e130d2003134e1502034e0301)
 
-When: 
+When:
 
 Friday, March 7, 2008 - 15:30 to 17:30
 
-Where: 
+Where:
 
 ICICS Atrium
 
-Tags: 
+Tags:
 
 [Social](/social)

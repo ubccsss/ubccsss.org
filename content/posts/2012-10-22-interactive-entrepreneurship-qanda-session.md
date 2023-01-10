@@ -28,14 +28,14 @@ A visionary in web applications, security hardware, and open source software, Di
 As a successful entrepreneur and technology expert, Dick is very involved in the technology and business community, holding board positions with the Vancouver Enterprise Forum and Midentity and
 previously sitting on the boards of the British Columbia Technology Industry Association and Ludicorp (former parent company of Flickr).
 
-When: 
+When:
 
 Tuesday, October 17, 2006 - 17:00 to 18:30
 
-Where: 
+Where:
 
 Hennings 201
 
-Tags: 
+Tags:
 
 [Career](/career)

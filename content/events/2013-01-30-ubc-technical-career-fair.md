@@ -25,66 +25,66 @@ The fair is open to everyone, whether you’re in your first year or your last, 
 
 Companies attending:
 
-*   14 Oranges Software Inc.
-*   A Thinking Ape Technologies
-*   Altera
-*   Amazon
-*   AppNeta Inc.
-*   Aquatic Informatics Inc.
-*   Arista Networks
-*   Avanade, Inc.
-*   Avigilon
-*   Ayogo
-*   BCIT School of Computing
-*   Broadridge Financial Solutions
-*   Brock Solutions Inc.
-*   Canadian Security Intelligence Service (CSIS)
-*   Centre for Digital Media
-*   Communications Security Establishment Canada
-*   CounterPath
-*   Electronic Arts
-*   Epic Systems
-*   Ericsson
-*   Facebook
-*   Fortinet
-*   Global Relay
-*   Google
-*   HootSuite Media Inc
-*   ImageX Media
-*   iQmetrix
-*   Microsoft
-*   Mintec Inc.
-*   Mobify
-*   Morgan Stanley (Technology Division)
-*   NetApp
-*   NVIDIA
-*   Orbis Investments Limited Canada
-*   Ping Identity Canada Inc.
-*   PMC-Sierra
-*   QuickMobile
-*   Safe Software Inc.
-*   SAP Canada Inc.
-*   Schlumberger
-*   Seeker Solutions Inc
-*   Simba Technologies Inc.
-*   SkillsMatching.com
-*   Sophos Inc
-*   Tasktop Technologies
-*   Teradici Corporation
-*   United Front Games
-*   USNR
-*   Visier Solutions Inc.
-*   Western Washington University College of Business & Economics
-*   Zynga
+- 14 Oranges Software Inc.
+- A Thinking Ape Technologies
+- Altera
+- Amazon
+- AppNeta Inc.
+- Aquatic Informatics Inc.
+- Arista Networks
+- Avanade, Inc.
+- Avigilon
+- Ayogo
+- BCIT School of Computing
+- Broadridge Financial Solutions
+- Brock Solutions Inc.
+- Canadian Security Intelligence Service (CSIS)
+- Centre for Digital Media
+- Communications Security Establishment Canada
+- CounterPath
+- Electronic Arts
+- Epic Systems
+- Ericsson
+- Facebook
+- Fortinet
+- Global Relay
+- Google
+- HootSuite Media Inc
+- ImageX Media
+- iQmetrix
+- Microsoft
+- Mintec Inc.
+- Mobify
+- Morgan Stanley (Technology Division)
+- NetApp
+- NVIDIA
+- Orbis Investments Limited Canada
+- Ping Identity Canada Inc.
+- PMC-Sierra
+- QuickMobile
+- Safe Software Inc.
+- SAP Canada Inc.
+- Schlumberger
+- Seeker Solutions Inc
+- Simba Technologies Inc.
+- SkillsMatching.com
+- Sophos Inc
+- Tasktop Technologies
+- Teradici Corporation
+- United Front Games
+- USNR
+- Visier Solutions Inc.
+- Western Washington University College of Business & Economics
+- Zynga
 
-When: 
+When:
 
 Wednesday, January 30, 2013 - 10:00 to 16:00
 
-Where: 
+Where:
 
 Life Sciences Institute, west atrium
 
-Tags: 
+Tags:
 
 [Career](/career)

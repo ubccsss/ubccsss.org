@@ -21,10 +21,10 @@ Excited? RSVP to secretary(at)thecube.ca by **Monday Mar. 20**. If you're withou
 
 Please note that business casual attire is recommended.
 
-When: 
+When:
 
 Thursday, March 23, 2006 - 09:00 to 11:00
 
-Where: 
+Where:
 
 4611 Canada Way, Burnaby

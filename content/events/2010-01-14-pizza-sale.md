@@ -22,17 +22,17 @@ Come by for a quick and convenient way to enjoy some delicious pizza from FreshS
 
 Prices:
 
-*   Pizza: $2
-*   Pop: 50¢
+- Pizza: $2
+- Pop: 50¢
 
-When: 
+When:
 
 Friday, January 15, 2010 - 11:00 to 13:00
 
-Where: 
+Where:
 
 ICICS X-Wing Lounge
 
-Tags: 
+Tags:
 
 [Social](/social)

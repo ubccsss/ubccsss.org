@@ -23,14 +23,14 @@ The UBC Computer Science Co-op is hosting an information session for students wh
 
 This is the same as the event on January 27.
 
-When: 
+When:
 
 Thursday, January 28, 2010 - 12:30 to 14:00
 
-Where: 
+Where:
 
 DMP 201
 
-Tags: 
+Tags:
 
 [Career](/career)

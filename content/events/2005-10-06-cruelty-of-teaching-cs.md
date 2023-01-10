@@ -28,14 +28,14 @@ In this talk I will discuss possible directions we can take in teaching computer
 
 More information: [http://www.cs.ubc.ca/events/seminars/csicics.shtml](http://www.cs.ubc.ca/events/seminars/csicics.shtml)
 
-When: 
+When:
 
 Thursday, October 6, 2005 - 16:00 to 17:30
 
-Where: 
+Where:
 
 DMP 310
 
-Tags: 
+Tags:
 
 [Career](/career)

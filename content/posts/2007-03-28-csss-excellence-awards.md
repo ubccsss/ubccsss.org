@@ -14,6 +14,7 @@ demonstrated a strong involvement to the computer science
 community at UBC.
 
 #### How to apply?
+
 Submit your resume and two supporting letters (one from a fellow student
 and one from a faculty member) to the Computer Science office front desk
 (ICICS buildng) **before April 12th!**

@@ -16,24 +16,25 @@ We’re inviting all Computer Science and Engineering students to join us for an
 This is more than just an info session. Check out the TELUS work environment, meet the people, see the latest technologies and discover the exciting career opportunities that await you at TELUS.
 
 Schedule of Events:
-* 12:00 – 1:00pm Lunch & Networking
-* 1:00 – 1:45pm VP welcome to TELUS Presentation
-* 1:45 – 2:45pm Breakout Sessions / Tours
-* 2:45 – 4:15pm Pre-Interviews & Networking
+
+- 12:00 – 1:00pm Lunch & Networking
+- 1:00 – 1:45pm VP welcome to TELUS Presentation
+- 1:45 – 2:45pm Breakout Sessions / Tours
+- 2:45 – 4:15pm Pre-Interviews & Networking
 
 Please RSVP to [\[email protected\]](/cdn-cgi/l/email-protection) to confirm your attendance as space is limited
 
 BTLDP \
 To learn more about the awesomeness that is BTLDP, check out the following link: http://about.telus.com/careers/en/campus/business.html. Online applications are now being accepted.
 
-When: 
+When:
 
 Tuesday, January 25, 2011 - 12:00 to 16:15
 
-Where: 
+Where:
 
 3777 Kingway, Burnaby
 
-Tags: 
+Tags:
 
 [Career](/career)

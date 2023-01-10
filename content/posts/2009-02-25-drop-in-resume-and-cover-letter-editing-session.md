@@ -18,14 +18,14 @@ categories: [Career]
 tags: [Resume]
 ---
 
-When: 
+When:
 
 Monday, March 2, 2009 - 11:30 to 13:30
 
-Where: 
+Where:
 
 ICICS 255
 
-Tags: 
+Tags:
 
 [Career](/career)

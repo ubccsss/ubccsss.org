@@ -25,14 +25,14 @@ Columbia Institute of Technology**](http://www.bcit.ca).
 For more information check the attachement to this post or go
 to: [www.gnwc.ca/mdm/openhouse.htm](http://www.gnwc.ca/mdm/openhouse.htm)
 
-When: 
+When:
 
 Saturday, November 25, 2006 - 10:00 to 15:00
 
-Where: 
+Where:
 
 UBC Great Northern Way Campus
 
-File Attachments: 
+File Attachments:
 
- ![Image icon](/modules/file/icons/image-x-generic.svg "image/jpeg") [MDM-Open-House-Nov 25.JPG](https://ubccsss.org/files/MDM-Open-House-Nov%2025.JPG)
+![Image icon](/modules/file/icons/image-x-generic.svg "image/jpeg") [MDM-Open-House-Nov 25.JPG](https://ubccsss.org/files/MDM-Open-House-Nov%2025.JPG)

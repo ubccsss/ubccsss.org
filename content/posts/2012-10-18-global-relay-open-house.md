@@ -10,14 +10,14 @@ end_date: 2012-11-06 18:00:00
 raw_location: 220 Cambie St. 2nd Floor
 ---
 
-When: 
+When:
 
 Tuesday, November 6, 2012 - 16:30
 
-Where: 
+Where:
 
 220 Cambie St. 2nd Floor
 
-Tags: 
+Tags:
 
 [Career](/career)

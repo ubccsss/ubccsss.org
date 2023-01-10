@@ -20,6 +20,7 @@ Hope to see you there,
 The Cube
 
 Partial List of Games:
+
 - Dominion
 - Settlers of Catan
 - Bang!
@@ -27,7 +28,7 @@ Partial List of Games:
 - RoboRally
 - Citadels
 - Munchkin
-And more!
+  And more!
 
 **When:** \
 Friday, January 14, 2011 - 17:30 to 21:30 \

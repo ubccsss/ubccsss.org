@@ -32,14 +32,14 @@ Peter Andes \
 
 NOTE: For those of you not in co-op or not planning on going on a workterm this january we are planning a very similar but MUCH bigger event for January and EVERYONE is invited so watch out for that!
 
-When: 
+When:
 
 Friday, September 16, 2005 - 11:30 to 12:30
 
-Where: 
+Where:
 
 ICICS/CS X139
 
-Tags: 
+Tags:
 
 [Career](/career)

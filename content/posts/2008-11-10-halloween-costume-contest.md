@@ -12,20 +12,20 @@ Come by the Cube on Hallowe'en in your Hallowe'en Costume. One of the awesome Cu
 
 Prizes will be awarded for:
 
-*   Most unique
-*   Scariest
-*   Most comp. sci. oriented
+- Most unique
+- Scariest
+- Most comp. sci. oriented
 
 Additionally, **all** contestants will receive a free Google notebook! Thanks to Google for providing these notebooks.
 
-When: 
+When:
 
 Friday, October 31, 2008 - 01:00
 
-Where: 
+Where:
 
 ICICS X139 (Cube Office)
 
-Tags: 
+Tags:
 
 [Social](/social)

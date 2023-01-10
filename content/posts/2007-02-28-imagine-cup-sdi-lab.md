@@ -20,10 +20,10 @@ No RSVP necessary, just show up and knock on the door. If you have any questions
 
 \*
 
-When: 
+When:
 
 Friday, March 2, 2007 - 14:00 to 17:00
 
-Where: 
+Where:
 
 ICICS X350

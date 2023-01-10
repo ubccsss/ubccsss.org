@@ -26,7 +26,7 @@ Michael Kwan (VP Social): 47 yea, 3 nay
 
 Since not every position had a candidate, our remaining positions still need to be filled. Email vpc \[at\] thecube \[dot\] ca about your chosen position if interested!
 
-Tags: 
+Tags:
 
 [Club Activities](/club)
 

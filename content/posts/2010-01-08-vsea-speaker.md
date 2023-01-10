@@ -15,14 +15,14 @@ The Vancouver Student Entrepreneurship Association (VSEA) would like to invite y
 
 Attendance is free and refreshments will be provided. There will be a networking session and reception after the talk.
 
-When: 
+When:
 
 Friday, January 15, 2010 - 17:00 to 18:00
 
-Where: 
+Where:
 
 Irving K. Barber Learning Centre, RM 216
 
-Tags: 
+Tags:
 
 [Career](/career)

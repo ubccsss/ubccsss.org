@@ -20,7 +20,6 @@ location:
 
 ![](/files/2019-09-09-technical-clubs-days.png)
 
-
 Are you interested in joining a CS related club here at UBC?
 
 Come by the pacific poke area on Sept. 9th - Sept 10th from 11:00 AM - 1:30 PM to check out what clubs are available!

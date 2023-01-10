@@ -1,41 +1,41 @@
 ---
-title: 'Food Price List'
+title: "Food Price List"
 date: 2022-02-20 # last time rates were updated
 layout: menu
 prices:
   snacks:
-    - item: 'Fruit Snack'
-      price: '$0.25'
-    - item: 'Biscuits'
-      price: '$0.50'
-    - item: 'Chips'
-      price: '$0.50'
-    - item: 'Granola Bar'
-      price: '$0.50'
-    - item: 'Ice Cream Sandwhich'
-      price: '$0.75'
-    - item: 'Chocolate Bar'
-      price: '$1.00'
-    - item: 'Ice Cream Bar'
-      price: '$1.00'
+    - item: "Fruit Snack"
+      price: "$0.25"
+    - item: "Biscuits"
+      price: "$0.50"
+    - item: "Chips"
+      price: "$0.50"
+    - item: "Granola Bar"
+      price: "$0.50"
+    - item: "Ice Cream Sandwhich"
+      price: "$0.75"
+    - item: "Chocolate Bar"
+      price: "$1.00"
+    - item: "Ice Cream Bar"
+      price: "$1.00"
   meals:
-    - item: 'Chimichanga'
-      price: '$1.25'
-    - item: 'Fried Rice'
-      price: '$3.00'
-    - item: 'Noodles'
-      price: '$3.00'
+    - item: "Chimichanga"
+      price: "$1.25"
+    - item: "Fried Rice"
+      price: "$3.00"
+    - item: "Noodles"
+      price: "$3.00"
   beverages:
-    - item: 'Pop'
-      price: '$0.50'
-    - item: 'Yogurt'
-      price: '$0.50'
-    - item: 'Tea'
-      price: '$0.50'
-    - item: 'Coffee'
-      price: '$1.00'
-    - item: 'Redbull'
-      price: '$2.00'
+    - item: "Pop"
+      price: "$0.50"
+    - item: "Yogurt"
+      price: "$0.50"
+    - item: "Tea"
+      price: "$0.50"
+    - item: "Coffee"
+      price: "$1.00"
+    - item: "Redbull"
+      price: "$2.00"
 ---
 
 <style>td { white-space: nowrap }</style>

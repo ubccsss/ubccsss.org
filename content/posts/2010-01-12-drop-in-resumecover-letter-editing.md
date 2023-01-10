@@ -19,14 +19,14 @@ categories: [Career]
 tags: [Resume]
 ---
 
-When: 
+When:
 
 Tuesday, January 19, 2010 - 12:30 to 14:00
 
-Where: 
+Where:
 
 ICICS 255
 
-Tags: 
+Tags:
 
 [Career](/career)

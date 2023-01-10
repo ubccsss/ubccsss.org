@@ -26,10 +26,10 @@ Everybody who attends the Develop Mental Tour walks away with either a voucher f
 Agenda: \
 6:00 PM – 8:00 PM Seminar presentation
 
-When: 
+When:
 
 Thursday, March 2, 2006 - 17:00 to 19:00
 
-Where: 
+Where:
 
 GSS Ballroom corner of West Mall & Crescent Rd

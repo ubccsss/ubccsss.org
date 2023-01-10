@@ -3,7 +3,13 @@ body {
   overflow-x: hidden;
 }
 
-h1, h2, h3, h4, h5, h6, .navbar-brand {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-brand {
   font-family: "Montserrat", sans-serif;
 }
 
@@ -60,8 +66,8 @@ a {
 
 @media only screen and (max-width: 992px) {
   .dropdown-menu {
-      border: none;
-      background-color: #fcfcfc;
+    border: none;
+    background-color: #fcfcfc;
   }
 
   .dropdown-item:active {

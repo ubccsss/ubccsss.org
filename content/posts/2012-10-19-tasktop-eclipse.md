@@ -11,15 +11,15 @@ tags: [Career, Social]
 
 [Register here if interested](https://wiki.eclipse.org/index.php?title=Eclipse_DemoCamps_November_2012/Vancouver)
 
-When: 
+When:
 
 Tuesday, November 13, 2012 - 17:30
 
-Where: 
+Where:
 
 1100-1500 West Georgia St.
 
-Tags: 
+Tags:
 
 [Career](/career)
 

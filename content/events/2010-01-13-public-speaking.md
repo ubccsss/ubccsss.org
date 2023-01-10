@@ -21,10 +21,10 @@ location:
 
 Don't stress out over public speaking! Learn some tips on how to effectively present in front of a group.
 
-When: 
+When:
 
 Monday, January 25, 2010 - 17:00 to 18:00
 
-Where: 
+Where:
 
 DMP 101

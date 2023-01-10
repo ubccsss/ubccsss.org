@@ -1,5 +1,5 @@
 ---
-title: 'Organizing Support for Charity 2010–2011'
+title: "Organizing Support for Charity 2010–2011"
 date: 2010-04-07 02:51:00
 aliases:
   - /node/1353

@@ -28,10 +28,10 @@ Free pizza will be provided to attendees.
 We look forward to seeing you there, \
 The Cube
 
-When: 
+When:
 
 Wednesday, November 17, 2010 - 17:30 to 19:00
 
-Where: 
+Where:
 
 DMP 101

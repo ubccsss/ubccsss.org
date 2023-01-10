@@ -1,5 +1,5 @@
 ---
 title: Operating Systems
 layout: course
-description: 
+description:
 ---

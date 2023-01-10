@@ -32,14 +32,14 @@ CSSS Games List:
 - Ticket to Ride Europe
 - Settlers of Catan
 
-When: 
+When:
 
 Friday, October 15, 2010 - 17:30
 
-Where: 
+Where:
 
 ReBoot Cafe
 
-Tags: 
+Tags:
 
 [Social](/social)

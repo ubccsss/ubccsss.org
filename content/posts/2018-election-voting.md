@@ -18,15 +18,15 @@ All votes are confidential, and all personal information is only used for verifi
 
 Voting closes on March 21st, at 5PM.
 
-When: 
+When:
 
 Friday, March 16, 2018 - 09:00 to Wednesday, March 21, 2018 - 17:00
 
-Where: 
+Where:
 
 https://ubccsss.org/vote
 
-Tags: 
+Tags:
 
 [Club Activities](/club)
 

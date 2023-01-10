@@ -17,7 +17,7 @@ start_date: 2022-03-21 12:00:00
 end_date: 2022-04-03 23:59:59
 ---
 
-Please submit your vote by **Sunday, April 3rd 2022, 11:59PM**. 
+Please submit your vote by **Sunday, April 3rd 2022, 11:59PM**.
 
 Feel free to message csss@ubccsss.org if you have any questions!
 

@@ -26,14 +26,14 @@ Hear speakers talk about the software and projects Microsoft works on (it isn't 
 
 See [Microsoft College Careers](https://www.microsoft.com/College/default.mspx) for more information about working at Microsoft. Or, check out [theSpoke](http://thespoke.net) for general talk and more information about the **Imagine Cup** in New Delhi this year!
 
-When: 
+When:
 
 Wednesday, November 23, 2005 - 17:00 to 18:15
 
-Where: 
+Where:
 
 Dempster Room 310
 
-Tags: 
+Tags:
 
 [Career](/career)

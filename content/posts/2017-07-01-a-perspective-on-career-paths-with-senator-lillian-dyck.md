@@ -17,10 +17,10 @@ Admission is **free**, and the event is open to the public. Please RSVP to:
 
 Message Subject: Career Path Message Body: Your name
 
-When: 
+When:
 
 Thursday, October 12, 2006 - 18:00 to 20:00
 
-Where: 
+Where:
 
 First Nations House of Learning, 1985 West Mall

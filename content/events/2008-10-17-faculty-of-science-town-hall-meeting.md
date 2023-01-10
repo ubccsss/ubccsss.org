@@ -21,14 +21,14 @@ location:
 
 Dean Simon Peacock will be there to hear ideas and concerns from students, and to discuss with them major issues in the Faculty of Science.
 
-When: 
+When:
 
 Monday, October 27, 2008 - 13:30 to 15:00
 
-Where: 
+Where:
 
 Ladha Science Student Centre
 
-Tags: 
+Tags:
 
 [Career](/career)

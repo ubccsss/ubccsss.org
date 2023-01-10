@@ -35,7 +35,7 @@ Please send James[
 
 an email by Thursday Sept 27 if you're interested. Also tell us which shifts you would like to sign up for (e.g. A & B, just A, whatever). We'll send a reminder to volunteers participating in the event.
 
-Hope to see you out there! If you have any questions, email James ([jlo\_at\_thecube\_dot\_ca](/cdn-cgi/l/email-protection#a6cccac9e6d2cec3c5d3c4c388c5c7)) or Eugene ([echan0\_at\_interchange\_dot\_ubc\_dot\_ca](/cdn-cgi/l/email-protection#c3a6a0aba2adf383aaadb7a6b1a0aba2ada4a6edb6a1a0eda0a2)).
+Hope to see you out there! If you have any questions, email James ([jlo_at_thecube_dot_ca](/cdn-cgi/l/email-protection#a6cccac9e6d2cec3c5d3c4c388c5c7)) or Eugene ([echan0_at_interchange_dot_ubc_dot_ca](/cdn-cgi/l/email-protection#c3a6a0aba2adf383aaadb7a6b1a0aba2ada4a6edb6a1a0eda0a2)).
 
 Thanks.
 
@@ -44,14 +44,14 @@ CSSS Tri-mentoring Rep and VP Internal
 
 UBC Computer Science Tri-mentoring is a program bridging students with professionals in both the academic and industry fields. This year UBC CS Tri-mentoring has over 70 mentors with diverse backgrounds and experiences coming to UBC to mentor some of our UBC CS fellows.
 
-When: 
+When:
 
 Tuesday, October 2, 2007 - 17:00 to 19:30
 
-Where: 
+Where:
 
 SUB Party Room, 2nd floor
 
-Tags: 
+Tags:
 
 [Career](/career)

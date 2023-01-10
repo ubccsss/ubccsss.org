@@ -11,14 +11,14 @@ end_date: 2010-03-23 17:00:00
 raw_location: Kaiser 2020
 ---
 
-When: 
+When:
 
 Tuesday, March 23, 2010 - 15:30 to 17:00
 
-Where: 
+Where:
 
 Kaiser 2020
 
-Tags: 
+Tags:
 
 [Career](/career)

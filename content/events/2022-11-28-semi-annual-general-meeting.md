@@ -27,6 +27,6 @@ end_date: 2022-11-29 19:30:00
 
 <br/>
 
-Want to know how we run everything here at the CSSS and provide your input? Come to our Semi-Annual General Meeting and find out what we've been up to this term, as well as all the exciting events we have in store for you! 
-Our official CSSS merch will also be up for pre-sale with limited supply! 
+Want to know how we run everything here at the CSSS and provide your input? Come to our Semi-Annual General Meeting and find out what we've been up to this term, as well as all the exciting events we have in store for you!
+Our official CSSS merch will also be up for pre-sale with limited supply!
 Free pizza will be provided post-meeting in the Cube.

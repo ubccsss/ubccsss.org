@@ -11,28 +11,28 @@ tags: [Social]
 
 Elections for the CSSS for the 2008–2009 academic year are right around the corner! Elections are open Thursday and Friday 9:30–4 each day. Candidates are:
 
-*   President
-    *   KWOK, Amy
-    *   PUREWAL, Sonia
-*   Vice President, Internal
-    *   PERSWAIN, Presley
-*   Vice President, External
-    *   TANTONGCO, Jeremiah
-*   Treasurer
-    *   LEUNG, Julianne
-*   Graduating Representative
-    *   CHEN, Albert
-*   Social Coordinator
-    *   AHMADIAN, Nadia
+- President
+  - KWOK, Amy
+  - PUREWAL, Sonia
+- Vice President, Internal
+  - PERSWAIN, Presley
+- Vice President, External
+  - TANTONGCO, Jeremiah
+- Treasurer
+  - LEUNG, Julianne
+- Graduating Representative
+  - CHEN, Albert
+- Social Coordinator
+  - AHMADIAN, Nadia
 
-When: 
+When:
 
 Thursday, March 27, 2008 - 10:30 to Friday, March 28, 2008 - 17:00
 
-Where: 
+Where:
 
 Dempster Foyer
 
-Tags: 
+Tags:
 
 [Social](/social)

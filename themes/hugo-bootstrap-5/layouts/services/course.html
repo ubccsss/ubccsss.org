@@ -1,90 +1,95 @@
 {{ define "main" }}
-<header>
+  <header>
     <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-            {{ partial "breadcrumb/chain" .Parent }}
-            <li class="breadcrumb-item active" aria-current="page">
-                {{ replace (upper .File.ContentBaseName) "-" " " }}
-            </li>
-        </ol>
+      <ol class="breadcrumb">
+        {{ partial "breadcrumb/chain" .Parent }}
+        <li class="breadcrumb-item active" aria-current="page">
+          {{ replace (upper .File.ContentBaseName) "-" " " }}
+        </li>
+      </ol>
     </nav>
     <h1 class="blog-post-title">
-        {{ replace (upper .File.ContentBaseName) "-" " " }}
+      {{ replace (upper .File.ContentBaseName) "-" " " }}
     </h1>
     <h3 class="blog-post-title mb-0">{{ .Title | markdownify }}</h3>
-</header>
-<article class="blog-post py-4">
+  </header>
+  <article class="blog-post py-4">
     <div class="card" style="background-color: #fcfcfc">
-        <div class="card-body">
-            {{ with .Description }}
-            <p class="card-text">
-                <em>
-                    <b>Course description</b>
-                </em>
-                <br>
-                {{ . }}
-            </p>
-            {{ end }}
-            {{ with (index $.Site.Data.courseReviews .File.ContentBaseName)}}
-            {{ $averageDifficulty := 0 }}
-            {{ $difficultyCount := 0 }}
-            {{ $averageQuality := 0}}
-            {{ $qualityCount := 0 }}
+      <div class="card-body">
+        {{ with .Description }}
+          <p class="card-text">
+            <em>
+              <b>Course description</b>
+            </em>
+            <br />
+            {{ . }}
+          </p>
+        {{ end }}
+        {{ with (index $.Site.Data.courseReviews .File.ContentBaseName) }}
+          {{ $averageDifficulty := 0 }}
+          {{ $difficultyCount := 0 }}
+          {{ $averageQuality := 0 }}
+          {{ $qualityCount := 0 }}
+          {{ range . }}
             {{ range . }}
-                {{range .}}
-                    {{if not (eq .difficulty 0)}} {{ $difficulty := .difficulty }}
-                        {{ $averageDifficulty = add $averageDifficulty $difficulty }}
-                        {{ $difficultyCount = add $difficultyCount 1 }}
-                    {{end}}
-                    {{if not (eq .quality 0)}} {{ $quality := .quality }}
-                        {{ $averageQuality = add $averageQuality $quality }}
-                        {{$qualityCount = add $qualityCount 1 }}
-                    {{end}}
-                {{ end }}
-            {{end}}
-            <div class="row">
-                {{ if and (not (eq $averageDifficulty 0)) (not (eq $difficultyCount 0)) }}
-                <div class="col pb-4">
-                    {{ $val := trim (div (float $averageDifficulty) (float $difficultyCount) | lang.FormatNumber 2)  ".0" }}
-                    {{ partial "course/progress.html" (dict "val" $val "label" "Average difficulty" "color" "bg-secondary") }}
-                </div>
-                {{end}}
-                {{if and (not (eq $averageQuality 0)) (not (eq $qualityCount 0))}}
-                <div class="col pb-4">
-                    {{ $val := trim (div (float $averageQuality) (float $qualityCount) | lang.FormatNumber 2)  ".0" }}
-                    {{ partial "course/progress.html" (dict "val" $val "label" "Average quality") }}
-                </div>
-                {{end}}
-            </div>
-            {{end}}
-            <a class="btn btn-primary" href="#review-div" role="button">Write your own review below!</a>
-        </div>
+              {{ if not (eq .difficulty 0) }}
+                {{ $difficulty := .difficulty }}
+                {{ $averageDifficulty = add $averageDifficulty $difficulty }}
+                {{ $difficultyCount = add $difficultyCount 1 }}
+              {{ end }}
+              {{ if not (eq .quality 0) }}
+                {{ $quality := .quality }}
+                {{ $averageQuality = add $averageQuality $quality }}
+                {{ $qualityCount = add $qualityCount 1 }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          <div class="row">
+            {{ if and (not (eq $averageDifficulty 0)) (not (eq $difficultyCount 0)) }}
+              <div class="col pb-4">
+                {{ $val := trim (div (float $averageDifficulty) (float $difficultyCount) | lang.FormatNumber 2)  ".0" }}
+                {{ partial "course/progress.html" (dict "val" $val "label" "Average difficulty" "color" "bg-secondary") }}
+              </div>
+            {{ end }}
+            {{ if and (not (eq $averageQuality 0)) (not (eq $qualityCount 0)) }}
+              <div class="col pb-4">
+                {{ $val := trim (div (float $averageQuality) (float $qualityCount) | lang.FormatNumber 2)  ".0" }}
+                {{ partial "course/progress.html" (dict "val" $val "label" "Average quality") }}
+              </div>
+            {{ end }}
+          </div>
+        {{ end }}
+        <a class="btn btn-primary" href="#review-div" role="button"
+          >Write your own review below!</a
+        >
+      </div>
     </div>
     {{ if (index $.Site.Data.courseReviews .File.ContentBaseName) }}
-      {{ with (index $.Site.Data.courseReviews .File.ContentBaseName)}}
+      {{ with (index $.Site.Data.courseReviews .File.ContentBaseName) }}
         {{ range . }}
-            {{ partial "course/review" . }}
-        {{end}}
-      {{end}}
-  {{else}}
-    <br>
-    No reviews yet. Be the first to write one!
-    <br>
-    <br>
-    {{ end }}
-  {{ if .IsTranslated }}
-    <h4>{{ i18n "translations" }}</h4>
-    <ul>
-        {{ range .Translations }}
-        <li>
-            <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
-        </li>
+          {{ partial "course/review" . }}
         {{ end }}
-    </ul>
-    {{ end }} {{ partial "related" . }}
-    <br>
+      {{ end }}
+    {{ else }}
+      <br />
+      No reviews yet. Be the first to write one!
+      <br />
+      <br />
+    {{ end }}
+    {{ if .IsTranslated }}
+      <h4>{{ i18n "translations" }}</h4>
+      <ul>
+        {{ range .Translations }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+    {{ partial "related" . }}
+    <br />
     {{ partial "course/grades" . }}
 
-  {{ partial "related-form" . }}
-</article>
+    {{ partial "related-form" . }}
+  </article>
 {{ end }}

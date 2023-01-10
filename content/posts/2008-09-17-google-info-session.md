@@ -33,14 +33,14 @@ Trista Taylor \
 University Programs \
 Google Inc.
 
-When: 
+When:
 
 Wednesday, September 24, 2008 - 18:30 to 20:30
 
-Where: 
+Where:
 
 Wesbrook 100
 
-Tags: 
+Tags:
 
 [Career](/career)

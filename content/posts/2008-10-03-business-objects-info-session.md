@@ -15,14 +15,14 @@ UBC Career Services is pleased to invite you to attend an Information Session ho
 
 They will also be attending UBC's annual Career Days in SUB on Oct. 1st and 2nd so make a point of stopping by their booth for further career opportunity information.
 
-When: 
+When:
 
 Tuesday, October 7, 2008 - 18:30 to 19:30
 
-Where: 
+Where:
 
 Wesbrook 100
 
-Tags: 
+Tags:
 
 [Career](/career)

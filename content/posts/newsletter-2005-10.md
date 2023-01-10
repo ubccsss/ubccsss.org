@@ -19,10 +19,11 @@ Midterm season is upon us. We at the CSSS suggest you spend some time away from 
 7.  [CS Peer Tutoring](http://www.csss.cs.ubc.ca/node/115#7)
 8.  [In My Experience](http://www.csss.cs.ubc.ca/node/115#8)
 9.  [SUS Council Computer Science Rep Wanted](http://www.csss.cs.ubc.ca/node/115#9)
-10.  [Grad Photos](http://www.csss.cs.ubc.ca/node/115#10)
-11.  [Who's Who Winners](http://www.csss.cs.ubc.ca/node/115#11)
+10. [Grad Photos](http://www.csss.cs.ubc.ca/node/115#10)
+11. [Who's Who Winners](http://www.csss.cs.ubc.ca/node/115#11)
 
-___
+---
+
 **CSSS LAN Party**
 
 _When: Friday Oct. 7, 6:00-12:00pm \
@@ -44,7 +45,8 @@ Free Pizza! (Sponsored by Accenture, thanks!)
 
 For more information and details, head over to the [LAN Party forum thread](http://www.csss.cs.ubc.ca/node/61).
 
-___
+---
+
 **Electronic Arts Studio Night**
 
 _When: Wednesday Oct. 12, 6:00-8:00pm \
@@ -58,7 +60,8 @@ One interesting note is that transportation is provided (presumably from UBC to 
 
 [Click the here to view the poster!](../../files/Studio Night Oct 12.jpg)
 
-___
+---
+
 **UBC Masters of Management in Operations Research Info Session**
 
 _When: Wednesday Oct. 12, 12:00-1:30pm \
@@ -69,8 +72,7 @@ Are you interested in a career in consulting or business analysis?
 Do you have a background in computer science, engineering, mathematics, economics, or other quantitative fields?
 If so, we would like to invite you to a special information session on the UBC Master of Management in Operations Research program.
 
-Presenter: Mats Gerschman, Managing Director Centre for Operations Excellence, Sauder School of Business, University of British Columbia
-\* Drinks and light snacks will be provided. \*
+Presenter: Mats Gerschman, Managing Director Centre for Operations Excellence, Sauder School of Business, University of British Columbia \* Drinks and light snacks will be provided. \*
 
 The 16-month UBC Master of Management in Operations Research (MM in OR) program trains students to become professional business analysts by providing rigorous technical fundamentals, practical consulting skills, and real-world problem solving experience.
 
@@ -82,7 +84,8 @@ If you are interested in attending this session, please RSVP to [\[email protec
 
 We hope to see you there!
 
-___
+---
+
 **Grad School Application Workshop**
 
 _When: Friday Oct. 14, 4:00-5:00pm \
@@ -94,7 +97,8 @@ Will Evans (chair of graduate admissions committee) and Joyce Poon (graduate pro
 
 Have all your questions answered, then come to the CSSS Licensed BBQ afterwards!
 
-___
+---
+
 **CSSS Licensed BBQ**
 
 _When: Friday Oct. 14, 4:00-8:00pm \
@@ -108,7 +112,8 @@ Please note that valid picture ID is required for entrance to the licensed area 
 
 Hope to see you at the there!
 
-___
+---
+
 **CS Clothing Contest 2005**
 
 The CSSS wants your input again - this time, we're choosing the logo for our clothing contest! As you know, we all like to style ourselves CS students, so this is, understandably, of enormous importance. Your input is very valuable to us :-)
@@ -117,7 +122,8 @@ We received your designs, and to make things a little more interesting, we've al
 
 [Click here to see the logos!](http://www.csss.cs.ubc.ca/clothing2005)
 
-___
+---
+
 **Peer Tutoring**
 
 Wanna be a tutor?
@@ -142,7 +148,8 @@ If you'd like to participate, here's how to do it:
 
 We'll match you up and then let you go from there! We'll also have fun informal social sessions for participants.
 
-___
+---
+
 **In My Experience**
 
 Are you a senior CS student with plenty of experience under your belt? Are you a combined major, plain CS major, CS honours, cognitive systems major, or studying any of a number of such CS related concentrations? Have you a friend or sibling who may have recently graduated from the UBC CS program?
@@ -151,7 +158,8 @@ If any of these apply to you, we want to hear from you! The In My Experience spe
 
 Please email Nakisa at internalvp\[at\]csss.cs.ubc.ca if you're interested.
 
-___
+---
+
 **SUS Council Computer Science Rep Wanted**
 
 The All-Candidates-Meeting for the SUS Council Elections has come and gone and there are vacancies.
@@ -162,7 +170,8 @@ For more infomation, please visit:
 
 [http://www.sus.ubc.ca/elections/election.html](http://www.sus.ubc.ca/elections/election.html)
 
-___
+---
+
 **Grad Photos**
 
 Are you graduating this year? Get your grad photos done now! Grad Portraits are being taken at:
@@ -177,7 +186,8 @@ Simply phone Evangelos to book your appointment. Deadline is Nov. 30, 2005.
 
 Come to the CSSS Office (X139) to pick up an info sheet with tips for getting your grad photos done.
 
-___
+---
+
 **Who's Who Winners**
 
 Congratulation to Taivo Evard and Richard Quan for winning the "Who's Who contest". Please drop by the CSSS office during our office hours to pick up your prizes!

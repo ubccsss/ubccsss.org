@@ -18,13 +18,13 @@ Forms must be submitted at the Cube Office by 12 PM on Friday, March 9th to be a
 
 The positions open are:
 
-*   President
-*   Vice President, Administration
-*   Vice President, Communications
-*   Vice President, External
-*   Vice President, Finance
-*   Vice President, Internal
-*   Vice President, Social
-*   Vice President, Volunteering Services
+- President
+- Vice President, Administration
+- Vice President, Communications
+- Vice President, External
+- Vice President, Finance
+- Vice President, Internal
+- Vice President, Social
+- Vice President, Volunteering Services
 
 For descriptions of the responsibilities of the positions, please see our [constitution](/club/about/constitution), specifically bylaw 8.

@@ -21,14 +21,14 @@ For the map link: http://tinyurl.com/CSSS-climbing
 
 Be aware that you will need to fill out a waiver. For anyone under 19, we will also need your parent or guardian's signature on the consent form. No waiver, no climbing, period.
 
-When: 
+When:
 
 Friday, November 19, 2010 - 18:00 to 20:00
 
-Where: 
+Where:
 
 Cliffhanger, Vancouver
 
-Tags: 
+Tags:
 
 [Social](/social)

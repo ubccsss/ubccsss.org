@@ -15,10 +15,10 @@ In short, the CSSS will now allow two (2) Members to jointly run for a CSSS Exec
 
 The full text of the amendment is attached below. The updated constitution will be uploaded on our [Constitution page](/club/about/constitution) once it is available.
 
-File Attachments: 
+File Attachments:
 
- ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [amendment\_20160315.pdf](https://ubccsss.org/files/amendment_20160315.pdf)
+![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [amendment_20160315.pdf](https://ubccsss.org/files/amendment_20160315.pdf)
 
-Tags: 
+Tags:
 
 [Club Activities](/club)

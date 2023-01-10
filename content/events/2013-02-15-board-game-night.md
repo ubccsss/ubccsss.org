@@ -22,6 +22,7 @@ location:
 The Cube will once again be hosting our bi-weekly board/card game night this Friday in Reboot Café. We’ll be providing some games as usual but you’re more than welcome to bring your own games—and friends, too!
 
 Partial List of Games:
+
 - Dominion
 - Settlers of Catan
 - Bang!
@@ -32,14 +33,14 @@ Partial List of Games:
 
 P.S. rumor has it there’ll be snacks…
 
-When: 
+When:
 
 Friday, February 15, 2013 - 17:00 to 21:00
 
-Where: 
+Where:
 
 Reboot Café
 
-Tags: 
+Tags:
 
 [Social](/social)

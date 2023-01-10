@@ -92,15 +92,15 @@ Here is a list of the 2017 Technical Career Fair participants:
 
 If you'd like more information on the upcoming fair, including registration for the event, please reach out to [\[email protected\]](/cdn-cgi/l/email-protection#d0b3b1a2b5b5a2b6b1b9a290a5b2b3b3a3a3a3febfa2b7) and a representative will be happy to assist you.
 
-When: 
+When:
 
 Thursday, January 26, 2017 - 10:00 to 16:00
 
-Where: 
+Where:
 
 West Atrium of the Life Sciences Centre
 
-Tags: 
+Tags:
 
 [Club Activities](/club)
 

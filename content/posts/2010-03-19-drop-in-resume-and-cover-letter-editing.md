@@ -21,14 +21,14 @@ tags: [Resume]
 
 20-minute appointments available.
 
-When: 
+When:
 
 Tuesday, March 23, 2010 - 12:30 to 14:30
 
-Where: 
+Where:
 
 ICICS 255
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -19,8 +19,8 @@ Feel free to sign up for an account (editor’s note: public accounts now closed
 
 \-- Your CSSS webmasters.
 
-*   [feed://ubccsss.org/node/feed](feed://ubccsss.org/node/feed) (editor’s note: changed)
-*   [webcal://ubccsss.org/event/ical/all/all](webcal://ubccsss.org/event/ical/all/all) (editor’s note: changed)
-*   http://thecube.ca/forum (editor’s note: now closed)
+- [feed://ubccsss.org/node/feed](feed://ubccsss.org/node/feed) (editor’s note: changed)
+- [webcal://ubccsss.org/event/ical/all/all](webcal://ubccsss.org/event/ical/all/all) (editor’s note: changed)
+- http://thecube.ca/forum (editor’s note: now closed)
 
 PS: The website is due for a (visual) makeover soon. More is yet to come :-)

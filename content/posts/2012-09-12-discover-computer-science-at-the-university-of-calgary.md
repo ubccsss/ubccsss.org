@@ -24,9 +24,9 @@ To apply, just email: [\[email protected\]](/cdn-cgi/l/email-protection#1a6e757
 
 Include three things
 
-*   Your résumé/CV
-*   Unofficial college/university transcripts
-*   A short half-page to full-page statement about what your research interests are, or what courses were interesting during your undergrad. (If you’ve done research already, please let us know what that was!)
+- Your résumé/CV
+- Unofficial college/university transcripts
+- A short half-page to full-page statement about what your research interests are, or what courses were interesting during your undergrad. (If you’ve done research already, please let us know what that was!)
 
 !! SOUNDS GREAT, HOW MUCH DOES IT COST?
 
@@ -34,20 +34,20 @@ It’s free! We’ll spring for your flights, food and hotel costs!
 
 !! IMPORTANT DATES
 
-*   Application Deadline: Mon. Oct 1st, 23:59 Pacific
-*   Notification: Mon. Oct 8th
-*   Acceptance Confirmation: Wed. Oct 9th, 23:59 Pacific
-*   Flight to Calgary: Thur. Oct 18th
-*   Flight back home: Sat. Oct 20th
+- Application Deadline: Mon. Oct 1st, 23:59 Pacific
+- Notification: Mon. Oct 8th
+- Acceptance Confirmation: Wed. Oct 9th, 23:59 Pacific
+- Flight to Calgary: Thur. Oct 18th
+- Flight back home: Sat. Oct 20th
 
 !! MORE INFORMATION
 
 [http://snipurl.com/DiscoverCPSC](http://snipurl.com/DiscoverCPSC)
 
-When: 
+When:
 
 Friday, October 19, 2012 - 20:22 to Saturday, October 20, 2012 - 20:22
 
-Where: 
+Where:
 
 University of Calgary

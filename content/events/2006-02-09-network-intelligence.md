@@ -26,14 +26,14 @@ In this talk, we will discuss the evolution of network intelligence and its impa
 
 For more information, see [http://www.cs.ubc.ca/events/seminars/csicics.shtml](http://www.cs.ubc.ca/events/seminars/csicics.shtml)
 
-When: 
+When:
 
 Thursday, February 9, 2006 - 15:00 to 16:30
 
-Where: 
+Where:
 
 DMP 310
 
-Tags: 
+Tags:
 
 [Career](/career)

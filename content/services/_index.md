@@ -69,4 +69,3 @@ We run a variety of social events - board game nights, barbecues, and more!
 Feel free to join our discord server to chat with fellow CSSS peers, as well as to attend our virtual events!
 
 If you would like your own team for a CS associated club please contact the VPC.
-

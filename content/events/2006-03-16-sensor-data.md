@@ -24,14 +24,14 @@ location:
 
 More information: [http://www.cs.ubc.ca/events/seminars/csicics.shtml](http://www.cs.ubc.ca/events/seminars/csicics.shtml)
 
-When: 
+When:
 
 Thursday, March 16, 2006 - 15:00 to 16:30
 
-Where: 
+Where:
 
 DMP 310
 
-Tags: 
+Tags:
 
 [Career](/career)

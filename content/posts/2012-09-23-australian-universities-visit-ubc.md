@@ -19,43 +19,43 @@ location:
 
 University staff from 8 Australian universities will be at UBC to provide information and answer any questions that you may have:
 
-*   Bond University
-*   Macquarie University
-*   University of Melbourne
-*   University of Queensland
-*   James Cook University
-*   Monash University
-*   University of Newcastle
-*   University of Sydney
+- Bond University
+- Macquarie University
+- University of Melbourne
+- University of Queensland
+- James Cook University
+- Monash University
+- University of Newcastle
+- University of Sydney
 
 You will have the opportunity to speak with each Australian university and learn more about program options, how to apply, entry requirements, application deadlines, student loan options, accreditation and much, much more!
 
 Programs that you will be able to learn more about include:
 
-*   [Architecture](http://oztrekk.com/programs/architecture/PG/overview.php)
-*   [Health Sciences](http://oztrekk.com/programs/health_sciences/PG/overview.php)
-*   [Physiotherapy](http://oztrekk.com/programs/physio/PG/overview.php)
-*   [Arts](http://oztrekk.com/programs/arts/PG/overview.php)
-*   [Law/J.D.](http://oztrekk.com/programs/law/PG/overview.php)
-*   [Psychology](http://oztrekk.com/programs/psychology/PG/overview.php)
-*   [Audiology](http://oztrekk.com/programs/audiology/PG/overview.php)
-*   [Linguistics](http://oztrekk.com/programs/linguistics/PG/overview.php)
-*   [Public Health](http://oztrekk.com/programs/public_health/PG/overview.php)
-*   [Business](http://oztrekk.com/programs/business/PG/overview.php)
-*   [Medicine](http://oztrekk.com/programs/medicine/PG/overview.php)
-*   [Research](http://oztrekk.com/programs/research/PG/overview.php)
-*   [Chiropractic](http://oztrekk.com/programs/chiropractic/PG/overview.php)
-*   [Nursing](http://oztrekk.com/programs/nursing/PG/overview.php)
-*   [Science](http://oztrekk.com/programs/science/PG/overview.php)
-*   [Counselling](http://oztrekk.com/programs/counselling/PG/overview.php)
-*   [Occupational Therapy](http://oztrekk.com/programs/ot/PG/overview.php)
-*   [Speech Pathology](http://oztrekk.com/programs/speech_pathology/PG/overview.php)
-*   [Dentistry](http://oztrekk.com/programs/dentistry/PG/overview.php)
-*   [Optometry](http://oztrekk.com/programs/optometry/PG/overview.php)
-*   [Teacher Education](http://oztrekk.com/programs/teacher_ed/PG/overview.php)
-*   [Engineering/I.T.](http://oztrekk.com/programs/eng_it/PG/overview.php)
-*   [Pharmacy](http://oztrekk.com/programs/pharmacy/PG/overview.php)
-*   [Veterinary Science](http://oztrekk.com/programs/vet_science/PG/overview.php)
+- [Architecture](http://oztrekk.com/programs/architecture/PG/overview.php)
+- [Health Sciences](http://oztrekk.com/programs/health_sciences/PG/overview.php)
+- [Physiotherapy](http://oztrekk.com/programs/physio/PG/overview.php)
+- [Arts](http://oztrekk.com/programs/arts/PG/overview.php)
+- [Law/J.D.](http://oztrekk.com/programs/law/PG/overview.php)
+- [Psychology](http://oztrekk.com/programs/psychology/PG/overview.php)
+- [Audiology](http://oztrekk.com/programs/audiology/PG/overview.php)
+- [Linguistics](http://oztrekk.com/programs/linguistics/PG/overview.php)
+- [Public Health](http://oztrekk.com/programs/public_health/PG/overview.php)
+- [Business](http://oztrekk.com/programs/business/PG/overview.php)
+- [Medicine](http://oztrekk.com/programs/medicine/PG/overview.php)
+- [Research](http://oztrekk.com/programs/research/PG/overview.php)
+- [Chiropractic](http://oztrekk.com/programs/chiropractic/PG/overview.php)
+- [Nursing](http://oztrekk.com/programs/nursing/PG/overview.php)
+- [Science](http://oztrekk.com/programs/science/PG/overview.php)
+- [Counselling](http://oztrekk.com/programs/counselling/PG/overview.php)
+- [Occupational Therapy](http://oztrekk.com/programs/ot/PG/overview.php)
+- [Speech Pathology](http://oztrekk.com/programs/speech_pathology/PG/overview.php)
+- [Dentistry](http://oztrekk.com/programs/dentistry/PG/overview.php)
+- [Optometry](http://oztrekk.com/programs/optometry/PG/overview.php)
+- [Teacher Education](http://oztrekk.com/programs/teacher_ed/PG/overview.php)
+- [Engineering/I.T.](http://oztrekk.com/programs/eng_it/PG/overview.php)
+- [Pharmacy](http://oztrekk.com/programs/pharmacy/PG/overview.php)
+- [Veterinary Science](http://oztrekk.com/programs/vet_science/PG/overview.php)
 
 ### ABOUT OzTREKK
 
@@ -73,10 +73,10 @@ If you’re looking for more information, or cannot make it to the fair, simply 
 
 We look forward to seeing you at the fair!
 
-When: 
+When:
 
 Wednesday, September 26, 2012 - 10:00 to 16:00
 
-Where: 
+Where:
 
 SUB

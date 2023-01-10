@@ -17,14 +17,14 @@ Those interested in attending should add their name to the [list of attendees](h
 
 Some of the presenters are your fellow Computer Science students!
 
-When: 
+When:
 
 Tuesday, June 29, 2010 - 18:30 to 20:00
 
-Where: 
+Where:
 
 UBC Robson Square Room C100
 
-Tags: 
+Tags:
 
 [Career](/career)

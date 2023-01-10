@@ -11,15 +11,15 @@ Ready for the upcoming school year? You're probably having the heebie-jeebies at
 
 List of committees:
 
-*   Communications Committee
-*   Outreach Committee
-*   Computing Committee
-*   Academic Experience Committee
-*   Student Development Committee
-*   Finance Committee
-*   Focus on Women in Computer Science (FoWCS) Committee
-*   Space and Safety Committee
-*   Teaching and Learning Support Committee
-*   Recruitment Committee
+- Communications Committee
+- Outreach Committee
+- Computing Committee
+- Academic Experience Committee
+- Student Development Committee
+- Finance Committee
+- Focus on Women in Computer Science (FoWCS) Committee
+- Space and Safety Committee
+- Teaching and Learning Support Committee
+- Recruitment Committee
 
 Hope to hear from you soon!

@@ -19,6 +19,7 @@ Tuesday March 6th 2007.
 Find out how amazing women are making careers in science and technology.
 
 **You must preregister** :
+
 - Call Science World at 604-443-7551 or email [\[email protected\]](/cdn-cgi/l/email-protection#bcd6cfdfd3c8c8fccfdfd5d9d2dfd9cbd3ced0d892dedf92dfdd)
 
 **Click "read more" and check out the attachment to this post for more
@@ -37,18 +38,18 @@ Chat with potential mentors.
 
 The $12 entrance fee covers the refreshments and the film.
 
-When: 
+When:
 
 Tuesday, March 6, 2007 - 17:30 to 21:00
 
-Where: 
+Where:
 
 TELUS Science World
 
-File Attachments: 
+File Attachments:
 
- ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [print poster 07.pdf](https://ubccsss.org/files/print%20poster%2007.pdf)
+![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [print poster 07.pdf](https://ubccsss.org/files/print%20poster%2007.pdf)
 
-Tags: 
+Tags:
 
 [Career](/career)

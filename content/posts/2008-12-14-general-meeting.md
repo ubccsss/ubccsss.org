@@ -11,6 +11,6 @@ The CSSS is holding a general meeting. All members (that's all CS majors, minors
 
 Pizza and pop will be provided; please RSVP to [\[email protected\]](/cdn-cgi/l/email-protection#3c5159594855525b7c4854595f495e59125f5d).
 
-When: 
+When:
 
 Wednesday, October 15, 2008 - 17:00 to 18:00

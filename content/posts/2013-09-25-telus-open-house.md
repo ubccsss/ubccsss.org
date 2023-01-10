@@ -17,22 +17,22 @@ Prizes are to be won and food will be provided.
 
 Agenda:
 
-*   12:30pm: Registration and Lunch
-*   01:00pm: Keynote Presentation
-*   01:30pm: Introduction to New Grad programs
-*   02:00pm: Open House and networking
-*   03:00pm: Central Office tour (optional—limited)
+- 12:30pm: Registration and Lunch
+- 01:00pm: Keynote Presentation
+- 01:30pm: Introduction to New Grad programs
+- 02:00pm: Open House and networking
+- 03:00pm: Central Office tour (optional—limited)
 
 Space is very limited. Please RSVP to alden \[dot\] salgado \[at\] telus \[dot\] com to reserve a spot.
 
-When: 
+When:
 
 Friday, September 27, 2013 - 12:30 to 15:00
 
-Where: 
+Where:
 
 Atrium, 3777 Kingsway, Burnaby
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -16,14 +16,14 @@ When employers descend upon campus looking to hire UBC students, will you be rea
 Through an interactive workshop, we'll provide you with the effective skills, strategies, and superpowers you'll need to win over any potential employer. This session is open to all UBC students and alumni from all faculties. \
 Register at [www.students.ubc.ca/workshops/careers.cfm](http://www.students.ubc.ca/workshops/careers.cfm).
 
-When: 
+When:
 
 Thursday, January 29, 2009 - 12:00 to 13:00
 
-Where: 
+Where:
 
 Scarfe 208
 
-Tags: 
+Tags:
 
 [Career](/career)

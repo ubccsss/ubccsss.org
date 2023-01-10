@@ -23,10 +23,10 @@ If you are interested in participating in this event, please e-mail us at
 
 For more info please go to [http://medfusion.wordpress.com/2007/03/01/medfusionwork-on-march-27/](https://medfusion.wordpress.com/2007/03/01/medfusionwork-on-march-27/)
 
-When: 
+When:
 
 Tuesday, March 27, 2007 - 14:00 to 15:30
 
-Where: 
+Where:
 
 Centre for Molecular Medicine and Therapeutics (CMMT)

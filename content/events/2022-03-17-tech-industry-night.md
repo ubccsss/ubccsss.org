@@ -4,9 +4,9 @@ title: "Tech Industry Night - Mar 2022"
 # Publishing date when the event appears, not the date of the event.
 date: 2022-02-28
 # Tags that apply to the event
-tags: ["career","event","club-activities"]
+tags: ["career", "event", "club-activities"]
 # Name of the author (you)
-author: Eric Yan 
+author: Eric Yan
 # Images associated to this event. Used for banner.
 images:
   - /files/2022-03-17-tech-industry-night.jpg
@@ -15,11 +15,13 @@ start_date: 2022-03-17 17:00:00
 # End date and time (defaults to one hour after start). Used for calendar page.
 end_date: 2022-03-17 19:30:00
 ---
-The **UBC CSSS** will host its second **__Tech Industry Night__** on **Thurday, March 17, 2022, 5:00PM - 7:30PM**! This is an event designed to connect students in computing disciplines with companies looking for co-ops and new grads. Students will have the opportunity to interact with industry professionals and recruiters from local tech companies, hot startups, and multinational firms in diverse fields, including cloud technologies, enterprise software, manufacturing, engineering, and consulting.
 
-Join us to learn more about the job market, interview strategies, resume tips, as well as company presentations, a round table panel discussion, and informational breakout rooms. **Sign up [here](https://my.cs.ubc.ca/event/2022/03/tech-industry-night-2)!** 
+The **UBC CSSS** will host its second \***\*Tech Industry Night\*\*** on **Thurday, March 17, 2022, 5:00PM - 7:30PM**! This is an event designed to connect students in computing disciplines with companies looking for co-ops and new grads. Students will have the opportunity to interact with industry professionals and recruiters from local tech companies, hot startups, and multinational firms in diverse fields, including cloud technologies, enterprise software, manufacturing, engineering, and consulting.
+
+Join us to learn more about the job market, interview strategies, resume tips, as well as company presentations, a round table panel discussion, and informational breakout rooms. **Sign up [here](https://my.cs.ubc.ca/event/2022/03/tech-industry-night-2)!**
 
 ### Participating Company Profile
+
 <img src="/files/logos/aviatrix.png" height="140" alt="aviatrix logo">
 
 **Aviatrix** is one of the 10 Hottest Enterprise Networking Startups of 2020. Through its networking platform, Aviatrix is redefining networking for the cloud and putting enterprise IT back in control. The Aviatrix Certified Engineer (ACE) program is the industry’s first and only multi-cloud networking certification and training program. Learn more about about the startup that is enabling the multi-cloud network revolution!
@@ -29,7 +31,6 @@ https://aviatrix.com/
 
 **BGC Engineering Inc. (BGC)** is an international consulting firm that provides professional services in applied earth sciences across North and South America. With a specialized appreciation of the impacts of geology on engineered structures, BGC has addressed challenging engineering and environmental issues since 1990. BGC is composed of over 600 professional engineers, software developers, geoscientists, technicians, and support staff who provide a full range of investigation, design and construction review services in the applied earth sciences. Join us at the next tech industry night to learn about CS career opportunities in engineering!
 https://www.bgcengineering.ca/
-
 
 <img src="/files/logos/Fdm.jpg" height="120" alt="fdm logo">
 
@@ -59,13 +60,16 @@ https://www.visier.com/
 **Zaber** designs and manufactures precision positioning devices that are affordable, integrated, and easy to use. Their devices have many different appliations and markets, such as photonics and optics, life sciences, microscopy, and industrial automation. Founded in 1997 and headquartered in Vancouver, B.C., Zaber's product offering has grown to include over 100 montion control products distributed worldwide. Come and learn about opportunities for CS students at Zaber and the broader manufacturing industry.
 https://www.zaber.com/
 
-
 ### Event Agenda
+
 ##### Part 1: Presentations
+
 Each company will deliver a seven-minute presentation about what they do, details about their co-op program, and anything else they decide to include. Watch, listen, and prepare your questions for the rest of the event.
 
 ##### Part 2: Panel
+
 A classic Zoom Q&A. We will open the floor to questions from attendees, and any company can respond.
 
 ##### Part 3: Breakout rooms
+
 Prepare your **resume** and bring questions! Each participating company will have its own breakout room, and you’ll be able to move freely between these rooms. This is your chance to dirctly ask company-specific questions, similar to a booth in a career fair.

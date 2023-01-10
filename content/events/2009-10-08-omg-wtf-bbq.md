@@ -21,14 +21,14 @@ location:
 
 CSSS is holding a BBQ. Everyone is invited to join the fun!
 
-When: 
+When:
 
 Thursday, October 8, 2009 - 11:00 to 14:00
 
-Where: 
+Where:
 
 Outside of Dempster
 
-Tags: 
+Tags:
 
 [Social](/social)

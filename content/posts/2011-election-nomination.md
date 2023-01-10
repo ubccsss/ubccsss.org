@@ -14,14 +14,14 @@ Nominations can be [printed](/files/2011nomination.pdf) or picked up at the Cube
 
 The positions open are:
 
-*   President
-*   Vice President, Communications
-*   Vice President, External
-*   Vice President, Internal
-*   Vice President, Social
-*   Vice President, Volunteering Services
-*   Secretary
-*   Treasurer
+- President
+- Vice President, Communications
+- Vice President, External
+- Vice President, Internal
+- Vice President, Social
+- Vice President, Volunteering Services
+- Secretary
+- Treasurer
 
 For descriptions of the responsibilities of the positions, please see [our constitution](/club/about/constitution), specifically bylaw 8.
 

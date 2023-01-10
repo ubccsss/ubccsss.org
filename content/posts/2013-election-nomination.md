@@ -18,22 +18,22 @@ Nominations can be picked up at the Cube Office (ICICS 021). Forms must be submi
 
 The positions open are:
 
-*   President
-*   Vice President, Communications
-*   Vice President, External
-*   Vice President, Internal
-*   Vice President, Social
-*   Vice President, Volunteering Services
-*   Vice President, Finance
-*   Vice President, Administration
+- President
+- Vice President, Communications
+- Vice President, External
+- Vice President, Internal
+- Vice President, Social
+- Vice President, Volunteering Services
+- Vice President, Finance
+- Vice President, Administration
 
 For descriptions of the responsibilities of the positions, please see our [constitution](/files/constitution-20130304.pdf), specifically bylaw 8.
 
-When: 
+When:
 
 Thursday, March 14, 2013 (All day) to Friday, March 15, 2013 (All day)
 
-Tags: 
+Tags:
 
 [Club Activities](/club)
 

@@ -33,14 +33,14 @@ Boarding time is **6pm**. The boat will depart at 6:30pm and return later that e
 
 We're giving preference to graduating students (and one guest), but computer science students from all years are invited to attend. So, if you're interested in going, see your friendly CSSS execs in X139 for more details and to sign up for this exciting event! **You must buy your tickets by Wed Mar 26th! Don't delay!**
 
-When: 
+When:
 
 Friday, March 31, 2006 - 17:00 to 21:30
 
-Where: 
+Where:
 
 Pick Up/Drop Off: 450 Denman St (North Foot of Denman St)
 
-Tags: 
+Tags:
 
 [Social](/social)

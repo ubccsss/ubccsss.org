@@ -23,15 +23,15 @@ location:
 
 Looking for something to do after classes on Friday? Come out and play board games for a few hours at Reboot Cafe! We'll have board games set up, but feel free to bring your own as well! Everyone's welcome, so invite your friends~
 
-When: 
+When:
 
 Friday, September 23, 2016 - 16:00 to 19:00
 
-Where: 
+Where:
 
 Reboot Cafe - ICICS
 
-Tags: 
+Tags:
 
 [Club Activities](/club)
 

@@ -11,14 +11,14 @@ end_date: 2005-09-13 19:30:00
 raw_location: Wesbrook Room 100
 ---
 
-When: 
+When:
 
 Tuesday, September 13, 2005 - 17:30 to 19:30
 
-Where: 
+Where:
 
 Wesbrook Room 100
 
-Tags: 
+Tags:
 
 [Career](/career)

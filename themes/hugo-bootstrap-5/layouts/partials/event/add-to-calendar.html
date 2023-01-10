@@ -1,16 +1,21 @@
 {{ $startDate := .Params.start_date | default .Date }}
 {{ $endDate := .Params.end_date | default (time (add (time $startDate).Unix 36000)) }}
 {{ if (lt $endDate $startDate) }}
-    {{ errorf "End date for '%s' is after the start date (%s, %s)" .Title $startDate $endDate }}
+  {{ errorf "End date for '%s' is after the start date (%s, %s)" .Title $startDate $endDate }}
 {{ end }}
 {{ $dates := delimit (apply (slice $startDate $endDate) "dateFormat" "20060102T150405" ".") "/" }}
 {{ $details := .Plain }}
-<a class="btn btn-outline btn-primary my-3" href='http://www.google.com/calendar/event?
+<a
+  class="btn btn-outline btn-primary my-3"
+  href="http://www.google.com/calendar/event?
 action=TEMPLATE
 &{{ querify "text" .Title "details" $details "dates" $dates | safeURL }}
 &ctz=Canada/Pacific
 &location={{ partial "event/address" . | safeURL }}
 &trp=false
 &sprop=
-&sprop=name:'
-target="_blank" rel="noopener">{{ i18n "addToGoogleCalendar" }}</a>
+&sprop=name:"
+  target="_blank"
+  rel="noopener"
+  >{{ i18n "addToGoogleCalendar" }}</a
+>

@@ -23,22 +23,22 @@ The UBC Computer Science Co-op is hosting an information session for students wh
 
 Come and hear:
 
-*   Program specific information
-*   How your application is evaluated
-*   The co-op stories from our student speakers Q&A
+- Program specific information
+- How your application is evaluated
+- The co-op stories from our student speakers Q&A
 
 All are welcome to attend this event. Please email your questions and comments to [\[email protected\]](/cdn-cgi/l/email-protection#3b58485854544b7b5848154e595815585a).
 
 See you there!
 
-When: 
+When:
 
 Tuesday, March 25, 2008 - 18:00 to 19:00
 
-Where: 
+Where:
 
 Hugh Dempster Building, Room 101
 
-Tags: 
+Tags:
 
 [Social](/social)

@@ -20,14 +20,14 @@ location:
 
 Free food, fun prizes, cool talks, and as always we are collecting résumés for full time and internship positions so feel free to drop them off.
 
-When: 
+When:
 
 Wednesday, October 17, 2012 - 17:30 to 19:00
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Career](/career)

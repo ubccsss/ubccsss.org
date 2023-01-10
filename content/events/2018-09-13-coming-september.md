@@ -10,8 +10,7 @@ images: []
 
 Welcome to new UBC students and welcome back to returning students! Thanks to everyone who volunteered at the Imagine Day BBQ ([view photos](https://photos.app.goo.gl/58eSPEGfPT8TLsMSA)) in front of the [ICICS building](http://icics.ubc.ca/). If you didn't get to come, don't worry as there are plenty more events from the CSSS coming up.
 
-September events
-----------------
+## September events
 
 ### [Refill with Breakfast](https://ubccsss.org/content/refill-breakfast)
 
@@ -29,7 +28,6 @@ More events to be announced.
 
 We'll be announcing exact dates for these events soon. Keep watch on our website, mailing list, or Facebook page!
 
-Suggestions?
-============
+# Suggestions?
 
 We've now opened up a [suggestion box on our website](https://ubccsss.org/content/suggestions-box)! Our execs meet every 2 weeks to discuss suggestions from our members. Send over your ideas and hate mail.

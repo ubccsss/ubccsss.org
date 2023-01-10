@@ -19,14 +19,14 @@ The presentations are being given by **Brian Edmonds** who is a long-time VanLUG
 
 Both events will include pizza and pop refreshments.
 
-When: 
+When:
 
 Monday, February 20, 2006 - 15:00 to 16:30
 
-Where: 
+Where:
 
 Kaiser Room 2030
 
-Tags: 
+Tags:
 
 [Career](/career)

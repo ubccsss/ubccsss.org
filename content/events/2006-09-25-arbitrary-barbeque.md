@@ -23,14 +23,14 @@ Didn't get enough of the BBQ-goodness in our last welcome barbeque a few weeks a
 
 As always, our low, low prices apply - **$2 for a burger** and **50 cents for your choice of a pop [XOR](https://en.wikipedia.org/wiki/XOR) a bag of chips**. We undercut [everybody](http://www.ams.ubc.ca/content.cfm?ID=47).
 
-When: 
+When:
 
 Thursday, September 28, 2006 - 12:00 to 14:00
 
-Where: 
+Where:
 
 Outside Dempster
 
-Tags: 
+Tags:
 
 [Social](/social)

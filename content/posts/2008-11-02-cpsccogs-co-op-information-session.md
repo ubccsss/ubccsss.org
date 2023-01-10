@@ -12,14 +12,14 @@ The application deadline is Nov 21. More information can be found at our website
 
 Full-time students who have at least 30 credits remaining in their degree after the current term, and whose GPA are ≥68%, are welcome to apply to co-op.
 
-When: 
+When:
 
 Wednesday, November 5, 2008 - 17:00 to 18:30
 
-Where: 
+Where:
 
 DMP301
 
-Tags: 
+Tags:
 
 [Career](/career)

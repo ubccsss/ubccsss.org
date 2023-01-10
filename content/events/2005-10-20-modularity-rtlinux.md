@@ -26,14 +26,14 @@ Modular programming is difficult in a real-time environment efficiency is critic
 
 If you are interested in meeting with Victor during his visit, please contact Hermie Lam [\[email protected\]](/cdn-cgi/l/email-protection#90f8fcf1fdd0f3e3bee5f2f3bef3f1)
 
-When: 
+When:
 
 Thursday, October 20, 2005 - 15:30 to 17:00
 
-Where: 
+Where:
 
 ICICS X736
 
-Tags: 
+Tags:
 
 [Career](/career)

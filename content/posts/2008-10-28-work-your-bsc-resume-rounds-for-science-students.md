@@ -23,14 +23,14 @@ Come to this session to get personal feedback on your résumé and make sure it 
 
 Register on line at [https://secure.students.ubc.ca/workshops//careers.cfm](https://secure.students.ubc.ca/workshops//careers.cfm).
 
-When: 
+When:
 
 Tuesday, October 28, 2008 - 13:00 to 14:00
 
-Where: 
+Where:
 
 Abdul Ladha Science Student Centre
 
-Tags: 
+Tags:
 
 [Career](/career)

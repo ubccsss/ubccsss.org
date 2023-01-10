@@ -1,5 +1,5 @@
 ---
-title: "Vancouver's First \"Young Co-Founders Wanted\" Speed-dating session"
+title: 'Vancouver''s First "Young Co-Founders Wanted" Speed-dating session'
 date: 2010-02-27
 aliases:
   - /node/1321
@@ -20,27 +20,27 @@ Unlike other networking events for entrepreneurs, the Young Co-Founders Wanted (
 
 This Event Is For:
 
-*   Student entrepreneurs looking for startup talent
-*   Students interested in working on a startup
-*   Early-stage companies looking for talented student
+- Student entrepreneurs looking for startup talent
+- Students interested in working on a startup
+- Early-stage companies looking for talented student
 
 Why YCW?
 
-*   Because many students and young entrepreneurs have ideas but don't know how to implement them.
-*   Because crazy coders, ruby ninjas, and amazing designers exist and want good ideas to work on.
-*   Because there is no structured forum to connect young people who really want to start companies.
-*   Because there is no easy way for early-stage startups to find student interns or talent.
+- Because many students and young entrepreneurs have ideas but don't know how to implement them.
+- Because crazy coders, ruby ninjas, and amazing designers exist and want good ideas to work on.
+- Because there is no structured forum to connect young people who really want to start companies.
+- Because there is no easy way for early-stage startups to find student interns or talent.
 
 Be sure to [register](https://meetup.com/Vancouver-Young-Co-Founders-Wanted) now as tickets will start going fast!
 
-When: 
+When:
 
 Wednesday, March 3, 2010 - 19:00
 
-Where: 
+Where:
 
 Toyo Sushi, 2211 Cambie Street, Vancouver, BC V5Z 2T5
 
-Tags: 
+Tags:
 
 [Career](/career)

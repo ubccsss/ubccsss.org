@@ -11,10 +11,10 @@ The UBC Computer Science Co-op is hosting two information sessions for students 
 
 Come and hear:
 
-*   Program specific information
-*   How your application is evaluated
-*   The co-op stories from our student speakers
-*   Q&A
+- Program specific information
+- How your application is evaluated
+- The co-op stories from our student speakers
+- Q&A
 
 Event Details:
 
@@ -32,10 +32,10 @@ All are welcome to attend this event. Please email your questions and comments t
 
 See you there!
 
-When: 
+When:
 
 Thursday, March 6, 2008 - 12:30 to 13:30
 
-Where: 
+Where:
 
 FSC 1221

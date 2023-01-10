@@ -23,14 +23,14 @@ Recruiting Session. March 29 (this Wednesday). 2-3 PM. Kaiser 2030. \
 Food and refreshments provided. \
 **Resumes will be collected and successful candidates will be interviewed.**
 
-When: 
+When:
 
 Wednesday, March 29, 2006 - 13:00 to 14:00
 
-Where: 
+Where:
 
 Kaiser 2030
 
-Tags: 
+Tags:
 
 [Career](/career)

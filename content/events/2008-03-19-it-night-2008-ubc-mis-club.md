@@ -23,14 +23,14 @@ The UBC MIS Club (BizTech) is holding an IT Night. For more details, please see 
 
 If you're interested, please sign up [here](http://ubcbiztech.com/event_attendee_signup.php).
 
-When: 
+When:
 
 Monday, March 31, 2008 - 19:15 to 22:15
 
-Where: 
+Where:
 
 Abdul Ladha Student Centre
 
-Tags: 
+Tags:
 
 [Social](/social)

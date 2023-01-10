@@ -45,10 +45,10 @@ Email: [\[email protected\]](/cdn-cgi/l/email-protection#54353a3a3d317a3f3b1437
 
 \* COE - Celebrating 10 Years of Excellence \*
 
-When: 
+When:
 
 Friday, September 19, 2008 - 17:00 to 18:00
 
-Where: 
+Where:
 
 Fred Kaiser Building, Room 2020/2030

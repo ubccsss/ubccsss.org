@@ -16,26 +16,26 @@ Besides gaining actual hands on app development experience, interns will benefit
 
 Requirements:
 
-*   Successful candidates must demonstrate a fluency in using Java and C++
-*   Must have strong documentation skills and a consistent work ethic
-*   Ability to adapt quickly to using organization systems of communication and other programs
-*   Must have excellent verbal and written English communication skills
-*   Must be comfortable working in a dynamic team environment
-*   Attention to detail and dedicated to creating quality products
-*   Able to commit a minimum of 14 hours per week
+- Successful candidates must demonstrate a fluency in using Java and C++
+- Must have strong documentation skills and a consistent work ethic
+- Ability to adapt quickly to using organization systems of communication and other programs
+- Must have excellent verbal and written English communication skills
+- Must be comfortable working in a dynamic team environment
+- Attention to detail and dedicated to creating quality products
+- Able to commit a minimum of 14 hours per week
 
 Responsibilities:
 
-*   Design specifications to develop or modify complex software programming applications
-*   Coding, testing and debugging newly developed apps using Java and C++
-*   Consulting and raising concerns with other InkPad Studios members and partners
-*   May lead a small team or workgroup, providing direction and guidance with day-to-day activities
-*   Solving complex technical challenges
-*   Work face-to-face with clients and potential clients
-*   Risk, cost and effort estimation related to development tasks
-*   Following established development process and corporate technical quality standards
-*   Generating ideas for better app functionality and better game-play
-*   Working with third-party software such as Trello, Unity, and others
+- Design specifications to develop or modify complex software programming applications
+- Coding, testing and debugging newly developed apps using Java and C++
+- Consulting and raising concerns with other InkPad Studios members and partners
+- May lead a small team or workgroup, providing direction and guidance with day-to-day activities
+- Solving complex technical challenges
+- Work face-to-face with clients and potential clients
+- Risk, cost and effort estimation related to development tasks
+- Following established development process and corporate technical quality standards
+- Generating ideas for better app functionality and better game-play
+- Working with third-party software such as Trello, Unity, and others
 
 Commitment: 14 hours per week \
 Duration: 4 months (with possible extension). \
@@ -48,6 +48,6 @@ Company Address: \
 Burnaby, BC \
 V5H 0A2 Canada
 
-Tags: 
+Tags:
 
 [Career](/career)

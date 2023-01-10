@@ -18,14 +18,14 @@ location:
     addressCountry: CA
 ---
 
-When: 
+When:
 
 Wednesday, March 24, 2010 - 12:00 to 15:00
 
-Where: 
+Where:
 
 Ladha Science Student Centre
 
-Tags: 
+Tags:
 
 [Social](/social)

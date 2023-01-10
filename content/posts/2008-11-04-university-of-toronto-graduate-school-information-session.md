@@ -23,14 +23,14 @@ Join Professor Fahiem Bacchus, Associate Chair for Graduate Studies and member o
 
 All undergraduate students are welcome; registration is not required.
 
-When: 
+When:
 
 Wednesday, November 12, 2008 - 16:30
 
-Where: 
+Where:
 
 ICICS 206
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -18,14 +18,14 @@ Lunch will be provided.
 
 Please RSVP to Nicole Benda [\[email protected\]](/cdn-cgi/l/email-protection#83edeae0ecefe6ade1e6ede7e2c3f6e1e0ade0e2) with subject line **Shell IT Info Session** if you ar interested. There are only 20 spots to be shared between Engineering and Science.
 
-When: 
+When:
 
 Friday, September 29, 2006 - 12:00 to 13:00
 
-Where: 
+Where:
 
 Boardroom of Engineering Annex
 
-File Attachments: 
+File Attachments:
 
- ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [ubcmap.pdf](https://ubccsss.org/files/ubcmap.pdf)
+![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [ubcmap.pdf](https://ubccsss.org/files/ubcmap.pdf)

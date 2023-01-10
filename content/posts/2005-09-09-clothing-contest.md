@@ -23,15 +23,15 @@ images:
   - /files/14.gif
 ---
 
-<img src="/files/tshirtquestion.gif" vspace="5" hspace="5" align="left"> The CSSS wants your input again - this time, we're choosing the logo for our clothing contest!  As you know, we all like to style ourselves CS students, so this is, understandably, of enormous importance.  Your input is very valuable to us :-)
+<img src="/files/tshirtquestion.gif" vspace="5" hspace="5" align="left"> The CSSS wants your input again - this time, we're choosing the logo for our clothing contest! As you know, we all like to style ourselves CS students, so this is, understandably, of enormous importance. Your input is very valuable to us :-)
 
-We received your designs, and to make things a little more interesting, we've also brought back the logos from the button contest to make a grand total of 14 designs from which to choose from.  Personally, I'm rooting for *CENSORED* (you're making our readers biased! -hrmmp)  When you've finally made up your mind by reading the entire article, _[head on over to the polls and cast your vote](/node/1478)_!
+We received your designs, and to make things a little more interesting, we've also brought back the logos from the button contest to make a grand total of 14 designs from which to choose from. Personally, I'm rooting for _CENSORED_ (you're making our readers biased! -hrmmp) When you've finally made up your mind by reading the entire article, _[head on over to the polls and cast your vote](/node/1478)_!
 
-Please put on your judging cap and express your opinion by <u>Thursday, October 13th, 2005 at 5pm</u>.  Thank you.
+Please put on your judging cap and express your opinion by <u>Thursday, October 13th, 2005 at 5pm</u>. Thank you.
 
 **[Read on for more details...](/clothing2005)**
 
-EDIT:  Sorry - apparently some picture links broke earlier.  I've fixed them now.
+EDIT: Sorry - apparently some picture links broke earlier. I've fixed them now.
 
 <hr>
 <table>
@@ -93,4 +93,4 @@ EDIT:  Sorry - apparently some picture links broke earlier.  I've fixed them now
 </tr>
 </tbody></table>
 
-Made up your mind?  I thought so. **[Head on over to the polls to cast your vote!](/node/1478)**
+Made up your mind? I thought so. **[Head on over to the polls to cast your vote!](/node/1478)**

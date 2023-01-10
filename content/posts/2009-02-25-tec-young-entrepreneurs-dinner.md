@@ -23,14 +23,14 @@ Space is limited so hurry up and reserve your spot! You can get your ticket at [
 
 If you have any inquiries, please contact [\[email protected\]](/cdn-cgi/l/email-protection#731a1d151c330716100611105d101c1e).
 
-When: 
+When:
 
 Tuesday, March 3, 2009 - 17:30 to 21:00
 
-Where: 
+Where:
 
 Renaissance Vancouver Hotel Harbourside (1133 West Hastings Street)
 
-Tags: 
+Tags:
 
 [Career](/career)

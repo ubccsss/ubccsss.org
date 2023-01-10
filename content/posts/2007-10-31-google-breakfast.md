@@ -22,14 +22,14 @@ location:
 
 ![](/files/google-breakfast.png)Google Campus Ambassador, Yaying Guo, will be hosting a first-ever **Google breakfast** event on campus this November 1st. Come and join us for some donuts and some conversation - anything really :-) It's a little bit of a breather in between midterms and a good excuse to come in a bit earlier on a weekday than you might normally.
 
-When: 
+When:
 
 Thursday, November 1, 2007 - 09:40 to 10:40
 
-Where: 
+Where:
 
 X-wing Lounge
 
-Tags: 
+Tags:
 
 [Social](/social)
