@@ -16,7 +16,7 @@ main:
     url: /services/
     weight: -100
   - identifier: courses
-    name: Course Reviews 
+    name: Course Reviews
     url: /services/courses/
     weight: -90
   - identifier: contact
@@ -24,6 +24,6 @@ main:
     url: /contact/
     weight: -80
   - identifier: TCF
-    name: TCF 
+    name: TCF
     url: /tcf/
     weight: -140
