@@ -18,7 +18,7 @@ jobs:
       - name: Prettify code
         uses: creyD/prettier_action@v4.2
         with:
-          prettier_options: --write **/*.+(js|html|css|json|md|yaml) --config .prettierrc
+          prettier_options: --write **/*.+(js|html|css|json|md|yaml)
           only_changed: True
           prettier_plugins: prettier-plugin-go-template
-          commit_message: "prettified code"
+          commit_message: "Prettified code"
