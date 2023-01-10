@@ -28,6 +28,9 @@ hugo server
 # format all files
 yarn format
 
+# check for formatting errors
+yarn dry
+
 # start the development server
 yarn dev
 

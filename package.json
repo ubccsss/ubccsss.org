@@ -9,6 +9,7 @@
   },
   "scripts": {
     "format": "prettier --write '**/*.+(js|html|css|json|md|yaml)'",
+    "dry": "prettier --check '**/*.+(js|html|css|json|md|yaml)'",
     "dev": "hugo server -D",
     "build": "hugo"
   }
