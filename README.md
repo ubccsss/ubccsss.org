@@ -4,9 +4,10 @@ Website for the UBC Computer Science Student Society.
 
 ## Installation
 
-- [install Hugo](https://gohugo.io/installation/) - to build the website. The current version of Hugo used is listed in the [`netlify.toml`](netlify.toml) file, under the key `HUGO_VERSION`.
-- [install Node](https://nodejs.org/) - to install npm
+- [install Hugo](https://gohugo.io/installation/) - to build the website. The current version of Hugo used is listed in [`netlify.toml`](netlify.toml), under the key `HUGO_VERSION`.
+- [install Node](https://nodejs.org/) - to install npm. The current version of Node used is in [`.nvmrc`](.nvmrc). This is used by Netlify to build the site with the [correct version of Node](https://docs.netlify.com/configure-builds/manage-dependencies/#node-js-and-javascript).
 - [install Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) - to install dependencies and run scripts
+- [install nvm](https://github.com/nvm-sh/nvm) - to ensure the correct version of Node is used. Take a look at [this](https://stackoverflow.com/a/57839539/8488681) to see how to use [`.nvmrc`](.nvmrc) to automatically switch to the correct version of Node.
 
 ```bash
 # clone the repository
@@ -14,6 +15,9 @@ git clone https://github.com/ubccsss/ubccsss.org.git
 
 # cd into the repository
 cd ubccsss.org
+
+# ensure that the correct version of Node is used
+nvm use
 
 # install dependencies
 yarn install
