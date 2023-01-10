@@ -4,9 +4,9 @@ Website for the UBC Computer Science Student Society.
 
 ## Installation
 
-[install Hugo](https://gohugo.io/installation/) - to build the website. The current version of Hugo used is listed in the [`netlify.toml`](netlify.toml) file, under the key `HUGO_VERSION`.
-[install Node](https://nodejs.org/) - to install npm
-[install Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) - to install dependencies and run scripts
+- [install Hugo](https://gohugo.io/installation/) - to build the website. The current version of Hugo used is listed in the [`netlify.toml`](netlify.toml) file, under the key `HUGO_VERSION`.
+- [install Node](https://nodejs.org/) - to install npm
+- [install Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) - to install dependencies and run scripts
 
 ```bash
 # clone the repository
@@ -20,22 +20,6 @@ yarn install
 
 # start the development server
 hugo server
-```
-
-## Dev Scripts
-
-```bash
-# format all files
-yarn format
-
-# check for formatting errors
-yarn dry
-
-# start the development server
-yarn dev
-
-# build the website
-yarn build
 ```
 
 ## Contributing
@@ -125,6 +109,22 @@ Currently, there are three enviornment variables:
 #### netlify.toml
 
 netlify.toml contains the configuration for the Netlify. `HUGO_ENV` is used to select the environment for different Netlify environments.
+
+### Dev Scripts
+
+```bash
+# format all files
+yarn format
+
+# check for formatting errors
+yarn dry
+
+# start the development server
+yarn dev
+
+# build the website
+yarn build
+```
 
 ## Related
 
