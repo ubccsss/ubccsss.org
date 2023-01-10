@@ -19,7 +19,8 @@ Ah, November. The final stretch before exam season. Midterms, labs, and essays a
 7.  [EA TankWars: A Competition](/newsletters/2005/11#7)
 8.  [Reps and Execs](/newsletters/2005/11#8)
 
-___
+---
+
 **CSSS LAN Party v2.0 and Foosball Tournament**
 
 _When: Friday Nov. 18, 6:00-12:00pm \
@@ -38,7 +39,8 @@ Fun for the whole family - well, almost. So, even if you protest and deny owning
 
 Like last time, if you want to suggest improvements and give your input, hit [the forums](http://www.csss.cs.ubc.ca/forum).
 
-___
+---
+
 **Microsoft - Where do you want to go today?**
 
 _When: Wednesday Nov. 23, 6:00-7:15pm \
@@ -52,7 +54,8 @@ Hear speakers talk about the software and projects Microsoft works on (it isn't 
 
 See [Microsoft College Careers](https://www.microsoft.com/College/default.mspx) for more information about working at Microsoft. Or, check out [theSpoke](http://thespoke.net) for general talk and more information about the **Imagine Cup** in New Delhi this year!
 
-___
+---
+
 **CSSS/CSGSA Wine and Cheese**
 
 _When: Friday Nov. 25, 7:00-11:00pm \
@@ -68,14 +71,16 @@ The event is semi-formal, so be sure to break out your nice duds and leave the s
 
 This event is brought to you by the Computer Science Students' Society (CSSS) and the Computer Science Graduate Students' Assocation (CSGSA).
 
-___
+---
+
 **Showcase**
 
 Do you have a cool project or website that you've designed? Want some exposure for one of your sites? The CSSS website has a new forum just for that purpose! Post your stuff [here](http://www.csss.cs.ubc.ca/forum/13) and let everyone know about it!
 
 Sites containing adult content or deemed as spam will be removed.
 
-___
+---
+
 **Grad Photos with Evangelos Photography**
 
 Are you graduating this year? Get your grad photos done now! Grad Portraits are being taken at:
@@ -94,19 +99,21 @@ Simply phone Evangelos to book your appointment. **Deadline is Nov. 30, 2005**, 
 
 Come to the CSSS Office (X139) to pick up an info sheet with tips for getting your grad photos done.
 
-___
+---
+
 **ChicTech Volunteers**
 
 The FoWCS Committee and the Jade Project are sponsoring a new program for high school girls called ChicTech. Teams of four girls and one teacher from area high schools will create web sites for non-profit organizations, and all of their projects will be judged in a competition at UBC at the end of the year. More information about the project is available at [http://www.chictech.ca](http://www.chictech.ca)
 
 Who We Need:
 
-*   **Mentors**: Teams of two UBC students (one male, one female) will mentor one team each in the spring to encourage and help them with their projects. Requires only ONE in-person visit to the team; thereafter you can communicate with them via phone and/or email.
-*   **Speakers**: During the month of November, we need volunteers to visit IT or CAPP classes in area high schools (Vancouver, Richmond, North & West Van) and talk a little about ChicTech for ~10 minutes. We will provide a script and arrange for a public speaking training session. You can do as few or as many schools as you like. If you are an alum we can arrange for you to visit your old high school.
+- **Mentors**: Teams of two UBC students (one male, one female) will mentor one team each in the spring to encourage and help them with their projects. Requires only ONE in-person visit to the team; thereafter you can communicate with them via phone and/or email.
+- **Speakers**: During the month of November, we need volunteers to visit IT or CAPP classes in area high schools (Vancouver, Richmond, North & West Van) and talk a little about ChicTech for ~10 minutes. We will provide a script and arrange for a public speaking training session. You can do as few or as many schools as you like. If you are an alum we can arrange for you to visit your old high school.
 
 If you'd like to help us out with either of these roles, please reply to ChicTechUBC(at)gmail.com with the role name (Mentor, Speaker) in the subject line.
 
-___
+---
+
 **EA TankWars: A Competition**
 
 We've just received word that UBC is one of the invited institutions in **Electronic Arts'** first ever programming competition, **Tank Wars**. This is an AI programming competition, similar to Project Hoshimi, where students are given an API to use, to create intelligent bots that wage war!
@@ -115,9 +122,10 @@ EA looks to have outdone itself by including a code base, that compiles on Windo
 
 And although it doesn't specify it explicitly, if you're looking to get the attention of EA for whatever reason - co-op student or summer intern - this might be a way of getting your foot in the door :-)
 
-[http://info.ea.com/company/company\_tw.php](http://info.ea.com/company/company_tw.php)
+[http://info.ea.com/company/company_tw.php](http://info.ea.com/company/company_tw.php)
 
-___
+---
+
 **Reps and Execs**
 
 We are pleased to announce the inauguration of [Eugene Chan](http://www.csss.cs.ubc.ca/execs) as Office Manager and [Charles Bihis](http://www.csss.cs.ubc.ca/execs) as Manager of Resources. This dynamic duo takes care of the CSSS Office and maintain a fresh supply of drinks and chips for your hearty consumption. The CSSS Year Reps have also been given [their own webpage](http://www.csss.cs.ubc.ca/reps), so be sure to familiarize yourself and say hi next time you see them!

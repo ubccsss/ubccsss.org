@@ -20,5 +20,4 @@ location:
 
 ![](/files/2019-10-20-pumpkin-carving.jpg)
 
-
 The CSSS is holding pumpkin carving next Wed, Oct 23rd at 6 PM in ICICS X860! We will provide all the tools and pumpkins. This event will be limited to the first 30 students who reserve their spot with a $10 deposit (returned at event). Drop off your deposit at the Cube (ICICS 021) before next Wednesday, Oct 23.

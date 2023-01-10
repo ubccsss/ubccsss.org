@@ -10,10 +10,10 @@ categories: [Career]
 
 The Google Summer of Code is coming up! This is a great opportunity to get some software development experience working on a real-world project. For more information, see the [Google Summer of Code](https://code.google.com/soc) or [Eclipse Summer of Code](https://eclipse.org/soc) websites.
 
-When: 
+When:
 
 Friday, April 3, 2009 - 09:02
 
-Tags: 
+Tags:
 
 [Career](/career)

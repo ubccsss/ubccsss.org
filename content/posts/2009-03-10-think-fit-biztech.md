@@ -28,14 +28,14 @@ This event is held in association with: Computer Science Student Society (CSSS),
 
 For more information please visit the BizTech website at [http://ubcbiztech.net/](http://ubcbiztech.net).
 
-When: 
+When:
 
 Tuesday, March 10, 2009 - 18:30 to 20:45
 
-Where: 
+Where:
 
 Woodward 6
 
-Tags: 
+Tags:
 
 [Career](/career)

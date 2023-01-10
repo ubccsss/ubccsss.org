@@ -27,14 +27,14 @@ Please note that valid picture ID is required for entrance to the licensed area 
 
 Hope to see you at the there!
 
-When: 
+When:
 
 Friday, October 14, 2005 - 16:00 to 20:00
 
-Where: 
+Where:
 
 CS/ICICS Building in the new wing, Student Lounge (outside the Reboot Cafe)
 
-Tags: 
+Tags:
 
 [Social](/social)

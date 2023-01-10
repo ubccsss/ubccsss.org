@@ -4,9 +4,9 @@ title: "Personal Projects Panel"
 # Publishing date when the event appears, not the date of the event.
 date: 2022-02-28
 # Tags that apply to the event
-tags: ["career","event","club-activities"]
+tags: ["career", "event", "club-activities"]
 # Name of the author (you)
-author: Eric Yan 
+author: Eric Yan
 # Images associated to this event. Used for banner.
 images:
   - /files/Q&A CSSS.jpg
@@ -17,7 +17,8 @@ end_date: 2022-03-09 18:30:00
 virtual_location: https://ubc-csm.symplicity.com/students
 ---
 
-**Schedule:** 
+**Schedule:**
+
 - 5:15 pm – 6:00 pm panel
 - 6:00 pm – 6:30 pm Zoom breakout rooms with panel members
 

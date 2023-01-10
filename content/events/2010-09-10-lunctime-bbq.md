@@ -20,10 +20,10 @@ location:
 
 Hey all, for those who couldn't make Thursday's BBQ, or just love burgers (and who doesn't?), the Cube is holding the first of many lunchtime BBQs! We'll be outside Reboot so stop by when you're heading out of class and grab a burger.
 
-When: 
+When:
 
 Friday, September 10, 2010 - 11:00
 
-Where: 
+Where:
 
 Outside Reboot/Dempster

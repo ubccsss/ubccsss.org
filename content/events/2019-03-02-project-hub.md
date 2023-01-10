@@ -1,5 +1,5 @@
 ---
-title: 'LP x CSSS: Project Hub ft. Starting a Startup!'
+title: "LP x CSSS: Project Hub ft. Starting a Startup!"
 date: 2019-03-02
 start_date: 2019-03-02 15:30:00
 end_date: 2019-03-02 18:03:00

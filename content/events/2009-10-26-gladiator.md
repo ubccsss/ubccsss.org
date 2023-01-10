@@ -18,14 +18,14 @@ If you're interested in being part of this fun night out please send an e-mail t
 
 There will be 10 people per team and the cost is $7.50 per person. The precise time and date have not yet been determined; the event will be for 2 hours at either 6 or 8 PM on either the 4th or the 5th.
 
-When: 
+When:
 
 Wednesday, November 4, 2009 - 18:00 to Thursday, November 5, 2009 - 22:00
 
-Where: 
+Where:
 
 Student Recreation Centre
 
-Tags: 
+Tags:
 
 [Social](/social)

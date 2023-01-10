@@ -17,14 +17,14 @@ Campaigning is optional, but encouraged. Voting will occur on March 14th and 15t
 
 [Nomination Form](https://ubccsss.org/files/CSSS%20Nomination%20Individual.pdf)
 
-When: 
+When:
 
 Friday, March 3, 2017 (All day) to Monday, March 13, 2017 (All day)
 
-Where: 
+Where:
 
 ICICS 021
 
-Tags: 
+Tags:
 
 [Club Activities](/club)

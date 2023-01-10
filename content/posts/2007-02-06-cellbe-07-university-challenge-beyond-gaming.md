@@ -17,8 +17,8 @@ Top Innovator** competition. Generous cash prizes will be given out, up to
 **$10,000 for the Grand Prize** so check out the **attached flyers** to this
 post or click the following [link](https://www-304.ibm.com/jct09002c/university/students/contests/cell/index.html) for more information about the competition !
 
-File Attachments: 
+File Attachments:
 
- ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [CUC07 Poster.pdf](https://ubccsss.org/files/CUC07%20Poster.pdf)
+![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [CUC07 Poster.pdf](https://ubccsss.org/files/CUC07%20Poster.pdf)
 
- ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [CUC07 Brochure.pdf](https://ubccsss.org/files/CUC07%20Brochure.pdf)
+![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [CUC07 Brochure.pdf](https://ubccsss.org/files/CUC07%20Brochure.pdf)

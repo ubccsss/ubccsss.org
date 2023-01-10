@@ -21,7 +21,7 @@ Date/Time: Wednesday, October 12, 2005 \
 Place: Kaiser Building, Volta Room \
 Presenter: Mats Gerschman, Managing Director \
 Centre for Operations Excellence, Sauder School of Business, University of British Columbia \
-*Drinks and light snacks will be provided.*
+_Drinks and light snacks will be provided._
 
 The 16-month UBC Master of Management in Operations Research (MM in OR) program trains students to become professional business analysts by providing rigorous technical fundamentals, practical consulting skills, and real-world problem solving experience.
 
@@ -44,14 +44,14 @@ Tel: 604-822-8514 | Fax: 604-822-1544 \
 Email: [\[email protected\]](/cdn-cgi/l/email-protection) | Home: www.coe.ubc.ca/mmor \
 \-- Explore Operations Research: The Science of Better www.scienceofbetter.org --
 
-When: 
+When:
 
 Wednesday, October 12, 2005 - 12:00 to 13:30
 
-Where: 
+Where:
 
 Volta room in Kaiser 2020
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -12,7 +12,7 @@ Voting for the 2017 CSSS Elections opens at 12am on Wednesday. Go Vote!
 
 [https://survey.ubc.ca/surveys/bli08/csss-elections-2017/](https://survey.ubc.ca/surveys/bli08/csss-elections-2017/)
 
-When: 
+When:
 
 Tuesday, March 14, 2017 (All day)
 

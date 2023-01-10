@@ -15,6 +15,6 @@ This is rather surprising: people from any degree can join our Technology, Opera
 
 Apply before September 14, 2008 via the Asia Pacific section at [http://jpmorgan.com/careers](http://jpmorgan.com/careers).
 
-File Attachments: 
+File Attachments:
 
- ![Image icon](/modules/file/icons/image-x-generic.svg "image/jpeg") [Full Time & Interns Opportunities in Technology, Operations and Business Services.jpg](https://ubccsss.org/files/Full%20Time%20%26%20Interns%20Opportunities%20in%20Technology%2C%20Operations%20and%20Business%20Services.jpg)
+![Image icon](/modules/file/icons/image-x-generic.svg "image/jpeg") [Full Time & Interns Opportunities in Technology, Operations and Business Services.jpg](https://ubccsss.org/files/Full%20Time%20%26%20Interns%20Opportunities%20in%20Technology%2C%20Operations%20and%20Business%20Services.jpg)

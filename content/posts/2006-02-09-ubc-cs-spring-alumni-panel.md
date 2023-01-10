@@ -14,14 +14,14 @@ Hear panelists **Sonja Norman** and **David Greer**, two UBC Computer Science Al
 
 For more information, see [http://www.cs.ubc.ca/people/alumni/panelSeries.shtml](http://www.cs.ubc.ca/people/alumni/panelSeries.shtml)
 
-When: 
+When:
 
 Tuesday, February 7, 2006 - 16:30 to 18:30
 
-Where: 
+Where:
 
 Dempster 310
 
-Tags: 
+Tags:
 
 [Career](/career)

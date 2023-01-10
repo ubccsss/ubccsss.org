@@ -19,15 +19,15 @@ No matter if you are an experienced, international programmer, a student, a newl
 
 Copied from [https://www.cs.ubc.ca/event/2012/10/sap-code-slam-global-coding-challenge](https://www.cs.ubc.ca/event/2012/10/sap-code-slam-global-coding-challenge)
 
-When: 
+When:
 
 Saturday, October 13, 2012 - 09:00 to Sunday, October 14, 2012 - 12:00
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Career](/career)
 

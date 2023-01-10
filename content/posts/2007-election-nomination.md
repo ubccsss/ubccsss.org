@@ -13,12 +13,12 @@ images:
 
 If you're interested in getting involved with the Society, these are the positions we're taking nomination forms for:
 
-*   President
-*   Internal Vice President
-*   External Vice President
-*   Social Coordinator (2 positions)
-*   Grad Representative
-*   Treasurer
-*   Secretary
+- President
+- Internal Vice President
+- External Vice President
+- Social Coordinator (2 positions)
+- Grad Representative
+- Treasurer
+- Secretary
 
 If you're interested, please [download the nomination form](/files/Elections%202007.pdf) and submit it to CSSS office or scan and send it to our Elections official ([\[email protected\]](/cdn-cgi/l/email-protection#53363f3630273a3c3d2013273b36302631367d3032)) no later than **Thursday, March 29, at 5 pm.**

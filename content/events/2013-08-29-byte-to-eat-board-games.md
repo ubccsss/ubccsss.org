@@ -27,15 +27,15 @@ $5.00 or 3 cans—includes 2 pizzas and a pop (pay at the Cube Office)
 
 $2.00 or 1 can to play (pay at the door)
 
-When: 
+When:
 
 Friday, November 20, 2009 - 17:00 to 21:00
 
-Where: 
+Where:
 
 ICICS Reboot Lounge
 
-Tags: 
+Tags:
 
 [Club Activities](/club)
 

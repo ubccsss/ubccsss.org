@@ -27,14 +27,14 @@ Please rsvp to [\[email protected\]](/cdn-cgi/l/email-protection#a3c0c2d1c6c6d1
 
 [www.hsbc.com/imcareers](http://www.hsbc.com/imcareers)
 
-When: 
+When:
 
 Monday, September 22, 2008 - 18:30 to 19:30
 
-Where: 
+Where:
 
 Irving K. Barber Learning Centre, Room 182
 
-Tags: 
+Tags:
 
 [Career](/career)

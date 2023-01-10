@@ -14,14 +14,14 @@ Li Deng was Professor at the University of Waterloo, Ontario, 1989–1999, and i
 
 For more information, see [http://www.icics.ubc.ca/news/images/dls2007.pdf](http://www.icics.ubc.ca/news/images/dls2007.pdf)
 
-When: 
+When:
 
 Thursday, November 22, 2007 - 14:30 to 16:00
 
-Where: 
+Where:
 
 Dempster Room 310
 
-Tags: 
+Tags:
 
 [Career](/career)

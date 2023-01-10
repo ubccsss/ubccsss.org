@@ -19,14 +19,14 @@ OS: Unix (vi, emacs, eclipse, etc), Windows (dev-c++, eclipse, notepad, etc)
 
 We will award prizes to those who embarrass themselves the least. If you have not previously participated in programming contests, this page ( [http://www.cs.ubc.ca/~minsk/acm.html](http://www.cs.ubc.ca/~minsk/acm.html) ) may be helpful for you. Please feel free to contact Matthew ([\[email protected\]](/cdn-cgi/l/email-protection#1974717a717877597a6a376c7b7a377a78)) for any inquiry.
 
-When: 
+When:
 
 Saturday, February 3, 2007 - 12:30 to 15:30
 
-Where: 
+Where:
 
 ICICS 014/015
 
-Tags: 
+Tags:
 
 [Social](/social)

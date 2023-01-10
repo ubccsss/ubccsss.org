@@ -21,14 +21,14 @@ Come one, come all to the **second Annual general meeting** of this year! It's a
 
 Meet your friendly neighbourhood CSSS execs, and year reps - all on Thursday, January 12th, at 12:30pm. See you soon!
 
-When: 
+When:
 
 Thursday, January 12, 2006 - 11:30 to 12:30
 
-Where: 
+Where:
 
 CS Ugrad Lounge
 
-Tags: 
+Tags:
 
 [Social](/social)

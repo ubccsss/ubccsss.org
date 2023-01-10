@@ -21,14 +21,14 @@ location:
 
 With help of Microsoft, CSSS is hosting a Windows 7 Launch Party in order to honour the release of Windows 7, followed by our first LAN Game Party of the year! Bring your own laptop with games installed (such as Warcraft III, Counter Strike, Starcraft, etc.) and prepare for the "WAR!"
 
-When: 
+When:
 
 Thursday, October 22, 2009 - 18:30 to 23:00
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Career](/career)

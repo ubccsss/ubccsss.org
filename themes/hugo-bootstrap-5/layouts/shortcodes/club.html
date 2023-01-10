@@ -1,51 +1,49 @@
 <div
   class="card w-100"
   style="cursor: pointer"
-  id='{{.Get "id"}}'
+  id="{{ .Get "id" }}"
   data-bs-trigger="focus"
   tabindex="0"
   data-bs-toggle="popover"
-  title='{{ .Get "title" }}'
+  title="{{ .Get "title" }}"
   data-bs-html="true"
   data-bs-content='
-  {{if (.Get "long-description")}}
-      <p>{{ (.Get "long-description") }}</p>
-      <hr/>
-  {{end}}
+  {{ if (.Get "long-description") }}
+    <p>{{ (.Get "long-description") }}</p>
+    <hr />
+  {{ end }}
   <ul class="mb-0">
-  {{if (.Get "href")}}
-      <li><a href="{{.Get "href"}}">Website</a></li>
-  {{end}}
-  {{if (.Get "blog")}}
-      <li><a href="{{.Get "blog"}}">Blog</a></li>
-  {{end}}
-  {{if (.Get "discord")}}
-      <li><a href="{{.Get "discord"}}">Discord</a></li>
-  {{end}}
-  {{if (.Get "instagram")}}
-      <li><a href="{{.Get "instagram"}}">Instagram</a></li>
-  {{end}}
-  {{if (.Get "facebook")}}
-      <li><a href="{{.Get "facebook"}}">Facebook</a></li>
-  {{end}}
-  {{if (.Get "linktree")}}
-      <li><a href="{{.Get "linktree"}}">Linktree</a></li>
-  {{end}}
-  {{if (.Get "events")}}
-      <li><a href="{{.Get "events"}}">Club events</a></li>
-  {{end}}
-  </ul>'
->
+  {{ if (.Get "href") }}
+    <li><a href="{{ .Get "href" }}">Website</a></li>
+  {{ end }}
+  {{ if (.Get "blog") }}
+    <li><a href="{{ .Get "blog" }}">Blog</a></li>
+  {{ end }}
+  {{ if (.Get "discord") }}
+    <li><a href="{{ .Get "discord" }}">Discord</a></li>
+  {{ end }}
+  {{ if (.Get "instagram") }}
+    <li><a href="{{ .Get "instagram" }}">Instagram</a></li>
+  {{ end }}
+  {{ if (.Get "facebook") }}
+    <li><a href="{{ .Get "facebook" }}">Facebook</a></li>
+  {{ end }}
+  {{ if (.Get "linktree") }}
+    <li><a href="{{ .Get "linktree" }}">Linktree</a></li>
+  {{ end }}
+  {{ if (.Get "events") }}
+    <li><a href="{{ .Get "events" }}">Club events</a></li>
+  {{ end }}
+  </ul>'>
   <img
     class="card-img-top img-fluid"
-    src='{{ .Get "src" }}'
-    alt='{{ .Get "alt" }}'
+    src="{{ .Get "src" }}"
+    alt="{{ .Get "alt" }}"
     width="348"
-    height="196"
-  />
+    height="196" />
   <div class="card-body">
     <h5 class="card-title">
-      <a class="card-link" href='{{ .Get "href" }}'>{{ .Get "title" }}</a>
+      <a class="card-link" href="{{ .Get "href" }}">{{ .Get "title" }}</a>
     </h5>
     <p class="card-text">{{ .Get "description" }}</p>
   </div>

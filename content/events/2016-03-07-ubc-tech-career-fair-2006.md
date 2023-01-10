@@ -26,14 +26,14 @@ If you're graduating, you have no excuse not to come. Even if you're an undergra
 
 Careerfair news will be posted as it arrives. Info session schedules will be posted in the next few weeks or so, as well as the floor plan at the [main page for the career fair](https://cf06.thecube.ca/).
 
-When: 
+When:
 
 Thursday, January 26, 2006 - 09:00 to 15:00
 
-Where: 
+Where:
 
 SUB Ballroom
 
-Tags: 
+Tags:
 
 [Social](/social)

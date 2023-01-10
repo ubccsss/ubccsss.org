@@ -20,6 +20,5 @@ location:
 
 ![](/files/2019-09-19-free-breakfast.png)
 
-
 Free breakfast at the cube is back!
 Join us at the cube (ICICS 021) on Sept 19th from 8 AM to 11 AM (or until food lasts) for a free continental breakfast!

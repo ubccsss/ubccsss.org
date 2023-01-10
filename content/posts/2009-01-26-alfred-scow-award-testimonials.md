@@ -13,9 +13,9 @@ Our testimonials (stories, comments or quotes) are about your undergrad experien
 
 Please send your testimonial to [\[email protected\]](/cdn-cgi/l/email-protection#3940505a5c574d5a515c57795e54585055175a5654) by February 2nd, 2009 with the following information included:
 
-*   Your name
-*   The name of your program
-*   Your year in the program
+- Your name
+- The name of your program
+- Your year in the program
 
 Please write "Award Testimonial" in the subject line of your e-mail.
 

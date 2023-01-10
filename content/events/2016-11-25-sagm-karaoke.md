@@ -30,15 +30,15 @@ The agenda for the meeting can be found here: [https://ubccsss.org/files/AGMAgen
 
 Facebook Event: [https://www.facebook.com/events/1678344052476573/](https://www.facebook.com/events/1678344052476573/)
 
-When: 
+When:
 
 Friday, November 25, 2016 - 05:30
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Club Activities](/club)
 

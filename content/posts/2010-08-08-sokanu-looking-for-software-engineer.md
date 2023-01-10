@@ -28,32 +28,32 @@ build off your successes via open standards and API’s.
 
 ### You should have in-depth knowledge of
 
-*   CMS best practices
-*   The in’s and out’s of popular open source CMS and blog platforms
-*   Collecting community-crafted content and how to integrate it with internal CMS workflows
-*   Video platforms such as YouTube, Blip.tv, and others
-*   Mass distribution email systems
-*   Preferable knowledge in .NET, C# and SQL
-*   Database scaling at the application level and caching approaches, from object caching to CDNs
-*   RESTful web services APIs for developers, both building & using them
-*   Performance tuning web applications from the frontend to the backend
-*   Scale and what it takes to be successful at a community-driven web site where the word “millions” is used frequently and in many contexts
+- CMS best practices
+- The in’s and out’s of popular open source CMS and blog platforms
+- Collecting community-crafted content and how to integrate it with internal CMS workflows
+- Video platforms such as YouTube, Blip.tv, and others
+- Mass distribution email systems
+- Preferable knowledge in .NET, C# and SQL
+- Database scaling at the application level and caching approaches, from object caching to CDNs
+- RESTful web services APIs for developers, both building & using them
+- Performance tuning web applications from the frontend to the backend
+- Scale and what it takes to be successful at a community-driven web site where the word “millions” is used frequently and in many contexts
 
 ### Bonus experience
 
-*   HTML, CSS, JavaScript and associated frameworks (jQuery, prototype, YUI)
-*   Artificial Intelligence knowledge, experience with Self-Organizing Maps/Kohonen Networks, Neural Networks, Adaptive Decision-Engines, etc.…
-*   Social networking applications and associated design patterns
-*   Abuse and anti-spam approaches and technologies
-*   Ideally, you hold a B.S. or M.S in Computer Science, or have equivalent self-directed study and experience.
+- HTML, CSS, JavaScript and associated frameworks (jQuery, prototype, YUI)
+- Artificial Intelligence knowledge, experience with Self-Organizing Maps/Kohonen Networks, Neural Networks, Adaptive Decision-Engines, etc.…
+- Social networking applications and associated design patterns
+- Abuse and anti-spam approaches and technologies
+- Ideally, you hold a B.S. or M.S in Computer Science, or have equivalent self-directed study and experience.
 
 ### Also important
 
-*   Shipping: you can point to products on the web today that you built and shipped
-*   Love of the web and a sense of fascination with the endless possibilities it creates
-*   Love creating products that are extremely easy to use and applying psychology to UX/UI
-*   A sense of humour
-*   Excellent communication skills
+- Shipping: you can point to products on the web today that you built and shipped
+- Love of the web and a sense of fascination with the endless possibilities it creates
+- Love creating products that are extremely easy to use and applying psychology to UX/UI
+- A sense of humour
+- Excellent communication skills
 
 ### Next Steps
 

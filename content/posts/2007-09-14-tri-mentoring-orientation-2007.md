@@ -31,14 +31,14 @@ Date: Sept 11, 2007 \
 Start Time: 5:30 \
 Place: DMP 110
 
-When: 
+When:
 
 Tuesday, September 11, 2007 - 18:30 to 20:00
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -21,14 +21,14 @@ location:
 We are into NSERC application season, once again! In order to maximize your chances of getting your submission through {the
 department | FoGS | NSERC}, a group of graduate students has organized a drop-in application proof-reading session. Please come along with your draft application so we can give useful feedback for you. They will also have copies of successful applications for you to look over, as well.
 
-When: 
+When:
 
 Thursday, September 9, 2010 - 13:00 to 14:30
 
-Where: 
+Where:
 
 ICICS 204
 
-Tags: 
+Tags:
 
 [Career](/career)

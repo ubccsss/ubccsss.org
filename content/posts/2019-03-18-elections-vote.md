@@ -1,5 +1,5 @@
 ---
-title: '2019-2020 Executive Voting'
+title: "2019-2020 Executive Voting"
 date: 2019-03-14
 categories: [Elections]
 tags: [Club Activities]

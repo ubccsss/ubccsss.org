@@ -22,20 +22,20 @@ Interact with more than 400 academics including researchers, IT professionals an
 
 You will leave with actionable ideas to enhance your teaching, learning, research and IT services.
 
-*   Leverage existing expertise
-*   Discover opportunities for sharing services and reduce technology duplication
-*   Examine best practices
-*   Network with academic and industry technology experts
+- Leverage existing expertise
+- Discover opportunities for sharing services and reduce technology duplication
+- Examine best practices
+- Network with academic and industry technology experts
 
 Student Poster Competition: Submit an abstract to our [poster competition](http://bc.net/2010-conference/poster.html).
 
 The conference program is currently underway. Check our website for
 regular updates or [follow us on Twitter](https://twitter.com/bcnetcanarie10).
 
-When: 
+When:
 
 Tuesday, May 4, 2010 - 12:30 to Wednesday, May 5, 2010 - 12:30
 
-Where: 
+Where:
 
 SFU Harbour Centre

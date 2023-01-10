@@ -11,15 +11,15 @@ tags: [Club Activities]
 
 Congratulations to the new additions to the Cube Executive, and to those returning members who were re-elected:
 
-*   President: Michael Kwan
-*   Vice President, Administration: Kenneth Shen
-*   Vice President, Communications: Anushka Agrawal
-*   Vice President, External: Michael Wu
-*   Vice President, Financial: Yoo La (Olivia) Sung
-*   Vice President, Internal: Kerry Li
-*   Vice President, Social: Thomas Lamb
-*   Vice President, Volunteering Services: Janet Poon
+- President: Michael Kwan
+- Vice President, Administration: Kenneth Shen
+- Vice President, Communications: Anushka Agrawal
+- Vice President, External: Michael Wu
+- Vice President, Financial: Yoo La (Olivia) Sung
+- Vice President, Internal: Kerry Li
+- Vice President, Social: Thomas Lamb
+- Vice President, Volunteering Services: Janet Poon
 
-Tags: 
+Tags:
 
 [Club Activities](/club)

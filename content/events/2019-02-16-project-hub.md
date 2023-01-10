@@ -1,5 +1,5 @@
 ---
-title: 'LP x CSSS: Project Hub ft. Bringing an Idea to Life!'
+title: "LP x CSSS: Project Hub ft. Bringing an Idea to Life!"
 date: 2019-02-12
 start_date: 2019-02-16 15:30:00
 end_date: 2019-02-16 18:30:00

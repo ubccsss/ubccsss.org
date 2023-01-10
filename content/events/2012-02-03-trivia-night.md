@@ -25,14 +25,14 @@ $2 for pizza, pop, and a prize for the winning team. If you RSVP by Friday at no
 
 Indicate your attendance at [the Facebook event page](https://www.facebook.com/events/320051354696986/).
 
-When: 
+When:
 
 Friday, February 3, 2012 - 17:30 to 20:00
 
-Where: 
+Where:
 
 Reboot Café
 
-Tags: 
+Tags:
 
 [Social](/social)

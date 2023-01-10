@@ -21,10 +21,10 @@ Liza & Jelena
 
 P.S. Please feel free to forward this to your friends!
 
-When: 
+When:
 
 Tuesday, March 6, 2007 - 12:30 to 13:30
 
-Where: 
+Where:
 
 ICICS Room 206

@@ -77,20 +77,20 @@ I am the best person for this position because I have extensive experience in bo
 
 As your VP Social, I strive to organize a diverse variety of events for everybody. These are some of the events that will be organized:
 
-*   lAN parties
-*   Board game nights
-*   Movie nights
-*   Beer gardens
-*   Poker nights
-*   Pub nights
-*   Bowling nights
-*   Sports teams
-*   Lazer tag
-*   Snowshoeing
-*   Go-carting
-*   Paintball
-*   Rock climbing
-*   and more!
+- lAN parties
+- Board game nights
+- Movie nights
+- Beer gardens
+- Poker nights
+- Pub nights
+- Bowling nights
+- Sports teams
+- Lazer tag
+- Snowshoeing
+- Go-carting
+- Paintball
+- Rock climbing
+- and more!
 
 If you like any of the events above, vote Karen S. Lee as your VP Social! Endorsements: Kevin Moore (CSSS President 2009–2010), Amy Kwok (CSSS President 2008–2009)
 
@@ -128,10 +128,10 @@ My name is Nan, and I am very excited to be your new Vice President of Volunteer
 
 As your VP Volunteering, I will work to form a committee dedicated to connect students with the department, UBC, and the community. We have made many plans and liaisons this past year, and I would like to execute and expand them for next year. As my platform, I hope:
 
-*   to expand our already successful Cube Volunteer Tutoring Program to second-year level courses
-*   to continue the tradition of our annual "Byte to Eat" Food Drive and share it with CPSC departments at SFU, Langara, and BCIT
-*   to continue supporting non-profit organizations by creating fundraisers and have all CPSC students actively participate in their success
-*   to create a blog website solely devoted to providing awareness to the wealth of volunteer opportunities available out there for CPSC students.
+- to expand our already successful Cube Volunteer Tutoring Program to second-year level courses
+- to continue the tradition of our annual "Byte to Eat" Food Drive and share it with CPSC departments at SFU, Langara, and BCIT
+- to continue supporting non-profit organizations by creating fundraisers and have all CPSC students actively participate in their success
+- to create a blog website solely devoted to providing awareness to the wealth of volunteer opportunities available out there for CPSC students.
 
 If there is one thing that all CPSC students must know; it is that each one of us has a strong passion to show leadership and initiative to make a difference in the local community. I, Nan, want to bring the leader out of you with the joy of volunteering.
 
@@ -148,9 +148,9 @@ Volunteering.
 
 Some things I would like to do as VP Volunteering:
 
-*   More and better tutoring.
-*   Better student representation to the department.
-*   Volunteering events that actually make a difference.
+- More and better tutoring.
+- Better student representation to the department.
+- Volunteering events that actually make a difference.
 
 If you would like to know a bit more about me, please visit my website at  
 [http://andremalan.net](http://andremalan.net/). Or just Google me to see some of the work I've been doing to help change this campus for the better over the last four years.
@@ -203,15 +203,15 @@ Eva Lam
 
 My name is Eva Lam, and I would like to get involved with the Computer Science Student Society because this would be a great opportunity for me to play an active role in the UBC community, especially in the computer science department. As a student pursuing a combined major in business and computer science, I have a strong interest in technology, science, and design. I would love to be the Secretary for the Cube because I really enjoy working with others as a team. My goal is to act as a liaison to bridge the gap between the CS students and the department. I am excited to use my past experiences to bring new ideas to the society. I will do my best to maintain proper administration of the day to day activities of the Cube, which is fundamental for achieving the operational objectives of the society. The administrative and decision making skills, which I possess, as well as my enthusiastic and positive attitude, shall enable me to build a supportive, enjoyable, and, most importantly, fun environment to everyone in the computer science undergraduate community.
 
-When: 
+When:
 
 Thursday, March 25, 2010 - 09:37 to Friday, March 26, 2010 - 09:37
 
-Where: 
+Where:
 
 DMP Foyer
 
-Tags: 
+Tags:
 
 [Club Activities](/club)
 

@@ -16,8 +16,9 @@ The Ubyssey needs webmasters! Responsibilities include working with the editors 
 **Web Content Coordinator:** \
 As we move into the world of interactive print design, we need someone who can facilitate this online as well. Many of the projects we would like to do require translation into Flash, Java, CSS, etc. If you're interested in infographics and the changing face of news media, this is the position for you. Some examples include: interactive maps, navigable infographics, and more
 Links:
+
 - [http://www.cnn.com/ELECTION/2008/calculator](https://www.cnn.com/ELECTION/2008/calculator)
-- [http://www.elmundo.es/elmundodeporte/especiales/2007/04/copaamerica07/multimedia/multimedia\_barco.html](http://www.elmundo.es/elmundodeporte/especiales/2007/04/copaamerica07/multimedia/multimedia_barco.html)
+- [http://www.elmundo.es/elmundodeporte/especiales/2007/04/copaamerica07/multimedia/multimedia_barco.html](http://www.elmundo.es/elmundodeporte/especiales/2007/04/copaamerica07/multimedia/multimedia_barco.html)
 - [http://www.sptimes.com/2006/webspecials06/aids-25/index.shtml](http://www.sptimes.com/2006/webspecials06/aids-25/index.shtml)
 
 **Mobile/Social Media Developer:** \
@@ -26,6 +27,7 @@ As social and mobile media expands, we need someone who can be versatile enough 
 **Efficiency Consultant:** \
 This position is for anyone interested in cross-platform integration. We work almost exclusively within the Adobe suite for our print edition, and we are trying to find a way to translate that directly into our online workflow. Server knowledge is a must. You will be working closely with the editors to identify workflow issues. \
 For more info, check out:
+
 - [http://www.adobe.com/products/indesign/scripting/](https://www.adobe.com/products/indesign/scripting/)
 - [http://www.adobe.com/products/creativesuite/design/features/?features](https://www.adobe.com/products/creativesuite/design/features/?features)
 - [http://www.adobe.com/products/creativesuite/bridge/features/](https://www.adobe.com/products/creativesuite/bridge/features/)

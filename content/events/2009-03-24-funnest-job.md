@@ -25,14 +25,14 @@ Pixar, recently receiving an Oscar for the movie 'WALL-E', has developed some of
 Speaker biography: \
 Wayne Wooten works in the RenderMan Tools group at Pixar Animation Studios in Seattle, developing new rendering software for use on animated feature films. His film credits include a 'A Bug's Life', 'Toy Story 2', 'Monsters Inc., 'Finding Nemo', 'The Incredibles', 'Cars', 'Ratatouille', and 'WALL-E'. Wayne is currently busy developing new rendering software for Pixar's next movie, 'Up'. Before joining Pixar, Wayne received his PhD in Computer Science from the Georgia Institute of Technology in 1998.
 
-When: 
+When:
 
 Friday, March 27, 2009 - 16:00 to 17:30
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -16,14 +16,14 @@ It’s that time of the year again: the time when we all need a break, a dinner 
 
 CSSS members (all Computer Science undergraduate students) get tickets for $35 each for themselves and one guest. Others may buy tickets at $80 each. Boarding starts at 6:30 on the MV Harbour Princess; be sure to arrive before 7 unless you’re a strong swimmer.
 
-When: 
+When:
 
 Saturday, March 24, 2012 - 19:00 to 23:00
 
-Where: 
+Where:
 
 Harbour Cruises, 501 Denman St.
 
-Tags: 
+Tags:
 
 [Social](/social)

@@ -10,14 +10,14 @@ categories: [Career]
 
 All female 3rd and 4th year applied science students are invited.
 
-When: 
+When:
 
 Tuesday, September 23, 2008 - 13:00 to 14:30
 
-Where: 
+Where:
 
 FNH Room 50
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -24,14 +24,14 @@ As a member of the Department's Techical Staff, Mr. Demco was instrumental in es
 
 Please RSVP to [Michele Ng](/cdn-cgi/l/email-protection#c0adaea780a3b3eeb5a2a3eea3a1) if you will be attending.
 
-When: 
+When:
 
 Tuesday, September 9, 2008 - 18:00 to 19:00
 
-Where: 
+Where:
 
 X-wing Lounge (Reboot Cafe)
 
-Tags: 
+Tags:
 
 [Career](/career)

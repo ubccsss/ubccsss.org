@@ -21,14 +21,14 @@ For **FIRST** year major students in Computer Science, it's time for your mid-te
 
 Click [here](http://www.cs.ubc.ca/events/Checkupforfirstyears.shtml) for more information about this event!
 
-When: 
+When:
 
 Thursday, October 26, 2006 - 12:30 to 13:50
 
-Where: 
+Where:
 
 Hugh Dempster Pavilion, DMP 301
 
-Tags: 
+Tags:
 
 [Career](/career)

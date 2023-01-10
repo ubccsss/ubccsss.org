@@ -23,10 +23,10 @@ The department is currently recruiting mentees and mentors for the tri-mentoring
 
 If you are interested, please come to our info session and orientation on September 13. You will be learning more about the benefits and structures of the program and how it integrates with other professional skills workshops we are offering this coming academic year. We will also be giving you some training in networking and communication skills and providing you with information on how to apply to the program.
 
-When: 
+When:
 
 Monday, September 13, 2010 - 17:00 to 18:30
 
-Where: 
+Where:
 
 DMP 110

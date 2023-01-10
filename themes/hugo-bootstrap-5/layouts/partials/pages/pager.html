@@ -1,30 +1,44 @@
 <ul class="about-pager nav nav-pills flex-column align-items-start">
-    {{ $page := . }}
-    {{ with .CurrentSection }}
+  {{ $page := . }}
+  {{ with .CurrentSection }}
     {{ with .Parent }}
-    <li class="nav-item about-pager-up">
+      <li class="nav-item about-pager-up">
         <a class="nav-link" href="{{ .RelPermalink }}">Up</a>
-    </li>
+      </li>
     {{ end }}
 
     {{ range .RegularPages }}
-    <li class="ms-3 nav-item">
-        <a class="nav-link {{ if eq . $page }}active{{ end }}" href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </li>
+      <li class="ms-3 nav-item">
+        <a
+          class="nav-link {{ if eq . $page }}active{{ end }}"
+          href="{{ .RelPermalink }}"
+          >{{ .Title }}</a
+        >
+      </li>
     {{ end }}
 
     {{ range .Sections }}
-    <li class="ms-3 nav-item btn-group">
+      <li class="ms-3 nav-item btn-group">
         <a class="nav-link pe-0" href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <a class="nav-link dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false" title="Show subpages">
-            <span class="visually-hidden">Show subpages</span>
+        <a
+          class="nav-link dropdown-toggle dropdown-toggle-split"
+          data-bs-toggle="dropdown"
+          href="#"
+          role="button"
+          aria-expanded="false"
+          title="Show subpages">
+          <span class="visually-hidden">Show subpages</span>
         </a>
         <ul class="dropdown-menu outline-menu">
-            {{ range .Pages }}
-            <li><a class="dropdown-item" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-            {{ end }}
+          {{ range .Pages }}
+            <li>
+              <a class="dropdown-item" href="{{ .RelPermalink }}"
+                >{{ .Title }}</a
+              >
+            </li>
+          {{ end }}
         </ul>
-    </li>
+      </li>
     {{ end }}
-    {{ end }}
+  {{ end }}
 </ul>

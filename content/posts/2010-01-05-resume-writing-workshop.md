@@ -23,14 +23,14 @@ tags: [Resume]
 
 Learn how to write résumés that get you interviews! E-mail [Diane Johnson](/cdn-cgi/l/email-protection#e4808d858a818e8b8ca48797ca918687ca8785) to register.
 
-When: 
+When:
 
 Thursday, January 7, 2010 - 12:30 to 14:00
 
-Where: 
+Where:
 
 DMP 201
 
-Tags: 
+Tags:
 
 [Career](/career)

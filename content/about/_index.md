@@ -1,5 +1,5 @@
 ---
-title: 'About Us'
+title: "About Us"
 layout: single
 aliases:
   - /club/about
@@ -48,6 +48,7 @@ of ICICS/CS, turn right, and we'll be at the end of the hallway, beside the unde
 ### How do I find out about CSSS events?
 
 We'll be publishing our events:
+
 - here on our website (which also has an [RSS feed](/index.xml)),
 - [Tweeting them](https://twitter.com/ubccsss),
 - posting them on our [Facebook page](https://www.facebook.com/ubccsss/) and our [Instagram](https://www.instagram.com/ubc_csss/),

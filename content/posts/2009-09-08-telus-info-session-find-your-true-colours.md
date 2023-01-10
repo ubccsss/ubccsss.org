@@ -15,22 +15,22 @@ RSVP to Jenny Au at [\[email protected\]](/cdn-cgi/l/email-protection#bcd6d9d2d
 
 Join us for an information session on starting a rewarding career at TELUS. We are looking for the best and brightest to join our prestigious leadership development and co-op programs. You can expect:
 
-*   an exciting main speaker sharing great benefits and perks of being a TELUS team member, as well as some exciting information on TELUS
-*   information on new grad and co-op opportunities
-*   alumni now part of our LDP's
-*   great give-a-ways and prizes to be won
-*   free food!
+- an exciting main speaker sharing great benefits and perks of being a TELUS team member, as well as some exciting information on TELUS
+- information on new grad and co-op opportunities
+- alumni now part of our LDP's
+- great give-a-ways and prizes to be won
+- free food!
 
 We look forward to seeing you there!
 
-When: 
+When:
 
 Wednesday, September 9, 2009 - 17:30 to 19:30
 
-Where: 
+Where:
 
 Wesbrook 100
 
-Tags: 
+Tags:
 
 [Career](/career)

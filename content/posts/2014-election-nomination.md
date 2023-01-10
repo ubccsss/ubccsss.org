@@ -47,14 +47,14 @@ Vice President, Finance
 
 The Vice President, Finance (VPF) is responsible for all of the clubs finances. This includes the preparation and submission of budgets, as well as assisting other officers in their interactions with the AMS or any of its commissions, if needed.
 
-When: 
+When:
 
 Monday, February 17, 2014 - 00:00 to Friday, February 28, 2014 - 12:00
 
-Where: 
+Where:
 
 ICICS 021
 
-Tags: 
+Tags:
 
 [Volunteer](/club/volunteer)

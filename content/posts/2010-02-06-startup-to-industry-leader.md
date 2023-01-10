@@ -21,7 +21,7 @@ complementary \*\*\*pizza and pop\*\*\* will be provided.
 We look forward to seeing you next Tuesday. Check out our website: [www.tecubc.com](http://www.tecubc.com) to join our
 mailing list, and to keep up to date with upcoming seminars and networking events!
 
-___
+---
 
 **Greg Aasen \
 Chief Strategy Officer**
@@ -32,7 +32,7 @@ Time: 5:00 pm
 
 Location: Hennings 201
 
-___
+---
 
 Greg Aasen is the chief strategy officer at PMC-Sierra. Previously he
 was vice president and general manager of the communications products
@@ -46,14 +46,14 @@ PMC-Sierra spun-out from MPR Teltech through an investment from Sierra
 Semiconductor. Mr. Aasen is a member of the Board of Directors for
 Convedia Corporation and Sierra Wireless.
 
-When: 
+When:
 
 Tuesday, February 6, 2007 - 17:00 to 19:00
 
-Where: 
+Where:
 
 Hennings 201
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -10,8 +10,9 @@ Lockers in the ICICS building are available to rent through the CSSS!
 ### Current rates
 
 These rates are the cheapest at UBC!
--   $15 for summer semester (includes both terms)
--   $15 per term in winter semester
+
+- $15 for summer semester (includes both terms)
+- $15 per term in winter semester
 
 Anyone interested can sign up at [The Cube](/cube). The first 8 lockers are
 reserved and all others are open to rent. Email `vpi [at] ubccsss [dot] org` for

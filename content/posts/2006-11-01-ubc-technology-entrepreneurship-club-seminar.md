@@ -23,7 +23,8 @@ UBC seminars and networking events! Check out our website: [www.tecubc.com](http
 
 Click the post for more information!
 
-___
+---
+
 Frederick Ghahramani \
 Bootstrapping and growing a business
 
@@ -31,7 +32,8 @@ Date: Tuesday, November 7 \
 Start time: 5:00pm \
 Location: Hennings 201
 
-___
+---
+
 Frederick co-founded AirG in 2000 while attending Simon Fraser University
 and has spent the past six years growing the company as a profitable leader
 in the mobile entertainment space, with over 120 employees and sales in 33
@@ -42,10 +44,10 @@ Engineering at Simon Fraser University, was a recipient of the 2005 BDC
 Entrepreneur of the Year Award, and is a passionate advocate for wireless
 social networking and mobile communities.
 
-When: 
+When:
 
 Tuesday, November 7, 2006 - 04:00 to 06:00
 
-Where: 
+Where:
 
 Hennings 201

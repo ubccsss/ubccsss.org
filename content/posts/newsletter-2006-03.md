@@ -19,15 +19,16 @@ March for us CSers comes in like a lamb, but out like a lion. You might as well 
 7.  [Grad Boat Cruise](/newsletters/2006/03#7)
 8.  [Yearbook Picture Submissions](/newsletters/2006/03#8)
 9.  [Grad Gift 2006](/newsletters/2006/03#9)
-10.  [Grad Photos with Evangelos Photography](/newsletters/2006/03#10)
-11.  [CSSS Executive Elections](/newsletters/2006/03#11)
-12.  [Looking for GirlSmarts Volunteers](/newsletters/2006/03#12)
-13.  [Wireless Proposal Competition](/newsletters/2006/03#13)
-14.  [Student Excellence Awards](/newsletters/2006/03#14)
-15.  [Terry Writing Contest](/newsletters/2006/03#15)
-16.  [Vancouver Sun Run 2006](/newsletters/2006/03#16)
+10. [Grad Photos with Evangelos Photography](/newsletters/2006/03#10)
+11. [CSSS Executive Elections](/newsletters/2006/03#11)
+12. [Looking for GirlSmarts Volunteers](/newsletters/2006/03#12)
+13. [Wireless Proposal Competition](/newsletters/2006/03#13)
+14. [Student Excellence Awards](/newsletters/2006/03#14)
+15. [Terry Writing Contest](/newsletters/2006/03#15)
+16. [Vancouver Sun Run 2006](/newsletters/2006/03#16)
 
-___
+---
+
 **Co-op Info Sessions**
 
 _When: Wednesday Mar. 15, 3:00pm-4:30pm \
@@ -35,16 +36,17 @@ Where: MacMillan Building, Room 158_
 
 Find out why being a Co-op student is the best career decision you can make at University! In the program, you can:
 
-*   Get real programming experience
-*   Make $ $ $
-*   Make industry contacts
-*   Travel to exotic places
+- Get real programming experience
+- Make $ $ $
+- Make industry contacts
+- Travel to exotic places
 
 There are two identical info sessions, so choose whichever one you can attend. But make sure you get your application in, in time for **Friday, March 24, 2006**. Applications must be submitted to Denise Jesudason at ICICS/CS x2412.
 
 More Co-op details can be found at [http://www.sciencecoop.ubc.ca](http://www.sciencecoop.ubc.ca) or [see the poster](http://www.csss.cs.ubc.ca/files/info-session.pdf).
 
-___
+---
+
 **Henry Kautz: Understanding Human Behaviour from Sensor Data**
 
 _When: Thursday Mar. 16, 4:00-5:30pm \
@@ -54,7 +56,8 @@ The convergence of advances in algorithms for probabilistic reasoning and the de
 
 More information: [http://www.cs.ubc.ca/events/seminars/csicics.shtml](http://www.cs.ubc.ca/events/seminars/csicics.shtml)
 
-___
+---
+
 **CSSS/MIS IT Night**
 
 _When: Thursday Mar. 16, 5:30-8:00pm \
@@ -72,17 +75,18 @@ Schedule \
 6:00 - Opening Remarks \
 6:15 - Speakers
 
-*   Timothy Bult
-    *   MDA - Program Manager
-*   Kevin Cheng
-    *   TSI Terminal Systems Inc. - Business Support Analyst
+- Timothy Bult
+  - MDA - Program Manager
+- Kevin Cheng
+  - TSI Terminal Systems Inc. - Business Support Analyst
 
 7:00 - Games \
 7:30 - Food & Drinks
 
 Attendance is **free** for CS students, but tickets must be picked up before **Tuesday March 13th** from the CSSS office. There are **only 35 tickets**, so don't delay!
 
-___
+---
+
 **CSSS Games Night v3.0**
 
 _When: Friday Mar. 17, 5:00-11:00pm \
@@ -90,7 +94,8 @@ Where: CS Student Lounge, X-wing_
 
 We're back for the third and final instalment of the CSSS Games Night! Come on out and play some dual XBox 360, foosball, poker, and more.
 
-___
+---
+
 **Day in a Firm @ IBM**
 
 _When: Thursday Mar. 23, 10:00am-12:00pm \
@@ -105,7 +110,8 @@ The Pacific Development Centre, IBM's Centres for IBM e-business Innovation, is 
 
 Excited? RSVP to secretary(at)thecube.ca by **Monday Mar. 20**. If you're without a ride, you can meet the group on campus at 8:50am at Bay 6 in the UBC Bus Loop. There are **only 30 spots available**, so act now!
 
-___
+---
+
 **Ladies' Movie Night**
 
 _When: Friday Mar. 24, 5:30pm \
@@ -115,21 +121,24 @@ Did you know that UBC CS is among the highest ranking universities in Canada whe
 
 This is a free event, so come on out and network with the rest of the female CSers!
 
-___
+---
+
 **Grad Boat Cruise**
 
 _When: Saturday Apr. 1, 6:00-10:00pm_
 
 The date has tentatively been set as April 1, but its no joke! This year's grad dinner will follow the success of previous years with another fun filled boat cruise. Mark it off on your calendars! Check back soon for more details.
 
-___
+---
+
 **Yearbook Picture Submissions**
 
 Got any pictures of you and your CS friends goofing around on campus? How about pictures during some of the CS social events, or pictures of you and your projects? We'd like to see them! Send any photos of CSers in action to yearbook(at)thecube.ca and for every entry you'll be entered into a draw to win a $70 gift certificate for Evangelos Photography.
 
 Get your photo in the yearbook AND save a few dollars on your grad pictures!
 
-___
+---
+
 **Grad Gift 2006**
 
 Hey class of 2006! Want a way to thank your professors for all their hard work?
@@ -140,7 +149,8 @@ As well, every dollar donated will have your name entered into a draw to win one
 
 Give back to the CS faculty, create a lasting memory, AND save a few dollars on your grad pictures! Visit the CSSS Office for donation forms.
 
-___
+---
+
 **Grad Photos with Evangelos Photography**
 
 Are you graduating this year? Get your grad photos done now! Grad Portraits are being taken at:
@@ -161,7 +171,8 @@ Come to the CSSS Office (X139) to pick up an info sheet with tips for getting yo
 
 **GRAD PHOTOS MUST BE TAKEN ASAP! TO BE IN THE COMPOSITE YOU MUST GET YOUR PHOTOS DONE BY MARCH 31st. DON'T MISS IT!!!**
 
-___
+---
+
 **CSSS Executive Elections**
 
 Another year draws to an end for the cube execs, but the torch must be passed on! Here's your chance to get involved with the CS community and make next year that much better than this.
@@ -170,19 +181,20 @@ Nomination forms will be accepted at the CSSS office from **March 13-17, 2006**.
 
 The following exec positions are up for election:
 
-*   President
-*   Vice President Internal
-*   Vice President External
-*   Treasurer
-*   SUS Representative
-*   Secretary
-*   Social Coordinator (2 positions)
+- President
+- Vice President Internal
+- Vice President External
+- Treasurer
+- SUS Representative
+- Secretary
+- Social Coordinator (2 positions)
 
 Questions? Feel free to contact Nakisa @ internalvp(at)csss.cs.ubc.ca.
 
 [Download the application](/files/2006_csss_exec_election_app.pdf)
 
-___
+---
+
 **Looking for GirlSmarts Volunteers**
 
 The [Jade Project](http://www.jadeproject.ca/), an organization that supports girls and women who are interested in Computer Science, is looking for eager volunteers for their upcoming GirlSmarts workshop!
@@ -193,7 +205,8 @@ To sign up and find out more about volunteering in the Jade Project's GIRLSmarts
 
 Act fast, as volunteer interviews will cease by the end of March!
 
-___
+---
+
 **Wireless Proposal Competition**
 
 The Communications Society of IEEE Student Branch at UBC is now hosting the “UBC Wireless Venture Competition” for students who are in Computer Science and Electrical and Computer Engineering. The purpose of this competition is to enhance students’ involvement in the UBC wireless network and help students develop their ability to create a well presented proposal and presentation.
@@ -202,7 +215,8 @@ A team with no more than three students shall prepare a one-page summary based o
 
 The rules and proposal template can be found at [http://www.comsoc.org/vancouver/](http://www.comsoc.org/vancouver/).
 
-___
+---
+
 **Student Excellence Awards**
 
 A maximum of three (3) $500 Student Excellence Awards will be awarded for the 2005-2006 academic year to students in recognition of contributions to the undergraduate Computer Science student body and/or Department. These awards are intended to encourage and reward students who take initiative within the UBC Computer Science community to the benefit of both the student and their peers.
@@ -213,17 +227,17 @@ _NOTE: The selection committee reserves the right to refrain from distributing t
 
 Applicants for this award should:
 
-*   be an undergraduate student
-*   be enrolled in the Computer Science Major program, Computer Science Honors Program, a combined major/honors program with Computer Science, the BCS program or be in the Computer Science stream of the Cognitive Systems program
-*   have displayed substantial contributions to the undergraduate Computer Science student body through involvement with undergraduate activities or through the Department of Computer Science (paid work shall not qualify a student for this award)
-*   have not received this award before
+- be an undergraduate student
+- be enrolled in the Computer Science Major program, Computer Science Honors Program, a combined major/honors program with Computer Science, the BCS program or be in the Computer Science stream of the Cognitive Systems program
+- have displayed substantial contributions to the undergraduate Computer Science student body through involvement with undergraduate activities or through the Department of Computer Science (paid work shall not qualify a student for this award)
+- have not received this award before
 
 **Supporting Materials**
 
 All candidates must include the following in their nomination package:
 
-*   1 completed nomination form
-*   2 signed & sealed letters of support from a peer student and a faculty member
+- 1 completed nomination form
+- 2 signed & sealed letters of support from a peer student and a faculty member
 
 **Submission Information**
 
@@ -231,7 +245,8 @@ Please submit application package in person no later than Friday March 31, 2006 
 
 [Download the nomination form](http://www.csss.cs.ubc.ca/files/2006_student_excellence_award.pdf).
 
-___
+---
+
 **Terry Writing Contest**
 [Terry (www.terry.ubc.ca)](http://www.terry.ubc.ca) is a joint TLEF initiative of the Faculty of Arts and the Faculty of Science, with support from the Michael Smith Laboratories, VP Students, UBC Campus Sustainability Office, UBC Okanagan, UBC Bookstore, UBC Let's Talk Science Partnership Program, and the Chan Centre for Performing Arts.
 
@@ -244,7 +259,9 @@ For more information, please read on...
 3. The third category is open to all. The first two categories are limited to those from the UBC community (students, staff and/or faculty). This simply entails submissions culled from the general public that would fit in either category, perhaps even both.
 
 Pieces should be no longer than 2000 words , and can happily be something you have to write anyway for your courses. The deadline for submissions is **March 31st, 2006**. Previously published material (where permission is obtained) is just fine although may be considered less competitive than original works. Please inquire with specifics regarding audio or visual pieces. Note that the author retains full copyright of any work published on our site, although we would love to be credited with showing it off. Please submit your entry to `tscq(at)interchange.ubc.ca`, subject heading "terry".
-___
+
+---
+
 **Vancouver Sun Run 2006**
 
 _When: Sunday Apr. 23, 9:00am_
@@ -252,7 +269,7 @@ _When: Sunday Apr. 23, 9:00am_
 Interested in joining UBC Computer Science at this year's Vancouver Sun Run? The race is on April 23, at 9:00 a.m. and would be a great way to take a short break from studying for finals and to support a number good causes. The cost to register is $35. Early registration for Corporate teams ends on February 10. After that, registration is $40, so be sure to register early.
 
 How you can register: \
-Online at [https://www.sporg.com/registration?link\_type=form&form\_id=35210&Team+Number=1632](https://www.sporg.com/registration?link_type=form&form_id=35210&Team+Number=1632) \
+Online at [https://www.sporg.com/registration?link_type=form&form_id=35210&Team+Number=1632](https://www.sporg.com/registration?link_type=form&form_id=35210&Team+Number=1632) \
 Team Name: Speed Freaks \
 Team Number: 1632 \
 Team Captain: Andrew Eisenberg

@@ -14,10 +14,10 @@ Do you love building great software? Are you interested in changing how people i
 
 The successful applicant will have:
 
-*   software development experience in an production software environment,
-*   proficiency in the Java programming language,
-*   experience building Eclipse plugins,
-*   a B.Sc. (graduation in May 2010 is acceptable), and
-*   strong communication skills.
+- software development experience in an production software environment,
+- proficiency in the Java programming language,
+- experience building Eclipse plugins,
+- a B.Sc. (graduation in May 2010 is acceptable), and
+- strong communication skills.
 
 If you meet the qualifications listed above and are interested in joining a vibrant, growing start-up company located in downtown Vancouver, send your cover letter and résumé to [\[email protected\]](/cdn-cgi/l/email-protection#caa9abb8afafb8b98abeabb9a1bea5bae4a9a5a7), preferably by March 5, 2010.

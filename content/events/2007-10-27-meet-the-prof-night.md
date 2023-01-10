@@ -16,10 +16,10 @@ Dinner will be provided!
 
 Please RSVP by Oct 30th 4pm to [\[email protected\]](/cdn-cgi/l/email-protection#640d0a020b24110607060d1e1001070c4a070b09) so that we can e-mail you the venue location.
 
-When: 
+When:
 
 Thursday, November 1, 2007 - 18:00 to 20:00
 
-Tags: 
+Tags:
 
 [Career](/career)

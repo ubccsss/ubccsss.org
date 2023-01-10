@@ -19,14 +19,14 @@ location:
     addressCountry: CA
 ---
 
-When: 
+When:
 
 Thursday, March 18, 2010 - 15:30 to 16:50
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Career](/career)

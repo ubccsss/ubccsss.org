@@ -27,6 +27,7 @@ Whether you're a 1st year or a 4th year, it's never too early to be interested i
 Remember to bring your resumes!
 
 Some of the attending companies are:
+
 - Google
 - Microsoft
 - EA
@@ -36,19 +37,19 @@ Some of the attending companies are:
 - RIM
 - TELUS
 - Ericsson
-and many more!
+  and many more!
 
 Hosted by your Computer Science Student Society, Electrical Engineering, Engineering
 Physics, and Cognitive Systems Society Clubs
 
-When: 
+When:
 
 Tuesday, February 1, 2011 - 10:00 to 16:00
 
-Where: 
+Where:
 
 SUB Ballroom
 
-Tags: 
+Tags:
 
 [Career](/career)

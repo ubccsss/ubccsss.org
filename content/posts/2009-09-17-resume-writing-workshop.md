@@ -21,14 +21,14 @@ tags: [Resume]
 
 To register, please e-mail [Diane Johnson](/cdn-cgi/l/email-protection#513538303f343b3e391132227f2433327f3230).
 
-When: 
+When:
 
 Friday, September 25, 2009 - 12:00 to 13:00
 
-Where: 
+Where:
 
 DMP 201
 
-Tags: 
+Tags:
 
 [Career](/career)

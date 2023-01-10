@@ -25,15 +25,15 @@ Snacks and pop will be provided!
 
 [https://www.facebook.com/events/978281435638645/](https://www.facebook.com/events/978281435638645/)
 
-When: 
+When:
 
 Friday, January 20, 2017 - 16:00 to 19:00
 
-Where: 
+Where:
 
 Reboot Lounge
 
-Tags: 
+Tags:
 
 [Club Activities](/club)
 

@@ -23,14 +23,14 @@ Google, Electronic Arts, MDA, and Microsoft are some of the employers who'll be 
 
 For full details, see the [UBC Technical Career Fair 2010 Website](http://cf10.thecube.ca/).
 
-When: 
+When:
 
 Wednesday, January 13, 2010 - 10:00 to 16:00
 
-Where: 
+Where:
 
 SUB Ballroom
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -17,6 +17,6 @@ attachment** to this post to see the requirements for these positions!
 As well you may apply by sending your resume to [\[email protected\]](/cdn-cgi/l/email-protection#573936233b2332363a173a3e342538243831237934383a),
 make sure to put **"UBC" in the subject of the email**.
 
-File Attachments: 
+File Attachments:
 
- ![Microsoft Office document icon](/modules/file/icons/x-office-document.svg "application/msword") [Software\_Development\_Positions\_2.doc](https://ubccsss.org/files/Software_Development_Positions_2.doc)
+![Microsoft Office document icon](/modules/file/icons/x-office-document.svg "application/msword") [Software_Development_Positions_2.doc](https://ubccsss.org/files/Software_Development_Positions_2.doc)

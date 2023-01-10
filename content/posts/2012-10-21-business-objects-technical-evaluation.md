@@ -36,14 +36,14 @@ New grads are also encouraged to apply online for the following positions:
 
 [New Grad Software Test Developer](http://www.recruitingcenter.net/clients/businessobjects/publicjobs/canada/controller.cfm?jbaction=JobProfile&Job_Id=13455&esid=az)
 
-When: 
+When:
 
 Tuesday, January 31, 2006 - 16:00 to 17:30
 
-Where: 
+Where:
 
 Dempster 310
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -13,14 +13,14 @@ raw_location: Hennings 201
 
 Target audience: All students in Business, Engineering, Computer Science, Arts and Environmental Science.
 
-When: 
+When:
 
 Tuesday, March 16, 2010 - 16:00 to 18:00
 
-Where: 
+Where:
 
 Hennings 201
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -15,14 +15,14 @@ Looking to get involved with student entrepreneurship or simply want to check ou
 
 Food is served at 5:45, the meeting starts at 6, and there is an optional workshop from 6:45 to 7:15.
 
-When: 
+When:
 
 Monday, January 25, 2010 - 17:45 to 19:15
 
-Where: 
+Where:
 
 Hebb 12
 
-Tags: 
+Tags:
 
 [Career](/career)

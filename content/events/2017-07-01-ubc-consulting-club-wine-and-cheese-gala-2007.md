@@ -23,6 +23,7 @@ Mingle among more than 150 fellow colleagues and enthusiastic students from UBC 
 Enjoy light refreshments and complimentary drink (first come first served).
 
 ###### Keynote Speaker:
+
 Joe Ryan \
 Partner \
 Communications Sector \
@@ -51,13 +52,16 @@ time to various international sporting organizations, the Vancouver 2010
 Olympic Committee as well as local children's sporting clubs.
 
 ###### Keynote Topic:
+
 What to Expect from a Career in Consulting?
 
 ###### Time:
+
 Thursday, March 15, 2007 \
 6:30 – 9 pm
 
 ###### Venue:
+
 The Vancouver Rowing Club \
 450 Stanley Park Drive \
 (at the Georgia street entrance to Stanley Park) \
@@ -65,11 +69,13 @@ The Vancouver Rowing Club \
 Free parking available along Stanley Park and in venue parking lot
 
 ###### Admission:
+
 - Members Free (please pick up your ticket ASAP)
 - $10 Undergraduate
 - $15 Graduate
 
 ###### Ticket Pickup/Sale:
+
 Outside David Lam Library (Henry Angus Building) - Booth \
 Feb 28 - Mar 13 \
 Monday - Thursday 11:30-2pm

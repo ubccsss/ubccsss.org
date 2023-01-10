@@ -19,8 +19,8 @@ We are looking for students who can help facilitate this process and help out be
 
 To become a volunteer, email Michael Shin at [\[email protected\]](/cdn-cgi/l/email-protection) Please indicate the following:
 
-* which role you are interested in (detailed role descriptions were included in an e-mail to our mailing list)
-* your availability that you can contribute to this event
+- which role you are interested in (detailed role descriptions were included in an e-mail to our mailing list)
+- your availability that you can contribute to this event
 
 Michael Shin \
 Volunteer Coordinator \

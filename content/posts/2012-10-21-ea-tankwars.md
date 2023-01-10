@@ -14,4 +14,4 @@ EA looks to have outdone itself by including a code base, that compiles on Windo
 
 And although it doesn't specify it explicitly, if you're looking to get the attention of EA for whatever reason - co-op student or summer intern - this might be a way of getting your foot in the door :-)
 
-[http://info.ea.com/company/company\_tw.php](http://info.ea.com/company/company_tw.php)
+[http://info.ea.com/company/company_tw.php](http://info.ea.com/company/company_tw.php)

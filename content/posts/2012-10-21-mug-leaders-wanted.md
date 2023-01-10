@@ -23,10 +23,10 @@ The earlier you apply, the better the choice of timeslots you will have for your
 
 For more details please visit: [http://www.students.ubc.ca/newtoubc/orientations.cfm](http://www.students.ubc.ca/newtoubc/orientations.cfm)
 
-When: 
+When:
 
 Monday, January 28, 2008 (All day) to Wednesday, February 6, 2008 (All day)
 
-Tags: 
+Tags:
 
 [Social](/social)

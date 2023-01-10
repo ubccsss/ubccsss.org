@@ -18,10 +18,10 @@ Completing the online lesson (5.1) before the in-class clinic is strongly recomm
 
 **Only 3 spaces remaining!**
 
-When: 
+When:
 
 Wednesday, November 30, 2005 - 13:00 to 15:00
 
-Tags: 
+Tags:
 
 [Career](/career)

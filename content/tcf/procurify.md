@@ -1,6 +1,6 @@
 ---
 layout: tcf-company
-title: Procurify 
+title: Procurify
 link: https://www.procurify.com/careers
 short_bio: >
   Procurify helps forward thinking organizations empower their teams for success by making business spending smart and simple.<br/><br/>

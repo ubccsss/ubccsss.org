@@ -17,10 +17,10 @@ Please come to our info session and RSVP to [\[email protected\]](/cdn-cgi/l/em
 
 For more information, please visit [http://www.accenture.ca/careers/](http://www.accenture.ca/careers/).
 
-When: 
+When:
 
 Tuesday, September 26, 2006 - 17:30 to 18:30
 
-Where: 
+Where:
 
 Wesbrook 100 (the white building across UBC bookstore)

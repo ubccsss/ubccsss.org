@@ -24,14 +24,14 @@ location:
 
 For more information about the speaker, see: [http://research.microsoft.com/~thekkath/](http://research.microsoft.com/~thekkath/)
 
-When: 
+When:
 
 Thursday, October 13, 2005 - 16:00 to 17:30
 
-Where: 
+Where:
 
 DMP 310
 
-Tags: 
+Tags:
 
 [Career](/career)

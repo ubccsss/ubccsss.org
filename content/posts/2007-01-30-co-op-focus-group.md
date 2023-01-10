@@ -27,10 +27,10 @@ Yes, Free Pizza and other gifts will be provided!
 
 **Deadline for reserving a spot for this great session: by noon on Tuesday Feb 6th**
 
-When: 
+When:
 
 Thursday, February 8, 2007 - 12:30 to 13:00
 
-Tags: 
+Tags:
 
 [Career](/career)

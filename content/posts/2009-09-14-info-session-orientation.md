@@ -12,14 +12,14 @@ end_date: 2009-09-14 18:30:00
 raw_location: Forest Science Centre Rm 1221, 2424 Main Mall
 ---
 
-When: 
+When:
 
 Monday, September 14, 2009 - 17:00 to 18:30
 
-Where: 
+Where:
 
 Forest Science Centre Rm 1221, 2424 Main Mall
 
-Tags: 
+Tags:
 
 [Career](/career)

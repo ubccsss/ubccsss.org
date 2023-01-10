@@ -15,9 +15,9 @@ end_date: 2009-11-23 23:01:00
 
 Food Drive Competition involving three teams:
 
-*   CSSS (Computer Science Student Society)
-*   CSS (Cognitive Systems Society)
-*   MISA (Microbiology & Immunology Student Association)
-*   EECE (Electrical and Computer Engineering)
+- CSSS (Computer Science Student Society)
+- CSS (Cognitive Systems Society)
+- MISA (Microbiology & Immunology Student Association)
+- EECE (Electrical and Computer Engineering)
 
 Please donate any non-perishable foods at donation area at the Reboot Café. Monetary donations will be accepted at Cube Office, ICICS X139. All donations go to Greater Vancouver Food Bank Society.

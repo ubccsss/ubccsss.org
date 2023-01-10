@@ -21,15 +21,15 @@ Other contest-related links:
 
 [Facebook](https://www.facebook.com/Apps4ClimateAction?ref=ts) [Twitter](https://twitter.com/a4ca)
 
-When: 
+When:
 
 Thursday, June 17, 2010 - 17:00 to 21:00
 
-Where: 
+Where:
 
 SAP Yaletown, 910 Mainland Street
 
-Tags: 
+Tags:
 
 [Career](/career)
 

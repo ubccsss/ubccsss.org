@@ -12,14 +12,14 @@ Interested in an executive position in the Cube for 2009–2010? Elections are c
 
 The positions open are:
 
-*   President
-*   Vice President, Volunteering Services
-*   Vice President, Internal
-*   Vice President, External
-*   Vice President, Social
-*   Vice President, Communications
-*   Treasurer
-*   Secretary
+- President
+- Vice President, Volunteering Services
+- Vice President, Internal
+- Vice President, External
+- Vice President, Social
+- Vice President, Communications
+- Treasurer
+- Secretary
 
 For descriptions of the responsibilities of the positions, please see [our constitution](/club/about/constitution), specifically bylaw 8.
 

@@ -23,14 +23,14 @@ location:
 
 Lunch with be provided.
 
-When: 
+When:
 
 Thursday, March 18, 2010 - 12:30 to 14:00
 
-Where: 
+Where:
 
 DMP 310
 
-Tags: 
+Tags:
 
 [Career](/career)

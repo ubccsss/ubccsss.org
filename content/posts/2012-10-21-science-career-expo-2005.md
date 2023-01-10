@@ -18,22 +18,22 @@ raw_location: Woodward/IRC Building
 
 CHOOSE FROM A SERIES OF ONE-HOUR PANEL DISCUSSIONS:
 
-*   biotechology
-*   health care
-*   environment
-*   alternative medicine
-*   the business of science
+- biotechology
+- health care
+- environment
+- alternative medicine
+- the business of science
 
 Pop and pizza provided for registered students - register now! Go to [http://students.ubc.ca/success/careers.cfm](http://students.ubc.ca/success/careers.cfm), scroll down, and register. There's 696 spots available as I write this. Last year's event was really popular so sign up early!
 
-When: 
+When:
 
 Wednesday, November 9, 2005 - 16:30 to 19:30
 
-Where: 
+Where:
 
 Woodward/IRC Building
 
-Tags: 
+Tags:
 
 [Career](/career)

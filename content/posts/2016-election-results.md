@@ -21,6 +21,6 @@ VP Volunteering: Bianca Subion
 
 The VP Administration position was not contested and is currently open. More information will be posted about the application process once available.
 
-Tags: 
+Tags:
 
 [Club Activities](/club)

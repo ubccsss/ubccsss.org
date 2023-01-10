@@ -18,14 +18,14 @@ location:
     addressCountry: CA
 ---
 
-When: 
+When:
 
 Thursday, April 15, 2010 - 14:00 to 15:30
 
-Where: 
+Where:
 
 ICICS Atrium
 
-Tags: 
+Tags:
 
 [Career](/career)

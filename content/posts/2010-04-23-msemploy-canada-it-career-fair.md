@@ -15,14 +15,14 @@ Meet Face-To-Face with Microsoft-Focused IT Recruiters. MSEmploy Canada—Canada
 
 [Full Details](http://www.msemploy.ca/EventDetail.aspx?eventID=62)
 
-When: 
+When:
 
 Wednesday, May 12, 2010 - 09:00 to 14:00
 
-Where: 
+Where:
 
 Executive Hotel & Conference Centre Burnaby, 4201 Lougheed Highway
 
-Tags: 
+Tags:
 
 [Career](/career)

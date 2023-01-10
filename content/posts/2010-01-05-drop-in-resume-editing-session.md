@@ -21,14 +21,14 @@ tags: [Resume]
 
 Come any time between 11 and 2 to get some tips on how to improve your résumé.
 
-When: 
+When:
 
 Monday, January 11, 2010 - 11:00 to 14:00
 
-Where: 
+Where:
 
 ICICS 255
 
-Tags: 
+Tags:
 
 [Career](/career)

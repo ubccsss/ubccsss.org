@@ -37,7 +37,7 @@ The UBC CSSS is hosting a hoodie and sticker **GRAPHIC DESIGN CONTEST**, and the
 - **Where**: You can submit your designs [here](https://ubc.ca1.qualtrics.com/jfe/form/SV_9tQ8vvBj2zT7794) or scan the QR code below!
 - **Why**: If the idea of hundreds of UBC CS students wearing your hoodie design isn’t enough, we are also providing you Amazon gift cards worth $20 CAD, a shoutout on our official social media handles and you get to keep the hoodie and sticker for free too!
 
-*\*Please note that ALL submissions will ONLY be accepted in .svg, .jpg/.jpeg or .png file formats.*
+_\*Please note that ALL submissions will ONLY be accepted in .svg, .jpg/.jpeg or .png file formats._
 
 **Prize Guidelines**:
 
@@ -56,7 +56,7 @@ The UBC CSSS is hosting a hoodie and sticker **GRAPHIC DESIGN CONTEST**, and the
 
 - Be creative! Successful logos will likely speak to the broader UBC CS community while also being aesthetically pleasing!
 
-*\*Please note that once submitted, the design is the property of the UBC CSSS and can be edited and used at its sole discretion.*
+_\*Please note that once submitted, the design is the property of the UBC CSSS and can be edited and used at its sole discretion._
 
 For any queries, please contact [vpv@ubccsss.org](mailto:vpv@ubccsss.org).
 

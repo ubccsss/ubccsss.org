@@ -11,14 +11,14 @@ end_date: 2010-02-01 17:00:00
 raw_location: CEME 1202
 ---
 
-When: 
+When:
 
 Monday, February 1, 2010 - 15:30 to 17:00
 
-Where: 
+Where:
 
 CEME 1202
 
-Tags: 
+Tags:
 
 [Career](/career)

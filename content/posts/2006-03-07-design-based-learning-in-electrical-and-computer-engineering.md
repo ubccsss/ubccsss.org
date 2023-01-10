@@ -27,14 +27,14 @@ This talk will give insights into the benefits (and challenges) of establishing 
 For more information about the speaker, please see:
 http://www.ece.ubc.ca/~peterl/
 
-When: 
+When:
 
 Thursday, March 9, 2006 - 15:00 to 16:00
 
-Where: 
+Where:
 
 Hugh Dempster Pavilion, Room 310
 
-Tags: 
+Tags:
 
 [Career](/career)

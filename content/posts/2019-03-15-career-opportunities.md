@@ -16,7 +16,7 @@ This event is usually very well attended by local biotech companies such as STEM
 
 ### Face to Face(book) with Christopher Wylie
 
-How much is too much personal information on Facebook? What are our real online privacy dangers, and are they really that dangerous? Is Black Mirror coming to life? 
+How much is too much personal information on Facebook? What are our real online privacy dangers, and are they really that dangerous? Is Black Mirror coming to life?
 
 On April 16th, join us for a discussion with Christopher Wylie - the figure who brought Cambridge Analytica and the question of data privacy to the forefront of tech - as he breaks down some major ethical issues in the modern age of information:
 

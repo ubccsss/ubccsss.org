@@ -1,5 +1,5 @@
 ---
-title: 'Professional Headshot Session'
+title: "Professional Headshot Session"
 date: 2021-11-05
 tags: []
 author: Asad Dhorajiwala

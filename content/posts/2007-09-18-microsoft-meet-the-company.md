@@ -1,5 +1,5 @@
 ---
-title: "Microsoft's \"Meet the Company\""
+title: 'Microsoft''s "Meet the Company"'
 date: 2012-10-22 05:26:00
 aliases:
   - /node/980
@@ -18,14 +18,14 @@ Bring your resume for your change to win a Canon Digital Camera! Tons of softwar
 
 [http://www.hey-genius.com/](http://www.hey-genius.com/)
 
-When: 
+When:
 
 Tuesday, September 18, 2007 - 18:30 to 19:30
 
-Where: 
+Where:
 
 FSC 1005
 
-Tags: 
+Tags:
 
 [Career](/career)

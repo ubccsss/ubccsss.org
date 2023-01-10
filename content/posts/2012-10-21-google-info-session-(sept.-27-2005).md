@@ -35,14 +35,14 @@ Want to find out more? We'll be hosting an event at UBC where you can meet Googl
 
 Tech Talk and Information Session: 5:30 pm in Hugh Dempster, Room 310 (food, drinks, and Google giveaways included). All welcome!!
 
-When: 
+When:
 
 Tuesday, September 27, 2005 - 17:30 to 19:30
 
-Where: 
+Where:
 
 Dempster Pavillion, Room 310
 
-Tags: 
+Tags:
 
 [Career](/career)

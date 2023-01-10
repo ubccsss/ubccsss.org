@@ -218,22 +218,32 @@
 
 - name: Jacob Hotz
   lastmod: 2022-09-17
-  courses: [CPSC 110, CPSC 121, CPSC 210, CPSC 213, CPSC 213, CPSC 103, CPSC 107, CPSC 313]
+  courses:
+    [
+      CPSC 110,
+      CPSC 121,
+      CPSC 210,
+      CPSC 213,
+      CPSC 213,
+      CPSC 103,
+      CPSC 107,
+      CPSC 313,
+    ]
   email: hotzjacobb@yahoo.com
   bio: |
     Experienced TA (have previously TA'd both 110 and 121) in my final year of UBC CS with a passion for teaching and learning.
   rates: $35/h
   availability: Flexible (please contact)
-  
+
 - name: Jeykiran Prabu
   lastmod: 2022-09-17
   courses: [CPSC 110, CPSC 121]
   email: jeykiranprabu@gmail.com
   bio: |
-    Hi, I am a first year student eagerly awaiting 2nd year major selections. I received 90 in CPSC 110 and 85 in CPSC 121 and I am willing to tutor students in need for a very low price. 
+    Hi, I am a first year student eagerly awaiting 2nd year major selections. I received 90 in CPSC 110 and 85 in CPSC 121 and I am willing to tutor students in need for a very low price.
   rates: $16/h
   availability: Any week days from 9AM - 3PM PST
- 
+
 - name: Hawk Lu
   lastmod: 2022-09-17
   courses: [CPSC 110, CPSC 121, CPSC 210, CPSC 221, CPSC 310, CPSC 320]
@@ -242,10 +252,33 @@
     Hi! My name is Hawk, 4th year BCS, A fan of all cats and dogs, enjoy playing Ultimate, Industry focused on DevOps, and down to help wherever I can!
   rates: $30/h
   availability: Monday, Wednesday, Friday 12pm-6pm
- 
+
 - name: Alex Steele
   lastmod: 2022-09-17
-  courses: [CPSC 103, CPSC 121, CPSC 203, CPSC 210, CPSC 213, CPSC 302, CPSC 303, CPSC 320, MATH 100/180, MATH 101, MATH 200/253, MATH 215/255, MATH 217, MATH 220, MATH 221/152, MATH 223, MATH 302, MATH 303, MATH 316/257, MATH 317, MATH 318]
+  courses:
+    [
+      CPSC 103,
+      CPSC 121,
+      CPSC 203,
+      CPSC 210,
+      CPSC 213,
+      CPSC 302,
+      CPSC 303,
+      CPSC 320,
+      MATH 100/180,
+      MATH 101,
+      MATH 200/253,
+      MATH 215/255,
+      MATH 217,
+      MATH 220,
+      MATH 221/152,
+      MATH 223,
+      MATH 302,
+      MATH 303,
+      MATH 316/257,
+      MATH 317,
+      MATH 318,
+    ]
   email: tutor@alexdsteele.com
   bio: |
     I'm a fourth-year combined honours computer science and physics student. My computer science average is 96.4% and my math average is 94.9% (with a mark of 100% in MATH 223: Honours Linear Algebra). I have worked as a teaching assistant for a total of eight terms for CPSC 110 and 221 and I have extensive tutoring experience. Requests for CPSC 110 or CPSC 221 tutoring will be declined, as will any other requests from current students in courses that I TA.

@@ -20,7 +20,6 @@ location:
 
 ![](/files/2020-01-15-free-professional-headshot.jpg)
 
-
 The CSSS is offering a free portrait photography session for CS students!
 
 This is perfect if you are looking to update your professional profile just before the Technical Career Fair! (TCF event here: https://www.facebook.com/events/1413043358865329)

@@ -26,10 +26,10 @@ in the Student Union Building to answer all your questions about job opportuniti
 
 Click [here](http://www.careers.ubc.ca/events.cfm?page=careerfair&view=participants) to check out which employers are coming!
 
-When: 
+When:
 
 Wednesday, October 4, 2006 - 09:00 to Thursday, October 5, 2006 - 16:30
 
-Where: 
+Where:
 
 Student Union Building (SUB)

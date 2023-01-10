@@ -21,14 +21,14 @@ location:
 
 Dr. Ben Livshits will present his talk, "Towards Better Performance and Security for AJAX Web Application". Anyone is welcome to attend.
 
-When: 
+When:
 
 Thursday, September 17, 2009 - 15:30 to 16:50
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Career](/career)

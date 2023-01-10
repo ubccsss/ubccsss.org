@@ -21,14 +21,14 @@ location:
 
 Movies shown will be Zombieland and Iron Man. Free pop and popcorn will be available.
 
-When: 
+When:
 
 Thursday, March 11, 2010 - 17:00 to 21:00
 
-Where: 
+Where:
 
 DMP 310
 
-Tags: 
+Tags:
 
 [Social](/social)

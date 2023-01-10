@@ -16,14 +16,14 @@ As we are anticipating a great deal of interest in this event, could you rsvp to
 Please be advised that the rsvp is for tracking attendance numbers only and we cannot respond to individual questions about the session or the career opportunities Shell Canada will be discussing.
 Refreshments will be served. Hope you can join us on the 18th in Wesbrook.
 
-When: 
+When:
 
 Thursday, September 18, 2008 - 18:30 to 20:30
 
-Where: 
+Where:
 
 Wesbrook 100
 
-Tags: 
+Tags:
 
 [Career](/career)

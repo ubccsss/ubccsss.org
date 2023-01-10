@@ -24,10 +24,10 @@ Join us to find out more about Mylar, Mik, and ACM!
 Further information: \
 Software developers are inundated with information: the systems on which developers work often comprise hundreds of thousands of lines or more of source code, developers' email inboxes are clogged with notifications of new bugs reported and so on. Many of the tools developers use have been engineered to present and deliver this information as fast as possible. Mik's research aims to reverse this trend by presenting just the information a developer needs when they need it by exploiting structure and patterns in the ways developers work. This talk presents the results of the Mylar project ([http://www.eclipse.org/mylar](https://www.eclipse.org/mylar) ) that is changing the way developers work by focusing the UI of the Eclipse IDE to show only the information relevant to the task-at-hand.
 
-When: 
+When:
 
 Thursday, March 1, 2007 - 17:00 to 18:00
 
-Where: 
+Where:
 
 DMP 110

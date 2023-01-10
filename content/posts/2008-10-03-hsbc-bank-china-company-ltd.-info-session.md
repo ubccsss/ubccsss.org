@@ -15,14 +15,14 @@ UBC Career Services is pleased to invite you to attend an Information Session pr
 As last year's event was very popular, we are requesting that you send an email rsvp to [\[email protected\]](/cdn-cgi/l/email-protection#553634273030277b263027233c363026152037367b3634) and reference HSBC Asia in the subject line.
 Due to the volume of emails we manage at the Career Centre, we cannot respond to individual questions about this Employer. You are welcome to visit their website for detailed career information - [www.hsbc.com.cn/career](http://www.hsbc.com.cn/career). We hope you can join us on the 6th.
 
-When: 
+When:
 
 Monday, October 6, 2008 - 18:30 to 19:30
 
-Where: 
+Where:
 
 IBLC Victoria Room 182
 
-Tags: 
+Tags:
 
 [Career](/career)

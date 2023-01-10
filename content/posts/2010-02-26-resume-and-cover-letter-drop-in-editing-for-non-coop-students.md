@@ -21,14 +21,14 @@ tags: [Resume]
 
 Drop in for a 20-minute session.
 
-When: 
+When:
 
 Wednesday, March 3, 2010 - 12:00 to 15:00
 
-Where: 
+Where:
 
 ICICS 255
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -45,14 +45,14 @@ April joined Google in August 2005 and works in the Seattle R&D office in Kirkla
 **Peng Zhao, Software Engineer** \
 Peng graduated from UBC in August 2004 with a Master of Science in Computer Science. During his two years at UBC, he TA'ed CS414 Computer Graphics and represented UBC to attend ACM ICPC contest twice ( http://www.cs.ubc.ca/~pzhao/). He became a Googler in December 2005 in the Seattle R&D office, and has been working in the Google Pack team.
 
-When: 
+When:
 
 Thursday, September 28, 2006 - 17:30 to 18:30
 
-Where: 
+Where:
 
 Forest Sciences 1005 NOT Dempster 110 and NOT Dempster 310 as previously stated!
 
-Tags: 
+Tags:
 
 [Career](/career)

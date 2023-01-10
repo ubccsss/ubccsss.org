@@ -19,14 +19,14 @@ Space is limited so please sign-up as soon as possible to guarantee your spot.
 
 For more information, visit their website: http://verev.com/vancouver-hackathon/
 
-When: 
+When:
 
 Friday, October 8, 2010 (All day) to Sunday, October 10, 2010 (All day)
 
-Where: 
+Where:
 
 The Network Hub, 422 Richards Street
 
-Tags: 
+Tags:
 
 [Career](/career)

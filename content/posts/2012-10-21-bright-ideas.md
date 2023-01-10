@@ -17,10 +17,10 @@ Submit your application by _March 27, 2010_ at 11:59PM to [\[email protected\]]
 
 So get your applications in. For details on rules and application form, visit [www.vsea.ca](http://www.vsea.ca). If you have any questions regarding the competition, please direct them to [\[email protected\]](/cdn-cgi/l/email-protection#61000f0f004f000f21171204004f0200). For the Facebook event page, visit [http://www.facebook.com/event.php?eid=295151767686&index=1](https://www.facebook.com/event.php?eid=295151767686&index=1).
 
-When: 
+When:
 
 Thursday, April 8, 2010 - 14:31
 
-Tags: 
+Tags:
 
 [Career](/career)

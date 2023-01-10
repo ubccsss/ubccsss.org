@@ -21,12 +21,12 @@ location:
 
 Are you interested in being mentored by an industry or faculty member? Are you curious about what it's like to be working in the high tech industry? Please think about joining the tri-mentoring program to:
 
-*   connect with an industrial/academic mentor who will offer insights into future opportunities;
-*   improve job search skills;
-*   establish important industry contacts;
-*   explore various career options;
-*   hone your networking and communication skills;
-*   share your CS experience by mentoring a junior undergrad student.
+- connect with an industrial/academic mentor who will offer insights into future opportunities;
+- improve job search skills;
+- establish important industry contacts;
+- explore various career options;
+- hone your networking and communication skills;
+- share your CS experience by mentoring a junior undergrad student.
 
 We have recruited mentors from big companies and organizations such as Business Objects, EA, IBM, MDA, Telus, Blast Radius and BC Cancer Agency. We also recruited various faculty members and technical staff from our own department as mentors.
 
@@ -34,14 +34,14 @@ If you are interested in finding out more about the program, please come to the 
 
 Please email Mary Anne Lyons at [\[email protected\]](/cdn-cgi/l/email-protection#1e726771706d735e7d6d306b7c7d307d7f) to sign up for the info session and orientation.
 
-When: 
+When:
 
 Tuesday, September 12, 2006 - 17:30 to 18:30
 
-Where: 
+Where:
 
 DMP 310
 
-Tags: 
+Tags:
 
 [Career](/career)

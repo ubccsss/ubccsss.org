@@ -1,5 +1,5 @@
 ---
-title: 'LP x CSSS: Project Hub'
+title: "LP x CSSS: Project Hub"
 date: 2019-03-22
 start_date: 2019-03-30 15:30:00
 end_date: 2019-03-30 18:30:00

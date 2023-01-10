@@ -22,14 +22,14 @@ Join us for a special Masters of Digital Media (MDM) Program Information Session
 
 The MDM program is a 20-month applied masters degree combining an innovative agile curriculum, industry-funded projects, a four month internship and a powerhouse Master's degree bearing the seals of FOUR leading post-secondary institutions: UBC, SFU, Emily Carr University of Art + Design and BCIT. MDM students have diverse backgrounds from computer science to the fine arts. The MDM program offers superior instruction and mentorship, extensive industry contact and outstanding networking opportunities.
 
-When: 
+When:
 
 Thursday, February 11, 2010 - 12:30 to 13:30
 
-Where: 
+Where:
 
 DMP201
 
-Tags: 
+Tags:
 
 [Career](/career)

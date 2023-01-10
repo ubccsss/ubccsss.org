@@ -16,14 +16,14 @@ Food and beverages will be provided!
 
 [Poster](/files/IndustryPanel2009Poster.pdf)
 
-When: 
+When:
 
 Thursday, January 15, 2009 - 17:30 to 19:30
 
-Where: 
+Where:
 
 DMP110
 
-Tags: 
+Tags:
 
 [Career](/career)

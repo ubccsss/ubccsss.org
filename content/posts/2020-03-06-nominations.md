@@ -6,8 +6,8 @@ tags: [club-activities]
 author: Leo Lin
 images:
   - /files/2020-03-06-nominations.png
- 
 ---
+
 ![](/files/2020-03-06-nominations.png)
 
 Interested in being part of the CSSS Executive Team next year? Nominations are now open! You can pick up your nomination form at the Cube (ICICS 021).

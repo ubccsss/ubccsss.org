@@ -24,10 +24,10 @@ hour.
 Please visit our website at [http://www.gnwc.ca/mdm](http://www.gnwc.ca/mdm)
 for further information.
 
-When: 
+When:
 
 Monday, February 26, 2007 - 11:30 to 12:30
 
-Where: 
+Where:
 
 Buchanan Centre Penthouse

@@ -17,14 +17,14 @@ See you there!
 iGEM of UBC Execs 2009
 [www.ubcigem.com](http://www.ubcigem.com/)
 
-When: 
+When:
 
 Thursday, October 8, 2009 - 17:00 to 18:00
 
-Where: 
+Where:
 
 Michael Smith Laboratories 101
 
-Tags: 
+Tags:
 
 [Career](/career)

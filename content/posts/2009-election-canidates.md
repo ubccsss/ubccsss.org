@@ -17,21 +17,21 @@ The following candidates are running:
 
 Nadia Ahmadian
 
-*   I have been UBC Google Ambassador for the past 2 years - you may have seen me organizing pizza events, pie parties and movie nights!
-*   I have been working with Sun MicroSystems as the campus ambassador since 2008.
-*   I organized UBC OSUM Club which offers Free Java trainings for students!
-*   I have been working with UBC IEEE club as Computer Science Rep since 2008
-*   I been involved in many events inside and outside the department such as CSSS, Live-in-for-literacy, End breast cancer and more and I always enjoy volunteering and helping my peers
+- I have been UBC Google Ambassador for the past 2 years - you may have seen me organizing pizza events, pie parties and movie nights!
+- I have been working with Sun MicroSystems as the campus ambassador since 2008.
+- I organized UBC OSUM Club which offers Free Java trainings for students!
+- I have been working with UBC IEEE club as Computer Science Rep since 2008
+- I been involved in many events inside and outside the department such as CSSS, Live-in-for-literacy, End breast cancer and more and I always enjoy volunteering and helping my peers
 
 Why Nadia?
 
 Because I have been working closely with the department and students societies, I am familiar with students needs:
 
-*   My mission is to help students to get more involved with the department by making CSSS a friendly environment that will be welcoming for all the students!
-*   I plan to get the department and faculty more involved with students through various social events.
-*   I want to re-implement the volunteer tutoring system ( students would tutor and help each other on courses as well as gaining experience on tutoring)
-*   I want to make sure that every student has fair access to resources and I hope to develop a network of students helping other students!
-*   Lastly, but not least, I’m a fun and dedicated person – I will always be open to new suggestions and ideas and will work on your behalf to fulfill your hopes and needs!
+- My mission is to help students to get more involved with the department by making CSSS a friendly environment that will be welcoming for all the students!
+- I plan to get the department and faculty more involved with students through various social events.
+- I want to re-implement the volunteer tutoring system ( students would tutor and help each other on courses as well as gaining experience on tutoring)
+- I want to make sure that every student has fair access to resources and I hope to develop a network of students helping other students!
+- Lastly, but not least, I’m a fun and dedicated person – I will always be open to new suggestions and ideas and will work on your behalf to fulfill your hopes and needs!
 
 Kevin Moore
 
@@ -39,22 +39,22 @@ My name is Kevin Moore and I am running for CSSS President
 
 My past experiences with the CSSS include:
 
-*   Last year I took over for the Social Coordinator position and helped out with all sorts of events including beer gardens, and BBQS.
-*   Last year I was also the CSSS SUS representative. I organized our booth in the SUB during Science Week as well as organizing a Guitar Hero tournament during the week.
-*   Volunteering with various events such as cooking at BBQs, serving at licensed events.
-*   This year I am in charge of the CSSS annual clothing order which is currently being processed well ahead of schedule.
+- Last year I took over for the Social Coordinator position and helped out with all sorts of events including beer gardens, and BBQS.
+- Last year I was also the CSSS SUS representative. I organized our booth in the SUB during Science Week as well as organizing a Guitar Hero tournament during the week.
+- Volunteering with various events such as cooking at BBQs, serving at licensed events.
+- This year I am in charge of the CSSS annual clothing order which is currently being processed well ahead of schedule.
 
 If elected I will:
 
-*   Work with the faculty and industry to bring the students info sessions, industry panels and networking opportunities.
-*   Ensure that we have another successful career fair
-*   Ensure that a sensible and fair locker management system is in place for the students.
-*   Continue organizing a variety of social events for CS students, including our barbecues, beer gardens, and the annual boat cruise along with other events.
-*   Increasing the visibility of the CSSS within the CS student body.
-*   Continue to bridge the gap between the faculty and the student body.
-*   Help to integrate smaller interest groups within the CSSS such as the Game Development Association
+- Work with the faculty and industry to bring the students info sessions, industry panels and networking opportunities.
+- Ensure that we have another successful career fair
+- Ensure that a sensible and fair locker management system is in place for the students.
+- Continue organizing a variety of social events for CS students, including our barbecues, beer gardens, and the annual boat cruise along with other events.
+- Increasing the visibility of the CSSS within the CS student body.
+- Continue to bridge the gap between the faculty and the student body.
+- Help to integrate smaller interest groups within the CSSS such as the Game Development Association
 
-However, without your vote I cannot make any of this happen. This will be my last year as a student at UBC and I want to make it memorable, not only for myself, but for all CS students.  
+However, without your vote I cannot make any of this happen. This will be my last year as a student at UBC and I want to make it memorable, not only for myself, but for all CS students.
 
 Sonia Purewal
 
@@ -72,7 +72,7 @@ Glenn Ong
 
 "The advancement of our society will be indicated by a much more peaceful cooperation and communication within all people systems, and especially within oneself. This achievement will come about as a result of new breakthroughs in the areas of intuitional development."
 
-I'm a 4th year student running for VP communications in the hopes that I could help increase communications amongst the execs and its members. We all know the importance of communication and how we need to be able to communicate amongst one another to build a great organization. We must remember: "Two monologues do not make a dialogue."  
+I'm a 4th year student running for VP communications in the hopes that I could help increase communications amongst the execs and its members. We all know the importance of communication and how we need to be able to communicate amongst one another to build a great organization. We must remember: "Two monologues do not make a dialogue."
 
 ### Vice President, External
 
@@ -88,7 +88,7 @@ terms as well as organized volunteer fair to help students find volunteer job. A
 experiences enable me to be a good liaison between you, the future software specialists,  
 and the companies. I would love to work as your VP of External to help you build the  
 bridges to the software industries. If you hand me this opportunity, I will hand you back the  
-help you are looking for. Thanks for all!  
+help you are looking for. Thanks for all!
 
 ### Vice President, Internal
 
@@ -102,7 +102,7 @@ The other asset that I can bring to the position is a very different perspective
 
 I am committed to helping the CSSS continue to grow and improve.
 
-Vote Ryan Giuliany for CSSS Vice President: Internal!  
+Vote Ryan Giuliany for CSSS Vice President: Internal!
 
 Jré Sarenac
 
@@ -112,14 +112,14 @@ During the past year I was Vice President Social for the CSSS.  We hosted a var
 
 If elected I would aim to:
 
-*   Improve relationships between students and faculty
-*   Increase the variety of items sold by the CSSS to include pizza pops, waffles and trail mix
-*   Organize a fair and cheap locker rental system
-*   Be your voice in departmental committees
-*   Improve the image of the CSSS
-*   Help the president to ensure another successful year
+- Improve relationships between students and faculty
+- Increase the variety of items sold by the CSSS to include pizza pops, waffles and trail mix
+- Organize a fair and cheap locker rental system
+- Be your voice in departmental committees
+- Improve the image of the CSSS
+- Help the president to ensure another successful year
 
-I have the experience, motivation and energy to make the CSSS all that it can be. So on Monday March 23rd and Tuesday March 24th please vote Jré for VP Internal!  
+I have the experience, motivation and energy to make the CSSS all that it can be. So on Monday March 23rd and Tuesday March 24th please vote Jré for VP Internal!
 
 ### Vice President, Social
 
@@ -131,13 +131,13 @@ Hi, everyone. My name is Eason Hu. I am a 3rd year Computer Science student at U
 
 Why choose Eason? Here is the Reason:
 
-*   You love video games? I will make sure you enjoy the FUN of our LAN game parties.
-*   You want to have life? I will give you a brand-new life by providing you many fascinating outdoor events.
-*   You want to meet more people? I will create an opportunity just for you by inviting you to our best social & networking events.
-*   You want some exercise? Come join our sport events and you will definitely get what you want.
-*   You want to have fun? YOU GOT IT! With me as Social Vice President, you will enjoy all the events as well as your life more than ever.
-*   You have ideas for fun events? Give me a message and we may be able to make it come true!
-*   You want the BEST? YES! VOTE for ME for the BEST!! =\]
+- You love video games? I will make sure you enjoy the FUN of our LAN game parties.
+- You want to have life? I will give you a brand-new life by providing you many fascinating outdoor events.
+- You want to meet more people? I will create an opportunity just for you by inviting you to our best social & networking events.
+- You want some exercise? Come join our sport events and you will definitely get what you want.
+- You want to have fun? YOU GOT IT! With me as Social Vice President, you will enjoy all the events as well as your life more than ever.
+- You have ideas for fun events? Give me a message and we may be able to make it come true!
+- You want the BEST? YES! VOTE for ME for the BEST!! =\]
 
 Luke Yin
 
@@ -147,14 +147,14 @@ Now the thing is, we are supposed to have a lot more events than what we've had 
 
 If I'm elected, there will be a bzzr garden, a LAN party, AND an extra social event (e.g. laser tag, ice skating, etc.) every month. And barbecues will happen every two weeks. I'll also make sure CSSS events don't conflict with anything, so you won't ever have to decide which event to go to.
 
-Vote for me if you want all this to happen. And I won't let you down… I promise.  
+Vote for me if you want all this to happen. And I won't let you down… I promise.
 
 ### Vice President, Volunteering Services
 
 Alden Salgado
 
 Hey CPSC Students! My name is Alden Salgado and I am running for Vice President, Volunteering Services. You're probably wondering why I would even bother creating a write-up, considering that I am the only candidate. However, I am THAT ecstatic in taking this position!  
-Volunteer tutoring services, faculty promotion at local high schools, mini-carnivals for charity – these are just a taste of what is to come. The possibilities are absolutely endless! However, my first agenda is to start-up a volunteering committee dedicated to putting these ideas into fruition. The journey will definitely not be an easy one but the rewards will be, well, rewarding! Ultimately, the goal is for every CPSC student to have some involvement in these initiatives, whether it is through participating, volunteering, or even coordinating. So when you come out to vote, check YES for Alden Salgado!  
+Volunteer tutoring services, faculty promotion at local high schools, mini-carnivals for charity – these are just a taste of what is to come. The possibilities are absolutely endless! However, my first agenda is to start-up a volunteering committee dedicated to putting these ideas into fruition. The journey will definitely not be an easy one but the rewards will be, well, rewarding! Ultimately, the goal is for every CPSC student to have some involvement in these initiatives, whether it is through participating, volunteering, or even coordinating. So when you come out to vote, check YES for Alden Salgado!
 
 ### Treasurer
 
@@ -162,28 +162,28 @@ Aleksandr Boulankov
 
 Hi everyone. First of all thank you for reading through all of these write-ups and thank you for taking an interest in who is running for what position. I will not keep your attention for long. Since you already know my name (it is at the top!) I shall skip that part as well.
 
-Now a little about why I'm running: I'm currently in my second to last year in UBC. Yes, next year is going to be my 5th (and final) year here. For the past two terms I have worked with CSSS as a year representative, so I know a good deal about the inner workings of the society. During that time I have realised that I want to contribute my time, knowledge and experience to this wonderful group of students. When considering what position to run I realised that I had the most experience dealing with money. For the past two years I have managed to run a successful painting franchise through which I have learned how to effectively manage money and how to make even a modest budget go a very, very long way. As such I hope that you will allow me to put my experience and knowledge to good use – and vote "Aleks for Treasurer"!  
+Now a little about why I'm running: I'm currently in my second to last year in UBC. Yes, next year is going to be my 5th (and final) year here. For the past two terms I have worked with CSSS as a year representative, so I know a good deal about the inner workings of the society. During that time I have realised that I want to contribute my time, knowledge and experience to this wonderful group of students. When considering what position to run I realised that I had the most experience dealing with money. For the past two years I have managed to run a successful painting franchise through which I have learned how to effectively manage money and how to make even a modest budget go a very, very long way. As such I hope that you will allow me to put my experience and knowledge to good use – and vote "Aleks for Treasurer"!
 
 Leemor Yuravlivker
 
 Hey everyone! My name is Leemor Yuravlivker. I will be a second-year student next year and I want to be your next CSSS treasurer! I am currently doing the Combined Computer Science and Business program (which means yes, I have had to suffer through financial accounting).  
 A few random facts about me:
 
-*   The Sims is my all-time favorite computer game (I'm stoked for the Sims 3 coming out this June)
-*   I lived in Uruguay and Ecuador for 6 years before coming to Vancouver
-*   I take a Capoeira class (Brazilian martial arts)
+- The Sims is my all-time favorite computer game (I'm stoked for the Sims 3 coming out this June)
+- I lived in Uruguay and Ecuador for 6 years before coming to Vancouver
+- I take a Capoeira class (Brazilian martial arts)
 
-Being part of the CSSS would be awesome for me because our department is full of fun and creative people, whom I am eager to meet. I won't let you down when it comes to keeping all the money in balance and seeing that everything is spent in the right places (snacks, games, all that good stuff ☺). So remember, when you go out to vote, vote for Leemor Yuravlivker (that's me) as treasurer. Cheers!  
+Being part of the CSSS would be awesome for me because our department is full of fun and creative people, whom I am eager to meet. I won't let you down when it comes to keeping all the money in balance and seeing that everything is spent in the right places (snacks, games, all that good stuff ☺). So remember, when you go out to vote, vote for Leemor Yuravlivker (that's me) as treasurer. Cheers!
 
-When: 
+When:
 
 Monday, March 23, 2009 - 23:55 to Tuesday, March 24, 2009 - 23:55
 
-Where: 
+Where:
 
 DMP Foyer
 
-Tags: 
+Tags:
 
 [Club Activities](/club)
 

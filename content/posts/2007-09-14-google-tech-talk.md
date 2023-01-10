@@ -18,14 +18,14 @@ location:
     addressCountry: CA
 ---
 
-When: 
+When:
 
 Wednesday, September 26, 2007 - 18:30 to 20:00
 
-Where: 
+Where:
 
 DMP 310
 
-Tags: 
+Tags:
 
 [Career](/career)

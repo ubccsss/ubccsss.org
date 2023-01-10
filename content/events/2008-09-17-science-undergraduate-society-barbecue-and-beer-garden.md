@@ -21,14 +21,14 @@ location:
 
 Come out and enjoy some $1 Burgers, and social atmosphere at this 19+ event. A great opportunity to hang out with old friends and make new ones in the Faculty of Science! Get a chance to meet some of your previous, current or upcoming professors and get to know them better!
 
-When: 
+When:
 
 Friday, September 26, 2008 - 17:00 to 21:00
 
-Where: 
+Where:
 
 Abdul Ladha Science Student Centre
 
-Tags: 
+Tags:
 
 [Social](/social)

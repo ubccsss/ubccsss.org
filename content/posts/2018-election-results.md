@@ -10,6 +10,7 @@ tags: [Club Activities]
 ---
 
 Congratulations to the winners!
+
 ```
     Results:
     - President:
@@ -81,6 +82,6 @@ Congratulations to the winners!
         - {Name:Michael Chern Score:91}
 ```
 
-Tags: 
+Tags:
 
 [Club Activities](/club)

@@ -15,10 +15,10 @@ The [Game Developers Association of UBC](http://www.gdaubc.com) will be hosting 
 
 Come and take a look, free Pizza and Pop will be served.
 
-When: 
+When:
 
 Tuesday, November 21, 2006 - 17:30 to 19:00
 
-Where: 
+Where:
 
 CEME 1202 (the Civil and Mechanical Engineering Building)

@@ -24,14 +24,14 @@ location:
 
 Xbox 360, Foosball, Poker and more. More details to follow. . .
 
-When: 
+When:
 
 Friday, March 17, 2006 - 16:00 to 21:00
 
-Where: 
+Where:
 
 X-Wing Lounge
 
-Tags: 
+Tags:
 
 [Social](/social)

@@ -1,5 +1,5 @@
 ---
-title: 'Coffee Chat Kick Off'
+title: "Coffee Chat Kick Off"
 date: 2019-09-01
 categories: [Event]
 tags: [coffeechat]

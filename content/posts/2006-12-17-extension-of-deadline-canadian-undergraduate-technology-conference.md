@@ -31,6 +31,6 @@ return flights.
 
 Check out [www.cutc.ca](http://www.cutc.ca) for more information about the **CUTC**.
 
-File Attachments: 
+File Attachments:
 
- ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [applicationForm.pdf](https://ubccsss.org/files/applicationForm.pdf)
+![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [applicationForm.pdf](https://ubccsss.org/files/applicationForm.pdf)

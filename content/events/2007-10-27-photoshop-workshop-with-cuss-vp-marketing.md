@@ -17,10 +17,10 @@ Please RSVP to [\[email protected\]](/cdn-cgi/l/email-protection#4f262129200f3a
 
 Note: You may have to bring your own laptop and download Photoshop depending on whether we can book a lab.
 
-When: 
+When:
 
 Tuesday, November 6, 2007 - 16:30 to 18:00
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -16,14 +16,14 @@ raw_location: Wesbrook Room 100
 
 Big Blue is hiring!
 
-When: 
+When:
 
 Wednesday, September 19, 2007 - 18:30 to 20:00
 
-Where: 
+Where:
 
 Wesbrook Room 100
 
-Tags: 
+Tags:
 
 [Career](/career)

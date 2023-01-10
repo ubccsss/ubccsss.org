@@ -24,38 +24,38 @@ Recent graduates with a strong portfolio are encouraged to apply!
 
 Qualifications
 
-*   Post secondary degree or diploma in a related field
-*   3+ years of demonstrated web development experience
-*   Strong working ability in PHP
-*   Strong working knowledge of MySQL and experience building scalable database driven web sites
-*   Experience using open source software and services
-*   Knowledge of MVC frameworks (CakePHP, Codeigniter, Elgg)
-*   Basic sysadmin skills for Linux-based deployments
-*   E-commerce experience is preferred
+- Post secondary degree or diploma in a related field
+- 3+ years of demonstrated web development experience
+- Strong working ability in PHP
+- Strong working knowledge of MySQL and experience building scalable database driven web sites
+- Experience using open source software and services
+- Knowledge of MVC frameworks (CakePHP, Codeigniter, Elgg)
+- Basic sysadmin skills for Linux-based deployments
+- E-commerce experience is preferred
 
 Who you are
 
-*   Passionate about web technologies, usability and analytics
-*   Entrepreneurial spirit; you love iterating and shipping quickly and frequently
-*   Excited at the prospect of putting everything into your work
-*   A deep belief in learning through doing
-*   Excellent communicator with good project management skills
-*   Dedicated to constant refinement and improvement in every task you take on
-*   Understanding and interest in Web 2.0 concepts—social media, UGC, online communities
-*   You're innately driven to create web applications that users love
+- Passionate about web technologies, usability and analytics
+- Entrepreneurial spirit; you love iterating and shipping quickly and frequently
+- Excited at the prospect of putting everything into your work
+- A deep belief in learning through doing
+- Excellent communicator with good project management skills
+- Dedicated to constant refinement and improvement in every task you take on
+- Understanding and interest in Web 2.0 concepts—social media, UGC, online communities
+- You're innately driven to create web applications that users love
 
 Bonus
 
-*   Previous start-up experience
-*   Experience with the Elgg framework
-*   Experience with social media integration (Facebook Connect, Twitter API, etc.)
-*   Experience with Python an asset but not necessary
+- Previous start-up experience
+- Experience with the Elgg framework
+- Experience with social media integration (Facebook Connect, Twitter API, etc.)
+- Experience with Python an asset but not necessary
 
 Why Join Us?
 
-*   Get involved with a start-up that has garnered early traction and grow with the company
-*   Lead technology development and use your skills to make a mark!
-*   We can offer a base salary and equity participation
+- Get involved with a start-up that has garnered early traction and grow with the company
+- Lead technology development and use your skills to make a mark!
+- We can offer a base salary and equity participation
 
 We Want to Hear From You!
 

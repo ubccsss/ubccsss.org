@@ -13,8 +13,8 @@ The **UBC Science Undergraduate Society** is starting an e-mail based mailing li
 
 You have two options to join:
 
-*   Add yourself here: [http://groups.google.com/group/sus-mailing-list](https://groups.google.com/group/sus-mailing-list)
-*   Use the following subscribe box
+- Add yourself here: [http://groups.google.com/group/sus-mailing-list](https://groups.google.com/group/sus-mailing-list)
+- Use the following subscribe box
 
 **Subscribe to SUS Mailing List**
 

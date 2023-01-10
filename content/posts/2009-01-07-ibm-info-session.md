@@ -13,14 +13,14 @@ raw_location: Wesbrook 100
 
 For 2nd–4th year students in Computer, Mechanical, and Electrical Engineering, and all Computer Science/IT Programs.
 
-When: 
+When:
 
 Tuesday, January 20, 2009 - 17:30 to 19:30
 
-Where: 
+Where:
 
 Wesbrook 100
 
-Tags: 
+Tags:
 
 [Career](/career)

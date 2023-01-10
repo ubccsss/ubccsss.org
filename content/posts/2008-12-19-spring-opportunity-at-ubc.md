@@ -19,9 +19,9 @@ This will be a part-time work study job from January to April of 2009.
 Qualifications: \
 Programming Skills:
 
-*   Microsoft Visual C++/C++ a must
-*   Java optional
-*   Experience in software developing
+- Microsoft Visual C++/C++ a must
+- Java optional
+- Experience in software developing
 
 (Software+GUI developing and debugging, UML and/or other software project planning skills).
 

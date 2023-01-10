@@ -1,5 +1,5 @@
 ---
 title: Data Management
 layout: course
-description: 
+description:
 ---

@@ -12,14 +12,14 @@ categories: [Career]
 
 Learn what the department has been working on in the last year on issues brought up in past meetings and suggest your own constructive suggestions for the improvement of teaching - for the future. It's like that old saying - "a penny for your thoughts", except these days, it's likely to be pizza. ;-)
 
-When: 
+When:
 
 Wednesday, February 1, 2006 - 16:00 to 17:30
 
-Where: 
+Where:
 
 DMP 310
 
-Tags: 
+Tags:
 
 [Career](/career)

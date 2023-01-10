@@ -18,14 +18,14 @@ location:
     addressCountry: CA
 ---
 
-When: 
+When:
 
 Friday, October 30, 2009 - 13:00 to 15:00
 
-Where: 
+Where:
 
 ICICS X-Wing First Floor Lobby (by Reboot Café)
 
-Tags: 
+Tags:
 
 [Social](/social)

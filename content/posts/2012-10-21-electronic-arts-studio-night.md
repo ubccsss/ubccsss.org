@@ -30,14 +30,14 @@ It is a white "limo" style bus. It should have a sign in the front window statin
 
 Return transportation is your own responsibility. The best way to get back to UBC from EA is to catch the 25 UBC westbound at the corner of Sanderson Way and Gilmore Way (right outside EA) and follow it to UBC Bus Loop. Buses arrive every 15 minutes... See [http://www.translink.bc.ca](http://www.translink.bc.ca)
 
-When: 
+When:
 
 Wednesday, October 12, 2005 - 18:00 to 20:00
 
-Where: 
+Where:
 
 4330 Sanderson Way, Burnaby
 
-Tags: 
+Tags:
 
 [Career](/career)

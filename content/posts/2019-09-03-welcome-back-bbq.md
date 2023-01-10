@@ -6,15 +6,13 @@ tags: [BBQ]
 images:
   - /files/2019-09-03-welcome-back-bbq.svg
 author: Leo Lin
-
 ---
 
 ![](/files/2019-09-03-welcome-back-bbq.svg)
 
-
 Join us on Imagine Day for food and prizes!
 
-### WHAT TO EXPECT ###
+### WHAT TO EXPECT
 
 All undergraduate Computer Science majors are invited to the Computer Science department’s open house on Imagine Day at the Telus Atrium in ICICS.
 

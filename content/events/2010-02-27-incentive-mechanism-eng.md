@@ -21,14 +21,14 @@ location:
 
 The talk will be given by David Parkes a professor from Harvard University.
 
-When: 
+When:
 
 Thursday, March 11, 2010 - 14:30 to 15:50
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Career](/career)

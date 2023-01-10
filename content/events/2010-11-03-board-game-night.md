@@ -17,6 +17,7 @@ The Cube will once again be hosting a board (and card) game night this Friday. W
 The Cube
 
 List of Games:
+
 - Settlers of Catan
 - Bang!
 - Ticket to Ride: Europe

@@ -8,20 +8,21 @@ author: mlee
 images: []
 ---
 
-Hey all you CSers! We hope you've all been settling into your new year of courses. Whether you're straight out of high school--looking like deer in headlights--or in your _n_th year of studies, just hoping that you might finally graduate after five co-op work terms and going on an exchange to Japan, it would benefit you to make the most of things. That is, it is highly advisable to take advantage of some of the great events that are happening around you before midterm seasons hits and we're all peeling ourselves off the floor, trying to dig our way out as the walls of the basement computer labs seem to be getting closer and closer.
+Hey all you CSers! We hope you've all been settling into your new year of courses. Whether you're straight out of high school--looking like deer in headlights--or in your \_n_th year of studies, just hoping that you might finally graduate after five co-op work terms and going on an exchange to Japan, it would benefit you to make the most of things. That is, it is highly advisable to take advantage of some of the great events that are happening around you before midterm seasons hits and we're all peeling ourselves off the floor, trying to dig our way out as the walls of the basement computer labs seem to be getting closer and closer.
 
 Congratulations to your new CS Year Representatives:
 
-*   Andrew Newman, 1st Year Rep <1styearrep(at)csss.cs.ubc.ca>
-*   Michael Chuang, 2nd Year Rep <2ndyearrep(at)csss.cs.ubc.ca>
-*   Arash Malek, 3rd Year Rep <3rdyearrep(at)csss.cs.ubc.ca>
-*   Charles Bihi, 3rd Year Rep <3rdyearrep(at)csss.cs.ubc.ca>
-*   Liza Ma, 4th+ Year Rep <4thyearrep(at)csss.cs.ubc.ca>
-*   Jake McRoberts, 4th+ Year Rep <4thyearrep(at)csss.cs.ubc.ca>
+- Andrew Newman, 1st Year Rep <1styearrep(at)csss.cs.ubc.ca>
+- Michael Chuang, 2nd Year Rep <2ndyearrep(at)csss.cs.ubc.ca>
+- Arash Malek, 3rd Year Rep <3rdyearrep(at)csss.cs.ubc.ca>
+- Charles Bihi, 3rd Year Rep <3rdyearrep(at)csss.cs.ubc.ca>
+- Liza Ma, 4th+ Year Rep <4thyearrep(at)csss.cs.ubc.ca>
+- Jake McRoberts, 4th+ Year Rep <4thyearrep(at)csss.cs.ubc.ca>
 
 They will be helping to promote events and serve as representatives for your year of study. Should you have any concerns that pertain only to your class, you may contact them as easily as any of our executives.
 
-___
+---
+
 **CONTESTS**
 
 **Who's Who Contest**
@@ -37,7 +38,8 @@ Good Luck!
 
 Back by popular demand, this is your chance to have all your classmates donning your logo design. Not only that, the winner also receives a free shirt imprinted with their logo! The entry deadline is on Friday, September 30, after which everyone will be invited to vote for their favourite design. Please submit your logos to <nakisa(at)cs.ubc.ca>.
 
-___
+---
+
 **SOCIAL**
 
 **CSSS Annual General Meeting**
@@ -46,10 +48,10 @@ The CSSS will be having an AGM on Thursday Sept. 22 from 12:30 - 1:30 pm. This w
 
 You should come if you:
 
-*   have any suggestions or comments for CSS
-*   are interested in hearing about upcoming events
-*   want to see the execs up close and in person!
-*   want free chips!
+- have any suggestions or comments for CSS
+- are interested in hearing about upcoming events
+- want to see the execs up close and in person!
+- want free chips!
 
 We'll also be giving away the prizes for the Who's Who Contest!
 
@@ -74,14 +76,14 @@ Once you have registered your team, you can contact <jbrook(at)csss.cs.ubc.ca> s
 There are also a bunch of different league sports happening this term which CSSS will also contribute to if you get a full squad of CS'ers out for.
 For first term the leagues that you can join are:
 
-*   ultimate frisbee
-*   handley cup soccer
-*   cross volleyball
-*   nitobe basketball
-*   todd ice hockey
-*   bodin ball hockey
-*   dodgeball
-*   flag football
+- ultimate frisbee
+- handley cup soccer
+- cross volleyball
+- nitobe basketball
+- todd ice hockey
+- bodin ball hockey
+- dodgeball
+- flag football
 
 Make sure you check [www.rec.ubc.ca](http://www.rec.ubc.ca) for registration deadlines because they are coming up within the next week or two!!!! You can also find details here about game times and locations.
 
@@ -91,7 +93,8 @@ If you have any questions or need clarifications e-mail Jenny your CS sport rep 
 
 SO GO!!!! get away from that computer screen and play play play!!!! (we all need that once and awhile) Find a team, have fun and run around!!! :)
 
-___
+---
+
 **DEPARTMENT AND INDUSTRY**
 
 **Computer Science Tri-mentoring Program**
@@ -106,17 +109,17 @@ Please email Michele Ng at <mng(at)cs.ubc.ca> to sign up for the info session an
 
 The department would like to have an undergraduate representative on the following committees:
 
-*   Communications
-*   Computing
-*   Curriculum
-*   Executive
-*   Faculty Affairs
-*   Focus on Women in Computing
-*   Recruiting
-*   Recruiting Instructors
-*   Space
-*   Teaching & Learning Support
-*   Undergrad Affairs
+- Communications
+- Computing
+- Curriculum
+- Executive
+- Faculty Affairs
+- Focus on Women in Computing
+- Recruiting
+- Recruiting Instructors
+- Space
+- Teaching & Learning Support
+- Undergrad Affairs
 
 This is your chance to voice any suggestions or concerns you have about various elements in our department. If you are interested in being on one of these committees please contact Nakisa at <internalvp(at)csss.cs.ubc.ca>.
 
@@ -195,7 +198,8 @@ Tuesday, October 11; 5:30-7:30pm @ Wesbrook Building, Room 100
 
 Free food will be provided.
 
-___
+---
+
 **MISCELLANEOUS**
 
 **In My Experience**

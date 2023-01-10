@@ -18,8 +18,8 @@ We are seeking a self-motivated, passionate volunteer who would love to add a fa
 
 ### tl;dr
 
-*   _familiarity with_: iOS development, Rest API, Backbone.js
-*   _bonus_: Phonegap, HTML5, CSS3
+- _familiarity with_: iOS development, Rest API, Backbone.js
+- _bonus_: Phonegap, HTML5, CSS3
 
 ### interested? get in touch!
 

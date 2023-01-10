@@ -21,14 +21,14 @@ location:
 
 The annual UBC Technical Career Fair is coming up soon! Get tips on how to introduce yourself to employers, ask effective questions, and make a good professional impression at the career fair. Register at [https://secure.students.ubc.ca/workshops/careers.cfm](https://secure.students.ubc.ca/workshops/careers.cfm) (you'll have to scroll down the page a bit).
 
-When: 
+When:
 
 Wednesday, January 6, 2010 - 17:00 to 18:30
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Career](/career)

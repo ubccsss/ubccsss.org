@@ -44,14 +44,14 @@ Past contests and sample problems: [https://sites.google.com/site/ubcprogramming
 
 Contact: Nasa Rouf `<nasarouf[at]cs.ubc.ca>`
 
-When: 
+When:
 
 Saturday, September 29, 2012 - 12:00 to 17:00
 
-Where: 
+Where:
 
 ICICS 005/011
 
-Tags: 
+Tags:
 
 [Social](/social)

@@ -45,15 +45,15 @@ Cost: $5
 
 ![](/files/DinnerEvent.jpg)
 
-When: 
+When:
 
 Thursday, March 9, 2017 - 18:00 to 20:00
 
-Where: 
+Where:
 
 Abdul Ladha Science Student Centre, 2055 East Mall, Vancouver, British Columbia V6T 1W5
 
-Tags: 
+Tags:
 
 [Club Activities](/club)
 

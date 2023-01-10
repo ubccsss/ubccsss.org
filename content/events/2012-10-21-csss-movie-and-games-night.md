@@ -28,14 +28,14 @@ Expect there to be satisfying nourishment (for a very reasonable price) and a br
 
 **UPDATE:** This round we'll be showing the movie [Primer](https://www.imdb.com/title/tt0390384/). "Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention." We'll also have an xbox 360 and xbox for flashy gaming and 8-player support. But we won't be doing a computer LAN this round to make things simpler. Still, maybe some next generation gaming on the projectors in DEMP 110 will tickle you the right way. We have lots of pop & chips. Plus, we'll do a group pizza order as usual.
 
-When: 
+When:
 
 Friday, January 20, 2006 - 17:00 to 22:00
 
-Where: 
+Where:
 
 DEMP 110 & CS Ugrad Lounge
 
-Tags: 
+Tags:
 
 [Social](/social)
