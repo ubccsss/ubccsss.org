@@ -30,6 +30,8 @@ hugo server
 
 We welcome contributions of any kind including pages, suggestions, bug reports, pull requests etc. We would love to hear from you.
 
+When you submit a PR, we automatically run the [Prettier](https://prettier.io/) code formatter with the [prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template) plugin to help with Go template formatting. **Please ensure you checkout the latest version of your PR after any formatting commits have been made when continuing to work on your PR.**
+
 Additional documentation can be found in the [`docs`](./docs) folder.
 
 ### Add a new event
