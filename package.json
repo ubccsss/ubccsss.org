@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Website for the UBC CSSS",
   "repository": "https://github.com/ubccsss/ubccsss.org.git",
+  "engines": {
+    "node": "18.x"
+  },
   "devDependencies": {
     "prettier": "^2.8.2",
     "prettier-plugin-go-template": "^0.0.13"
