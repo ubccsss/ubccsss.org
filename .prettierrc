@@ -16,7 +16,6 @@
       ],
       "options": {
         "trailingComma": "none",
-        "tabs": true,
         "tabWidth": 2,
         "printWidth": 120
       }
