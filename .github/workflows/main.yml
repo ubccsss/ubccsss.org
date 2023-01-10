@@ -21,3 +21,4 @@ jobs:
           prettier_options: --write **/*.+(js|html|css|json|md|yaml) --config .prettierrc
           only_changed: True
           prettier_plugins: prettier-plugin-go-template
+          commit_message: "prettified code"
