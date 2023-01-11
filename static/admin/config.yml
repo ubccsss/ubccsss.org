@@ -16,10 +16,15 @@ collections: # A list of collections the CMS should be able to edit
     folder: "content/events"
     create: true
     fields:
-      - {label: Title, name: title, widget: string}
-      - {label: Author, name: author, widget: string}
-      - {label: "Publish Date", name: date, widget: date}
-      - {label: Categories, name: categories, widget: hidden, default: [Event]}
+      - { label: Title, name: title, widget: string }
+      - { label: Author, name: author, widget: string }
+      - { label: "Publish Date", name: date, widget: date }
+      - {
+          label: Categories,
+          name: categories,
+          widget: hidden,
+          default: [Event]
+        }
       - label: Tags
         name: tags
         widget: list
@@ -28,33 +33,80 @@ collections: # A list of collections the CMS should be able to edit
           name: tag
           widget: select
           required: false
-          options: [
-            Applications, BBQ, Care Package, Career,
-            Club Activities, CoffeeChat, Food Week,
-            Free Breakfast, Game Night, Gaming,
-            Grad Photos, IT Night, Lazer Tag, Merch,
-            Mixer, Movie Night, Project Hub,
-            Resume, Semi Annual General Meeting,
-            Social, Sports, Talk, Technical Career Fair,
-            Townhall, Tri-Mentoring, Trivia, Tutor,
-            Volunteer, Workshop, Year End Gala
-          ]
-      - {label: "Event Start Date", name: "start_date", widget: "datetime"}
-      - {label: "Event End Date", name: "end_date", widget: "datetime"}
+          options:
+            [
+              Applications,
+              BBQ,
+              Care Package,
+              Career,
+              Club Activities,
+              CoffeeChat,
+              Food Week,
+              Free Breakfast,
+              Game Night,
+              Gaming,
+              Grad Photos,
+              IT Night,
+              Lazer Tag,
+              Merch,
+              Mixer,
+              Movie Night,
+              Project Hub,
+              Resume,
+              Semi Annual General Meeting,
+              Social,
+              Sports,
+              Talk,
+              Technical Career Fair,
+              Townhall,
+              Tri-Mentoring,
+              Trivia,
+              Tutor,
+              Volunteer,
+              Workshop,
+              Year End Gala
+            ]
+      - { label: "Event Start Date", name: "start_date", widget: "datetime" }
+      - { label: "Event End Date", name: "end_date", widget: "datetime" }
       - label: Location
         name: location
         widget: object
         fields:
-          - {label: Name, name: name, widget: string, default: 'The Cube'}
+          - { label: Name, name: name, widget: string, default: "The Cube" }
           - label: Address
             name: address
             widget: object
             fields:
-              - {label: "Street Address", name: streetAddress, widget: string, default: '2366 Main Mall'}
-              - {label: "City", name: addressLocality, widget: string, default: 'Vancouver'}
-              - {label: "Postal Code", name: postalCode, widget: string, default: 'V6T 1Z4'}
-              - {label: "Province", name: addressRegion, widget: string, default: 'BC'}
-              - {label: "Country", name: addressCountry, widget: string, default: 'CA'}
+              - {
+                  label: "Street Address",
+                  name: streetAddress,
+                  widget: string,
+                  default: "2366 Main Mall"
+                }
+              - {
+                  label: "City",
+                  name: addressLocality,
+                  widget: string,
+                  default: "Vancouver"
+                }
+              - {
+                  label: "Postal Code",
+                  name: postalCode,
+                  widget: string,
+                  default: "V6T 1Z4"
+                }
+              - {
+                  label: "Province",
+                  name: addressRegion,
+                  widget: string,
+                  default: "BC"
+                }
+              - {
+                  label: "Country",
+                  name: addressCountry,
+                  widget: string,
+                  default: "CA"
+                }
       - label: Virtual Location
         name: virtual_location
         widget: string
@@ -63,8 +115,8 @@ collections: # A list of collections the CMS should be able to edit
         name: images
         widget: list
         required: false
-        field: {label: Image, name: image, widget: image}
-      - {label: Body, name: body, widget: markdown}
+        field: { label: Image, name: image, widget: image }
+      - { label: Body, name: body, widget: markdown }
 
   - name: post # Used in routes, ie.: /admin/collections/:slug/edit
     label: Posts # Used in the UI, ie.: "New Post"
@@ -72,9 +124,9 @@ collections: # A list of collections the CMS should be able to edit
     folder: "content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: Title, name: title, widget: string}
-      - {label: Author, name: author, widget: string}
-      - {label: "Publish Date", name: date, widget: date}
+      - { label: Title, name: title, widget: string }
+      - { label: Author, name: author, widget: string }
+      - { label: "Publish Date", name: date, widget: date }
       - label: Categories
         name: categories
         widget: list
@@ -92,23 +144,45 @@ collections: # A list of collections the CMS should be able to edit
           label: Tag
           name: tag
           widget: select
-          options: [
-            Applications, BBQ, Care Package, Career,
-            Club Activities, CoffeeChat, Food Week,
-            Free Breakfast, Game Night, Gaming,
-            Grad Photos, IT Night, Lazer Tag, Merch,
-            Mixer, Movie Night, Project Hub,
-            Resume, Semi Annual General Meeting,
-            Social, Sports, Talk, Technical Career Fair,
-            Townhall, Tri-Mentoring, Trivia, Tutor,
-            Volunteer, Workshop, Year End Gala
-          ]
+          options:
+            [
+              Applications,
+              BBQ,
+              Care Package,
+              Career,
+              Club Activities,
+              CoffeeChat,
+              Food Week,
+              Free Breakfast,
+              Game Night,
+              Gaming,
+              Grad Photos,
+              IT Night,
+              Lazer Tag,
+              Merch,
+              Mixer,
+              Movie Night,
+              Project Hub,
+              Resume,
+              Semi Annual General Meeting,
+              Social,
+              Sports,
+              Talk,
+              Technical Career Fair,
+              Townhall,
+              Tri-Mentoring,
+              Trivia,
+              Tutor,
+              Volunteer,
+              Workshop,
+              Year End Gala
+            ]
       - label: Images
         name: images
         widget: list
         required: false
-        field: {label: Image, name: image, widget: image}
-      - {label: Body, name: body, widget: markdown}
+        field: { label: Image, name: image, widget: image }
+      - { label: Body, name: body, widget: markdown }
 
   - name: pages
     label: Pages
@@ -117,5 +191,5 @@ collections: # A list of collections the CMS should be able to edit
         label: Volunteer
         name: volunteer
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
+          - { label: Title, name: title, widget: string }
+          - { label: Body, name: body, widget: markdown }

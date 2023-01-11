@@ -11,8 +11,8 @@
     "prettier-plugin-go-template": "^0.0.13"
   },
   "scripts": {
-    "format": "prettier --write '**/*.+(js|html|css|json|md|yaml)'",
-    "dry": "prettier --check '**/*.+(js|html|css|json|md|yaml)'",
+    "format": "prettier --write '**/*.+(js|html|css|json|md|yaml|yml)'",
+    "dry": "prettier --check '**/*.+(js|html|css|json|md|yaml|yml)'",
     "dev": "hugo server -D",
     "build": "hugo"
   }
