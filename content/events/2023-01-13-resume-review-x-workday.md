@@ -17,4 +17,4 @@ start_date: 2023-01-16 17:00:00
 end_date: 2023-01-16 19:00:00
 ---
 
-In preparation for the Tech Career Fair 2023, Workday is partnering with UBC CS to bring you an opportunity to polish up your resume! You get to meet with industry professionals from Workday and receive 1-on-1 feedback on your resume, network with senior CS students, and meet fellow students who are also job-searching!  
+In preparation for the Tech Career Fair 2023, Workday is partnering with UBC CS to bring you an opportunity to polish up your resume! You get to meet with industry professionals from Workday and receive 1-on-1 feedback on your resume, network with senior CS students, and meet fellow students who are also job-searching!
