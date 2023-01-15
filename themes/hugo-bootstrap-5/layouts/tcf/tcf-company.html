@@ -59,7 +59,7 @@
       <div class="hero-header-content">
         <div class="mx-auto py-5">
           <h1 class="display-1 fw-bold mb-neg1">{{ .Params.title }}</h1>
-          {{ $badge_colors := dict "Gaming" "primary" "Networking" "secondary" "Public Services" "success" "Insurance and Banking" "danger" "Digital Media" "warning" "Cybersecurity" "info" "Personal Computing" "purple" "Sensors and Data" "orange" "Forestry" "dark-green" "Investments" "teal" "Business Operations" "pink" "Mining" "gold" }}
+          {{ $badge_colors := dict "Gaming" "primary" "Networking" "secondary" "Public Services" "success" "Insurance and Banking" "danger" "Digital Media" "warning" "Cybersecurity" "info" "Personal Computing" "purple" "Sensors and Data" "orange" "Forestry" "dark-green" "Investments" "teal" "Business Operations" "pink" "Mining" "gold" "Hospitality" "dark-red" }}
           <p>
             <span
               class="mx-auto badge bg-{{ index $badge_colors .Params.industry }}"
@@ -163,6 +163,9 @@
     }
     .mb-neg1 {
       margin-bottom: -0.5rem;
+    }
+    .bg-dark-red {
+      background-color: #9e0d36 !important;
     }
   </style>
 </html>
