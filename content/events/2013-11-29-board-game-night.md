@@ -22,14 +22,14 @@ Come play board games with the CSSS and the Math club. Free pizza! Bring friends
 
 [Facebook event](https://www.facebook.com/events/211995645646886/)
 
-When: 
+When:
 
 Friday, November 29, 2013 - 18:00
 
-Where: 
+Where:
 
 Reboot Café
 
-Tags: 
+Tags:
 
 [Social](/social)

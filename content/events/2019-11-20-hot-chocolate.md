@@ -20,6 +20,5 @@ location:
 
 ![](/files/2019-11-20-hot-chocolate.svg)
 
-
 Come with your own mug or cup between your class breaks and get it filled with hot chocolate.
 Free of charge!

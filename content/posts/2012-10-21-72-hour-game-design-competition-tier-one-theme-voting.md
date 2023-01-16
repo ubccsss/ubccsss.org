@@ -39,10 +39,10 @@ Jared Norman (mrnorms on the board)
 ftp, and let the rest of the world mirror it."
 \--Linus Torvalds
 
-When: 
+When:
 
 Friday, November 10, 2006 - 00:00 to 00:01
 
-Where: 
+Where:
 
 http://72hourgdc.com

@@ -26,14 +26,14 @@ Networking with complimentary refreshments
 
 Please RSVP by noon on March 24th to [\[email protected\]](/cdn-cgi/l/email-protection#bcd2ddd8d5dd92d7d5ced7d0ddd2d8fcc8d9d0c9cf92dfd3d1) with your name, university, program, year and membership in any CSR related organization if applicable. Space is limited. Dress code is business casual. Finally, bring any mobile phone to this event for recycling and we’ll plant a tree. Plus for every mobile phone you drop off at our event, you will be entered into a random draw for a chance to win a cool prize!
 
-When: 
+When:
 
 Thursday, March 26, 2009 - 17:30 to 20:00
 
-Where: 
+Where:
 
 768 Seymour Street, Vancouver
 
-Tags: 
+Tags:
 
 [Career](/career)

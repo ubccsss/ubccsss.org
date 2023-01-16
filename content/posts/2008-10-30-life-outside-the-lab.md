@@ -12,14 +12,14 @@ Ever wonder what types of careers are best suited to your strengths and personal
 
 Register on line at [https://secure.students.ubc.ca/workshops//careers.cfm](https://secure.students.ubc.ca/workshops//careers.cfm).
 
-When: 
+When:
 
 Thursday, October 30, 2008 - 13:30 to 14:30
 
-Where: 
+Where:
 
 Irving K. Barber Learning Centre, Room 260
 
-Tags: 
+Tags:
 
 [Career](/career)

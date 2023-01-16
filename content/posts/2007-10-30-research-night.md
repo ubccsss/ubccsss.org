@@ -18,14 +18,14 @@ Snacks will be provided.
 
 For more information, see [http://www.cs.ubc.ca/ugrad/info/planning/OpportunitiesforResearchActivities.shtml](http://www.cs.ubc.ca/ugrad/info/planning/OpportunitiesforResearchActivities.shtml).
 
-When: 
+When:
 
 Wednesday, November 7, 2007 - 16:00 to 18:00
 
-Where: 
+Where:
 
 Dempster 110
 
-Tags: 
+Tags:
 
 [Career](/career)

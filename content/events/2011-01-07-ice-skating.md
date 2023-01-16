@@ -27,14 +27,14 @@ To kick off the new year come and join us for a fun filled afternoon of ice skat
 Hope to see you all there, \
 The Cube
 
-When: 
+When:
 
 Friday, January 7, 2011 - 15:15 to 17:45
 
-Where: 
+Where:
 
 UBC Thunderbird Arena
 
-Tags: 
+Tags:
 
 [Social](/social)

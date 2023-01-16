@@ -22,14 +22,14 @@ BigPark is an interactive entertainment company founded in 2007 by a group of pa
 
 They will be on campus to do a games night and a recruitment visit next Thursday, November 6th from 5-7pm. See you there :-)
 
-When: 
+When:
 
 Thursday, November 6, 2008 - 17:00 to 19:00
 
-Where: 
+Where:
 
 ICICS X-Wing Lounge
 
-Tags: 
+Tags:
 
 [Career](/career)

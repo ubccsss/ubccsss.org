@@ -15,14 +15,14 @@ Few career options offer a better platform for success than consulting. It's the
 
 Accenture is a global management consulting, technology services and outsourcing company. Committed to delivering innovation, Accenture collaborates with its clients to help them become high performance businesses and governments. To apply, visit [http://www.accenture.ca/careers](http://www.accenture.ca/careers) and submit your application by October 7, 2005.
 
-When: 
+When:
 
 Thursday, September 29, 2005 - 17:30 to 19:30
 
-Where: 
+Where:
 
 Wesbrook Building, Room 100
 
-Tags: 
+Tags:
 
 [Career](/career)

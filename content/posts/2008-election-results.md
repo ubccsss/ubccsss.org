@@ -12,25 +12,25 @@ Congratulations next year's executives!!!
 
 **President**
 
-*   **KWOK, Amy 31 (67.4%)**
-*   PUREWAL, Sonia 15 (32.6%)
+- **KWOK, Amy 31 (67.4%)**
+- PUREWAL, Sonia 15 (32.6%)
 
 **Internal VP**
 
-*   **PERSWAIN, Presley (89% acclaimed)**
+- **PERSWAIN, Presley (89% acclaimed)**
 
 **External VP**
 
-*   **TANTONGCO, Jeremiah (87.0% acclaimed)**
+- **TANTONGCO, Jeremiah (87.0% acclaimed)**
 
 **Treasurer**
 
-*   **LEUNG, Julianne (95.8% acclaimed)**
+- **LEUNG, Julianne (95.8% acclaimed)**
 
 **Graduating Representative**
 
-*   **CHEN, Albert (91.7% acclaimed)**
+- **CHEN, Albert (91.7% acclaimed)**
 
 **Social Coordinator**
 
-*   **AHMADIAN, Nadia (87.5% acclaimed)**
+- **AHMADIAN, Nadia (87.5% acclaimed)**

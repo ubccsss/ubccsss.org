@@ -33,12 +33,13 @@ We would love for you to stay for the day, however if you can only attend for pa
 of the day-- here is a schedule of events planned:
 
 **Time Event**
-* 12:00 - 1:00pm LUNCH & Networking
-* 1:00 - 1:45pm Business Transformation Leadership Development Program
-* 2:00 – 2:45pm TELUS TV Presentation & Demo
-* 3:00 – 3:30pm Project Imagine Presentation
-* 3:30- 4:00pm Q & A with your Recruiter
-* 4:00 onwards Pre-interviews & Networking
+
+- 12:00 - 1:00pm LUNCH & Networking
+- 1:00 - 1:45pm Business Transformation Leadership Development Program
+- 2:00 – 2:45pm TELUS TV Presentation & Demo
+- 3:00 – 3:30pm Project Imagine Presentation
+- 3:30- 4:00pm Q & A with your Recruiter
+- 4:00 onwards Pre-interviews & Networking
 
 We are located at 3777 Kingsway, Burnaby (at the corner of Kingsway & Boundary).
 Come in and follow the signs in the lobby.
@@ -46,14 +47,14 @@ Come in and follow the signs in the lobby.
 Please RSVP to [\[email protected\]](/cdn-cgi/l/email-protection) and please indicate if you will require
 transportation assistance.
 
-When: 
+When:
 
 Friday, January 26, 2007 - 12:00 to 16:00
 
-Where: 
+Where:
 
 3777 Kingsway, Burnaby (at the corner of Kingsway & Boundary)
 
-Tags: 
+Tags:
 
 [Career](/career)

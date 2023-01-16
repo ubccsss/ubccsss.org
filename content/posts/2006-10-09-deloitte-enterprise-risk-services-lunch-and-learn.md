@@ -27,14 +27,14 @@ President \
 Investors Education Club \
 University of British Columbia
 
-When: 
+When:
 
 Tuesday, October 10, 2006 - 13:00 to 14:30
 
-Where: 
+Where:
 
 Henry Angus 309 (Commerce Building)
 
-Tags: 
+Tags:
 
 [Career](/career)

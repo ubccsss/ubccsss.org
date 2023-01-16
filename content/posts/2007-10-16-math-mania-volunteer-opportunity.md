@@ -11,13 +11,13 @@ The [Pacific Institute for the Mathematical Sciences](http://www.pims.math.ca/) 
 
 It is a lot of fun using methods to teach math and computer science concepts to children (and adults!) by games and art. Lots of hands-on activities!
 
-*   Exciting Geometrical Models from Straws and Paper
-*   Mathematical Puzzles
-*   The Guessing Game
-*   A Sorting Network
-*   The Penny Game
-*   The Set Game
-*   Bubbles
-*   and more!
+- Exciting Geometrical Models from Straws and Paper
+- Mathematical Puzzles
+- The Guessing Game
+- A Sorting Network
+- The Penny Game
+- The Set Game
+- Bubbles
+- and more!
 
 If you can volunteer for either of these days or both please send Melania Alvarez [\[email protected\]](/cdn-cgi/l/email-protection#771a121b16191e1637071e1a04591a16031f591416) an e-mail.

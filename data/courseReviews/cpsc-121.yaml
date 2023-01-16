@@ -32,7 +32,7 @@ reviews:
     quality: 4.5
     sessionTaken: 2019W2
   - author: Sss
-    authorLink: 
+    authorLink:
     date: 2022-11-03
     review: |
       Did not like this course personally. A lot of proofs and boolean algebra. Also Hated using LaTeX for the assignments.
@@ -40,7 +40,7 @@ reviews:
     quality: 3
     sessionTaken: 2019W2
   - author: Eugene
-    authorLink: 
+    authorLink:
     date: 2022-11-04
     review: |
       - important topics
@@ -50,7 +50,7 @@ reviews:
     quality: 3.5
     sessionTaken: 2017W2
   - author: proofbyinduction
-    authorLink: 
+    authorLink:
     date: 2022-11-17
     review: |
       The course covers a wide range of material, including propositional logic, proofs, and circuit diagrams. I found the course pace and progression quite reasonable. I especially enjoyed the labs - the content builds up from simple AND gates to simulating an entire CPU. Assignments and tutorials are very useful for building a deeper understanding of the topics!

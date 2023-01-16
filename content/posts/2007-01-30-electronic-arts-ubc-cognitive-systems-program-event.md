@@ -44,6 +44,7 @@ Students must contact Eric Lebeau ([\[email protected\]](/cdn-cgi/l/email-prote
 Membership is $5.
 
 ###### Please note:
+
 COGS declared Majors have priority, then students who will have taken COGS courses.
 All others will be considered on a case-by-case basis. First come, first serve for
 this type of registration. We have ~100-150 seats for students to fill, so there
@@ -52,14 +53,14 @@ Jan. 31st to make sure that EAC's security has plenty of time to prepare.
 
 For an outline of the evening and more information on the Event go to: [http://www.ams.ubc.ca/clubs/cogsys/EA.htm](http://www.ams.ubc.ca/clubs/cogsys/EA.htm)
 
-When: 
+When:
 
 Wednesday, February 7, 2007 - 18:30 to 22:00
 
-Where: 
+Where:
 
 EAC (Burnaby Electronic Arts studio)
 
-Tags: 
+Tags:
 
 [Career](/career)

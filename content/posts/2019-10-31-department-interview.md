@@ -1,4 +1,3 @@
-
 ---
 title: Learning Experience Interview
 date: 2019-10-31
@@ -7,10 +6,9 @@ tags: [volunteer]
 author: Leo Lin
 images:
   - /files/learning_experience_interview.png
-
 ---
-![](/files/learning_experience_interview.png)
 
+![](/files/learning_experience_interview.png)
 
 We are looking to interview current 3rd and 4th year students in any UBC CS undergraduate degree program (e.g. BSc in CS, Combined Majors, BUCS, Cognitive Systems - Computational Intelligence and Design, etc) about your experiences in your CS program.
 

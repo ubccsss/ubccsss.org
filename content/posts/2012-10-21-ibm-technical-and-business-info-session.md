@@ -22,14 +22,14 @@ Location: Wesbrook Building, Room 100 \
 Date: Wednesday, September 27, 2006 \
 Time: 5:30 - 7:30pm
 
-When: 
+When:
 
 Wednesday, September 27, 2006 - 17:30 to 19:30
 
-Where: 
+Where:
 
 Wesbrook 100 (the white building across UBC Bookstore)
 
-Tags: 
+Tags:
 
 [Career](/career)

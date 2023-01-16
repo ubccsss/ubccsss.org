@@ -20,18 +20,18 @@ location:
     addressCountry: CA
 ---
 
-When: 
+When:
 
 Thursday, January 25, 2007 - 10:00 to 16:00
 
-Where: 
+Where:
 
 SUB Ballroom
 
-File Attachments: 
+File Attachments:
 
- ![Image icon](/modules/file/icons/image-x-generic.svg "image/jpeg") [FinalPosterSmaller.JPG](/files/FinalPosterSmaller.JPG)
+![Image icon](/modules/file/icons/image-x-generic.svg "image/jpeg") [FinalPosterSmaller.JPG](/files/FinalPosterSmaller.JPG)
 
-Tags: 
+Tags:
 
 [Career](/career)

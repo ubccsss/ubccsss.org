@@ -28,14 +28,14 @@ End Time: 2300
 \* Tickets are $35 until Friday 2011-03-25, after Friday ticket price goes up to $40. Maximum of 2 tickets sold per person.
 Non-CS students: $55
 
-When: 
+When:
 
 Saturday, April 2, 2011 - 18:30 to 23:00
 
-Where: 
+Where:
 
 501 Denman Street, Vancouver, British Columbia, Canada V6G 2W9
 
-Tags: 
+Tags:
 
 [Social](/social)

@@ -20,10 +20,10 @@ Hi all! I'm Janet, and I'm running to be your next CSSS president.
 
 I've been a student in the Department of Computer Science for three years now, and I know that there is so much more the CSSS could do to support students in their social, academic, and health-related well-being. Some of the changes I want to see implemented are:
 
-*   Restore the CSSS Tutoring Board & the Past-Exams Database to full functionality.
-*   Provide a 'Students-Seeking-Students' board for those looking for partners for side-projects and startups.
-*   Reduce the duration of The Cube's Snack Shop stock-outs (can't have you starving during exam season).
-*   Host more casual events for students to hang out in and get involved with The Cube.
+- Restore the CSSS Tutoring Board & the Past-Exams Database to full functionality.
+- Provide a 'Students-Seeking-Students' board for those looking for partners for side-projects and startups.
+- Reduce the duration of The Cube's Snack Shop stock-outs (can't have you starving during exam season).
+- Host more casual events for students to hang out in and get involved with The Cube.
 
 For next year, my experience as VP Volunteering (2014-2015) and VP Finance (2015-2016) will help the team keep offering awesome events and services, while seeing through new changes to make your experience better!
 
@@ -61,14 +61,14 @@ Hi! Although my name listed here is Bianca, most people call me Bea (BAY-ah). I'
 
 _(VP Admin is uncontested)_
 
-When: 
+When:
 
 Wednesday, April 6, 2016 (All day) to Thursday, April 7, 2016 (All day)
 
-Where: 
+Where:
 
 Hugh Dempster Pavilion lobby
 
-Tags: 
+Tags:
 
 [Club Activities](/club)

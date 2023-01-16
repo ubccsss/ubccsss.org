@@ -25,14 +25,14 @@ This workshop will describe some practical proven techniques for ensuring succes
 
 Note: This is the same workshop that was given on Thursday, November 12, 2009.
 
-When: 
+When:
 
 Thursday, January 21, 2010 - 17:30 to 19:00
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Career](/career)

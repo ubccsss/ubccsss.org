@@ -19,14 +19,14 @@ Bring your résumé for your chance to win a Rock Band and many other great priz
 FREE FOOD! \
 Sponsored by IEEE
 
-When: 
+When:
 
 Tuesday, September 30, 2008 - 17:45 to 18:45
 
-Where: 
+Where:
 
 Woodward IRC 2
 
-Tags: 
+Tags:
 
 [Career](/career)

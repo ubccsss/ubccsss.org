@@ -13,14 +13,14 @@ In this talk, I will discuss these issues and outline some of the solutions that
 
 [http://www.icics.ubc.ca/news/images/dls2007.pdf](http://www.icics.ubc.ca/news/images/dls2007.pdf)
 
-When: 
+When:
 
 Thursday, October 25, 2007 - 15:30 to 17:00
 
-Where: 
+Where:
 
 Dempster Room 310
 
-Tags: 
+Tags:
 
 [Career](/career)

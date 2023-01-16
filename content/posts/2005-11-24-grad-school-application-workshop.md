@@ -24,14 +24,14 @@ Will Evans (chair of graduate admissions committee) and Joyce Poon (graduate pro
 
 Have all your questions answered, then come to the Licensed BBQ afterwards!
 
-When: 
+When:
 
 Friday, October 14, 2005 - 16:00 to 17:00
 
-Where: 
+Where:
 
 Demp 310
 
-Tags: 
+Tags:
 
 [Career](/career)

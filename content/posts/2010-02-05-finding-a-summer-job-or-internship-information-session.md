@@ -20,14 +20,14 @@ location:
 
 Get some tips - so you can start applying! E-mail [Diane Johnson](/cdn-cgi/l/email-protection#3e5a575f505b5451567e5d4d104b5c5d105d5f) to register.
 
-When: 
+When:
 
 Wednesday, February 10, 2010 - 12:00 to 13:00
 
-Where: 
+Where:
 
 ICICS X836
 
-Tags: 
+Tags:
 
 [Career](/career)

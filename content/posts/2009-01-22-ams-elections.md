@@ -10,10 +10,10 @@ tags: [Social]
 
 Elections for the Alma Mater Society are coming up. This is your chance to make a difference! Please [vote here](http://www.ams.ubc.ca/elections)!
 
-When: 
+When:
 
 Thursday, January 29, 2009 - 16:44 to Monday, February 2, 2009 - 16:44
 
-Tags: 
+Tags:
 
 [Social](/social)

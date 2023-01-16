@@ -19,6 +19,6 @@ to identify a Squad Leader from our student group.
 Check out the **attachement** to this post if you are interested, as well the deadline
 for your application is **Octobert 30th**!
 
-File Attachments: 
+File Attachments:
 
- ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [Squad Leader Recruitment Email 2007.pdf](https://ubccsss.org/files/Squad%20Leader%20Recruitment%20Email%202007.pdf)
+![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [Squad Leader Recruitment Email 2007.pdf](https://ubccsss.org/files/Squad%20Leader%20Recruitment%20Email%202007.pdf)

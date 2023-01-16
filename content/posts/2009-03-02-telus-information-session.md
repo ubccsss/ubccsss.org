@@ -22,14 +22,14 @@ Join TELUS on campus to discover what the TELUS BTLDP can do for your career. Le
 about BTLDP from current team members. Stay to network with a program graduate and
 manager over pizza! Please RSVP to [\[email protected\]](/cdn-cgi/l/email-protection#690804101d0c051c1a290e04080005470a0604) by March 9.
 
-When: 
+When:
 
 Wednesday, March 11, 2009 - 17:30 to 19:30
 
-Where: 
+Where:
 
 DMP 301
 
-Tags: 
+Tags:
 
 [Career](/career)

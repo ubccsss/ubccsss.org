@@ -19,12 +19,12 @@ This site will be skinned on top of Magento Commerce software and a Wordpress bl
 
 General Requirements include:
 
-*   custom design & interface based upon logo, reference sites, product, and market
-*   design should be similar in style and flow to the design for the Wordpress blog
-*   SSL certificate set up on the domain
-*   Blog will be used on the domain
-*   Static pages that will be displayed include Sponsorship, Free Shipping, Contact Page, FAQ (possibly dynamic open source implementation)
-*   Google Analytics Integrated
+- custom design & interface based upon logo, reference sites, product, and market
+- design should be similar in style and flow to the design for the Wordpress blog
+- SSL certificate set up on the domain
+- Blog will be used on the domain
+- Static pages that will be displayed include Sponsorship, Free Shipping, Contact Page, FAQ (possibly dynamic open source implementation)
+- Google Analytics Integrated
 
 Further details can be found on [u-connect.ca](http://u-connect.ca/).
 

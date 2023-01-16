@@ -1,29 +1,30 @@
 {{ define "main" }}
-
-<header>
+  <header>
     {{ partial "breadcrumb/breadcrumbs" . }}
 
+
     <h1 class="blog-post-title">
-        <a class="text-dark text-decoration-none" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+      <a class="text-dark text-decoration-none" href="{{ .RelPermalink }}"
+        >{{ .Title | markdownify }}</a
+      >
     </h1>
-    <hr>
-</header>
-<article class="blog-post">
+    <hr />
+  </header>
+  <article class="blog-post">
     {{ .Content }}
 
     {{ if .IsTranslated }}
-        <h4>{{ i18n "translations" }}</h4>
-        <ul>
-            {{ range .Translations }}
-            <li>
-                <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
-            </li>
-            {{ end }}
-        </ul>
+      <h4>{{ i18n "translations" }}</h4>
+      <ul>
+        {{ range .Translations }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
     {{ end }}
 
     {{ partial "pages/pager" . }}
 
-</article>
-
+  </article>
 {{ end }}

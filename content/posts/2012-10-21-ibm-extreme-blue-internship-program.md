@@ -15,6 +15,6 @@ Unlike other intern programs that may relegate you to work on outdated technolog
 
 [http://www.ibm.com/employment/us/extremeblue/](https://www.ibm.com/employment/us/extremeblue/)
 
-File Attachments: 
+File Attachments:
 
- ![Image icon](/modules/file/icons/image-x-generic.svg "image/png") [extremeblue.png](https://ubccsss.org/files/extremeblue.png)
+![Image icon](/modules/file/icons/image-x-generic.svg "image/png") [extremeblue.png](https://ubccsss.org/files/extremeblue.png)

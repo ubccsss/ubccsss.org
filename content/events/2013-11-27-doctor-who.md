@@ -22,14 +22,14 @@ Invite friends, bring a date. The CSSS is presenting the Doctor Who 50th Anniver
 
 [Facebook event](https://www.facebook.com/events/525019307594400/)
 
-When: 
+When:
 
 Wednesday, November 27, 2013 - 17:30
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Social](/social)

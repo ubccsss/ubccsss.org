@@ -12,11 +12,11 @@ All women in computer science and women interested in computer science are invit
 
 Come out and meet female graduate students and members of industry and female faculty. Hear about their experiences in the field and talk about what it's like to be a woman in computer science.
 
-*   Refreshments: pizza and snacks, drinks
-*   Networking with fellow students, alumnae and panel speakers
-*   A panel with industry and academic speakers
-*   Small-group discussions on the opportunities available in CS, and our
-    speakers' experiences
+- Refreshments: pizza and snacks, drinks
+- Networking with fellow students, alumnae and panel speakers
+- A panel with industry and academic speakers
+- Small-group discussions on the opportunities available in CS, and our
+  speakers' experiences
 
 For more information and to view speaker bios, visit
 [http://www.cs.ubc.ca/local/affairs/committees/FoWCS/](http://www.cs.ubc.ca/local/affairs/committees/FoWCS/)
@@ -24,14 +24,14 @@ For more information and to view speaker bios, visit
 Brought to you by the UBC CS FoWCS:
 Focus on Women in Computer Science Committee
 
-When: 
+When:
 
 Wednesday, March 1, 2006 - 16:30 to 18:30
 
-Where: 
+Where:
 
 ICICS/CS 7th floor boardroom (X736)
 
-Tags: 
+Tags:
 
 [Social](/social)

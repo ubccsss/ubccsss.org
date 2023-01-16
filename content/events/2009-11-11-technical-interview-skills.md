@@ -18,14 +18,14 @@ The workshop leader, Sabina Nawaz, worked for Microsoft for 15 years before star
 
 Register for this FREE event at [https://secure.students.ubc.ca/workshops/careers.cfm](https://secure.students.ubc.ca/workshops/careers.cfm).
 
-When: 
+When:
 
 Monday, November 16, 2009 - 17:00 to 18:00
 
-Where: 
+Where:
 
 FSC 1005
 
-Tags: 
+Tags:
 
 [Career](/career)

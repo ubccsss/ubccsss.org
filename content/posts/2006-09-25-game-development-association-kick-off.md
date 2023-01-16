@@ -11,10 +11,10 @@ Games Development Association is student club for everyone interested at making 
 
 In their 1st official event they have invited 2 speakers from EA to talk about game development.
 
-When: 
+When:
 
 Tuesday, September 26, 2006 - 17:00 to 19:00
 
-Where: 
+Where:
 
 Dempster 110

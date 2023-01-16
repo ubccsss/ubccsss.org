@@ -5,8 +5,9 @@ categories: []
 tags: [year-end-gala]
 author: Leo Lin
 images:
-    - /files/2020-04-09-royal-flush.png
+  - /files/2020-04-09-royal-flush.png
 ---
+
 ![](/files/2020-04-09-royal-flush.png)
 
 Unfortunately, given the move to online graduation, it is clear that we have no choice but to cancel this year's Year-End Gala. We recognize this will be disheartening news to many of you (myself included), particularly those graduating wanting to celebrate our time at UBC surrounded by the people with whom we've struggled together through undergrad and to whom we've grown close.

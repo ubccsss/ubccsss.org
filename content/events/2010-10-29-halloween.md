@@ -22,10 +22,10 @@ Hey all,
 
 The Cube will be hosting a Halloween event this Friday! We'll be screening a scary movie (Paranormal Activity) and providing free pop and popcorn. There will also be prizes for the best Halloween costumes. Hope to see you all there.
 
-When: 
+When:
 
 Friday, October 29, 2010 - 19:00 to 22:00
 
-Where: 
+Where:
 
 DMP 301

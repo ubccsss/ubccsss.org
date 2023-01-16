@@ -4,7 +4,7 @@ title: "Tech Industry Night - June 2022"
 # Publishing date when the event appears, not the date of the event.
 date: 2022-05-26
 # Tags that apply to the event
-tags: ["career","event","club-activities"]
+tags: ["career", "event", "club-activities"]
 # Name of the author (you)
 author: Ramit Kataria
 # Images associated to this event. Used for banner.
@@ -19,6 +19,7 @@ end_date: 2022-06-16 19:30:00
 ![Banner](/files/2022-06-16-tech-industry-night.png)
 
 The UBC CSSS will host its third Tech Industry Night, an event designed to connect students in computing disciplines, who are interested in working in the tech industry, with companies looking for co-ops and new grads. Students will have the opportunity to interact with industry professionals and recruiters from several companies. The list of companies will be available on this page soon.
+
 <!-- (1)  __________
 (2)  __________
 (3)  __________
@@ -33,4 +34,4 @@ Website: <https://ubccsss.org>
 Discord: <https://discord.gg/ptGYbPwE>  
 Facebook: <https://www.facebook.com/ubccsss>  
 Instagram: <https://www.instagram.com/ubc_csss>  
-LinkedIn: <https://www.linkedin.com/company/ubccsss>  
+LinkedIn: <https://www.linkedin.com/company/ubccsss>

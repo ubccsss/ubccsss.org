@@ -26,9 +26,9 @@ images:
 
 The results of the 2008 Hallowe'en Costume Contest are out! Congratulations to our winners:
 
-*   Scariest: Myles as Raistlin Majere
-*   Most CS-Oriented: Leigh-Anne as NAND Gate
-*   Most Original: Tom as Robot
+- Scariest: Myles as Raistlin Majere
+- Most CS-Oriented: Leigh-Anne as NAND Gate
+- Most Original: Tom as Robot
 
 Here are all the costumes (click a thumbnail for original size):
 

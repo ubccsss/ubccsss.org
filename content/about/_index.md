@@ -1,5 +1,5 @@
 ---
-title: 'About Us'
+title: "About Us"
 layout: single
 aliases:
   - /club/about
@@ -13,6 +13,7 @@ serve all Computer Science students.
   <a class="btn btn-primary" href="/about/team/officers/">Officers</a>
   <a class="btn btn-primary" href="/about/constitution">Constitution</a>
   <a class="btn btn-primary" href="/about/minutes/">Minutes</a>
+  <a class="btn btn-primary" href="/about/clubs/">Clubs</a>
 </div>
 
 ### How do I join?
@@ -47,6 +48,7 @@ of ICICS/CS, turn right, and we'll be at the end of the hallway, beside the unde
 ### How do I find out about CSSS events?
 
 We'll be publishing our events:
+
 - here on our website (which also has an [RSS feed](/index.xml)),
 - [Tweeting them](https://twitter.com/ubccsss),
 - posting them on our [Facebook page](https://www.facebook.com/ubccsss/) and our [Instagram](https://www.instagram.com/ubc_csss/),

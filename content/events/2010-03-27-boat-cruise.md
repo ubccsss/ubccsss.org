@@ -29,7 +29,8 @@ Return Time: 11:00 pm
 Sailing Time: 4:00 Hours
 Boarding Location: 501 Denman Street
 
-___
+---
+
 ~ Dual Entrée Buffet Menu ~
 
 [http://img2.imageshack.us/img2/1916/boatcruisecuisinemenu.jpg](https://img2.imageshack.us/img2/1916/boatcruisecuisinemenu.jpg)
@@ -38,18 +39,18 @@ ___
 
 [http://img51.imageshack.us/img51/388/boatcruisebarmenu.jpg](https://img51.imageshack.us/img51/388/boatcruisebarmenu.jpg)
 
-___
+---
 
 **Full information is on the [Facebook event page](https://www.facebook.com/event.php?eid=347041599005)**
 
-When: 
+When:
 
 Saturday, March 27, 2010 - 18:30 to 23:00
 
-Where: 
+Where:
 
 Harbour Cruises Marina, 501 Denman Street
 
-Tags: 
+Tags:
 
 [Social](/social)

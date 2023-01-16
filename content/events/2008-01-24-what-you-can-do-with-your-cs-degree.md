@@ -27,10 +27,10 @@ Come to the UBC CS 2008 Industry Panel and you'll hear engineers and Industry re
 
 Hey, the Career Fair is happening in exactly 1 week right after this!
 
-When: 
+When:
 
 Thursday, January 24, 2008 - 17:30 to 19:30
 
-Where: 
+Where:
 
 UBC DMP 110

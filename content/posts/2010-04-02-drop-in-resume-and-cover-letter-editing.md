@@ -21,10 +21,10 @@ tags: [Resume]
 
 20-minute consultations available. Sign up sheet will be posted by 10AM.
 
-When: 
+When:
 
 Wednesday, April 7, 2010 - 11:30 to 14:00
 
-Where: 
+Where:
 
 ICICS 255

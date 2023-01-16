@@ -15,14 +15,14 @@ raw_location: Neville Scarfe 209
 Please register here (scroll down to see all workshops): \
 [www.students.ubc.ca/workshops/careers.cfm](http://www.students.ubc.ca/workshops/careers.cfm).
 
-When: 
+When:
 
 Wednesday, October 29, 2008 - 15:00 to 17:00
 
-Where: 
+Where:
 
 Neville Scarfe 209
 
-Tags: 
+Tags:
 
 [Career](/career)

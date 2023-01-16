@@ -18,14 +18,14 @@ location:
     addressCountry: CA
 ---
 
-When: 
+When:
 
 Tuesday, September 8, 2009 - 10:00 to 14:00
 
-Where: 
+Where:
 
 X-Wing Undergraduate Student Lounge
 
-Tags: 
+Tags:
 
 [Career](/career)

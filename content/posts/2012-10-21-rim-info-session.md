@@ -28,14 +28,14 @@ January 18, 2006 \
 **Room(for all Sessions): David Lam Forum** \
 David Lam Management Research Centre, 2033 Main Mall
 
-When: 
+When:
 
 Wednesday, January 18, 2006 - 11:00 to 17:30
 
-Where: 
+Where:
 
 David Lam Forum
 
-Tags: 
+Tags:
 
 [Career](/career)

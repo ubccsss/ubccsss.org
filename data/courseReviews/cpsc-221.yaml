@@ -15,7 +15,7 @@ reviews:
     difficulty: 3
     quality: 5
     sessionTaken: 2021W2
-  - author: 2020 CPSC 221 TA 
+  - author: 2020 CPSC 221 TA
     authorLink: https://github.com/Frozemint
     date: 2020-08-26
     review: >
@@ -23,7 +23,7 @@ reviews:
     difficulty: 0
     quality: 0
   - author: Eugene
-    authorLink: 
+    authorLink:
     date: 2022-11-04
     review: |
       Introduction to algorithm design. The course can be difficult and the assignments can be time consuming. Make sure to study well for this one.

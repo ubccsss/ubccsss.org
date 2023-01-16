@@ -24,14 +24,14 @@ The info session will be held from 5:30 to 6 pm, and the orientation from 6 to 7
 
 Please email Michele Ng at mng(at)cs.ubc.ca to sign up for the info session and the orientation.
 
-When: 
+When:
 
 Tuesday, September 20, 2005 - 17:30 to 19:30
 
-Where: 
+Where:
 
 Hugh Dempster Pavilion (DMP) -> Room 310 -> 6245 Agronomy Road
 
-Tags: 
+Tags:
 
 [Career](/career)

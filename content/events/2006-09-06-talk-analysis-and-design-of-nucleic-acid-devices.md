@@ -19,14 +19,14 @@ DNA and RNA are versatile construction materials. By appropriately designing the
 
 For more information about the speaker, please see [http://www.acm.caltech.edu/~niles/](http://www.acm.caltech.edu/~niles/). Wine and Cheese reception to follow the talk
 
-When: 
+When:
 
 Monday, September 11, 2006 - 16:00 to 17:00
 
-Where: 
+Where:
 
 Peter Wall Institute, 6331 Crescent Road, Room 309
 
-Tags: 
+Tags:
 
 [Career](/career)

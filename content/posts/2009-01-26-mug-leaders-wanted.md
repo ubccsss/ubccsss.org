@@ -11,9 +11,9 @@ Calling for all ENERGETIC, and ENTHUSIASTIC volunteers for Imagine UBC!
 
 If you are interested in joining the UBC Orientations Team as a:
 
-*   MUG Leader, Squad Manager or Welcome Team Member with IMAGINE UBC
-*   Group Leader or Welcome Leader with GALA - INTERNATIONAL ORIENTATION
-*   Group Leader with PARENT, TRANSFER STUDENT or MATURE STUDENT ORIENTATION
+- MUG Leader, Squad Manager or Welcome Team Member with IMAGINE UBC
+- Group Leader or Welcome Leader with GALA - INTERNATIONAL ORIENTATION
+- Group Leader with PARENT, TRANSFER STUDENT or MATURE STUDENT ORIENTATION
 
 …then please apply at [https://secure.students.ubc.ca/orientations/apply.cfm](https://secure.students.ubc.ca/orientations/apply.cfm) before February 4th!
 

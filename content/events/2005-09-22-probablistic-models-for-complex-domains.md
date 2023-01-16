@@ -26,14 +26,14 @@ A robot scan of a physical environment contains diverse objects such as people, 
 
 More information: [http://www.cs.ubc.ca/events/seminars/csicics.shtml](http://www.cs.ubc.ca/events/seminars/csicics.shtml)
 
-When: 
+When:
 
 Thursday, September 22, 2005 - 16:00 to 17:30
 
-Where: 
+Where:
 
 DMP 310
 
-Tags: 
+Tags:
 
 [Career](/career)

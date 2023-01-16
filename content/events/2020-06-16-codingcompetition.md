@@ -5,12 +5,13 @@ categories: [event]
 tags: [club-activities]
 author: Lauren Kerker
 images:
-    - /files/SummerHackathon_FBEventBanner.png
+  - /files/SummerHackathon_FBEventBanner.png
 aliases:
-    - /posts/2020/06/16/codingcompetition/
+  - /posts/2020/06/16/codingcompetition/
 start_date: 2020-06-20 09:30:00
 virtual_location: https://us02web.zoom.us/j/89278946578?pwd=VmpsQ2RRdlZId1M0bENmSGhUTUdtdz09
 ---
+
 ![](/files/SummerHackathon_FBEventBanner.png)
 
 Join us this Saturday for our Summer Coding Competition!
@@ -29,7 +30,7 @@ The top-scoring team will walk away with a $50 Amazon gift card!
 
 ---
 
-**NOTE: You will be required to use Github and git, for code submissions. Please ensure you are familiar with both. We will have a crash course on both at 1 hour before the competition starts (11 am PST) via this link: https://us02web.zoom.us/j/89278946578?pwd=VmpsQ2RRdlZId1M0bENmSGhUTUdtdz09
+\*\*NOTE: You will be required to use Github and git, for code submissions. Please ensure you are familiar with both. We will have a crash course on both at 1 hour before the competition starts (11 am PST) via this link: https://us02web.zoom.us/j/89278946578?pwd=VmpsQ2RRdlZId1M0bENmSGhUTUdtdz09
 
 Meeting ID: 892 7894 6578
 Password: gitgitgit

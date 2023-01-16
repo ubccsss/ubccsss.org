@@ -24,14 +24,14 @@ As a Science student, you are eligible to apply for a [subsidy covering up to 80
 
 Enterprize is also hosting a National Business Plan Competition. With an unparalleled prize pool worth **over $100,000**, the 2009 competition will showcase some of the best and brightest business plans from across Canada. Transform your ideas into reality as you compete against over 100 teams for a chance at cash prizes, mentorship opportunities, or even an opportunity to audition in front of a panel of venture capitalist investors on **CBC's Dragons' Den**! The competition is opened to undergraduate and graduate students. Business plan's are due November 30. There are regional competitions culminating in the national competition that will take place in Vancouver in February 2009."
 
-When: 
+When:
 
 Friday, February 6, 2009 (All day) to Sunday, February 8, 2009 (All day)
 
-Where: 
+Where:
 
 Downtown Vancouver
 
-Tags: 
+Tags:
 
 [Career](/career)

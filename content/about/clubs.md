@@ -38,6 +38,7 @@ The following UBC CS-related clubs are partners of the CSSS. Click on each club 
 Know another CS club that would like to be listed? Please open an issue on the [ubccsss/ubccsss.org](https://github.com/ubccsss/ubccsss.org/issues/new) GitHub repo, or reach out via the [suggestions box](https://ubccsss.org/contact/suggestions-box/).
 
 ## Engineering Design Teams
+
 Many engineering design teams accept computer science students, and need software engineers. A list of all engineering design teams can be found <a href="https://teams.engineering.ubc.ca/the-teams/">here</a>.
 
 ## Club Events Calendar

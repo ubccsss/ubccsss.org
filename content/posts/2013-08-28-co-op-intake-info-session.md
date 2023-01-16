@@ -14,14 +14,14 @@ tags: [Resume]
 
 If you can't make it, consider [the one on September 23](/node/1259).
 
-When: 
+When:
 
 Thursday, September 24, 2009 - 12:00 to 13:00
 
-Where: 
+Where:
 
 Forest Science Building 1613
 
-Tags: 
+Tags:
 
 [Career](/career)

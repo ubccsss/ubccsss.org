@@ -18,37 +18,37 @@ Reporting to the CTO, you will be responsible for inhouse web development, quali
 
 ### Personality
 
-*   Self-starter, quick learner, intelligent and resourceful
-*   Integrity, strong work ethic, a team player
-*   Proven ability to handle multiple projects simultaneously while effectively managing schedules and communicating a project’s progress
-*   Able to work in a fast-paced environment.
-*   Embraces & enjoys a start up environment
-*   A deep belief in learning through doing
-*   Dedicated to constant refinement & improvement of your work
+- Self-starter, quick learner, intelligent and resourceful
+- Integrity, strong work ethic, a team player
+- Proven ability to handle multiple projects simultaneously while effectively managing schedules and communicating a project’s progress
+- Able to work in a fast-paced environment.
+- Embraces & enjoys a start up environment
+- A deep belief in learning through doing
+- Dedicated to constant refinement & improvement of your work
 
 ### Highlighted Responsibilities
 
-*   Develop & enhance features on CakePHP, constantly improving ethicalDeal so we can fulfill our mission
-*   Making best QA processes and implementing them
-*   Help us move towards QA testing automation (Selenium, PhpUnit, etc)
-*   Manage deployments to and functional testing on Staging and Production Servers
-*   Improve/Automate Administration & Business Processes
+- Develop & enhance features on CakePHP, constantly improving ethicalDeal so we can fulfill our mission
+- Making best QA processes and implementing them
+- Help us move towards QA testing automation (Selenium, PhpUnit, etc)
+- Manage deployments to and functional testing on Staging and Production Servers
+- Improve/Automate Administration & Business Processes
 
 ### Required Qualifications
 
 In addition to integrity, a strong work ethic, and being a team player, you must have the following:
 
-*   Experience with PHP MVC Development Frameworks (ideally, CakePHP but including Yii, CodeIgniter, Symfony, etc)
-*   Interest in learning about Test Automation via Unit and Acceptance testing
-*   Experience with Version Control Systems (Git, SVN)
-*   Knowledge of HTML, CSS, JavaScript
+- Experience with PHP MVC Development Frameworks (ideally, CakePHP but including Yii, CodeIgniter, Symfony, etc)
+- Interest in learning about Test Automation via Unit and Acceptance testing
+- Experience with Version Control Systems (Git, SVN)
+- Knowledge of HTML, CSS, JavaScript
 
 ### The Nice-to-haves
 
-*   Interest and/or experience in mobile development
-*   Mastery of Git & SVN version control systems and conflict resolution
-*   Flash/Actionscript experience
-*   Jquery expertise
+- Interest and/or experience in mobile development
+- Mastery of Git & SVN version control systems and conflict resolution
+- Flash/Actionscript experience
+- Jquery expertise
 
 ### Apply Now!
 

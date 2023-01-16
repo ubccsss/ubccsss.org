@@ -20,14 +20,14 @@ location:
 
 UBC Career Services would like to invite you to attend an Info Session presented by Research In Motion on October 15th. The event will take place at 5:30 pm in Dempster Room 301. RIM are interested in meeting graduating students in Computer Science/Engineering. We hope you can join us on the 15th. Refreshments will be served. Due to the volume of emails we manage in the Career Centre, we cannot respond to individual questions about this event and present this announcement for your information and as a courtesy to the Employer.
 
-When: 
+When:
 
 Wednesday, October 15, 2008 - 18:30 to 19:30
 
-Where: 
+Where:
 
 DMP301
 
-Tags: 
+Tags:
 
 [Career](/career)

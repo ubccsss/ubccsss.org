@@ -47,14 +47,14 @@ Early Bird Special! Register before Sept 20 and be entered in our early bird dra
 Visit our website at www.ubcbiztech.com for ticketing details! \
 To join BizTech, visit our booth during Business Week (Sept 13-17). We are located on Main Mall in front of the Henry Angus building.
 
-When: 
+When:
 
 Monday, September 27, 2010 - 18:00
 
-Where: 
+Where:
 
 Henry Angus 190: Birmingham Centre
 
-Tags: 
+Tags:
 
 [Career](/career)

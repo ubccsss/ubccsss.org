@@ -20,8 +20,6 @@ location:
 
 ![](/files/cube.png)
 
-
-
 Want to learn more about the cube and the services/events we provide? Want to get involved? Or maybe you missed us on imagine day and just want to pick up some merch.
 
 Fear not, visit us at the cube (ICICS 021) to see what we have to offer you!

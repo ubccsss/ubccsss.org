@@ -14,24 +14,24 @@ If so, you should consider growing your career in network administration at Lamb
 
 Responsibilities
 
-*   Perform all operational and administrative activities for system management including diagnosing/troubleshooting complex problems.
-*   Identify and solve issues in a fast-paced atmosphere.
-*   Administration and support of hardware and software.
-*   Effectively monitor performance of systems and make recommendations for improvement of enterprise applications.
-*   Ability to multitask between site maintenance and project based initiatives.
-*   On-call, via pager, first response monitor for website and batch problems on a rotating basis with other Operations personnel, on-call rate adjustment provided.
+- Perform all operational and administrative activities for system management including diagnosing/troubleshooting complex problems.
+- Identify and solve issues in a fast-paced atmosphere.
+- Administration and support of hardware and software.
+- Effectively monitor performance of systems and make recommendations for improvement of enterprise applications.
+- Ability to multitask between site maintenance and project based initiatives.
+- On-call, via pager, first response monitor for website and batch problems on a rotating basis with other Operations personnel, on-call rate adjustment provided.
 
 Qualifications
 
-*   Experience with PHP application servers
-*   Experience with Apache web server configuration
-*   Experience with Windows administration in an Office environment
-*   Familiarity with network hardware, IOS and standard network protocol principals and functions
-*   Experience in administering Linux Systems. This includes installation, patch installation, disk configuration, network configuration, and familiarity with all of the standard Linux tools.
-*   Should be familiar with internet protocols and configuration of servers that support them: HTTP, FTP, POP, SENDMAIL, DNS, NFS, SMB, SSH.
-*   Experience with bash scripting for the purpose of systems administration.
-*   Experience with virtualization technologies in a production environment (VMware and Xen).
-*   Experience with backup technologies and methodologies.
+- Experience with PHP application servers
+- Experience with Apache web server configuration
+- Experience with Windows administration in an Office environment
+- Familiarity with network hardware, IOS and standard network protocol principals and functions
+- Experience in administering Linux Systems. This includes installation, patch installation, disk configuration, network configuration, and familiarity with all of the standard Linux tools.
+- Should be familiar with internet protocols and configuration of servers that support them: HTTP, FTP, POP, SENDMAIL, DNS, NFS, SMB, SSH.
+- Experience with bash scripting for the purpose of systems administration.
+- Experience with virtualization technologies in a production environment (VMware and Xen).
+- Experience with backup technologies and methodologies.
 
 University or college degree in Computer Science or Technology with at least 1 years experience in Linux Systems administration or equal experience in time.
 

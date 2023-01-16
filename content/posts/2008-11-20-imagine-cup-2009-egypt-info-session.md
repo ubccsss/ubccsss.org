@@ -33,15 +33,15 @@ We need everyone—software programmers, hardware developers, artists and dreame
 
 The Imagine Cup is a global student technology competition focused on finding solutions to real-world issues in these 9 categories:
 
-*   Software Design
-*   Embedded Development
-*   Game Development
-*   Robotics and Algorithm
-*   IT Challenge
-*   MashUp
-*   Photography
-*   Short Film
-*   Design
+- Software Design
+- Embedded Development
+- Game Development
+- Robotics and Algorithm
+- IT Challenge
+- MashUp
+- Photography
+- Short Film
+- Design
 
 **Alright I want in, where do I sign up?**
 
@@ -49,15 +49,15 @@ The Imagine Cup is a global student technology competition focused on finding so
 
 This site is where you sign up and find out more details about the competition.
 
-When: 
+When:
 
 Friday, November 21, 2008 - 12:10 to 13:00
 
-Where: 
+Where:
 
 DMP 201
 
-Tags: 
+Tags:
 
 [Career](/career)
 

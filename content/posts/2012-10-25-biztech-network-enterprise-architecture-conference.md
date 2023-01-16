@@ -18,10 +18,10 @@ What is EA? Enterprise Architecture (EA) is a comprehensive framework used to ma
 
 We gratefully acknowledge the financial support for this project provided by UBC students via the Teaching and Learning Enhancement Fund (TLEF).
 
-When: 
+When:
 
 Saturday, October 27, 2012 - 08:30 to 17:00
 
-Tags: 
+Tags:
 
 [Career](/career)

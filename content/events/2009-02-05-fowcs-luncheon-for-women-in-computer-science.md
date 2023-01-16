@@ -41,14 +41,14 @@ Elana Brief is a Research Director for the Women's Health Research Network (WHRN
 
 Elana was able to attend "Crossing Perspectives on Gender and Physics" thanks to Jade Project funding for travel support.
 
-When: 
+When:
 
 Thursday, February 12, 2009 - 12:30 to 13:30
 
-Where: 
+Where:
 
 ICICS 238
 
-Tags: 
+Tags:
 
 [Career](/career)

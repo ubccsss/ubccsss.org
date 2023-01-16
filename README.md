@@ -2,10 +2,37 @@
 
 Website for the UBC Computer Science Student Society.
 
+## Installation
+
+- [install Hugo](https://gohugo.io/installation/) - to build the website. The current version of Hugo used is listed in [`netlify.toml`](netlify.toml), under the key `HUGO_VERSION`.
+- [install Node](https://nodejs.org/) - to install npm. The current version of Node used is in [`.nvmrc`](.nvmrc). This is used by Netlify to build the site with the [correct version of Node](https://docs.netlify.com/configure-builds/manage-dependencies/#node-js-and-javascript).
+- [install Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) - to install dependencies and run scripts
+- [install nvm](https://github.com/nvm-sh/nvm) - to ensure the correct version of Node is used. Take a look at [this](https://stackoverflow.com/a/57839539/8488681) to see how to use [`.nvmrc`](.nvmrc) to automatically switch to the correct version of Node.
+
+```bash
+# clone the repository
+git clone https://github.com/ubccsss/ubccsss.org.git
+
+# cd into the repository
+cd ubccsss.org
+
+# ensure that the correct version of Node is used
+nvm use
+
+# install dependencies
+yarn install
+
+# start the development server
+hugo server
+```
+
 ## Contributing
 
-We welcome contributions of any kind including pages, suggestions, bug reports,
-pull requests etc. We would love to hear from you.
+We welcome contributions of any kind including pages, suggestions, bug reports, pull requests etc. We would love to hear from you.
+
+When you submit a PR, we automatically run the [Prettier](https://prettier.io/) code formatter with the [prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template) plugin to help with Go template formatting. **Please ensure you checkout the latest version of your PR after any formatting commits have been made when continuing to work on your PR.**
+
+To make changes to `.prettierrc`, disable the [Prettifier action on Github](https://github.com/ubccsss/ubccsss.org/actions/workflows/main.yml) before making the PR.
 
 Additional documentation can be found in the [`docs`](./docs) folder.
 
@@ -31,26 +58,19 @@ There's a course review form on each course page at [ubccsss.org/services/course
 
 ##### `content`
 
-Contains content files corresponding to every post, event, and page.
-The `events` folder contains events which can be added to a student's calendar,
-and the `posts` folder contain general posts to display.
+Contains content files corresponding to every post, event, and page. The `events` folder contains events which can be added to a student's calendar, and the `posts` folder contain general posts to display.
 
 ##### `data`
 
-YAML files with some data used elsewhere in the site, including the Cube's
-address, images for the 3D cube on the homepage, and social media links.
+YAML files with some data used elsewhere in the site, including the Cube's address, images for the 3D cube on the homepage, and social media links.
 
 ##### `layouts` and `themes`.
 
-HTML template files for the site. The
-[hugo-bootstrap](https://themes.gohugo.io/hugo-bootstrap/) theme is used as a
-base for the site. Files with the same name in the `layouts` folder override
-files in the `themes/hugo-bootstrap` folder.
+HTML template files for the site. The [hugo-bootstrap](https://themes.gohugo.io/hugo-bootstrap/) theme is used as a base for the site. Files with the same name in the `layouts` folder override files in the `themes/hugo-bootstrap` folder.
 
 ##### `static`
 
-Static files that are copied into the website with no modifications. Images and
-PDF files are placed here.
+Static files that are copied into the website with no modifications. Images and PDF files are placed here.
 
 #### Headers and Redirects
 
@@ -80,6 +100,7 @@ The `config` folder contains the following folders:
 `_default` contains the base configuration files, and depending on the environment, the files in the other folders will be automatically merged into the base configuration if `_merge: deep` is added to the base file.
 
 `hugo server` runs the site in development mode by default.
+
 `hugo` builds the site in production mode by default.
 
 Read the [Hugo docs](https://gohugo.io/getting-started/configuration/) for more information on how they work.
@@ -97,30 +118,20 @@ Currently, there are three enviornment variables:
 
 netlify.toml contains the configuration for the Netlify. `HUGO_ENV` is used to select the environment for different Netlify environments.
 
-### Build
-
-To view the site locally, you need to clone this repository:
+### Dev Scripts
 
 ```bash
-git clone https://github.com/ubccsss/ubccsss.org.git
-```
+# format all files
+yarn format
 
-You'll also need to
-[install Hugo](https://gohugo.io/getting-started/installing/). The current
-version of Hugo used is listed in the [`netlify.toml`](netlify.toml) file, under
-the key `HUGO_VERSION`.
+# check for formatting errors
+yarn dry
 
-Then to view the website in your browser, run Hugo and open up the link:
+# start the development server
+yarn dev
 
-```bash
-▶ hugo server
-
-Building sites ...
-.
-.
-Serving pages from memory
-Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
-Press Ctrl+C to stop
+# build the website
+yarn build
 ```
 
 ## Related

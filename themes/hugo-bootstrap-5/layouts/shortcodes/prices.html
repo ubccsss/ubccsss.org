@@ -1,18 +1,18 @@
 <table class="table table-striped table-hover" style="width: 100%">
-    <thead>
-        <tr>
-            <th>{{ i18n "item" }}</th>
-            <th style="width:1px">{{ i18n "price" }}</th>
-        </tr>
-    </thead>
-    <tbody>
-        {{ $items := $.Page.Params }}
-        {{ range .Params }}{{ $items = index $items . }}{{ end }}
-        {{ range $items }}
-        <tr>
-            <td>{{ .item }}</td>
-            <td>{{ .price }}</td>
-        </tr>
-        {{ end }}
-    </tbody>
+  <thead>
+    <tr>
+      <th>{{ i18n "item" }}</th>
+      <th style="width:1px">{{ i18n "price" }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ $items := $.Page.Params }}
+    {{ range .Params }}{{ $items = index $items . }}{{ end }}
+    {{ range $items }}
+      <tr>
+        <td>{{ .item }}</td>
+        <td>{{ .price }}</td>
+      </tr>
+    {{ end }}
+  </tbody>
 </table>

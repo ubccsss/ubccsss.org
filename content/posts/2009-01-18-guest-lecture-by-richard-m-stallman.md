@@ -16,14 +16,14 @@ For more information, contact Penny Cholmondeley, Communications Coordinator at 
 
 Richard Stallman launched the development of the GNU operating system (see [gnu.org](https://gnu.org)) in 1984. GNU is free software: everyone has the freedom to copy it and redistribute it, as well as to make changes either large or small. The GNU/Linux system, basically the GNU operating system with Linux added, is used on tens of millions of computers today. Stallman has received the ACM Grace Hopper Award, a MacArthur Foundation fellowship, the Electronic Frontier Foundation's Pioneer award, and the Takeda Award for Social/Economic Betterment, as well as several honorary doctorates.
 
-When: 
+When:
 
 Friday, February 6, 2009 - 12:30 to 14:00
 
-Where: 
+Where:
 
 Room 101/102/201, George F. Curtis Law Building, 1822 East Mall
 
-Tags: 
+Tags:
 
 [Career](/career)

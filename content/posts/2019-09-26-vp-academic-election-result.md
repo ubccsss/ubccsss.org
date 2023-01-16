@@ -4,7 +4,6 @@ date: 2019-09-21
 categories: [Elections]
 tags: [Club Activities]
 author: Leo Lin
-
 ---
 
 Congratulation to Natalie Chen for being elected as our new VP Academic:

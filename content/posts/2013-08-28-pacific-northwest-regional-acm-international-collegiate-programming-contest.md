@@ -17,10 +17,10 @@ As a volunteer, you will get free food, a free t-shirt, and a chance to help run
 
 Volunteer orientation happens Friday evening, November 14 (with free pizza), and the contest is Saturday, November 15 (with free meals all day).
 
-When: 
+When:
 
 Friday, November 14, 2008 (All day) to Saturday, November 15, 2008 (All day)
 
-Tags: 
+Tags:
 
 [Career](/career)

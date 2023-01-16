@@ -15,14 +15,14 @@ The [UBC Sailing Club](http://ubcsailing.org/) is hosting a beach party to kick 
 
 [Tickets](http://brownpapertickets.com/event/111910) [Facebook Event Page](https://facebook.com/event.php?eid=116660905036612)
 
-When: 
+When:
 
 Saturday, June 5, 2010 - 20:00
 
-Where: 
+Where:
 
 Jericho Sailing Centre, 1300 Discovery Street
 
-Tags: 
+Tags:
 
 [Social](/social)

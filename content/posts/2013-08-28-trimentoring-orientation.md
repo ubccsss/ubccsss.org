@@ -19,14 +19,14 @@ location:
     addressCountry: CA
 ---
 
-When: 
+When:
 
 Thursday, September 11, 2008 - 13:30 to 15:00
 
-Where: 
+Where:
 
 DMP310
 
-Tags: 
+Tags:
 
 [Career](/career)

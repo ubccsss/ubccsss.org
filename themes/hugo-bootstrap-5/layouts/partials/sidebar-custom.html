@@ -1,8 +1,10 @@
 <section>
   <h4>{{ i18n "elsewhere" }}</h4>
   <ul>
-      {{ range $.Site.Data.social }}
-      <li style="list-style:url('{{ .icon }}')"><a href="{{ .link }}">{{ .title }}</a></li>
-      {{ end }}
+    {{ range $.Site.Data.social }}
+      <li style="list-style:url('{{ .icon }}')">
+        <a href="{{ .link }}">{{ .title }}</a>
+      </li>
+    {{ end }}
   </ul>
 </section>

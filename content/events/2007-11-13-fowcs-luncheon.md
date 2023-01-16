@@ -41,14 +41,14 @@ Thank you!
 ~Amy and Ella
 on behalf of FoWCS
 
-When: 
+When:
 
 Friday, November 16, 2007 - 11:00 to 12:00
 
-Where: 
+Where:
 
 ICICS X836
 
-Tags: 
+Tags:
 
 [Social](/social)

@@ -20,14 +20,14 @@ This September, Accenture will be at the UBC campus looking for outstanding indi
 
 Snacks and refreshments will be provided. Resumes will not be necessary, as all job applications must be submitted online.
 
-When: 
+When:
 
 Wednesday, September 12, 2007 - 17:30 to 19:00
 
-Where: 
+Where:
 
 Fred Kaiser building, Room 2020
 
-Tags: 
+Tags:
 
 [Career](/career)

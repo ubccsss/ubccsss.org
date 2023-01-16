@@ -13,6 +13,6 @@ BCIT’s **Information Technology Services** is looking for a regular (permanent
 
 Please see the attachment for complete details including how to apply. If you have any questions, contact [Tammy Reid](/cdn-cgi/l/email-protection#3165505c5c486e6354585571535258451f5250) at BCIT's Human Resources Department.
 
-File Attachments: 
+File Attachments:
 
- ![Microsoft Office document icon](/modules/file/icons/x-office-document.svg "application/msword") [ISA PHP Web Services Repost 07ST547R.doc](https://ubccsss.org/files/ISA%20PHP%20Web%20Services%20Repost%2007ST547R.doc)
+![Microsoft Office document icon](/modules/file/icons/x-office-document.svg "application/msword") [ISA PHP Web Services Repost 07ST547R.doc](https://ubccsss.org/files/ISA%20PHP%20Web%20Services%20Repost%2007ST547R.doc)

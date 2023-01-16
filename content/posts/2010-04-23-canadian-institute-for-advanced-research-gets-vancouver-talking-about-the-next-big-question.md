@@ -37,14 +37,14 @@ Created in 1982, the Canadian Institute for Advanced Research builds teams of th
 
 For more information, visit [cifar.ca](http://cifar.ca/).
 
-When: 
+When:
 
 Monday, May 10, 2010 - 17:30 to 19:30
 
-Where: 
+Where:
 
 H. R. MacMillan Space Centre, 1100 Chestnut Street
 
-Tags: 
+Tags:
 
 [Career](/career)

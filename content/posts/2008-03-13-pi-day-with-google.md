@@ -20,14 +20,14 @@ Where: ICICSX Lounge \
 What: Breakfast + PIE :D \
 Who: your cool Google ambassadors and bunch of smart and fun people.
 
-When: 
+When:
 
 Friday, March 14, 2008 - 01:00 to 11:30
 
-Where: 
+Where:
 
 ICICS X-Wing Lounge
 
-Tags: 
+Tags:
 
 [Social](/social)

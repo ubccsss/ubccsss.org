@@ -20,7 +20,6 @@ location:
 
 ![](/files/2019-09-13-studio-ghibli-bbt-night)
 
-
 Join us on Sept 13, 7:00 PM for some cheap bubble tea and a classic Studio Ghibli movie.
 RSVP is required! Only the first 75 RSVP will get the discounted BBT!
 

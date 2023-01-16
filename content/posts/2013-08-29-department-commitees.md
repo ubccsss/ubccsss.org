@@ -23,7 +23,6 @@ E-Mail: [\[email protected\]](/cdn-cgi/l/email-protection#94f7fbf9f9e1fafdf7f5e
 Representative: Albert Chen \
 E-Mail: [\[email protected\]](/cdn-cgi/l/email-protection#30535f5d404544595e571e535f5d5d70534343431e53431e4552531e5351)
 
-
 **Curriculum Committee (course content, course offerings, degree requirements...)** \
 Representatives: Flora Ge and Derrek Wood \
 E-Mail: [\[email protected\]](/cdn-cgi/l/email-protection#bfdccacdcdd6dccad3cad291dcd0d2d2ffdccccccc91dccc91cadddc91dcde)

@@ -31,14 +31,14 @@ See ya there!
 Ilan Keshet \
 CSSS Social Coordinator
 
-When: 
+When:
 
 Friday, November 16, 2007 - 17:00 to 20:00
 
-Where: 
+Where:
 
 Dempster 110
 
-Tags: 
+Tags:
 
 [Social](/social)

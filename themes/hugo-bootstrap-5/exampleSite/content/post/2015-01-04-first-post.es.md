@@ -6,7 +6,7 @@ tags: ["demo"]
 
 This is my first post, how exciting!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 <!--more-->
 

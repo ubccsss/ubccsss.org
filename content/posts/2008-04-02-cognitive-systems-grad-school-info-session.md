@@ -10,14 +10,14 @@ tags: [Social]
 
 Come get information on applying for grad school, NSERC and other grants and opportunities for post-graduation. More info at [www.cogsys.ubc.ca](http://www.cogsys.ubc.ca).
 
-When: 
+When:
 
 Wednesday, April 9, 2008 - 18:15 to 20:00
 
-Where: 
+Where:
 
 Totem Field Studios
 
-Tags: 
+Tags:
 
 [Social](/social)

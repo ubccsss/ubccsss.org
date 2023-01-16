@@ -32,14 +32,14 @@ The following will be sold:
 - Pop, Water, Juice: $0.50
 - Chips: $0.50
 
-When: 
+When:
 
 Friday, November 30, 2007 - 15:00 to 19:00
 
-Where: 
+Where:
 
 X-wing Lounge
 
-Tags: 
+Tags:
 
 [Social](/social)

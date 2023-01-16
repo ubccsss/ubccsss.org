@@ -28,18 +28,18 @@ Come and enjoy a lazy Friday afternoon with us over burgers, chips, and pop! You
 
 Also, if you're there between 12 and 1, be sure to say hi to our Research In Motion Campus Ambassador, Ryan Daley. He'll have free ice cream!
 
-When: 
+When:
 
 Friday, September 26, 2008 - 12:30 to 15:00
 
-Where: 
+Where:
 
 Outside the X-wing next to Dempster
 
-File Attachments: 
+File Attachments:
 
- ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [BBQ Poster.pdf](/files/BBQ%20Poster.pdf)
+![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [BBQ Poster.pdf](/files/BBQ%20Poster.pdf)
 
-Tags: 
+Tags:
 
 [Social](/social)

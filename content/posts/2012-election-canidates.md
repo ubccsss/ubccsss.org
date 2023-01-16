@@ -41,15 +41,15 @@ VP Internal: Kerry Li
 
 VP Social: Grant Harris
 
-When: 
+When:
 
 Tuesday, March 20, 2012 - 22:53 to Wednesday, March 21, 2012 - 22:53
 
-Where: 
+Where:
 
 DMP Foyer
 
-Tags: 
+Tags:
 
 [Club Activities](/club)
 

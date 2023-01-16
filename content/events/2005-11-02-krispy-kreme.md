@@ -34,14 +34,14 @@ $1 for one donut \
 $2 for three donuts \
 $8 per dozen
 
-When: 
+When:
 
 Wednesday, November 2, 2005 - 10:00 to 12:00
 
-Where: 
+Where:
 
 Between CICSR and Dempster
 
-Tags: 
+Tags:
 
 [Social](/social)

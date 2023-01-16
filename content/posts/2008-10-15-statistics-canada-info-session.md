@@ -18,14 +18,14 @@ location:
     addressCountry: CA
 ---
 
-When: 
+When:
 
 Wednesday, October 22, 2008 - 18:30 to 20:30
 
-Where: 
+Where:
 
 DMP310
 
-Tags: 
+Tags:
 
 [Career](/career)

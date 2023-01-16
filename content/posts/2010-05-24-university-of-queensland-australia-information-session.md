@@ -14,14 +14,14 @@ The information session is a great opportunity for students to learn more about 
 
 For more information please visit [the related blog entry](http://oztrekk.com/blog/?p=1143) on [the OzTREKK website](http://oztrekk.com/).
 
-When: 
+When:
 
 Thursday, May 27, 2010 - 18:00
 
-Where: 
+Where:
 
 UBC Robson Square
 
-Tags: 
+Tags:
 
 [Career](/career)

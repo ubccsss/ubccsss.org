@@ -15,14 +15,14 @@ Forms can be picked up at ICCS 021 near the money jar.
 
 Executive roles and responsibilites are in [the constitution](https://ubccsss.org/club/about/constitution).
 
-When: 
+When:
 
 Wednesday, March 14, 2018 - 17:00
 
-Where: 
+Where:
 
 ICCS 021
 
-Tags: 
+Tags:
 
 [Club Activities](/club)

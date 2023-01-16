@@ -13,11 +13,13 @@ images:
 Come to the Computer Science Industry Panel! This year's theme is **Building Your Career: the Technical vs. Management Debate** and of course we will be having professionals from both sides coming and sharing their career experiences.
 
 Agenda Feb 01 2007 17:30-20:00:
+
 1. network among your peers and perhaps your favourite panelists near Reboot cafe
 2. hear about your favourite panelists (and others) speak about their personal and career experiences in Dempster 110.
 3. more mingling
 
 Representatives attending:
+
 - Marija Radulovic-Nastic - Director, **Electronic Arts** Canada (EAC), Creative Services
 - Liza Wood - Development Director, EAC Creative Services
 - Kelly Poon - Software Engineer, **Google** AdSense Backend
@@ -38,9 +40,6 @@ Before joining the exciting and challenging video game industry, Marija spent 10
 
 During this time she received several awards for outstanding professional achievements. Marija has an MSc in Electrical Engineering and a BSc in Computer Science from Belgrade University. In her free time, Marija enjoys adventure travel, skiing, cycling with her husband, and savoring gourmet food and fine wines.
 
-
-
-
 **Liza Wood**: P. Eng, Development Director - Techworx, Creative Services, EAC \
 Liza is the Development Director for a Common Technology team in Creative Services at Electronic Arts Canada. Liza's team of exceptionally talented software developers build the tools and technologies to create, deliver and integrate the art in the EA SportsT games produced in Burnaby.
 
@@ -48,24 +47,18 @@ Liza started her career as a Manufacturing Quality Engineer for high-end Cisco r
 
 Liza has a Bachelor of Science (Engineering Chemistry) from Queen's University and a certificate of Electrical Engineering from Santa Clara University. In her spare time, she is a virtual member of the Write On! writer's group she formed in California. She published two stories in the self-published Write On! literary anthology in late 2005.
 
-
-
-
 **Kelly Poon**: Software Engineer, AdSense Backend, Google Mountain View \
 Kelly graduated from the University of Waterloo with a Bachelor of Mathematics, and from the University of Calgary with a Master of Science in Computer Science with a specialization in Computer Graphics. During university, she participated in the ACM programming contest as both a contestant and coach. She joined Google in June 2005, and since then has been working as an engineer on the AdSense backend team.
-
-
-
 
 **Johnny Kam**: Director of Software Development, Medical Imaging Group, McKesson Medical
 Imaging
 
 This post will be continuously updated with the representatives attending the event. So keep on checking back!
 
-When: 
+When:
 
 Thursday, February 1, 2007 - 17:30 to 20:00
 
-Where: 
+Where:
 
 Networking: ICICS X-wing student lounge, Panel: DMP 110

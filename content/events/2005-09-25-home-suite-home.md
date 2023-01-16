@@ -24,19 +24,19 @@ A Home Suite Home tutorial will be held on Thursday September 29th, 12:30-13:30 
 
 Come and learn about:
 
-*   Jdk1.5 / Eclipse 3.1 installation/troubleshooting and common issues.
-*   Firefox/Thunderbird installation/setup to access your CS-Account email from home.
-*   How to handin your assignments electronically.
-*   File transfer between home and school.
+- Jdk1.5 / Eclipse 3.1 installation/troubleshooting and common issues.
+- Firefox/Thunderbird installation/setup to access your CS-Account email from home.
+- How to handin your assignments electronically.
+- File transfer between home and school.
 
-When: 
+When:
 
 Thursday, September 29, 2005 - 12:30 to 13:30
 
-Where: 
+Where:
 
 Dempster 301
 
-Tags: 
+Tags:
 
 [Career](/career)

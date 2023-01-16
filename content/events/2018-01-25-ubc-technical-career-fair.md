@@ -30,10 +30,9 @@ Hosted jointly by UBC Computer Science Student Society - CSSS, UBC IEEE, Cogniti
 
 📩 Bring your resume! 📩
 
-***
+---
 
-COMPANIES:
-----------
+## COMPANIES:
 
 👉 A Thinking Ape Entertainment Ltd. \
 👉 Absolute Software \
@@ -86,6 +85,6 @@ COMPANIES:
 👉 Yelp \
 👉 Zenefits \
 
-***
+---
 
 Check out [www.cs.ubc.ca/industry/techcareerfair](http://www.cs.ubc.ca/industry/techcareerfair) for more info!

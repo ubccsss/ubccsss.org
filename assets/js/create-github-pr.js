@@ -6,8 +6,7 @@ const WORKER_URL = form.dataset.workerurl;
 
 // call createGithubPR if form is valid and display link to the new PR
 (() => {
-  document.getElementById("github-pr-year-taken").max =
-    new Date().getFullYear();
+  document.getElementById("github-pr-year-taken").max = new Date().getFullYear();
 
   form.addEventListener("submit", async (event) => {
     event.preventDefault();
@@ -57,8 +56,7 @@ const createGithubPR = async () => {
   const difficulty = document.getElementById("github-pr-difficulty").value;
   const quality = document.getElementById("github-pr-quality").value;
   const sessionTaken =
-    document.getElementById("github-pr-year-taken").value +
-    document.getElementById("github-pr-session-taken").value;
+    document.getElementById("github-pr-year-taken").value + document.getElementById("github-pr-session-taken").value;
 
   // check if reCAPTCHA has been completed
   const token = grecaptcha.getResponse();
@@ -71,11 +69,11 @@ const createGithubPR = async () => {
     const pr = await fetch(WORKER_URL, {
       method: "POST",
       headers: {
-        "Content-Type": "application/json",
+        "Content-Type": "application/json"
       },
       body: JSON.stringify({
         recaptcha: {
-          token: token,
+          token: token
         },
         details: {
           course: course,
@@ -84,9 +82,9 @@ const createGithubPR = async () => {
           reference: reference,
           difficulty: difficulty,
           quality: quality,
-          sessionTaken: sessionTaken,
-        },
-      }),
+          sessionTaken: sessionTaken
+        }
+      })
     });
     const json = await pr.json();
     if (pr.ok) {

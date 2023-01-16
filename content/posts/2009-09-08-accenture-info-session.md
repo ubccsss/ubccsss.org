@@ -11,14 +11,14 @@ end_date: 2009-09-15 19:00:00
 raw_location: Wesbrook 100
 ---
 
-When: 
+When:
 
 Tuesday, September 15, 2009 - 17:30 to 19:00
 
-Where: 
+Where:
 
 Wesbrook 100
 
-Tags: 
+Tags:
 
 [Career](/career)

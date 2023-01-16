@@ -16,6 +16,6 @@ Please send me an email at <`mthomas[dot]denver[at]gmail[dot]com`\> if you are i
 
 —Michael Thomas
 
-Tags: 
+Tags:
 
 [Career](/career)

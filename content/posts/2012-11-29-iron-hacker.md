@@ -13,27 +13,27 @@ Launch Academy (startup-oriented co-working space) is hosting the “Iron Hacker
 
 Format:
 
-*   Hacker teams of 2–4
+- Hacker teams of 2–4
 
-*   After registration the morning of the event, the theme of the hackathon will be revealed, and you have until 7pm to work on your hack
-*   Use whatever APIs, platforms, or frameworks you like to deliver your hack
-*   All presentations must be done on an organizer’s laptop: i.e. you need to demo something live on the internet. Exception: native mobile apps
-*   Prizes awarded by judges based on how functional your team’s app is and how well it corresponds to the theme
-*   “Iron Hacker” trophy will be awarded based on by peer judging of your team’s app
+- After registration the morning of the event, the theme of the hackathon will be revealed, and you have until 7pm to work on your hack
+- Use whatever APIs, platforms, or frameworks you like to deliver your hack
+- All presentations must be done on an organizer’s laptop: i.e. you need to demo something live on the internet. Exception: native mobile apps
+- Prizes awarded by judges based on how functional your team’s app is and how well it corresponds to the theme
+- “Iron Hacker” trophy will be awarded based on by peer judging of your team’s app
 
 To keep this developer-centric, we’ve set up a couple hurdles for coders to get through before they can register (shouldn’t be a problem for even novice coders): [http://ironhacker.org/](http://ironhacker.org/)
 
 Hope to see you there!
 
-When: 
+When:
 
 Saturday, December 8, 2012 - 09:00 to 21:00
 
-Where: 
+Where:
 
 Launch Academy, 300 - 128 W. Hastings
 
-Tags: 
+Tags:
 
 [Career](/career)
 

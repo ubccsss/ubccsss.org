@@ -1,18 +1,25 @@
-{{ $script := resources.Get "js/create-github-pr.js" | resources.Minify }} {{
-$course := replace (upper .File.ContentBaseName) "-" " " }}
+{{ $script := resources.Get "js/create-github-pr.js" | resources.Minify }}
+{{ $course := replace (upper .File.ContentBaseName) "-" " " }}
+
 
 <div id="review-div" style="scroll-margin-top: 2rem">
   <h3>Add a Review for this course</h3>
-  <small class="text-muted"
-    >These reviews may take several days to process and will be scanned for
-    inappropriate or malicious content.</small
-  >
+  <small class="text-muted">
+    <b>Please ensure that your review is respectful and constructive.</b> Read
+    about UBC's aim for creating a safe and inclusive learning environment
+    <a
+      href="https://hr.ubc.ca/working-ubc/respectful-environment"
+      target="_blank"
+      >here.</a
+    >
+    These reviews may take several days to process and will be scanned for
+    inappropriate or malicious content.
+  </small>
   <form
     id="github-pr-form"
     data-course="{{ $course }}"
     data-workerurl="{{ .Site.Params.workerURL }}"
-    novalidate
-  >
+    novalidate>
     <div class="my-3">
       <label for="github-pr-user" class="form-label">Name/Username*</label>
       <input
@@ -21,8 +28,7 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
         pattern=".*\S+.*"
         id="github-pr-user"
         placeholder="Enter the reviewer's name/username"
-        required
-      />
+        required />
       <div class="invalid-feedback">Please enter a name/username.</div>
     </div>
     <div class="my-3">
@@ -31,8 +37,7 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
         class="form-control"
         type="url"
         id="github-pr-reference"
-        placeholder="Link to a personal website or GitHub, leave empty if you wish to remain anonymous"
-      />
+        placeholder="Link to a personal website or GitHub, leave empty if you wish to remain anonymous" />
       <div class="invalid-feedback">
         Enter a valid url including the 'https://' prefix.
         (https://www.example.com)
@@ -47,30 +52,28 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
         id="github-pr-review"
         rows="3"
         placeholder="Enter the course review"
-        required
-      ></textarea>
+        required></textarea>
       <div class="invalid-feedback">
-        Please enter your course review. <b>[minimum length: 50 characters]</b>
+        Please enter your course review.
+        <b>[minimum length: 50 characters]</b>
       </div>
     </div>
     <div class="my-3">
-      <label for="github-pr-session-taken" class="form-label"
-        >Session Taken*</label
-      >
+      <label for="github-pr-session-taken" class="form-label">
+        Session Taken*
+      </label>
       <div class="input-group">
         <input
           type="number"
           class="form-control"
           placeholder="Enter year the course was taken"
           min="1908"
-          id="github-pr-year-taken"
-        />
+          id="github-pr-year-taken" />
         <select
           class="form-select"
           aria-label="Choose a session"
           required
-          id="github-pr-session-taken"
-        >
+          id="github-pr-session-taken">
           <option value="W1" selected>W1 (Fall)</option>
           <option value="W2">W2 (Spring)</option>
           <option value="S1">S1 (Summer Term 1)</option>
@@ -89,15 +92,14 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
           step="0.5"
           id="github-pr-difficulty"
           oninput="document.getElementById('github-pr-difficulty-label').innerText = this.value"
-          required
-        />
+          required />
         <small id="github-pr-difficulty-label" style="width: 3rem">3</small>
       </div>
     </div>
     <div class="my-3">
-      <label for="github-pr-quality" class="form-label"
-        >Overall Course Quality*</label
-      >
+      <label for="github-pr-quality" class="form-label">
+        Overall Course Quality*
+      </label>
       <div class="d-flex gap-2">
         <input
           type="range"
@@ -107,27 +109,23 @@ $course := replace (upper .File.ContentBaseName) "-" " " }}
           step="0.5"
           id="github-pr-quality"
           oninput="document.getElementById('github-pr-quality-label').innerText = this.value"
-          required
-        />
+          required />
         <small id="github-pr-quality-label" style="width: 3rem">3</small>
       </div>
     </div>
     <div
       class="g-recaptcha my-3"
-      data-sitekey="{{ .Site.Params.recaptchaSiteKey }}"
-    ></div>
+      data-sitekey="{{ .Site.Params.recaptchaSiteKey }}"></div>
     <div class="my-3">
       <button
         class="btn btn-primary"
         id="github-pr-btn"
         type="submit"
-        style="width: 80px"
-      >
+        style="width: 80px">
         Submit
       </button>
     </div>
   </form>
 </div>
-
 <script async defer src="{{ $script.RelPermalink }}"></script>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>

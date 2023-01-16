@@ -11,14 +11,14 @@ categories: [Career]
 Nov 15 2007 CS FLS, Gregor Kiczales, UBC: \
 "Context, Perspective and Programs"
 
-When: 
+When:
 
 Thursday, November 15, 2007 - 14:30 to 15:30
 
-Where: 
+Where:
 
 Dempster Room 310
 
-Tags: 
+Tags:
 
 [Career](/career)

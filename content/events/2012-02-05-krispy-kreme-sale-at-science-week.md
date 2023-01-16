@@ -21,14 +21,14 @@ location:
 
 ![](/files/krispykreme.gif)Next week being Science Week, we'd like all you CS students to come and pay us a visit. Especially on Tuesday, cause we're selling Krispy Kremes again at our booth! These things were wildly popular at our last sale, and we expect this time to be no exception. **1200** Krispy Kreme donuts will be on sale, at cheap prices of $1 for one donut, $2 for three donuts, and $8 per dozen. That's over 2^10 for those of you who are mathematically inclined.
 
-When: 
+When:
 
 Tuesday, January 24, 2006 - 11:00 to 14:00
 
-Where: 
+Where:
 
 SUB
 
-Tags: 
+Tags:
 
 [Career](/career)

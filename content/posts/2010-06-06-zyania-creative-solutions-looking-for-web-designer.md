@@ -14,11 +14,11 @@ Zyania Creative Solutions is looking for a dedicated programmer who can work ind
 
 Skills Required:
 
-*   Must be able to use Javascript and AJAX proficiently
-*   Must be able to use Flash proficiently
-*   Must be good with Photoshop
-*   Compensation—TBD
-*   Must be in Computer Science with a background in Programming
+- Must be able to use Javascript and AJAX proficiently
+- Must be able to use Flash proficiently
+- Must be good with Photoshop
+- Compensation—TBD
+- Must be in Computer Science with a background in Programming
 
 You may be tested on your proficiency with your skills in the above areas.
 

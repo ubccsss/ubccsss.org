@@ -17,20 +17,20 @@ All you have to do to RSVP is to send an email to: [\[email protected\]](/cdn-c
 
 Include:
 
-*   Full name
-*   Student #
-*   Contact Info (email and phone #)
+- Full name
+- Student #
+- Contact Info (email and phone #)
 
 The team will be created based on the first 15 RSVPs so don't forget to RSVP quickly! The deadline for Registration is Fri Oct 31, 2008. Don't miss out on the opportunity to represent your Department.
 
-When: 
+When:
 
 Thursday, November 6, 2008 - 19:30
 
-Where: 
+Where:
 
 UBC Aquatic Centre
 
-Tags: 
+Tags:
 
 [Social](/social)

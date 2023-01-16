@@ -35,6 +35,6 @@ If you have any questions, feel free to email James [\[email protected\]](/cdn-
 About UBC Computer Science Tri-mentoring \
 UBC Computer Science Tri-mentoring is a program bridging students with professionals in both the academic and industry fields. This year UBC CS Tri-mentoring has over 80 mentors with diverse backgrounds and experiences coming to UBC to mentor some of our UBC CS fellows.
 
-When: 
+When:
 
 Thursday, October 5, 2006 - 15:45 to 19:30

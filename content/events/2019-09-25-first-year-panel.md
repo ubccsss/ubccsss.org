@@ -20,7 +20,6 @@ location:
 
 ![](/files/2019-09-25-first-year-panel.png)
 
-
 Come visit Hugh Dempster 301 on September 25th for a panel designed for first years to ask question about CS programs/admission.
 
 There will be upper years and professor there to answer all your questions! This is also a good opportunity to network/socialize with your fellow first years.

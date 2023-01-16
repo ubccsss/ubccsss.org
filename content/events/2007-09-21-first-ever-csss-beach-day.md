@@ -32,14 +32,14 @@ For those of you who don't know where that is, you can come down to Reboot Cafe 
 
 If you have anymore questions send them to: [\[email protected\]](/cdn-cgi/l/email-protection#b6d4d3d7d5def6c2ded3d5c3d4d398d5d7)
 
-When: 
+When:
 
 Friday, September 22, 2006 - 14:00 to 23:59
 
-Where: 
+Where:
 
 Somewhere where the land meets the sea...
 
-Tags: 
+Tags:
 
 [Social](/social)

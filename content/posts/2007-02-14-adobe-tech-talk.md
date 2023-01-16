@@ -41,14 +41,14 @@ Join Us!
 \* 5:00 PM \
 \* DMP 110
 
-When: 
+When:
 
 Tuesday, February 13, 2007 - 17:00 to 18:00
 
-Where: 
+Where:
 
 Dempster 110
 
-Tags: 
+Tags:
 
 [Career](/career)

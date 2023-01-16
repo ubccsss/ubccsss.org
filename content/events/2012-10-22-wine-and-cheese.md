@@ -31,14 +31,14 @@ The event is semi-formal, so be sure to break out your nice duds and leave the s
 
 This event is brought to you by the Computer Science Students' Society (CSSS) and the Computer Science Graduate Students' Assocation (CSGSA).
 
-When: 
+When:
 
 Friday, November 25, 2005 - 18:00 to 22:00
 
-Where: 
+Where:
 
 CS Undergrad Lounge
 
-Tags: 
+Tags:
 
 [Social](/social)

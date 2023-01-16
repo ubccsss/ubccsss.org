@@ -22,4 +22,4 @@ Rebecca Lin
 Dryden Wiebe  
 Matthew Tang  
 Finn Hackett  
-Joanne McGrenere  
+Joanne McGrenere

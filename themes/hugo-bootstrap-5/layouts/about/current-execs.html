@@ -1,32 +1,34 @@
 {{ define "main" }}
+  {{ $currentExecs := index (sort .RegularPages "Title" "desc") 0 }}
 
-{{ $currentExecs := index (sort .RegularPages "Title" "desc") 0 }}
 
-<header>
+  <header>
     {{ partial "breadcrumb/breadcrumbs" . }}
 
-    <h1 class="blog-post-title">
-        <a class="text-dark text-decoration-none" href="{{ .RelPermalink }}">{{ $currentExecs.Title | markdownify }}</a>
-    </h1>
-    <hr>
-</header>
-<article class="blog-post">
-    {{ with $currentExecs }}
-        {{ .Content }}
 
-        {{ if .IsTranslated }}
+    <h1 class="blog-post-title">
+      <a class="text-dark text-decoration-none" href="{{ .RelPermalink }}"
+        >{{ $currentExecs.Title | markdownify }}</a
+      >
+    </h1>
+    <hr />
+  </header>
+  <article class="blog-post">
+    {{ with $currentExecs }}
+      {{ .Content }}
+
+      {{ if .IsTranslated }}
         <h4>{{ i18n "translations" }}</h4>
         <ul>
-            {{ range .Translations }}
+          {{ range .Translations }}
             <li>
-                <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+              <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
             </li>
-            {{ end }}
+          {{ end }}
         </ul>
-        {{ end }}
+      {{ end }}
     {{ end }}
 
     {{ partial "pages/pager" . }}
-</article>
-
+  </article>
 {{ end }}

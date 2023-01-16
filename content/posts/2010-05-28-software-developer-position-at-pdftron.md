@@ -16,7 +16,7 @@ Are you into being challenged?
 
 If the answer is YES and you are looking for not just a job, but a career with endless opportunities… allowing you to make your mark in the world of technology, then PDFTron is the right place for you!
 
-Full position details and how to apply can be found at: [http://pdftron.com/aboutus/softwareDeveloper\_newgrad.html](http://pdftron.com/aboutus/softwareDeveloper_newgrad.html).
+Full position details and how to apply can be found at: [http://pdftron.com/aboutus/softwareDeveloper_newgrad.html](http://pdftron.com/aboutus/softwareDeveloper_newgrad.html).
 
 ABOUT PDFTron:
 

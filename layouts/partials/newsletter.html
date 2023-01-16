@@ -1,25 +1,28 @@
 {{ $script := resources.Get "js/newsletter.js" | resources.Minify }}
 <script defer src="{{ $script.RelPermalink }}"></script>
 <div class="modal fade" id="newsletter-modal" tabindex="-1">
-    <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-            <div class="modal-body text-center py-5">
-                <h2 class="pb-3">Sign up for our Newsletter!</h2>
-                <p class="pb-3">
-                    UBCCSSS has started a newsletter! It will contain information about upcoming events, workshops, and more. If you would like to subscribe to the newsletter, please click the button below.
-                </p>
-                <button
-                    id="maybe-later-btn"
-                    type="button"
-                    class="btn btn-secondary me-3"
-                    data-bs-dismiss="modal"
-                >
-                    Maybe later
-                </button>
-                <a href="http://eepurl.com/h-QQ_z" target="_blank">
-                    <button id="join-btn" class="btn btn-primary" data-bs-dismiss="modal">Click to sign up</button>
-                </a>
-            </div>
-        </div>
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body text-center py-5">
+        <h2 class="pb-3">Sign up for our Newsletter!</h2>
+        <p class="pb-3">
+          UBCCSSS has started a newsletter! It will contain information about
+          upcoming events, workshops, and more. If you would like to subscribe
+          to the newsletter, please click the button below.
+        </p>
+        <button
+          id="maybe-later-btn"
+          type="button"
+          class="btn btn-secondary me-3"
+          data-bs-dismiss="modal">
+          Maybe later
+        </button>
+        <a href="http://eepurl.com/h-QQ_z" target="_blank">
+          <button id="join-btn" class="btn btn-primary" data-bs-dismiss="modal">
+            Click to sign up
+          </button>
+        </a>
+      </div>
     </div>
+  </div>
 </div>

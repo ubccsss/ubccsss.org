@@ -11,7 +11,6 @@ start_date: 2020-04-09 20:00:00
 
 ![](/files/2020-04-09-minecraft.jpg)
 
-
 I hope you all are having fun during the quarantine, we've set up a Minecraft server for people to enjoy (it is actually up at all time so feel free to hop in):
 
 192.99.44.26:25578

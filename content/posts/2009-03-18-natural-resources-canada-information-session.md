@@ -12,14 +12,14 @@ raw_location: SCRF 201
 
 UBC Career Services would like to invite you to attend an Info Session presented by Natural Resources Canada. Lunch will be served. They are interested in meeting graduating students interested in working within the federal government. They will be presenting the different career opportunities within the company.
 
-When: 
+When:
 
 Thursday, March 19, 2009 - 11:00
 
-Where: 
+Where:
 
 SCRF 201
 
-Tags: 
+Tags:
 
 [Career](/career)

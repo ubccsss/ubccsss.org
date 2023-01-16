@@ -22,34 +22,34 @@ This position is funded in part by a government program, which requires that the
 
 Requirements:
 
-*   A degree or diploma in Computer Science or related field
-*   Experience building scalable web applications using a Model-View-Controller paradigm and open source software and services
-*   Experience programming and building scalable, database driven web sites and applications
-*   Solid SQL knowledge and data modeling experience, DBA experience an asset
-*   Experience developing a web application with LAMP, Ruby on Rails, Python/Django, or equivalent
-*   Knowledge of JavaScript, CSS/HTML and AJAX a definite asset, as is a desire to become an expert in these technologies
-*   Experience using Amazon's Web Services a definite asset
-*   Debugging and testing experience
-*   Knowledge of data security and keeping customer information safe
-*   Familiarity with SEO, landing page optimization, and web analytics a bonus
-*   Passionate about web technologies, ability to learn new technologies quickly, and demonstrate an on-going upgrade of web skills and knowledge
-*   The ability to take initiative, learn, solve problems, and work with minimal supervision
-*   Strong interpersonal and communication skills as will be working closely with the CEO and technical contractors
-*   Desire and ability to thrive in a dynamic, fast paced start-up environment
+- A degree or diploma in Computer Science or related field
+- Experience building scalable web applications using a Model-View-Controller paradigm and open source software and services
+- Experience programming and building scalable, database driven web sites and applications
+- Solid SQL knowledge and data modeling experience, DBA experience an asset
+- Experience developing a web application with LAMP, Ruby on Rails, Python/Django, or equivalent
+- Knowledge of JavaScript, CSS/HTML and AJAX a definite asset, as is a desire to become an expert in these technologies
+- Experience using Amazon's Web Services a definite asset
+- Debugging and testing experience
+- Knowledge of data security and keeping customer information safe
+- Familiarity with SEO, landing page optimization, and web analytics a bonus
+- Passionate about web technologies, ability to learn new technologies quickly, and demonstrate an on-going upgrade of web skills and knowledge
+- The ability to take initiative, learn, solve problems, and work with minimal supervision
+- Strong interpersonal and communication skills as will be working closely with the CEO and technical contractors
+- Desire and ability to thrive in a dynamic, fast paced start-up environment
 
 Responsibilities:
 
-*   Define and document technical specifications, information architecture
-*   Develop the web site from the ground up and maintain it
-*   Provide application support to users and troubleshoot web site issues
-*   System administration tasks
-*   Ensure quality and timely delivery of features and components
-*   Other technical duties as required
+- Define and document technical specifications, information architecture
+- Develop the web site from the ground up and maintain it
+- Provide application support to users and troubleshoot web site issues
+- System administration tasks
+- Ensure quality and timely delivery of features and components
+- Other technical duties as required
 
 Why Join Us?
 
-*   Salaried position and equity participation
-*   Great opportunity to get in on the ground level of a promising company, lead programming and development, have great influence on shaping the product and use your skills to make a difference in the world!
+- Salaried position and equity participation
+- Great opportunity to get in on the ground level of a promising company, lead programming and development, have great influence on shaping the product and use your skills to make a difference in the world!
 
 We Want to Hear From You! \
 Please direct all inquiries and resumes to our CEO Annalea Krebs at [\[email protected\]](/cdn-cgi/l/email-protection#b3daddd5dcf3d6c7dbdad0dcc0dcdfc6c7dadcddc09dd0dcde). Please include links to previous projects in your cover letter.

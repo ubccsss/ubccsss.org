@@ -20,14 +20,14 @@ location:
 
 We're selling pizza. It is tasty. Grab some.
 
-When: 
+When:
 
 Friday, October 29, 2010 - 13:00 to 15:00
 
-Where: 
+Where:
 
 Reboot Cafe
 
-Tags: 
+Tags:
 
 [Social](/social)

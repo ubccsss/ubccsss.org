@@ -30,17 +30,17 @@ VP Internal: Benson Li
 Hi, my name is Benson Li and frankly, I am the best suited candidate for the VP Internal position.
 Currently I:
 
-*   Keep the Cube in relative working order (wash dishes, tidy tables/sofas, wipe down surfaces/microwaves etc.)
-    **I invest more time in keeping the Cube clean bar none.**
-*   Restock items
-*   Create event posters
-*   Help run events
+- Keep the Cube in relative working order (wash dishes, tidy tables/sofas, wipe down surfaces/microwaves etc.)
+  **I invest more time in keeping the Cube clean bar none.**
+- Restock items
+- Create event posters
+- Help run events
 
 As VP Internal, I will:
 
-*   Enforce cleanliness on a greater scale
-*   Maintain constant supply of food/drinks
-*   Push for upgrades to the facility (more new couches, vacuum cleaner, another fridge etc.)
+- Enforce cleanliness on a greater scale
+- Maintain constant supply of food/drinks
+- Push for upgrades to the facility (more new couches, vacuum cleaner, another fridge etc.)
 
 VP Social: Clara Chu
 
@@ -60,9 +60,9 @@ Hello! My name is Clarence and I'm currently a 2nd year student in the Business 
 This year I would like to be your VP Communications in the Computer Science Student Society.
 My main goals are to:
 
-*   To work the with CS committee to bring new engaging events for the students. I’d like to give students more opportunities to get involved and enhance their student experiences.
-*   Increase the awareness of services that the council has to offer. I want students to take advantage and benefit from all the services that we offer them
-*   Increase the amount of communication between the CS council and CS students to engage student involvement
+- To work the with CS committee to bring new engaging events for the students. I’d like to give students more opportunities to get involved and enhance their student experiences.
+- Increase the awareness of services that the council has to offer. I want students to take advantage and benefit from all the services that we offer them
+- Increase the amount of communication between the CS council and CS students to engage student involvement
 
 Really it’s what I can do for you guys, and I am running for the CSSS council so that hopefully I can help you guys succeed in your University career.
 
@@ -88,14 +88,14 @@ VP Volunteering: Reed Mullanix
 
 _No write-up available_
 
-When: 
+When:
 
 Wednesday, April 1, 2015 (All day) to Thursday, April 2, 2015 (All day)
 
-Where: 
+Where:
 
 Hugh Dempster Pavilion first floor lobby
 
-Tags: 
+Tags:
 
 [Club Activities](/club)

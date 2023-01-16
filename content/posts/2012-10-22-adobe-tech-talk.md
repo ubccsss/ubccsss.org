@@ -30,18 +30,18 @@ applications right before your eyes.
 
 For more info, visit [http://www.therabbithole.net](http://www.therabbithole.net) or check out the **[attachment](/files/ubc_adobe.pdf)** for this post.
 
-When: 
+When:
 
 Wednesday, November 8, 2006 - 16:30 to 17:30
 
-Where: 
+Where:
 
 Dempster 310
 
-File Attachments: 
+File Attachments:
 
- ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [ubc\_adobe.pdf](https://ubccsss.org/files/ubc_adobe.pdf)
+![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [ubc_adobe.pdf](https://ubccsss.org/files/ubc_adobe.pdf)
 
-Tags: 
+Tags:
 
 [Career](/career)

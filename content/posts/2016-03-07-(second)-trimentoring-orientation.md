@@ -16,14 +16,14 @@ There are still some seats available in the tri-mentoring program, especially fo
 
 For more information about Trimentoring in general, see [here](/node/47)
 
-When: 
+When:
 
 Tuesday, September 27, 2005 - 17:30 to 19:00
 
-Where: 
+Where:
 
 Henning 200
 
-Tags: 
+Tags:
 
 [Career](/career)

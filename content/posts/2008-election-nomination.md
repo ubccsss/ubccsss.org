@@ -28,6 +28,6 @@ Elections will be held Thursday and Friday, March 27-28. If you have any questio
 Regards, \
 Your 2007-08 CSSS Executive
 
-File Attachments: 
+File Attachments:
 
- ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [Elections 2008 rev 2.pdf](https://ubccsss.org/files/Elections%202008%20rev%202.pdf)
+![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [Elections 2008 rev 2.pdf](https://ubccsss.org/files/Elections%202008%20rev%202.pdf)

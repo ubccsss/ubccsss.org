@@ -25,14 +25,14 @@ Come learn all about it at a free presentation skills workshop for Computer Scie
 
 E-mail Diane Johnson (Computer Science Career Planning and Placement Coordinator) at [\[email protected\]](/cdn-cgi/l/email-protection#86e2efe7e8e3ece9eec6e5f5a8f3e4e5a8e5e7) by Fri Feb 27th to register.
 
-When: 
+When:
 
 Tuesday, March 3, 2009 - 12:30 to 14:00
 
-Where: 
+Where:
 
 ICICS 304
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -26,6 +26,6 @@ Job description: [goo.gl/R3FBSp](https://goo.gl/R3FBSp)
 
 Deadline: Wed. Oct. 18 @ 11:59pm
 
-When: 
+When:
 
 Tuesday, October 10, 2017 (All day) to Wednesday, October 18, 2017 (All day)

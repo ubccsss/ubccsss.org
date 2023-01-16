@@ -18,10 +18,10 @@ For more information, check out the linked poster.
 
 [![](/files/mini-inconnu.jpg)](/files/inconnu.jpg)
 
-When: 
+When:
 
 Thursday, May 4, 2006 - 09:00 to Monday, May 8, 2006 - 18:00
 
-Where: 
+Where:
 
 110-1650 West 1st Avenue

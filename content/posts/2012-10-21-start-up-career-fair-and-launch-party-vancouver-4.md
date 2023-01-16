@@ -19,14 +19,14 @@ What's it like to work for a Tech Start-Up?
 **Who should attend?** From web designers to systems engineers and all stops in between. If you're a student, a recent graduate, or just part of the workforce and curious about what its like to work for a Start-Up, this FREE event is for you. The Career Fair will take place on Wednesday, May 21st at 3:00pm at Republic at 958 Granville Street. BONUS: Everyone is invited to stick around for a drink and networking at Launch Party starting at 5:30pm. You can register for both events separately on Facebook - LPV4 [here](https://facebook.com/event.php?eid=11939557659) and the Start-Up
 Career Fair [here](https://facebook.com/event.php?eid=48130170656).
 
-When: 
+When:
 
 Wednesday, May 21, 2008 - 16:00 to 18:30
 
-Where: 
+Where:
 
 Republic at 958 Granville Street
 
-Tags: 
+Tags:
 
 [Career](/career)

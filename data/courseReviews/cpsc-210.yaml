@@ -1,9 +1,9 @@
 reviews:
   - author: cinadia
-    authorLink: 
+    authorLink:
     date: 2022-10-25
     review: |
-      Well-structured course. Concepts covered are very valuable for the workplace, job interviews, and general software engineering. Instructors are attentive, engaging, and fun. Felix especially! 
+      Well-structured course. Concepts covered are very valuable for the workplace, job interviews, and general software engineering. Instructors are attentive, engaging, and fun. Felix especially!
     difficulty: 3.5
     quality: 5
     sessionTaken: 2022W2
@@ -16,7 +16,7 @@ reviews:
     quality: 5
     sessionTaken: 2020W1
   - author: Eugene
-    authorLink: 
+    authorLink:
     date: 2022-11-04
     review: |
       Its a Software development course. You build a project over the course of the semester and learn about program design. Lecture content is pretty simple but there is a large time commitment due to the project. Great introduction to software development.

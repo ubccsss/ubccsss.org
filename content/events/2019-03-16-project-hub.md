@@ -1,5 +1,5 @@
 ---
-title: 'LP x CSSS: Project Hub ft. Spruce Up your Website with 3D Graphics'
+title: "LP x CSSS: Project Hub ft. Spruce Up your Website with 3D Graphics"
 date: 2019-03-14
 start_date: 2019-03-16 15:30:00
 end_date: 2019-03-16 18:30:00

@@ -12,14 +12,14 @@ Attention all guitar hero enthusiasts! As part of Science Week 2008 your CSSS is
 
 [Facebook Event](http://ubc.facebook.com/event.php?eid=8453323361)
 
-When: 
+When:
 
 Tuesday, January 29, 2008 - 16:00 to 19:00
 
-Where: 
+Where:
 
 Abdul Ladha Science Student Centre
 
-Tags: 
+Tags:
 
 [Social](/social)

@@ -29,14 +29,14 @@ Networking with some local members of the Eclipse community will follow.
 
 Food will be served.
 
-When: 
+When:
 
 Tuesday, March 3, 2009 - 17:00 to 18:30
 
-Where: 
+Where:
 
 DMP 201
 
-Tags: 
+Tags:
 
 [Career](/career)

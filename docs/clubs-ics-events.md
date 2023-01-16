@@ -1,9 +1,10 @@
 # How can a club add their ICS events to `/clubs`?
 
 ## Background
+
 Our [clubs page](https://ubccsss.org/about/clubs/) has a club calendar. Its intention is to collect all CS-related events at UBC and to be a central events calendar for all CS-related clubs.
 
-Under the hood, it uses [open-web-calendar.herokuapp.com](https://open-web-calendar.herokuapp.com/) to display events. It automatically pulls from our own events, hosted at [/events/index.ics](https://ubccsss.org/events/index.ics), which is itself automatically generated when we add new events to the website (see main repository README).
+Under the hood, it uses [open-web-calendar](https://open-web-calendar.hosted.quelltext.eu/) to display events. It automatically pulls from our own events, hosted at [/events/index.ics](https://ubccsss.org/events/index.ics), which is itself automatically generated when we add new events to the website (see main repository README).
 
 Other club executives can request that their club events be added as well by contacting a CSSS exec. Please ask them to provide a hosted ICS file (i.e. Google Calendar or Outlook) so events are automatically updated.
 
@@ -46,10 +47,11 @@ Similar instructions can be followed if your club uses Outlook.
 ![Getting the Outlook ICS file](./images/clubs-calendar-outlook-ics-link.png)
 
 ## Adding an ICS file to the shortcode
+
 Once a hosted ICS file has been provided, edit [content/about/clubs.md in this repo](https://github.com/ubccsss/ubccsss.org/blob/master/content/about/clubs.md) to include their ICS link in the shortcode at the bottom of the file.
 
 For example, to add "https://example.com/example.ics" to the club calendar:
+
 ```
 {{< club-calendar "https://ubccsss.org/events/index.ics" "https://example.com/example.ics" >}}
 ```
-

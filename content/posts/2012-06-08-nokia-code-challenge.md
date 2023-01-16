@@ -11,14 +11,14 @@ tags: [Social]
 
 Nokia Developer is holding the `Ready.Set () {Code}` Challenge hackathon—write an app in a day! There are prizes for the best apps, and entry is free, so if you’re up for a fun day of hacking, [register early](https://bhcvancouver-eorg.eventbrite.com/).
 
-When: 
+When:
 
 Friday, June 15, 2012 - 08:30 to 22:00
 
-Where: 
+Where:
 
 SFU Segal School of Business, 500 Granville Street
 
-Tags: 
+Tags:
 
 [Social](/social)

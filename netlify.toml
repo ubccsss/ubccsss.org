@@ -11,3 +11,9 @@ HUGO_ENV = "production"
 
 [context.deploy-preview.environment]
 HUGO_ENV = "preview"
+
+[[redirects]]
+from = "/events/2023/01/19/technical-career-fair/"
+to = "/tcf"
+status = 302
+

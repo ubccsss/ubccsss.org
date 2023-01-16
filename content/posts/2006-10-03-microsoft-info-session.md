@@ -21,6 +21,7 @@ categories: [Career]
 There will be a **Microsoft** Info Session this Friday. Come out and check it out, free Pizza and pop will be provided as well as lots of prize giveaways!
 
 Presenters include:
+
 - Jono Luk (Program Manager in MS Office)
 - Steve Herbert (Software Design Engineer in Test for SQL Databases),
 - Stephanie Cheung (Program Manager on Vista), Terry Chen (Software Design
@@ -31,10 +32,10 @@ In addition there will be a slew of UBC students there who interned at Microsoft
 this past summer who will stay after the presentation to help answer questions
 people may have about msft and/or the internship program.
 
-When: 
+When:
 
 Friday, October 6, 2006 - 17:30 to 19:30
 
-Where: 
+Where:
 
 Dempster 310

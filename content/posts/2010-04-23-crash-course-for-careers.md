@@ -20,14 +20,14 @@ $15 for registrations on or before April 30; $25 after.
 
 NOTE: This event sold out last year! Register ASAP if interested. E-mail [Diane Johnson](/cdn-cgi/l/email-protection#3e5a575f505b5451567e5d4d104b5c5d105d5f) if you've got additional questions.
 
-When: 
+When:
 
 Thursday, May 6, 2010 - 08:30 to 17:00
 
-Where: 
+Where:
 
 Lillooet Room, Irving K. Barber Learning Centre
 
-Tags: 
+Tags:
 
 [Career](/career)

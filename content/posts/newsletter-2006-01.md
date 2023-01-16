@@ -18,7 +18,8 @@ Welcome everyone to term 2! With various speakers, a LAN party, and our annual c
 6.  [IBM Extreme Blue Internship Program](/newsletters/2006/01#6)
 7.  [Showcase](/newsletters/2006/01#7)
 
-___
+---
+
 **Research In Motion Info Session**
 
 _When: Wednesday Jan. 18 \
@@ -30,7 +31,8 @@ RIM Info Session for New Grad Sales Positions: 5:00-6:30pm_
 
 The RIM Campus Recruitment team is coming to UBC on Wed, Jan. 18, 2006! **Locations still need to be confirmed.**
 
-___
+---
+
 **CS Industry Panel**
 
 _When: Thursday Jan. 19 \
@@ -41,7 +43,8 @@ How do you approach your work search? Rather than blindly using Google, get some
 
 The panel will begin at 5pm in DMP 110 and will be followed with a Networking event combined with a reception from 6:15 to 7pm in the 7th floor lounge, ICICS/CS X736. Hope to see you there!
 
-___
+---
+
 **CSSS Games and Movie Night**
 
 _When: Friday Jan. 20, 5:00-10:00pm \
@@ -56,7 +59,8 @@ Expect there to be satisfying nourishment (for a very reasonable price) and a br
 
 This round we'll be showing the movie **Primer**. _"Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention."_ We'll also have an xbox 360 and xbox for flashy gaming and 8-player support. But we won't be doing a computer LAN this round to make things simpler. Still, maybe some next generation gaming on the projectors in DEMP 110 will tickle you the right way. We have lots of pop & chips. Plus, we'll do a group pizza order as usual.
 
-___
+---
+
 **UBC Tech Career Fair**
 
 _When: Thursday Jan. 26, 10:00am-4:00pm \
@@ -68,12 +72,14 @@ If you're graduating, you have no excuse not to come. Even if you're an undergra
 
 Careerfair news will be posted as it arrives. Info session schedules will be posted in the next few weeks or so, as well as the floor plan at the [main page](https://cf06.thecube.ca/) for the career fair.
 
-___
+---
+
 **Clothing Reminder**
 
 For those who have yet to pick up their CS clothing, drop by the CSSS office (X139) with your order receipt between 10am-4pm.
 
-___
+---
+
 **IBM Extreme Blue Internship Program**
 
 The Extreme Blue program is IBM's premier internship for top-notch students pursuing software development and MBA degrees. If you're chosen for the program, you become part of a team working in one of a dozen Extreme Blue labs around the world. Your team's challenge: develop the technology and business plan for a new product or service that addresses an existing market challenge. Through the program, interns have submitted more than 270 patent disclosures and contributed six projects to the open source community, two for alphaWorks, and helped create solutions for key clients and bring-to-market the next generation of IBM products. Not bad for just 12 weeks.
@@ -82,7 +88,8 @@ Unlike other intern programs that may relegate you to work on outdated technolog
 
 [http://www.ibm.com/employment/us/extremeblue/](https://www.ibm.com/employment/us/extremeblue/)
 
-___
+---
+
 **Showcase**
 
 Do you have a cool project or website that you've designed? Want some exposure for one of your sites? The CSSS website has a new forum just for that purpose! Post your stuff (editor’s note: now closed) and let everyone know about it!

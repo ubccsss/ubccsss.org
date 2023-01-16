@@ -17,9 +17,9 @@ The Early Career Masters (ECM) is a one-year master's degree offered by the Robe
 
 Who should consider the ECM?
 
-*   4th-year students and recent university graduates of non-business programs
-*   Candidates with limited work experience seeking to complement their undergraduate concentration with applied, relevant business skills
-*   Individuals seeking to advance into entry-level management jobs/leadership positions
+- 4th-year students and recent university graduates of non-business programs
+- Candidates with limited work experience seeking to complement their undergraduate concentration with applied, relevant business skills
+- Individuals seeking to advance into entry-level management jobs/leadership positions
 
 Learn More
 
@@ -28,14 +28,14 @@ Early Career Masters 101.
 
 Please RSVP using our [online form](https://secure.sauder.ubc.ca/mba/info_session/index.cfm?progid=ECM).
 
-When: 
+When:
 
 Saturday, March 21, 2009 - 14:00 to 16:00
 
-Where: 
+Where:
 
 UBC Robson Square, C300 Theatre, 800 Robson Street
 
-Tags: 
+Tags:
 
 [Career](/career)

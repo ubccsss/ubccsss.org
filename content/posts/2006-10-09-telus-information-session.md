@@ -29,18 +29,18 @@ Need some extra reasons to check it out? How about alumni that have joined our n
 
 For more details, see the attached poster.
 
-When: 
+When:
 
 Wednesday, October 11, 2006 - 17:30 to 19:30
 
-Where: 
+Where:
 
 Wesbrook 100 (the white building across UBC bookstore)
 
-File Attachments: 
+File Attachments:
 
- ![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [TELUS\_info\_session.pdf](https://ubccsss.org/files/TELUS_info_session.pdf)
+![PDF icon](/modules/file/icons/application-pdf.svg "application/pdf") [TELUS_info_session.pdf](https://ubccsss.org/files/TELUS_info_session.pdf)
 
-Tags: 
+Tags:
 
 [Career](/career)

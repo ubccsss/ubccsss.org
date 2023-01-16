@@ -17,16 +17,16 @@ Hi Everyone, \
 My name is Vlad Zaharia and I am running for CSSS President. \
 Why should you vote for me?
 
-*   2 Years experience in the CSSS as a Social Coordinator, Publications Officer, Sites of Change member, and member in Department Committees (Computing and Outreach).
-*   Microsoft Student Partner for Term One, where I collaborated with Microsoft to promote products, services, and events throughout the campus.
-*   Volunteered in various CSSS and Department events, including Movie Nights, LAN Parties, and Tech Trek.
+- 2 Years experience in the CSSS as a Social Coordinator, Publications Officer, Sites of Change member, and member in Department Committees (Computing and Outreach).
+- Microsoft Student Partner for Term One, where I collaborated with Microsoft to promote products, services, and events throughout the campus.
+- Volunteered in various CSSS and Department events, including Movie Nights, LAN Parties, and Tech Trek.
 
 What will I do?
 
-*   Ensure that our various events (Food Sales, Game Nights, Boat Cruise, etc) continue to be a success.
-*   Work with the Industry to ensure that our career fair is highly attended and successful. Continue working with the department and industry to bring events that benefit students, such as more industry panels and information sessions.
-*   Collaborate with the industry to allow students to have tours of the work environments at different Vancouver-based companies.
-*   Organize events that increase the exposure of the society, and attract new members.
+- Ensure that our various events (Food Sales, Game Nights, Boat Cruise, etc) continue to be a success.
+- Work with the Industry to ensure that our career fair is highly attended and successful. Continue working with the department and industry to bring events that benefit students, such as more industry panels and information sessions.
+- Collaborate with the industry to allow students to have tours of the work environments at different Vancouver-based companies.
+- Organize events that increase the exposure of the society, and attract new members.
 
 I want to improve the society, but I can't do this without your votes. So make sure to vote for me, Vlad Zaharia, for CSSS President.
 
@@ -52,10 +52,10 @@ My name is Kerry, and I’m running for VP Internal for the CSSS. I’ve been in
 
 If elected, I will continue to keep the Cube’s services available to you, including:
 
-*   Keeping the Cube open as long as we can
-*   Keeping the Cube stocked with food and drinks, sold to you as cheap as possible
-*   Continuing locker services
-*   And more!
+- Keeping the Cube open as long as we can
+- Keeping the Cube stocked with food and drinks, sold to you as cheap as possible
+- Continuing locker services
+- And more!
 
 I will strive to make the Cube more accessible to everyone, as a place where anyone can come in and meet new people, have fun, get help with schoolwork and feel welcome. Have any suggestions on what we should sell, or how we could improve your experience with the CSSS? I’m all ears, and given the time I spend in the Cube, it will be very easy for you to reach me.
 
@@ -65,15 +65,15 @@ Vice President, Social: Omri Wallach
 
 Hi, my name is Omri Wallach and I'm running for Vice President - Social of the Computer Science Society. Last year I transferred to UBC from Western Ontario, and I tried to get involved right away. I am currently a Social Coordinator for the Computer Science Society, and I'm hoping to be elected to the Social position to continue and improve upon what I've learned while being here. I want to continue having events such as barbecues and pizza sales, as it is always nice to provide cheap, tasty food to Comp. Sci students. As well, the board game nights, LAN sessions, dance party with Cogs, and any other events represent a fun way to relax and socialize outside of class. I know I can keep the fun events going and try to add my own.
 
-When: 
+When:
 
 Tuesday, March 22, 2011 - 18:58 to Wednesday, March 23, 2011 - 18:58
 
-Where: 
+Where:
 
 DMP foyer
 
-Tags: 
+Tags:
 
 [Club Activities](/club)
 

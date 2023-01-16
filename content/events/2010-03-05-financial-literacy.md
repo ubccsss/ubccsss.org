@@ -13,14 +13,14 @@ raw_location: Angus 426
 
 Advisors from Student Financial Aid and Awards will discuss the basics of budgets, credit ratings, managing debt and how to “make ends meet” after graduation. Additional information and registration at [https://secure.students.ubc.ca/workshops/careers.cfm](https://secure.students.ubc.ca/workshops/careers.cfm).
 
-When: 
+When:
 
 Wednesday, March 17, 2010 - 12:00 to 13:00
 
-Where: 
+Where:
 
 Angus 426
 
-Tags: 
+Tags:
 
 [Career](/career)

@@ -3,11 +3,13 @@
   <head>
     {{ partial "head-meta" . }}
 
+
     <link rel="canonical" href="{{ .Permalink }}" />
 
     <title>
-      {{ block "title" . }} {{ .Title}}{{ if ne .Title .Site.Title }} | {{
-      .Site.Title }}{{ end }} {{ end }}
+      {{ block "title" . }}
+        {{ .Title }}{{ if ne .Title .Site.Title }}| {{ .Site.Title }}{{ end }}
+      {{ end }}
     </title>
 
     <!-- Bootstrap CSS -->
@@ -16,40 +18,44 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.2/css/bootstrap.min.css"
       integrity="sha512-CpIKUSyh9QX2+zSdfGP+eWLx23C8Dj9/XmHjZY2uDtfkdLGo0uY12jgcnkX9vXOgYajEKb/jiw67EYm+kBf+6g=="
       crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
+      referrerpolicy="no-referrer" />
 
-    <link href='{{ "css/style.css" | relURL }}' rel="stylesheet" />
+    <link href="{{ "css/style.css" | relURL }}" rel="stylesheet" />
 
     {{ range .AlternativeOutputFormats -}}
-    <link
-      rel="{{ .Rel }}"
-      type="{{ .MediaType.Type }}"
-      href="{{ .Permalink | safeURL }}"
-    />
-    {{ end -}} {{ template "_internal/google_analytics_async.html" . }} {{
-    partial "head-custom.html" . }}
+      <link
+        rel="{{ .Rel }}"
+        type="{{ .MediaType.Type }}"
+        href="{{ .Permalink | safeURL }}" />
+    {{ end -}}
+    {{ template "_internal/google_analytics_async.html" . }}
+    {{ partial "head-custom.html" . }}
   </head>
   <body>
-    {{ block "header" . }} {{ partial "header" . }} {{ end }} {{ partial
-    "newsletter" }} {{ block "body" . }}
-    <div class="container">
-      <div class="row">
-        <div class="col-12 col-lg-8 blog-main">
-          {{ block "main" . }} {{ end }}
-        </div>
+    {{ block "header" . }}{{ partial "header" . }}{{ end }}
+    {{ partial
+      "newsletter"
+    }}
+    {{ block "body" . }}
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-8 blog-main">
+            {{ block "main" . }}{{ end }}
+          </div>
 
-        {{ partial "sidebar.html" . }}
+          {{ partial "sidebar.html" . }}
+        </div>
       </div>
-    </div>
-    {{ end }} {{ block "footer" . }} {{ partial "footer" . }} {{ end }}
+    {{ end }}
+
+    {{ block "footer" . }}{{ partial "footer" . }}{{ end }}
+
 
     <!-- Bootstrap and Popper -->
-    <script 
-      src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.2/js/bootstrap.bundle.min.js" 
-      integrity="sha512-BOsvKbLb0dB1IVplOL9ptU1EYA+LuCKEluZWRUYG73hxqNBU85JBIBhPGwhQl7O633KtkjMv8lvxZcWP+N3V3w==" 
-      crossorigin="anonymous" 
-      referrerpolicy="no-referrer"
-    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.2/js/bootstrap.bundle.min.js"
+      integrity="sha512-BOsvKbLb0dB1IVplOL9ptU1EYA+LuCKEluZWRUYG73hxqNBU85JBIBhPGwhQl7O633KtkjMv8lvxZcWP+N3V3w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"></script>
   </body>
 </html>

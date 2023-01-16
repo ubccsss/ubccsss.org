@@ -26,14 +26,14 @@ Remember to plan ahead for a safe ride home... use your U-Pass! You've already p
 
 See you there!
 
-When: 
+When:
 
 Friday, February 3, 2006 - 15:00 to 19:00
 
-Where: 
+Where:
 
 CS Ugrad Lounge
 
-Tags: 
+Tags:
 
 [Social](/social)

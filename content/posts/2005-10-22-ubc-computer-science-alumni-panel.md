@@ -23,14 +23,14 @@ Find out where a computer science degree can take you and make the connections t
 
 You can learn more about the panel series at [http://www.cs.ubc.ca/people/alumni/](http://www.cs.ubc.ca/people/alumni/) (click "2005/2006 Alumni Panel Series") RSVP Appreciated. Please email [\[email protected\]](/cdn-cgi/l/email-protection#e4898a83a48797ca918687ca8785) or contact Michele at 604-822-5693.
 
-When: 
+When:
 
 Saturday, October 1, 2005 - 12:00 to 14:00
 
-Where: 
+Where:
 
 Dempster Room 310
 
-Tags: 
+Tags:
 
 [Career](/career)

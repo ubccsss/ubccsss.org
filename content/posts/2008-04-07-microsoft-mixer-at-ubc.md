@@ -29,14 +29,14 @@ Hope to see you all there!
 Charles \
 Microsoft Rep
 
-When: 
+When:
 
 Thursday, April 10, 2008 - 18:00 to 20:00
 
-Where: 
+Where:
 
 DMP 110
 
-Tags: 
+Tags:
 
 [Social](/social)
