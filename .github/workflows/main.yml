@@ -1,8 +1,13 @@
 name: Prettifier
 
 on:
-  pull_request:
-    branches: [master]
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
   prettier:
@@ -12,6 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
           fetch-depth: 0
 
@@ -21,4 +27,3 @@ jobs:
           prettier_options: --write **/*.+(js|html|css|json|md|yaml|yml)
           only_changed: True
           prettier_plugins: prettier-plugin-go-template
-          commit_message: "Prettified code"
