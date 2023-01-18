@@ -133,7 +133,7 @@
           {{ len (where .Pages ".Params.type" "tcf") }} Companies Attending
         </h1>
         <div class="row pt-4">
-          {{ range first 13 (sort .Pages) }}
+          {{ range first 12 (sort (where .Pages ".Params.type" "tcf")) }}
             {{ if .Params.imageLink }}
               <div class="col-lg-3 col-sm-12 col-md-6 mt-3">
                 <div class="card w-100 mt-3 h-100">
