@@ -1,3 +1,3 @@
 ---
-layout: tcf-day-of 
+layout: tcf-day-of
 ---

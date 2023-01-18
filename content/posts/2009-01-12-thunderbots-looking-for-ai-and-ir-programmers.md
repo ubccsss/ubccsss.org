@@ -18,4 +18,4 @@ Our AI team currently is rather small and slightly inexperienced (compared to ou
 
 The time commitment is varried on how well the person can delegate tasks and how good the person is with programming AI. There are meetings every Saturday, but there are options for the software teams (AI and IR) to meet on seperately.
 
-If you're interested, please contact Amanda Li at [`<[email protected]>`](/cdn-cgi/l/email-protection#07666a666963662964757e7473666b296b6e47606a666e6b2964686a).
+If you're interested, please contact Amanda Li at [`<[email protected]>`](/cdn-cgi/l/email-protection#07666a666963662964757e7473666b296b6e47606a666e6b2964686a).
