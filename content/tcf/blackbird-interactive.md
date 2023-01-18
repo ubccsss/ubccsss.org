@@ -1,6 +1,6 @@
 ---
 layout: tcf-company
-title: Blackbird Interactive 
+title: Blackbird Interactive
 link: https://blackbirdinteractive.com/careers-2/
 short_bio: >
   Blackbird Interactive (BBI) is building a safe, stable home where the best talent in the industry can find long-term careers, experiment, and keep growing their abilities – while working on a wide range of projects, encompassing world-class IPs as well as our own creations across multiple genres. <br/><br/>
