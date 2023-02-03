@@ -1,4 +1,13 @@
 reviews:
+  - author: anon
+    authorLink: 
+    date: 2023-02-03
+    review: |
+      Very useful code to get you a job in the industry. Helps you in almost all Data Structure and Algorithm questions.
+      Please start your assignments on time.
+    difficulty: 4.5
+    quality: 5
+    sessionTaken: 2022W1
   - author: Michael DeMarco
     authorLink: https://michaeldemar.co
     date: 2022-10-25
