@@ -1,4 +1,12 @@
 reviews:
+  - author: cpscstuednt
+    authorLink: 
+    date: 2023-02-03
+    review: |
+      Great course, even though it is not required for a major, I would highly recommend it. Very in demand skills and applicable content. 
+    difficulty: 3.5
+    quality: 5
+    sessionTaken: 2023W2
   - author: /u/creamenator
     authorLink: https://www.reddit.com/r/UBC/comments/1zo80v/recommended_300level_cpsc_course/cfvk5zf
     date: 2014-03-05
