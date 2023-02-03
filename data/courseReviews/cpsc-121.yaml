@@ -1,4 +1,12 @@
 reviews:
+  - author: Anonymous cs student
+    authorLink: 
+    date: 2023-02-03
+    review: |
+      Decent course but Karina is a HORRIBLE instructor.
+    difficulty: 1
+    quality: 1
+    sessionTaken: 2022W1
   - author: Stephanie Ho
     authorLink:
     date: 2022-10-25
