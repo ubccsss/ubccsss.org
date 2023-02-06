@@ -10,7 +10,7 @@ reviews:
     quality: 2
     sessionTaken: 2022W1
   - author: anonymous
-    authorLink: 
+    authorLink:
     date: 2023-02-03
     review: |
       Very length and time consuming project. Teaches you a great deal about software construction and various design concepts for building maintainable systems. Make sure to start working on the project deadlines early!

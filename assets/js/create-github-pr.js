@@ -84,7 +84,7 @@ const createGithubPR = async () => {
           difficulty: difficulty,
           quality: quality,
           sessionTaken: sessionTaken,
-          email: email,
+          email: email
         }
       })
     });

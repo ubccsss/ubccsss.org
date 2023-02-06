@@ -130,7 +130,8 @@
     <div class="background-blue">
       <div class="container" id="companies">
         <h1 class="text-center mb-0">
-          {{ len (where .Pages ".Params.layout" "tcf-company") }} Companies Attending
+          {{ len (where .Pages ".Params.layout" "tcf-company") }} Companies
+          Attending
         </h1>
         <div class="row pt-4">
           {{ range first 12 (sort (where .Pages ".Params.layout" "tcf-company")) }}
