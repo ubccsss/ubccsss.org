@@ -57,6 +57,7 @@ const createGithubPR = async () => {
   const quality = document.getElementById("github-pr-quality").value;
   const sessionTaken =
     document.getElementById("github-pr-year-taken").value + document.getElementById("github-pr-session-taken").value;
+  const email = document.getElementById("github-pr-raffle-email").value;
 
   // check if reCAPTCHA has been completed
   const token = grecaptcha.getResponse();
@@ -82,7 +83,8 @@ const createGithubPR = async () => {
           reference: reference,
           difficulty: difficulty,
           quality: quality,
-          sessionTaken: sessionTaken
+          sessionTaken: sessionTaken,
+          email: email,
         }
       })
     });
