@@ -17,5 +17,7 @@ start_date: 2023-02-06 12:00:00
 end_date: 2023-02-13 12:00:00
 ---
 
+![](/files/2023-02-06-a4_poster.png)
+
 Stay cozy and stylish with Computer Science hoodies! Show off your love for UBC Computer Science with these high-quality hoodies, now available at a discounted price of $40! Hurry and grab yours before the offer ends on 13th February (or while stocks last) at the Cube (ICCS 021). Don't miss out on this limited time offer!
 
