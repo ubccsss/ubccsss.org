@@ -18,6 +18,10 @@ end_date: 2023-01-19 16:00:00
 
 ![](/files/Technical-Career-Fair-2023.png)
 
+[Click here to be redirected to our TCF 2023 site.](/tcf2023)
+
 <script>
-window.location.href = "https://ubccsss.org/tcf";
+if (window.location.pathname.includes("/events/2023/01/19/technical-career-fair/")) {
+	window.location.href = "https://ubccsss.org/tcf";
+}
 </script>
