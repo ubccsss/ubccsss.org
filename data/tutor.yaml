@@ -107,7 +107,7 @@
 
 - name: Daocheng Wang
   lastmod: 2023-02-04
-  courses: ["CPSC110", "CPSC121","CPSC210"]
+  courses: ["CPSC110", "CPSC121", "CPSC210"]
   email: wangdc2010@gmail.com
   rates: $60-70/hr
   bio: Tech Lead @ one of FAANG companies.
@@ -210,16 +210,7 @@
 - name: Jacob Hotz
   lastmod: 2022-09-17
   courses:
-    [
-      CPSC110,
-      CPSC121,
-      CPSC210,
-      CPSC213,
-      CPSC213,
-      CPSC103,
-      CPSC107,
-      CPSC313
-    ]
+    [CPSC110, CPSC121, CPSC210, CPSC213, CPSC213, CPSC103, CPSC107, CPSC313]
   email: hotzjacobb@yahoo.com
   bio: |
     Experienced TA (have previously TA'd both 110 and 121) in my final year of UBC CS with a passion for teaching and learning.
@@ -278,7 +269,7 @@
 
 - name: Jay Ho
   lastmod: 2023-02-04
-  courses: ["CPSC210","CPSC304","CPSC310"]
+  courses: ["CPSC210", "CPSC304", "CPSC310"]
   email: jayhomn@gmail.com
   bio: |
     I am a fourth year computer science student with 4 terms of TA experience for CPSC 210 and CPSC 213. In addition, I have achieved these grades for the three respective courses I'm tutoring for:
@@ -302,7 +293,18 @@
 
 - name: Lewis Nicolle
   lastmod: 2023-02-04
-  courses: [CPSC210, CPSC213, CPSC221, CPSC310, CPSC313, CPSC314, CPSC317, CPSC320, CPSC418]
+  courses:
+    [
+      CPSC210,
+      CPSC213,
+      CPSC221,
+      CPSC310,
+      CPSC313,
+      CPSC314,
+      CPSC317,
+      CPSC320,
+      CPSC418
+    ]
   email: musicaljelly@gmail.com
   bio: |
     Graduated from UBC with a Bachelor's in CS in 2017. Have worked in the game industry for 5+ years, at companies like Capcom, EA, and Relic Entertainment. I specialize in graphics/rendering (D3D11/12, HLSL, PBR), and in low-level systems programming (C/C++/assembly, optimization, Windows API). Beyond coursework, I can also tutor in game and game engine programming, and help with interview prep for game companies.

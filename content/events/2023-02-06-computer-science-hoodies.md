@@ -21,3 +21,4 @@ end_date: 2023-02-13 12:00:00
 
 Stay cozy and stylish with Computer Science hoodies! Show off your love for UBC Computer Science with these high-quality hoodies, now available at a discounted price of $40! Hurry and grab yours before the offer ends on 13th February (or while stocks last) at the Cube (ICCS 021). Don't miss out on this limited time offer!
 
+Check out our [course reviews](https://ubccsss.org/services/courses/) page too! Each course review is an entry to win 50% off a CSSS hoodie ($22.50 value) or one of five $10 AMS gift cards! Maximum five entries per person. Raffle will take place at the end of the 2022W2 term.
