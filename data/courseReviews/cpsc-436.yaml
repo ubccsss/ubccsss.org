@@ -1,0 +1,11 @@
+reviews:
+  - author: yanyuz
+    authorLink: 
+    date: 2023-02-13
+    review: |
+      CPSC436A OS DESIGN & IMPL
+      Excellent course overall. I consider this is one of the few courses I have ever taken at UBC where my tuition actually pays off. 
+      You will obtain hands-on experience developing an Operating System in this course, also you will find out how little and shallow you understand OS from courses like 313. Here is the course website https://www.students.cs.ubc.ca/~cs-436a/.
+    difficulty: 5
+    quality: 5
+    sessionTaken: 2022W1
