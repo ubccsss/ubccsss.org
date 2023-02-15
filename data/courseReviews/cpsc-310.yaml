@@ -1,4 +1,12 @@
 reviews:
+  - author: Kristen F
+    authorLink: 
+    date: 2023-02-15
+    review: |
+      Course was very much split into lecture content and project content. Lecture content was focused on Agile concepts and general industry terms and ideas, and was not difficult. Project had a quite intensive workload, but the end result of a full stack project is quite good on a resume. Personally found that the project coding was not extremely difficult, just time-consuming, and also required learning Promises.
+    difficulty: 4
+    quality: 4.5
+    sessionTaken: 2020W1
   - author: Andy Liang
     authorLink:
     date: 2023-02-05
