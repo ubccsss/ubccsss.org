@@ -1,0 +1,9 @@
+reviews:
+  - author: KF
+    authorLink: 
+    date: 2023-02-15
+    review: |
+      Took this course with Dinesh Pai. If you've done matrix algebra, you'll be fine in terms of the math requirement for this course. Assignments were interesting but could be time-consuming in debugging. Good if you like JavaScript. Lectures focused on concepts behind computer graphics, shaders, etc, but did not help as much with the coding portion. Had to look online for learning a lot of Three.js. Almost half the midterm questions were the same as the ones in the quizzes / practice exams. Questions were also reused in final. Overall interesting course.
+    difficulty: 3.5
+    quality: 3.5
+    sessionTaken: 2021W1
