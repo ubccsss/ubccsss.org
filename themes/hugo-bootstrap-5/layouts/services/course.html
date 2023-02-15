@@ -17,11 +17,8 @@
     <div class="card" style="background-color: #fcfcfc">
       <div class="card-body">
         {{ with .Description }}
+          <h3>Course Description</h3>
           <p class="card-text">
-            <em>
-              <b>Course description</b>
-            </em>
-            <br />
             {{ . }}
           </p>
         {{ end }}
@@ -59,23 +56,32 @@
             {{ end }}
           </div>
         {{ end }}
-        <a class="btn btn-primary" href="#review-div" role="button"
-          >Write your own review below!</a
-        >
+        <a class="btn btn-primary" href="#review-div" role="button">
+            Scroll to see reviews
+        </a>
       </div>
     </div>
-    {{ if (index $.Site.Data.courseReviews .File.ContentBaseName) }}
-      {{ with (index $.Site.Data.courseReviews .File.ContentBaseName) }}
+    <br style="margin: 2rem 0" />
+    <div class="card">
+      <div class="card-body">
+        {{ partial "related-form" . }}
+      </div>
+    </div>
+    <hr style="margin: 1.5rem 0" />
+    <div id="review-div" style="scroll-margin-top: 2rem">
+        {{ if (index $.Site.Data.courseReviews .File.ContentBaseName) }}
+        {{ with (index $.Site.Data.courseReviews .File.ContentBaseName) }}
         {{ range . }}
-          {{ partial "course/review" . }}
+        {{ partial "course/review" . }}
         {{ end }}
-      {{ end }}
-    {{ else }}
-      <br />
-      No reviews yet. Be the first to write one!
-      <br />
-      <br />
-    {{ end }}
+        {{ end }}
+        {{ else }}
+        <br />
+        No reviews yet. Be the first to write one!
+        <br />
+        <br />
+        {{ end }}
+    </div>
     {{ if .IsTranslated }}
       <h4>{{ i18n "translations" }}</h4>
       <ul>
@@ -88,6 +94,5 @@
     {{ end }}
     {{ partial "course/grades" . }}
 
-    {{ partial "related-form" . }}
   </article>
 {{ end }}
