@@ -1,6 +1,7 @@
 name: Prettifier
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
@@ -20,10 +21,12 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
           fetch-depth: 0
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Prettify code
         uses: creyD/prettier_action@v4.2
         with:
-          prettier_options: --write **/*.+(js|html|css|json|md|yaml|yml)
-          only_changed: True
+          prettier_options: --write "**/*.+(js|html|css|json|md|yaml|yml)"
           prettier_plugins: prettier-plugin-go-template
+          github_token: ${{ secrets.GH_TOKEN }}
+          only_changed: True
