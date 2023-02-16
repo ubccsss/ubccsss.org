@@ -3,6 +3,10 @@ title: "Course Reviews Database"
 cascade:
   layout: course
 layout: courses
+images:
+  - /files/course-reviews.png
+location: 
+  name: Write a course review!
 ---
 
 <div class="card mb-3">

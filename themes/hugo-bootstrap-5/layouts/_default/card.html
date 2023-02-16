@@ -10,11 +10,11 @@
       <h5 class="card-title">
         <a class="card-link" href="{{ .RelPermalink }}">{{ .Title }}</a>
       </h5>
-      <p class="card-text mb-1 text-muted">
+      {{if not (eq .Params.layout "courses")}}<p class="card-text mb-1 text-muted">
         {{ dateFormat "Mon Jan 2, 2006" $startDate }}
-      </p>
+      </p>{{end}}
       {{ with .Params.location }}
-        <p class="card-text small mb-auto">{{ .name }}</p>
+        <p class="card-text mb-auto text-muted">{{ .name }}</p>
       {{ end }}
     </div>
   </div>
