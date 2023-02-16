@@ -57,7 +57,7 @@
           </div>
         {{ end }}
         <a class="btn btn-primary" href="#review-div" role="button">
-            Scroll to see reviews
+          Scroll to see reviews
         </a>
       </div>
     </div>
@@ -69,18 +69,18 @@
     </div>
     <hr style="margin: 1.5rem 0" />
     <div id="review-div" style="scroll-margin-top: 2rem">
-        {{ if (index $.Site.Data.courseReviews .File.ContentBaseName) }}
+      {{ if (index $.Site.Data.courseReviews .File.ContentBaseName) }}
         {{ with (index $.Site.Data.courseReviews .File.ContentBaseName) }}
-        {{ range . }}
-        {{ partial "course/review" . }}
+          {{ range . }}
+            {{ partial "course/review" . }}
+          {{ end }}
         {{ end }}
-        {{ end }}
-        {{ else }}
+      {{ else }}
         <br />
         No reviews yet. Be the first to write one!
         <br />
         <br />
-        {{ end }}
+      {{ end }}
     </div>
     {{ if .IsTranslated }}
       <h4>{{ i18n "translations" }}</h4>
@@ -93,6 +93,5 @@
       </ul>
     {{ end }}
     {{ partial "course/grades" . }}
-
   </article>
 {{ end }}
