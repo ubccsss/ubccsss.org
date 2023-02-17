@@ -56,7 +56,7 @@
             {{ end }}
           </div>
         {{ end }}
-        <a class="btn btn-primary" href="#review-div" role="button">
+        <a class="btn btn-primary" href="#courses-div" role="button">
           Scroll to see reviews
         </a>
       </div>
@@ -68,7 +68,7 @@
       </div>
     </div>
     <hr style="margin: 1.5rem 0" />
-    <div id="review-div" style="scroll-margin-top: 2rem">
+    <div id="courses-div" style="scroll-margin-top: 2rem">
       {{ if (index $.Site.Data.courseReviews .File.ContentBaseName) }}
         {{ with (index $.Site.Data.courseReviews .File.ContentBaseName) }}
           {{ range . }}
