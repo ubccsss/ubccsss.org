@@ -1,14 +1,13 @@
 {{ define "body" }}
   <div class="container-fluid">
-    {{ $coursesPage := slice (.Site.GetPage "/services/courses/") }}
-    {{ $recentEvents := (.Site.GetPage "/events").Pages | first 3 }}
+    {{ $recentEvents := (.Site.GetPage "/events").Pages | first 4 }}
     <div
       class="row justify-content-center pt-3 mb-lg-5 mb-3 text-center">
       <div class="w-75 col-lg-10 title">
         <h1 class="mb-lg-4">{{ .Title }}</h1>
         <p>{{ .Content }}</p>
       </div>
-<div class="card w-50">
+<div class="card w-50 mt-2">
         <div class="card-body">
             <p><span class="badge bg-primary me-1">Course reviews</span>
             Get ready to have access to comprehensive and insightful evaluations of each CPSC course at your fingertips. Explore historical averages, average difficulty, and course quality ratings to make informed decisions about your future course selections, all in one page! Join the discussion and <a href="https://ubccsss.org/services/courses/">leave your reviews today</a>!
@@ -19,12 +18,11 @@
     <hr class="w-75 mx-auto" />
     <div class="row justify-content-center mt-3 py-lg-4">
       <div class="col-lg-8 text-center large-text">
-        <h1>CSSS Updates</h1>
+        <h1>Recent Events</h1>
       </div>
     </div>
     <div
       class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 px-5 pt-lg-3 pt-3 g-4 mb-5">
-      {{range $coursesPage}}{{ .Render "card" }}{{end}}
       {{ range $recentEvents }}{{ .Render "card" }}{{ end }}
     </div>
     <hr class="w-75 mx-auto" />
