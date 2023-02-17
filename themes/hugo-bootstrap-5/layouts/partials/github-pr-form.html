@@ -2,19 +2,21 @@
 {{ $course := replace (upper .File.ContentBaseName) "-" " " }}
 
 
-<div>
+<div id="review-div">
   <h3>Add a Review for this course</h3>
+  <p class="mb-3">
   <small class="text-muted">
-    <b>Please ensure that your review is respectful and constructive.</b> Read
-    about UBC's aim for creating a safe and inclusive learning environment
-    <a
-      href="https://hr.ubc.ca/working-ubc/respectful-environment"
-      target="_blank"
-      >here.</a
-    >
-    These reviews may take several days to process and will be scanned for
-    inappropriate or malicious content.
+      <b>Please ensure that your review is respectful and constructive.</b> Read
+      about UBC's aim for creating a safe and inclusive learning environment
+      <a
+              href="https://hr.ubc.ca/working-ubc/respectful-environment"
+              target="_blank"
+              >here.</a
+          >
+          These reviews may take several days to process and will be scanned for
+          inappropriate or malicious content.
   </small>
+  </p>
   <form
     id="github-pr-form"
     data-course="{{ $course }}"
