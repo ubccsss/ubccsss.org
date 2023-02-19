@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
       - name: Prettify code
-        uses: creyD/prettier_action@v4.2
+        uses: creyD/prettier_action@v4.3
         with:
           prettier_options: --write **/*.+(js|html|css|json|md|yaml|yml)
           prettier_plugins: prettier-plugin-go-template
