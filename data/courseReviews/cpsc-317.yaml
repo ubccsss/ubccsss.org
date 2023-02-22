@@ -1,4 +1,18 @@
 reviews:
+  - author: ayylmao
+    authorLink: 
+    date: 2023-02-22
+    review: |
+      Like all CPSC courses, the material is quite dense and the assignments are heavy. I took this course with Norm / Aastha and both are very competent lecturers who clearly spend a lot of time helping students. The piazza helpfulness rate is outstanding.
+      
+      When I took this course it had 5 quizzes, 6% each, for a total of 30%, instead of midterms. The quizzes are close-book, biweekly and proctored (1 hour long). They do a good job of making you stay on top of the material and I overall prefer the quizzes.
+      
+      The assignments are biweekly and also worth around the same amount. But like many CS assignments depends heavily on your programming skills. So far I found the assignments to be challenging and at times vague (but the piazza helps for clarifications). Prepare to spend 10-20 hours per assignment if you are a decent programmer, more otherwise.
+      
+      Material is difficult conceptually. There is just a lot of it. Very relevant to real life. Recommend as an elective.
+    difficulty: 4
+    quality: 4
+    sessionTaken: 2023W2
   - author: cpscstuednt
     authorLink:
     date: 2023-02-03
