@@ -28,8 +28,7 @@
     {{ else }}
       {{ .author }},
     {{ end }}
-    {{ dateFormat "Jan 2 2006" .date }}{{ with .sessionTaken }}
-      , course taken
+    {{ dateFormat "Jan 2 2006" .date }}{{ with .sessionTaken }}, course taken
       {{ . }}
     {{ end }}
   </cite>
