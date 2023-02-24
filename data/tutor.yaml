@@ -5,7 +5,7 @@
 # Example:
 # - name: John Doe
 #   lastmod: 2021-11-21
-#   courses: CPSC XXX
+#   courses: [CPSCXXX, CPSCXXX] <= please make sure these course codes do not have a space in them
 #   email: johndoe@abc.com
 #   bio: |
 #     * Bio point 1
@@ -106,10 +106,10 @@
   availability: MWF After 3pm, Thursdays before 5pm, all day on weekends.
 
 - name: Daocheng Wang
-  lastmod: 2022-01-22
-  courses: ["CPSC110", "CPSC121"]
+  lastmod: 2023-02-04
+  courses: ["CPSC110", "CPSC121", "CPSC210"]
   email: wangdc2010@gmail.com
-  rates: $70/hr
+  rates: $60-70/hr
   bio: Tech Lead @ one of FAANG companies.
 
 - name: Vancoding
@@ -189,15 +189,6 @@
   rates: Free
   availability: Monday to Friday 1-2pm, anytime during the weekend
 
-- name: Jay Ho
-  lastmod: 2022-09-17
-  courses: [CPSC 210, CPSC 304, CPSC 310]
-  email: jayhomn@gmail.com
-  bio: |
-    I am a fourth year computer science student with 4 terms of TA experience for CPSC 210 and CPSC 213. I also have 16 months of industry experience particularly in Java and Javascript
-  rates: $25/hr
-  availability: Monday-Friday 6pm onwards, Sat-Sun 1pm
-
 - name: Arsh Jhaj
   lastmod: 2022-01-22
   courses: [CPSC121, CPSC221, CPSC320, CPSC420, MATH1XX, MATH2XX, MATH32X]
@@ -219,34 +210,25 @@
 - name: Jacob Hotz
   lastmod: 2022-09-17
   courses:
-    [
-      CPSC 110,
-      CPSC 121,
-      CPSC 210,
-      CPSC 213,
-      CPSC 213,
-      CPSC 103,
-      CPSC 107,
-      CPSC 313
-    ]
+    [CPSC110, CPSC121, CPSC210, CPSC213, CPSC213, CPSC103, CPSC107, CPSC313]
   email: hotzjacobb@yahoo.com
   bio: |
     Experienced TA (have previously TA'd both 110 and 121) in my final year of UBC CS with a passion for teaching and learning.
   rates: $35/h
   availability: Flexible (please contact)
 
-- name: Jeykiran Prabu
-  lastmod: 2022-09-17
-  courses: [CPSC 110, CPSC 121]
-  email: jeykiranprabu@gmail.com
+- name: David Rowswell
+  lastmod: 2023-02-04
+  courses: [All CPSC Courses]
+  email: d.rowswell@alumni.ubc.ca
   bio: |
-    Hi, I am a first year student eagerly awaiting 2nd year major selections. I received 90 in CPSC 110 and 85 in CPSC 121 and I am willing to tutor students in need for a very low price.
-  rates: $16/h
-  availability: Any week days from 9AM - 3PM PST
+    Hello! I am a current employee and programmer at UBC. I have a undergrad degree in Computer Science from UBCO. I was a TA for majority of my time in my undergrad and was an active tutor for over 2 years. Happy to help students succeed!
+  rates: $45/h
+  availability: Any Evening/Night Time
 
 - name: Hawk Lu
   lastmod: 2022-09-17
-  courses: [CPSC 110, CPSC 121, CPSC 210, CPSC 221, CPSC 310, CPSC 320]
+  courses: [CPSC110, CPSC121, CPSC210, CPSC221, CPSC310, CPSC320]
   email: hawklu212@hotmail.com
   bio: |
     Hi! My name is Hawk, 4th year BCS, A fan of all cats and dogs, enjoy playing Ultimate, Industry focused on DevOps, and down to help wherever I can!
@@ -257,30 +239,83 @@
   lastmod: 2022-09-17
   courses:
     [
-      CPSC 103,
-      CPSC 121,
-      CPSC 203,
-      CPSC 210,
-      CPSC 213,
-      CPSC 302,
-      CPSC 303,
-      CPSC 320,
-      MATH 100/180,
-      MATH 101,
-      MATH 200/253,
-      MATH 215/255,
-      MATH 217,
-      MATH 220,
-      MATH 221/152,
-      MATH 223,
-      MATH 302,
-      MATH 303,
-      MATH 316/257,
-      MATH 317,
-      MATH 318
+      CPSC103,
+      CPSC121,
+      CPSC203,
+      CPSC210,
+      CPSC213,
+      CPSC302,
+      CPSC303,
+      CPSC320,
+      MATH100/180,
+      MATH101,
+      MATH200/253,
+      MATH215/255,
+      MATH217,
+      MATH220,
+      MATH221/152,
+      MATH223,
+      MATH302,
+      MATH303,
+      MATH316/257,
+      MATH317,
+      MATH318
     ]
   email: tutor@alexdsteele.com
   bio: |
     I'm a fourth-year combined honours computer science and physics student. My computer science average is 96.4% and my math average is 94.9% (with a mark of 100% in MATH 223: Honours Linear Algebra). I have worked as a teaching assistant for a total of eight terms for CPSC 110 and 221 and I have extensive tutoring experience. Requests for CPSC 110 or CPSC 221 tutoring will be declined, as will any other requests from current students in courses that I TA.
-  rates: $50-60/h Group Discount Available
+  rates: $60-70/h Group Discount Available
   availability: Weekday evenings and weekends. Flexible. Contact to schedule.
+
+- name: Jay Ho
+  lastmod: 2023-02-04
+  courses: ["CPSC210", "CPSC304", "CPSC310"]
+  email: jayhomn@gmail.com
+  bio: |
+    I am a fourth year computer science student with 4 terms of TA experience for CPSC 210 and CPSC 213. In addition, I have achieved these grades for the three respective courses I'm tutoring for:
+      * CPSC 210: 98%
+      * CPSC 310: 97%
+      * CPSC 304: 99%
+
+    I also have 16 months of industry experience particularly in Java and Javascript.
+  rates: $35-50/h
+  availability: Monday-Friday 6pm onwards, Sat-Sun 1pm
+
+- name: Hailey Han
+  lastmod: 2023-02-04
+  courses: ["CPSC110"]
+  email: seohee372@gmail.com
+  bio: |
+    I have good grade from the course and also have years of tutoring experience.
+    I also offer trial classes to let you see if my classes fit you and your schedule.
+  rates: $40/90 minute session
+  availability: Monday to Friday, from 5pm to 9pm
+
+- name: Lewis Nicolle
+  lastmod: 2023-02-04
+  courses:
+    [
+      CPSC210,
+      CPSC213,
+      CPSC221,
+      CPSC310,
+      CPSC313,
+      CPSC314,
+      CPSC317,
+      CPSC320,
+      CPSC418
+    ]
+  email: musicaljelly@gmail.com
+  bio: |
+    Graduated from UBC with a Bachelor's in CS in 2017. Have worked in the game industry for 5+ years, at companies like Capcom, EA, and Relic Entertainment. I specialize in graphics/rendering (D3D11/12, HLSL, PBR), and in low-level systems programming (C/C++/assembly, optimization, Windows API). Beyond coursework, I can also tutor in game and game engine programming, and help with interview prep for game companies.
+  rates: $65/h
+  availability: Weekdays
+
+- name: Titus Wong
+  lastmod: 2023-02-04
+  courses: [CPSC121]
+  email: wongtitus89@gmail.com
+  bio: |
+    I’m a 5th year computer science and mathematics student. I’ve been a TA for CPSC 121 for over 2 years and now currently TAing CPSC 221. I love teaching and seeing my students excel in their course. Please contact me for any further questions!
+  rates: $30-35/h depending on number of lessons
+  availability: Currently free

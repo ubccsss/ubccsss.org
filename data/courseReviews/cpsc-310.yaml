@@ -1,4 +1,31 @@
 reviews:
+  - author: Kristen F
+    authorLink:
+    date: 2023-02-15
+    review: |
+      Course was very much split into lecture content and project content. Lecture content was focused on Agile concepts and general industry terms and ideas, and was not difficult. Project had a quite intensive workload, but the end result of a full stack project is quite good on a resume. Personally found that the project coding was not extremely difficult, just time-consuming, and also required learning Promises.
+    difficulty: 4
+    quality: 4.5
+    sessionTaken: 2020W1
+  - author: Andy Liang
+    authorLink:
+    date: 2023-02-05
+    review: |
+      The course consists of a full stack project (no DB) where the hardest part of the project is actually more algorithm related ish (building a query engine) than it is software construction in my opinion. The project itself ended up being very useless (especially if you have done one decent full stack personal project or have coop experience) since there is no code quality enforcement. This means you are free to write garbage code, as long as it works. I would advice to start early on the project though!
+
+      The conceptual portion taught in lecture is useful. However the project, nor any other part of the course, really forces you to try the design patterns that you have learned. :)
+    difficulty: 3
+    quality: 2
+    sessionTaken: 2022W1
+  - author: anonymous
+    authorLink:
+    date: 2023-02-03
+    review: |
+      Very length and time consuming project. Teaches you a great deal about software construction and various design concepts for building maintainable systems. Make sure to start working on the project deadlines early!
+      Interesting content and highly applicable in real life.
+    difficulty: 3.5
+    quality: 5
+    sessionTaken: 2022W1
   - author: 310isgood
     authorLink:
     date: 2022-11-01

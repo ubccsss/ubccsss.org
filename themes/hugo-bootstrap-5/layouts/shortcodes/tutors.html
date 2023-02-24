@@ -60,7 +60,7 @@
 <div id="tutor-list">
   {{ range sort .Site.Data.tutor ".name" "asc" }}
     <div
-      class="card w-100 mb-3 {{ range (.courses) }}{{ . }}{{ end }} tutor"
+      class="card w-100 mb-3 {{ delimit .courses " " }} tutor"
       id="{{ lower (replace .name " " "-") }}">
       <div class="card-body">
         <h5 class="card-title">{{ .name }}</h5>

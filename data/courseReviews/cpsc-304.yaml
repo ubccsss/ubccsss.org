@@ -1,4 +1,12 @@
 reviews:
+  - author: annonn
+    authorLink:
+    date: 2023-02-03
+    review: |
+      Teaches all the basic you need to get started with Relational Databases. Highly recommend taking this course even though it is not a required course for the CPSC major. The project was easy and almost everyone got a 100% in it. Course final and assignments were also easy. Not too heavy course load.
+    difficulty: 2.5
+    quality: 4
+    sessionTaken: 2022W1
   - author: Vincent Cheng
     authorLink: http://www.vcheng.org/2015/06/22/review-cpsc-304-310/
     date: 2020-06-22

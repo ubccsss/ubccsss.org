@@ -1,4 +1,21 @@
 reviews:
+  - author: Kristen F
+    authorLink:
+    date: 2023-02-15
+    review: |
+      Took this with Patrice Belleville. Extremely difficult course, but the course was ran well. Assignments were very tough, I needed to go to office hours and consult with peers very often for understanding of concepts. Prof was understanding and fair. Start assignments early and go to lectures & office hours, assignments can take up a significant portion of time to understand and office hours are often quite packed. Concepts taught in the course are very useful for industry and leetcode.
+    difficulty: 5
+    quality: 4.5
+    sessionTaken: 2022W1
+  - author: anon
+    authorLink:
+    date: 2023-02-03
+    review: |
+      Very useful code to get you a job in the industry. Helps you in almost all Data Structure and Algorithm questions.
+      Please start your assignments on time.
+    difficulty: 4.5
+    quality: 5
+    sessionTaken: 2022W1
   - author: Michael DeMarco
     authorLink: https://michaeldemar.co
     date: 2022-10-25

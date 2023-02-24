@@ -1,4 +1,14 @@
 reviews:
+  - author: ayylmao
+    authorLink:
+    date: 2023-02-22
+    review: |
+      Even for a CS course the material is extremely dense and there is a great deal of math involved. But the instructors are excellent and you definitely learn a ton.
+
+      Course comprises of bi-weekly assignments. Prepare to spend 20+ hours on the assignment if you do it individually. First day of class we got an assignment that was 20 pages long, each page with multiple questions and/or a small coding portion involved. Highly recommend getting a good partner.
+    difficulty: 5
+    quality: 5
+    sessionTaken: 2023W2
   - author: Tommy
     authorLink:
     date: 2022-10-25

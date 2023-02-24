@@ -1,8 +1,14 @@
 name: Prettifier
 
 on:
-  pull_request:
-    branches: [master]
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
   prettier:
@@ -12,13 +18,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
           fetch-depth: 0
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Prettify code
-        uses: creyD/prettier_action@v4.2
+        uses: creyD/prettier_action@v4.3
         with:
           prettier_options: --write **/*.+(js|html|css|json|md|yaml|yml)
-          only_changed: True
           prettier_plugins: prettier-plugin-go-template
-          commit_message: "Prettified code"
+          github_token: ${{ secrets.GH_TOKEN }}
+          only_changed: True

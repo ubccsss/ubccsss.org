@@ -1,4 +1,12 @@
 reviews:
+  - author: /u/xKaillus
+    authorLink:
+    date: 2023-01-31
+    review: |
+      i loved 312!! Steve Wolfman taught it in my offering last term (2021W1) and it was really fun - he really made the course worth it with his teaching style and enthusiasm and we learned all about really interesting programming languages that are outside the traditional few (C, C++, Java, JavaScript) as well as some programming tasks that are much easier/faster in those different paradigm languages! probably one of the most insightful and enjoyable classes I've taken in my degree so far next to 340
+    difficulty: 2
+    quality: 5
+    sessionTaken: 2021W1
   - author: /u/Aruzan
     authorLink: https://www.reddit.com/r/UBC/comments/1zo80v/recommended_300level_cpsc_course/cfvhfrm
     date: 2014-03-05
