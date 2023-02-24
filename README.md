@@ -6,7 +6,6 @@ Website for the UBC Computer Science Student Society.
 
 - [install Hugo](https://gohugo.io/installation/) - to build the website. The current version of Hugo used is listed in [`netlify.toml`](netlify.toml), under the key `HUGO_VERSION`.
 - [install Node](https://nodejs.org/) - to install npm. The current version of Node used is in [`.nvmrc`](.nvmrc). This is used by Netlify to build the site with the [correct version of Node](https://docs.netlify.com/configure-builds/manage-dependencies/#node-js-and-javascript).
-- [install Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) - to install dependencies and run scripts
 - [install nvm](https://github.com/nvm-sh/nvm) - to ensure the correct version of Node is used. Take a look at [this](https://stackoverflow.com/a/57839539/8488681) to see how to use [`.nvmrc`](.nvmrc) to automatically switch to the correct version of Node.
 
 ```bash
@@ -20,7 +19,7 @@ cd ubccsss.org
 nvm use
 
 # install dependencies
-yarn install
+npm install
 
 # start the development server
 hugo server
@@ -122,16 +121,16 @@ netlify.toml contains the configuration for the Netlify. `HUGO_ENV` is used to s
 
 ```bash
 # format all files
-yarn format
+npm run format
 
 # check for formatting errors
-yarn dry
+npm run dry
 
 # start the development server
-yarn dev
+npm run dev
 
 # build the website
-yarn build
+npm run build
 ```
 
 ## Related
