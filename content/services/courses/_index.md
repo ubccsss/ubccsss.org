@@ -5,7 +5,7 @@ cascade:
 layout: courses
 images:
   - /files/course-reviews.png
-location: 
+location:
   name: Write a course review!
 ---
 
