@@ -1,6 +1,6 @@
 reviews:
   - author: Lawrence
-    authorLink: 
+    authorLink:
     date: 2023-02-26
     review: |
       Did fairly well in the course but I won't sugarcoat it, I didn't like it. They have the right idea of teaching programming logic, but use a programming language with next to no practicality. Again with the idea of prioritizing logic over implementation, but DrRacket prioritizes logic too much. After all, ideas are little good if you can't use them.
