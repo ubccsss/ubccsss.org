@@ -12,10 +12,12 @@ author: Ray Hua
 images:
   - /files/2023-03-04-1.png
 # Start date and time. Used for calendar page.
-start_date: 2023-03-03 23:00:00
+start_date: 2023-03-03 00:00:00
 # End date and time (defaults to one hour after start). Used for calendar page.
-end_date: 2023-03-17 23:59:00
+end_date: 2023-03-17 17:00:00
 ---
+
+![CSSS elections QR code poster](/files/2023-03-04-1.png)
 
 Nominations for the UBC CSSS Executive are now OPEN. Put your name forward to be a candidate to lead your computer science student society next year! From hosting career fairs to academic advocacy to running social events, there are various executive positions for you to help your fellow CS students out in and around the Department. 
 
