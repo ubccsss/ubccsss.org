@@ -43,7 +43,9 @@
             {{ block "main" . }}{{ end }}
           </div>
 
-          {{ partial "sidebar.html" . }}
+          {{ block "sidebar" . }}
+            {{ partial "sidebar.html" . }}
+          {{ end }}
         </div>
       </div>
     {{ end }}

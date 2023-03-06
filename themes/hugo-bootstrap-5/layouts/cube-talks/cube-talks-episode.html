@@ -1,0 +1,122 @@
+{{ define "main" }}
+  <header>
+    {{ partial "breadcrumb/breadcrumbs" . }}
+
+
+    <h1 class="blog-post-title">
+      <a class="text-dark text-decoration-none" href="{{ .RelPermalink }}"
+        >{{ .Title | markdownify }}</a
+      >
+    </h1>
+    <hr />
+  </header>
+  <div
+    id="iframe-container"
+    class="position-relative w-100"
+    style="overflow:hidden; padding-top: 56.25%">
+    <iframe
+      class="mb-3 position-absolute"
+      frameborder="0"
+      scrolling="no"
+      marginheight="0"
+      marginwidth="0"
+      width="100%"
+      height="100%"
+      type="text/html"
+      style="top:0;left:0"
+      src="https://www.youtube.com/embed/{{ .Params.youtube }}?autoplay=0&fs=0&iv_load_policy=3&showinfo=1&rel=0&cc_load_policy=1&start=0&end=0"></iframe>
+  </div>
+  <small class="text-muted"
+    ><em
+      >Published {{ .Params.date.Format "January 2, 2006" }}.
+      <span id="view-count">—</span> views.</em
+    ></small
+  >
+  <hr />
+  <p class="mt-1">
+    {{ .Params.desc }}
+  </p>
+  <div class="d-flex">
+    <button
+      class="btn btn-secondary"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#audio-only"
+      aria-expanded="false"
+      aria-controls="audio-only">
+      Audio only version ▾
+    </button>
+    <a
+      href="https://docs.google.com/forms/d/1iVaNGNDphYZvig2anoNVjRPNAlInI5T6TzizkZV3bYo/"
+      class="btn btn-outline-primary ms-2"
+      type="button"
+      target="_blank"
+      rel="noopener noreferrer">
+      Share feedback
+    </a>
+  </div>
+  <div class="collapse mt-3" id="audio-only">
+    <div class="card no-hover card-body">
+      <p>Audio only (can play in background):</p>
+      <audio src="{{ .Params.audio }}" controls></audio>
+    </div>
+  </div>
+  <div class="card no-hover mt-3">
+    <div class="card-body">
+      <h3 class="card-title">About our Guest</h3>
+      <div class="d-flex gap-4 mt-3">
+        <img
+          src="https://via.placeholder.com/300x300"
+          alt="{{ .Params.guestName }}'s cover photo"
+          class="w-25 rounded-circle"
+          style="height: fit-content" />
+        <p>{{ .Params.guestBio | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+  <link rel="stylesheet" href="/css/cube-talks.css" />
+  <div class="my-5 w-100"></div>
+
+  <script src="https://apis.google.com/js/api.js"></script>
+  <script>
+    function loadClient() {
+        gapi.client.setApiKey("{{.Site.Params.googleApiKey}}");
+      return gapi.client
+        .load("https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest")
+        .then(
+          function () {
+            console.log("GAPI client loaded for API");
+          },
+          function (err) {
+            console.error("Error loading GAPI client for API", err);
+          }
+        );
+    }
+    function execute() {
+      return gapi.client.youtube.videos
+        .list({
+          part: ["snippet,contentDetails,statistics"],
+            id: ["{{.Params.youtube}}"]
+        })
+        .then(
+          function (response) {
+            const views = response.result.items[0].statistics.viewCount;
+            document.getElementById("view-count").innerText =  Intl.NumberFormat('en-US', {
+              notation: "compact",
+              maximumFractionDigits: 1
+            }).format(2500);
+          },
+          function (err) {
+            console.error("Execute error", err);
+          }
+        );
+    }
+    gapi.load("client", () => {
+    loadClient().then(execute);
+    });
+  </script>
+{{ end }}
+
+{{ define "sidebar" }}
+  {{ partial "cube-talks-sidebar" . }}
+{{ end }}
