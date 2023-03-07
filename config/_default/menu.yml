@@ -3,27 +3,23 @@ main:
     name: About
     url: /about/
     weight: -130
-  - identifier: volunteer
-    name: Volunteer
-    url: /volunteer/
-    weight: -120
   - identifier: cube
     name: The Cube
     url: /cube/
-    weight: -110
+    weight: -120
   - identifier: learn
     name: Services
     url: /services/
-    weight: -100
+    weight: -110
   - identifier: courses
     name: Course Reviews
     url: /services/courses/
-    weight: -90
+    weight: -100
   - identifier: cube-talks
     name: Cube Talks
     url: /cube-talks/
-    weight: -80
+    weight: -90
   - identifier: contact
     name: Contact
     url: /contact/
-    weight: -70
+    weight: -80
