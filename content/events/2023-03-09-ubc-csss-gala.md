@@ -32,4 +32,3 @@ After purchasing your ticket, please fill out this [Google Form](https://forms.g
 Tickets are heavily subsidized by the UBC CSSS and will include a 4-course plated dinner with an open bar, fun activities, a DJ, and a Photo Booth so make sure you come dressed up in semi-formal attire!
 
 If you have any questions or concerns, please contact Aidan Perras, our VP Social ([vps@ubccsss.org](mailto:vps@ubccsss.org)) or Ryan Kim, one of our Officers ([mck649@gmail.com](mailto:mck649@gmail.com)).
-
