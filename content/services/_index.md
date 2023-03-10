@@ -17,18 +17,23 @@ The UBC CSSS offers the following services.
 
 <div class="row">
   <div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< card title="Exams Database" href="https://ubccsss.org/services/exams" src="/files/exams.jpg" >}}
-      We provide a database of old midterm and final exams for review.
+    {{< card title="Course Reviews Database" href="/services/courses/" src="/files/classroom.jpg" >}}
+      We provide a database of student-sourced course reviews and descriptions to help you choose you next classes.
     {{</ card >}}
   </div>
   <div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< card title="Tutoring" href="/services/tutor" src="/files/tutor.jpg" >}}
-      We provide a place for tutors to advertise their availability and for students to find a tutor for Computer Science courses.
+    {{< card title="Cube Talks" href="/cube-talks/" src="/files/coffee_chat_stock_image.jpg" >}}
+	Our bi-weekly podcast featuring UBC alumni and upper-year students, discussing topics relevant to all students interested in computer science.
     {{</ card >}}
   </div>
   <div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">
     {{< card title="The Cube" href="/cube/" src="/files/lounge.jpg" >}}
       We run a student lounge in ICICS 021, with cheap food, free microwaves, video games, and a place to hang out.
+    {{</ card >}}
+  </div>
+  <div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">
+    {{< card title="Tutoring" href="/services/tutor" src="/files/tutor.jpg" >}}
+      We provide a place for tutors to advertise their availability and for students to find a tutor for Computer Science courses.
     {{</ card >}}
   </div>
   <!--<div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">
@@ -42,13 +47,8 @@ The UBC CSSS offers the following services.
     {{</ card >}}
   </div>
   <div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< card title="Course Reviews Database" href="/services/courses/" src="/files/classroom.jpg" >}}
-      We provide a database of student-sourced course reviews and descriptions to help you choose you next classes.
-    {{</ card >}}
-  </div>
-  <div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< card title="Cube Menu" href="/cube/menu/" src="/files/chips.jpg" >}}
-      We provide cheap snacks, like chips, pizza, candy, and drinks, in the Cube.
+    {{< card title="Exams Database" href="https://ubccsss.org/services/exams" src="/files/exams.jpg" >}}
+      We provide a database of old midterm and final exams for review.
     {{</ card >}}
   </div>
 </div>
