@@ -4,6 +4,7 @@ PRODID:-//UBC CSSS//Event Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 {{range .Pages -}}
+{{ if (not .Params.file_ics )}}
 {{- $startDate := .Params.start_date | default .Date }}
 {{- $endDate := .Params.end_date | default (time (add (time $startDate).Unix 36000)) }}
 BEGIN:VEVENT
@@ -16,5 +17,11 @@ DESCRIPTION:(Info: {{.Permalink}})
 {{ with (partial "event/address" .) }}LOCATION:{{ . }}{{ end }}
 URL:{{.Permalink}}
 END:VEVENT
+{{end }}
+{{end -}}
+{{range .Pages -}}
+{{if .Params.file_ics}}
+{{readFile .Params.file_ics}}
+{{end}}
 {{end -}}
 END:VCALENDAR
