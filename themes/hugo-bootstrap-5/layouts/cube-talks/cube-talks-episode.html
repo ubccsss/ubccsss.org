@@ -66,10 +66,10 @@
       <h3 class="card-title">About our Guest</h3>
       <div class="d-flex gap-4 mt-3">
         <img
-          src="https://via.placeholder.com/300x300"
+          src="{{ .Params.guestImage }}"
           alt="{{ .Params.guestName }}'s cover photo"
           class="w-25 rounded-circle"
-          style="height: fit-content" />
+          style="height: fit-content; object-fit: contain" />
         <p>{{ .Params.guestBio | markdownify }}</p>
       </div>
     </div>
