@@ -64,12 +64,14 @@
   <div class="card no-hover mt-3">
     <div class="card-body">
       <h3 class="card-title">About our Guest</h3>
-      <div class="d-flex gap-4 mt-3">
-        <img
-          src="{{ .Params.guestImage }}"
-          alt="{{ .Params.guestName }}'s cover photo"
-          class="w-25 rounded-circle"
-          style="height: fit-content; object-fit: contain" />
+      <div class="d-flex gap-2 mt-3 ">
+        <div style="display: grid;place-items: flex-start;" class="me-1">
+          <img
+            src="{{ .Params.guestImage }}"
+            alt="{{ .Params.guestName }}'s cover photo"
+            class="mw-100 w-100 rounded-circle"
+            style="object-fit: contain" />
+        </div>
         <p>{{ .Params.guestBio | markdownify }}</p>
       </div>
     </div>
