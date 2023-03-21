@@ -19,6 +19,9 @@
 - id: recentPosts
   translation: "Recent Posts"
 
+- id: recentEpisodes
+  translation: "Recent Episodes"
+
 - id: backToTop
   translation: "Back to top"
 

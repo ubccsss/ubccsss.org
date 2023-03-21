@@ -1,0 +1,60 @@
+{{ define "main" }}
+  <h1>Cube Talks</h1>
+  <img
+    src="/files/cube-talks/cube-talks-banner.png"
+    alt="Cube Talks banner"
+    class="mw-100 w-100" />
+  <p class="mt-3">
+    Introducing the newest addition to the Computer Science Student Society's
+    engagement efforts - our very own podcast! Made by UBC students for UBC
+    students, our bi-weekly podcast will feature UBC alumni and upper-year
+    students as speakers, discussing topics relevant to all students interested
+    in computer science, not just those in the major. We'll be diving deep into
+    conversations with our guests and bringing you valuable insights into the
+    tech industry. To ensure easy access, our podcasts will be available on all
+    major podcast platforms. So, tune in and join us on this exciting new
+    journey!
+  </p>
+  <hr />
+  <h2>Episode Gallery</h2>
+  <div class="container mb-5">
+    <div class="row">
+      {{ range sort (where .Pages ".Params.layout" "cube-talks-episode") ".Params.date" "desc" }}
+        <div class="col-lg-6 col-sm-12 col-md-6 mt-3">
+          <div class="card w-100 h-100">
+            <a
+              href="{{ .RelPermalink }}"
+              class="position-absolute w-100 h-100"></a>
+            <div
+              class="d-flex flex-column justify-content-center"
+              style="height: 200px">
+              <img
+                class="card-img-top img-fluid p-2 mh-100 mw-100 w-100"
+                src="{{ .Params.imageLink }}"
+                alt="{{ .Params.title }} cover image"
+                style="object-fit: cover" />
+            </div>
+            <div class="card-body">
+              <h5 class="card-title text-truncate">
+                <a class="card-link" href="{{ .RelPermalink }}"
+                  >{{ .Params.title }}</a
+                >
+              </h5>
+              <p class="card-text text-truncate mb-1">{{ .Params.desc }}</p>
+              <small
+                ><i
+                  >Published {{ .Params.date.Format "January 2, 2006" }}</i
+                ></small
+              >
+            </div>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+  <link rel="stylesheet" href="/css/cube-talks.css" />
+{{ end }}
+
+{{ define "sidebar" }}
+  {{ partial "cube-talks-sidebar" . }}
+{{ end }}
