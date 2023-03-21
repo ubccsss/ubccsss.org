@@ -28,8 +28,11 @@
   </div>
   <small class="text-muted"
     ><em
-      >Published {{ .Params.date.Format "January 2, 2006" }}.
-      <span id="view-count">—</span> views.</em
+      >Published {{ .Params.date.Format "January 2, 2006" }}.<span
+        id="view-count"
+        >—</span
+      >
+      views.</em
     ></small
   >
   <hr />
@@ -68,19 +71,54 @@
     <div class="card no-hover card-body">
       <p>Audio only (can play in background):</p>
       <audio src="{{ .Params.audio }}" controls></audio>
-      <br>
-      <iframe style="border-radius:12px" src="{{ .Params.spotify }}" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      <br />
+      <iframe
+        style="border-radius:12px"
+        src="{{ .Params.spotify }}"
+        width="100%"
+        height="352"
+        frameborder="0"
+        allowfullscreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy"></iframe>
     </div>
   </div>
   <div class="collapse mt-3" id="spotify">
     <div class="card no-hover card-body">
-    <iframe style="border-radius:12px" src="{{ .Params.spotify }}" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    <br>
-    <iframe style="border-radius:12px" src="{{ .Params.spotify }}" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    <br>
-    <iframe style="border-radius:12px" src="{{ .Params.spotify }}/video" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    <br>
-    <iframe src="{{ .Params.spotifyPodcasters }}"  frameborder="0" scrolling="no"></iframe>
+      <iframe
+        style="border-radius:12px"
+        src="{{ .Params.spotify }}"
+        width="100%"
+        height="152"
+        frameborder="0"
+        allowfullscreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy"></iframe>
+      <br />
+      <iframe
+        style="border-radius:12px"
+        src="{{ .Params.spotify }}"
+        width="100%"
+        height="352"
+        frameborder="0"
+        allowfullscreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy"></iframe>
+      <br />
+      <iframe
+        style="border-radius:12px"
+        src="{{ .Params.spotify }}/video"
+        width="624"
+        height="351"
+        frameborder="0"
+        allowfullscreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy"></iframe>
+      <br />
+      <iframe
+        src="{{ .Params.spotifyPodcasters }}"
+        frameborder="0"
+        scrolling="no"></iframe>
     </div>
   </div>
   <div class="card no-hover mt-3">
