@@ -19,4 +19,4 @@ end_date: 2023-03-27 17:00:00
 
 ![CSSS 2023 Elections poster](/files/2023-03-20-csss_elections_2023_720.png)
 
-CSSS Elections are now open! All CS students can cast their vote at <https://ubccsss.org/election> from March 20-27th. 
+CSSS Elections are now open! All CS students can cast their vote at <https://ubccsss.org/election> from March 20-27th.
