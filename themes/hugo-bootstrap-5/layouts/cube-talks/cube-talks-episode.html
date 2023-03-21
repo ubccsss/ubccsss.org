@@ -28,7 +28,7 @@
   </div>
   <small class="text-muted"
     ><em
-      >Published {{ .Params.date.Format "January 2, 2006" }}.<span
+      >Published {{ .Params.date.Format "January 2, 2006" }}.&nbsp;<span
         id="view-count"
         >—</span
       >
@@ -155,7 +155,7 @@
             document.getElementById("view-count").innerText =  Intl.NumberFormat('en-US', {
               notation: "compact",
               maximumFractionDigits: 1
-            }).format(2500);
+            }).format(views);
           },
           function (err) {
             console.error("Execute error", err);
