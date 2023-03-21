@@ -3,7 +3,7 @@ layout: cube-talks-episode
 title: "Episode 1: Scarlet Nguyen"
 imageLink: /files/cube-talks/cube-talks-ep-1-thumbnail.jpg
 date: 2023-03-02
-desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+desc: "In the first episode of Cube Talks, we interview the talented Scarlet Nguyen! With diverse internship experiences at big tech companies, Scarlet spills the beans on what it takes to impress hiring managers and land that dream job. But that's not all – she also shares insider tips on how to excel as an intern, from balancing personal projects to acing hackathons. Whether you're curious about the day-to-day life of a tech intern or just looking to up your game, this episode has something for you. So sit back, relax, and tune in to get the inside scoop on one of the industry's rising stars!"
 audio: https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3
 youtube: KeT7btOQizk
 spotify: https://open.spotify.com/embed/episode/0NWv8mbaz7mBZcld1Pygwr
