@@ -6,6 +6,8 @@ date: 2023-03-02
 desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 audio: https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3
 youtube: KeT7btOQizk
+spotify: https://open.spotify.com/embed/episode/0NWv8mbaz7mBZcld1Pygwr
+spotifyPodcasters: https://podcasters.spotify.com/pod/show/cubetalks/embed/episodes/Scarlet-Nguyen-Cube-Talks-Episode-1-e20ostp
 guestName: Scarlet Nguyen
 guestImage: /files/scarlet-nguyen-cube-talks.jpeg
 guestBio: |
