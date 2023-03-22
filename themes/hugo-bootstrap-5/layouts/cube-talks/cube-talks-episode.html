@@ -26,7 +26,7 @@
       style="top:0;left:0"
       src="https://www.youtube.com/embed/{{ .Params.youtube }}?autoplay=0&fs=0&iv_load_policy=3&showinfo=1&rel=0&cc_load_policy=1&start=0&end=0"></iframe>
   </div>
-  <small class="text-muted"
+  <small class="text-muted d-block mt-3"
     ><em
       >Published {{ .Params.date.Format "January 2, 2006" }}.&nbsp;<span
         id="view-count"
@@ -37,7 +37,7 @@
   >
   <hr />
   <p class="mt-1">
-    {{ .Params.desc }}
+    {{ .Params.desc | markdownify }}
   </p>
   <div class="d-flex">
     <button
