@@ -316,6 +316,15 @@
   courses: [CPSC121]
   email: wongtitus89@gmail.com
   bio: |
-    I’m a 5th year computer science and mathematics student. I’ve been a TA for CPSC 121 for over 2 years and now currently TAing CPSC 221. I love teaching and seeing my students excel in their course. Please contact me for any further questions!
+    I'm a 5th year computer science and mathematics student. I've been a TA for CPSC 121 for over 2 years and now currently TAing CPSC 221. I love teaching and seeing my students excel in their course. Please contact me for any further questions!
   rates: $30-35/h depending on number of lessons
   availability: Currently free
+
+- name: Han
+  lastmod: 2023-03-24
+  courses: [CPSC210]
+  email: h.sun@alumni.ubc.ca
+  bio: |
+    Hi there, I'm a 2020 graduate of UBC's Comp Sci program. I was a TA for CPSC 210 for two terms with Professor Carter and Hutchinson. I currently work as a software engineer for Microsoft and can tutor in person or virtually.
+  rates: $45/Hour
+  availability: Weekends, some Weekdays. (Contact me for scheduling)
