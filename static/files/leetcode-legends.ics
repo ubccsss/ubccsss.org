@@ -1,0 +1,21 @@
+BEGIN:VEVENT
+DTSTAMP:20230316T155528Z
+UID:1g82mdcr4kmq5knn20m6dfi3vc-ll1@google.com
+DTSTART;TZID=America/Vancouver:20230309T180000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+DTEND;TZID=America/Vancouver:20230309T190000
+SUMMARY:CSSS x Leetcode Legends Workshops [ICICS 005 + Zoom]
+DESCRIPTION:Want to get better at technical interviews? Leetcode Legends is a group that will meet every Tuesday and Thursday for group practice sessions. All skill levels are welcome!<br><br>The event will run in a hybrid model. The in-person location is ICICS 005. Current Zoom link :<a href="https://www.google.com/url?q=https://us05web.zoom.us/j/88342236357?pwd%3DcENVMG8zQUhlS1dwNWZsc2RlN3Bzdz09!&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3CtohIWPg8BtxlEIH5Va3N" target="_blank">https://us05web.zoom.us/j/88342236357?pwd=cENVMG8zQUhlS1dwNWZsc2RlN3Bzdz09!</a>
+LOCATION:ICICS Building\, 2366 Main Mall\, Vancouver\, BC V6T 1Z4\, Canada
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230316T155528Z
+UID:1d1olpovomekhqi46ujvbt9c0q-ll2@google.com
+DTSTART;TZID=America/Vancouver:20230307T180000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DTEND;TZID=America/Vancouver:20230307T190000
+SUMMARY:CSSS x Leetcode Legends Workshops [ICICS 005 + Zoom]
+DESCRIPTION:Want to get better at technical interviews? Leetcode Legends is a group that will meet every Tuesday and Thursday for group practice sessions. All skill levels are welcome!<br><br>The event will run in a hybrid model. The in-person location is ICICS 005. Current Zoom link :<a href="https://www.google.com/url?q=https://us05web.zoom.us/j/88342236357?pwd%3DcENVMG8zQUhlS1dwNWZsc2RlN3Bzdz09!&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3CtohIWPg8BtxlEIH5Va3N" target="_blank">https://us05web.zoom.us/j/88342236357?pwd=cENVMG8zQUhlS1dwNWZsc2RlN3Bzdz09!</a>
+LOCATION:ICICS Building\, 2366 Main Mall\, Vancouver\, BC V6T 1Z4\, Canada
+END:VEVENT
+

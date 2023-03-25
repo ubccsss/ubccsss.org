@@ -19,7 +19,9 @@
       {{ partial "event/where" . }}
     </div>
 
-    {{ partial "event/add-to-calendar" . }}
+    {{ if not .Params.file_ics }}
+      {{ partial "event/add-to-calendar" . }}
+    {{ end }}
     <a class="btn btn-outline btn-primary my-3" href="./index.ics"
       >{{ i18n "addToIcsCalendar" }}</a
     >

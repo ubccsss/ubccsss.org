@@ -2,6 +2,7 @@ BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 VERSION:2.0
+{{if not .Params.file_ics}}
 BEGIN:VEVENT
 {{- $startDate := .Params.start_date | default .Date }}
 {{- $endDate := .Params.end_date | default (time (add (time $startDate).Unix 36000)) }}
@@ -13,4 +14,7 @@ SUMMARY:{{.Title}}
 DESCRIPTION:(Info: {{.Permalink}})
 {{ with (partial "event/address" .) }}LOCATION:{{ . }}{{ end }}
 END:VEVENT
+{{else}}
+{{readFile .Params.file_ics}}
+{{end}}
 END:VCALENDAR
