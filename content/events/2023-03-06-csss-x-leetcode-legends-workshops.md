@@ -23,4 +23,4 @@ when: "Every Tuesday and Thursday, 6-7PM"
 
 Want to get better at technical interviews? Leetcode Legends is a group that will meet every Tuesday and Thursday from 6-7 pm at ICICS 005 for students starting out with interview preparations. All skill levels are welcome!
 
-The event will also run in a hybrid model. Current Zoom link [here](https://us05web.zoom.us/j/88342236357?pwd=cENVMG8zQUhlS1dwNWZsc2RlN3Bzdz09)!
+The event will also run in a hybrid model. Discord link [here](https://discord.gg/vNz7syZjnW)!
