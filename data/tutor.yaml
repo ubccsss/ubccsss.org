@@ -45,13 +45,6 @@
   email: rehijm@mail.ru
   rates: $20/hr
 
-- name: Leo Sporn
-  lastmod: 2021-11-21
-  courses: ["CPSC121", "CPSC221", "CPSC320", "MATH1XX"]
-  email: spornleo@gmail.com
-  rates: $40/hr
-  availability: Flexible
-
 - name: Michael Allan
   lastmod: 2022-01-22
   courses: [CPSC110, CPSC121, CPSC210, CPSC213, CPSC221]
