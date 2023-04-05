@@ -7,6 +7,14 @@ reviews:
     difficulty: 5
     quality: 4
     sessionTaken: 2023W2
+  - author: Adam
+    authorLink: 
+    date: 2023-04-05
+    review: |
+      Moves through deep technical content very quickly. Lab content often is independent of lecture content. Requires effort to stay on top of content and not fall behind. 
+    difficulty: 4
+    quality: 2.5
+    sessionTaken: 2023W2
   - author: Stephanie Ho
     authorLink:
     date: 2022-10-25
