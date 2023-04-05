@@ -7,6 +7,14 @@ reviews:
     difficulty: 3.5
     quality: 5
     sessionTaken: 2023W2
+  - author: csstudent
+    authorLink: 
+    date: 2023-04-05
+    review: |
+      Excellent course. Lectures are easy to follow, all practice materials  and labs are highly relevant to lecture materials, and term project allows students to problem-solve independently.
+    difficulty: 3
+    quality: 5
+    sessionTaken: 2022W1
   - author: cinadia
     authorLink:
     date: 2022-10-25
