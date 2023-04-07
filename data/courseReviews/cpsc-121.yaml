@@ -1,13 +1,13 @@
 reviews:
   - author: Daniel
-    authorLink: 
+    authorLink:
     date: 2023-04-06
     review: |
       The course was fairly difficult in terms of concepts and takes a good amount of practice to come to grips with. The topics chosen itself are very interesting and have increased my interest in programming and computing. 
-      
+
       I had Patrice as my professor, and his lectures were well done, although I do wish slides were more detailed so that they were more helpful when reviewing (ie. mix in a bit of Geoffrey's slides). 
-      
-      The labs were very fun to complete and had a good balance of difficulty. The magic box portion was fun to play with and observe what happens, but sometimes kits were missing wires of ICs and would hinder the process a bit. The rest of the lab content when using Logisim was fun and intuitive to use. 
+
+      The labs were very fun to complete and had a good balance of difficulty. The magic box portion was fun to play with and observe what happens, but sometimes kits were missing wires of ICs and would hinder the process a bit. The rest of the lab content when using Logisim was fun and intuitive to use.
     difficulty: 5
     quality: 4.5
     sessionTaken: 2023W2
