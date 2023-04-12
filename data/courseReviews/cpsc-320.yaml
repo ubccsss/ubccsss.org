@@ -1,4 +1,12 @@
 reviews:
+  - author: Crispin
+    authorLink: 
+    date: 2023-04-11
+    review: |
+      One of the more difficult course in CPSC as it delves into challenging abstract topics. Assignments will take a large portion of your time. Though challenging, it is an important course that can help leapfrog your leetcode skills to be more competitive for internships.
+    difficulty: 5
+    quality: 4.5
+    sessionTaken: 2022W1
   - author: Kristen F
     authorLink:
     date: 2023-02-15
