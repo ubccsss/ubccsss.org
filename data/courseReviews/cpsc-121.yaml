@@ -1,4 +1,12 @@
 reviews:
+  - author: csstudent
+    authorLink: 
+    date: 2023-04-23
+    review: |
+      Terrible instructor. Brutal assignments. Harsh marking throughout all exams.
+    difficulty: 5
+    quality: 2
+    sessionTaken: 2022W1
   - author: Daniel
     authorLink:
     date: 2023-04-06
