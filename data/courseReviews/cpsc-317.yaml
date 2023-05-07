@@ -1,4 +1,13 @@
 reviews:
+  - author: shubh
+    authorLink: https://www.linkedin.com/in/shubh-bhalla/
+    date: 2023-05-07
+    review: |
+      The course gets a bit boring most of the time during the lectures. Still, even though it is boring, it teaches students vital knowledge needed to understand how networks work and how machines operate over the internet. 
+      I would highly recommend taking this course no matter what you want to do further in Computer Science. It gave a great bird eye view of the internet and how your machine talks to a computer in another country, domain name resolution, and encryption in the internet space, among other things.
+    difficulty: 4
+    quality: 3.5
+    sessionTaken: 2022W2
   - author: Brandon Orange
     authorLink:
     date: 2023-02-25
