@@ -1,4 +1,14 @@
 reviews:
+  - author: shubh
+    authorLink: https://www.linkedin.com/in/shubh-bhalla/
+    date: 2023-05-07
+    review: |
+      Great course, which is mandatory for students majoring in Computer Science. This course teaches students how the hardware works and how to optimize programs by utilizing caching, the system's virtual memory, etc.
+      A lot of what you learn can be applied to software development and is needed if you want a deeper understanding of a low-level software system. 
+      I took this course with Margo and Patrice and had a great time learning from them.
+    difficulty: 4
+    quality: 5
+    sessionTaken: 2022W2
   - author: FC
     authorLink:
     date: 2023-02-20
