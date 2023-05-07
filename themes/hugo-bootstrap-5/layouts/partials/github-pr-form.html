@@ -116,31 +116,6 @@
         <small id="github-pr-quality-label" style="width: 3rem">3</small>
       </div>
     </div>
-    <div class="my-3">
-      <label for="raffle-email" class="form-label">
-        Raffle Email (Optional)
-        <span class="badge bg-primary">New!</span>
-      </label>
-      <p>
-        <small class="text-muted"
-          >Enter your UBC CWL email here to enter in a raffle to win 50% off a
-          CSSS Hoodie ($22.50 value) or one of five $10 AMS gift cards! Each
-          course review is an entry in the raffle, with a maximum of five
-          entries per person. Raffle will take place at the end of the 2022W2
-          term. This email will not be visible on the published review.</small
-        >
-      </p>
-      <div class="d-flex gap-2">
-        <input
-          class="form-control"
-          type="text"
-          pattern=".*@(student\.|alumni\.)?ubc\.ca"
-          id="github-pr-raffle-email"
-          placeholder="Enter your UBC CWL email"
-          style="width: fit-content;" />
-        <div class="invalid-feedback">Email must end in ubc.ca.</div>
-      </div>
-    </div>
     <div
       class="g-recaptcha my-3"
       data-sitekey="{{ .Site.Params.recaptchaSiteKey }}"></div>
