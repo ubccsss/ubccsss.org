@@ -1,4 +1,14 @@
 reviews:
+  - author: shubh
+    authorLink: https://www.linkedin.com/in/shubh-bhalla/
+    date: 2023-05-07
+    review: |
+      Good course that builds on top of CPSC 210 and teaches Object Oriented Programming.
+      The project for this course is pretty complex, and as you iterate over the different phases, it gets pretty big; make sure to start way before the deadline! The TAs were super helpful, and I highly recommend going to office hours for help.
+      Ried Holmes and Ivan were great instructors.
+    difficulty: 3.5
+    quality: 4
+    sessionTaken: 2022W1
   - author: Kristen F
     authorLink:
     date: 2023-02-15
