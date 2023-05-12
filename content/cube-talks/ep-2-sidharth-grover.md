@@ -9,8 +9,6 @@ desc: >
   Hosts - [Shubh Bhalla](https://www.linkedin.com/in/shubh-bhalla/), [Alice Fu](https://www.linkedin.com/in/alicefu012/)<br/>
   Production/Video - [Andrew Joji](https://www.linkedin.com/in/andrew-joji-1577a51b4/)<br/>
 youtube: KeT7btOQizk
-spotify: https://open.spotify.com/embed/episode/0NWv8mbaz7mBZcld1Pygwr
-spotifyPodcasters: https://podcasters.spotify.com/pod/show/cubetalks/embed/episodes/Scarlet-Nguyen-Cube-Talks-Episode-1-e20ostp
 guestName: Sidharth Grover
 guestImage: /files/cube-talks/sidharth-grover-cube-talks.jpeg
 guestBio: |
