@@ -8,7 +8,7 @@ desc: >
   Speaker - [Sidharth Grover](https://www.linkedin.com/in/sidharth-grover/)<br/>
   Hosts - [Shubh Bhalla](https://www.linkedin.com/in/shubh-bhalla/), [Alice Fu](https://www.linkedin.com/in/alicefu012/)<br/>
   Production/Video - [Andrew Joji](https://www.linkedin.com/in/andrew-joji-1577a51b4/)<br/>
-youtube: KeT7btOQizk
+youtube: LtX41HwLSHQ
 guestName: Sidharth Grover
 guestImage: /files/cube-talks/sidharth-grover-cube-talks.jpeg
 guestBio: |
