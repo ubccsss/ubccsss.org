@@ -40,76 +40,80 @@
     {{ .Params.desc | markdownify }}
   </p>
   <div class="d-flex">
-    <button
-      class="btn btn-secondary"
-      type="button"
-      data-bs-toggle="collapse"
-      data-bs-target="#audio-only"
-      aria-expanded="false"
-      aria-controls="audio-only">
-      Audio only version ▾
-    </button>
+    {{ if .Params.spotify }}
+      <button
+        class="btn btn-secondary me-2"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#audio-only"
+        aria-expanded="false"
+        aria-controls="audio-only">
+        Audio only version ▾
+      </button>
+    {{ end }}
     <a
       href="https://docs.google.com/forms/d/1iVaNGNDphYZvig2anoNVjRPNAlInI5T6TzizkZV3bYo/"
-      class="btn btn-outline-primary ms-2"
+      class="btn btn-outline-primary"
       type="button"
       target="_blank"
       rel="noopener noreferrer">
       Share feedback
     </a>
   </div>
-  <div class="collapse mt-3" id="audio-only">
-    <div class="card no-hover card-body">
-      <p>Audio only (can play in background):</p>
-      <iframe
-        style="border-radius:12px"
-        src="{{ .Params.spotify }}"
-        width="100%"
-        height="352"
-        frameborder="0"
-        allowfullscreen=""
-        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-        loading="lazy"></iframe>
+  {{ if .Params.spotify }}
+    <div class="collapse mt-3" id="audio-only">
+      <div class="card no-hover card-body">
+        <p>Audio only (can play in background):</p>
+        <iframe
+          style="border-radius:12px"
+          src="{{ .Params.spotify }}"
+          width="100%"
+          height="352"
+          frameborder="0"
+          allowfullscreen=""
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy"></iframe>
+      </div>
     </div>
-  </div>
-  <div class="collapse mt-3" id="spotify">
-    <div class="card no-hover card-body">
-      <iframe
-        style="border-radius:12px"
-        src="{{ .Params.spotify }}"
-        width="100%"
-        height="152"
-        frameborder="0"
-        allowfullscreen=""
-        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-        loading="lazy"></iframe>
-      <br />
-      <iframe
-        style="border-radius:12px"
-        src="{{ .Params.spotify }}"
-        width="100%"
-        height="352"
-        frameborder="0"
-        allowfullscreen=""
-        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-        loading="lazy"></iframe>
-      <br />
-      <iframe
-        style="border-radius:12px"
-        src="{{ .Params.spotify }}/video"
-        width="624"
-        height="351"
-        frameborder="0"
-        allowfullscreen=""
-        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-        loading="lazy"></iframe>
-      <br />
-      <iframe
-        src="{{ .Params.spotifyPodcasters }}"
-        frameborder="0"
-        scrolling="no"></iframe>
+    <div class="collapse mt-3" id="spotify">
+      <div class="card no-hover card-body">
+        <iframe
+          style="border-radius:12px"
+          src="{{ .Params.spotify }}"
+          width="100%"
+          height="152"
+          frameborder="0"
+          allowfullscreen=""
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy"></iframe>
+        <br />
+        <iframe
+          style="border-radius:12px"
+          src="{{ .Params.spotify }}"
+          width="100%"
+          height="352"
+          frameborder="0"
+          allowfullscreen=""
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy"></iframe>
+        <br />
+        <iframe
+          style="border-radius:12px"
+          src="{{ .Params.spotify }}/video"
+          width="624"
+          height="351"
+          frameborder="0"
+          allowfullscreen=""
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy"></iframe>
+        <br />
+        <iframe
+          src="{{ .Params.spotifyPodcasters }}"
+          frameborder="0"
+          scrolling="no"></iframe>
+      </div>
     </div>
-  </div>
+  {{ end }}
   <div class="card no-hover mt-3">
     <div class="card-body">
       <h3 class="card-title">About our Guest</h3>

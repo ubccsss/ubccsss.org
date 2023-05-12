@@ -8,8 +8,7 @@ desc: >
   Speaker - [Scarlet Nguyen](https://www.linkedin.com/in/scarletnguyen/)<br/>
   Hosts - [Shubh Bhalla](https://www.linkedin.com/in/shubh-bhalla/), [Alice Fu](https://www.linkedin.com/in/alicefu012/)<br/>
   Production/Video - [Andrew Joji](https://www.linkedin.com/in/andrew-joji-1577a51b4/)<br/>
-audio: https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3
-youtube: KeT7btOQizk
+youtube: c0EFr-GXHOk
 spotify: https://open.spotify.com/embed/episode/0NWv8mbaz7mBZcld1Pygwr
 spotifyPodcasters: https://podcasters.spotify.com/pod/show/cubetalks/embed/episodes/Scarlet-Nguyen-Cube-Talks-Episode-1-e20ostp
 guestName: Scarlet Nguyen
