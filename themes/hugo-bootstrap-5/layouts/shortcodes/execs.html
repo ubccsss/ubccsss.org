@@ -5,7 +5,7 @@
       {{- $path := printf "images/execs/%s" (.img | default "default.svg") -}}
       {{- $img := resources.Get $path -}}
       {{- if ne $img.MediaType.SubType "svg" -}}
-        {{- $img = $img.Fill "100x100 Center" -}}
+        {{- $img = $img.Fill "300x300 Center" -}}
       {{- end -}}
       <img
         class="rounded-circle"
