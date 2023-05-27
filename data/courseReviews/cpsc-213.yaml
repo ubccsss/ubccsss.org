@@ -1,10 +1,10 @@
 reviews:
   - author: 2nd year bsc student
-    authorLink: 
+    authorLink:
     date: 2023-05-26
     review: |
       what I took away was the foundational relationships between how hardware was designed and how software programming languages are built on top of one another.
-      
+
       topics in my term
       - assembly and hardware-to-software design
       - using c and java to abstract parts of hardware instructions
