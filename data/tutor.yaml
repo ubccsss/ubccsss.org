@@ -260,20 +260,6 @@
   rates: $60-70/h Group Discount Available
   availability: Weekday evenings and weekends. Flexible. Contact to schedule.
 
-- name: Jay Ho
-  lastmod: 2023-02-04
-  courses: ["CPSC210", "CPSC304", "CPSC310"]
-  email: jayhomn@gmail.com
-  bio: |
-    I am a fourth year computer science student with 4 terms of TA experience for CPSC 210 and CPSC 213. In addition, I have achieved these grades for the three respective courses I'm tutoring for:
-      * CPSC 210: 98%
-      * CPSC 310: 97%
-      * CPSC 304: 99%
-
-    I also have 16 months of industry experience particularly in Java and Javascript.
-  rates: $35-50/h
-  availability: Monday-Friday 6pm onwards, Sat-Sun 1pm
-
 - name: Hailey Han
   lastmod: 2023-03-22
   courses: ["CPSC110"]
