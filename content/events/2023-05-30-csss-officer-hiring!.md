@@ -17,6 +17,8 @@ start_date: 2023-05-29 21:00:00
 end_date: 2023-06-09 23:59:00
 ---
 
+![CSSS Officer Applications Graphic](/files/2023-05-30-hiring_design.png)
+
 CSSS Officer applications are now open! Apply now to join the team and assist with club events for 2023-2024! Interviews and offers will be sent out on a rolling basis, so apply as soon as possible!
 
 Applications will close on June 9, at 11:59 pm. Feel free to ask questions in our [Discord](https://discord.gg/xF3WbYDubF) and [Instagram](https://www.instagram.com/ubc_csss/)!
