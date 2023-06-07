@@ -32,8 +32,6 @@
                 <a
                   class="nav-link {{ if eq $url $menuUrl }}
                     active
-                  {{ end }} {{ if (eq $menuUrl "/cube-talks/") }}
-                    pulse-primary
                   {{ end }}"
                   href="{{ $menuUrl }}"
                   >{{ .Name }}</a
@@ -72,43 +70,4 @@
       </div>
     </div>
   </nav>
-  <style>
-    /* adapted from https://github.com/zachnietling/bootstrap-pulse/blob/master/pulse.css */
-    .pulse-primary {
-      color: rgba(255, 255, 255, 0.8);
-      border-radius: 8px;
-      animation: pulse-primary 3s 3;
-      box-shadow: 1px 1px 4px var(--bs-link-color);
-    }
-    @-webkit-keyframes pulse-primary {
-      0% {
-        -webkit-box-shadow: 1px 1px 4px var(--bs-link-color),
-          0px 0px 10px 5px rgba(13, 110, 253, 0);
-      }
-      50% {
-        -webkit-box-shadow: 1px 1px 4px var(--bs-link-color),
-          0px 0px 10px 5px rgba(13, 110, 253, 0.6);
-        color: rgba(255, 255, 255, 1);
-      }
-      100% {
-        -webkit-box-shadow: 1px 1px 4px var(--bs-link-color),
-          0px 0px 10px 5px rgba(13, 110, 253, 0);
-      }
-    }
-    @keyframes pulse-primary {
-      0% {
-        -webkit-box-shadow: 1px 1px 4px var(--bs-link-color),
-          0px 0px 10px 5px rgba(13, 110, 253, 0);
-      }
-      50% {
-        -webkit-box-shadow: 1px 1px 4px var(--bs-link-color),
-          0px 0px 10px 5px rgba(13, 110, 253, 0.6);
-        color: rgba(255, 255, 255, 1);
-      }
-      100% {
-        -webkit-box-shadow: 1px 1px 4px var(--bs-link-color),
-          0px 0px 10px 5px rgba(13, 110, 253, 0);
-      }
-    }
-  </style>
 </header>
