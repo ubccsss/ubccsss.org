@@ -11,7 +11,3 @@ on our social media outlets.
 <br/>
 
 Join us on <a id="discord-serverhttpsdiscordggxf3wbydubf" href="https://discord.gg/xF3WbYDubF" target="_blank">Discord</a> and sign up for our <a href="http://eepurl.com/h-QQ_z" target="_blank">newsletter</a>!
-
-<b>
-    Check out our new podcast, <a href="/cube-talks">Cube Talks</a>!
-</b>
