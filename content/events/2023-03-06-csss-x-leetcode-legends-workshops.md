@@ -14,7 +14,7 @@ images:
 # Start date and time. Used for calendar page.
 start_date: 2023-03-07 18:00:00
 # End date and time (defaults to one hour after start). Used for calendar page.
-end_date: 2025-06-12 19:00:00
+end_date: 2023-04-30 19:00:00
 file_ics: /static/files/leetcode-legends.ics
 when: "Every Tuesday and Thursday, 6-7PM"
 ---
