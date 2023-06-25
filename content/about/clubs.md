@@ -28,9 +28,6 @@ The following UBC CS-related clubs are partners of the CSSS. Click on each club 
     {{< club title="UBC Game Dev" href="https://www.ubcgamedev.com/" src="/files/ubcgamedev.png" description="A student run video game development club aiming to give students a hands-on approach in making video games." discord="https://discord.io/ubcgamedev" facebook="https://www.facebook.com/ubcgamedev/" instagram="https://www.instagram.com/ubcgamedev/?hl=en" >}}
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="BizHacks" href="https://www.bizhacks.ca/" src="/files/bizhacks.png" description="An independent organization that organizes events oriented around solving real-life business issues." facebook="https://www.facebook.com/bizhacks.ca/" instagram="https://www.instagram.com/bizhacks.ca/" >}}
-  </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
     {{< club title="WiDS (Women in Data Science)" href="https://linktr.ee/widsubc" src="/files/wids.png" description="WiDS is a student led initiative that aims to empower, inspire, and connect women in data science." discord="https://discord.gg/4jY6tjySxn" instagram="https://instagram.com/widsubc" facebook="https://www.facebook.com/widsubc/" >}}
   </div>
 </div>
