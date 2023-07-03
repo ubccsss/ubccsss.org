@@ -10,14 +10,16 @@ categories: [project]
 author: Tommy Xu
 # Images associated to this event. Used for banner.
 images:
-  - /files/2023-07-03-#3-attempt.png
+  - /files/2023-07-03-club-tech-consulting.png
 # Start date and time. Used for calendar page.
 start_date: 2023-07-03 00:00:00
 # End date and time (defaults to one hour after start). Used for calendar page.
 end_date: 2023-07-18 23:59:59
 ---
 
-📣📣  Attention all clubs at UBC! Looking for a tech upgrade? 💻 
+![Club Tech Consulting Poster](/files/2023-07-03-club-tech-consulting.png)
+
+📣📣 Attention all clubs at UBC! Looking for a tech upgrade? 💻
 
 UBC Computer Science Student Society (CSSS) is launching our Tech Consulting Program. We're offering free tech solutions, tailored just for you! From creating custom tech tools to AI-powered marketing assistants, our talented CS students are ready to innovate your club operations. 🧠💡
 
@@ -29,4 +31,4 @@ Questions? Reach out to vpx@ubccsss.org.
 
 Let's harness the power of technology together. [Apply now!](https://forms.gle/FNFqfwMmXuu84Dxm9) 📝
 
-*This application is intended for UBC student clubs only, not for individual students.
+\*This application is intended for UBC student clubs only, not for individual students.
