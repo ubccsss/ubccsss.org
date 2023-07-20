@@ -1,4 +1,12 @@
 reviews:
+  - author: Jen Chen
+    authorLink: 
+    date: 2023-07-20
+    review: |
+      I didn't find any of the 100-level year courses that difficult. This course I found slightly more challenging than 110 (along with the descendants of this course (CPSC 221, 320) v. (CPSC 210, 310)).
+    difficulty: 2
+    quality: 4
+    sessionTaken: 2018W1
   - author: Daniel
     authorLink:
     date: 2023-04-06
