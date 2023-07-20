@@ -1,4 +1,13 @@
 reviews:
+  - author: Jen Chen
+    authorLink: 
+    date: 2023-07-20
+    review: |
+      Probably the easiest elective I've taken during my CPSC career at UBC.
+      Interesting course, a bit dry at points because it was so easy. Perhaps easier than CPSC 110.
+    difficulty: 1
+    quality: 2
+    sessionTaken: 2019W2
   - author: annonn
     authorLink:
     date: 2023-02-03
