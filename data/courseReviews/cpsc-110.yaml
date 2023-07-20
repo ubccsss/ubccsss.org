@@ -1,4 +1,12 @@
 reviews:
+  - author: Jen Chen
+    authorLink: 
+    date: 2023-07-20
+    review: |
+      I found the 100-level UBC CS Courses to be among the easiest in my degree. All the content (tested, otherwise) was fair / expected. Nothing too difficult as long as you keep up with the course-work.
+    difficulty: 1
+    quality: 5
+    sessionTaken: 2018W1
   - author: csstudent
     authorLink:
     date: 2023-04-23
