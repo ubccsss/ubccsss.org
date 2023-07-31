@@ -1,0 +1,23 @@
+[build]
+publish = "public"
+command = "hugo --minify"
+
+[build.environment]
+HUGO_VERSION = "0.104.2"
+HUGO_ENABLEGITINFO = "true"
+
+[context.production.environment]
+HUGO_ENV = "production"
+
+[context.deploy-preview.environment]
+HUGO_ENV = "preview"
+
+[[redirects]]
+from = "/events/2023/01/19/technical-career-fair/"
+to = "/tcf2023"
+status = 302
+
+[[redirects]]
+from = "/tcf/*"
+to = "/tcf2023/:splat"
+status = 302

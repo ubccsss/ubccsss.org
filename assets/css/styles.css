@@ -1,0 +1,98 @@
+body {
+  background: #fcfcfc;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-brand {
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  word-break: break-word;
+}
+
+.blog-post {
+  margin-bottom: 2rem;
+}
+
+.blog-header {
+  margin-bottom: 3rem;
+}
+
+.blog-header .navbar {
+  padding: 10em 2em 1em;
+  margin: -9em -1em 2%;
+  color: #fcfcfc;
+  background: #0a0e1a;
+}
+
+.outline-menu {
+  height: auto;
+  max-height: 20em;
+  overflow-x: hidden;
+}
+
+.title h1 {
+  font-size: 75px;
+  font-weight: bold;
+}
+
+.large-text h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.navbar-top {
+  background-color: #fcfcfc !important;
+}
+
+.nav-link {
+  color: var(--bs-dark) !important;
+}
+
+.nav-link:hover {
+  color: var(--bs-blue) !important;
+}
+
+.dropdown-menu {
+  padding: 0;
+}
+
+@media only screen and (max-width: 992px) {
+  .dropdown-menu {
+    border: none;
+    background-color: #fcfcfc;
+  }
+
+  .dropdown-item:active {
+    background-color: #e9ecef;
+    color: black;
+  }
+
+  .blog-header {
+    margin-bottom: 0rem;
+  }
+
+  .title h1 {
+    font-size: 65px;
+  }
+}
+
+/* placed after 992px to ensure that styles are overwritten */
+@media screen and (max-width: 768px) {
+  .title h1 {
+    font-size: 50px;
+  }
+
+  /* hide on devices smaller than 768px */
+  .hide-on-mobile {
+    visibility: hidden;
+    display: none;
+  }
+}
