@@ -1,0 +1,23 @@
+# Short URLs
+/print               https://www.google.com/cloudprint/addpublicprinter.html?printerid=fa058adf-1b9f-ef82-f279-cf61dab9f8a2&key=2300281838
+/vote                https://www.ugrad.cs.ubc.ca/~v7w9a/elections/
+/nominate            /posts/2019/03/03/nominations/
+/gala                /events/2023/03/09/ubc-csss-gala/
+/rrng                https://www.facebook.com/events/922345057935050/
+/project-hub         https://join.slack.com/t/ubcprojecthub/shared_invite/enQtNTM4MzA2NTQ5NzUwLWI1MDBhOGRjNDNjOWEzNGUxNDYyNmNkNmI5MjEwNjVmYWE1MmY4NDYwNjg5YjAzMjU1ODQzOTI1MzBlNDEyNmM
+/projecthub          /project-hub
+/projecthub-chat     /project-hub
+/fyr                 https://docs.google.com/forms/d/e/1FAIpQLSf4HsuBOSYvvr3_y6zupxj8_gU3AdfdSdyr0Th1EQ0elNHOHw/viewform
+/trivia              https://docs.google.com/forms/d/e/1FAIpQLSc1NRnK9U3PFWInFpcBymSRLM0GgwDLTjVnWQDDADNKEYUCOg/viewform
+/candygrams          https://www.formget.com/app/form/share/hr9w-324710
+/2016-03-agm-agenda  https://docs.google.com/document/d/1UEkb3s7FF7oVnuQYWKN_zPsonfaLEoqbwfv2WHEus5w/mobilebasic
+/2017-03-agm-agenda  https://docs.google.com/document/d/1UEkb3s7FF7oVnuQYWKN_zPsonfaLEoqbwfv2WHEus5w/mobilebasic
+/ballot              https://www.ugrad.cs.ubc.ca/~v7w9a/elections/
+/election            https://www.students.cs.ubc.ca/~rayhua12/index.html
+/elections           https://www.students.cs.ubc.ca/~rayhua12/index.html
+/discord             https://discord.gg/xF3WbYDubF
+
+# Alternate domains
+# https://ubccsss.netlify.com/*  https://ubccsss.org/:splat 301!
+https://thecube.ca/*  https://ubccsss.org/:splat 301!
+https://www.thecube.ca/*  https://ubccsss.org/:splat 301!

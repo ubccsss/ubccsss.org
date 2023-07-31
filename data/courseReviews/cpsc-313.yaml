@@ -1,0 +1,36 @@
+reviews:
+  - author: shubh
+    authorLink: https://www.linkedin.com/in/shubh-bhalla/
+    date: 2023-05-07
+    review: |
+      Great course, which is mandatory for students majoring in Computer Science. This course teaches students how the hardware works and how to optimize programs by utilizing caching, the system's virtual memory, etc.
+      A lot of what you learn can be applied to software development and is needed if you want a deeper understanding of a low-level software system. 
+      I took this course with Margo and Patrice and had a great time learning from them.
+    difficulty: 4
+    quality: 5
+    sessionTaken: 2022W2
+  - author: FC
+    authorLink:
+    date: 2023-02-20
+    review: |
+      Great courses specially you are taking it with Margo. Course content is managed well on PrairieLearn. A lot of programming assignments especially the second half of the course. 
+
+      Systems can be messy but you will learn a lot for sure
+    difficulty: 3
+    quality: 5
+    sessionTaken: 2020W2
+  - author: mar
+    authorLink:
+    date: 2023-02-13
+    review: |
+      well organized. has more work than some other cpsc classses (has quizzes, assignments, pre-lecture videos, inclass assignments...), but very manageable imo
+    difficulty: 2.5
+    quality: 4
+    sessionTaken: 2022W1
+  - author: carz
+    authorLink:
+    date: 2020-10-11
+    review: >
+      Very well-organized course with most assessments on PrairieLearn. Course content is pretty difficult though.
+    difficulty: 4
+    quality: 5

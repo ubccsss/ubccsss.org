@@ -1,0 +1,84 @@
+- id: by
+  translation: "by"
+
+- id: tags
+  translation: "Tags"
+
+- id: categories
+  translation: "Categories"
+
+- id: readMore
+  translation: "Read More →"
+
+- id: translations
+  translation: "Translations"
+
+- id: related
+  translation: "See also"
+
+- id: recentPosts
+  translation: "Recent Posts"
+
+- id: backToTop
+  translation: "Back to top"
+
+- id: language
+  translation: "Language"
+
+- id: thanks
+  translation: "Hugo template made with ❤ by {{.Xzya}}, inspired by {{.HugoThemeBootstrap4Blog}}"
+
+- id: elsewhere
+  translation: "Elsewhere"
+
+- id: addToGoogleCalendar
+  translation: "Add to Google Calendar"
+
+- id: addToIcsCalendar
+  translation: "Add to other calendar apps"
+
+- id: item
+  translation: "Item"
+
+- id: price
+  translation: "Price"
+
+- id: older
+  translation: "Older"
+
+- id: newer
+  translation: "Newer"
+
+- id: resources
+  translation: "Resources"
+
+- id: about
+  translation: "About"
+
+- id: cubeAddress
+  translation: >
+    UBC Computer Science Student Society <br>
+    ICICS Room 021 <br>
+    2366 Main Mall <br>
+    Vancouver, BC V6T 1Z4
+
+- id: verifiedTutors
+  translation: "Verified {{ .start }}-{{ .end }} Tutors"
+
+- id: lastUpdated
+  translation: "Last updated: "
+
+- id: courses
+  translation: "Courses: "
+
+- id: availability
+  translation: "Availability: {{ .availability }}"
+
+- id: rates
+  translation: "Rates: {{ .rates }}"
+
+- id: emailTutor
+  translation: "Email {{ .email }}"
+
+- id: edit
+  translation: "Edit on GitHub"

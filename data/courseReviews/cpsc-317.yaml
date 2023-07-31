@@ -1,0 +1,68 @@
+reviews:
+  - author: shubh
+    authorLink: https://www.linkedin.com/in/shubh-bhalla/
+    date: 2023-05-07
+    review: |
+      The course gets a bit boring most of the time during the lectures. Still, even though it is boring, it teaches students vital knowledge needed to understand how networks work and how machines operate over the internet. 
+      I would highly recommend taking this course no matter what you want to do further in Computer Science. It gave a great bird eye view of the internet and how your machine talks to a computer in another country, domain name resolution, and encryption in the internet space, among other things.
+    difficulty: 4
+    quality: 3.5
+    sessionTaken: 2022W2
+  - author: Brandon Orange
+    authorLink:
+    date: 2023-02-25
+    review: |
+      With Alan Wagner, the course is poorly structured and the lectures were poor. I only realized halfway through that reading the textbook was more effective than going to lectures. I have heard that this course is much better with other professors.
+    difficulty: 4
+    quality: 1
+  - author: ayylmao
+    authorLink:
+    date: 2023-02-22
+    review: |
+      Like all CPSC courses, the material is quite dense and the assignments are heavy. I took this course with Norm / Aastha and both are very competent lecturers who clearly spend a lot of time helping students. The piazza helpfulness rate is outstanding.
+
+      When I took this course it had 5 quizzes, 6% each, for a total of 30%, instead of midterms. The quizzes are close-book, biweekly and proctored (1 hour long). They do a good job of making you stay on top of the material and I overall prefer the quizzes.
+
+      The assignments are biweekly and also worth around the same amount. But like many CS assignments depends heavily on your programming skills. So far I found the assignments to be challenging and at times vague (but the piazza helps for clarifications). Prepare to spend 10-20 hours per assignment if you are a decent programmer, more otherwise.
+
+      Material is difficult conceptually. There is just a lot of it. Very relevant to real life. Recommend as an elective.
+    difficulty: 4
+    quality: 4
+    sessionTaken: 2023W2
+  - author: cpscstuednt
+    authorLink:
+    date: 2023-02-03
+    review: |
+      Great course, even though it is not required for a major, I would highly recommend it. Very in demand skills and applicable content.
+    difficulty: 3.5
+    quality: 5
+    sessionTaken: 2023W2
+  - author: /u/creamenator
+    authorLink: https://www.reddit.com/r/UBC/comments/1zo80v/recommended_300level_cpsc_course/cfvk5zf
+    date: 2014-03-05
+    review: >
+      317 with Donald Acton is pretty fun. Networking is sort of my jam though, so I'm a bit biased. I found the text incredibly interesting. It's really the only instance of me in UBC reading a textbook leisurely just to learn more. You get to learn the protocol stack and how the Internet works! It's really amazing. I really wish there more assignments though. It'll give you experience with socket programming which is definitely an asset you want to have as a developer.
+    difficulty: 0
+    quality: 0
+  - author: /u/vaastav05
+    authorLink: https://www.reddit.com/r/UBC/comments/bsasu1/comp_sci_courses_at_ubc/eom20bx
+    date: 2019-05-23
+    review: >
+      100% should take. Networking is an important concept and this course forms the basis of it.
+    difficulty: 0
+    quality: 0
+  - author: eqfy
+    authorLink: https://github.com/eqfy
+    date: 2022-01-21
+    review: >
+      A fairly interesting course that covers the basics of internet computing. The course goes over each of the five layers of the internet and focuses on a few select protocols from each layer (HTTP, SMTP, POP3, IMAP, DNS, TCP, IP, DHCP, BGP, VPN, TLS etc.). Jonatan Schroeder (currently at York University) is a great professor who explains the concepts very thoroughly. Beware that there is going to be a lot of technical documentation reading (RFCs) for assignments and the quizzes/exams focus quite heavily on conceptual understanding.
+    difficulty: 0
+    quality: 0
+  - author: Eugene
+    authorLink:
+    date: 2022-11-07
+    review: |
+      Very interesting and practical class. You learn a lot ablut networking while doing interesting assignments. Can be on tge kore difficult side in some sections
+    difficulty: 3.5
+    quality: 5
+    sessionTaken: 2020W1

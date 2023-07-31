@@ -1,0 +1,17 @@
+_merge: deep
+github:
+  repo: ubccsss/ubccsss.org
+  branch: master
+# Default values for event `location.address`
+default_location_address:
+  addressLocality: Vancouver
+  addressRegion: BC
+  addressCountry: CA
+mainSections:
+  - events
+  - posts
+truncate: false
+header:
+  colorScheme: light
+footer:
+  colorScheme: dark

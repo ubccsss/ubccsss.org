@@ -1,0 +1,8 @@
+reviews:
+  - author: gk
+    authorLink:
+    date: 2022-05-25
+    review: >
+      A short but concise introduction to ML with sklearn.
+    difficulty: 0
+    quality: 0

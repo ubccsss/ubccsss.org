@@ -1,0 +1,48 @@
+{{ $num_full := math.Floor (float .rating) }}
+{{ $num_half := sub .rating $num_full }}
+{{ $num_empty := sub 5 (math.Ceil (float .rating)) }}
+{{ $color := .color | default "text-success" }}
+{{ if not (isset . "color") }}
+  {{ if lt .rating 3 }}
+    {{ $color = "text-danger" }}
+  {{ else if lt .rating 4 }}
+    {{ $color = "text-warning" }}
+  {{ end }}
+{{ end }}
+
+{{ range seq $num_full }}
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="16"
+    height="16"
+    fill="currentColor"
+    class="bi bi-circle-fill me-1 {{ $color }}"
+    viewBox="0 0 16 16">
+    <circle cx="8" cy="8" r="8" />
+  </svg>
+{{ end }}
+
+{{ if gt $num_half 0 }}
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="16"
+    height="16"
+    fill="currentColor"
+    class="bi bi-circle-half me-1 {{ $color }}"
+    viewBox="0 0 16 16">
+    <path d="M8 15A7 7 0 1 0 8 1v14zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16z" />
+  </svg>
+{{ end }}
+
+{{ range seq $num_empty }}
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="16"
+    height="16"
+    fill="currentColor"
+    class="bi bi-circle me-1 {{ $color }}"
+    viewBox="0 0 16 16">
+    <path
+      d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+  </svg>
+{{ end }}

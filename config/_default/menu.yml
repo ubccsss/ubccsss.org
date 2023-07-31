@@ -1,0 +1,21 @@
+main:
+  - identifier: about
+    name: About
+    url: /about/
+    weight: -130
+  - identifier: cube
+    name: The Cube
+    url: /cube/
+    weight: -120
+  - identifier: learn
+    name: Services
+    url: /services/
+    weight: -110
+  - identifier: courses
+    name: Course Reviews
+    url: /services/courses/
+    weight: -100
+  - identifier: contact
+    name: Contact
+    url: /contact/
+    weight: -80

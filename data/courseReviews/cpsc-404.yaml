@@ -1,0 +1,17 @@
+reviews:
+  - author: KF
+    authorLink:
+    date: 2023-02-14
+    review: |
+      Course is well-taught and not too difficult, but quickly gains a lot of content and can be pretty dry at times. No programming or very little involved (some SQL). Took this class with Ed Knorr, his marking scheme is very helpful for students. There are pre-class and in-class exercises with frequent deadlines, but they're not difficult. Assignments had good instructions on what to follow.
+    difficulty: 3
+    quality: 5
+    sessionTaken: 2022W1
+  - author: HK
+    authorLink:
+    date: 2023-02-06
+    review: |
+      Course is taught well but the material becomes complicated pretty quickly. Took it w Ed Knorr and he had a student-friendly grading policy (3 midterms with worst one being replaced by your final if the latter is better). Each midterm was a month apart and no major assignments that take over your weekends. You could get 13% right-away on the course via clickers, In-Class/Pre-class exercises that are graded based partially on effort and correctness.
+    difficulty: 4.5
+    quality: 5
+    sessionTaken: 2022W1

@@ -1,0 +1,30 @@
+reviews:
+  - author: 2nd year bsc student
+    authorLink:
+    date: 2023-05-26
+    review: |
+      what I took away was the foundational relationships between how hardware was designed and how software programming languages are built on top of one another.
+
+      topics in my term
+      - assembly and hardware-to-software design
+      - using c and java to abstract parts of hardware instructions
+      - asynchronous code
+    difficulty: 4.5
+    quality: 5
+    sessionTaken: 2022W2
+  - author: averagestudent
+    authorLink:
+    date: 2022-11-03
+    review: |
+      This course teaches a lot about how computers work on the hardware side and how low level code works. Fun course that teaches you a lot but not an easy one for sure. I liked the concepts of deadlocks the most. Took this course with Robert Xiao and had a great time!
+    difficulty: 4
+    quality: 5
+    sessionTaken: 2020W2
+  - author: lolmaker
+    authorLink:
+    date: 2022-11-05
+    review: |
+      Was quite fun. Assembly was a bit annoying at first, and it remained annoying unfortunately. But, It was interesting. I recommend to all CS students.
+    difficulty: 4.5
+    quality: 3.5
+    sessionTaken: 2020W1

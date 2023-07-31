@@ -1,0 +1,19 @@
+# Defines lists displayed in the footer of the site.
+# header values map to i18n strings.
+# item values are links to pages in the site.
+
+- header: resources
+  items:
+    - /events
+    - /services/resources
+    - /cube/menu
+    - /cube/lockers
+    - /about/clubs
+
+- header: about
+  items:
+    - /about/team/executives
+    - /about/team/officers
+    - /about/minutes
+    - /volunteer
+    - /contact/suggestions-box

@@ -1,0 +1,62 @@
+<script async src="{{ site.Params.gcseURL }}"></script>
+<div class="gcse-search"></div>
+
+<style>
+  .gsc-input-box {
+    padding-top: 3px;
+    padding-bottom: 2px;
+    border-radius: 8px 0 0 8px;
+  }
+  .gsc-search-button-v2 {
+    width: auto;
+    padding: 11px 10px;
+    margin: 0;
+    border-radius: 0;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+  }
+  .gsc-search-box-tools .gsc-search-box .gsc-input {
+    padding: 0;
+  }
+  .gsc-input-box table {
+    height: 100%;
+  }
+  .gsc-search-button-v2 svg {
+    height: auto;
+    width: 16px;
+  }
+  .gsib_a {
+    border-bottom: #0a0e1a 1px solid !important;
+    display: inline-block !important;
+    font-family: var(--bs-body-font-family);
+  }
+  #gs_st50 {
+    width: none !important;
+    display: none !important;
+  }
+  @media only screen and (min-width: 992px) {
+    .gsc-input {
+      width: 200px !important;
+    }
+  }
+  .gsc-control-cse {
+    /* !important required, otherwise the CSS file from Google overwrites this */
+    padding: 0;
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+  }
+  .gsc-search-button,
+  .gsc-input-box,
+  .gsc-input1,
+  #gsc-i-id1 {
+    background-color: #fcfcfc !important;
+    border-color: #fcfcfc !important;
+  }
+</style>
+
+<script>
+  window.onload = () => {
+    document.getElementById("gsc-i-id1").placeholder = "Search";
+  };
+</script>

@@ -1,0 +1,34 @@
+{{ define "main" }}
+  {{ $currentOfficers := index (sort .RegularPages "Title" "asc") 0 }}
+
+
+  <header>
+    {{ partial "breadcrumb/breadcrumbs" . }}
+
+
+    <h1 class="blog-post-title">
+      <a class="text-dark text-decoration-none" href="{{ .RelPermalink }}"
+        >{{ $currentOfficers.Title | markdownify }}</a
+      >
+    </h1>
+    <hr />
+  </header>
+  <article class="blog-post">
+    {{ with $currentOfficers }}
+      {{ .Content }}
+
+      {{ if .IsTranslated }}
+        <h4>{{ i18n "translations" }}</h4>
+        <ul>
+          {{ range .Translations }}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    {{ end }}
+
+    {{ partial "pages/pager" . }}
+  </article>
+{{ end }}

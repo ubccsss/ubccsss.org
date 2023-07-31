@@ -1,0 +1,95 @@
+reviews:
+  - author: Jen Chen
+    authorLink: 
+    date: 2023-07-20
+    review: |
+      I didn't find any of the 100-level year courses that difficult. This course I found slightly more challenging than 110 (along with the descendants of this course (CPSC 221, 320) v. (CPSC 210, 310)).
+    difficulty: 2
+    quality: 4
+    sessionTaken: 2018W1
+  - author: Daniel
+    authorLink:
+    date: 2023-04-06
+    review: |
+      The course was fairly difficult in terms of concepts and takes a good amount of practice to come to grips with. The topics chosen itself are very interesting and have increased my interest in programming and computing. 
+
+      I had Patrice as my professor, and his lectures were well done, although I do wish slides were more detailed so that they were more helpful when reviewing (ie. mix in a bit of Geoffrey's slides). 
+
+      The labs were very fun to complete and had a good balance of difficulty. The magic box portion was fun to play with and observe what happens, but sometimes kits were missing wires of ICs and would hinder the process a bit. The rest of the lab content when using Logisim was fun and intuitive to use.
+    difficulty: 5
+    quality: 4.5
+    sessionTaken: 2023W2
+  - author: Malkeet Singh
+    authorLink:
+    date: 2023-04-05
+    review: |
+      Undoubtedly, 121 is an interesting course; however, the class teaching/learning doesn't directly correlates to the exam difficulty levels.
+    difficulty: 5
+    quality: 4
+    sessionTaken: 2023W2
+  - author: Adam
+    authorLink:
+    date: 2023-04-05
+    review: |
+      Moves through deep technical content very quickly. Lab content often is independent of lecture content. Requires effort to stay on top of content and not fall behind.
+    difficulty: 4
+    quality: 2.5
+    sessionTaken: 2023W2
+  - author: Stephanie Ho
+    authorLink:
+    date: 2022-10-25
+    review: |
+      The course was logical and no coding was required. Tutorials are super helpful to gain a better understanding on the course material. In labs, we worked in pairs and it was a good experience to meet new people in CS but it was a definitely a time crunch. Make sure to set aside plenty of time for assignments.
+    difficulty: 1.5
+    quality: 5
+    sessionTaken: 2021W2
+  - author: Leila
+    authorLink:
+    date: 2022-10-25
+    review: |
+      Interesting course that is actually more about logic rather than actual programming. Not too hard, but definitely requires a lot of studying
+    difficulty: 3.5
+    quality: 3.5
+    sessionTaken: 2022W2
+  - author: cinadia
+    authorLink:
+    date: 2022-10-25
+    review: |
+      Covers extremely important CS and mathematical concepts, but I found the course to be poorly structured *compared to* other CS courses. Material in labs seemed completely unrelated to lecture. Professors are great though, funny, caring, hold excellent office hours. Course can be quite challenging for those who struggle with logical thinking. Find a good assignment partner!!
+    difficulty: 5
+    quality: 4
+    sessionTaken: 2021W1
+  - author: pilatus14a
+    authorLink:
+    date: 2022-10-25
+    review: |
+      Confusing but fun. Keep doing the work and you will get an A
+    difficulty: 4.5
+    quality: 4.5
+    sessionTaken: 2019W2
+  - author: Sss
+    authorLink:
+    date: 2022-11-03
+    review: |
+      Did not like this course personally. A lot of proofs and boolean algebra. Also Hated using LaTeX for the assignments.
+    difficulty: 3.5
+    quality: 3
+    sessionTaken: 2019W2
+  - author: Eugene
+    authorLink:
+    date: 2022-11-04
+    review: |
+      - important topics
+      - course content can be difficult like the proofs
+      - there is a big time investment needed to do work and have solid understanding
+    difficulty: 4
+    quality: 3.5
+    sessionTaken: 2017W2
+  - author: proofbyinduction
+    authorLink:
+    date: 2022-11-17
+    review: |
+      The course covers a wide range of material, including propositional logic, proofs, and circuit diagrams. I found the course pace and progression quite reasonable. I especially enjoyed the labs - the content builds up from simple AND gates to simulating an entire CPU. Assignments and tutorials are very useful for building a deeper understanding of the topics!
+    difficulty: 4
+    quality: 4.5
+    sessionTaken: 2021W2
