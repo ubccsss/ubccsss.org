@@ -7,6 +7,13 @@
   background-size: cover;
   height: max-content;
 }
+.coming-soon {
+  height: 100vh;
+}
+.coming-soon .hero-header-content {
+  align-items: center;
+  display: flex;
+}
 .hero-header-content {
   width: 100%;
   height: 100%;
