@@ -1,5 +1,5 @@
 ---
-title: Topics in Data Management
+title: Machine Learning II
 layout: course
 description:
 ---
