@@ -1,5 +1,5 @@
 ---
-title: Topics in Data Management
+title: Artificial Intelligence II
 layout: course
 description:
 ---

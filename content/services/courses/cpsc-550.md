@@ -1,5 +1,5 @@
 ---
-title: Computational Geometry
+title: Machine Learning II
 layout: course
 description:
 ---
