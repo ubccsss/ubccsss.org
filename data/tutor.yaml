@@ -307,3 +307,71 @@
     Hi there, I'm a 2020 graduate of UBC's Comp Sci program. I was a TA for CPSC 210 for two terms with Professor Carter and Hutchinson. I currently work as a software engineer for Microsoft and can tutor in person or virtually.
   rates: $45/Hour
   availability: Weekends, some Weekdays. (Contact me for scheduling)
+
+- name: Ayan Das
+  lastmod: 2023-09-04
+  courses: [CPSC110, CPSC210, CPSC304, CPSC322]
+  email: ayandas@student.ubc.ca
+  bio: |
+    5th year CPSC student with 8 terms of TA experience(CPSC 107, 110, 322) and 20 months of co-op experience.
+  rates: $35/hr weekdays, $40/hr weekends
+  availability: "Weekdays: 4-8 pm, Weekends: flexible"
+
+- name: Aprameya Aithal
+  lastmod: 2023-09-04
+  courses: [CPSC110, CPSC121, DSCI100]
+  email: aprameyaithal@gmail.com
+  bio: |
+    Hi! I've just finished first year and I have recent experience with the above courses. I'm thorough with the course concepts (having scored 94+ in all these courses), and have learnt how to explain the concepts in an easy-to-understand manner. I also understand exactly how to succeed in the courses' various assessments. I'll do my best to help you improve enjoy the subject, learn, as well as improve your grade!
+    FREE trial session available. Please contact me for any further questions!
+  rates: $19/hr
+  availability: Weekday evenings
+
+- name: Aleksandr Kim
+  lastmod: 2023-09-04
+  courses:
+    [
+      MATH100,
+      MATH101,
+      MATH152,
+      MATH221,
+      MATH200,
+      MATH220,
+      MATH307,
+      MATH317,
+      PHYS117,
+      PHYS118,
+      MATH302
+    ]
+  email: tkim06@student.ubc.ca
+  bio: |
+    I have TAed some math courses. I am especially interested in topics in differential geometry. I am also pursuing honours mathematics.
+  rates: 100 level - 30 $/hr   ;   200 level - 40 $/hr   ;   300 level - 50 $/hr
+  availability: Monday - Saturday 9 am - 9pm (Flexibility for some other time)
+
+- name: Ashish Chopra
+  lastmod: 2023-09-04
+  courses: [CPSC103]
+  email: sendtoashishchopra@gmail.com
+  bio: |
+    I was the sessional lecturer for this course at UBC in 2021, 2022 summer terms with 110+ students. I received 4.7/5 of student feedback survery controlled by UBC. I have taught this course in online as well as in-person mode, designed midterms, final exams, and managed a team of TA for course execution. I TAed this course 2 times when I was a Masters student and also tutored couple of students when I wasn't TAing or teaching. I am also working as Senior Software Engineer in IT industry with 8 years of work experience. You can find my record on UBC CS faculty page as a sessional lecturer.
+  rates: 45-50 CAD per hour
+  availability: Evenings (Wed, Thu, Fri, Sat 6-10pm)
+
+- name: Phuong Nguyen
+  lastmod: 2023-09-04
+  courses: [CPSC107, CPSC110]
+  email: phuongnguyen0612000@gmail.com
+  bio: |
+    Recently graduated from UBC in Combined Major in Computer Science and Microbiology and Immunology. I am an experienced TA, having TA'd both CPSC 110 and 107 for multiple terms.
+  rates: $30/h
+  availability: M-F 5pm - 10pm; weekend (flexible)
+
+- name: Brandon Kato
+  lastmod: 2023-09-04
+  courses: [CPSC110, CPSC121, CPSC210]
+  email: brandonkatotutoring@gmail.com
+  bio: |
+    Hello! My name is Brandon and I am a current BCS student. Have experience TAing and tutoring in Chemistry from my former degree. I am now transitioned into computer sciences!
+  rates: $40/hr
+  availability: Flexible (Please contact)
