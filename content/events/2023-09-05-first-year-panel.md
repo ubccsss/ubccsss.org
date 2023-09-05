@@ -21,7 +21,8 @@ end_date: 2023-09-11 19:00:00
 
 Hey first year students! Got any burning questions about CS programs, careers, and admissions you want answered? Come to our First Year Panel Q&A where upper-year CS students and professors will share their experience and knowledge! This is also a great opportunity for you to get to know your peers and make new friends at the start of the term! 
 
-Date & Time: September 11th, 6-7PM
+RSVP [here](https://forms.gle/cnqvDMnmBhzgDA999) to join the event!
+
+Date & Time: September 11th, 6-7PM  
 Location: LIFE 2302
 
-RSVP [here](https://forms.gle/cnqvDMnmBhzgDA999) to join the event!
