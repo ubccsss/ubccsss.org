@@ -17,6 +17,8 @@ start_date: 2023-09-08 18:00:00
 end_date: 2023-09-08 21:00:00
 ---
 
+![First Year Pizza Party Image](files/2023-09-06-first.png)
+
 Hey first years! For those of you interested in our CSSS First Year Pizza Party, the RSVP form has been closed early. Unfortunately due to high demand, we will not be able to invite everybody who RSVP'd to attend. Check your emails to see if you've received an invite. If you haven't received an email, you have been waitlisted for now. Keep an eye on your emails - spots may open up later in the week. We'll have lots more events coming your way, so don't worry if you aren't able to attend this one!
 
 P.S.: Having trouble finding the Pho Real (formerly Pacific Poke) Lounge? Google "Pacific Poke" and choose the location on Main Mall, or if that doesn't work, meet us outside ICICS Room X035!
