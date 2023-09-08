@@ -375,3 +375,22 @@
     Hello! My name is Brandon and I am a current BCS student. Have experience TAing and tutoring in Chemistry from my former degree. I am now transitioned into computer sciences!
   rates: $40/hr
   availability: Flexible (Please contact)
+
+- name: Charles
+  lastmod: 2023-09-07
+  courses: [CPSC221, CPSC320, CPSC340]
+  email: hucharles5@gmail.com
+  bio: |
+    I am a passionate cs student who recently completed third yr honors. I tutored and TAed for 320, achieved the second highest mark on the final exam for 340 (1), and the highest integer-rounded overall mark for the course (2).
+
+    95% in 320
+    96% in 340
+    96% math + cs average
+
+    I like to teach difficult concepts in an easy-to-understand way, without relying on using big words or fancy definitions that only confuse people more. I always prioritize understanding and reasoning over memorizing answers to past assessments. I will teach the exact problem solving technique/procedure that I used to solve every single question on the tests when I took those courses. Anyone looking to improve their skills and solve harder problems from these courses should look no further.
+
+    Sources:
+    (1) prof lehrmann who was one of the profs that taught my 340 section
+    (2) ubc grades (2022w term 2, which are sections 201 and 202)
+  rates: very negotiable, but generally around 50-60/hr ish
+  availability: weekends, or weekday nights
