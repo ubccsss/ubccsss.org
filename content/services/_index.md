@@ -32,8 +32,8 @@ The UBC CSSS offers the following services.
     {{</ card >}}
   </div>
   <div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< card title="Tutoring" href="/services/tutor" src="/files/tutor.jpg" >}}
-      We provide a place for tutors to advertise their availability and for students to find a tutor for Computer Science courses.
+    {{< card title="Cube Menu" href="/cube/menu" src="/files/chips.jpg" >}}
+	   We provide cheap snacks, like chips, pizza, candy, and drinks, in the Cube.
     {{</ card >}}
   </div>
   <!--<div class="col-md-6 col-xl-4 mb-4 d-flex align-items-stretch">

@@ -52,7 +52,6 @@ We'll be publishing our events:
 - here on our website (which also has an [RSS feed](/index.xml)),
 - [Tweeting them](https://twitter.com/ubccsss),
 - posting them on our [Facebook page](https://www.facebook.com/ubccsss/) and our [Instagram](https://www.instagram.com/ubc_csss/),
-- sending updates [via our newsletter](http://eepurl.com/h-QQ_z),
 - and including them in the weekly department emails.
 
 ### How can I volunteer for CSSS events?
