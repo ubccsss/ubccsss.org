@@ -221,11 +221,11 @@
 
 - name: Hawk Lu
   lastmod: 2022-09-17
-  courses: [CPSC110, CPSC121, CPSC210, CPSC221, CPSC310, CPSC320]
+  courses: [CPSC110, CPSC121, CPSC210, CPSC213, CPSC221, CPSC310, CPSC320, CPSC322]
   email: hawklu212@hotmail.com
   bio: |
     Hi! My name is Hawk, 4th year BCS, A fan of all cats and dogs, enjoy playing Ultimate, Industry focused on DevOps, and down to help wherever I can!
-  rates: $30/h
+  rates: $40/h
   availability: Monday, Wednesday, Friday 12pm-6pm
 
 - name: Alex Steele
