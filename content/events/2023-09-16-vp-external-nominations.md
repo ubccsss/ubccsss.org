@@ -17,4 +17,6 @@ start_date: 2023-09-14 16:00:00
 end_date: 2023-09-29 23:59:00
 ---
 
-Nominations for the VP External positions are now open! More details on running for the positions can be found on the form [here](https://drive.google.com/file/d/1GQ5kIVe7sL7I_EJm4pEtsneiVpi8Um9_/view). Applications will close at 11:59 PM on September 29 and must be emailed to Emilie at vpa@ubccsss.org. You will get a response no later than September 30 and the election will run from October 1st to October 8th.
+![VPX Election Promo Image](/files/2023-09-16-csss-vpx.png)
+
+Nominations for the VP External positions are now open! More details on running for the positions can be found on the form [here](https://drive.google.com/file/d/1GQ5kIVe7sL7I_EJm4pEtsneiVpi8Um9_/view). Applications will close at 11:59 PM on September 29 and must be emailed to Emilie at `vpa@ubccsss.org`. You will get a response confirming your eligibility and requesting a blurb no later than September 30, and the election will run from October 1st to October 8th.
