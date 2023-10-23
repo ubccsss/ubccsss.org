@@ -16,7 +16,7 @@ git clone https://github.com/ubccsss/ubccsss.org.git
 cd ubccsss.org
 
 # ensure that the correct version of Node is used
-nvm use
+nvm install
 
 # install dependencies
 npm install
