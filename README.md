@@ -131,6 +131,9 @@ npm run dev
 
 # build the website
 npm run build
+
+# start the server (post build)
+npm run start
 ```
 
 ## Related
