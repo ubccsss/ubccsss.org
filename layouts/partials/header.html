@@ -5,7 +5,15 @@
   <!--Add Dark Mode Support-->
   <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.67/darkreader.min.js"></script>
   <script>
+    if (localStorage.getItem("darkmode") === "true") {
+      DarkReader.enable();
+    }
+
     function darkMode() {
+      const wasDarkmode = localStorage.getItem("darkmode") === "true";
+      localStorage.setItem("darkmode", !wasDarkmode);
+      const element = document.body;
+      element.classList.toggle("dark-mode", !wasDarkmode);
       if (DarkReader.isEnabled()) {
         DarkReader.disable();
       } else {
