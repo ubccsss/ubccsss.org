@@ -69,7 +69,10 @@
             </li>
           </ul>
         {{ end }}
-        {{ partial "search-box" }}
+        <div class="row">
+          <div class="col-md-10">{{ partial "search-box" }}</div>
+          <div class="col-md-1 my-auto"><input type="checkbox" /></div>
+        </div>
       </div>
     </div>
   </nav>
