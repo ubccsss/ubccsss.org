@@ -125,6 +125,6 @@ a {
 }
 
 /* Style the icon for the checked state */
-#darkMode:checked + .dark-mode {
+#darkMode:checked + label::before {
   content: "\263E";
 }

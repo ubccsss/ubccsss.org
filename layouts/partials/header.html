@@ -2,25 +2,6 @@
 
 
 <header class="blog-header">
-  <!--Add Dark Mode Support-->
-  <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.67/darkreader.min.js"></script>
-  <script>
-    if (localStorage.getItem("darkmode") === "true") {
-      DarkReader.enable();
-    }
-
-    function darkMode() {
-      const wasDarkmode = localStorage.getItem("darkmode") === "true";
-      localStorage.setItem("darkmode", !wasDarkmode);
-      const element = document.body;
-      element.classList.toggle("dark-mode", !wasDarkmode);
-      if (DarkReader.isEnabled()) {
-        DarkReader.disable();
-      } else {
-        DarkReader.enable();
-      }
-    }
-  </script>
   <nav
     class="navbar navbar-top navbar-expand-lg navbar-{{ $colorScheme }} bg-{{ $colorScheme }} px-5">
     <div class="container-fluid">
@@ -97,3 +78,21 @@
     </div>
   </nav>
 </header>
+<!--Add Dark Mode Support-->
+<script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.67/darkreader.min.js"></script>
+<script>
+  if (localStorage.getItem("darkmode") === "true") {
+    DarkReader.enable();
+    document.getElementById("darkMode").checked = true;
+  }
+
+  function darkMode() {
+    const wasDarkmode = localStorage.getItem("darkmode") === "true";
+    localStorage.setItem("darkmode", !wasDarkmode);
+    if (DarkReader.isEnabled()) {
+      DarkReader.disable();
+    } else {
+      DarkReader.enable();
+    }
+  }
+</script>
