@@ -1,6 +1,9 @@
 {{ $colorScheme := default "light" .Site.Params.header.colorScheme }}
 
 
+<!--Add Dark Mode Support-->
+<script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.67/darkreader.min.js"></script>
+
 <header class="blog-header">
   <nav
     class="navbar navbar-top navbar-expand-lg navbar-{{ $colorScheme }} bg-{{ $colorScheme }} px-5">
