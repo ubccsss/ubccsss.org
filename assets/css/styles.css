@@ -96,3 +96,35 @@ a {
     display: none;
   }
 }
+
+/* Dark Mode */
+/* Hide the default checkbox */
+#darkMode {
+  display: none;
+}
+
+/* Style the label as the custom checkbox */
+#darkMode + label {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  cursor: pointer;
+  position: relative;
+  background-color: #fff;
+}
+
+/* Style the icon for the unchecked state */
+#darkMode + label::before {
+  font-size: 24px;
+  color: #000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  content: "\263C";
+}
+
+/* Style the icon for the checked state */
+#darkMode:checked + label::before {
+  content: "\263E";
+}
