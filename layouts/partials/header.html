@@ -1,10 +1,18 @@
 {{ $colorScheme := default "light" .Site.Params.header.colorScheme }}
 
 
-<!--Add Dark Mode Support-->
-<script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.67/darkreader.min.js"></script>
-
 <header class="blog-header">
+  <!--Add Dark Mode Support-->
+  <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.67/darkreader.min.js"></script>
+  <script>
+    function darkMode() {
+      if (DarkReader.isEnabled()) {
+        DarkReader.disable();
+      } else {
+        DarkReader.enable();
+      }
+    }
+  </script>
   <nav
     class="navbar navbar-top navbar-expand-lg navbar-{{ $colorScheme }} bg-{{ $colorScheme }} px-5">
     <div class="container-fluid">
@@ -71,7 +79,10 @@
         {{ end }}
         <div class="row">
           <div class="col-md-10">{{ partial "search-box" }}</div>
-          <div class="col-md-1 my-auto"><input type="checkbox" /></div>
+          <!--Dark Mode Button-->
+          <div class="col-md-1 my-auto">
+            <input type="checkbox" onchange="darkMode()" />
+          </div>
         </div>
       </div>
     </div>
