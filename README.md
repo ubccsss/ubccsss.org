@@ -65,7 +65,7 @@ YAML files with some data used elsewhere in the site, including the Cube's addre
 
 ##### `layouts` and `themes`.
 
-HTML template files for the site. The [hugo-bootstrap](https://themes.gohugo.io/hugo-bootstrap/) theme is used as a base for the site. Files with the same name in the `layouts` folder override files in the `themes/hugo-bootstrap` folder.
+HTML template files for the site. Files with the same name in the `layouts` folder override files in the `themes/hugo-bootstrap` folder.
 
 ##### `static`
 
