@@ -82,7 +82,7 @@ Short links and other [redirects](https://docs.netlify.com/routing/redirects/) c
 The site has three environments:
 
 - `development`: This enviroment is used for development.
-- `preview`: The enviroment used for previewing the site on [Netlify deploy previews](https://docs.netlify.com/site-deploys/deploy-previews/)(previews for merge requests).
+- `preview`: The enviroment used for previewing the site on [Netlify deploy previews](https://docs.netlify.com/site-deploys/deploy-previews/) (previews for merge requests).
 - `production`: This enviroment is used for production.
 
 Each environment has its own environment variables accessible in the `config` folder.
