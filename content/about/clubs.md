@@ -25,7 +25,7 @@ The following UBC CS-related clubs are partners of the CSSS. Click on each club 
     {{< club title="NWPlus" href="https://nwplus.io/" src="/files/nwplus.jpg" description="A student-led club supporting aspiring programmers and designers, based out of UBC." facebook="https://www.facebook.com/nwplusubc" instagram="https://www.instagram.com/nwplusubc" blog="https://medium.com/nwplusubc" linktree="https://linktr.ee/nwplusubc" >}}
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="UBC Game Dev" href="https://www.ubcgamedev.com/" src="/files/ubcgamedev.png" description="A student run video game development club aiming to give students a hands-on approach in making video games." discord="https://discord.io/ubcgamedev" facebook="https://www.facebook.com/ubcgamedev/" instagram="https://www.instagram.com/ubcgamedev/?hl=en" >}}
+    {{< club title="UBC Game Dev" href="https://www.ubcgamedev.com/" src="/files/ubcgamedev.png" description="A student run video game development club aiming to give students a hands-on approach in making video games." discord="https://discord.com/invite/xF3WbYDubF" facebook="https://www.facebook.com/ubcgamedev/" instagram="https://www.instagram.com/ubcgamedev/?hl=en" >}}
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
     {{< club title="WiDS (Women in Data Science)" href="https://linktr.ee/widsubc" src="/files/wids.png" description="WiDS is a student led initiative that aims to empower, inspire, and connect women in data science." discord="https://discord.gg/4jY6tjySxn" instagram="https://instagram.com/widsubc" facebook="https://www.facebook.com/widsubc/" >}}
