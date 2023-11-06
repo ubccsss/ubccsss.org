@@ -5,3 +5,17 @@
 {{ end }}
 {{ $dates := delimit (apply (slice $startDate $endDate) "dateFormat" "20060102T150405" ".") "/" }}
 {{ $details := .Plain }}
+<a
+  class="btn btn-outline btn-primary my-3"
+  href="http://www.google.com/calendar/event?
+action=TEMPLATE
+&{{ querify "text" .Title "details" $details "dates" $dates | safeURL }}
+&ctz=Canada/Pacific
+&location={{ partial "event/address" . | safeURL }}
+&trp=false
+&sprop=
+&sprop=name:"
+  target="_blank"
+  rel="noopener"
+  >{{ i18n "addToGoogleCalendar" }}</a
+>
