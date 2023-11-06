@@ -13,7 +13,7 @@ The following UBC CS-related clubs are partners of the CSSS. Click on each club 
 	{{< club title="UBC CTF (Maple Bacon)" href="https://maplebacon.org" src="/files/ubcctf.png" id="maple-bacon" description="A CTF Team at the University of British Columbia." blog="https://maplebacon.org/blog/" discord="https://discord.gg/keeTZsmfVA" >}}
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="ACM" href="https://www.cs.ubc.ca/~acm-web/practice/" src="/files/ubcacm.png" description="A UBC Competitive Programming Team." discord="https://discord.gg/jfZHF7J" facebook="https://www.facebook.com/groups/831817450248984/about/" >}}
+    {{< club title="ACM" href="https://sites.google.com/site/ubcprogrammingteam/home" src="/files/ubcacm.png" description="A UBC Competitive Programming Team." discord="https://discord.gg/jfZHF7J" facebook="https://www.facebook.com/groups/831817450248984/about/" >}}
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
     {{< club title="WiCS (Women* in Computer Science)" href="https://ubcwics.com/" src="/files/wics.png" description="A strong community of women* in Computer Science at UBC." linktree="https://linktr.ee/UBCWiCS" facebook="https://www.facebook.com/ubcwics/" instagram="https://www.instagram.com/ubcwics/" blog="https://ubcwics.com/blog" >}}
@@ -25,7 +25,7 @@ The following UBC CS-related clubs are partners of the CSSS. Click on each club 
     {{< club title="NWPlus" href="https://nwplus.io/" src="/files/nwplus.jpg" description="A student-led club supporting aspiring programmers and designers, based out of UBC." facebook="https://www.facebook.com/nwplusubc" instagram="https://www.instagram.com/nwplusubc" blog="https://medium.com/nwplusubc" linktree="https://linktr.ee/nwplusubc" >}}
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="UBC Game Dev" href="https://www.ubcgamedev.com/" src="/files/ubcgamedev.png" description="A student run video game development club aiming to give students a hands-on approach in making video games." discord="https://discord.io/ubcgamedev" facebook="https://www.facebook.com/ubcgamedev/" instagram="https://www.instagram.com/ubcgamedev/?hl=en" >}}
+    {{< club title="UBC Game Dev" href="https://www.ubcgamedev.com/" src="/files/ubcgamedev.png" description="A student run video game development club aiming to give students a hands-on approach in making video games." discord="https://discord.gg/n5Eu67Z3JR" facebook="https://www.facebook.com/ubcgamedev/" instagram="https://www.instagram.com/ubcgamedev/?hl=en" >}}
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
     {{< club title="WiDS (Women in Data Science)" href="https://linktr.ee/widsubc" src="/files/wids.png" description="WiDS is a student led initiative that aims to empower, inspire, and connect women in data science." discord="https://discord.gg/4jY6tjySxn" instagram="https://instagram.com/widsubc" facebook="https://www.facebook.com/widsubc/" >}}

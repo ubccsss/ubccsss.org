@@ -13,4 +13,4 @@ cheaper than UBC printers!
 - 10¢ per color page
 
 You may print by either using the public computer in the Cube, or by connecting
-to [Google Cloud Print](https://ubccsss.org/print).
+to [Google Cloud Print](https://ubccsss.org/cube/printer/).
