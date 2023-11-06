@@ -13,7 +13,7 @@ The following UBC CS-related clubs are partners of the CSSS. Click on each club 
 	{{< club title="UBC CTF (Maple Bacon)" href="https://maplebacon.org" src="/files/ubcctf.png" id="maple-bacon" description="A CTF Team at the University of British Columbia." blog="https://maplebacon.org/blog/" discord="https://discord.gg/keeTZsmfVA" >}}
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="ACM" href="https://www.cs.ubc.ca/~acm-web/practice/" src="/files/ubcacm.png" description="A UBC Competitive Programming Team." discord="https://discord.gg/jfZHF7J" facebook="https://www.facebook.com/groups/831817450248984/about/" >}}
+    {{< club title="ACM" href="https://www.cs.ubc.ca/students/undergrad/life/acm" src="/files/ubcacm.png" description="A UBC Competitive Programming Team." discord="https://discord.gg/jfZHF7J" facebook="https://www.facebook.com/groups/831817450248984/about/" >}}
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
     {{< club title="WiCS (Women* in Computer Science)" href="https://ubcwics.com/" src="/files/wics.png" description="A strong community of women* in Computer Science at UBC." linktree="https://linktr.ee/UBCWiCS" facebook="https://www.facebook.com/ubcwics/" instagram="https://www.instagram.com/ubcwics/" blog="https://ubcwics.com/blog" >}}
