@@ -1,5 +1,0 @@
----
-title: Posts
----
-
-Hello world!
