@@ -1,19 +1,24 @@
-- title: UBC Tennis Circle Website
+- title: New Club Website for UBC Tennis Circle
   imageLink: /files/tech-consulting/temp.jpg
-  description: Testing to see if this description cuts off or not
+  repoLink: https://github.com/ubccsss/UBC-Tennis-Circle-Website
+  description: Transforming the UBC Tennis Circle's online presence by creating an interactive website that facilitates event organization, photo sharing, and vibrant community engagement.
 
-- title: Live Inventory System
+- title: Live Inventory System @ the CUBE (ICICS 021)
   imageLink: /files/tech-consulting/temp.jpg
-  description: desc 2
+  repoLink: https://github.com/ubccsss/Live-Inventory-System
+  description: Creating an efficient inventory management system for The Cube, integrating checkout processes and restocking alerts to ensure seamless student access to affordable food on campus.
 
-- title: John Forstad Lab Machinery Controller
+- title: Python Script & GUI For Chemical Engineering & Food Science Research
   imageLink: /files/tech-consulting/temp.jpg
-  description: desc 3
+  repoLink: https://github.com/ubccsss/John-Forstad-Lab-Machinery-Controller
+  description: Developing a Python controller that automates and streamlines research machinery processes in the John Frostad Research Group, enhancing efficiency in ongoing food science and chemical engineering studies.
 
 - title: UBC Volleyball Club Website
   imageLink: /files/tech-consulting/temp.jpg
-  description: desc 4
+  repoLink: https://github.com/ubccsss/UBC-Volleyball-Club-Website
+  description: Developing a web-based application to streamline scheduling, communication, and data tracking for practices and games for the UBC Volleyball Club, enhancing the athletic experience.
 
-- title: Blood For Life Volunteer Management System
+- title: UBC Blood For Life Volunteer Management System
   imageLink: /files/tech-consulting/temp.jpg
-  description: desc 5
+  repoLink: https://github.com/ubccsss/Blood-For-Life-Volunteer-Management-System
+  description: Building a volunteer management system to streamline shift assignments and compliance tracking, simplifying administrative work for the UBC Blood For Life Club.
