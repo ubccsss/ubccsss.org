@@ -18,5 +18,8 @@
     "dev": "hugo server -D",
     "build": "hugo",
     "prepare": "husky install"
+  },
+  "dependencies": {
+    "hugo": "^0.0.3"
   }
 }
