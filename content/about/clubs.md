@@ -42,7 +42,7 @@ Many engineering design teams accept computer science students, and need softwar
 
 This calendar shows a selection of events from CSSS partner clubs and the CS department. If you're a club executive and would like your event added to this calendar, please contact us through the [suggestions box](https://ubccsss.org/contact/suggestions-box/).
 
-{{< club-calendar "https://ubccsss.org/events/index.ics" "https://calendar.google.com/calendar/ical/18qb8b2du4h0brqc9i7tv4v8ok%40group.calendar.google.com/public/basic.ics">}}
+{{< club-calendar "https://ubccsss.org/events/index.ics" "https://calendar.google.com/calendar/ical/1e1ce102f2951b154df282dc66ea69722b37b41a8956d88361befe9ceb9e8080%40group.calendar.google.com/public/basic.ics">}}
 
 {{< popovers >}}
 
