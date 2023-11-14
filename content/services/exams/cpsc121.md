@@ -60,7 +60,6 @@ author: Tristan Rice
 - [CPSC 213](/services/exams/cpsc213)
 - [CPSC 221](/services/exams/cpsc221)
 - [CPSC 302](/services/exams/cpsc302)
-- [CPSC 304](/services/exams/cpsc304)
 - [CPSC 310](/services/exams/cpsc310)
 - [CPSC 311](/services/exams/cpsc311)
 - [CPSC 312](/services/exams/cpsc312)
