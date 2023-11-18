@@ -1,4 +1,12 @@
 reviews:
+  - author: sewchicco12
+    authorLink: 
+    date: 2023-11-18
+    review: |
+      I think on a personal level, Ron was great. However, 311 is a really challenging course (probably one of the hardest CPSC courses I've taken at UBC, and the only course where I've failed a midterm and I'm a fifth year student), something I did not take into account when I signed up for the course.
+    difficulty: 4.5
+    quality: 5
+    sessionTaken: 2023W1
   - author: /u/Aruzan
     authorLink: https://www.reddit.com/r/UBC/comments/1zo80v/recommended_300level_cpsc_course/cfvhfrm
     date: 2014-03-05
