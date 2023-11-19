@@ -21,8 +21,8 @@ end_date: 2023-11-23 19:00:00
 
 Ready to ace that internship interview? Curious about how to network effectively? This is the workshop for you! Prepare to…
 
-🤝 Connect: Learn to network like a pro and build connections that open doors to dream internships.
-🎙️ Ask Questions: Ask your burning questions to seasoned students who've received offers at Amazon, Tableau, Citadel, Twitch, Datadog, Jane Street, Databricks, Notion, Samsung, Tesla and more!!
-💡Gain Insider Tips: Discover the job search, resume and interview strategies that helped our panelists land their dream internships!
+🤝 Connect: Learn to network like a pro and build connections that open doors to dream internships.  
+🎙️ Ask Questions: Ask your burning questions to seasoned students who've received offers at Amazon, Tableau, Citadel, Twitch, Datadog, Jane Street, Databricks, Notion, Samsung, Tesla and more!!  
+💡Gain Insider Tips: Discover the job search, resume and interview strategies that helped our panelists land their dream internships!  
 
 🔗 Register Today: https://ubccsss.org/intern
