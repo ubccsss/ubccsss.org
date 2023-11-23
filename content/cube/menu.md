@@ -1,23 +1,23 @@
 ---
 title: "Food Price List"
-date: 2022-02-20 # last time rates were updated
+date: 2023-11-22 # last time rates were updated
 layout: menu
 prices:
   snacks:
     - item: "Fruit Snack"
-      price: "$0.25"
+      price: "$0.50"
     - item: "Biscuits"
       price: "$0.50"
     - item: "Chips"
       price: "$0.50"
     - item: "Granola Bar"
-      price: "$0.50"
+      price: "$1.00"
     - item: "Ice Cream Sandwhich"
       price: "$0.75"
     - item: "Chocolate Bar"
       price: "$1.00"
     - item: "Ice Cream Bar"
-      price: "$1.00"
+      price: "$1.50"
   meals:
     - item: "Chimichanga"
       price: "$1.25"
@@ -35,7 +35,7 @@ prices:
     - item: "Coffee"
       price: "$1.00"
     - item: "Redbull"
-      price: "$2.00"
+      price: "$3.00"
 ---
 
 <style>td { white-space: nowrap }</style>
