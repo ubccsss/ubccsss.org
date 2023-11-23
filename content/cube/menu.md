@@ -1,6 +1,6 @@
 ---
 title: "Food Price List"
-date: 2022-02-20 # last time rates were updated
+date: 2023-11-22 # last time rates were updated
 layout: menu
 prices:
   snacks:
