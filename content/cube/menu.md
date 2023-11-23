@@ -17,7 +17,7 @@ prices:
     - item: "Chocolate Bar"
       price: "$1.00"
     - item: "Ice Cream Bar"
-      price: "$1.00"
+      price: "$1.50"
   meals:
     - item: "Chimichanga"
       price: "$1.25"
