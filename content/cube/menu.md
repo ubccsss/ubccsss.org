@@ -35,7 +35,7 @@ prices:
     - item: "Coffee"
       price: "$1.00"
     - item: "Redbull"
-      price: "$2.00"
+      price: "$3.00"
 ---
 
 <style>td { white-space: nowrap }</style>
