@@ -5,7 +5,7 @@ layout: menu
 prices:
   snacks:
     - item: "Fruit Snack"
-      price: "$0.25"
+      price: "$0.50"
     - item: "Biscuits"
       price: "$0.50"
     - item: "Chips"
