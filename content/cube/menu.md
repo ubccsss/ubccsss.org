@@ -11,7 +11,7 @@ prices:
     - item: "Chips"
       price: "$0.50"
     - item: "Granola Bar"
-      price: "$0.50"
+      price: "$1.00"
     - item: "Ice Cream Sandwhich"
       price: "$0.75"
     - item: "Chocolate Bar"
