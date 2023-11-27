@@ -1,5 +1,8 @@
 # Items in the "Elsewhere" section of the sidebar.
 
+- title: Instagram
+  icon: /modules/instagram.svg
+  link: https://www.instagram.com/ubc_csss/
 - title: Linktree
   icon: /modules/linktree.svg
   link: https://linktr.ee/ubc_csss
