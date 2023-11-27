@@ -13,7 +13,13 @@
     <ul>
       {{ range $.Site.Data.social }}
         <li style="list-style:url('{{ .icon }}')">
-          <a href="{{ .link }}">{{ .title }}</a>
+          <a href="{{ .link }}">
+            {{ if or (eq .title "Discord") (eq .title "Instagram") }}
+              <b>{{ .title }}</b>
+            {{ else }}
+              {{ .title }}
+            {{ end }}
+          </a>
         </li>
       {{ end }}
     </ul>
