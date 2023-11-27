@@ -1,23 +1,26 @@
 # Items in the "Elsewhere" section of the sidebar.
 
-- title: Linktree
-  icon: /modules/linktree.svg
-  link: https://linktr.ee/ubc_csss
-- title: Facebook
-  icon: /modules/facebook.svg
-  link: https://www.facebook.com/ubccsss
-- title: Twitter
-  icon: /modules/twitter-x.svg
-  link: https://twitter.com/ubccsss
 - title: Discord
   icon: /modules/discord.svg
   link: https://discord.gg/DDMga58
-- title: Reddit
-  icon: /modules/reddit.svg
-  link: https://reddit.com/r/ubccsss
+- title: Instagram
+  icon: /modules/instagram.svg
+  link: https://www.instagram.com/ubc_csss/
+- title: Linktree
+  icon: /modules/linktree.svg
+  link: https://linktr.ee/ubc_csss
 - title: GitHub
   icon: /modules/github.svg
   link: https://github.com/ubccsss
+- title: Facebook
+  icon: /modules/facebook.svg
+  link: https://www.facebook.com/ubccsss
+- title: Reddit
+  icon: /modules/reddit.svg
+  link: https://reddit.com/r/ubccsss
+- title: Twitter
+  icon: /modules/twitter-x.svg
+  link: https://twitter.com/ubccsss
 - title: RSS
   icon: /modules/rss.svg
   link: /index.xml
