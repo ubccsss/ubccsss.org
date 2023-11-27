@@ -2,9 +2,7 @@
 title: Contact Us
 ---
 
-Question? Reach out to us on [Facebook](https://www.facebook.com/ubccsss),
-[Twitter](https://twitter.com/ubccsss),
-[Reddit](https://reddit.com/r/ubccsss), or
-[Discord](http://ubccsss.org/discord).
+Question? Reach out to us on [Discord](/discord) or
+[Instagram](https://www.instagram.com/ubc_csss).
 
 [comment]: <> (`csss [at] ubccsss [dot] org`)

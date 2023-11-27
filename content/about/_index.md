@@ -50,8 +50,7 @@ of ICICS/CS, turn right, and we'll be at the end of the hallway, beside the unde
 We'll be publishing our events:
 
 - here on our website (which also has an [RSS feed](/index.xml)),
-- [Tweeting them](https://twitter.com/ubccsss),
-- posting them on our [Facebook page](https://www.facebook.com/ubccsss/) and our [Instagram](https://www.instagram.com/ubc_csss/),
+- posting them on our [Discord server](/discord), our [Facebook page](https://www.facebook.com/ubccsss/) and our [Instagram](https://www.instagram.com/ubc_csss/),
 - and including them in the weekly department emails.
 
 ### How can I volunteer for CSSS events?
@@ -80,6 +79,6 @@ holding social events.
 For more information about the running of the club, please read our
 [constitution](/about/constitution).
 
-Thanks everyone! If you have any questions/concerns, please reach out to us on Facebook!
+Thanks everyone! If you have any questions/concerns, please reach out to us on our Discord server or Instagram!
 
 {{< calendar >}}
