@@ -20,10 +20,6 @@ Now you can get updates to the theme in the future by updating the submodule:
 $ git submodule update --remote themes/hugo-bootstrap-5
 ```
 
-## Demo
-
-You can find a demo [here](https://themes.gohugo.io/theme/hugo-bootstrap-5/).
-
 ## Screenshots
 
 ![preview](https://raw.githubusercontent.com/NotWoods/hugo-bootstrap-5/master/images/screenshot.png)

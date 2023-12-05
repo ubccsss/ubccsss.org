@@ -10,6 +10,5 @@ along with a place to hang out and meet other students.
 - Free hot water
 - [Cheap food](/cube/menu) (many less than $1)
 - Public game consoles, including a Nintendo Switch
-- [Cheap printing](/cube/printer)
 
 ![People playing Super Smash Bros in the Cube lounge](/files/playing-smash.jpg)

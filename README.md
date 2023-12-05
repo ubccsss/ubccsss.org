@@ -65,7 +65,7 @@ YAML files with some data used elsewhere in the site, including the Cube's addre
 
 ##### `layouts` and `themes`.
 
-HTML template files for the site. The [hugo-bootstrap](https://themes.gohugo.io/hugo-bootstrap/) theme is used as a base for the site. Files with the same name in the `layouts` folder override files in the `themes/hugo-bootstrap` folder.
+HTML template files for the site. Files with the same name in the `layouts` folder override files in the `themes/hugo-bootstrap` folder.
 
 ##### `static`
 
@@ -82,7 +82,7 @@ Short links and other [redirects](https://docs.netlify.com/routing/redirects/) c
 The site has three environments:
 
 - `development`: This enviroment is used for development.
-- `preview`: The enviroment used for previewing the site on [Netlify deploy previews](https://docs.netlify.com/site-deploys/deploy-previews/)(previews for merge requests).
+- `preview`: The enviroment used for previewing the site on [Netlify deploy previews](https://docs.netlify.com/site-deploys/deploy-previews/) (previews for merge requests).
 - `production`: This enviroment is used for production.
 
 Each environment has its own environment variables accessible in the `config` folder.
