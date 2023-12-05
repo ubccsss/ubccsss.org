@@ -19,7 +19,7 @@ at [www.ntcu.ca](http://www.ntcu.ca)**
 
 The top reasons why you should attend The Northwestern Technology Conference for Undergraduates:
 
-1. You'll be one of the first to take part in Canada's newest and most exciting three day tech conference. Mark May 2 to 4 as 'NTCU' on your calender for 2007.
+1. You'll be one of the first to take part in Canada's newest and most exciting three day tech conference. Mark May 2 to 4 as 'NTCU' on your calendar for 2007.
 2. Learn from the experts! Renowned Professors and Industry Professionals from the fields as vast as Artifical Intelligence to Computational Anatomy to Robotics will be presenting their research through interactive seminars. Check our expanding schedule online at ntcu.ca to catch up with the latest news.
 3. Free stuff! Cool swag from sponsor companies will keep you stylish throughout the year and let everyone know that you are at the forefront of progress.
 4. Get hooked up. Adobe is going to be there. Nokia is going to be there. Get registered and you'll be there too. Attend our Tech Expo and see what's new at top tech companies. Bring your resume, because many companies will be there to recruit new people!
