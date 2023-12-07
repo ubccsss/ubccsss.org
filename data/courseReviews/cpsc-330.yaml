@@ -1,4 +1,20 @@
 reviews:
+  - author: st
+    authorLink: 
+    date: 2023-12-07
+    review: |
+      The course is pretty easy, but the lectures are extremely dry and boring. The lecture notes are in the form of .ipynb files which are very dense and long. 
+      
+      The course material is OK. It's basically an introduction to ML concepts in Python, and tutorials on how to apply the concepts using Python's sklearn package (as well as some other common Python packages). 
+      
+      Assignments were very fair and based off lecture notes. Some assignments were more open-ended.
+      
+      Midterm and final exam were Canvas quizzes with some MC and short answer questions. 
+      
+      I'd recommend this course if you're interested in a very surface-level look at ML concepts. Otherwise, I hear that CPSC 340 is better, but I have not personally taken it.
+    difficulty: 1
+    quality: 3
+    sessionTaken: 2023S1
   - author: gk
     authorLink:
     date: 2022-05-25
