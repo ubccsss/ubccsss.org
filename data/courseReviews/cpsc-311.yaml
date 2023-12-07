@@ -1,4 +1,21 @@
 reviews:
+  - author: Steven
+    authorLink: 
+    date: 2023-12-07
+    review: |
+      Course was taught by professor Ron Garcia. 
+      
+      The course is pretty difficult at first. I failed the first midterm, and the midterm average was about 40%. 
+      However, I think the material just takes some time to digest. After the first midterm, things started to click, and I think this was true for the rest of the class too since the second midterm average was closer to 80%. 
+      
+      The assignments can take a few hours each. The first two assignments are significantly longer than the last three. Also, we were allowed to work in pairs. 
+      
+      The course material itself is not too useful imo. It's been two years since I've taken the course, and I've never revisited the material since then.
+      
+      Overall, I'd say decent course if you're just looking for CPSC 3xx credits. Otherwise, I'd suggest taking other courses. 
+    difficulty: 4.5
+    quality: 4
+    sessionTaken: 2021W1
   - author: sewchicco12
     authorLink: 
     date: 2023-11-18
