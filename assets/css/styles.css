@@ -130,3 +130,7 @@ a {
 #darkMode:checked + label::before {
   content: url("/icons/dark-mode.png");
 }
+
+/* Creddit for dark mode icons */
+/* Justin Dhillon */
+/* https://github.com/justindhillon */
