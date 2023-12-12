@@ -12,7 +12,7 @@ Registration is open for the 2019 Battlesnake Tournament at
 https://play.battlesnake.com/ The tournament is free to compete, a good place to
 try out new skills, and there are cash prizes for all 3 tournament divisions.
 More about streaming and in-person tutorials at
-https://play.battlesnake.com/resources/ Feel free to reach out to
+https://docs.battlesnake.com/ Feel free to reach out to
 [battlesnake@sendwithus.com](mailto:battlesnake@sendwithus.com) if you have any
 questions!
 
