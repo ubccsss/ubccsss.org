@@ -1,4 +1,12 @@
 reviews:
+  - author: michael
+    authorLink: 
+    date: 2023-12-12
+    review: |
+      I like the course, which uses a project-based approach to let the students explore and learn the concepts we were taught in the lecture. I'd advocate more STEM courses like this course to have a final project or maybe case studies. The only downside is that the reading tasks are heavy. 
+    difficulty: 4
+    quality: 4.5
+    sessionTaken: 2023W1
   - author: /u/MushCakes
     authorLink: https://www.reddit.com/r/UBC/comments/bsasu1/comp_sci_courses_at_ubc/eolv1xt
     date: 2019-05-23
