@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
   <head>
@@ -7,7 +6,7 @@
 
     <link rel="canonical" href="{{ .Permalink }}" />
 
-    <title>UBC Technical Career Fair 2024</title>
+    <title>UBC Technical Career Fair 2023</title>
 
     <!-- Bootstrap CSS -->
     <link
@@ -29,7 +28,7 @@
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" />
 
     <link href="{{ "css/style.css" | relURL }}" rel="stylesheet" />
-    <link href="{{ "css/tcf2024.css" | relURL }}" rel="stylesheet" />
+    <link href="{{ "css/tcf2023.css" | relURL }}" rel="stylesheet" />
 
     {{ range .AlternativeOutputFormats -}}
       <link
@@ -75,17 +74,17 @@
       <ul>
         <li>
           <p>
-            <a href="/files/tcf/Venue-Info.pdf"
+            <a href="/files/tcf2023/Venue-Info.pdf"
               >Floor Plan, Event Schedule, Booth Allocations, and Event Map</a
             >
           </p>
         </li>
         <li>
-          <p><a href="/files/tcf/menu.pdf">Food/Beverages at TCF</a></p>
+          <p><a href="/files/tcf2023/menu.pdf">Food/Beverages at TCF</a></p>
         </li>
         <li>
           <p>
-            <a href="/files/tcf/wifi-tutorial.pdf"
+            <a href="/files/tcf2023/wifi-tutorial.pdf"
               >UBC Visitor Internet Access at TCF</a
             >
           </p>
@@ -101,7 +100,7 @@
             class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
             <img class="bi" width="30" height="24" src="/logo.svg" />
           </a>
-          <span class="mb-3 mb-md-0 text-muted">© 2024 UBC CSSS</span>
+          <span class="mb-3 mb-md-0 text-muted">© 2023 UBC CSSS</span>
         </div>
 
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
