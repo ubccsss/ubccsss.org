@@ -67,7 +67,7 @@
     <div class="container" id="about">
       <h1 class="text-left">About Us</h1>
       <div class="row pt-3">
-        <div class="col-lg-6 col-sm-12">
+        <div class="col-lg-6 col-sm-12" style="padding-bottom: 60px;">
           <p>
             CSSS Tech Consulting is a new initiative launched by the UBC
             Computer Science Student Society to provide hands-on project
@@ -99,7 +99,7 @@
               </h2>
               <div
                 id="collapseOne"
-                class="accordion-collapse collapse"
+                class="accordion-collapse collapse show"
                 aria-labelledby="headingOne"
                 data-bs-parent="#accordion">
                 <div class="accordion-body">
@@ -189,7 +189,7 @@
                     class="card-img-top img-fluid p-2 mh-100"
                     src="{{ .imageLink }}"
                     alt="{{ .title }} project image"
-                    style="object-fit: cover" />
+                    style="object-fit: contain; padding-top: 40px !important" />
                 </div>
                 <div class="card-body">
                   <h5 class="card-title">{{ .title }}</h5>
@@ -245,7 +245,7 @@
   </body>
   <style>
     .hero-header {
-      background: url(/files/tech-consulting/temp.jpg);
+      background: url(/files/tech-consulting/hero.jpg);
       background-position: center;
       background-size: cover;
     }
