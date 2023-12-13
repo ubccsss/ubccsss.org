@@ -17,7 +17,7 @@ Here are some important websites that will help you maintain your sanity
 - **U-Pass** \
   https://www.upass.ubc.ca/
 - **AMS/GSS Student Health Plan** \
-  https://www.ams.ubc.ca/healthplan \
+  https://www.ams.ubc.ca/support-services/health-dental/ \
   http://www.studentcare.ca/
 - **UBC Bookstore** \
   https://www.bookstore.ubc.ca

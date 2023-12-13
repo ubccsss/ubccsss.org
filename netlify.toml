@@ -16,8 +16,3 @@ HUGO_ENV = "preview"
 from = "/events/2023/01/19/technical-career-fair/"
 to = "/tcf2023"
 status = 302
-
-[[redirects]]
-from = "/tcf/*"
-to = "/tcf2023/:splat"
-status = 302
