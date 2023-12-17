@@ -1,4 +1,12 @@
 reviews:
+  - author: ushankab
+    authorLink: 
+    date: 2023-12-17
+    review: |
+      A wonderful course like its predecessor 213. Probably easier than 213 (which I think might be the toughest core CPSC course) but certainly not easy. The tests will probe your ability to deeply and conceptually understand course content rather than regurgitate it or robotically grind practice problems. I took the course with Steve and Norm who did a great job but I also had recordings of Margo from a prior term. Her lectures are absolutely phenomenal. We are truly lucky that she decided to come to UBC. The labs are the highlight of this course, especially the 4 percenters. They can be tough but not too bad if you start early. They are a lot of fun and will sharpen up your C coding skills and reinforce core course content. Like all systems courses, I come out of this course more capable in my ability to use computers to solve problems and happy that I learned a little bit more about what happens inside what is just a black box to most.
+    difficulty: 3.5
+    quality: 4.5
+    sessionTaken: 2023W1
   - author: wang
     authorLink: 
     date: 2023-12-13
