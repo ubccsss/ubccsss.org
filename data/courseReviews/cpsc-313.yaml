@@ -1,4 +1,12 @@
 reviews:
+  - author: bruh
+    authorLink: 
+    date: 2023-12-15
+    review: |
+      It is very hard, I really struggled with midterm 2 
+    difficulty: 5
+    quality: 3
+    sessionTaken: 2023W1
   - author: wang
     authorLink: 
     date: 2023-12-13
