@@ -1,14 +1,4 @@
 reviews:
-  - author: quartz imaging is a gift that keeps on giving
-    authorLink: 
-    date: 2023-12-15
-    review: |
-      Your experience in this course is entirely contingent on whether or not your project partner is garbage or not. My team got split at c2 and we each soloed our project from there because he just wasn't doing anything. The project is also a lot of work and is completely disjoint from examinable lecture material. The exams are true false, if you want to see your result, you have to book a 10 minute quiz viewing session (you are not allowed to take notes there). Lecture content isn't terrible - it's just memorization.
-      
-      First week is hell. You have to write unit tests to catch all mutants (buggy versions of their code). The autograder has a 12 hour cooldown. It's not unheard of for students to set alarms in the middle of the night to run it because the deadline is so tight.
-    difficulty: 2
-    quality: 2
-    sessionTaken: 2023W1
   - author: shubh
     authorLink: https://www.linkedin.com/in/shubh-bhalla/
     date: 2023-05-07
