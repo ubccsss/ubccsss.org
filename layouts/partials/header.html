@@ -66,8 +66,33 @@
             </li>
           </ul>
         {{ end }}
-        {{ partial "search-box" }}
+        <div class="row">
+          <div class="col-10">{{ partial "search-box" }}</div>
+          <!--Dark Mode Button-->
+          <div class="col-1">
+            <input type="checkbox" onchange="darkMode()" id="darkMode" />
+            <label for="darkMode" class="btn btn-outline-secondary"></label>
+          </div>
+        </div>
       </div>
     </div>
   </nav>
 </header>
+<!--Add Dark Mode Support-->
+<script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.73/darkreader.min.js"></script>
+<script>
+  if (localStorage.getItem("darkmode") === "true") {
+    DarkReader.enable();
+    document.getElementById("darkMode").checked = true;
+  }
+
+  function darkMode() {
+    const wasDarkmode = localStorage.getItem("darkmode") === "true";
+    localStorage.setItem("darkmode", !wasDarkmode);
+    if (DarkReader.isEnabled()) {
+      DarkReader.disable();
+    } else {
+      DarkReader.enable();
+    }
+  }
+</script>
