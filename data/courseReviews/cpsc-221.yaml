@@ -1,4 +1,12 @@
 reviews:
+  - author: ushankab
+    authorLink: 
+    date: 2023-12-17
+    review: |
+      Typical DSA course and therefore very important material is covered here. Changed the way I think about coding by giving me tools and concepts to better reason about it. I loved the programming assignments. I felt that they challenged me but at the same time were fun. The other assignments aren’t as fun and interesting imo but are still good. The examlet structure is great in my view. There is some research showing frequent low stakes testing is superior to a handful of big tests. I was apprehensive before taking this course because I’m a product of the traditional way (a few big tests), but this course converted me.
+    difficulty: 3
+    quality: 4
+    sessionTaken: 2021W2
   - author: Arman
     authorLink: https://github.com/armanmoztar
     date: 2022-11-25
