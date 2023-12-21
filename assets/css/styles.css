@@ -98,6 +98,7 @@ a {
 }
 
 /* Dark Mode */
+/* Credit for dark mode toggle icons: Justin Dhillon, https://github.com/justindhillon */
 /* Hide the default checkbox */
 #darkMode {
   display: none;
@@ -130,7 +131,3 @@ a {
 #darkMode:checked + label::before {
   content: url("/icons/dark-mode.png");
 }
-
-/* Creddit for dark mode icons */
-/* Justin Dhillon */
-/* https://github.com/justindhillon */
