@@ -1,4 +1,12 @@
 reviews:
+  - author: Will
+    authorLink: 
+    date: 2023-12-23
+    review: |
+      It was not an easy course, but it is 100% doable for CPSC students. It's pretty heavy (should be worth 4 credits really); assignments pretty much every week plus multiple quizzes on top. Assignments were not too hard in my opinion, it's just that it took some time to think carefully and thoroughly. I spent a good chunk of my evenings attending office hours to truly understand the materials. Nonetheless, Steve and Norm were superb, the TAs were fabulous, and I think this is the most well-designed CPSC course. You can mess up a quiz or two, and even the midterm, and not be too worried about it, because weights are evenly spread out.
+    difficulty: 4
+    quality: 5
+    sessionTaken: 2023W1
   - author: ushankab
     authorLink: 
     date: 2023-12-17
