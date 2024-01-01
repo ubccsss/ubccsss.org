@@ -4,7 +4,7 @@ title: Global Relay Communications Inc.
 link: https://globalrelay.com
 short_bio: >
   Every day, your employees use communication platforms like email to talk to colleagues, customers, and counterparties. These platforms distribute critical information and keep your organization running efficiently. But they also produce a flood of data that can strain the resources of your IT and business teams.
-imageLink: /files/tcf2024/globalrelaycommunicationsinc.jpg
+imageLink: /files/tcf2024/global-relay.jpg
 industry:
   - Information Technology
 majors: Computer Science, Business & Computer Science, Data Science, Computer Engineering

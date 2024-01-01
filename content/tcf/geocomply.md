@@ -4,7 +4,7 @@ title: Geocomply
 link: https://www.geocomply.com/
 short_bio: >
   GeoComply is a hyper-growth female-led Canadian cybersecurity tech unicorn that uses powerful and innovative location detection technology to help prevent digital fraud.
-imageLink: /files/tcf2024/geocomply.jpg
+imageLink: /files/tcf2024/geocomply.png
 industry:
   - Information Technology
 majors:

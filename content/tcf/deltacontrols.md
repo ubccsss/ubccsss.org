@@ -4,7 +4,7 @@ title: Delta Controls
 link: http://www.deltacontrols.com
 short_bio: >
   Delta Controls is one of the largest independent manufacturers of building automation systems with more than 300 installers in over 80 countries. For more than 3 decades Delta Controls has offered dependable and user-friendly building control solutions to commercial, healthcare, education, leisure buildings and more. As industry leaders, our track record includes delivering the world's first fully integrated native BACnet building solution encompassing HVAC, Lighting and Access products.
-imageLink: /files/tcf2024/deltacontrols.jpg
+imageLink: /files/tcf2024/delta-controls.png
 industry:
   - Information Technology
   - Manufacturing

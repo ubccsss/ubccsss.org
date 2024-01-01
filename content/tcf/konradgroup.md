@@ -4,7 +4,7 @@ title: Konrad Group
 link: https://www.konradgroup.com/
 short_bio: >
   Konrad is a digital agency and product innovation firm that offers strategy, design, and technology services to the world's most ambitious businesses and brands. Leveraging our design-driven approach to build cutting-edge digital solutions, we deliver compelling experiences to our clients and their customers.
-imageLink: /files/tcf2024/konradgroup.jpg
+imageLink: /files/tcf2024/kg.jpg
 industry:
   - Consulting
 majors: Computer Science, Business & Computer Science, Computer Engineering, Electrical Engineering

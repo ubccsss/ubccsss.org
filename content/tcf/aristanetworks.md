@@ -4,7 +4,7 @@ title: Arista Networks
 link: http://www.arista.com/
 short_bio: >
   Arista Networks was founded to deliver software driven cloud networking solutions for large data center and high-performance computing environments. With more than five million cloud networking ports being deployed worldwide, Arista delivers a portfolio of 1/10/40/100 and 400 GbE products that redefine network architectures, bring extensibility to networking, and dramatically change the price/performance of data center networks.
-imageLink: /files/tcf2024/aristanetworks.jpg
+imageLink: /files/tcf2024/arista.png
 industry:
   - Information Technology
 majors: Computer Science, Business & Computer Science, Computer Engineering, Electrical Engineering
