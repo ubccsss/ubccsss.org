@@ -14,8 +14,11 @@
       </div>
     </div>
     <div
-      class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 px-5 pt-lg-3 pt-3 g-4 mb-5">
+      class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 px-5 pt-lg-3 pt-3 g-4">
       {{ range $recentEvents }}{{ .Render "card" }}{{ end }}
+    </div>
+    <div class="row justify-content-center pt-lg-2 pb-lg-4">
+      <div class="col-lg-8 text-center">Have a suggested event or initiative in mind? Send it our way <a href="https://docs.google.com/forms/d/e/1FAIpQLSdS49z5TPjGM9Iwrfh4SAxuok6UBaP_lKtMi98qWj30NHaRjA/viewform">here</a>.</div>
     </div>
     <hr class="w-75 mx-auto" />
     <div class="row mb-4 mt-5 py-lg-4">

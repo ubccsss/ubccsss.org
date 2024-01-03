@@ -1,4 +1,12 @@
 reviews:
+  - author: ushankab
+    authorLink: 
+    date: 2023-12-17
+    review: |
+      Not a great course, but a decent one overall. Gives lots of practice reading and writing argumentative essays. If that doesn’t sound like something you want to do, then this might not be the course for you. The textbook and lectures can be a little dry at times. However, the lectures also have a significant amount of participation and discussion which is a highlight of the course. People often had interesting things to say and points to make. Weekly essays are graded using peer review. Some may worry about this but I found the reviews to be quite fair and reasonable. See the syllabus for details on how exactly peer review works and how it is set up to try incentivize reasonable and fair peer reviews. I did find the course to be run in a bit of a disorganized and haphazard way compare to other CPSC courses. To be fair CPSC courses are almost always very well organized so that’s a high bar to meet. Also the bulk of tests comes from writing an argumentative essay (two for the final). However, writing good argumentative essays under artificial time constraints seems a bit silly in my view. It’s a bit like asking someone to code up a complex program. You don’t ask someone to do this on an exam because it’s simply not feasible under tight time constraints. But they need some way to assess that the learning outcomes are being met so I guess these sorts of tests may be a necessary evil in this class.
+    difficulty: 2
+    quality: 3.5
+    sessionTaken: 2023W1
   - author: Kristen F
     authorLink:
     date: 2023-02-15

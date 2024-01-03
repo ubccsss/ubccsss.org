@@ -1,4 +1,14 @@
 reviews:
+  - author: organophosphorus insecticide
+    authorLink: 
+    date: 2023-12-15
+    review: |
+      Course content is objectively not that difficult. But the exams are kinda wacky. 
+      Midterm 1: Like a good chunk (one third) of the entire exam was weighted towards one ER question with an aggregated ternary relationship, which was only briefly covered in class. You would get docked marks for not writing your answers in alphabetical order or not writing N/A in boxes which don't apply. Luckily I did not miss those instructions, but I feel bad for non-native English speakers who had to focus on singing the alphabet song instead of the exam.
+      Final: on piazza, they clearly said writing division queries in SQL would not be tested on piazza. But they pulled a gotcha because you had to read it on the exam. So why they said what they said on piazza is beyond me.
+    difficulty: 2
+    quality: 2
+    sessionTaken: 2023W1
   - author: Jen Chen
     authorLink: 
     date: 2023-07-20

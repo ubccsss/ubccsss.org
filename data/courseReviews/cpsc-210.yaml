@@ -1,4 +1,12 @@
 reviews:
+  - author: ushankab
+    authorLink: 
+    date: 2023-12-17
+    review: |
+      A very enjoyable and practical course in my opinion. The project is one of the best aspects of the course. You get a chance to be creative and apply what learn to build some actual software. The lecture content is pretty bread and butter OOP stuff but is nevertheless very important material. The last part of the course covers design patterns which was the highlight of the course for me. The course might feel a bit on the easier side for a CPSC course but I don’t advise slacking too much if you want to learn and do well.
+    difficulty: 2.5
+    quality: 4
+    sessionTaken: 2021W1
   - author: ubcstudent2
     authorLink:
     date: 2023-04-27

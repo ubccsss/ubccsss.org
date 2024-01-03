@@ -1,4 +1,14 @@
 reviews:
+  - author: Skynet
+    authorLink: 
+    date: 2023-12-17
+    review: |
+      Truly one of the 🤓 courses of all time. Make sure to brush up on your linear algebra and partial derivatives. Assignments are way harder than the exams. You will be banging your head over every little detail on the numpy library. Exams are mostly high level conceptual (recalling facts) and simple calculations, so if you put effort in the assignments you'll be prepared for the exams.
+      
+      Professors are enthusiastic and the course is run well. 
+    difficulty: 4
+    quality: 5
+    sessionTaken: 2023W1
   - author: ayylmao
     authorLink:
     date: 2023-02-22

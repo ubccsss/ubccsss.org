@@ -1,4 +1,12 @@
 reviews:
+  - author: ushankab
+    authorLink: 
+    date: 2023-12-17
+    review: |
+      A friend described this course as a “religious experience”. Surely a joke, but 213 is definitely an experience. Probably the hardest CPSC I’ve ever taken. I spent hours upon hours reviewing slide decks and grinding practice problems and exams for this course. I left most lectures feeling confused and would have to spend at least an hour if not more going over things to “unconfuse” myself. However, this is also one of the most satisfying courses I ever taken. Every unit and topic covered is extremely interesting imo. In particular, the final unit on concurrency is one of my favourite units of any CPSC course. I enjoyed cracking open what is a black box to most people and taking a look at the internals. I also feel knowing some of these internals has improved my ability to use computers to solve problems. The assignments are all great. However, the last assignments (for the concurrency unit) are a significant step up in difficulty. The tests in this class are hard but if you put in work things should work out fine in the end (likely due to some scaling magic).
+    difficulty: 4
+    quality: 4
+    sessionTaken: 2021W2
   - author: 2nd year bsc student
     authorLink:
     date: 2023-05-26
