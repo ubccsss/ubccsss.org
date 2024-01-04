@@ -11,5 +11,5 @@ industry:
 majors: Computer Science, Statistics, Business & Computer Science, Mathematics, Cognitive Science, Neuroscience, Physics, Data Science, Computer Engineering, Electrical Engineering, Other Engineering
 workAuth: Canadian Citizen/Permanent Resident, International Student, US Citizen, All
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Current Students in a Phd Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
-positionTypes: nternships, Co-op Student (4 months), Co-op Student (8+ months), Recent Graduate, Full-time, Temporary (Less than 4 months)
+positionTypes: Internships, Co-op Student (4 months), Co-op Student (8+ months), Recent Graduate, Full-time, Temporary (Less than 4 months)
 ---
