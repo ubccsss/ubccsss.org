@@ -1,4 +1,14 @@
 reviews:
+  - author: anon_320_student
+    authorLink: 
+    date: 2024-01-04
+    review: |
+      CPSC320 covers a wide variety of algorithmic techniques, more abstractly than CPSC221. The course focuses more on pseudocode and runtime/space complexity analysis and rarely touches on implementation details. LeetCode/competitive programming experience will be helpful (and CPSC320 also helps build those skills!)
+      Start assignments early (as soon as they're released) and reference tutorial solutions for hints.
+      It's difficult to study mechanically for this course, as exams and assignments will assess creative thinking and application of techniques in new situations. Exams are fair given the time constraints. This term's exams were primarily multiple choice or fill-in-the-blank, with longer written questions on the final.
+    difficulty: 4.5
+    quality: 4.5
+    sessionTaken: 2023W1
   - author: Crispin
     authorLink:
     date: 2023-04-11
