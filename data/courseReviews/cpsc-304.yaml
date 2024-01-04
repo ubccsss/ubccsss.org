@@ -1,4 +1,14 @@
 reviews:
+  - author: anon_304_student
+    authorLink: 
+    date: 2024-01-04
+    review: |
+      CPSC304 is a fairly low-stress course covering database design, normalization, and several query languages: SQL, relational algebra, and Datalog. The latter sections of the course (data warehousing and Datalog) felt a bit disconnected with the rest of the course, but the theory is still useful
+      Note that the course has a significant project component. Start early on your project and find a solid group.
+      The exams were fair, with nothing out of pocket. Be careful with small details like filling in N/A's on tables on exams. There are a lot of similar types of questions (e.g. 'find the X with the largest Y'), so memorizing recipes to solve those problems can be helpful for exams.
+    difficulty: 2.5
+    quality: 4
+    sessionTaken: 2023W1
   - author: organophosphorus insecticide
     authorLink: 
     date: 2023-12-15
