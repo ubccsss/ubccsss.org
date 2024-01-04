@@ -1,0 +1,15 @@
+:root {
+  --shadows: #2a5eaa;
+}
+
+.hero-header-content {
+  background: #152840;
+}
+.hero-header {
+  height: max-content;
+}
+
+.display-1 {
+  font-size: 4rem;
+  text-shadow: 4px 4px 0px var(--shadows);
+}
