@@ -1,4 +1,13 @@
 reviews:
+  - author: anon_313_student
+    authorLink: 
+    date: 2024-01-04
+    review: |
+      CPSC313 covers a wide range of systems material, but each section of the course builds very logically on the next. The workload is challenging, with (open-book) quizzes every other week, weekly lab assignments, and pre-readings, but it's designed well to make sure you keep up. CPSC313 really makes you feel like you understand how computers work, particularly if you use Linux or are interested in more of the internals.
+      Exams are fair, with some more straightforward problems taken from previous practice material and some challenging problems that require a deeper level of understanding. Asking 'why' each design decision was made and its tradeoffs was helpful for doing well on the more challenging problems.
+    difficulty: 4.5
+    quality: 5
+    sessionTaken: 2023W1
   - author: Will
     authorLink: 
     date: 2023-12-23
