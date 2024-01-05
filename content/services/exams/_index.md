@@ -10,11 +10,11 @@ images: []
 
 ### Please send any exams you have to [vpa@ubccsss.org](mailto:vpa@ubccsss.org)!
 
-You can find our collection of CPSC exams, quizzes, and resources here.
+You can find our collection of CPSC exams, quizzes, and resources here. All rights belong to their respective owners.
 
 They're sorted by year and course. Solutions (where they exist) are also provided. Hints and resources are contributed by the community; feel free to open an issue on GitHub to add a hint.
 
-_NOTE:_ These exams and hints are here as reference ONLY. Examinable materials and course content vary from year to year, so any materials on this website might be out of date. Exam hints are community-contributed. We are not responsible for any mistakes in the hints or solution materials provided herein; however, we will accept notifications as such so we can place appropriate notices.
+_NOTE:_ These exams and hints are here as reference ONLY. Examinable materials and course content vary from year to year, so any materials on this website might be out of date. Exam hints are community-contributed. We are not responsible for any mistakes in the hints or solution materials provided herein; however, we will accept notifications as such so we can place appropriate notices. If you are a professor and would prefer we take down any content, please email [vpa@ubccsss.org](mailto:vpa@ubccsss.org).
 
 ###### Outline
 

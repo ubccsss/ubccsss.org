@@ -1,17 +1,14 @@
 ---
-title: CPSC 310
-date: 2016-11-29 20:38:00
+title: CPSC 340
+date: 2024-01-04 19:38:00
 aliases:
-  - /services/exams/cpsc310
-author: Tristan Rice
+  - /services/exams/cpsc340
+author: Emilie Ma
 ---
 
-## 2009
+## 2020
 
-- [Midterm 1 (Summer)](/files/exams/2009/cs310-2009-s-midterm1.pdf)
-- [Midterm 2 (Summer)](/files/exams/2009/cs310-2009-s-midterm2.pdf)
-- [Midterm 3 (Summer)](/files/exams/2009/cs310-2009-s-midterm3.pdf)
-- [Sample Final (Summer)](/files/exams/2009/cs310-2009-s-sample-final.pdf) [(Solution)](/files/exams/2009/cs310-2009-s-sample-final-solution.pdf)
+- [Final (W1)](https://web.archive.org/web/20240105033146/https://www.cs.ubc.ca/~fwood/CS340/final.pdf)
 
 ###### Outline
 
