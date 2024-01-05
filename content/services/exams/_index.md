@@ -12,7 +12,7 @@ images: []
 
 You can find our collection of CPSC exams and quizzes here. They're sorted by year and course. Solutions (where they exist) are also provided.
 
-_NOTE:_ These exams are here as reference ONLY. Examinable materials and course content vary from year to year, so any materials on this website might be out of date. We are not responsible for any mistakes in the solution materials provided herein; however, we will accept notifications as such so we can place appropriate notices.
+_NOTE:_ These exams and hints are here as reference ONLY. Examinable materials and course content vary from year to year, so any materials on this website might be out of date. Exam hints are community-contributed. We are not responsible for any mistakes in the hints or solution materials provided herein; however, we will accept notifications as such so we can place appropriate notices.
 
 ###### Outline
 
