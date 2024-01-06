@@ -1,4 +1,12 @@
 reviews:
+  - author: Student
+    authorLink: 
+    date: 2024-01-06
+    review: |
+      interesting content that wasn't as in depth as I expected but also a reasonable workload
+    difficulty: 3
+    quality: 4
+    sessionTaken: 2023W1
   - author: /u/vaastav05
     authorLink: https://www.reddit.com/r/UBC/comments/bsasu1/comp_sci_courses_at_ubc/eom20bx
     date: 2019-05-23
