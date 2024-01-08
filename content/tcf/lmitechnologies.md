@@ -1,0 +1,14 @@
+---
+layout: tcf-company-2024
+title: LMI Technologies
+link: https://www.lmi3d.com
+short_bio: >
+  At LMI, we are dedicated to helping our customers realize the advantages of the most innovative 3D vision technologies. Our high-performance, easily implemented, and cost-effective solutions are trusted throughout the world in even the most unforgiving applications. Our unique solutions not only enhance profitability and minimize time-to-market, they also help our customers stay ahead of their competition.
+imageLink: /files/tcf2024/lmi.png
+industry:
+  - Manufacturing
+majors: Computer Science, Computer Engineering, Mechanical Engineering
+workAuth: Canadian Citizen/Permanent Resident
+degreeLevels: Current Students in an Undergraduate Program, Graduated with an Undergraduate Degree
+positionTypes: Co-op Student (8+ months), Recent Graduate
+---

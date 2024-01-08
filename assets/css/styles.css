@@ -96,3 +96,38 @@ a {
     display: none;
   }
 }
+
+/* Dark Mode */
+/* Credit for dark mode toggle icons: Justin Dhillon, https://github.com/justindhillon */
+/* Hide the default checkbox */
+#darkMode {
+  display: none;
+}
+
+/* Style the label as the custom checkbox */
+#darkMode + label {
+  display: inline-block;
+  position: relative;
+  height: 40px;
+  width: 40px;
+}
+
+/* Style the label for hover */
+#darkMode + label:hover {
+  background-color: #ebebeb;
+}
+
+/* Style the icon for the unchecked state */
+#darkMode + label::before {
+  color: #000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -40%);
+  content: url("/icons/light-mode.png");
+}
+
+/* Style the icon for the checked state */
+#darkMode:checked + label::before {
+  content: url("/icons/dark-mode.png");
+}

@@ -11,3 +11,29 @@
   height: max-content;
   background-position: 0% 50%;
 }
+.badge {
+  white-space: normal;
+  text-align: left;
+  margin-top: 4px;
+}
+.bg-purple {
+  background-color: #7744ab !important;
+}
+.bg-orange {
+  background-color: #b3621b !important;
+}
+.bg-dark-green {
+  background-color: #0e5214 !important;
+}
+.bg-teal {
+  background-color: #077f8c !important;
+}
+.bg-pink {
+  background-color: #a860a8 !important;
+}
+.bg-gold {
+  background-color: #8c7f0b !important;
+}
+.bg-dark-red {
+  background-color: #9e0d36 !important;
+}

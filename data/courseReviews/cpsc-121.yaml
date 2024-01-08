@@ -1,4 +1,12 @@
 reviews:
+  - author: ushankab
+    authorLink: 
+    date: 2023-12-17
+    review: |
+      I’m a big believer in strong fundamentals and foundations and this course does a decent job of teaching those foundations. Some might not feel the course is practical, but I’ve used things I learned in this course on the job to prove the correctness of code I’ve written to myself. Before taking this course, I wouldn’t have been able to do that. Also if you like math/logic you will likely enjoy the proof-related aspects of the course. However, there are some knocks on the course. The labs and lectures feel largely disjoint, and the course kind of feels like a hodgepodge of topics than a cohesive whole.
+    difficulty: 3.5
+    quality: 4
+    sessionTaken: 2021W1
   - author: Jen Chen
     authorLink: 
     date: 2023-07-20
