@@ -50,11 +50,59 @@
         <i class="bi-list"></i>
       </button>
       <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="/tcf#about">About</a></li>
-        <li><a class="dropdown-item" href="/tcf/companies">Companies</a></li>
-        <li><a class="dropdown-item" href="/tcf#events">Q&A Events</a></li>
-        <li><a class="dropdown-item" href="/tcf#event-info">Event Info</a></li>
-        <li><a class="dropdown-item" href="/tcf#faq">FAQ</a></li>
+        <li>
+          <a class="dropdown-item" href="/tcf/day-of#location-details"
+            >Location Details</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf/day-of#parking-details"
+            >Parking Details</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf/day-of#drop-off-details"
+            >Drop off Details</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf/day-of#mailing-details"
+            >Mailing Details</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf/day-of#building-details"
+            >Building Details</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf/day-of#venue-map">Venue Map</a>
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf/day-of#booth-allocations"
+            >Booth Allocations</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf/day-of#internet-access"
+            >Internet Access</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf/day-of#general-schedule"
+            >General Schedule</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf/day-of#catering-menu"
+            >Catering Menu</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf/day-of#catering-schedule"
+            >Catering Schedule</a
+          >
+        </li>
       </ul>
     </div>
     <div class="hero-header py-6 h-100">
@@ -67,11 +115,14 @@
     <div class="container">
       <a href="/tcf/">&lt; back to main page</a>
       <p class="mt-4">
-        This page hosts the logistics for the day of the event for employers.<br /><br />
+        This page hosts the logistics for the day of the event for employers. If
+        you have any issues, on the day please contact your nearest TCF
+        Volunteer. Or message William, Carina or Ryan at the phone number listed
+        in the employer email.<br /><br />
       </p>
 
       <hr />
-      <div class="location-details">
+      <div id="location-details">
         <h2>Location Details</h2>
         We will be hosting the event in the Great Hall of the AMS Nest at UBC.
         <br />
@@ -110,7 +161,7 @@
 
       <hr />
 
-      <div class="parking-details">
+      <div id="parking-details">
         <h2>Parking Details</h2>
         <p>
           There are multiple parking lots very close for employers to park in.
@@ -126,7 +177,7 @@
         <hr />
       </div>
 
-      <div class="drop-off-details">
+      <div id="drop-off-details">
         <h2>Material or Personal Drop-off Details</h2>
         <p>
           These details are subject to change depending on the construction
@@ -148,7 +199,7 @@
       </div>
       <hr />
 
-      <div class="mailing-details">
+      <div id="mailing-details">
         <h2>Shipping Details</h2>
         <p>
           If you require shipping to UBC before the day of the event, please
@@ -168,7 +219,7 @@
       </div>
       <hr />
 
-      <div class="building-details">
+      <div id="building-details">
         <h2>Building Details</h2>
         <p>
           We are located in the Great Hall on the 2nd floor of the Nest, which
@@ -192,7 +243,7 @@
       </div>
       <hr />
 
-      <div class="venue-details">
+      <div id="venue-details">
         <h2>Venue Details</h2>
         <p>
           The Great Hall is a large open space with a stage at the front and a
@@ -217,10 +268,13 @@
           company name on the day.
         </p>
 
-        <h2 style="text-align: center;">Venue Map</h2>
+        <h2 id="venue-map" style="text-align: center;">Venue Map</h2>
         <img width="100%" src="/files/tcf2024/TCF-2024-Venue-Map.png" />
         <hr />
-        <h2 style="text-align: center;">Booth Assignments</h2>
+
+        <h2 id="booth-assignments" style="text-align: center;">
+          Booth Assignments
+        </h2>
         <p style="text-align: center;">
           The following booth assignments are subject to change. Check back on
           the day for the final assignments
@@ -259,7 +313,7 @@
       </div>
       <hr />
 
-      <div class="internet-access">
+      <div id="internet-access">
         <h2>Internet Access</h2>
         <p>
           UBC Visitor Internet Access is available for all attendees of the
@@ -272,7 +326,7 @@
       </div>
       <hr />
 
-      <div class="general-schedule">
+      <div id="general-schedule">
         <h2>General Schedule</h2>
         <table
           style="width: 100%; margin: 0 auto; border-collapse: collapse; border: 2px solid #333;">
@@ -319,7 +373,7 @@
       </div>
       <hr />
 
-      <div class="catering-menu">
+      <div id="catering-menu">
         <h2>Catering Menu</h2>
         <p>
           We are excited to offer a variety of food and beverage options for
@@ -347,7 +401,7 @@
       </div>
       <hr />
 
-      <div class="catering-schedule">
+      <div id="catering-schedule">
         <h2>Catering Schedule</h2>
         <table
           style="width: 100%; margin: 0 auto; border-collapse: collapse; border: 2px solid #333;">
