@@ -291,13 +291,13 @@
   availability: Weekdays
 
 - name: Titus Wong
-  lastmod: 2023-02-04
-  courses: [CPSC121]
+  lastmod: 2024-01-04
+  courses: [CPSC121, CPSC221, CPSC110, CPSC320]
   email: wongtitus89@gmail.com
   bio: |
-    I'm a 5th year computer science and mathematics student. I've been a TA for CPSC 121 for over 2 years and now currently TAing CPSC 221. I love teaching and seeing my students excel in their course. Please contact me for any further questions!
-  rates: $30-35/h depending on number of lessons
-  availability: Currently free
+    I’m a recent graduate who majored in computer science and mathematics. I had been a TA for 121 and 221 for 4 years and have taken senior roles (such as creating assignemnts and exams). I also had 5+ students who I tutored previously in my 5th year. I am now working full time as a software developer. However, I am still passioniate about tutoring and seeing my students excel. I can also give out advices in job finding and practicing interview scenarios. Please feel free to reach out!
+  rates: $40-45/h depending on number of lessons and difficulty of course
+  availability: Mon-Fri after 6pm. Sat Sun mostly free.
 
 - name: Han
   lastmod: 2023-03-24
