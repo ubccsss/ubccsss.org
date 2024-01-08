@@ -221,7 +221,8 @@
 
 - name: Hawk Lu
   lastmod: 2023-09-14
-  courses: [CPSC110, CPSC121, CPSC210, CPSC213, CPSC221, CPSC310, CPSC320, CPSC322]
+  courses:
+    [CPSC110, CPSC121, CPSC210, CPSC213, CPSC221, CPSC310, CPSC320, CPSC322]
   email: hawklu212@hotmail.com
   bio: |
     Hi! My name is Hawk, 4th year BCS, A fan of all cats and dogs, enjoy playing Ultimate, Industry focused on DevOps, and down to help wherever I can!
@@ -291,13 +292,13 @@
   availability: Weekdays
 
 - name: Titus Wong
-  lastmod: 2023-02-04
-  courses: [CPSC121]
+  lastmod: 2024-01-04
+  courses: [CPSC121, CPSC221, CPSC110, CPSC320]
   email: wongtitus89@gmail.com
   bio: |
-    I'm a 5th year computer science and mathematics student. I've been a TA for CPSC 121 for over 2 years and now currently TAing CPSC 221. I love teaching and seeing my students excel in their course. Please contact me for any further questions!
-  rates: $30-35/h depending on number of lessons
-  availability: Currently free
+    I’m a recent graduate who majored in computer science and mathematics. I had been a TA for 121 and 221 for 4 years and have taken senior roles (such as creating assignemnts and exams). I also had 5+ students who I tutored previously in my 5th year. I am now working full time as a software developer. However, I am still passioniate about tutoring and seeing my students excel. I can also give out advices in job finding and practicing interview scenarios. Please feel free to reach out!
+  rates: $40-45/h depending on number of lessons and difficulty of course
+  availability: Mon-Fri after 6pm. Sat Sun mostly free.
 
 - name: Han
   lastmod: 2023-03-24
@@ -396,7 +397,95 @@
 
 - name: George G
   lastmod: 2023-10-15
-  courses: [CPSC100, CPSC103, CPSC107, CPSC110, CPSC121, CPSC203, CPSC210, CPSC213, CPSC221, CPSC259, CPSC302, CPSC303, CPSC304, CPSC310, CPSC311, CPSC312, CPSC313, CPSC314, CPSC317, CPSC320, CPSC322, CPSC330, CPSC344, CPSC368, CPSC404, CPSC406, CPSC416, CPSC418, CPSC420, CPSC421, CPSC436S, CPSC440, PHYS210, CPEN211, CPEN212, CPEN221, CPEN223, CPEN311, CPEN312, CPEN321, CPEN322, CPEN331, CPEN333, CPEN355, CPEN411, CPEN412, CPEN431, CPEN432, CPEN442, CPEN455, MATH100, MATH101, MATH110, MATH120, MATH121, MATH152, MATH180, MATH190, MATH200, MATH210, MATH217, MATH220, MATH221, MATH223, MATH226, MATH227, MATH253, MATH254, MATH302, MATH303, MATH307, MATH310, MATH312, MATH318, MATH320, MATH321, MATH322, MATH335, MATH344, STAT200, STAT201, STAT203, STAT251, STAT302, ECON325, ECON327]
+  courses:
+    [
+      CPSC100,
+      CPSC103,
+      CPSC107,
+      CPSC110,
+      CPSC121,
+      CPSC203,
+      CPSC210,
+      CPSC213,
+      CPSC221,
+      CPSC259,
+      CPSC302,
+      CPSC303,
+      CPSC304,
+      CPSC310,
+      CPSC311,
+      CPSC312,
+      CPSC313,
+      CPSC314,
+      CPSC317,
+      CPSC320,
+      CPSC322,
+      CPSC330,
+      CPSC344,
+      CPSC368,
+      CPSC404,
+      CPSC406,
+      CPSC416,
+      CPSC418,
+      CPSC420,
+      CPSC421,
+      CPSC436S,
+      CPSC440,
+      PHYS210,
+      CPEN211,
+      CPEN212,
+      CPEN221,
+      CPEN223,
+      CPEN311,
+      CPEN312,
+      CPEN321,
+      CPEN322,
+      CPEN331,
+      CPEN333,
+      CPEN355,
+      CPEN411,
+      CPEN412,
+      CPEN431,
+      CPEN432,
+      CPEN442,
+      CPEN455,
+      MATH100,
+      MATH101,
+      MATH110,
+      MATH120,
+      MATH121,
+      MATH152,
+      MATH180,
+      MATH190,
+      MATH200,
+      MATH210,
+      MATH217,
+      MATH220,
+      MATH221,
+      MATH223,
+      MATH226,
+      MATH227,
+      MATH253,
+      MATH254,
+      MATH302,
+      MATH303,
+      MATH307,
+      MATH310,
+      MATH312,
+      MATH318,
+      MATH320,
+      MATH321,
+      MATH322,
+      MATH335,
+      MATH344,
+      STAT200,
+      STAT201,
+      STAT203,
+      STAT251,
+      STAT302,
+      ECON325,
+      ECON327
+    ]
   email: cpsc.tutor.george@gmail.com
   bio: |
     Here to help! I have a broad base of expertise in computer science and in mathematics. No matter what the topic, I am committed to improving your understanding.
@@ -407,7 +496,7 @@
      - Multiple years of combined TA and one-on-one tutoring experience
      - Plenty of real-world software development experience
      - Many satisfied clients!
- 
+
     Additional Notes:
      - I can meet anywhere on campus.
      - Off-campus meetings are possible, but may be subject to additional travel-related fees.
@@ -418,7 +507,8 @@
 
 - name: Hadi Sinaee
   lastmod: 2023-10-15
-  courses: [CPSC213, CPSC221, CPSC259, CPSC310, CPSC313, CPSC320, CPSC404, CPSC416]
+  courses:
+    [CPSC213, CPSC221, CPSC259, CPSC310, CPSC313, CPSC320, CPSC404, CPSC416]
   email: sinaee.hadi@gmail.com
   bio: |
     I'm a grad student in Computer Science, who has more than 5 years of experience as a SWE.
