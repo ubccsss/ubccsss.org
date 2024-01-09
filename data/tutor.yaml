@@ -221,8 +221,7 @@
 
 - name: Hawk Lu
   lastmod: 2023-09-14
-  courses:
-    [CPSC110, CPSC121, CPSC210, CPSC213, CPSC221, CPSC310, CPSC320, CPSC322]
+  courses: [CPSC110, CPSC121, CPSC210, CPSC213, CPSC221, CPSC310, CPSC320, CPSC322]
   email: hawklu212@hotmail.com
   bio: |
     Hi! My name is Hawk, 4th year BCS, A fan of all cats and dogs, enjoy playing Ultimate, Industry focused on DevOps, and down to help wherever I can!
@@ -408,7 +407,7 @@
      - Multiple years of combined TA and one-on-one tutoring experience
      - Plenty of real-world software development experience
      - Many satisfied clients!
-
+ 
     Additional Notes:
      - I can meet anywhere on campus.
      - Off-campus meetings are possible, but may be subject to additional travel-related fees.
@@ -419,8 +418,7 @@
 
 - name: Hadi Sinaee
   lastmod: 2023-10-15
-  courses:
-    [CPSC213, CPSC221, CPSC259, CPSC310, CPSC313, CPSC320, CPSC404, CPSC416]
+  courses: [CPSC213, CPSC221, CPSC259, CPSC310, CPSC313, CPSC320, CPSC404, CPSC416]
   email: sinaee.hadi@gmail.com
   bio: |
     I'm a grad student in Computer Science, who has more than 5 years of experience as a SWE.
