@@ -1,6 +1,6 @@
 ---
 # The title of the event
-title: TCF 2024 Virtual Resume Workshop: Ace Your First Impression!
+title: 'TCF 2024 Virtual Resume Workshop: Ace Your First Impression!'
 # Publishing date when the event appears, not the date of the event.
 date: 2024-01-09
 # Tags that apply to the event
