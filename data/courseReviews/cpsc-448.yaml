@@ -1,4 +1,12 @@
 reviews:
+  - author: anon_448_student
+    authorLink: 
+    date: 2024-01-04
+    review: |
+      CPSC448 is an amazing opportunity to both get research experience and explore a field not covered by the undergraduate curriculum at UBC while getting course credit for it. It's a very flexible course structure that you work with your supervisor to design, so you can cater it to your learning style and preferences. The process of applying can take some time, especially if advisors are busy around add-drop, so try to start drafting your proposal ahead of the preliminary approval if you know you meet the basic reuqirements. Getting research experience can help your grad school application or resume stand out, so I'd highly recommend pursuing a Directed Studies at least once!
+    difficulty: 2.5
+    quality: 5
+    sessionTaken: 2022W2
   - author: eqfy
     authorLink: https://github.com/eqfy
     date: 2022-11-03
