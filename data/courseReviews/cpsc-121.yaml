@@ -1,4 +1,12 @@
 reviews:
+  - author: kr
+    authorLink: 
+    date: 2024-01-14
+    review: |
+      I found this course interesting but pretty hard and time consuming
+    difficulty: 4.5
+    quality: 4
+    sessionTaken: 2022W2
   - author: ushankab
     authorLink: 
     date: 2023-12-17
