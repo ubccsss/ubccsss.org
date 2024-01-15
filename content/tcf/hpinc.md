@@ -11,4 +11,5 @@ majors: Computer Science, Mathematics, Computer Engineering, Electrical Engineer
 workAuth: Canadian Citizen/Permanent Resident
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program
 positionTypes: Co-op Student (4 months), Co-op Student (8+ months)
+boothNumber: 19
 ---

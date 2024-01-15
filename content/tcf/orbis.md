@@ -11,4 +11,5 @@ majors: Computer Science, Business & Computer Science, Computer Engineering
 workAuth: Canadian Citizen/Permanent Resident
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program
 positionTypes: Internships, Co-op Student (4 months), Co-op Student (8+ months)
+boothNumber: 1
 ---
