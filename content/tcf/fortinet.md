@@ -11,5 +11,5 @@ majors: Computer Science, Electrical Engineering
 workAuth: Canadian Citizen/Permanent Resident
 degreeLevels: Current Students in a Masters Program, Current Students in a Phd Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Full-time
-boothNumber: 27
+boothNumber: 26
 ---
