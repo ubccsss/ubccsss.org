@@ -1,4 +1,12 @@
 reviews:
+  - author: Student
+    authorLink: 
+    date: 2024-01-06
+    review: |
+      This course is wonderful and useful. It was taught by Jordon who is a great caring and inspirational teacher
+    difficulty: 3
+    quality: 5
+    sessionTaken: 2021W1
   - author: Jen Chen
     authorLink: 
     date: 2023-07-20
