@@ -302,7 +302,7 @@
                   <div class="card w-100 mt-3 h-100">
                     <div
                       class="d-flex flex-column justify-content-center"
-                      style="height: 100px; padding-top: 10px;">
+                      style="height: 200px; padding-top: 10px;">
                       <img
                         class="card-img-top img-fluid p-2 mh-100"
                         src="{{ .Params.imageLink }}"
@@ -311,11 +311,14 @@
                     </div>
                     <div class="card-body">
                       <h5 class="card-title">
-                        <span class="card-link"
-                          >{{ $.Scratch.Get "counter" }}:
+                        <span class="card-link">
                           {{ .Params.title }}
                         </span>
                       </h5>
+                      <h6 class="card-title text-truncate">
+                        Booth#
+                        {{ .Params.boothNumber }}
+                      </h6>
                     </div>
                   </div>
                 </div>
