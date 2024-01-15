@@ -14,4 +14,5 @@ majors: Computer Science, Statistics, Business & Computer Science, Mathematics, 
 workAuth: Canadian Citizen/Permanent Resident
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Current Students in a Phd Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Co-op Student (4 months), Recent Graduate, Full-time
+boothNumber: 11
 ---

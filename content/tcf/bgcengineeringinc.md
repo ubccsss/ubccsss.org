@@ -16,4 +16,5 @@ majors:
 workAuth: All
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Co-op Student (8+ months), Recent Graduate, Full-time
+boothNumber: 21
 ---
