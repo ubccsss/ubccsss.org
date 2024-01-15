@@ -186,10 +186,6 @@
         </p>
         <p>Please check your email for our phone details.</p>
         <img src="/files/tcf2024/TCF-2024-Drop-Off-Area.png" />
-        <p>
-          These details are subject to change depending on the construction
-          activity on campus and will be updated closer to the date.
-        </p>
       </div>
       <hr />
 
@@ -221,7 +217,7 @@
           the University Blvd cul-de-sac on the second floor.
         </p>
         <p>
-          We will have signage on the day along with signage on the day to
+          We will have signage on the day along with volunteers on the day to
           direct you to the correct location.
         </p>
         <p>
@@ -269,7 +265,10 @@
             Should you require additional outlets, we have a limited supply of
             power bars that we can attach to the venue for free.
           </li>
-          <li>We have been told that the estimated amperage is 20.</li>
+          <li>
+            We have been told that the estimated amperage is 12A and the
+            estimated voltage is 120V.
+          </li>
           <li>
             Wifi should be accessible through UBC Public Wifi. See the Internet
             Access section below for instructions.
@@ -288,6 +287,7 @@
           change as we work with the catering staff. <br />
           Company locations will be marked with table cloth and a paper on the
           tables with the company name on the day. <br />
+
           Click on the image to open in full size.
         </p>
 
@@ -301,8 +301,7 @@
           Booth Assignments
         </h2>
         <p style="text-align: center;">
-          The following booth assignments are subject to change. Check back on
-          the day for the final assignments
+          Below are the booth assignments for the event.
         </p>
         <div class="grid-container">
           <div class="row pt-4">
@@ -310,7 +309,7 @@
             {{ range .Site.Pages }}
               {{ if (and (eq .Params.layout "tcf-company-2024") (.Params.imageLink)) }}
                 {{ $.Scratch.Add "counter" 1 }}
-                <div class="col-lg-3 col-sm-12 col-md-6 mt-3">
+                <div class="col-lg-2 col-sm-12 col-md-6 mt-3">
                   <div class="card w-100 mt-3 h-100">
                     <div
                       class="d-flex flex-column justify-content-center"
@@ -421,8 +420,7 @@
           </li>
           <li>
             Employers will be provided with a ticket on the day of the event
-            detailing the number of meals they are entitled to. However, we will
-            operate on an honour based system.
+            detailing the number of meals they are entitled to.
           </li>
           <li>
             Should the purchased food be insufficient in any way, please contact
@@ -448,6 +446,10 @@
 
       <div id="catering-schedule">
         <h2>Catering Schedule</h2>
+        <p>
+          The below schedule is subject to change depending on the catering
+          staff.
+        </p>
         <table
           style="width: 100%; margin: 0 auto; border-collapse: collapse; border: 2px solid #333;">
           <tr style="background-color: #333; color: #fff;">

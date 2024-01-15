@@ -11,5 +11,5 @@ majors: Business & Computer Science
 workAuth: Canadian Citizen/Permanent Resident
 degreeLevels: Current Students in an Undergraduate Program, Graduated with an Undergraduate Degree
 positionTypes: Internships, Co-op Student (4 months), Recent Graduate, Full-time
-boothNumber: 30
+boothNumber: 29
 ---

@@ -11,5 +11,5 @@ majors: Computer Science, Statistics, Business & Computer Science, Data Science,
 workAuth: Canadian Citizen/Permanent Resident, International Student
 degreeLevels: Current Students in an Undergraduate Program
 positionTypes: Co-op Student (4 months), Co-op Student (8+ months), Full-time
-boothNumber: 35
+boothNumber: 34
 ---
