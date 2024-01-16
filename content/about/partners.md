@@ -1,8 +1,16 @@
 ---
-title: Partner Clubs
+title: Partners
 layout: single
 # Card images should all be 348x196
 ---
+
+## External Organizations
+
+<div class="row">
+  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
+	{{< club title="Quiver Games" href="https://Quivergamesvancouver.com" src="/files/quivergames.png" id="quiver-games" description="Quiver Games is creating fantastic events, programs and makerspaces to bring up the next generation of developers in Vancouver through practical experience and skill building opportunties.">}}
+  </div>
+</div>
 
 The following UBC CS-related clubs are partners of the CSSS. Click on each club to find links to their social media or chat groups!
 
