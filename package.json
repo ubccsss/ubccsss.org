@@ -1,6 +1,7 @@
 {
   "name": "ubccsss.org",
   "version": "0.0.1",
+  "private": true,
   "description": "Website for the UBC CSSS",
   "repository": "https://github.com/ubccsss/ubccsss.org.git",
   "engines": {
