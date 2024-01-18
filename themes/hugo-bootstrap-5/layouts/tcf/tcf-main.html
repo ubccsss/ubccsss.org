@@ -123,16 +123,22 @@
                       class="card-img-top img-fluid p-2 mh-100"
                       src="{{ .Params.imageLink }}"
                       alt="{{ .Params.title }} company logo"
-                      style="object-fit: contain" />
+                      style="object-fit: contain;{{ with .Params.cancelled }}
+                        filter: grayscale(1)
+                      {{ end }}" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-truncate">
                       <a class="card-link" href="{{ .RelPermalink }}"
                         >{{ .Params.title }}
+                        {{ with .Params.cancelled }}
+                          [CANCELLED DUE TO WEATHER]
+                        {{ end }}
                       </a>
                     </h5>
                     <h5 class="card-title text-truncate">
-                      Booth# {{ .Params.boothNumber }}
+                      Booth#
+                      {{ .Params.boothNumber }}
                     </h5>
                     {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" }}
                     {{ range .Params.industry }}

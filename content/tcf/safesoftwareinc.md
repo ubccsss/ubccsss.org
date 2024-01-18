@@ -12,4 +12,5 @@ workAuth: Canadian Citizen/Permanent Resident, International Student, US Citizen
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Internships, Co-op Student (4 months), Recent Graduate, Full-time
 boothNumber: 18
+cancelled: true
 ---

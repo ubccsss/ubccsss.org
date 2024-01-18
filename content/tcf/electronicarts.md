@@ -12,4 +12,5 @@ workAuth: Canadian Citizen/Permanent Resident, International Student
 degreeLevels: Current Students in an Undergraduate Program
 positionTypes: Co-op Student (4 months), Co-op Student (8+ months), Full-time
 boothNumber: 34
+cancelled: true
 ---

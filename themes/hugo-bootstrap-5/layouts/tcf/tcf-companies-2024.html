@@ -73,12 +73,17 @@
                     class="card-img-top img-fluid p-2 mh-100"
                     src="{{ .Params.imageLink }}"
                     alt="{{ .Params.title }} company logo"
-                    style="object-fit: contain" />
+                    style="object-fit: contain;{{ with .Params.cancelled }}
+                      filter:grayscale(1)
+                    {{ end }}" />
                 </div>
                 <div class="card-body">
                   <h5 class="card-title text-truncate">
                     <a class="card-link" href="{{ .RelPermalink }}"
                       >{{ .Params.title }}
+                      {{ with .Params.cancelled }}
+                        [CANCELLED DUE TO WEATHER]
+                      {{ end }}
                     </a>
                   </h5>
                   <h5 class="card-title text-truncate">
