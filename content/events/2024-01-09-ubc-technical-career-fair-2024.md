@@ -17,6 +17,8 @@ start_date: 2024-01-18 10:00:00
 end_date: 2024-01-18 16:00:00
 ---
 
+Update: Due to unforeseen circumstances, the Technical Career Fair has unfortunately been cancelled. We apologize for the inconvenience.
+
 ![Preview image for UBC Technical Career Fair 2024 event](/files/2024-01-09-tcf-main-with-dates.png)
 
 🚀 Calling all UBC students! Do you want a tech job? 🎓👩‍💻
