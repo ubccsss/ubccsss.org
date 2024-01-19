@@ -4,6 +4,14 @@ layout: single
 # Card images should all be 348x196
 ---
 
+## Sponsors
+
+<div class="row">
+  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
+	{{< club title="Google" href="" src="/files/google_logo.png" id="google">}}
+  </div>
+</div>
+
 ## External Organizations
 
 <div class="row">
