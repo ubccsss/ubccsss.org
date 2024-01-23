@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2024
+layout: tcf-company-2024-deprecated
 title: Delta Controls
 link: http://www.deltacontrols.com
 short_bio: >
