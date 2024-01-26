@@ -23,6 +23,9 @@ layout: single
   img-bgcolor="black"
   description="Tech Career North is a go-to hub for Canada's tech enthusiasts, students, and career changers with internships and entry level tech job postings manually curated DAILY. Join the server for daily postings and connect with peers nationwide in Canada!">}}
   </div>
+  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
+	{{< partner title="BobaTalks" href="https://bobatalks.com/" src="/files/bobatalks-logo.webp" id="bobatalks" description="Whether you're navigating a career transition, diving into your first internship, or seeking guidance on life's bigger picture, BobaTalks is here to support you every step of the way. They bring a network of 120+ professionals from industry giants like Google, Riot Games, TikTok, and more, covering fields such as Data, Consulting, Mental Health, and beyond.">}}
+  </div>
 </div>
 
 The following UBC CS-related clubs are partners of the CSSS. Click on each club to find links to their social media or chat groups!
