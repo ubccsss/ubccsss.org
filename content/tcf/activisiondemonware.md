@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2024
+layout: tcf-company-2024-deprecated
 title: Activision/Demonware
 link: https://www.activision.com/
 short_bio: >
