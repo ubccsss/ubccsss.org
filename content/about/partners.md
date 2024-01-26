@@ -8,7 +8,7 @@ layout: single
 
 <div class="row">
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-	{{< company title="Google" href="https://www.google.com/about/careers/applications/students/" src="/files/google-logo.png" id="google">}}
+	{{< partner title="Google" href="https://www.google.com/about/careers/applications/students/" src="/files/google-logo.png" id="google">}}
   </div>
 </div>
 
@@ -16,7 +16,12 @@ layout: single
 
 <div class="row">
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-	{{< company title="Quiver Games" href="https://Quivergamesvancouver.com" src="/files/quivergames.png" id="quiver-games" description="Quiver Games is creating fantastic events, programs and makerspaces to bring up the next generation of developers in Vancouver through practical experience and skill building opportunties.">}}
+	{{< partner title="Quiver Games" href="https://Quivergamesvancouver.com" src="/files/quivergames.png" id="quiver-games" description="Quiver Games is creating fantastic events, programs and makerspaces to bring up the next generation of developers in Vancouver through practical experience and skill building opportunties.">}}
+  </div>
+  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
+	{{< partner title="Tech Career North" href="https://discord.gg/96rkQyC5rX" src="/files/tech-career-north.webp" id="tech-career-north" 
+  img-bgcolor="black"
+  description="Tech Career North 🍁 (preciously Tech Career Change) is a partner server and go-to hub for Canada's tech enthusiasts, students, and career changers with internships and entry level tech job postings manually curated DAILY. 🚀 Join the server for daily postings and connect with peers nationwide in Canada 🇨🇦! Your gateway to opportunities and a vibrant community awaits at https://discord.gg/96rkQyC5rX">}}
   </div>
 </div>
 

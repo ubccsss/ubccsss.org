@@ -8,7 +8,8 @@
     src="{{ .Get "src" }}"
     alt="{{ .Get "alt" }}"
     width="348"
-    height="196" />
+    height="196"
+    style="background-color: {{ .Get "img-bgcolor" }}" />
   <div class="card-body">
     <h5 class="card-title">
       <a class="card-link" href="{{ .Get "href" }}">{{ .Get "title" }}</a>
