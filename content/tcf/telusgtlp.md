@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2024
+layout: tcf-company-2024-deprecated
 title: TELUS GTLP
 link: https://telusjobs.telus.com/jobs/2018-graduate-engineering-and-leadership-development-program-8619
 short_bio: >

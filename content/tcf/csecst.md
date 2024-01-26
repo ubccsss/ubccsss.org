@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2024
+layout: tcf-company-2024-deprecated
 title: Communications Security Establishment
 link: https://www.cse-cst.gc.ca/
 short_bio: >

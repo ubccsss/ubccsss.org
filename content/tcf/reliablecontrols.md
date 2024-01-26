@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2024
+layout: tcf-company-2024-deprecated
 title: Reliable Controls
 link: https://www.reliablecontrols.com
 short_bio: >
