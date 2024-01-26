@@ -19,9 +19,9 @@ layout: single
 	{{< partner title="Quiver Games" href="https://Quivergamesvancouver.com" src="/files/quivergames.png" id="quiver-games" description="Quiver Games is creating fantastic events, programs and makerspaces to bring up the next generation of developers in Vancouver through practical experience and skill building opportunties.">}}
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-	{{< partner title="Tech Career North" href="https://discord.gg/96rkQyC5rX" src="/files/tech-career-north.webp" id="tech-career-north" 
+	{{< partner title="Tech Career North" href="https://discord.gg/96rkQyC5rX" src="/files/tech-career-north.png" id="tech-career-north" 
   img-bgcolor="black"
-  description="Tech Career North 🍁 is a go-to hub for Canada's tech enthusiasts, students, and career changers with internships and entry level tech job postings manually curated DAILY. 🚀 Join the server for daily postings and connect with peers nationwide in Canada 🇨🇦!">}}
+  description="Tech Career North is a go-to hub for Canada's tech enthusiasts, students, and career changers with internships and entry level tech job postings manually curated DAILY. Join the server for daily postings and connect with peers nationwide in Canada!">}}
   </div>
 </div>
 
