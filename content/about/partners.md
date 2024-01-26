@@ -8,7 +8,7 @@ layout: single
 
 <div class="row">
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-	{{< club title="Google" href="" src="/files/google_logo.png" id="google">}}
+	{{< company title="Google" href="https://www.google.com/about/careers/applications/students/" src="/files/google-logo.png" id="google">}}
   </div>
 </div>
 
@@ -16,7 +16,7 @@ layout: single
 
 <div class="row">
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-	{{< club title="Quiver Games" href="https://Quivergamesvancouver.com" src="/files/quivergames.png" id="quiver-games" description="Quiver Games is creating fantastic events, programs and makerspaces to bring up the next generation of developers in Vancouver through practical experience and skill building opportunties.">}}
+	{{< company title="Quiver Games" href="https://Quivergamesvancouver.com" src="/files/quivergames.png" id="quiver-games" description="Quiver Games is creating fantastic events, programs and makerspaces to bring up the next generation of developers in Vancouver through practical experience and skill building opportunties.">}}
   </div>
 </div>
 
