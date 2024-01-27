@@ -14,6 +14,12 @@ author: Tristan Rice
 - [Midterm (Term 1) (Solution)](/files/exams/2010/cs322-2010-t1-midterm-solution.pdf)
 - [Final Review (Term 1)](/files/exams/2010/cs322-2010-t1-review-final.pdf)
 
+## 2020
+
+- [Practice Midterm 1 (Term 1)](https://web.archive.org/web/20211023003220/https://www.cs.ubc.ca/~poole/cs322/2020/exams/prmid1.pdf) [(Solution)](https://web.archive.org/web/20211023003220/https://www.cs.ubc.ca/~poole/cs322/2020/exams/prmid1sol.pdf)
+- [Practice Midterm 2 (Term 1)](https://web.archive.org/web/20211023003220/https://www.cs.ubc.ca/~poole/cs322/2020/exams/prmid2.pdf) [(Solution)](https://web.archive.org/web/20211023003220/https://www.cs.ubc.ca/~poole/cs322/2020/exams/prmid2sol.pdf)
+- [Practice Final (Term 1)](https://web.archive.org/web/20211023003220/https://www.cs.ubc.ca/~poole/cs322/2020/exams/prfin.pdf) [(Solution)](https://web.archive.org/web/20211023003220/https://www.cs.ubc.ca/~poole/cs322/2020/exams/prfin_sol.pdf)
+
 ###### Outline
 
 - [CPSC 101](/services/exams/cpsc101)
@@ -32,6 +38,7 @@ author: Tristan Rice
 - [CPSC 314](/services/exams/cpsc314)
 - [CPSC 320](/services/exams/cpsc320)
 - [CPSC 322](/services/exams/cpsc322)
+- [CPSC 340](/services/exams/cpsc340)
 - [CPSC 404](/services/exams/cpsc404)
 - [CPSC 422](/services/exams/cpsc422)
 - [CPSC 448B](/services/exams/cpsc448B)
