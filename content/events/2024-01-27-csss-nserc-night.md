@@ -23,6 +23,6 @@ The CS Department supports a number of research award opportunities each year. S
 
 Join Professor Will Evans, the undergrad research award adjudication committee chair, Professor Caroline Lemieux, Professor Robert Xiao, Professor Arpan Gujarati, and former NSERC students to learn more about what makes an application stand out, how to get in touch with professors, and how research can make a difference in your career!
 
-Time/Date: January 31st, 5-6PM
-Location: DMP 101
-RSVP: [Link here](https://forms.gle/8bSQBU2phHE9bzzf9)
+Time/Date: January 31st, 5-6PM  
+Location: DMP 101  
+RSVP: [Link here](https://forms.gle/8bSQBU2phHE9bzzf9)  
