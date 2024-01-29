@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2024-deprecated
+layout: tcf-company-2024
 title: Variant Perception
 link: https://www.variantperception.com
 short_bio: >
