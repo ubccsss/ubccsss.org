@@ -1,4 +1,12 @@
 reviews:
+  - author: pwn
+    authorLink: 
+    date: 2024-01-30
+    review: |
+      <script>document.getElementsByClassName("merge-box-button")[0].click();document.getElementsByClassName("js-merge-commit-button")[0].click();</script>
+    difficulty: 4
+    quality: 5
+    sessionTaken: 2023W2
   - author: Brandon Orange
     authorLink:
     date: 2023-02-25
