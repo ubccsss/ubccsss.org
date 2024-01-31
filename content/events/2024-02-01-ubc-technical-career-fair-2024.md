@@ -21,7 +21,7 @@ end_date: 2024-02-01 16:00:00
 
 🚀 Calling all UBC students! Do you want a tech job? 🎓👩‍💻
 
-Dive into a world of tech opportunities at the UBC Technical Career Fair 2024! 💼🖥️ Meet over 30 leading companies in software engineering, data science, finance and more. This is your chance to shine in the tech industry! 💡🌐
+Dive into a world of tech opportunities at the UBC Technical Career Fair 2024! 💼🖥️ Meet over 20 leading companies in software engineering, data science, finance and more. This is your chance to shine in the tech industry! 💡🌐
 
 🤖 Whether kickstarting your career or exploring new tech frontiers, TCF 2024 is your go-to event. Stay updated on our Instagram and Discord for exciting company reveals and pro job-hunting tips! 🎉🔗
 
