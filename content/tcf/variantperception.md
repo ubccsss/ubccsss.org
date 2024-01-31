@@ -11,5 +11,5 @@ majors: Computer Science, Business & Computer Science, Mathematics, Data Science
 workAuth: Canadian Citizen/Permanent Resident
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Current Students in a Phd Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Internships
-boothNumber: 24
+boothNumber: 25
 ---
