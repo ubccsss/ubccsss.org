@@ -10,20 +10,18 @@ categories: [event]
 author: William Gervasio
 # Images associated to this event. Used for banner.
 images:
-  - /files/2024-01-09-tcf-main-with-dates.png
+  - /files/tcf2024.png
 # Start date and time. Used for calendar page.
-start_date: 2024-01-18 10:00:00
+start_date: 2024-02-01 10:00:00
 # End date and time (defaults to one hour after start). Used for calendar page.
-end_date: 2024-01-18 16:00:00
+end_date: 2024-02-01 16:00:00
 ---
 
-Update: Due to unforeseen circumstances, the Technical Career Fair has unfortunately been cancelled. We apologize for the inconvenience.
-
-![Preview image for UBC Technical Career Fair 2024 event](/files/2024-01-09-tcf-main-with-dates.png)
+![Preview image for UBC Technical Career Fair 2024 event](/files/tcf2024.png)
 
 🚀 Calling all UBC students! Do you want a tech job? 🎓👩‍💻
 
-Dive into a world of tech opportunities at the UBC Technical Career Fair 2024! 💼🖥️ Meet over 30 leading companies in software engineering, data science, finance and more. This is your chance to shine in the tech industry! 💡🌐
+Dive into a world of tech opportunities at the UBC Technical Career Fair 2024! 💼🖥️ Meet over 20 leading companies in software engineering, data science, finance and more. This is your chance to shine in the tech industry! 💡🌐
 
 🤖 Whether kickstarting your career or exploring new tech frontiers, TCF 2024 is your go-to event. Stay updated on our Instagram and Discord for exciting company reveals and pro job-hunting tips! 🎉🔗
 
