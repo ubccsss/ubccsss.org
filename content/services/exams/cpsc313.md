@@ -6,6 +6,14 @@ aliases:
 author: Tristan Rice
 ---
 
+## Resources
+
+- [Former student's review notes](https://github.com/markusdemedeiros/notes_cpsc313)
+- [Casey Cole videos](https://www.youtube.com/watch?v=dFrDy8910j8&list=PLWCT05ePsnGww5psXWHRLG7p30eKKt1Pd)
+- [David Black-Schaffer videos on Virtual Memory](https://github.com/ubccsss/ubccsss.org/edit/master/content/services/exams/_index.md)
+
+_Have other resources to share? [Edit this page on GitHub](https://github.com/ubccsss/ubccsss.org/edit/master/content/services/exams/cpsc320.md) to add them._
+
 ## 2004
 
 - [Midterm 1 (Term 2)](/files/exams/2004/cs313-2004-t2-midterm1.pdf) [(Solution)](/files/exams/2004/cs313-2004-t2-midterm1-solution.pdf)
@@ -61,6 +69,7 @@ author: Tristan Rice
 - [CPSC 314](/services/exams/cpsc314)
 - [CPSC 320](/services/exams/cpsc320)
 - [CPSC 322](/services/exams/cpsc322)
+- [CPSC 340](/services/exams/cpsc340)
 - [CPSC 404](/services/exams/cpsc404)
 - [CPSC 422](/services/exams/cpsc422)
 - [CPSC 448B](/services/exams/cpsc448B)

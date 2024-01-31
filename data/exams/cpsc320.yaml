@@ -1,0 +1,118 @@
+2014W2F:
+  - question: Q2
+    hint: Think about the quantities each problem is trying to maximize and minimize, the restrictions it applies (e.g. no two students who don't trust each other on the same machine), and what problems might map to these factors.
+  - question: Q3.5
+    hint: Use the existing 'count-inversions' algorithm, but write a wrapper that places the pivot for the first call in a specific way. You don't necessarily have to use the results of all returned recursive calls.
+  - question: Q4
+    hint: See [this StackExchange post](https://cs.stackexchange.com/a/95597).
+  - question: Q5.8
+    hint: Is `q` one of the parameters of the instance of SQ?
+  - question: Q6.5
+    hint: How many possible assignments are there now?
+  - question: Q6.6
+    hint: Consider one 'part' as one player's territories, and the other 'part' as the other player's. Since the graph is bipartite, can there be any connections between territories within a player's control? What does this say about their territories' connected components' maximum size?
+2017W2MT1:
+  - question: Q1
+    hint: Note the question restriction that m < n. Big-O bounds with multiple variables are incomparable if the relationship differs depending on m or n's growth rate.
+  - question: Q2
+    hint: Always try to come up with a counterexample for this type of question, so at least half of the work is done!
+  - question: Q2.1
+    hint: Weakly-connected means that if the graph was undirected, it would be connected. A connected graph has a minimum of n - 1 edges.
+  - question: Q2.2
+    hint: Consider a situation where a woman's preferences are \'important\' to the resulting matching. Does having any arbitrariness in her decision change the possible matchings?
+  - question: Q3
+    hint: Being \'unique to that component\' means that the colour is only in that component and is unique across components.
+  - question: Q3.2
+    hint: Consider what impact requiring that the arrays were sorted has and what parts of the code rely on that assumption.
+  - question: Q4.2
+    hint: Fill this in according to the reduction you just formulated.
+  - question: Q5.1
+    hint: An STP instance of size `k` where everyone is indifferent has `k!` solutions, because no one has any preferences that could cause instabilities, so this is just the number of possible matchings.
+  - question: Q5.2
+    hint: Think of a mentorship relationship as being a parent in a tree. Because everyone must have a mentor, can any mentor go without a mentor? What does this say about the number of edges, and by extension, the number of cycles? Is this an upper or lower bound?
+  - question: Q6
+    hint: What happens if you have a very generous donor who \'fills up\' a cause with a very small amount remaining? Was this the best use of their \'one cause\'?
+2017W2MT2:
+  - question: Q1
+    hint: Does the `first` argument ever get used? Which of the arguments contributes to the decision to continue recursing?
+  - question: Q3.1
+    hint: What does quick select do even before recursively calling anything?
+  - question: Q4
+    hint: Try partitioning the elements so that all the majority elements are in one subarray and none are in the others.
+  - question: Q4.4
+    hint: What parts of either problem have to do with 'majority'? BLAME produces an arbitrary set of nodes if a majority of the nodes were not intact. How does this help simplify the 'no instance' case?
+  - question: Q6
+    hint: If an element is a majority element, it must occupy the 'middle' position of the sorted array. What is the rank of that element?
+2017W1MT1:
+  - question: Q1.2b
+    hint: If we know the array is sorted, and that there are two different numbers, what are some 'easy' positions we can look in to find them?
+  - question: Q1.4
+    hint: Can you find an expression for the number of dashed edges? What about for the height? Draw out some example trees (e.g. a 'star') to see if the height / number of dashed edges changes.
+  - question: Q2.1
+    hint: If two men share the same preference list, they will both start by trying to propose to the same woman. Can both of them succeed in the end?
+  - question: Q2.3
+    hint: Try n = 5. Then try n = 2.
+  - question: Q3
+    hint: Is there a sample instance that returns something you didn't expect? What part of the reduction caused that to happen?
+2017W1MT2:
+  - question: Q1
+    hint: Always try to come up with a counterexample for this type of question, so at least half of the work is done!
+  - question: Q2
+    hint: This 'majority' pattern comes up a lot in past midterms.
+  - question: Q2.3
+    hint: The blank `A[mid] ___ A[hi]` is expecting 'faces', 'not equal' or 'equal'.
+  - question: Q3
+    hint: The last answer is another way of saying 'choose the performance that ends first'.
+  - question: Q4.3
+    hint: If we 'run out' of the first string, we don't have to continue. We also can't skip any letters within the first string, so there's one case of LCS we don't have to consider.
+  - question: Q5.2a
+    hint: The base case is still a subproblem.
+  - question: Q5.2c
+    hint: How many units of time do you need to spend computing E(100)? E(50)? E(0)?
+2018W1MT1:
+  - question: Q1.1
+    hint: Consider the definition of little-o.
+  - question: Q1.2
+    hint: Consider the property that `log (n^k) = k log(n)`
+  - question: Q1.4
+    hint: What two bounds are implied by a limit of big-theta? If the big-O bound is true, what must not be true?
+  - question: Q1.5
+    hint: Consider how raising something to exponent (`n^x`) versus something to c * exponent (`n^(cx)`) changes the expression.
+  - question: Q3.2
+    hint: The number of 2-exchanges is equal to the number of ways the patients and donors can be paired up.
+  - question: Q3.4
+    hint: Does it matter in what order we choose the edges?
+2018W1MT2:
+  - question: Q2.1
+    hint: Consider a graph that forms a path, and consider what restrictions are imposed on the choice of e for the 'end nodes'.
+  - question: Q2.2
+    hint: What is the definition of a tree? One property is guaranteed by the algorithm. If we assume the other property is violated, how can we show a contradiction based on the fact that the weights differ?
+  - question: Q4
+    hint: One shortcut is to bound the time taken at the root of the tree for a lower bound, then the time taken over infinite levels of the tree for an upper bound.
+  - question: Q5.3
+    hint: Consider what the 'natural ordering' is of the subproblems. What do you have to compute before computing Pell(n)? Also, reference the memoized algorithm you just wrote.
+  - question: Q5.5
+    hint: How many entries maximum do you ever reference in computing `Soln[n]`?
+2019S2F:
+  - question: Q1.1
+    hint: What is the formula for `(n+1)!`? Recall that `(c^x)^y = (c^y)^x`.
+  - question: Q1.2e
+    hint: The Gale-Shapley algorithm always produces the matching that matches each employer to its best valid applicant and each applicant to its worst valid employer.
+  - question: Q1.4
+    hint: What extra work does the DP solution have to do for each coin value?
+  - question: Q2
+    hint: The correct form of reduction from SAT to 3SAT, as shown in class, requires one of the `y_i` to be negated. What requirement did that impose on the 3SAT reduction? This reduction from 4SAT to 3SAT doesn't have that negation, but has a similar 'joining' structure. Does this cause any issues where an unsatisfiable instance of 4SAT can become satisfiable in the reduced 3SAT?
+  - question: Q3.2
+    hint: This becomes the minimum spanning tree problem.
+  - question: Q3.3
+    hint: What is the definition of NP - specifically, what does it require about the runtime of one of its certification algorithms? Recall that a `polynomial * polynomial = polynomial`.
+  - question: Q5.2
+    hint: What is the definition of the master theorem? Does it place any restrictions on the size of the different subproblems?
+  - question: Q6.1
+    hint: Does this graph have to be directed? If we have word A that can be transformed to word B in one step, can we 'reverse' it? Does this graph have to be weighted? What are we counting?
+  - question: Q6.4
+    hint: For each word in your dictionary, what transformations can be done on it? Assuming all words were valid, what are the maximum number of unique transformations that can be applied to one word? The english alphabet has 26 letters.
+  - question: Q7
+    hint: For the recurrence, try coming up with a solution where you assume each step only makes one 'cut'.
+  - question: Q8.2
+    hint: Person 1 will be the first person selected, because they only speak 2 languages. What happens if Persons 2 and 3 share no languages, but they each share a language with Person 1?

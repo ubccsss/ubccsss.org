@@ -30,6 +30,10 @@ author: Tristan Rice
 - [Midterm](https://ubccsss.org/files/cs314-2016-midterm.pdf)
 - [Midterm (Solution)](https://ubccsss.org/files/cs314-2016-midterm.soln_.pdf)
 
+## 2023
+
+- [Midterm (Term 1)](https://web.archive.org/web/20240105033601/https://www.students.cs.ubc.ca/~cs-314/Vsep2023/mt1-Vsep2023.pdf) [(Solution)](https://web.archive.org/web/20240105033559/https://www.students.cs.ubc.ca/~cs-314/Vsep2023/mt1-Vsep2023-soln.pdf)
+
 ## Undated
 
 - [cs314-midterm2_sample.pdf](/files/exams/undated/cs314-midterm2_sample.pdf)
@@ -53,6 +57,7 @@ author: Tristan Rice
 - [CPSC 314](/services/exams/cpsc314)
 - [CPSC 320](/services/exams/cpsc320)
 - [CPSC 322](/services/exams/cpsc322)
+- [CPSC 340](/services/exams/cpsc340)
 - [CPSC 404](/services/exams/cpsc404)
 - [CPSC 422](/services/exams/cpsc422)
 - [CPSC 448B](/services/exams/cpsc448B)
