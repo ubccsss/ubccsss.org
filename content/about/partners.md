@@ -26,11 +26,14 @@ layout: single
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
 	{{< partner title="BobaTalks" href="https://bobatalks.com/" src="/files/bobatalks-logo.webp" id="bobatalks" description="Whether you're navigating a career transition, diving into your first internship, or seeking guidance on life's bigger picture, BobaTalks is here to support you every step of the way. They bring a network of 120+ professionals from industry giants like Google, Riot Games, TikTok, and more, covering fields such as Data, Consulting, Mental Health, and beyond.">}}
   </div>
+  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
+	{{< partner title="Thrive Up" href="https://www.thriveup.co/" src="/files/thrive-up.jpg" id="bobatalks" description="Thrive Up is dedicated to helping people interested in tech, whether you're looking to make your mark in the industry or wanting to level up your career. Each week, join them for insightful discussions, career tips, and inspiring stories from professionals at FANNG and diverse backgrounds.">}}
+  </div>
 </div>
 
 The following UBC CS-related clubs are partners of the CSSS. Click on each club to find links to their social media or chat groups!
 
-## Computer Science Clubs
+## Affiliate Clubs
 
 <div class="row">
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
@@ -54,9 +57,18 @@ The following UBC CS-related clubs are partners of the CSSS. Click on each club 
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
     {{< club title="WiDS (Women in Data Science)" href="https://linktr.ee/widsubc" src="/files/wids.png" description="WiDS is a student led initiative that aims to empower, inspire, and connect women in data science." discord="https://discord.gg/4jY6tjySxn" instagram="https://instagram.com/widsubc" facebook="https://www.facebook.com/widsubc/" >}}
   </div>
+  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
+    {{< club title="UBC ML Research Club" href="https://linktr.ee/ubc_mlr" src="/files/mlr.png" description="UBC’s first student-Led professor-instructed Machine Learning research team. An initiative focused on developing ML and research skills in small groups on research projects." instagram="https://www.instagram.com/ubc_mlr" >}}
+  </div>
+  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
+    {{< club title="UBC Quantum Club" href="https://www.ubcquantum.com" src="/files/quantumclub.png" description="UBC Quantum Club provides members with high-quality introduction, training, and exposure to the quantum computing industry and research." discord="https://discord.gg/m8Z2Jwss9m" instagram="https://www.instagram.com/ubcquantum" facebook="https://www.facebook.com/ubcquantum">}}
+  </div>
+  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
+    {{< club title="UBC Startups" href="https://ubcstartups.com" src="/files/startupsclub.svg" description="A platform dedicated to supporting and fostering entrepreneurship within the UBC community." discord="https://discord.gg/6HEmMc2mCh" instagram="https://www.instagram.com/ubcstartups">}}
+  </div>
 </div>
 
-Know another CS club that would like to be listed? Please open an issue on the [ubccsss/ubccsss.org](https://github.com/ubccsss/ubccsss.org/issues/new) GitHub repo, or reach out via the [suggestions box](https://ubccsss.org/contact/suggestions-box/).
+Know another club that would like to be listed? Please open an issue on the [ubccsss/ubccsss.org](https://github.com/ubccsss/ubccsss.org/issues/new) GitHub repo, or reach out via the [suggestions box](https://ubccsss.org/contact/suggestions-box/).
 
 ## Engineering Design Teams
 
