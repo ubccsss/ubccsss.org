@@ -4,6 +4,10 @@ layout: single
 # Card images should all be 348x196
 ---
 
+Are you a company interested in engaging with UBC’s CS community? Explore our sponsorship options now!
+
+<a class="btn btn-fancy mb-4" href="../../files/sponsor/UBC_CSSS_2024_Sponsorship_Package.pdf " target="_blank">Sponsorship Options</a>
+
 ## Sponsors
 
 <div class="row">
@@ -94,5 +98,21 @@ This calendar shows a selection of events from CSSS partner clubs and the CS dep
 .card:hover{
 	transform: scale(1.05);
 	box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.btn-fancy {
+  color: #0d6efd;
+  background-color: white;
+  border: 2px solid #0d6efd;
+  box-shadow: 6px 6px 0 #0d6efd;
+  font-weight: bold;
+}
+
+.btn-fancy:hover {
+  color: #0a58ca;
+  background-color: white;
+  border: 2px solid #0a58ca;
+  box-shadow: 6px 6px 0 #0a58ca;
+  font-weight: bold;
 }
 </style>
