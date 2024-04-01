@@ -538,7 +538,7 @@
   bio: |
     5th year CPSC student with consistently high grades in all Comp Sci courses. 8 terms of TA experience (CPSC 210, 221, 213 + BCS Tutor), 20 months of co-op experience (Optum, D2L, Sony Pictures), and 2 time mentor at NW Hacks.
   rates: 100 Level - $30/hr, 200 Level - $40/hr, 300/400 Level - $50/hr (Negotiable based on requirement)
-  availability: Weekday: 6 pm onwards, Weekends: Flexible
+  availability: "Weekday: 6 pm onwards, Weekends: Flexible"
 
 - name: Charley Cai
   lastmod: 2024-04-01
