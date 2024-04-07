@@ -1,4 +1,20 @@
 reviews:
+  - author: Randy
+    authorLink: https://github.com/RandoNandoz/
+    date: 2024-04-07
+    review: |
+      Good first course in object-oriented programming! This could be a student's first introduction to imperative style programming in a more "heavy duty language", so the course starts off slow with an introduction to basic Java syntax, iteration, etc. We then move on to some basic object oriented programming, inheritance, interfaces. Later on in the course, we get introduced to some GoF design patterns.
+      
+      Personally I found it didn't cover as much material as I hoped for a 4-credit course. Maybe add multithreading or more patterns to the end of the course.
+      
+      Re: PrarieLearn;
+      
+      For my term, we moved onto programming in a code-server based text editor we could run our code (infinitely many times) in PL. Questions were wrote pretty clearly too.
+      
+      Overall very good course, took it with Dr. Paul Carter and Dr. Mehrdad Oveisi, both great profs!
+    difficulty: 1
+    quality: 4.5
+    sessionTaken: 2023W1
   - author: ushankab
     authorLink: 
     date: 2023-12-17
