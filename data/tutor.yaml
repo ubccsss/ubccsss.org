@@ -229,38 +229,6 @@
   rates: $50/h
   availability: Monday, Wednesday, Friday 12pm-6pm
 
-- name: Alex Steele
-  lastmod: 2022-09-17
-  courses:
-    [
-      CPSC103,
-      CPSC121,
-      CPSC203,
-      CPSC210,
-      CPSC213,
-      CPSC302,
-      CPSC303,
-      CPSC320,
-      MATH100/180,
-      MATH101,
-      MATH200/253,
-      MATH215/255,
-      MATH217,
-      MATH220,
-      MATH221/152,
-      MATH223,
-      MATH302,
-      MATH303,
-      MATH316/257,
-      MATH317,
-      MATH318
-    ]
-  email: tutor@alexdsteele.com
-  bio: |
-    I'm a fourth-year combined honours computer science and physics student. My computer science average is 96.4% and my math average is 94.9% (with a mark of 100% in MATH 223: Honours Linear Algebra). I have worked as a teaching assistant for a total of eight terms for CPSC 110 and 221 and I have extensive tutoring experience. Requests for CPSC 110 or CPSC 221 tutoring will be declined, as will any other requests from current students in courses that I TA.
-  rates: $60-70/h Group Discount Available
-  availability: Weekday evenings and weekends. Flexible. Contact to schedule.
-
 - name: Hailey Han
   lastmod: 2023-03-22
   courses: ["CPSC110"]
