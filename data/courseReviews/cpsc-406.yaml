@@ -1,4 +1,12 @@
 reviews:
+  - author: s
+    authorLink: 
+    date: 2024-04-16
+    review: |
+      unfriendly for students without a strong background in linear algebra. lots of mistakes on slides, and no practice problems are available for study before exams.
+    difficulty: 4.5
+    quality: 1.5
+    sessionTaken: 2023W2
   - author: /u/vaastav05
     authorLink: https://www.reddit.com/r/UBC/comments/bsasu1/comp_sci_courses_at_ubc/eom20bx
     date: 2019-05-23
