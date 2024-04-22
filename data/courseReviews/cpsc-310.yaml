@@ -1,4 +1,18 @@
 reviews:
+  - author: b
+    authorLink: 
+    date: 2024-04-22
+    review: |
+      Lectures: the lectures of this course just felt so useless and hard to take notes for - pretty much everyone I know that took this course just stopped going to lectures, instead the readings and videos provided should cover most of the content
+      
+      Project: like many have said before, it's not the most useful thing and if you already have a full-stack app and / or co-op experience the project really doesn't do much for you. Yes, the course learnings are *encouraged* to be used in the project but that doesn't change the fact that the best way to go about the project is just to write shit code since the tight deadlines, overwhelming amount of work specified, and stupidly structured auto grading cooldowns mean that there's usually no time to write quality code.
+      
+      Exams: 60% of our grade (20% quizzes & 40% final) are from T/F questions with penalty on incorrect choices - personally I found this to be quite bizzare and really am not sure if this is a way for them to save time on grading (but like, maybe some MCQ too, come on?) or they really thought this was the best way to test us
+      
+      TLDR imo classes are not useful, project isn't paricularly engaging, and exams are poorly weighted.
+    difficulty: 3.5
+    quality: 2.5
+    sessionTaken: 2024W2
   - author: ██
     authorLink: 
     date: 2023-12-15
