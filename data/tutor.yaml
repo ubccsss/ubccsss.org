@@ -287,7 +287,7 @@
   availability: "Weekdays: 4-8 pm, Weekends: flexible"
 
 - name: Aleksandr Kim
-  lastmod: 2023-09-04
+  lastmod: 2024-04-25
   courses:
     [
       MATH100,
@@ -300,7 +300,10 @@
       MATH317,
       PHYS117,
       PHYS118,
-      MATH302
+      MATH302,
+      MATH223,
+      MATH320,
+      MATH321
     ]
   email: tkim06@student.ubc.ca
   bio: |
