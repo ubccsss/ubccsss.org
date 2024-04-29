@@ -1,4 +1,18 @@
 reviews:
+  - author: s
+    authorLink: 
+    date: 2024-04-29
+    review: |
+      I took the course with Arpan Gujurati as the professor. He explained concepts pretty well in lecture, and was pretty approachable after class for questions. He was also active on Piazza. 
+      
+      In terms of course format & grading, we had 9 labs + 2 lab oral exams (38%), 2 quizzes (16% each), and a final exam (30%). The labs were due every 1-2 weeks on a very tight schedule, and were extremely challenging. They were based on the distributed systems MIT labs, so you can Google that if you'd like to take a look first.
+      
+      This course was very heavy on readings as well, more than any other CPSC course I've taken. Each set of 1-3 lectures had an associated reading, and the lecture itself was like a case study on the topic of that reading. 
+      
+      Overall, this is one of the most difficult CPSC courses at UBC. The labs are very time consuming, and the course content is not trivial to understand, especially when you get to the later topics in the course. However, I think the grading was fair, and I do recommend this class since distributed systems are used virtually everywhere.
+    difficulty: 5
+    quality: 3.5
+    sessionTaken: 2023W2
   - author: michael
     authorLink: 
     date: 2023-12-12
