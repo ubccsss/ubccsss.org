@@ -494,13 +494,13 @@
   availability: Weekdays 5:00pm - 11:00pm, Weekends flexible
 
 - name: Alisa Dulalia
-  lastmod: 2024-02-18
-  courses: [CPSC110, CPSC107]
+  lastmod: 2024-04-30
+  courses: [CPSC110, CPSC107, CPSC103, CPSC210, MATH110]
   email: alisa.school.42@gmail.com
   bio: |
-    I am a current CS student! I really enjoyed 110 and it's structure, and ended with an A+ in it. I have coding experience through personal projects, and tutoring experience teaching music production.
-  rates: $35/hr
-  availability: Available during the week. Contact to schedule.
+    I am a current CS student! I offer zoom and in-person tutoring. I enjoyed CPSC 110 and 210 and got an A+ in both of them. I also tutor AP computer science. I have coding experience through personal projects, and experience tutoring music privately, and computer science under different companies. If there's a topic I haven't listed but you'd like a tutor for, email me and we can work something out!
+  rates: $39/hr
+  availability: Available during the week and weekends. Contact to schedule. Available during summer.
 
 - name: Ritik Keswani
   lastmod: 2024-04-01
