@@ -1,4 +1,12 @@
 reviews:
+  - author: ushankab
+    authorLink: 
+    date: 2024-05-10
+    review: |
+      The lectures often felt kind of dry and boring. However, that doesn't mean the material covered in the lectures isn't useful or important, in fact, I firmly believe that it is useful and important. I thought the project was excellent and made up for the lectures being boring. A lot of work and preparation has gone into making the project a good learning experience. I found it to be a fun learning experience that does a good job of reinforcing the theoretical content of the lectures (testing, refactoring, design etc.). The project is pretty easy for a competent team that has prior industry experience and does not procrastinate. However, I think the difficulty of this course can radically change based on a few key decisions or aspects. First, I think it's very important to get a good project group partner. Second, it's important to do a good job on C0 to set yourself up for success on the rest of the project. When I took this course C0 essentially started on the first day of the semester and we only got something like 10 days to do it, so the start of the course can be a little heavy (arguably the heaviest part).
+    difficulty: 2
+    quality: 4
+    sessionTaken: 2023W1
   - author: b
     authorLink: 
     date: 2024-04-22
