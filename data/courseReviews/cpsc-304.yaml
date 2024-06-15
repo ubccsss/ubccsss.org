@@ -1,4 +1,12 @@
 reviews:
+  - author: ushankab
+    authorLink: 
+    date: 2024-05-10
+    review: |
+      One of my favourite CS courses, perhaps even my favourite. If you like or are interested in databases you will very likely enjoy this course. As someone who was pretty familiar with databases before I took this course, I can say the vast majority of the course is very applicable to the real world. Overall I give top marks to most aspects of the course. The lectures were well done, the textbook is quite good, there are many exercises to refine skills, and exams were very reasonable if you paid attention and did some practice. I do have a few criticisms though. A few aspects of the project feel somewhat antiquated and suboptimal (taking a bunch of screenshots of features to put in a Word doc). The number of errors in the answers to the exercises is higher than should be the case (not counting the errors corrected in the textbook answer key). The lecture(s) on datalog could/should be replaced with something more practical like a survey of NoSQL databases.
+    difficulty: 2.5
+    quality: 4
+    sessionTaken: 2023W2
   - author: anon_304_student
     authorLink: 
     date: 2024-01-04
