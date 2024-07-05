@@ -1,4 +1,12 @@
 reviews:
+  - author: charles
+    authorLink: 
+    date: 2024-07-05
+    review: |
+      Gregor fun. HTDW bad. This is aa challenging course. It is so much fun to run throught the problems. I think it can be a high workload too, so beware
+    difficulty: 4.5
+    quality: 5
+    sessionTaken: 2023W1
   - author: ushankab
     authorLink: 
     date: 2023-12-17
