@@ -2,9 +2,9 @@
 title: Code of Conduct
 ---
 
-Code of Conduct for CSSS, Cube Lounge/Office, Discord Server, and other CSSS Community Spaces
+Code of Conduct for CSSS, Cube Lounge/Office, Discord Server, and other CSSS Community Spaces.
 
-&nbsp;&nbsp;
+<br/>
 
 ### Rules:
 
