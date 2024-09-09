@@ -14,6 +14,7 @@ serve all Computer Science students.
   <a class="btn btn-primary" href="/about/constitution">Constitution</a>
   <a class="btn btn-primary" href="/about/minutes/">Minutes</a>
   <a class="btn btn-primary" href="/about/partners/">Partners</a>
+  <a class="btn btn-primary" href="/about/code-of-conduct/">Code of Conduct</a>
 </div>
 
 ### How do I join?
