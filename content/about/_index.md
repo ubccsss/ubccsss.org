@@ -9,11 +9,12 @@ We are the UBC Computer Science Student Society (UBC CSSS), a student society to
 serve all Computer Science students.
 
 <div class="mb-4">
-  <a class="btn btn-primary" href="/about/team/executives">Executives</a>
-  <a class="btn btn-primary" href="/about/team/officers/">Officers</a>
-  <a class="btn btn-primary" href="/about/constitution">Constitution</a>
-  <a class="btn btn-primary" href="/about/minutes/">Minutes</a>
-  <a class="btn btn-primary" href="/about/partners/">Partners</a>
+  <a class="btn btn-primary me-1 mb-2" href="/about/team/executives">Executives</a>
+  <a class="btn btn-primary me-1 mb-2" href="/about/team/officers/">Officers</a>
+  <a class="btn btn-primary me-1 mb-2" href="/about/constitution">Constitution</a>
+  <a class="btn btn-primary me-1 mb-2" href="/about/minutes/">Minutes</a>
+  <a class="btn btn-primary me-1 mb-2" href="/about/partners/">Partners</a>
+  <a class="btn btn-primary me-1 mb-2" href="/about/code-of-conduct/">Code of Conduct</a>
 </div>
 
 ### How do I join?
