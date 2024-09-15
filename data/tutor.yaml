@@ -558,3 +558,12 @@
     - Specify what exactly you need help with even if it's a different CPSC course or some MATH course, I'm more than happy to help!
   rates: $20/hr (negotiable)
   availability: Available on Weekends (contact to schedule)
+
+  - name: Mourud Ishmam Ahmed
+    lastmod: 2024-09-15
+    courses: [CPSC110, CPSC121, CPSC210, CPSC221]
+    email: mourud@student.ubc.ca
+    bio: |
+      I am a recent UBC graduate in Physics and Computer Science with over 2 years of industry experience at companies like Unity and SAP. Having TAed CPSC 320 for three terms and tutored students for two years, I offer a strong foundation in algorithms, data structures, and real-world applications, with a focus on personalized, results-driven tutoring.
+    rates: $40/hr
+    availability: Available during the week and weekends- contact to schedule
