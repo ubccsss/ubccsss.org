@@ -6,7 +6,7 @@
 
     <link rel="canonical" href="{{ .Permalink }}" />
 
-    <title>UBC Technical Career Fair 2025</title>
+    <title>UBC Technical Career Fair 2024</title>
     <!-- Open Graph Tags -->
     <meta property="og:image" content="/files/tcf2024.png" />
     <meta name="twitter:card" content="summary_large_image" />
@@ -61,8 +61,8 @@
     <div class="hero-header">
       <div class="hero-header-content py-5">
         <div class="mx-auto py-5 my-5">
-          <h1 class="display-1 fw-bold">Technical Career Fair 2025</h1>
-          <p class="hero-header-text">January 22nd, 2025 — 10AM-4PM PT</p>
+          <h1 class="display-1 fw-bold">Technical Career Fair 2024</h1>
+          <p class="hero-header-text">February 1st, 2024 — 10AM-4PM PT</p>
           <p>
             <b
               >All UBC students and alumni are welcome and do not need to
@@ -72,7 +72,7 @@
           </p>
           <p>
             To learn more about our event last year, see
-            <a href="/tcf2024/" style="color:white;"> TCF 2024 </a>
+            <a href="/tcf2023/" style="color:white;"> TCF 2023 </a>
           </p>
           <p>Questions? Email vpx@ubccsss.org</p>
         </div>
@@ -81,9 +81,9 @@
     <div class="container" id="about">
       <div class="row pt-3">
         <div class="col-lg-6 col-sm-12">
-          <h1>Welcome to TCF 2025!</h1>
+          <h1>Welcome to TCF 2024!</h1>
           <p class="mt-3">
-            We are thrilled to invite you to the 2025 UBC Technical Career Fair
+            We are thrilled to invite you to the 2024 UBC Technical Career Fair
             (TCF)!<br /><br />
             UBC stands among Canada's top in Engineering & Technology and is
             recognized globally as
@@ -109,14 +109,11 @@
     <div class="background-blue">
       <div class="container" id="companies">
         <h1 class="text-center mb-0">
-          <!-- {{ len (where .Pages ".Params.layout" "tcf-company-2025") }} -->
-          Companies Attending
+          {{ len (where .Pages ".Params.layout" "tcf-company-2024") }} Companies
+          Attending
         </h1>
-        <h5 class="text-center mt-3">
-          To be announced — check back later to see companies in attendance!
-        </h5>
         <div class="row pt-4">
-          {{ range first 12 (sort (where .Pages ".Params.layout" "tcf-company-2025")) }}
+          {{ range first 12 (sort (where .Pages ".Params.layout" "tcf-company-2024")) }}
             {{ if .Params.imageLink }}
               <div class="col-lg-3 col-sm-12 col-md-6 mt-3">
                 <div class="card w-100 mt-3 h-100">
@@ -154,14 +151,14 @@
             {{ end }}
           {{ end }}
         </div>
-        <!-- <div class="d-flex flex-row justify-content-center pt-4">
+        <div class="d-flex flex-row justify-content-center pt-4">
           <a href="/tcf/companies" class="mt-5 btn btn-outline-light"
             ><i class="bi-people"></i> See more companies</a
           >
         </div>
         <p class="text-center mt-3">
           More companies may be added soon - check back later for more!
-        </p> -->
+        </p>
       </div>
     </div>
     <div class="container" id="event-info">
@@ -169,7 +166,7 @@
       <div class="row">
         <div class="col-lg-6 col-sm-12">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10414.209660133998!2d-123.2500243!3d49.2659289!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548672b6360dff9d%3A0x82fa3ec0bf22ed35!2sRobert%20H.%20Lee%20Alumni%20Centre!5e0!3m2!1sen!2sca!4v1726628279463!5m2!1sen!2sca"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d650.8807803304653!2d-123.25052691227467!3d49.266484060046565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe9bbdd7328c09b21!2sAMS%20Student%20Nest!5e0!3m2!1sen!2sca!4v1670126049391!5m2!1sen!2sca"
             style="border: 0; width: 100%;"
             allowfullscreen=""
             loading="lazy"
@@ -179,11 +176,11 @@
         <div class="col-lg-6 col-sm-12">
           <p class="mt-1">The TCF will take place:</p>
           <ul>
-            <li>January 22, 2025</li>
+            <li>February 1, 2024</li>
             <li>10AM - 4PM PST</li>
             <li>
-              at the Jack Poole Hall, Robert H. Lee Alumni Centre (6163
-              University Blvd, Vancouver, BC V6T 1Z1)
+              at the Great Hall South (2nd floor) in the AMS Nest (6133
+              University Blvd, Vancouver, BC, V6T1Z1)
             </li>
           </ul>
           <p>Check back later for a dedicated event map!</p>
@@ -195,10 +192,7 @@
       <div class="container">
         <h1 class="text-center">Partners</h1>
         <div class="row justify-content-center">
-          <h5 class="text-center mt-3">
-            To be announced — check back later to see TCF partners!
-          </h5>
-          <!-- <div class="col-lg-3 col-md-6 mb-3">
+          <div class="col-lg-3 col-md-6 mb-3">
             <div class="card w-100 h-100" title="UBC WiCS">
               <img
                 class="card-img-top img-fluid"
@@ -263,7 +257,7 @@
                 </h5>
               </div>
             </div>
-          </div> -->
+          </div>
         </div>
       </div>
     </div>
@@ -337,7 +331,7 @@
             class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
             <img class="bi" width="30" height="24" src="/logo.svg" />
           </a>
-          <span class="mb-3 mb-md-0 text-muted">© 2024-2025 UBC CSSS</span>
+          <span class="mb-3 mb-md-0 text-muted">© 2023 UBC CSSS</span>
         </div>
 
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
