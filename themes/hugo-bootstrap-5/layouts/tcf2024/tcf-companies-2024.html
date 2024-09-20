@@ -45,8 +45,12 @@
       </button>
       <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="/tcf2024#about">About</a></li>
-        <li><a class="dropdown-item" href="/tcf2024/companies">Companies</a></li>
-        <li><a class="dropdown-item" href="/tcf2024#event-info">Event Info</a></li>
+        <li>
+          <a class="dropdown-item" href="/tcf2024/companies">Companies</a>
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf2024#event-info">Event Info</a>
+        </li>
       </ul>
     </div>
     <div class="hero-header py-6 h-100">
@@ -57,7 +61,7 @@
       </div>
     </div>
     <div class="container">
-      <a href="/tcf">&lt; back to TCF page</a>
+      <a href="/tcf2024">&lt; back to TCF page</a>
       <div class="row pt-4">
         {{ range .Site.Pages }}
           {{ if (and (eq .Params.layout "tcf-company-2024") (.Params.imageLink)) }}
