@@ -240,9 +240,11 @@
   availability: Monday to Friday, from 5pm to 9pm
 
 - name: Lewis Nicolle
-  lastmod: 2023-02-04
+  lastmod: 2024-09-24
   courses:
     [
+      CPSC110,
+      CPSC121,
       CPSC210,
       CPSC213,
       CPSC221,
@@ -251,12 +253,17 @@
       CPSC314,
       CPSC317,
       CPSC320,
-      CPSC418
+      CPSC418,
+      APSC160,
+      CPEN211,
+      CPEN212,
+      CPEN221,
+      CPEN331
     ]
-  email: musicaljelly@gmail.com
+  email: lewis.c.nicolle@gmail.com
   bio: |
     Graduated from UBC with a Bachelor's in CS in 2017. Have worked in the game industry for 5+ years, at companies like Capcom, EA, and Relic Entertainment. I specialize in graphics/rendering (D3D11/12, HLSL, PBR), and in low-level systems programming (C/C++/assembly, optimization, Windows API). Beyond coursework, I can also tutor in game and game engine programming, and help with interview prep for game companies.
-  rates: $65/h
+  rates: $55/h
   availability: Weekdays
 
 - name: Titus Wong
@@ -504,7 +511,24 @@
 
 - name: Ritik Keswani
   lastmod: 2024-04-01
-  courses: [COSC111, COSC121, COSC123, CPSC210, CPSC221, CPSC213, CPSC304, CPSC310, CPSC313, CPSC314, CPSC317, CPSC322, CPSC425, CPSC427, CPSC455]
+  courses:
+    [
+      COSC111,
+      COSC121,
+      COSC123,
+      CPSC210,
+      CPSC221,
+      CPSC213,
+      CPSC304,
+      CPSC310,
+      CPSC313,
+      CPSC314,
+      CPSC317,
+      CPSC322,
+      CPSC425,
+      CPSC427,
+      CPSC455
+    ]
   email: ritikk075@gmail.com
   bio: |
     5th year CPSC student with consistently high grades in all Comp Sci courses. 8 terms of TA experience (CPSC 210, 221, 213 + BCS Tutor), 20 months of co-op experience (Optum, D2L, Sony Pictures), and 2 time mentor at NW Hacks.
@@ -513,13 +537,14 @@
 
 - name: Charley Cai
   lastmod: 2024-04-01
-  courses: [CPSC103, CPSC107, CPSC110, CPSC121, CPSC210, CPSC213, CPSC221, CPSC330]
+  courses:
+    [CPSC103, CPSC107, CPSC110, CPSC121, CPSC210, CPSC213, CPSC221, CPSC330]
   email: caic@student.ubc.ca
   bio: |
     Hello!
-    
+
     I graduated from UBC in 2022 with a combined Computer Science and Microbiology/Immunology degree. I was a CPSC 213 TA for 3 terms (2020-2022) and have 6 years of experience as a tutor high school and university students privately. I averaged 97% over all my CPSC courses during my degree (CPSC 110, 121, 210, 213, 221, 313, 310, 320, 330) and was selected as the UBC Computer Science Valedictorian Speaker for Spring 2022. I am currently a 3rd year medical student at UBC and still have a passion for computer science and teaching students.
-    
+
     Group session are accepted.
   rates: $40-60 depending on availability.
   availability: Available during the week and weekends- contact to schedule
@@ -535,7 +560,22 @@
 
 - name: Saquib
   lastmod: 2024-08-18
-  courses: [CPSC210, CPSC221, CPSC259, CPSC304, CPSC310, CPSC313, CPSC319, CPSC320, CPSC322, CPSC330, CPSC368, CPSC404, CPSC410]
+  courses:
+    [
+      CPSC210,
+      CPSC221,
+      CPSC259,
+      CPSC304,
+      CPSC310,
+      CPSC313,
+      CPSC319,
+      CPSC320,
+      CPSC322,
+      CPSC330,
+      CPSC368,
+      CPSC404,
+      CPSC410
+    ]
   email: sakhan891@gmail.com
   bio: |
     CS graduate and have been working as a Software Engineer for 7 years in USA and Canada. I have primarily worked with Java and Python. But, I am familiar with a host of other languages including C, C++, C#, Go and Kotlin.
