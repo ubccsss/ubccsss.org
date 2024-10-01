@@ -16,3 +16,8 @@ HUGO_ENV = "preview"
 from = "/events/2023/01/19/technical-career-fair/"
 to = "/tcf2023"
 status = 302
+
+[[redirects]]
+from = "/events/package/"
+to = "/files/tcf2025/UBC-CSSS-General-Events-Package.pdf"
+status = 302
