@@ -21,3 +21,8 @@ status = 302
 from = "/events/package/"
 to = "/files/tcf2025/UBC-CSSS-General-Events-Package.pdf"
 status = 302
+
+[[redirects]]
+from = "/tcf/join-us/"
+to = "/files/tcf2025/UBC-CSSS-2025-TCF-Package.pdf"
+status = 302
