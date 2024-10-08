@@ -1,3 +1,0 @@
----
-layout: tcf-registration-package
----
