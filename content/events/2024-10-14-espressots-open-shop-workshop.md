@@ -1,6 +1,6 @@
 ---
 # The title of the event
-title: EspressoTS Open Source Workshop
+title: ExpressoTS Open Source Workshop
 # Publishing date when the event appears, not the date of the event.
 date: 2024-10-14
 # Tags that apply to the event
@@ -17,7 +17,7 @@ start_date: 2024-10-16 17:30:00
 end_date: 2024-10-16 18:30:00
 ---
 
-![Preview image for EspressoTS Open Shop Workshop event](/files/2024-10-14-espressots-instagram-post.png)
+![Preview image for ExpressoTS Open Source Workshop event](/files/2024-10-14-espressots-instagram-post.png)
 
 ExpressoTS is an open-source Node.js framework built with Typescript for creating highly maintainable server-side applications. It offers a modular architecture, easy middleware integration, and scalability for efficient web development. 
 
