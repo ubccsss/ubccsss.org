@@ -19,14 +19,14 @@ end_date: 2024-10-19 16:00:00
 
 ![Preview image for 🚀 AI Agent Workshop using OpenAI  event](/files/2024-10-15-ai-workshop-1.png)
 
-🚀 AI Agent Workshop using OpenAI 🚀
- 📅 When: Sat, Oct 19 | 10am-4pm
- 📍 Where: Abdul Ladha Science Student Centre, 2nd Floor
+🚀 AI Agent Workshop using OpenAI 🚀  
+ 📅 When: Sat, Oct 19 | 10am-4pm  
+ 📍 Where: Abdul Ladha Science Student Centre, 2nd Floor  
 
 Explore the technical details of AI agents in this hands-on workshop with Ye Fan (VP at Vital Mechanics Research) and Annie Wang (Software Engineer at Google). Learn how to: 
-Build your own AI agent and integrate tools like Couchbase for retrieval tasks 
-Understand AI’s evolution from LLMs to RAG and AI agents 
-Apply embeddings and vector search for real-world multimodal AI tasks
+- Build your own AI agent and integrate tools like Couchbase for retrieval tasks 
+- Understand AI’s evolution from LLMs to RAG and AI agents 
+- Apply embeddings and vector search for real-world multimodal AI tasks
 
 This workshop is PERFECT for anyone ready to gain practical skills in AI and take their personal projects to the next level! Spots are limited—don’t miss out!
 
