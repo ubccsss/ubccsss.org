@@ -18,6 +18,9 @@ end_date: 2024-10-19 16:00:00
 ---
 
 ![Preview image for 🚀 AI Agent Workshop using OpenAI  event](/files/2024-10-15-ai-workshop-1.png)
+![Preview image for 🚀 AI Agent Workshop using OpenAI  event](/files/2024-10-15-ai-workshop-2.png)
+![Preview image for 🚀 AI Agent Workshop using OpenAI  event](/files/2024-10-15-ai-workshop-3.png)
+![Preview image for 🚀 AI Agent Workshop using OpenAI  event](/files/2024-10-15-ai-workshop-4.png)
 
 🚀 AI Agent Workshop using OpenAI 🚀  
  📅 When: Sat, Oct 19 | 10am-4pm  
