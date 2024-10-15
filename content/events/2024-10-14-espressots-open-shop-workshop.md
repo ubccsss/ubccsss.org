@@ -22,3 +22,5 @@ end_date: 2024-10-16 18:30:00
 ExpressoTS is an open-source Node.js framework built with Typescript for creating highly maintainable server-side applications. It offers a modular architecture, easy middleware integration, and scalability for efficient web development. 
 
 Contributing to open-source projects like ExpressoTS accelerates innovation, fosters community collaboration, and provides valuable learning experiences. Join us in this talk to learn more about the world of open-source projects, ExpressoTS and how you can contribute and benefit from open source projects.
+
+[RSVP here!](https://forms.gle/7aGEkDSFCksQAnK89)
