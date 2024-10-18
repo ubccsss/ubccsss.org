@@ -21,3 +21,5 @@ end_date: 2024-10-24 19:30:00
 
 Are you interested in learning Git or participating in Hacktoberfest? Check out our new workshop happening on October 24th! Git is a powerful version control system for software, ubiquitous in industry, academia, and the world of open source, and Hacktoberfest is a global open-source contribution event that happens annually in October. Whether you’ve completely new to it or want a better understanding of the fundamentals, attending this workshop will give you the knowledge you need to use Git and contribute to open source confidently and effectively. 
 
+Date/time: October 24th @ 5:30PM
+Location: DMP 201
