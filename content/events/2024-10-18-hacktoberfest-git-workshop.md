@@ -19,7 +19,8 @@ end_date: 2024-10-24 19:30:00
 
 ![Preview image for Hacktoberfest Git Workshop event](/files/2024-10-18-hacktober1.png)
 
-Are you interested in learning Git or participating in Hacktoberfest? Check out our new workshop happening on October 24th! Git is a powerful version control system for software, ubiquitous in industry, academia, and the world of open source, and Hacktoberfest is a global open-source contribution event that happens annually in October. Whether you’ve completely new to it or want a better understanding of the fundamentals, attending this workshop will give you the knowledge you need to use Git and contribute to open source confidently and effectively. 
+Are you interested in learning Git or participating in Hacktoberfest? Check out our new workshop happening on October 24th! Git is a powerful version control system for software, ubiquitous in industry, academia, and the world of open source, and Hacktoberfest is a global open-source contribution event that happens annually in October. Whether you’ve completely new to it or want a better understanding of the fundamentals, attending this workshop will give you the knowledge you need to use Git and contribute to open source confidently and effectively. [RSVP here](https://forms.gle/nu6Xqnt7mztMikDs9)!
 
-Date/time: October 24th @ 5:30PM
-Location: DMP 201
+**Location**: DMP 201
+
+
