@@ -1,6 +1,21 @@
 {{ define "body" }}
+  {{/* Carousel event chunking script */}}
+  {{ $recentEvents := (.Site.GetPage "/events").Pages | first 25 }}
+  {{ $batchSize := 4 }}
+  {{ $chunks := dict }}
+  {{ $current_key := 0 }}
+
+  {{ range $i, $event := $recentEvents }}
+    {{ if and (ne $i 0) (eq (mod $i $batchSize) 0) }}
+      {{ $current_key = add $current_key 1 }}
+    {{ end }}
+    {{ $chunk := index $chunks (string $current_key) | default (slice) }}
+    {{ $chunk = $chunk | append $event }}
+    {{ $chunks = merge $chunks (dict (string $current_key) $chunk) }}
+  {{ end }}
+
+
   <div class="container-fluid">
-    {{ $recentEvents := (.Site.GetPage "/events").Pages | first 4 }}
     <div class="row justify-content-center pt-3 mb-lg-5 mb-3 text-center">
       <div class="w-75 col-lg-10 title">
         <h1 class="mb-lg-4">{{ .Title }}</h1>
@@ -14,9 +29,39 @@
       </div>
     </div>
     <div
-      class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 px-5 pt-lg-3 pt-3 g-4">
-      {{ range $recentEvents }}{{ .Render "card" }}{{ end }}
+      id="carouselExampleControls"
+      class="carousel slide"
+      data-bs-ride="carousel">
+      <div class="carousel-inner">
+        {{ range $chunkIndex, $chunk := $chunks }}
+          <div class="carousel-item {{ if eq $chunkIndex "0" }}active{{ end }}">
+            <div
+              class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 px-5 pt-lg-3 pt-3 g-4">
+              {{ range $event := $chunk }}
+                {{ .Render "card" }}
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+      </div>
+      <button
+        class="carousel-control-prev"
+        type="button"
+        data-bs-target="#carouselExampleControls"
+        data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button
+        class="carousel-control-next"
+        type="button"
+        data-bs-target="#carouselExampleControls"
+        data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
     </div>
+
     <div class="row justify-content-center pt-lg-2 pb-lg-4">
       <div class="col-lg-8 text-center">
         Have a suggested event or initiative in mind? Send it our way
