@@ -1,12 +1,18 @@
 {{ define "body" }}
   {{ $displayEventType := "upcoming" }}
-  {{ $upcomingEvents := (.Site.GetPage "/events").Pages | first 24 }}
-  {{ $pastEvents := (.Site.GetPage "/events").Pages | first 24 }}
+  {{ $recentEvents := (.Site.GetPage "/events").Pages | first 24 }}
+  {{ $upcomingEvents := where $recentEvents "Params.date" "ge" now }}
+  {{ $pastEvents := where $recentEvents "Params.date" "lt" now }}
+  {{ $upcomingEventsLength := len $upcomingEvents }}
 
 
   <style>
     .nav-tabs .nav-link.active {
       background-color: #fcfcfc;
+    }
+
+    .display-none {
+      display: none;
     }
   </style>
 
@@ -56,7 +62,7 @@
         <li class="nav-item">
           <a
             id="events-nav-bar-upcoming"
-            class="nav-link active"
+            class="nav-link {{ if ne $upcomingEventsLength 0 }}active{{ end }}"
             aria-current="page"
             onclick="showEvents('upcoming', this)"
             >Upcoming Events</a
@@ -65,7 +71,7 @@
         <li class="nav-item">
           <a
             id="events-nav-bar-past"
-            class="nav-link"
+            class="nav-link {{ if eq $upcomingEventsLength 0 }}active{{ end }}"
             onclick="showEvents('past', this)"
             >Past Events</a
           >
@@ -73,33 +79,43 @@
       </ul>
     </div>
 
-    <div id="eventsCarouselUpcoming">
-      <div
-        id="carouselControlsUpcoming"
-        class="carousel slide"
-        data-bs-ride="carousel"
-        style="display: block;">
-        <div id="events-carousel-upcoming" class="carousel-inner">
-          {{ partial "display-events.html" (dict "events" $upcomingEvents) }}
+    <div
+      id="eventsCarouselUpcoming"
+      class="{{ if eq $upcomingEventsLength 0 }}display-none{{ end }}">
+      {{ if ne $upcomingEventsLength 0 }}
+        <div
+          id="carouselControlsUpcoming"
+          class="carousel slide"
+          data-bs-ride="carousel">
+          <div id="events-carousel-upcoming" class="carousel-inner">
+            {{ partial "display-events.html" (dict "events" $upcomingEvents) }}
+          </div>
+          <button
+            class="carousel-control-prev"
+            type="button"
+            data-bs-target="#carouselControlsUpcoming"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          </button>
+          <button
+            class="carousel-control-next"
+            type="button"
+            data-bs-target="#carouselControlsUpcoming"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          </button>
         </div>
-        <button
-          class="carousel-control-prev"
-          type="button"
-          data-bs-target="#carouselControlsUpcoming"
-          data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        </button>
-        <button
-          class="carousel-control-next"
-          type="button"
-          data-bs-target="#carouselControlsUpcoming"
-          data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        </button>
-      </div>
+      {{ else }}
+        <p class="text-center fs-5 p-4">
+          No upcoming events at the moment. Check back later!
+        </p>
+        <p></p>
+      {{ end }}
     </div>
 
-    <div id="eventsCarouselPast" style="display: none;">
+    <div
+      id="eventsCarouselPast"
+      class="{{ if ne $upcomingEventsLength 0 }}display-none{{ end }}">
       <div
         id="carouselControlsPast"
         class="carousel slide"

@@ -37,7 +37,7 @@
 {{ range $chunkIndex, $chunk := $chunks }}
   <div class="carousel-item {{ if eq $chunkIndex "0" }}active{{ end }}">
     <div
-      class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 px-5 pt-lg-3 pt-3 g-4">
+      class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 px-5 pt-lg-3 pt-3 g-4 justify-content-center">
       {{ range $event := $chunk }}
         {{ .Render "card" }}
       {{ end }}
