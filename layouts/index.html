@@ -1,6 +1,7 @@
 {{ define "body" }}
   {{ $displayEventType := "upcoming" }}
-  {{ $recentEvents := (.Site.GetPage "/events").Pages | first 24 }}
+  {{ $upcomingEvents := (.Site.GetPage "/events").Pages | first 24 }}
+  {{ $pastEvents := (.Site.GetPage "/events").Pages | first 24 }}
 
 
   <style>
@@ -8,6 +9,33 @@
       background-color: #fcfcfc;
     }
   </style>
+
+  <script>
+    /**
+     * Dynamically shows and hides event carousels.
+     */
+    function showEvents(eventType, element) {
+      pastEventsCarousel = document.getElementById("eventsCarouselPast");
+      upcomingEventsCarousel = document.getElementById(
+        "eventsCarouselUpcoming"
+      );
+
+      document.getElementById("events-nav-bar-past").classList.remove("active");
+      document
+        .getElementById("events-nav-bar-upcoming")
+        .classList.remove("active");
+
+      element.classList.add("active");
+
+      if (eventType === "upcoming") {
+        upcomingEventsCarousel.style.display = "block";
+        pastEventsCarousel.style.display = "none";
+      } else {
+        upcomingEventsCarousel.style.display = "none";
+        pastEventsCarousel.style.display = "block";
+      }
+    }
+  </script>
 
   <div class="container-fluid">
     <div class="row justify-content-center pt-3 mb-lg-5 mb-3 text-center">
@@ -26,44 +54,72 @@
     <ul class="nav nav-tabs">
       <li class="nav-item">
         <a
-          class="nav-link {{ if eq $displayEventType "upcoming" }}
-            active
-          {{ end }}"
+          id="events-nav-bar-upcoming"
+          class="nav-link active"
           aria-current="page"
-          href="#"
+          onclick="showEvents('upcoming', this)"
           >Upcoming Events</a
         >
       </li>
       <li class="nav-item">
         <a
-          class="nav-link {{ if eq $displayEventType "past" }}active{{ end }}"
-          href="#"
+          id="events-nav-bar-past"
+          class="nav-link"
+          onclick="showEvents('past', this)"
           >Past Events</a
         >
       </li>
     </ul>
-    <div id="carouselControls" class="carousel slide" data-bs-ride="carousel">
-      <div class="carousel-inner">
-        {{ if eq $displayEventType "upcoming" }}
-          {{ partial "display-events.html" (dict "events" $recentEvents) }}
-        {{ end }}
+
+    <div id="eventsCarouselUpcoming">
+      <div
+        id="carouselControlsUpcoming"
+        class="carousel slide"
+        data-bs-ride="carousel"
+        style="display: block;">
+        <div id="events-carousel-upcoming" class="carousel-inner">
+          {{ partial "display-events.html" (dict "events" $upcomingEvents) }}
+        </div>
+        <button
+          class="carousel-control-prev"
+          type="button"
+          data-bs-target="#carouselControlsUpcoming"
+          data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        </button>
+        <button
+          class="carousel-control-next"
+          type="button"
+          data-bs-target="#carouselControlsUpcoming"
+          data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        </button>
       </div>
-      <button
-        class="carousel-control-prev"
-        type="button"
-        data-bs-target="#carouselControls"
-        data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-      </button>
-      <button
-        class="carousel-control-next"
-        type="button"
-        data-bs-target="#carouselControls"
-        data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-      </button>
+    </div>
+
+    <div id="eventsCarouselPast" style="display: none;">
+      <div
+        id="carouselControlsPast"
+        class="carousel slide"
+        data-bs-ride="carousel">
+        <div id="events-carousel-past" class="carousel-inner">
+          {{ partial "display-events.html" (dict "events" $pastEvents) }}
+        </div>
+        <button
+          class="carousel-control-prev"
+          type="button"
+          data-bs-target="#carouselControlsPast"
+          data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        </button>
+        <button
+          class="carousel-control-next"
+          type="button"
+          data-bs-target="#carouselControlsPast"
+          data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        </button>
+      </div>
     </div>
 
     <div class="row justify-content-center pt-lg-2 pb-lg-4">
