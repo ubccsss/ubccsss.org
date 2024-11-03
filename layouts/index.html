@@ -1,19 +1,13 @@
 {{ define "body" }}
-  {{/* Carousel event chunking script */}}
+  {{ $displayEventType := "upcoming" }}
   {{ $recentEvents := (.Site.GetPage "/events").Pages | first 24 }}
-  {{ $batchSize := 4 }}
-  {{ $chunks := dict }}
-  {{ $current_key := 0 }}
 
-  {{ range $i, $event := $recentEvents }}
-    {{ if and (ne $i 0) (eq (mod $i $batchSize) 0) }}
-      {{ $current_key = add $current_key 1 }}
-    {{ end }}
-    {{ $chunk := index $chunks (string $current_key) | default (slice) }}
-    {{ $chunk = $chunk | append $event }}
-    {{ $chunks = merge $chunks (dict (string $current_key) $chunk) }}
-  {{ end }}
 
+  <style>
+    .nav-tabs .nav-link.active {
+      background-color: #fcfcfc;
+    }
+  </style>
 
   <div class="container-fluid">
     <div class="row justify-content-center pt-3 mb-lg-5 mb-3 text-center">
@@ -25,29 +19,39 @@
     <hr class="w-75 mx-auto" />
     <div class="row justify-content-center mt-3 py-lg-4">
       <div class="col-lg-8 text-center large-text">
-        <h1>Recent Events</h1>
+        <h1>Our Events</h1>
       </div>
     </div>
-    <div
-      id="carouselExampleControls"
-      class="carousel slide"
-      data-bs-ride="carousel">
+
+    <ul class="nav nav-tabs">
+      <li class="nav-item">
+        <a
+          class="nav-link {{ if eq $displayEventType "upcoming" }}
+            active
+          {{ end }}"
+          aria-current="page"
+          href="#"
+          >Upcoming Events</a
+        >
+      </li>
+      <li class="nav-item">
+        <a
+          class="nav-link {{ if eq $displayEventType "past" }}active{{ end }}"
+          href="#"
+          >Past Events</a
+        >
+      </li>
+    </ul>
+    <div id="carouselControls" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
-        {{ range $chunkIndex, $chunk := $chunks }}
-          <div class="carousel-item {{ if eq $chunkIndex "0" }}active{{ end }}">
-            <div
-              class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 px-5 pt-lg-3 pt-3 g-4">
-              {{ range $event := $chunk }}
-                {{ .Render "card" }}
-              {{ end }}
-            </div>
-          </div>
+        {{ if eq $displayEventType "upcoming" }}
+          {{ partial "display-events.html" (dict "events" $recentEvents) }}
         {{ end }}
       </div>
       <button
         class="carousel-control-prev"
         type="button"
-        data-bs-target="#carouselExampleControls"
+        data-bs-target="#carouselControls"
         data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Previous</span>
@@ -55,7 +59,7 @@
       <button
         class="carousel-control-next"
         type="button"
-        data-bs-target="#carouselExampleControls"
+        data-bs-target="#carouselControls"
         data-bs-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
