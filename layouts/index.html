@@ -1,6 +1,6 @@
 {{ define "body" }}
   {{/* Carousel event chunking script */}}
-  {{ $recentEvents := (.Site.GetPage "/events").Pages | first 25 }}
+  {{ $recentEvents := (.Site.GetPage "/events").Pages | first 24 }}
   {{ $batchSize := 4 }}
   {{ $chunks := dict }}
   {{ $current_key := 0 }}
