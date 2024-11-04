@@ -12,28 +12,6 @@
   {{ $chunks = merge $chunks (dict (string $current_key) $chunk) }}
 {{ end }}
 
-
-<style>
-  .carousel-control-prev {
-    width: 5%;
-    justify-content: left;
-  }
-
-  .carousel-control-next {
-    width: 5%;
-    justify-content: right;
-  }
-
-  .carousel-control-next-icon {
-    background-color: black;
-    opacity: 100%;
-  }
-
-  .carousel-control-prev-icon {
-    background-color: black;
-  }
-</style>
-
 {{ range $chunkIndex, $chunk := $chunks }}
   <div class="carousel-item {{ if eq $chunkIndex "0" }}active{{ end }}">
     <div

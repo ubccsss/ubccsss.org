@@ -24,6 +24,24 @@
     .display-none {
       display: none;
     }
+
+    .carousel-control-prev {
+      width: 5%;
+      justify-content: left;
+    }
+
+    .carousel-control-next {
+      width: 5%;
+      justify-content: right;
+    }
+
+    .carousel-control-next-icon {
+      filter: invert(100%);
+    }
+
+    .carousel-control-prev-icon {
+      filter: invert(100%);
+    }
   </style>
 
   <script>
@@ -116,7 +134,7 @@
           </button>
         </div>
       {{ else }}
-        <p class="text-center fs-5 p-4">
+        <p class="text-center p-4">
           No upcoming events at the moment. Check back later!
         </p>
         <p></p>
