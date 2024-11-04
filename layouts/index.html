@@ -24,24 +24,6 @@
     .display-none {
       display: none;
     }
-
-    .carousel-control-prev {
-      width: 5%;
-      justify-content: left;
-    }
-
-    .carousel-control-next {
-      width: 5%;
-      justify-content: right;
-    }
-
-    .carousel-control-next-icon {
-      filter: invert(100%);
-    }
-
-    .carousel-control-prev-icon {
-      filter: invert(100%);
-    }
   </style>
 
   <script>
@@ -111,28 +93,7 @@
       id="eventsCarouselUpcoming"
       class="{{ if eq $upcomingEventsLength 0 }}display-none{{ end }}">
       {{ if ne $upcomingEventsLength 0 }}
-        <div
-          id="carouselControlsUpcoming"
-          class="carousel slide"
-          data-bs-ride="carousel">
-          <div id="events-carousel-upcoming" class="carousel-inner">
-            {{ partial "display-events.html" (dict "events" $upcomingEvents) }}
-          </div>
-          <button
-            class="carousel-control-prev"
-            type="button"
-            data-bs-target="#carouselControlsUpcoming"
-            data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          </button>
-          <button
-            class="carousel-control-next"
-            type="button"
-            data-bs-target="#carouselControlsUpcoming"
-            data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          </button>
-        </div>
+        {{ partial "event-carousel.html" (dict "controlsId" "carouselControlsUpcoming" "events" $upcomingEvents) }}
       {{ else }}
         <p class="text-center p-4">
           No upcoming events at the moment. Check back later!
@@ -144,28 +105,7 @@
     <div
       id="eventsCarouselPast"
       class="{{ if ne $upcomingEventsLength 0 }}display-none{{ end }}">
-      <div
-        id="carouselControlsPast"
-        class="carousel slide"
-        data-bs-ride="carousel">
-        <div id="events-carousel-past" class="carousel-inner">
-          {{ partial "display-events.html" (dict "events" $pastEvents) }}
-        </div>
-        <button
-          class="carousel-control-prev"
-          type="button"
-          data-bs-target="#carouselControlsPast"
-          data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        </button>
-        <button
-          class="carousel-control-next"
-          type="button"
-          data-bs-target="#carouselControlsPast"
-          data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        </button>
-      </div>
+      {{ partial "event-carousel.html" (dict "controlsId" "carouselControlsPast" "events" $pastEvents) }}
     </div>
 
     <div class="row justify-content-center pt-lg-2 pb-lg-4">
