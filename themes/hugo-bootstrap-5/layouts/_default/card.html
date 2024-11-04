@@ -5,9 +5,9 @@
 {{ $secondsInDay := 86400 }}
 {{ $dayDiff := div (sub $startDate.Unix now.Unix) $secondsInDay }}
 
-{{ $withinDays := 7 }}
+{{ $days := 7 }}
 {{ $isSoon := false }}
-{{ if and (ge $dayDiff 0) (lt $dayDiff $withinDays) }}
+{{ if and (ge $dayDiff 0) (le $dayDiff $days) }}
   {{ $isSoon = true }}
 {{ end }}
 
