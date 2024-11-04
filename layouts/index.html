@@ -30,18 +30,18 @@
     /**
      * Dynamically shows and hides event carousels.
      */
-    function showEvents(eventType, element) {
-      pastEventsCarousel = document.getElementById("eventsCarouselPast");
-      upcomingEventsCarousel = document.getElementById(
-        "eventsCarouselUpcoming"
-      );
-
+    function showEvents(eventType, clickedElement) {
       document.getElementById("events-nav-bar-past").classList.remove("active");
       document
         .getElementById("events-nav-bar-upcoming")
         .classList.remove("active");
 
-      element.classList.add("active");
+      clickedElement.classList.add("active");
+
+      const pastEventsCarousel = document.getElementById("eventsCarouselPast");
+      const upcomingEventsCarousel = document.getElementById(
+        "eventsCarouselUpcoming"
+      );
 
       if (eventType === "upcoming") {
         upcomingEventsCarousel.style.display = "block";
