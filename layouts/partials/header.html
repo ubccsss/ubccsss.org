@@ -91,8 +91,17 @@
     localStorage.setItem("darkmode", !wasDarkmode);
     if (DarkReader.isEnabled()) {
       DarkReader.disable();
+      updateSocialIconColors(false);
     } else {
       DarkReader.enable();
+      updateSocialIconColors(true);
     }
+  }
+
+  function updateSocialIconColors(isDarkMode) {
+    const socialIcons = document.querySelectorAll(".icon-image");
+    socialIcons.forEach((icon) => {
+      icon.style.filter = isDarkMode ? "invert(100%)" : "invert(0%)";
+    });
   }
 </script>
