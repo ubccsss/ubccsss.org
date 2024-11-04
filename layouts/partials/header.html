@@ -84,6 +84,10 @@
   if (localStorage.getItem("darkmode") === "true") {
     DarkReader.enable();
     document.getElementById("darkMode").checked = true;
+    // Delay added to ensure DarkReader completes styling before icon color update
+    setTimeout(() => updateSocialIconColors(true), 100);
+  } else {
+    updateSocialIconColors(false);
   }
 
   function darkMode() {
