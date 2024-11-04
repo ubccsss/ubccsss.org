@@ -3,7 +3,7 @@ title: UBC Computer Science Student Society
 ---
 
 <div class="text-center">
-    <img src="./logo.svg" width = "200" height = "200" alt="UBC Computer Science Student Society Logo" class="img-fluid" />
+    <img src="./logo.svg" width="200" height="200" alt="UBC Computer Science Student Society Logo" class="img-fluid mb-3" />
 </div>
 
 Welcome to the Computer Science Student Society, the student club for
