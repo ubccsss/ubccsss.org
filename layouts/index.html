@@ -1,8 +1,18 @@
 {{ define "body" }}
   {{ $displayEventType := "upcoming" }}
   {{ $recentEvents := (.Site.GetPage "/events").Pages | first 24 }}
-  {{ $upcomingEvents := where $recentEvents "Params.date" "ge" now }}
-  {{ $pastEvents := where $recentEvents "Params.date" "lt" now }}
+  {{ $upcomingEvents := slice }}
+  {{ $pastEvents := slice }}
+
+  {{ range $i, $event := $recentEvents }}
+    {{ $startDate := time $event.Params.start_date }}
+    {{ if ge $startDate now }}
+      {{ $upcomingEvents = $upcomingEvents | append $event }}
+    {{ else }}
+      {{ $pastEvents = $pastEvents | append $event }}
+    {{ end }}
+  {{ end }}
+
   {{ $upcomingEventsLength := len $upcomingEvents }}
 
 
