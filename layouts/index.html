@@ -9,8 +9,10 @@
 
   {{ range $i, $event := $recentEvents }}
     {{ $startDate := time $event.Params.start_date }}
+    {{ $endDate := time $event.Params.end_date }}
     {{ $truncatedStartDate := $startDate.Format "2006-01-02" | time }}
-    {{ if ge $truncatedStartDate $truncatedNow }}
+    {{ $truncatedEndDate := $endDate.Format "2006-01-02" | time }}
+    {{ if or (ge $truncatedStartDate $truncatedNow) (ge $truncatedEndDate $truncatedNow) }}
       {{ $upcomingEvents = $upcomingEvents | append $event }}
     {{ else }}
       {{ $pastEvents = $pastEvents | append $event }}

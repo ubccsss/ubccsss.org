@@ -12,9 +12,9 @@ author: Sean Tang
 images:
   - /files/2024-10-18-hacktober1.png
 # Start date and time. Used for calendar page.
-start_date: 2024-10-24 17:30:00
+start_date: 2024-11-03 17:30:00
 # End date and time (defaults to one hour after start). Used for calendar page.
-end_date: 2024-10-24 19:30:00
+end_date: 2024-11-05 19:30:00
 ---
 
 ![Preview image for Hacktoberfest Git Workshop event](/files/2024-10-18-hacktober1.png)
