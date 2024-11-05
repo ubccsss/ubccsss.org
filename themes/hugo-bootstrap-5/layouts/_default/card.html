@@ -1,6 +1,6 @@
 {{ $startDateStr := .Params.start_date | default .Date }}
 
-{{ /* Highlight card script */ }}
+<!-- Highlight card script -->
 {{ $startDate := time $startDateStr }}
 {{ $formattedDate := $startDate.Format "2006-01-02" | time }}
 {{ $formattedNow := now.Format "2006-01-02" | time }}

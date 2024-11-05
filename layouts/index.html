@@ -1,6 +1,6 @@
 {{ define "body" }}
 
-  {{ /* Fetch and split events into upcoming and past */ }}
+  <!-- Fetch and split events into upcoming and past -->
   {{ $displayEventType := "upcoming" }}
   {{ $recentEvents := (.Site.GetPage "/events").Pages | first 28 }}
   {{ $upcomingEvents := slice }}
