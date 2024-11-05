@@ -1,9 +1,10 @@
 {{ $startDateStr := .Params.start_date | default .Date }}
 {{ $startDate := time $startDateStr }}
-{{ $formattedDate := $startDate.Format "2006-01-02" }}
+{{ $formattedDate := $startDate.Format "2006-01-02" | time }}
+{{ $formattedNow := now.Format "2006-01-02" | time }}
 
 {{ $secondsInDay := 86400 }}
-{{ $dayDiff := div (sub $startDate.Unix now.Unix) $secondsInDay }}
+{{ $dayDiff := div (sub $formattedDate.Unix $formattedNow.Unix) $secondsInDay }}
 
 {{ $days := 7 }}
 {{ $isSoon := false }}

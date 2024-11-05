@@ -3,10 +3,12 @@
   {{ $recentEvents := (.Site.GetPage "/events").Pages | first 28 }}
   {{ $upcomingEvents := slice }}
   {{ $pastEvents := slice }}
+  {{ $truncatedNow := now.Format "2006-01-02" | time }}
 
   {{ range $i, $event := $recentEvents }}
     {{ $startDate := time $event.Params.start_date }}
-    {{ if ge $startDate now }}
+    {{ $truncatedStartDate := $startDate.Format "2006-01-02" | time }}
+    {{ if ge $truncatedStartDate $truncatedNow }}
       {{ $upcomingEvents = $upcomingEvents | append $event }}
     {{ else }}
       {{ $pastEvents = $pastEvents | append $event }}
