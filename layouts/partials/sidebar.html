@@ -10,10 +10,11 @@
 
   <section>
     <h4>{{ i18n "elsewhere" }}</h4>
-    <ul>
+    <ul style="list-style: none; padding: 0; margin: 0;">
       {{ range $.Site.Data.social }}
-        <li style="list-style:url('{{ .icon }}')">
+        <li>
           <a href="{{ .link }}">
+            <img src="{{ .icon }}" alt="{{ .title }} Icon" class="icon-image" />
             {{ if or (eq .title "Discord") (eq .title "Instagram") }}
               <b>{{ .title }}</b>
             {{ else }}
