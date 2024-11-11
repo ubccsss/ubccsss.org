@@ -1,6 +1,65 @@
 {{ define "body" }}
+
+  <!-- Fetch and split events into upcoming and past -->
+  {{ $displayEventType := "upcoming" }}
+  {{ $recentEvents := (.Site.GetPage "/events").Pages | first 28 }}
+  {{ $upcomingEvents := slice }}
+  {{ $pastEvents := slice }}
+  {{ $truncatedNow := now.Format "2006-01-02" | time }}
+
+  {{ range $i, $event := $recentEvents }}
+    {{ $startDate := time $event.Params.start_date }}
+    {{ $endDate := time $event.Params.end_date }}
+    {{ $truncatedStartDate := $startDate.Format "2006-01-02" | time }}
+    {{ $truncatedEndDate := $endDate.Format "2006-01-02" | time }}
+    {{ if or (ge $truncatedStartDate $truncatedNow) (ge $truncatedEndDate $truncatedNow) }}
+      {{ $upcomingEvents = $upcomingEvents | append $event }}
+    {{ else }}
+      {{ $pastEvents = $pastEvents | append $event }}
+    {{ end }}
+  {{ end }}
+
+  {{ $upcomingEventsLength := len $upcomingEvents }}
+
+
+  <style>
+    .nav-tabs .nav-link.active {
+      background-color: #fcfcfc;
+    }
+
+    .display-none {
+      display: none;
+    }
+  </style>
+
+  <script>
+    /**
+     * Dynamically shows and hides event carousels.
+     */
+    function showEvents(eventType, clickedElement) {
+      document.getElementById("events-nav-bar-past").classList.remove("active");
+      document
+        .getElementById("events-nav-bar-upcoming")
+        .classList.remove("active");
+
+      clickedElement.classList.add("active");
+
+      const pastEventsCarousel = document.getElementById("eventsCarouselPast");
+      const upcomingEventsCarousel = document.getElementById(
+        "eventsCarouselUpcoming"
+      );
+
+      if (eventType === "upcoming") {
+        upcomingEventsCarousel.style.display = "block";
+        pastEventsCarousel.style.display = "none";
+      } else {
+        upcomingEventsCarousel.style.display = "none";
+        pastEventsCarousel.style.display = "block";
+      }
+    }
+  </script>
+
   <div class="container-fluid">
-    {{ $recentEvents := (.Site.GetPage "/events").Pages | first 4 }}
     <div class="row justify-content-center pt-3 mb-lg-5 mb-3 text-center">
       <div class="w-75 col-lg-10 title">
         <h1 class="mb-lg-4">{{ .Title }}</h1>
@@ -10,13 +69,51 @@
     <hr class="w-75 mx-auto" />
     <div class="row justify-content-center mt-3 py-lg-4">
       <div class="col-lg-8 text-center large-text">
-        <h1>Recent Events</h1>
+        <h1>Our Events</h1>
       </div>
     </div>
-    <div
-      class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 px-5 pt-lg-3 pt-3 g-4">
-      {{ range $recentEvents }}{{ .Render "card" }}{{ end }}
+
+    <div style="margin-left: 3rem; margin-right: 3rem;">
+      <ul class="nav nav-tabs">
+        <li class="nav-item">
+          <a
+            id="events-nav-bar-upcoming"
+            class="nav-link {{ if ne $upcomingEventsLength 0 }}active{{ end }}"
+            aria-current="page"
+            onclick="showEvents('upcoming', this)"
+            >Upcoming Events</a
+          >
+        </li>
+        <li class="nav-item">
+          <a
+            id="events-nav-bar-past"
+            class="nav-link {{ if eq $upcomingEventsLength 0 }}active{{ end }}"
+            onclick="showEvents('past', this)"
+            >Past Events</a
+          >
+        </li>
+      </ul>
     </div>
+
+    <div
+      id="eventsCarouselUpcoming"
+      class="{{ if eq $upcomingEventsLength 0 }}display-none{{ end }}">
+      {{ if ne $upcomingEventsLength 0 }}
+        {{ partial "event-carousel.html" (dict "controlsId" "carouselControlsUpcoming" "events" $upcomingEvents) }}
+      {{ else }}
+        <p class="text-center p-4">
+          No upcoming events at the moment. Check back later!
+        </p>
+        <p></p>
+      {{ end }}
+    </div>
+
+    <div
+      id="eventsCarouselPast"
+      class="{{ if ne $upcomingEventsLength 0 }}display-none{{ end }}">
+      {{ partial "event-carousel.html" (dict "controlsId" "carouselControlsPast" "events" $pastEvents) }}
+    </div>
+
     <div class="row justify-content-center pt-lg-2 pb-lg-4">
       <div class="col-lg-8 text-center">
         Have a suggested event or initiative in mind? Send it our way

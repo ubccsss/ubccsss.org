@@ -1,6 +1,25 @@
-{{ $startDate := .Params.start_date | default .Date }}
+{{ $startDateStr := .Params.start_date | default .Date }}
+
+<!-- Highlight card script -->
+{{ $startDate := time $startDateStr }}
+{{ $formattedDate := $startDate.Format "2006-01-02" | time }}
+{{ $formattedNow := now.Format "2006-01-02" | time }}
+
+{{ $secondsInDay := 86400 }}
+{{ $dayDiff := div (sub $formattedDate.Unix $formattedNow.Unix) $secondsInDay }}
+
+{{ $days := 7 }}
+{{ $isSoon := false }}
+{{ if and (ge $dayDiff 0) (le $dayDiff $days) }}
+  {{ $isSoon = true }}
+{{ end }}
+
+
 <div class="col">
-  <div class="card mb-4 shadow-sm h-md-250">
+  <div
+    class="card mb-4 shadow-sm h-md-250 {{ if $isSoon }}
+      border border-primary
+    {{ end }}">
     {{ if isset .Params "images" }}
       {{ if gt (len .Params.images) 0 }}
         <img class="card-img-top" src="{{ (index .Params.images 0) }}" />
@@ -12,7 +31,7 @@
       </h5>
       {{ if not (eq .Params.layout "courses") }}
         <p class="card-text mb-1 text-muted">
-          {{ dateFormat "Mon Jan 2, 2006" $startDate }}
+          {{ dateFormat "Mon Jan 2, 2006" $startDateStr }}
         </p>
       {{ end }}
       {{ with .Params.location }}
