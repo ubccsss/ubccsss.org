@@ -104,8 +104,14 @@
 
   function updateSocialIconColors(isDarkMode) {
     const socialIcons = document.querySelectorAll(".icon-image");
+    const carouselControlNextIcons = document.querySelectorAll(".carousel-control-next-icon");
+    const carouselControlPrevIcons = document.querySelectorAll(".carousel-control-prev-icon");
+    const carouselIcons = [...carouselControlNextIcons, ...carouselControlPrevIcons];
     socialIcons.forEach((icon) => {
       icon.style.filter = isDarkMode ? "invert(100%)" : "invert(0%)";
+    });
+    carouselIcons.forEach((icon) => {
+      icon.style.filter = isDarkMode ? "invert(0%)" : "invert(100%)";
     });
   }
 </script>
