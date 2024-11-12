@@ -85,9 +85,9 @@
     DarkReader.enable();
     document.getElementById("darkMode").checked = true;
     // Delay added to ensure DarkReader completes styling before icon color update
-    setTimeout(() => updateSocialIconColors(true), 100);
+    setTimeout(() => updateIconColors(true), 100);
   } else {
-    updateSocialIconColors(false);
+    updateIconColors(false);
   }
 
   function darkMode() {
@@ -95,14 +95,14 @@
     localStorage.setItem("darkmode", !wasDarkmode);
     if (DarkReader.isEnabled()) {
       DarkReader.disable();
-      updateSocialIconColors(false);
+      updateIconColors(false);
     } else {
       DarkReader.enable();
-      updateSocialIconColors(true);
+      updateIconColors(true);
     }
   }
 
-  function updateSocialIconColors(isDarkMode) {
+  function updateIconColors(isDarkMode) {
     const socialIcons = document.querySelectorAll(".icon-image");
     const carouselControlNextIcons = document.querySelectorAll(".carousel-control-next-icon");
     const carouselControlPrevIcons = document.querySelectorAll(".carousel-control-prev-icon");
