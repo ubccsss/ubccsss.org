@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2025
+layout: tcf-company
 title: Orbis
 link: http://www.orbis.com
 short_bio: >

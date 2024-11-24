@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2025
+layout: tcf-company
 title: Centre for Digital Media
 link: https://thecdm.ca/program/mdm
 short_bio: >

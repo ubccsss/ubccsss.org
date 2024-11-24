@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2025
+layout: tcf-company
 title: Reliable Controls
 link: http://www.reliablecontrols.com
 short_bio: >
