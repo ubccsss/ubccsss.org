@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2025
+layout: tcf-company
 title: HP Canada
 link: https://www.hp.com/ca-en/services/workforce-solutions/workforce-computing/digital-workspaces.html
 short_bio: >

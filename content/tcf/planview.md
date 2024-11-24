@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2025
+layout: tcf-company
 title: Planview
 link: https://www.planview.com
 short_bio: >
