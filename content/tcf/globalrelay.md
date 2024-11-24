@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2025
+layout: tcf-company
 title: Global Relay Communications Inc.
 link: http://globalrelay.com
 short_bio: >
