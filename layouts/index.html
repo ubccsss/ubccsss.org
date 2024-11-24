@@ -1,5 +1,4 @@
 {{ define "body" }}
-
   <!-- Fetch and split events into upcoming and past -->
   {{ $displayEventType := "upcoming" }}
   {{ $recentEvents := (.Site.GetPage "/events").Pages | first 28 }}
@@ -23,10 +22,6 @@
 
 
   <style>
-    .nav-tabs .nav-link.active {
-      background-color: #fcfcfc;
-    }
-
     .display-none {
       display: none;
     }
