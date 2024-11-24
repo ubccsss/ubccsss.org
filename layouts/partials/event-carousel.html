@@ -1,3 +1,39 @@
+<script>
+  /**
+   * Show and hide prev/next carousel buttons for the first and last slide.
+   */
+  document.addEventListener("DOMContentLoaded", function () {
+    const carousel = document.getElementById("{{ .controlsId }}");
+    const prevButton = carousel.querySelector(".carousel-control-prev");
+    const nextButton = carousel.querySelector(".carousel-control-next");
+    const slides = carousel.querySelectorAll(".carousel-item");
+
+    function updateControls() {
+      const activeSlide = carousel.querySelector(".carousel-item.active");
+      const activeIndex = Array.from(slides).indexOf(activeSlide);
+
+      // Hide prev button on first slide
+      if (activeIndex === 0) {
+        prevButton.style.display = "none";
+      } else {
+        prevButton.style.display = "flex";
+      }
+
+      // Hide next button on last slide
+      if (activeIndex === slides.length - 1) {
+        nextButton.style.display = "none";
+      } else {
+        nextButton.style.display = "flex";
+      }
+    }
+
+    updateControls();
+
+    // Listen for Boostrap carousel next/prev events
+    carousel.addEventListener("slid.bs.carousel", updateControls);
+  });
+</script>
+
 <style>
   .carousel-control-prev {
     width: 5%;
@@ -9,22 +45,27 @@
     justify-content: right;
   }
 
-  .carousel-control-prev-icon, .carousel-control-next-icon {
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
     filter: invert(100%);
   }
 </style>
 
 <div id="{{ .controlsId }}" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
-    {{ partial "display-events.html" (dict "events" .events) }}
+    {{ $scratch := newScratch }}
+    {{ $scratch.Set "isFirstSlide" true }}
+    {{ partial "display-events.html" (dict "events" .events "scratch" $scratch) }}
   </div>
-  <button
-    class="carousel-control-prev"
-    type="button"
-    data-bs-target="#{{ .controlsId }}"
-    data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-  </button>
+  {{ if not ($scratch.Get "isFirstSlide") }}
+    <button
+      class="carousel-control-prev"
+      type="button"
+      data-bs-target="#{{ .controlsId }}"
+      data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    </button>
+  {{ end }}
   <button
     class="carousel-control-next"
     type="button"
