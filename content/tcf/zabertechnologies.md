@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2025
+layout: tcf-company
 title: Zaber Technologies
 link: http://www.zaber.com
 short_bio: >

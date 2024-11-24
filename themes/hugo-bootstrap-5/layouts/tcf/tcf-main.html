@@ -109,7 +109,7 @@
     <div class="background-blue">
       <div class="container" id="companies">
         <h1 class="text-center mb-0">
-          {{ len (where .Pages ".Params.layout" "tcf-company-2025") }}
+          {{ len (where .Pages ".Params.layout" "tcf-company") }}
           Companies Attending
         </h1>
         <p class="text-center mt-3">
@@ -122,7 +122,7 @@
           >
         </p>
         <div class="row pt-4">
-          {{ range first 12 (sort (where .Pages ".Params.layout" "tcf-company-2025")) }}
+          {{ range first 12 (sort (where .Pages ".Params.layout" "tcf-company")) }}
             {{ if .Params.imageLink }}
               <div class="col-lg-3 col-sm-12 col-md-6 mt-3">
                 <div class="card w-100 mt-3 h-100">

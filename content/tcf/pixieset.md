@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2025
+layout: tcf-company
 title: Pixieset
 link: http://pixieset.com
 short_bio: >
