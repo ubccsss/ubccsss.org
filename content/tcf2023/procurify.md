@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2023
 title: Procurify
 link: https://www.procurify.com/careers
 short_bio: >

@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2023
 title: Canada Revenue Agency
 link: https://www.canada.ca/en/revenue-agency/corporate/careers-cra.html
 short_bio: >
