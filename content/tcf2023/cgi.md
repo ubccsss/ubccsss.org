@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2023
 title: CGI
 link: https://www.cgi.com/en/careers
 short_bio: >

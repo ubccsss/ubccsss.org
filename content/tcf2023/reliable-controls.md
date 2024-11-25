@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2023
 title: Reliable Controls
 link: https://www.reliablecontrols.com/careers/
 short_bio: >

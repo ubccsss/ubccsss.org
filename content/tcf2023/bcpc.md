@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2023
 title: BC Pension Corporation
 link: https://www.bcpensioncorp.ca/careers
 short_bio: >

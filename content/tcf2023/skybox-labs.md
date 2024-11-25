@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2023
 title: Skybox Labs
 link: https://skyboxlabs.com/jobs/
 short_bio: >
