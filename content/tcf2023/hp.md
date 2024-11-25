@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2023
 title: HP Inc.
 link: https://jobs.hp.com/
 short_bio: >

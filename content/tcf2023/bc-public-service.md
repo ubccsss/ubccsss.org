@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2023
 title: BC Public Service
 link: https://www2.gov.bc.ca/gov/content/careers-myhr/job-seekers
 short_bio: >
