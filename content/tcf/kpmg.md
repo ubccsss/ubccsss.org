@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2025
 title: KPMG
 link: https://kpmg.com/ca/en/home.html
 short_bio: >

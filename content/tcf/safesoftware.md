@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2025
 title: Safe Software Inc.
 link: http://www.safe.com
 short_bio: >
