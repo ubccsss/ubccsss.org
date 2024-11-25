@@ -15,5 +15,5 @@ majors: Computer Science, Business & Computer Science, Data Science
 workAuth: Canadian Citizen/Permanent Resident, International Student, US Citizen, All
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program
 positionTypes: Internships, Co-op Student (4 months), Recent Graduate, Full-time
-boothNumber: 1
+boothNumber:
 ---

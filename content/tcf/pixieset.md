@@ -15,5 +15,5 @@ majors: Computer Science, Business & Computer Science, Computer Engineering
 workAuth: Canadian Citizen/Permanent Resident, International Student
 degreeLevels: Current Students in an Undergraduate Program, Graduated with an Undergraduate Degree
 positionTypes: Full-time
-boothNumber: 1
+boothNumber:
 ---
