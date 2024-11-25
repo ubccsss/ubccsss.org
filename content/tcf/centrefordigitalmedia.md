@@ -13,5 +13,5 @@ majors: Computer Science, Statistics, Business & Computer Science, Mathematics, 
 workAuth: Canadian Citizen/Permanent Resident, International Student, US Citizen, All
 degreeLevels: Current Students in an Undergraduate Program, Graduated with an Undergraduate Degree
 positionTypes: Recent Graduate
-boothNumber: 1
+boothNumber:
 ---
