@@ -8,7 +8,7 @@ imageLink: /files/tcf2025/novarc.png
 industry:
   - Manufacturing, Science, Research & Development
 majors: Computer Science, Business & Computer Science, Physics, Data Science, Computer Engineering, Electrical Engineering, Engineering Physics, Mechanical Engineering, Other Engineering
-workAuth: Canadian Citizen/Permanent Resident, International Student
+workAuth: All
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Current Students in a Phd Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Co-op Student (8+ months), Recent Graduate, Part-time, Full-time
 boothNumber: 
