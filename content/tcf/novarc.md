@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2025
 title: Novarc Technologies Inc.
 link: https://www.novarctech.com/
 short_bio: >

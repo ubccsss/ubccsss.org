@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2025
 title: Kabam Games Inc.
 link: https://kabam.com/
 short_bio: >

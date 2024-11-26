@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2025
 title: Amazon
 link: https://amazon.jobs
 short_bio: >

@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2025
 title: Cambio Earth
 link: http://www.cambioearth.com/
 short_bio: >

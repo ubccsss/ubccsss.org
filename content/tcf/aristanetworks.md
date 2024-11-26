@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2025
 title: Arista Networks
 link: http://www.arista.com/
 short_bio: >

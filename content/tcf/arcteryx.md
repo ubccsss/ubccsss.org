@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2025
 title: Arc'teryx Equipment
 link: https://arcteryx.com/ca/en/careers
 short_bio: >

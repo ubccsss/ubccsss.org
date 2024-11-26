@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2025
 title: HCLTech
 link: http://www.hcltech.com
 short_bio: >
