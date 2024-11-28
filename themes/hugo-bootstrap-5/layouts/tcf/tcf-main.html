@@ -109,62 +109,65 @@
     <div class="background-blue">
       <div class="container" id="companies">
         <h1 class="text-center mb-0">
-          <!-- {{ len (where .Pages ".Params.layout" "tcf-company-2025") }} -->
+          {{ len (where .Pages ".Params.layout" "tcf-company-2025") }}
           Companies Attending
         </h1>
-        <h5 class="text-center mt-3">
-          To be announced — check back later to see companies in attendance!
-        </h5>
         <p class="text-center mt-3">
-          Are you a company looking to attend the career fair? <a href="https://ubccsss.org/files/tcf2025/UBC-CSSS-2025-TCF-Package.pdf" target="_blank" rel="noopener noreferrer">See our event package here</a>
-      </p>
-        <!-- <div class="row pt-4">
+          Are you a company looking to attend the career fair?
+          <a
+            href="https://ubccsss.org/files/tcf2025/UBC-CSSS-2025-TCF-Package.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            >See our event package here</a
+          >
+        </p>
+        <div class="row pt-4">
           {{ range first 12 (sort (where .Pages ".Params.layout" "tcf-company-2025")) }}
-          {{ if .Params.imageLink }}
-            <div class="col-lg-3 col-sm-12 col-md-6 mt-3">
-              <div class="card w-100 mt-3 h-100">
-                <a
-                  href="{{ .RelPermalink }}"
-                  class="position-absolute w-100 h-100"></a>
-                <div
-                  class="d-flex flex-column justify-content-center"
-                  style="height: 200px">
-                  <img
-                    class="card-img-top img-fluid p-2 mh-100"
-                    src="{{ .Params.imageLink }}"
-                    alt="{{ .Params.title }} company logo"
-                    style="object-fit: contain" />
-                </div>
-                <div class="card-body">
-                  <h5 class="card-title text-truncate">
-                    <a class="card-link" href="{{ .RelPermalink }}"
-                      >{{ .Params.title }}
-                    </a>
-                  </h5>
-                  <h5 class="card-title text-truncate">
-                    Booth#
-                    {{ .Params.boothNumber }}
-                  </h5>
-                  {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" }}
-                  {{ range .Params.industry }}
-                    <span class="badge bg-{{ index $badge_colors . }}"
-                      >{{ . }}</span
-                    >
-                  {{ end }}
+            {{ if .Params.imageLink }}
+              <div class="col-lg-3 col-sm-12 col-md-6 mt-3">
+                <div class="card w-100 mt-3 h-100">
+                  <a
+                    href="{{ .RelPermalink }}"
+                    class="position-absolute w-100 h-100"></a>
+                  <div
+                    class="d-flex flex-column justify-content-center"
+                    style="height: 200px">
+                    <img
+                      class="card-img-top img-fluid p-2 mh-100"
+                      src="{{ .Params.imageLink }}"
+                      alt="{{ .Params.title }} company logo"
+                      style="object-fit: contain" />
+                  </div>
+                  <div class="card-body">
+                    <h5 class="card-title text-truncate">
+                      <a class="card-link" href="{{ .RelPermalink }}"
+                        >{{ .Params.title }}
+                      </a>
+                    </h5>
+                    <!--<h5 class="card-title text-truncate">
+                      Booth#
+                      {{ .Params.boothNumber }}
+                    </h5>-->
+                    {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" }}
+                    {{ range .Params.industry }}
+                      <span class="badge bg-{{ index $badge_colors . }}"
+                        >{{ . }}</span
+                      >
+                    {{ end }}
+                  </div>
                 </div>
               </div>
-            </div>
+            {{ end }}
           {{ end }}
-        {{ end }}
-        </div> -->
-        <!-- <div class="d-flex flex-row justify-content-center pt-4">
+        </div>
+        <div class="d-flex flex-row justify-content-center pt-4">
           <a href="/tcf/companies" class="mt-5 btn btn-outline-light"
             ><i class="bi-people"></i> See more companies</a
           >
         </div>
         <p class="text-center mt-3">
           More companies may be added soon - check back later for more!
-        </p> -->
+        </p>
       </div>
     </div>
     <div class="container" id="event-info">
@@ -198,11 +201,6 @@
       <div class="container">
         <h1 class="text-center">Partners</h1>
         <div class="row justify-content-center">
-          <!-- <h5 class="text-center mt-3">
-            To be announced — check back later to see TCF partners!
-          </h5> -->
-
-
           <div class="col-lg-3 col-md-6 mb-3">
             <div class="card w-100 h-100" title="UBC WiCS">
               <img
@@ -266,9 +264,9 @@
                 <h5 class="card-title text-center">
                   <a class="card-link" href="https://nwplus.io/">NWPlus</a>
                 </h5>
-              </div> -->
+              </div>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>

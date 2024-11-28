@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2023
 title: DYNE Technologies
 link: https://www.dyneapp.ca/career
 short_bio: >
