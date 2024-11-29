@@ -7,7 +7,12 @@ short_bio: >
   We have been delivering industry-leading earth science software and analytics services for over 20 years as part of the BGC Engineering group of companies.
 imageLink: /files/tcf2025/cambio-earth.jpg
 industry:
-  - Consulting, Information Technology, Mining, Oil and Gas, Renewal Engery and Waste Management, Science, Research & Development, Transportation and Distribution
+  - Consulting
+  - Information Technology
+  - Mining, Oil and Gas
+  - Science, Research & Development
+  - Transportation and Distribution
+  - Renewal Engery and Waste Management
 majors: Computer Science, Computer Engineering
 workAuth: Canadian Citizen/Permanent Resident, International Student, US Citizen, All
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
