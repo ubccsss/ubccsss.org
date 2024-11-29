@@ -4,7 +4,7 @@ title: DemonWare
 link: http://www.demonware.net
 short_bio: >
   We create, provide, and host the online services and tools behind some of the world's biggest game titles. The real challenges that we take on every day affect almost half a billion players.
-imageLink: /files/tcf/demonware.jpg
+imageLink: /files/tcf2025/demonware.jpg
 industry:
   - Art, Design, Digital Media and Entertainment, Information Technology
 majors: Computer Science, Computer Engineering

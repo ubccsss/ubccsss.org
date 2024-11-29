@@ -5,7 +5,7 @@ link: http://www.cambioearth.com/
 short_bio: >
   Cambio Earth is the world leader in software for geohazard management and risk-informed decision-making, combining deep earth science expertise with advanced data integration, machine learning, analytics, and visualization.
   We have been delivering industry-leading earth science software and analytics services for over 20 years as part of the BGC Engineering group of companies.
-imageLink: /files/tcf/cambio-earth.jpg
+imageLink: /files/tcf2025/cambio-earth.jpg
 industry:
   - Consulting, Information Technology, Mining, Oil and Gas, Renewal Engery and Waste Management, Science, Research & Development, Transportation and Distribution
 majors: Computer Science, Computer Engineering

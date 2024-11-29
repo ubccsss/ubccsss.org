@@ -4,7 +4,7 @@ title: Amazon
 link: https://amazon.jobs
 short_bio: >
   Our mission is to be Earth's most customer-centric company. This is what unites Amazonians across teams and geographies as we are all striving to delight our customers and make their lives easier, one innovative product, service, and idea at a time.
-imageLink: /files/tcf/amazon.png
+imageLink: /files/tcf2025/amazon.png
 industry:
   - Information Technology, Science, Research & Development
 majors: Computer Science, Business & Computer Science, Mathematics, Cognitive Science, Data Science, Computer Engineering, Electrical Engineering, Biomedical Engineering
