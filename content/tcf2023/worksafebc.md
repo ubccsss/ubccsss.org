@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2023
 title: WorkSafeBC
 link: https://www.worksafebc.com/en/about-us/careers
 short_bio: >

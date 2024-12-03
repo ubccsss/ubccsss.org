@@ -4,6 +4,7 @@
     {{ partial "head-meta" . }}
     <link rel="canonical" href="{{ .Permalink }}" />
     <title>UBC Technical Career Fair 2025</title>
+
     <!-- Bootstrap CSS -->
     <link
       rel="stylesheet"
@@ -58,9 +59,6 @@
     </div>
     <div class="container">
       <a href="/tcf">&lt; back to TCF page</a>
-      <h2 class="mt-3">
-        To be announced — check back later to see companies in attendance!
-      </h2>
       <div class="row pt-4">
         {{ range .Site.Pages }}
           {{ if (and (eq .Params.layout "tcf-company-2025") (.Params.imageLink)) }}
@@ -84,11 +82,11 @@
                       >{{ .Params.title }}
                     </a>
                   </h5>
-                  <h5 class="card-title text-truncate">
+                  <!--<h5 class="card-title text-truncate">
                     Booth#
                     {{ .Params.boothNumber }}
-                  </h5>
-                  {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" }}
+                  </h5>-->
+                  {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" "Transportation and Distribution" "black" "Renewal Engery and Waste Management" "dark" }}
                   {{ range .Params.industry }}
                     <span class="badge bg-{{ index $badge_colors . }}"
                       >{{ . }}</span

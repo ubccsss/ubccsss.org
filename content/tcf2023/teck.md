@@ -1,5 +1,5 @@
 ---
-layout: tcf-company
+layout: tcf-company-2023
 title: Teck
 link: https://jobs.teck.com/
 short_bio: >
