@@ -12,12 +12,20 @@
   {{ $chunks = merge $chunks (dict (string $current_key) $chunk) }}
 {{ end }}
 
-{{ range $chunkIndex, $chunk := $chunks }}
-  <div class="carousel-item {{ if eq $chunkIndex "0" }}active{{ end }}">
+{{ $scratch := .scratch }}
+
+{{ range $key := seq 0 $current_key }}
+  {{ if not (eq $key 0) }}
+    {{ $scratch.Set "isFirstSlide" false }}
+  {{ else }}
+    {{ $scratch.Set "isFirstSlide" true }}
+  {{ end }}
+  {{ $chunk := index $chunks (string $key) }}
+  <div class="carousel-item {{ if eq $key 0 }}active{{ end }}">
     <div
       class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 px-5 pt-lg-3 pt-3 g-4 justify-content-center">
       {{ range $event := $chunk }}
-        {{ .Render "card" }}
+        {{ $event.Render "card" }}
       {{ end }}
     </div>
   </div>
