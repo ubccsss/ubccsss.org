@@ -1,3 +1,39 @@
+<script>
+  /**
+   * Show and hide prev/next carousel buttons for the first and last slide.
+   */
+  document.addEventListener("DOMContentLoaded", function () {
+    const carousel = document.getElementById("{{ .controlsId }}");
+    const prevButton = carousel.querySelector(".carousel-control-prev");
+    const nextButton = carousel.querySelector(".carousel-control-next");
+    const slides = carousel.querySelectorAll(".carousel-item");
+
+    function updateControls() {
+      const activeSlide = carousel.querySelector(".carousel-item.active");
+      const activeIndex = Array.from(slides).indexOf(activeSlide);
+
+      // Hide prev button on first slide
+      if (activeIndex === 0) {
+        prevButton.style.display = "none";
+      } else {
+        prevButton.style.display = "flex";
+      }
+
+      // Hide next button on last slide
+      if (activeIndex === slides.length - 1) {
+        nextButton.style.display = "none";
+      } else {
+        nextButton.style.display = "flex";
+      }
+    }
+
+    updateControls();
+
+    // Listen for Boostrap carousel next/prev events
+    carousel.addEventListener("slid.bs.carousel", updateControls);
+  });
+</script>
+
 <style>
   .carousel-control-prev {
     width: 5%;
@@ -9,11 +45,8 @@
     justify-content: right;
   }
 
+  .carousel-control-prev-icon,
   .carousel-control-next-icon {
-    filter: invert(100%);
-  }
-
-  .carousel-control-prev-icon {
     filter: invert(100%);
   }
 </style>
