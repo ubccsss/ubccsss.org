@@ -53,11 +53,8 @@
 
 <div id="{{ .controlsId }}" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
-    {{ $scratch := newScratch }}
-    {{ $scratch.Set "isFirstSlide" true }}
-    {{ partial "display-events.html" (dict "events" .events "scratch" $scratch) }}
+    {{ partial "display-events.html" (dict "events" .events) }}
   </div>
-  {{ if not ($scratch.Get "isFirstSlide") }}
     <button
       class="carousel-control-prev"
       type="button"
@@ -65,7 +62,6 @@
       data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     </button>
-  {{ end }}
   <button
     class="carousel-control-next"
     type="button"
