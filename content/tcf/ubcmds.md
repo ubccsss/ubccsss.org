@@ -10,7 +10,7 @@ short_bio: >
     The program is offered at both the UBC Vancouver campus and the UBC Okanagan campus, with an additional Master of Data Science in Computational Linguistics offered at the Vancouver campus that focuses on equipping graduates with the skills to turn language-related data into knowledge and to build AI that can interpret human language.
 imageLink: /files/tcf2025/mds.png
 industry:
-  - Information Technology
+  - Education and Training
 majors: Students with ANY undergraduate degree, from the Sciences, to the Arts, and Business, who are inquisitive and have a passion for learning.
 workAuth: Canadian Citizen/Permanent Resident, International Student, US Citizen, All
 degreeLevels: Current Students in an Undergraduate Program, Graduated with an Undergraduate Degree
