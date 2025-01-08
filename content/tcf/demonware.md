@@ -12,5 +12,5 @@ majors: Computer Science, Computer Engineering
 workAuth: Canadian Citizen/Permanent Resident, International Student, US Citizen, All
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Current Students in a Phd Program, Graduated with an Undergraduate Degree
 positionTypes: Co-op Student (4 months), Co-op Student (8+ months)
-boothNumber:
+boothNumber: 12
 ---

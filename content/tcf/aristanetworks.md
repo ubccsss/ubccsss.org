@@ -13,5 +13,5 @@ majors: Computer Science, Business & Computer Science, Computer Engineering
 workAuth: All
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Current Students in a Phd Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Internships, Co-op Student (4 months), Recent Graduate, Full-time
-boothNumber:
+boothNumber: 25
 ---

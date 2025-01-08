@@ -11,5 +11,5 @@ majors: Computer Science, Computer Engineering, Engineering Physics, Mechanical 
 workAuth: Canadian Citizen/Permanent Resident
 degreeLevels: Current Students in an Undergraduate Program, Graduated with an Undergraduate Degree
 positionTypes: Co-op Student (8+ months), Recent Graduate, Full-time
-boothNumber:
+boothNumber: 21
 ---

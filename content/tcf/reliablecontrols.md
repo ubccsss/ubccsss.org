@@ -13,5 +13,5 @@ majors: Computer Science, Computer Engineering, Electrical Engineering, Mechanic
 workAuth: Canadian Citizen/Permanent Resident, International Student
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Graduated with an Undergraduate Degree
 positionTypes: Internships, Co-op Student (4 months), Recent Graduate, Full-time
-boothNumber:
+boothNumber: 27
 ---

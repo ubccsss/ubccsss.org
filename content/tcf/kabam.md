@@ -11,5 +11,5 @@ majors: Computer Science, Data Science
 workAuth: Canadian Citizen/Permanent Resident
 degreeLevels: Current Students in an Undergraduate Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Co-op Student (4 months), Recent Graduate, Full-time
-boothNumber:
+boothNumber: 20
 ---

@@ -11,5 +11,5 @@ majors: Computer Science, Data Science, Computer Engineering, Electrical Enginee
 workAuth: Canadian Citizen/Permanent Resident, US Citizen
 degreeLevels: Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Full-time
-boothNumber:
+boothNumber: 2
 ---

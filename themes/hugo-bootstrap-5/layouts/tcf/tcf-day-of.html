@@ -79,8 +79,8 @@
           <a class="dropdown-item" href="/tcf/day-of#venue-map">Venue Map</a>
         </li>
         <li>
-          <a class="dropdown-item" href="/tcf/day-of#booth-allocations"
-            >Booth Allocations</a
+          <a class="dropdown-item" href="/tcf/day-of#booth-assignments"
+            >Booth Assignments</a
           >
         </li>
         <li>
@@ -295,52 +295,55 @@
         </p>
         <div style="display:grid; text-align: center; align-content: center;">
           <h2 id="venue-map" style="text-align: center;">Venue Map</h2>
-          <p>To be added.</p>
+          <img
+            src="/files/tcf2025/floor-plan.png"
+            alt="A floor plan."
+            style="margin: 0 auto" />
         </div>
         <hr />
 
         <h2 id="booth-assignments" style="text-align: center;">
           Booth Assignments
         </h2>
-        <p style="text-align: center;">To be added.</p>
-        <!-- <p style="text-align: center;">
+        <p style="text-align: center;">
           Below are the booth assignments for the event.
         </p>
         <div class="grid-container">
           <div class="row pt-4">
-            {{ $.Scratch.Set "counter" 0 }}
             {{ range .Site.Pages }}
-          {{ if (and (eq .Params.layout "tcf-company") (.Params.imageLink)) }}
-            {{ $.Scratch.Add "counter" 1 }}
-            <div class="col-lg-2 col-sm-12 col-md-6 mt-3">
-              <div class="card w-100 mt-3 h-100">
-                <div
-                  class="d-flex flex-column justify-content-center"
-                  style="height: 180px; padding-top: 10px;">
-                  <img
-                    class="card-img-top img-fluid p-2 mh-100"
-                    src="{{ .Params.imageLink }}"
-                    alt="{{ .Params.title }} company logo"
-                    style="object-fit: contain" />
+              {{ if (and (eq .Params.layout "tcf-company-2025") (.Params.imageLink)) }}
+                <div class="col-lg-2 col-sm-12 col-md-6 mt-3">
+                  <div class="card w-100 mt-3 h-100">
+                    <div
+                      class="d-flex flex-column justify-content-center"
+                      style="height: 180px; padding-top: 10px;">
+                      <img
+                        class="card-img-top img-fluid p-2 mh-100"
+                        src="{{ .Params.imageLink }}"
+                        alt="{{ .Params.title }} company logo"
+                        style="object-fit: contain" />
+                    </div>
+                    <div class="card-body">
+                      <h5 class="card-title">
+                        <span class="card-link">
+                          {{ .Params.title }}
+                        </span>
+                      </h5>
+                      <p class="card-title text-truncate">
+                        <b>
+                          Booth
+                          #{{ .Params.boothNumber }}
+                        </b>
+                      </p>
+                    </div>
+                  </div>
                 </div>
-                <div class="card-body">
-                  <h5 class="card-title">
-                    <span class="card-link">
-                      {{ .Params.title }}
-                    </span>
-                  </h5>
-                  <h5 class="card-title text-truncate">
-                    Booth#
-                    {{ .Params.boothNumber }}
-                  </h5>
-                </div>
-              </div>
-            </div>
-          {{ end }}
-        {{ end }}
+              {{ end }}
+            {{ end }}
           </div>
-        </div> -->
+        </div>
       </div>
+      <br />
       <hr />
 
       <div id="internet-access">
