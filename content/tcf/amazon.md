@@ -12,5 +12,5 @@ majors: Computer Science, Business & Computer Science, Mathematics, Cognitive Sc
 workAuth: All
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Internships, Co-op Student (4 months), Co-op Student (8+ months), Recent Graduate, Part-time, Full-time
-boothNumber:
+boothNumber: 26
 ---

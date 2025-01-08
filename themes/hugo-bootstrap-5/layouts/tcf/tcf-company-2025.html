@@ -84,7 +84,9 @@
             class="mw-100 w-100 img-shadow img-outline p-3" />
         </div>
         <div class="col">
-          <!--<h2>Booth Number: {{ .Params.boothNumber }}</h2>-->
+          <p>
+            <b>Booth Number: {{ .Params.boothNumber }}</b>
+          </p>
           <p>{{ .Params.short_bio | markdownify }}</p>
           <p>Target majors: {{ .Params.majors }}</p>
           <p>Degree level required: {{ .Params.degreeLevels }}</p>

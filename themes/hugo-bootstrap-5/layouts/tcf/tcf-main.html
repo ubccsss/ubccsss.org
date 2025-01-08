@@ -151,10 +151,12 @@
                         >{{ .Params.title }}
                       </a>
                     </h5>
-                    <!--<h5 class="card-title text-truncate">
-                      Booth#
-                      {{ .Params.boothNumber }}
-                    </h5>-->
+                    <p class="card-title text-truncate">
+                      <b>
+                        Booth
+                        #{{ .Params.boothNumber }}
+                      </b>
+                    </p>
                     {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" "Transportation and Distribution" "black" "Renewal Engery and Waste Management" "dark" }}
                     {{ range .Params.industry }}
                       <span class="badge bg-{{ index $badge_colors . }}"
@@ -177,26 +179,31 @@
     <div class="container" id="event-info">
       <h1 class="text-center">Location + Event Map</h1>
       <div class="row">
+        <p>The TCF will take place:</p>
+        <ul style="list-style-position: inside;">
+          <li>January 22, 2025</li>
+          <li>10AM - 4PM PST</li>
+          <li>
+            at the Jack Poole Hall (2nd floor), Robert H. Lee Alumni Centre
+            (6163 University Blvd, Vancouver, BC V6T 1Z1)
+          </li>
+        </ul>
+      </div>
+      <div class="row">
         <div class="col-lg-6 col-sm-12">
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d325.4439147862088!2d-123.25003731904837!3d49.26594968503428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548672b6360dff9d%3A0x82fa3ec0bf22ed35!2sRobert%20H.%20Lee%20Alumni%20Centre!5e0!3m2!1sen!2sca!4v1726707276439!5m2!1sen!2sca"
-            style="border: 0; width: 100%;"
+            style="border: 0; width: 100%; height: 100%;"
             allowfullscreen=""
             loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"
             class="mt-1"></iframe>
         </div>
         <div class="col-lg-6 col-sm-12">
-          <p class="mt-1">The TCF will take place:</p>
-          <ul>
-            <li>January 22, 2025</li>
-            <li>10AM - 4PM PST</li>
-            <li>
-              at the Jack Poole Hall (2nd floor), Robert H. Lee Alumni Centre
-              (6163 University Blvd, Vancouver, BC V6T 1Z1)
-            </li>
-          </ul>
-          <p>Check back later for a dedicated event map!</p>
+          <img
+            src="/files/tcf2025/floor-plan.png"
+            alt="The TCF 2025 floor plan"
+            style="max-width: 100%; margin: 0 auto" />
         </div>
       </div>
     </div>

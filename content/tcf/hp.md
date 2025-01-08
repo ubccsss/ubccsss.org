@@ -11,5 +11,5 @@ majors: Computer Science
 workAuth: Canadian Citizen/Permanent Resident
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Graduated with an Undergraduate Degree
 positionTypes: Internships
-boothNumber:
+boothNumber: 29
 ---
