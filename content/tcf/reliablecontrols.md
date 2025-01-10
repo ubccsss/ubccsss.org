@@ -9,6 +9,7 @@ industry:
   - Manufacturing
   - Science
   - Research & Development
+  - Information Technology
 majors: Computer Science, Computer Engineering, Electrical Engineering, Mechanical Engineering
 workAuth: Canadian Citizen/Permanent Resident, International Student
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Graduated with an Undergraduate Degree
