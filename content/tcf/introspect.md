@@ -9,6 +9,7 @@ short_bio: >
 imageLink: /files/tcf2025/introspect.png
 industry:
   - Manufacturing
+  - Science, Research & Development
 majors: Computer Science, Computer Engineering, Electrical Engineering
 workAuth: Canadian Citizen/Permanent Resident
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Current Students in a Phd Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
