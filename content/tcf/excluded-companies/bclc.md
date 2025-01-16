@@ -1,5 +1,5 @@
 ---
-layout: tcf-company-2025
+layout: tcf-company-2025-excluded
 title: BCLC
 link: https://corporate.bclc.com/careers/overview.html
 short_bio: >
