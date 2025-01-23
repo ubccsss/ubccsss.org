@@ -1,4 +1,12 @@
 reviews:
+  - author: kevin
+    authorLink: 
+    date: 2025-01-23
+    review: |
+      course is goated. qwertyuiopasdfghjklzxcvbnmqweruiop
+    difficulty: 5
+    quality: 5
+    sessionTaken: 2024W1
   - author: Steven
     authorLink: 
     date: 2023-12-07
