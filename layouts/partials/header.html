@@ -32,7 +32,7 @@
                 <a
                   class="nav-link {{ if eq $url $menuUrl }}
                     active
-                  {{ end }} {{ if eq .Name "TCF" }}tcf-link{{ end }}"
+                  {{ end }}"
                   href="{{ $menuUrl }}"
                   >{{ .Name }}</a
                 >
@@ -66,7 +66,7 @@
             </li>
           </ul>
         {{ end }}
-        <div class="row mt-lg-0 mt-2">
+        <div class="row">
           <div class="col-10">{{ partial "search-box" }}</div>
           <!--Dark Mode Button-->
           <div class="col-1">
@@ -77,19 +77,6 @@
       </div>
     </div>
   </nav>
-  <style>
-    .tcf-link {
-      box-shadow: 1px 1px 4px var(--bs-link-color);
-      border-radius: 8px;
-      color: var(--bs-link-color) !important;
-      margin-right: 8px;
-      transition: 0.2s ease-in-out;
-      padding-left: 8px;
-    }
-    .tcf-link:hover {
-      background-color: #c5dcff;
-    }
-  </style>
 </header>
 <!--Add Dark Mode Support-->
 <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.73/darkreader.min.js"></script>
