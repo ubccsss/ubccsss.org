@@ -559,22 +559,33 @@
   availability: Available during the weekdays and weekend - contact to schedule
 
 - name: Saquib
-  lastmod: 2024-08-18
+  lastmod: 2025-01-27
   courses:
     [
+      CPSC100,
+      CPSC103,
+      CPSC110,
       CPSC210,
+      CPSC213,
       CPSC221,
       CPSC259,
       CPSC304,
       CPSC310,
       CPSC313,
       CPSC319,
-      CPSC320,
-      CPSC322,
-      CPSC330,
       CPSC368,
-      CPSC404,
-      CPSC410
+      CPSC410,
+      COSC111,
+      COSC121,
+      COSC123,
+      COSC210,
+      COSC222,
+      COSC264,
+      COSC304,
+      COSC310,
+      COSC315,
+      COSC341,
+      COSC360
     ]
   email: sakhan891@gmail.com
   bio: |
