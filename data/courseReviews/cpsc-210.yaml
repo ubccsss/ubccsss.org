@@ -1,6 +1,18 @@
 reviews:
   - author: BCS Student
     authorLink: 
+    date: 2025-02-14
+    review: |
+      A solid course that very much holds your hand through the ins and outs of Java / OOP. Personal Project is great; you're pretty much free to do whatever you want as long as you fulfill their criteria, and their exam format in my opinion is more than fair. There were 4 Midterms: 2 Conceptual (short answer/multiple choice type questions) and 2 Practical (coding in PrairieTest on WorkSpace). The final exam itself also felt pretty fair.
+      
+      Dr. Paul Carter was a FANTASTIC prof that made going to lectures worth it; you can technically get away without going to lectures (the bulk of your learning in my opinion actually comes from the EdX videos/pre-lecture material), but lecture labs help refine/establish your understanding of the course material as well along with the actual labs. If there was one gripe I had with the course, it was that office hours were ALWAYS packed to the point you could not really get more than one question in at any given time; for that reason I found the EdStem discussion a way more valuable resource if I was ever in need of help (TAs are quick to respond on their as well as other students).
+      
+      Looking back/in hindsight, it probably will be the "easiest" lower-level CPSC course you take, especially if you already have some basic/decent knowledge of Java, so make the most of it!
+    difficulty: 3
+    quality: 4.5
+    sessionTaken: 2024W1
+  - author: BCS Student
+    authorLink: 
     date: 2025-02-10
     review: |
       A solid course that very much holds your hand through the ins and outs of Java / OOP. Personal Project is great; you're pretty much free to do whatever you want as long as you fulfill their criteria, and their exam format in my opinion is more than fair. There were 4 Midterms: 2 Conceptual (short answer/multiple choice type questions) and 2 Practical (coding in PrairieTest on WorkSpace). The final exam itself also felt pretty fair.
