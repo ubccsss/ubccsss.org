@@ -1,0 +1,11 @@
+reviews:
+  - author: Andrew
+    authorLink: 
+    date: 2025-02-18
+    review: |
+      Testing new config.
+      
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    difficulty: 3
+    quality: 3
+    sessionTaken: 2025W1
