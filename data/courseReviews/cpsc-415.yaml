@@ -1,4 +1,14 @@
 reviews:
+  - author: Andrew
+    authorLink: 
+    date: 2025-02-18
+    review: |
+      Testing.
+      
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    difficulty: 3
+    quality: 3
+    sessionTaken: 2024W1
   - author: /u/vaastav05
     authorLink: https://www.reddit.com/r/UBC/comments/bsasu1/comp_sci_courses_at_ubc/eom20bx
     date: 2019-05-23
