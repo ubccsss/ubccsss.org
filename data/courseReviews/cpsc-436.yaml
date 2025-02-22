@@ -1,4 +1,12 @@
 reviews:
+  - author: m_
+    authorLink: 
+    date: 2025-02-22
+    review: |
+      436A -- Incredible course, took it with Thomas. Don't be scared by the hype -- it's high workload, but if you can commit to it then you'll come out with a decent grade (especially since they cut the final individual milestones). I would say this course has no real prereqs, 213 and 313 do not prepare you for it at all, and you can learn almost everything you need to know from the course book. I cannot recommend 436A enough. You don't need much experience in C, just enough to not malloc(sizeof(struct a*)).
+    difficulty: 5
+    quality: 5
+    sessionTaken: 2024W1
   - author: Brandon Orange
     authorLink:
     date: 2023-02-25
