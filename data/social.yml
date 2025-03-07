@@ -24,3 +24,6 @@
 - title: RSS
   icon: /modules/rss.svg
   link: /index.xml
+- title: LinkedIn
+  icon: /modules/linkedin.svg
+  link: https://www.linkedin.com/company/ubccsss
