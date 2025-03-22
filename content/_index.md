@@ -21,6 +21,7 @@ const website =
 <html>
     <head>
         <title>The Cube</title>
+        <meta name="viewport" content="width=1024, initial-scale=1.0">
     </head>
     <body>
         <center>
@@ -41,6 +42,7 @@ const website =
             </table>
         </center>
         <hr width="100%">
+        <marquee><b>Welcome to the UBC CSSS web page. We are the undergraduate club for the UBC department of computer science. Explore this page to learn more about our club.</b></marquee>
         <center>
             <b>
             <p style="margin: 0 30% 0 30%; font-size: 30px;">
@@ -56,6 +58,7 @@ const website =
             </p>
             </b>
             <hr width="100%">
+            <p><b>Site opened 1996; This page has been accessed: times.</b></p>
             <p><b><font color="#000000">© 2025 - www.UBCCSSS.org</font></b></p>
         </center>
     </body>
