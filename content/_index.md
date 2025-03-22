@@ -42,24 +42,44 @@ const website =
             </table>
         </center>
         <hr width="100%">
-        <marquee><b>Welcome to the UBC CSSS web page. We are the undergraduate club for the UBC department of computer science. Explore this page to learn more about our club.</b></marquee>
+        <marquee><b>Welcome to the UBC CSSS web page. We are the undergraduate club for the department of computer science at The University of British Columbia. Explore this web site to learn more about our club.</b></marquee>
+        <center><a href="?aprilfools=disable">Go to main page.</a></center></br>
         <center>
             <b>
             <p style="margin: 0 30% 0 30%; font-size: 30px;">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sagittis, diam quis porttitor laoreet, augue arcu convallis est, et fermentum nulla tellus non diam. Donec fermentum lacus ornare mauris fermentum, ut convallis arcu cursus.
+                The Computer Science Stuedent Society organizes various events throughout the year, including the Technical Career Fair, various workshops, and the <a href="https://www.instagram.com/p/DG6NqMIyJsq/">end-of year CS Gala</a>. I will give $1,000.00 to any person who can disprove this.
             </p>
             <br>
             <p style="margin: 0 30% 0 30%; font-size: 30px; color: red">
-                Aenean lobortis elit lobortis, elementum nisl in, tincidunt ligula. Duis tellus lorem, efficitur malesuada finibus sed, maximus eu sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+                Today the internet is primarily described as electronic commerce. Before 1995 it was lauded as a so-called information superhighway.
             </p>
             <br>
             <p style="margin: 0 30% 0 30%; font-size: 30px;">
-                Quisque tristique venenatis neque eu posuere. Praesent eu dictum urna, ac congue elit. Mauris ac lobortis urna, ac accumsan mauris. Etiam vitae dolor nunc. Cras pellentesque id erat nec vulputate. Sed ex leo, mattis ut sodales id, convallis molestie augue. Nullam convallis est eget ipsum laoreet tincidunt.
+                Computer science is a pleasure . . . though also a hazard in the eyes (and minds) of some. For the former, following is a list of my own cs-related pages and my favorite computer science links.
             </p>
+            <table style="border:1px solid black;">
+                <tr style="border:1px solid black;">
+                    <th style="border:1px solid black;">Site</th>
+                    <th style="border:1px solid black;">Description</th>
+                </tr>
+                <tr style="border:1px solid black;">
+                    <td style="border:1px solid black;">website1 here</td>
+                    <td style="border:1px solid black;">todo</td>
+                </tr>
+                <tr>
+                    <td style="border:1px solid black;">website2 here</td>
+                    <td style="border:1px solid black;">descriptions</td>
+                </tr>
+            </table>
             </b>
             <hr width="100%">
-            <p><b>Site opened 1996; This page has been accessed: times.</b></p>
+                        <p>
+                <a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88"></a>
+                <b>Site opened 1996; This page has been accessed: times.</b>
+                <img src="/files/april_fools/beaver.png" width="50"/>
+            </p>
             <p><b><font color="#000000">© 2025 - www.UBCCSSS.org</font></b></p>
+            <p><a href="/files/april_fools/sources.txt">Sources</a></p>
         </center>
     </body>
 </html>
@@ -82,4 +102,88 @@ if (enable) {
         document.body.innerHTML = website;
     }
 }
+
+console.log(
+    `
+                                         .
+                                          \`.
+
+                                     ...
+                                        \`.
+                                  ..
+                                    \`.
+                            \`.        \`.
+                         ___\`.\\./
+                            \`---.---
+                           /     \`.--   
+                          /       \\-    
+                         |   /\\    \\   
+                         |\\==/\\==/  |
+                         | \`@'\`@'  .--.
+                  .--------.           )
+                .'             .   \`._/
+               /               |     \\
+              .               /       |
+              |              /        |
+              |            .'         |   .--.
+             .'\`.        .'_          |  /    \\
+           .'    \`.__.--'.--\`.       / .'      |
+         .'            .|    \\\\     |_/        |
+       .'            .' |     \\\\               |
+     .-\`.           /   |      .      __       |
+   .'    \`.     \\   |   \`           .'  )      \\
+  /        \\   / \\  |            .-'   /       |
+ (  /       \\ /   \\ |                 |        |
+  \\/         (     \\/                 |        |
+  (  /        )    /                 /   _.----|
+   \\/   //   /   .'                  |.-'       \`
+   (   /(   /   /                    /      \`.   |
+    \`.(  \`-')  .---.                |    \`.   \`._/
+       \`._.'  /     \`.   .---.      |  .   \`._.'
+              |       \\ /     \`.     \\  \`.___.'
+              |        Y        \`.    \`.___.'
+              |      . |          \\         \\
+              |       \`|           \\         |
+              |        |       .    \\        |
+              |        |        \\    \\       |
+            .--.       |         \\           |
+           /    \`.  .----.        \\          /
+          /       \\/      \\        \\        /
+          |       |        \\       |       /
+           \\      |    @    \\   \`-. \\     /
+            \\      \\         \\     \\|.__.'
+             \\      \\         \\     |
+              \\      \\         \\    |
+               \\      \\         \\   |
+                \\    .'\`.        \\  |
+                 \`.-'    \`.    _.'\\ |
+                   |       \`.-'    ||
+              .     \\     . \`.     ||      .'
+               \`.    \`-.-'    \`.__.'     .'
+                 \`.                    .'
+             .                       .'
+              \`.
+                                           .-'
+                                        .-'
+
+      \\                 \\
+       \\         ..      \\
+        \\       /  \`-.--.___ __.-.___
+\`-.      \\     /  #   \`-._.-'    \\   \`--.__
+   \`-.        /  ####    /   ###  \\        \`.
+________     /  #### ############  |       _|           .'
+            |\\ #### ##############  \\__.--' |    /    .'
+            | ####################  |       |   /   .'
+            | #### ###############  |       |  /
+            | #### ###############  |      /|      ----
+          . | #### ###############  |    .'<    ____
+        .'  | ####################  | _.'-'\|   
+      .'    |   ##################  |       |
+             \`.   ################  |       |
+               \`.    ############   |       | ----
+              ___\`.     #####     _..____.-'     .
+             |\`-._ \`-._       _.-'    \\\\         \`.
+          .'\`-._  \`-._ \`-._.-'\`--.___.-' \\          \`.
+        .' .. . \`-.
+`)
 </script>
