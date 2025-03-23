@@ -18,6 +18,7 @@ Join us on <a id="discord-serverhttpsdiscordggxf3wbydubf" href="https://discord.
 
 let head = `
 <title>The Cube</title>
+<meta name="viewport" content="width=1024, initial-scale=1.0">
 <link rel="icon" type="image/x-icon" href="/files/april_fools/cube_icon.ico">
 `;
 
@@ -111,6 +112,7 @@ if (enable) {
     document.body.style = "background-image: url('/files/april_fools/grid.png')";
     window.onload = function() {
         document.body.innerHTML = website;
+        document.head.innerHTML = head;
     }
 }
 
