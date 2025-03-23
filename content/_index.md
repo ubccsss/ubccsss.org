@@ -18,7 +18,6 @@ Join us on <a id="discord-serverhttpsdiscordggxf3wbydubf" href="https://discord.
 
 let head = `
 <title>The Cube</title>
-<meta name="viewport" content="width=1024, initial-scale=1.0">
 <link rel="icon" type="image/x-icon" href="/files/april_fools/cube_icon.ico">
 `;
 
