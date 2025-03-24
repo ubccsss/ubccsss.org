@@ -70,8 +70,8 @@ const website = `
             <th style="border:1px solid black;">Description</th>
         </tr>
         <tr style="border:1px solid black;">
-            <td style="border:1px solid black;">website1 here</td>
-            <td style="border:1px solid black;">todo</td>
+            <td style="border:1px solid black;"><a href="https://www.cs.ubc.ca/~gregor/">https://www.cs.ubc.ca/~gregor/</a></td>
+            <td style="border:1px solid black;">Gregor's website</td>
         </tr>
         <tr>
             <td style="border:1px solid black;"><a href="https://info.cern.ch/">https://info.cern.ch/</a></td>
