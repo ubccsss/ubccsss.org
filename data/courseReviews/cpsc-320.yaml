@@ -1,4 +1,12 @@
 reviews:
+  - author: ushankab
+    authorLink: 
+    date: 2025-04-27
+    review: |
+      This is a good course but it could be better in several ways. In terms of what is good, the course covers many great topics and helps you grow as a computer scientist rather than just a code monkey. Expect to write proofs etc. The last unit on computational complexity and NP completeness is great. My prof (Alan) said that the material in this unit is something everyone (even those outside CS) should know about because it’s deep, interesting, and important and I completely agree. The assignments in this course are great and are probably your best learning tool. Don’t split the assignments up or get too much help from humans or AI because you’ll lose opportunities to learn. All that said, there are things about this course I found lacking. There’s not a lot of practice material given besides the assignments and some past exams so it’s kind of up to you to find extra practice resources if you want them. But such practice is important for some people to do well in this course, so it would be better if the course supported this more. I found that it took a long time to do the weekly textbook readings. There’s something to be said about struggling through readings, but I felt this took time away from more productive things related to this course. I didn’t mind the worksheet approach (flipped classroom). However, I think at times it’s a stretch to expect students to complete the worksheet themselves in the time given, so the whole thing devolves into watching the prof solve the worksheet which doesn’t seem that useful (I can read the worksheet solutions on my own time). A similar point could be made about tutorials.
+    difficulty: 4
+    quality: 3.5
+    sessionTaken: 2024W2
   - author: anon_320_student
     authorLink: 
     date: 2024-01-04
