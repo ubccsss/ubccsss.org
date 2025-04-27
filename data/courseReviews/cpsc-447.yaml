@@ -1,0 +1,9 @@
+reviews:
+  - author: ushankab
+    authorLink: 
+    date: 2025-04-27
+    review: |
+      A very good course. Dr. Munzner is one of the most notable data visualization experts in the world, and she brings this depth of knowledge to the course. Every assignment is well crafted and does a good job of teaching you theory or giving you practice implementing visualizations in code (d3.js). Classroom is flipped. You watch up to about an hour of recorded videos before the lecture, and then most of the lecture is spent on interactive activities that reinforce the weekly topics. I thought the activities were both quite engaging (much more engaging than being lectured at) and also effective at teaching the content. The course project was both fun and a very good learning experience. The final exam was reasonable and fair. Overall I recommend this course but ideally you should have some interest in the topic of data visualization if you are considering taking the course.
+    difficulty: 2.5
+    quality: 4
+    sessionTaken: 2024W2
