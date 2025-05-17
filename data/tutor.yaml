@@ -654,7 +654,7 @@
   courses: [CPSC110, CPSC121, CPSC210, MATH101, MATH200]
   email: adilsameer99@gmail.com
   bio: |
-      Second Year CS Major with 91% average. I will teach you concepts in a way you will not forget. Not just to crack exams but also to make your fundamentals clear. Currently, Software Dev @ VCL Lab.
+    Second Year CS Major with 91% average. I will teach you concepts in a way you will not forget. Not just to crack exams but also to make your fundamentals clear. Currently, Software Dev @ VCL Lab.
   rates: $20-30/hr
   availability: Available during the week and weekends - contact to schedule
 
@@ -663,6 +663,15 @@
   courses: [APSC160, CPSC259, CPEN211, CPEN212, CPEN333, CPEN311]
   email: joshuateng01@gmail.com
   bio: |
-      Hi, I'm a Recent Electrical Engineering graduate and I am happy to help with some of the CS and CPEN requirements.
+    Hi, I'm a Recent Electrical Engineering graduate and I am happy to help with some of the CS and CPEN requirements.
   rates: $40/hr
   availability: Monday to Friday 12PM-9PM
+
+- name: Owen Fisher
+  lastmod: 2025-05-15
+  courses: [CPSC103, CPSC121, CPSC210, MATH152, MATH220, MATH221, STAT200]
+  email: owenfisher46@gmail.com
+  bio: |
+    I’m a Mathematics & Statistics student with a Computer Science minor, and I’ve earned 95%+ in all relevant coursework. I’m available for remote tutoring all summer, and my rate is $40/hr (1-hour minimum). Feel free to reach out to schedule a session!
+  rates: $40/hr (1-hour min)
+  availability: Available Evenings (5-10pm) and Weekends (8am-10pm)
