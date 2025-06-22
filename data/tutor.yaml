@@ -47,7 +47,7 @@
 
 - name: Michael Allan
   lastmod: 2025-06-21
-  courses: ["APSC160", "CPSC103", "CPSC107", "CPSC110", "CPSC121", "CPSC210", "CPSC213", "CPSC221", "CPSC304", "CPSC310"]
+  courses: [APSC160, CPSC103, CPSC107, CPSC110, CPSC121, CPSC210, CPSC213, CPSC221, CPSC304, CPSC310]
   email: mb.allan@ymail.com
   rates: $50/hr
   availability: Weekdays after 5 PM and all day on weekends
@@ -286,7 +286,7 @@
 
 - name: Ayan Das
   lastmod: 2025-06-21
-  courses: ["CPSC110", "CPSC210", "CPSC304", "CPSC322", "CPSC310", "CPSC213", "CPSC221"]
+  courses: [CPSC110, CPSC210, CPSC304, CPSC322, CPSC310, CPSC213, CPSC221]
   email: ayandas@student.ubc.ca
   rates: $50/hr weekdays, $55/hr weekends for upper year CS classes. However, tutoring for 110 is $35/hr weekdays, $40/hr weekends since first years have it rough anyway :)
   availability: "Weekdays: 2–6 pm, Weekends: flexible"
