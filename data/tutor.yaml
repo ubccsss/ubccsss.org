@@ -46,13 +46,13 @@
   rates: $20/hr
 
 - name: Michael Allan
-  lastmod: 2022-01-22
-  courses: [CPSC110, CPSC121, CPSC210, CPSC213, CPSC221]
+  lastmod: 2025-06-21
+  courses: ["APSC160", "CPSC103", "CPSC107", "CPSC110", "CPSC121", "CPSC210", "CPSC213", "CPSC221", "CPSC304", "CPSC310"]
   email: mb.allan@ymail.com
-  availability: "Monday, Wednesday, Friday: 11 AM - 2 PM, after 4 PM    Tuesday, Thursday: 12 PM - 3 PM     Weekends: All day"
-  bio: |
-    I am a full time, 3rd year computer science major. I have two co-op work terms under my belt. In addition, I have pre-university experience in software development, both as a volunteer and as an employee.
   rates: $50/hr
+  availability: Weekdays after 5 PM and all day on weekends
+  bio: |
+    I am a full time fullstack web developer and a UBC Computer Science graduate as of May 2024. In addition, I have five co-op work terms under my belt from my time as a student. I have over four years of tutoring experience and have helped more than twenty students successfully pass their classes.
 
 - name: Roceley Yuo
   lastmod: 2022-01-22
@@ -285,13 +285,13 @@
   availability: Weekends, some Weekdays. (Contact me for scheduling)
 
 - name: Ayan Das
-  lastmod: 2023-09-04
-  courses: [CPSC110, CPSC210, CPSC304, CPSC322]
+  lastmod: 2025-06-21
+  courses: ["CPSC110", "CPSC210", "CPSC304", "CPSC322", "CPSC310", "CPSC213", "CPSC221"]
   email: ayandas@student.ubc.ca
+  rates: $50/hr weekdays, $55/hr weekends for upper year CS classes. However, tutoring for 110 is $35/hr weekdays, $40/hr weekends since first years have it rough anyway :)
+  availability: "Weekdays: 2–6 pm, Weekends: flexible"
   bio: |
-    5th year CPSC student with 8 terms of TA experience(CPSC 107, 110, 322) and 20 months of co-op experience.
-  rates: $35/hr weekdays, $40/hr weekends
-  availability: "Weekdays: 4-8 pm, Weekends: flexible"
+    Graduated from UBC CS, and currently a SWE at a FAANG company. Also 8 terms of TA experience (CPSC 107, 110, 322) and 24 months of co-op experience.
 
 - name: Aleksandr Kim
   lastmod: 2024-04-25
