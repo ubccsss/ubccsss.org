@@ -16,6 +16,6 @@
   {{ partial "schema/event" . }}
 {{ end }}
 
-{{- if ne (lower .File.ContentBaseName) .File.ContentBaseName -}}
+{{- if and .File (ne (lower .File.ContentBaseName) .File.ContentBaseName) -}}
   {{ errorf "Files must use all lowercase names.\n File: ./content/%s" .File.Path }}
 {{- end -}}
