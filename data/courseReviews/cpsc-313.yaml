@@ -1,6 +1,6 @@
 reviews:
-  - author: Mana 
-    authorLink: 
+  - author: Mana
+    authorLink:
     date: 2025-05-29
     review: |
       Roughly bi-weekly quizzes that allow retakes for an 80% grade replacement. The final is extremely difficult. Make sure to do well on the quizzes and it retakes so you can go into the final exam needing a lower score to pass.
@@ -8,7 +8,7 @@ reviews:
     quality: 4.5
     sessionTaken: 2025W2
   - author: anon_313_student
-    authorLink: 
+    authorLink:
     date: 2024-01-04
     review: |
       CPSC313 covers a wide range of systems material, but each section of the course builds very logically on the next. The workload is challenging, with (open-book) quizzes every other week, weekly lab assignments, and pre-readings, but it's designed well to make sure you keep up. CPSC313 really makes you feel like you understand how computers work, particularly if you use Linux or are interested in more of the internals.
@@ -17,7 +17,7 @@ reviews:
     quality: 5
     sessionTaken: 2023W1
   - author: Will
-    authorLink: 
+    authorLink:
     date: 2023-12-23
     review: |
       It was not an easy course, but it is 100% doable for CPSC students. It's pretty heavy (should be worth 4 credits really); assignments pretty much every week plus multiple quizzes on top. Assignments were not too hard in my opinion, it's just that it took some time to think carefully and thoroughly. I spent a good chunk of my evenings attending office hours to truly understand the materials. Nonetheless, Steve and Norm were superb, the TAs were fabulous, and I think this is the most well-designed CPSC course. You can mess up a quiz or two, and even the midterm, and not be too worried about it, because weights are evenly spread out.
@@ -25,7 +25,7 @@ reviews:
     quality: 5
     sessionTaken: 2023W1
   - author: ushankab
-    authorLink: 
+    authorLink:
     date: 2023-12-17
     review: |
       A wonderful course like its predecessor 213. Probably easier than 213 (which I think might be the toughest core CPSC course) but certainly not easy. The tests will probe your ability to deeply and conceptually understand course content rather than regurgitate it or robotically grind practice problems. I took the course with Steve and Norm who did a great job but I also had recordings of Margo from a prior term. Her lectures are absolutely phenomenal. We are truly lucky that she decided to come to UBC. The labs are the highlight of this course, especially the 4 percenters. They can be tough but not too bad if you start early. They are a lot of fun and will sharpen up your C coding skills and reinforce core course content. Like all systems courses, I come out of this course more capable in my ability to use computers to solve problems and happy that I learned a little bit more about what happens inside what is just a black box to most.
@@ -33,18 +33,18 @@ reviews:
     quality: 4.5
     sessionTaken: 2023W1
   - author: bruh
-    authorLink: 
+    authorLink:
     date: 2023-12-15
     review: |
-      It is very hard, I really struggled with midterm 2 
+      It is very hard, I really struggled with midterm 2
     difficulty: 5
     quality: 3
     sessionTaken: 2023W1
   - author: wang
-    authorLink: 
+    authorLink:
     date: 2023-12-13
     review: |
-      deserving of 4 credits imho, but interesting material although difficult. you don't need too much knowledge frmo 213 to do well in this class 
+      deserving of 4 credits imho, but interesting material although difficult. you don't need too much knowledge frmo 213 to do well in this class
     difficulty: 4
     quality: 4
     sessionTaken: 2023W1

@@ -47,7 +47,19 @@
 
 - name: Michael Allan
   lastmod: 2025-06-21
-  courses: [APSC160, CPSC103, CPSC107, CPSC110, CPSC121, CPSC210, CPSC213, CPSC221, CPSC304, CPSC310]
+  courses:
+    [
+      APSC160,
+      CPSC103,
+      CPSC107,
+      CPSC110,
+      CPSC121,
+      CPSC210,
+      CPSC213,
+      CPSC221,
+      CPSC304,
+      CPSC310
+    ]
   email: mb.allan@ymail.com
   rates: $50/hr
   availability: Weekdays after 5 PM and all day on weekends
