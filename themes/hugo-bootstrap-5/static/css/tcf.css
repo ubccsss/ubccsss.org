@@ -1,6 +1,7 @@
 :root {
   --main-blue: #152840;
   --shadows: #0045ac;
+  --shadows-hover: #0066cc;
 }
 .hero-header-content {
   background: #152840d1;
@@ -15,6 +16,8 @@
   white-space: normal;
   text-align: left;
   margin-top: 4px;
+  word-wrap: break-word;
+  color: rgba(255, 255, 255, 0.95);
 }
 .bg-purple {
   background-color: #7744ab !important;

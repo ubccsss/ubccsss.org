@@ -1,0 +1,99 @@
+:root {
+  --main-blue: #0d6efd;
+  --shadows: #67a4ff;
+}
+.hero-header {
+  background: url(/files/tcf2.jpg);
+  background-size: cover;
+  height: max-content;
+}
+.coming-soon {
+  height: 100vh;
+}
+.coming-soon .hero-header-content {
+  align-items: center;
+  display: flex;
+}
+.hero-header-content {
+  width: 100%;
+  height: 100%;
+  background: #0d6efdd1;
+}
+.hero-header p,
+.hero-header h1 {
+  color: white;
+  text-align: center;
+}
+.hero-header-text {
+  font-size: 24px;
+}
+.display-1 {
+  font-size: 7rem;
+  text-shadow: 4px 4px 0px var(--shadows);
+}
+.container {
+  padding: 3rem;
+}
+.img-shadow {
+  box-shadow: 0.5rem 0.5rem 0px var(--shadows);
+}
+.img-outline {
+  outline: 1px solid var(--shadows);
+}
+.small-shadow {
+  box-shadow: 0.2rem 0.2rem 0px var(--shadows);
+  outline: 1px solid var(--shadows);
+}
+.background-blue {
+  background-color: var(--main-blue);
+  max-width: 100%;
+  color: white;
+}
+.background-blue li > a {
+  color: white;
+}
+.card {
+  display: block;
+  border-radius: 0;
+  background: #fff;
+  text-decoration: none;
+  box-shadow: 0.5rem 0.5rem 0px var(--shadows);
+  transition: 0.3s transform cubic-bezier(0.155, 1.105, 0.295, 1.12),
+    0.3s box-shadow,
+    0.3s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12);
+  cursor: pointer;
+}
+.card-title,
+.card-subtitle,
+.card-text,
+.card-link {
+  color: black;
+}
+.card-subtitle {
+  color: rgb(50, 50, 50);
+  font-weight: 300;
+}
+.card:hover {
+  transform: scale(1.02);
+  box-shadow: 0.5rem 0.5rem 0px var(--shadows-hover);
+}
+.card-link {
+  text-decoration: none;
+  font-weight: 900;
+}
+.card-title:hover {
+  color: rgba(0, 0, 0, 0.5);
+}
+.nav-sticky {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: end;
+  z-index: 10;
+}
+@media screen and (max-width: 1000px) {
+  .display-1 {
+    font-size: 4rem;
+    text-shadow: 4px 4px 0px var(--shadows);
+  }
+}
