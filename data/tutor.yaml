@@ -666,15 +666,6 @@
   rates: $40/hr
   availability: "M-F: 6pm-11pm, Weekend: All day"
 
-- name: Andy Dong
-  lastmod: 2025-01-27
-  courses: [CPSC110, CPSC210, CPSC221, CPSC404]
-  email: andydong0928@gmail.com
-  bio: |
-    Hi, I'm Andy. I'm a graduate from UBC. I am happy to help with any of the courses above!
-  rates: $40/hr
-  availability: Monday-Friday 5pm-10pm
-
 - name: Muhammad Adil Sameer
   lastmod: 2025-02-16
   courses: [CPSC110, CPSC121, CPSC210, MATH101, MATH200]
