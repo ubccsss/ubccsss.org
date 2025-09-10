@@ -6,7 +6,7 @@
 
     <link rel="canonical" href="{{ .Permalink }}" />
 
-    <title>UBC Technical Career Fair 2024</title>
+    <title>UBC Technical Career Fair 2025</title>
 
     <!-- Bootstrap CSS -->
     <link
@@ -51,12 +51,12 @@
         <i class="bi-list"></i>
       </button>
       <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="/tcf2024#about">About</a></li>
+        <li><a class="dropdown-item" href="/tcf2025#about">About</a></li>
         <li>
-          <a class="dropdown-item" href="/tcf2024/companies">Companies</a>
+          <a class="dropdown-item" href="/tcf2025/companies">Companies</a>
         </li>
         <li>
-          <a class="dropdown-item" href="/tcf2024#event-info">Event Info</a>
+          <a class="dropdown-item" href="/tcf2025#event-info">Event Info</a>
         </li>
       </ul>
     </div>
@@ -64,7 +64,7 @@
       <div class="hero-header-content">
         <div class="mx-auto py-5">
           <h1 class="display-1 fw-bold mb-neg1">{{ .Params.title }}</h1>
-          {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" }}
+          {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" "Transportation and Distribution" "black" "Renewal Engery and Waste Management" "dark" }}
           <p>
             {{ range .Params.industry }}
               <span class="badge bg-{{ index $badge_colors . }}">{{ . }}</span>
@@ -79,7 +79,7 @@
       </div>
     </div>
     <div class="container">
-      <a href="/tcf2024/companies">&lt; back to companies</a>
+      <a href="/tcf2025/companies">&lt; back to companies</a>
       <div class="row pt-4">
         <div class="col me-2">
           <img
@@ -88,7 +88,9 @@
             class="mw-100 w-100 img-shadow img-outline p-3" />
         </div>
         <div class="col">
-          <h2>Booth Number: {{ .Params.boothNumber }}</h2>
+          <p>
+            <b>Booth Number: {{ .Params.boothNumber }}</b>
+          </p>
           <p>{{ .Params.short_bio | markdownify }}</p>
           <p>Target majors: {{ .Params.majors }}</p>
           <p>Degree level required: {{ .Params.degreeLevels }}</p>
@@ -115,7 +117,7 @@
             class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
             <img class="bi" width="30" height="24" src="/logo.svg" />
           </a>
-          <span class="mb-3 mb-md-0 text-muted">© 2024 UBC CSSS</span>
+          <span class="mb-3 mb-md-0 text-muted">© 2024-2025 UBC CSSS</span>
         </div>
 
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
