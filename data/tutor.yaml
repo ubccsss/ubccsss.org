@@ -195,7 +195,7 @@
   availability: Monday to Friday 1-2pm, anytime during the weekend
 
 - name: Arsh Jhaj
-  lastmod: 2025-07-25
+  lastmod: 2025-01-27
   courses:
     [
       CPSC110,
@@ -211,7 +211,7 @@
       MATH2XX,
       MATH32X
     ]
-  email: a.jhaj@alumni.ubc.ca
+  email: arshijhaj@outlook.com
   bio: |
     UBC MSc graduate with 6+ consecutive years (2017-2023) of TA experience over 15+ academic terms with UBC CS, specifically in the discrete math and algorithms courses. My masters was focused on ML theory, specifically an area called differential privacy. I co-developed the randomized algorithms course (CPSC 436R) alongside the professor in 2021. Additionally graduated with a CS/Math BSc (with distinction + multiple scholarships) from UBC in 2021. Privately tutored 300+ students since 2019. These days, I am exclusively focused full-time on CS/math education; for example I recently worked on expanding a small tutoring business with an ex-professor. I am very passionate about supporting my students' growth and would be happy to work with you.
   rates: $50/hr (negotiable in certain circumstances)
@@ -237,12 +237,12 @@
   availability: Flexible (please contact)
 
 - name: David Rowswell
-  lastmod: 2024-09-05
+  lastmod: 2025-01-27
   courses: [All CPSC Courses]
-  email: d.rowswell@alumni.ubc.ca
+  email: davi12908@gmail.com
   bio: |
-    Hello! I have been a programmer and employee of UBC for 6 years after completing my Computer Science Degree at UBCO. I was a TA for 3 years during my degree an have been actively tutoring at the UBC Vancouver campus for the last 6 years. Happy to help students reach their programming goals!
-  rates: $45/h
+    Hello! I have been a programmer and employee of UBC for 6 years after completing my Computer Science Degree at UBCO. I was a TA for 3 years during my degree an have been actively tutoring at the UBC Vancouver campus for the last 6 years. Happy to help students reach their programming goals! 1/2 Slots filled!
+  rates: $40/h
   availability: Weekends, but Flexible
 
 - name: Hawk Lu
@@ -536,7 +536,7 @@
   availability: Available during the week and weekends. Contact to schedule. Available during summer.
 
 - name: Ritik Keswani
-  lastmod: 2024-04-01
+  lastmod: 2025-01-27
   courses:
     [
       COSC111,
@@ -544,22 +544,16 @@
       COSC123,
       CPSC210,
       CPSC221,
-      CPSC213,
       CPSC304,
       CPSC310,
-      CPSC313,
-      CPSC314,
-      CPSC317,
-      CPSC322,
-      CPSC425,
       CPSC427,
       CPSC455
     ]
   email: ritikk075@gmail.com
   bio: |
-    5th year CPSC student with consistently high grades in all Comp Sci courses. 8 terms of TA experience (CPSC 210, 221, 213 + BCS Tutor), 20 months of co-op experience (Optum, D2L, Sony Pictures), and 2 time mentor at NW Hacks.
-  rates: 100 Level - $30/hr, 200 Level - $40/hr, 300/400 Level - $50/hr (Negotiable based on requirement)
-  availability: "Weekday: 6 pm onwards, Weekends: Flexible"
+    Recent CPSC graduate with consistently high grades in all CPSC courses. Current SWE @ Capital One, 10 terms of TA experience (CPSC 210, 221, 213 + BCS Tutor), 24 months of co-op experience (Optum, D2L, Sony Pictures), and 2-time mentor at NW Hacks. Check out rkeswani.com for more details on how to reach out to me!
+  rates: $50-70/hr (Negotiable based on requirement)
+  availability: "Weekday: 6 pm (ET) onwards, Weekends: Flexible"
 
 - name: Charley Cai
   lastmod: 2024-04-01
@@ -646,12 +640,12 @@
   availability: Available during the week and weekends- contact to schedule
 
 - name: Andy Li
-  lastmod: 2025-01-04
-  courses: [CPSC110]
+  lastmod: 2025-01-27
+  courses: [CPSC107, CPSC110, CPSC210]
   email: liandy270@gmail.com
   bio: |
-    I am a first year student who recently completed CPSC 110 in 2024w1 with a average of 96 having a thorough understanding of the entire courses materials and problems. I was also one of the top student contributors on piazza for the session and was a instructor-endorsed answerer.
-  rates: $20/hr
+    Hello, I am currently a 2nd year Computer Science Major and have taken all of Cpsc 110, 121, 210. Particularly, I achieved 96% in CPSC210 and was one of the top contributors on piazza for my term. I have 1 year of previous tutoring experience in lower level computer science and currently am on my job search term for Science CO-OP. I'm available primarily in-person on campus or also available on zoom my availability is mostly open for most days after 3pm however please contact me for specifics as I may have periodic responsibilities. I live in Place Vanier as one of the House Presidents if you happen to be a first year :).
+  rates: $20/hr (+1 Hour free trial for first session)
   availability: Weekends - All day Weekdays - After 4pm
 
 - name: Sungwon Kim
