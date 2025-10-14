@@ -195,11 +195,25 @@
   availability: Monday to Friday 1-2pm, anytime during the weekend
 
 - name: Arsh Jhaj
-  lastmod: 2023-03-22
-  courses: [CPSC121, CPSC221, CPSC320, CPSC420, MATH1XX, MATH2XX, MATH32X]
+  lastmod: 2025-07-25
+  courses:
+    [
+      CPSC110,
+      CPSC121,
+      CPSC210,
+      CPSC221,
+      CPSC310,
+      CPSC320,
+      CPSC420,
+      CPSC340,
+      CPSC540,
+      MATH1XX,
+      MATH2XX,
+      MATH32X
+    ]
   email: a.jhaj@alumni.ubc.ca
   bio: |
-    6+ consecutive years (2017-2023) of TA experience over 15+ academic terms with UBC CS, specifically in the discrete math and algorithms courses. I co-developed the new randomized algorithms course (CPSC 436R) alongside the professor. Privately tutored 100+ students since 2019. I am currently a second-year MSc. student in the CS department specializing in ML theory. Graduated with a CS/Math BSc. (with distinction + multiple scholarships) from UBC in 2021.
+    UBC MSc graduate with 6+ consecutive years (2017-2023) of TA experience over 15+ academic terms with UBC CS, specifically in the discrete math and algorithms courses. My masters was focused on ML theory, specifically an area called differential privacy. I co-developed the randomized algorithms course (CPSC 436R) alongside the professor in 2021. Additionally graduated with a CS/Math BSc (with distinction + multiple scholarships) from UBC in 2021. Privately tutored 300+ students since 2019. These days, I am exclusively focused full-time on CS/math education; for example I recently worked on expanding a small tutoring business with an ex-professor. I am very passionate about supporting my students' growth and would be happy to work with you.
   rates: $50/hr (negotiable in certain circumstances)
   availability: Generally very flexible (contact for further details)
 
@@ -651,15 +665,6 @@
     - I am open to both individual and group tutoring sessions, with rates negotiable for group settings.
   rates: $40/hr
   availability: "M-F: 6pm-11pm, Weekend: All day"
-
-- name: Andy Dong
-  lastmod: 2025-01-27
-  courses: [CPSC110, CPSC210, CPSC221, CPSC404]
-  email: andydong0928@gmail.com
-  bio: |
-    Hi, I'm Andy. I'm a graduate from UBC. I am happy to help with any of the courses above!
-  rates: $40/hr
-  availability: Monday-Friday 5pm-10pm
 
 - name: Muhammad Adil Sameer
   lastmod: 2025-02-16
