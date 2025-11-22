@@ -1,4 +1,21 @@
 reviews:
+  - author: bill
+    authorLink: 
+    date: 2025-11-05
+    review: |
+      I was looking forward to this course because I've taken a few philosophy and ethics courses and really enjoyed them. Unfortunately, it was extremely disappointing. The course tries to cover too much ground, and it doesn't really end up going into any of the ethical theories or their applications in depth. It opts for breadth rather than depth, only engaging with each theory and topic in a fairly superficial way.
+      
+      
+      The grading scheme is quite frustrating. Your essay grades are determined by what your peers think of your work. This works surprisingly well and often leads to decent grades, I think because students tend to be generous with other students. More problematically, quite often the peer grades will be overwritten by TAs. Some of the TA feedback was perplexing, and it often seemed lower-effort than the peer reviews. The grades given were also not at all in line with feedback given in other writing courses. I think it would be better for a course like this to be assessed by philosophy professors or grad students, who are better qualified to assess writing and have a deeper understanding of the course content.
+      
+      
+      A large part of your final grade is based on the quality of your peer reviews. The assumption underlying this is that essays have a "true grade" which can be mathematically determined by comparing the grades which different graders give it. Basically, you will get a high mark if you tend to agree with your peers and TAs when you are grading essays. To me this is just a pretty wild assumption. Grading an essay is quite subjective and there's no reason to think that all peer graders will, or should, converge on a single mark.
+      
+      
+      I was initially excited by the opportunity to get exposure to some different perspectives on ethics and CS, but quickly regretted my decision to take this course. I wouldn’t recommend it unless very large changes are made to the assessment and content. 
+    difficulty: 2
+    quality: 1.5
+    sessionTaken: 2025W1
   - author: ushankab
     authorLink: 
     date: 2023-12-17
