@@ -63,19 +63,26 @@
         <div class="d-md-block hero-header-content">
           <div class="mx-auto py-5 my-5">
             <h1 class="display-1 fw-bold">Technical Career Fair&nbsp;2026</h1>
-            <p class="hero-header-text">January 29, 2026 — 10AM-4PM PT</p>
+            <p class="hero-header-text">
+              January 29, 2026 &mdash; 10AM &ndash; 4PM PT
+            </p>
             <p>
-              <b
-                >All UBC students and alumni are welcome and do not need to
+              <b>
+                All UBC students and alumni are welcome and do not need to
                 register to attend! Bring your UBC card with you to access the
-                venue.</b
-              >
+                venue.
+              </b>
             </p>
             <p>
               To learn more about our event last year, see
               <a href="/tcf2025/" style="color:white;">TCF 2025</a>
             </p>
-            <p>Questions? Email vpx@ubccsss.org</p>
+            <p>
+              Questions? Email
+              <a href="mailto:vpx@ubccsss.org" style="color:white;"
+                >vpx@ubccsss.org</a
+              >
+            </p>
           </div>
         </div>
         <div class="carousel-item active" data-bs-interval="2000">
@@ -162,12 +169,14 @@
     <div class="background-blue">
       <div class="container" id="companies">
         <h1 class="text-center mb-0">
+          <!-- TODO: UNCOMMENT WHEN LIST IS FINALIZED -->
           <!-- {{ len (where .Pages ".Params.layout" "tcf-company-2026") }} -->
-          16+ Companies Attending
+          18+ Companies Attending
         </h1>
+        <h6 class="text-center mt-3">
+          The deadline to register is <strong>December 15, 2025</strong>
+        </h6>
         <p class="text-center mt-3">
-          To be announced soon!
-          <br />
           Are you a company looking to attend the career fair?
           <a
             href="https://ubccsss.org/files/tcf2026/UBC-CSSS-2026-TCF-Package.pdf"
@@ -183,6 +192,7 @@
             >register for TCF 2026</a
           >
         </p>
+        <p class="text-center mt-4">To be announced soon!</p>
         <div class="row pt-4">
           {{ range first 12 (sort (where .Pages ".Params.layout" "tcf-company-2026")) }}
             {{ if .Params.imageLink }}
@@ -221,12 +231,12 @@
             {{ end }}
           {{ end }}
         </div>
-        <div class="d-flex flex-row justify-content-center pt-4">
-          <!-- TODO: UNCOMMENT ONCE ATTENDEE LIST HAS BEEN CONFIRMED -->
-          <!-- <a href="companies" class="mt-5 btn btn-outline-light">
+        <!-- TODO: UNCOMMENT ONCE ATTENDEE LIST HAS BEEN CONFIRMED -->
+        <!-- <div class="d-flex flex-row justify-content-center pt-4">
+          <a href="companies" class="mt-5 btn btn-outline-light">
             <i class="bi-people"></i> See more companies
-          </a> -->
-        </div>
+          </a>
+        </div> -->
       </div>
     </div>
     <div class="container" id="event-info">
@@ -235,7 +245,7 @@
         <p>The TCF will take place:</p>
         <ul style="list-style-position: inside;">
           <li>January 29, 2026</li>
-          <li>10am-4pm PST</li>
+          <li>10AM &ndash; 4PM PST</li>
           <li>
             at the AMS Great Hall, AMS Student Nest (6133 University Blvd,
             Vancouver, BC V6T 1Z1)
@@ -411,7 +421,9 @@
             class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
             <img class="bi" width="30" height="24" src="/logo.svg" />
           </a>
-          <span class="mb-3 mb-md-0 text-muted">© 2025-2026 UBC CSSS</span>
+          <span class="mb-3 mb-md-0 text-muted"
+            >© 2025&ndash;2026 UBC CSSS</span
+          >
         </div>
 
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
