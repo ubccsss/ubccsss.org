@@ -15,9 +15,36 @@
   display: flex;
 }
 .hero-header-content {
-  width: 100%;
+  background: #152840d1;
+}
+.carousel .carousel-item,
+.carousel .hero-header-content {
+  grid-area: 1 / 1;
+}
+/* Carousel-specific hero styles */
+.carousel {
+  position: relative;
+}
+.carousel .carousel-inner {
+  display: grid;
+}
+.carousel .carousel-item img {
+  justify-self: center;
+  align-self: center;
+  object-fit: cover;
   height: 100%;
-  background: #0d6efdd1;
+  max-height: 80vh;
+  min-height: 360px;
+}
+.carousel .hero-header-content {
+  place-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  color: white;
+  z-index: 1;
 }
 .hero-header p,
 .hero-header h1 {
@@ -91,7 +118,7 @@
   justify-content: end;
   z-index: 10;
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1050px) {
   .display-1 {
     font-size: 4rem;
     text-shadow: 4px 4px 0px var(--shadows);
