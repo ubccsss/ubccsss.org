@@ -58,25 +58,80 @@
         <li><a class="dropdown-item" href="#event-info">Event Info</a></li>
       </ul>
     </div>
-    <div class="hero-header">
-      <div class="hero-header-content py-5">
-        <div class="mx-auto py-5 my-5">
-          <h1 class="display-1 fw-bold">Technical Career Fair 2026</h1>
-          <p class="hero-header-text">
-            Date and details TBA - check back soon!
-          </p>
-          <p>
-            <b
-              >All UBC students and alumni are welcome and do not need to
-              register to attend! Bring your UBC card with you to access the
-              venue.</b
-            >
-          </p>
-          <p>
-            To learn more about our event last year, see
-            <a href="/tcf2025/" style="color:white;"> TCF 2025</a>
-          </p>
-          <p>Questions? Email vpx@ubccsss.org</p>
+    <div id="tcfHeroCarousel" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="d-md-block hero-header-content">
+          <div class="mx-auto py-5 my-5">
+            <h1 class="display-1 fw-bold">Technical Career Fair&nbsp;2026</h1>
+            <p class="hero-header-text">
+              January 29, 2026 &mdash; 10AM &ndash; 4PM PT
+            </p>
+            <p>
+              <b>
+                All UBC students and alumni are welcome and do not need to
+                register to attend! Bring your UBC card with you to access the
+                venue.
+              </b>
+            </p>
+            <p>
+              To learn more about our event last year, see
+              <a href="/tcf2025/" style="color:white;">TCF 2025</a>
+            </p>
+            <p>
+              Questions? Email
+              <a href="mailto:vpx@ubccsss.org" style="color:white;"
+                >vpx@ubccsss.org</a
+              >
+            </p>
+          </div>
+        </div>
+        <div class="carousel-item active" data-bs-interval="2000">
+          <img
+            src="/files/tcf2024-1.jpg"
+            class="d-block w-100"
+            alt="TCF photo 1" />
+        </div>
+        <div class="carousel-item" data-bs-interval="5000">
+          <img
+            src="/files/tcf2024-2.jpg"
+            class="d-block w-100"
+            alt="TCF photo 2" />
+        </div>
+        <div class="carousel-item" data-bs-interval="5000">
+          <img
+            src="/files/tcf2024-3.jpg"
+            class="d-block w-100"
+            alt="TCF photo 3" />
+        </div>
+        <div class="carousel-item" data-bs-interval="5000">
+          <img
+            src="/files/tcf2024-4.jpg"
+            class="d-block w-100"
+            alt="TCF photo 4" />
+        </div>
+        <div class="carousel-indicators">
+          <button
+            type="button"
+            data-bs-target="#tcfHeroCarousel"
+            data-bs-slide-to="0"
+            class="active"
+            aria-current="true"
+            aria-label="Slide 1"></button>
+          <button
+            type="button"
+            data-bs-target="#tcfHeroCarousel"
+            data-bs-slide-to="1"
+            aria-label="Slide 2"></button>
+          <button
+            type="button"
+            data-bs-target="#tcfHeroCarousel"
+            data-bs-slide-to="2"
+            aria-label="Slide 3"></button>
+          <button
+            type="button"
+            data-bs-target="#tcfHeroCarousel"
+            data-bs-slide-to="3"
+            aria-label="Slide 4"></button>
         </div>
       </div>
     </div>
@@ -113,16 +168,21 @@
     </div>
     <div class="background-blue">
       <div class="container" id="companies">
-        <h1 class="text-center mb-0">16+ Companies Attending</h1>
+        <h1 class="text-center mb-0">
+          <!-- TODO: UNCOMMENT WHEN LIST IS FINALIZED -->
+          <!-- {{ len (where .Pages ".Params.layout" "tcf-company-2026") }} -->
+          18+ Companies Attending
+        </h1>
+        <h6 class="text-center mt-3">
+          The deadline to register is <strong>December 15, 2025</strong>
+        </h6>
         <p class="text-center mt-3">
-          To be announced soon!
-          <br />
           Are you a company looking to attend the career fair?
           <a
-            href="https://ubccsss.org/files/tcf2025/UBC-CSSS-2025-TCF-Package.pdf"
+            href="https://ubccsss.org/files/tcf2026/UBC-CSSS-2026-TCF-Package.pdf"
             target="_blank"
             rel="noopener noreferrer"
-            >See our event package from last year</a
+            >See our event package</a
           >
           and
           <a
@@ -132,6 +192,7 @@
             >register for TCF 2026</a
           >
         </p>
+        <p class="text-center mt-4">To be announced soon!</p>
         <div class="row pt-4">
           {{ range first 12 (sort (where .Pages ".Params.layout" "tcf-company-2026")) }}
             {{ if .Params.imageLink }}
@@ -170,11 +231,12 @@
             {{ end }}
           {{ end }}
         </div>
-        <div class="d-flex flex-row justify-content-center pt-4">
-          <a href="companies" class="mt-5 btn btn-outline-light"
-            ><i class="bi-people"></i> See more companies</a
-          >
-        </div>
+        <!-- TODO: UNCOMMENT ONCE ATTENDEE LIST HAS BEEN CONFIRMED -->
+        <!-- <div class="d-flex flex-row justify-content-center pt-4">
+          <a href="companies" class="mt-5 btn btn-outline-light">
+            <i class="bi-people"></i> See more companies
+          </a>
+        </div> -->
       </div>
     </div>
     <div class="container" id="event-info">
@@ -182,13 +244,18 @@
       <div class="row">
         <p>The TCF will take place:</p>
         <ul style="list-style-position: inside;">
-          <li>Time and location TBA</li>
+          <li>January 29, 2026</li>
+          <li>10AM &ndash; 4PM PST</li>
+          <li>
+            at the AMS Great Hall, AMS Student Nest (6133 University Blvd,
+            Vancouver, BC V6T 1Z1)
+          </li>
         </ul>
       </div>
       <div class="row">
         <div class="col-lg-6 col-sm-12">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d41662.42463858765!2d-123.32371425136719!3d49.25931209999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548672cc2fd41e03%3A0xc79dd4e7732aa2f3!2sThe%20University%20of%20British%20Columbia!5e0!3m2!1sen!2sca!4v1756009806069!5m2!1sen!2sca"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2140.4905281345596!2d-123.24965529367296!3d49.26725515677624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867398c216945b%3A0xe9bbdd7328c09b21!2sAMS%20Student%20Nest!5e0!3m2!1sen!2sca!4v1760413559780!5m2!1sen!2sca"
             style="border: 0; width: 100%; height: 100%; min-height: 400px;"
             allowfullscreen=""
             loading="lazy"
@@ -354,7 +421,9 @@
             class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
             <img class="bi" width="30" height="24" src="/logo.svg" />
           </a>
-          <span class="mb-3 mb-md-0 text-muted">© 2025-2026 UBC CSSS</span>
+          <span class="mb-3 mb-md-0 text-muted"
+            >© 2025&ndash;2026 UBC CSSS</span
+          >
         </div>
 
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
