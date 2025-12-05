@@ -169,9 +169,8 @@
     <div class="background-blue">
       <div class="container" id="companies">
         <h1 class="text-center mb-0">
-          <!-- TODO: UNCOMMENT WHEN LIST IS FINALIZED -->
-          <!-- {{ len (where .Pages ".Params.layout" "tcf-company-2026") }} -->
-          18+ Companies Attending
+          {{ len (where .Pages ".Params.layout" "tcf-company-2026") }}+
+          Companies Attending
         </h1>
         <h6 class="text-center mt-3">
           The deadline to register is <strong>December 15, 2025</strong>
@@ -192,7 +191,6 @@
             >register for TCF 2026</a
           >
         </p>
-        <p class="text-center mt-4">To be announced soon!</p>
         <div class="row pt-4">
           {{ range first 12 (sort (where .Pages ".Params.layout" "tcf-company-2026")) }}
             {{ if .Params.imageLink }}
@@ -221,9 +219,8 @@
                     </p>
                     {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" "Transportation and Distribution" "black" "Renewable Energy and Waste Management" "dark" }}
                     {{ range .Params.industry }}
-                      <span class="badge bg-{{ index $badge_colors . }}"
-                        >{{ . }}</span
-                      >
+                      {{ $color := default "black" (index $badge_colors .) }}
+                      <span class="badge bg-{{ $color }}">{{ . }}</span>
                     {{ end }}
                   </div>
                 </div>
@@ -231,12 +228,11 @@
             {{ end }}
           {{ end }}
         </div>
-        <!-- TODO: UNCOMMENT ONCE ATTENDEE LIST HAS BEEN CONFIRMED -->
-        <!-- <div class="d-flex flex-row justify-content-center pt-4">
+        <div class="d-flex flex-row justify-content-center pt-4">
           <a href="companies" class="mt-5 btn btn-outline-light">
             <i class="bi-people"></i> See more companies
           </a>
-        </div> -->
+        </div>
       </div>
     </div>
     <div class="container" id="event-info">
