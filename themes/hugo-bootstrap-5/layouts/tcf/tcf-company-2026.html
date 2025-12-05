@@ -63,7 +63,8 @@
           {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" "Transportation and Distribution" "black" "Renewable Energy and Waste Management" "dark" }}
           <p>
             {{ range .Params.industry }}
-              <span class="badge bg-{{ index $badge_colors . }}">{{ . }}</span>
+              {{ $color := default "black" (index $badge_colors .) }}
+              <span class="badge bg-{{ $color }}">{{ . }}</span>
             {{ end }}
           </p>
           <div class="d-flex justify-content-center">
