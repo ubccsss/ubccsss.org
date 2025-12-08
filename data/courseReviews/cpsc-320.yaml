@@ -1,4 +1,12 @@
 reviews:
+  - author: Shaurya Thareja
+    authorLink: https://www.github.com/xshauryaa
+    date: 2025-12-08
+    review: |
+      The course - while it was hard as hell - was a highly useful course in the bigger picture. Learning complex algorithm patterns such as DP and D&C has helped visualize problems in a more constructive manner. With those two specifically, you will learn the value of what it actually means to "trust the natural recursion" - just doing so makes the design process so much more intuitive instead of thinking about solving every subproblem. 
+    difficulty: 4.5
+    quality: 4.5
+    sessionTaken: 2025W1
   - author: ushankab
     authorLink: 
     date: 2025-04-27
