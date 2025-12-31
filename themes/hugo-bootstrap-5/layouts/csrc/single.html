@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+  <head>
+    {{ partial "head-meta" . }}
+
+
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    <title>
+      {{ block "title" . }}
+        {{ .Title }}{{ if ne .Title .Site.Title }}
+          {{ if not (strings.HasSuffix .Title " ") }}&nbsp;{{ end }}|
+          {{ .Site.Title }}
+        {{ end }}
+      {{ end }}
+    </title>
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.2/css/bootstrap.min.css"
+      integrity="sha512-CpIKUSyh9QX2+zSdfGP+eWLx23C8Dj9/XmHjZY2uDtfkdLGo0uY12jgcnkX9vXOgYajEKb/jiw67EYm+kBf+6g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer" />
+
+    <link href="{{ "css/style.css" | relURL }}" rel="stylesheet" />
+
+    {{ range .AlternativeOutputFormats -}}
+      <link
+        rel="{{ .Rel }}"
+        type="{{ .MediaType.Type }}"
+        href="{{ .Permalink | safeURL }}" />
+    {{ end -}}
+    {{ template "_internal/google_analytics_async.html" . }}
+    {{ partial "head-custom.html" . }}
+  </head>
+  <body>
+    {{ block "header" . }}{{ partial "header" . }}{{ end }}
+    {{ block "body" . }}
+      <div class="container pb-4">
+        <div class="row">
+          <div class="col-sm">
+            <header>
+              <h2 class="blog-post-title">
+                <a class="text-dark text-decoration-none"
+                  >{{ .Title | markdownify }}</a
+                >
+              </h2>
+              <h6 class="blog-post-title">
+                <a class="text-muted text-decoration-none"
+                  >{{ .Params.location }} &bull; {{ .Params.target }}</a
+                >
+              </h6>
+              <hr />
+            </header>
+            {{ .Content }}
+          </div>
+
+          <aside class="col-lg-3 ml-auto blog-sidebar pt-lg-5">
+            <section>
+              <header>
+                <h4 class="blog-post-title">
+                  <a class="text-dark text-decoration-none">Important Dates</a>
+                </h4>
+              </header>
+              {{ with $.GetPage "dates" }}
+                {{ .Content }}
+              {{ end }}
+            </section>
+
+            <section>
+              <header>
+                <h4 class="blog-post-title">
+                  <a class="text-dark text-decoration-none">Sponsors</a>
+                </h4>
+              </header>
+              {{ range .Params.sponsors }}
+                <p>
+                  <img
+                    src="{{ .imageLink }}"
+                    alt="{{ .name }}"
+                    title="{{ .name }}" />
+                </p>
+              {{ end }}
+            </section>
+
+            <section>
+              <h4>Keep Up!</h4>
+              <ul style="list-style: none; padding: 0; margin: 0;">
+                {{ range $.Site.Data.social }}
+                  <li>
+                    <a href="{{ .link }}">
+                      <img
+                        src="{{ .icon }}"
+                        alt="{{ .title }} Icon"
+                        class="icon-image" />
+                      {{ if or (eq .title "Discord") (eq .title "Instagram") }}
+                        <b>{{ .title }}</b>
+                      {{ else }}
+                        {{ .title }}
+                      {{ end }}
+                    </a>
+                  </li>
+                {{ end }}
+              </ul>
+            </section>
+          </aside>
+        </div>
+      </div>
+    {{ end }}
+
+    {{ block "footer" . }}{{ partial "footer" . }}{{ end }}
+
+
+    <!-- Bootstrap and Popper -->
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.2/js/bootstrap.bundle.min.js"
+      integrity="sha512-BOsvKbLb0dB1IVplOL9ptU1EYA+LuCKEluZWRUYG73hxqNBU85JBIBhPGwhQl7O633KtkjMv8lvxZcWP+N3V3w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"></script>
+  </body>
+</html>

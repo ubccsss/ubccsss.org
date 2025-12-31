@@ -1,0 +1,26 @@
+<style>
+  .tbl-head {
+    background-color: var(--bs-table-striped-bg) !important;
+  }
+</style>
+
+<table class="table" style="width: 100%">
+  <tbody>
+    {{ $importantDates := $.Page.Params }}
+    {{ range .Params }}
+      {{ $importantDates = index $importantDates . }}
+    {{ end }}
+    {{ range $importantDates }}
+      <tr>
+        <td class="border-0 fw-bold tbl-head">{{ .category }}</td>
+      </tr>
+      {{ range .deadlines }}
+        <tr class="small">
+          <td class="border-0 p-1">
+            <span class="fw-bold">{{ .date }}</span> &emsp; {{ .desc }}
+          </td>
+        </tr>
+      {{ end }}
+    {{ end }}
+  </tbody>
+</table>
