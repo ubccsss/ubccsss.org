@@ -23,9 +23,9 @@ main:
     name: Technical Career Fair
     url: /tcf/
     weight: -80
-  - identifier: csrc
+  - identifier: cssrc
     name: Research Conference
-    url: /csrc/
+    url: /cssrc/
     weight: -70
   - identifier: contact
     name: Contact
