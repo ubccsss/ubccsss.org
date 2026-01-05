@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+  <head>
+    {{ partial "head-meta" . }}
+
+
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    <title>{{ .Title }}</title>
+
+    <!-- Open Graph Tags -->
+    <!-- <meta property="og:image" content="/files/cssrc.png" />
+    <meta name="twitter:card" content="summary_large_image" /> -->
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
+      integrity="sha384-tViUnnbYAV00FLIhhi3v/dWt3Jxw4gZQcNoSCxCIFNJVCx7/D55/wXsrNIRANwdD"
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer" />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+      crossorigin="anonymous"></script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
+      rel="stylesheet" />
+
+    <link href="{{ "css/style.css" | relURL }}" rel="stylesheet" />
+    <link href="{{ "css/cssrc.css" | relURL }}" rel="stylesheet" />
+
+    {{ range .AlternativeOutputFormats -}}
+      <link
+        rel="{{ .Rel }}"
+        type="{{ .MediaType.Type }}"
+        href="{{ .Permalink | safeURL }}" />
+    {{ end -}}
+    {{ template "_internal/google_analytics_async.html" . }}
+    {{ partial "head-custom.html" . }}
+  </head>
+
+  <body class="bg-light">
+    <header class="mb-5">
+      <nav
+        class="fixed-top navbar navbar-expand-md navbar-light bg-light px-lg-5 border-bottom">
+        <div class="container-fluid">
+          <span class="d-none d-sm-inline h4">{{ .Params.ShortTitle }}</span>
+          <a class="navbar-brand mr-auto" href="">
+            <img
+              class="logo"
+              src="/files/cssrc/2026/ubc_logo.jpg"
+              alt="CSSRC Logo" />
+          </a>
+          <span class="d-flex d-sm-none h1 flex-grow-1">CSSRC 2026</span>
+          <button
+            class="navbar-toggler border-0"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarCollapse"
+            aria-controls="navbarCollapse"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+            <i class="bi bi-list fs-2"></i>
+          </button>
+          <div
+            class="collapse navbar-collapse flex-grow-0 flex-row-reverse"
+            id="navbarCollapse">
+            <ul class="navbar-nav gap-3">
+              <li class="nav-item">
+                <a class="nav-link" href="">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="schedule">Schedule</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#sponsors">Sponsors</a>
+              </li>
+              <li class="nav-item dropdown-nav">
+                <a
+                  class="nav-link dropdown-nav-toggle"
+                  href="#contact"
+                  id="navbarDropdown">
+                  Contact
+                </a>
+                <div
+                  class="dropdown-menu bg-light"
+                  aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item nav-link" href="#">Action</a>
+                  <a class="dropdown-item nav-link" href="#">Another action</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item nav-link" href="#"
+                    >Something else here</a
+                  >
+                </div>
+              </li>
+              <!--Dark Mode Button-->
+              <li class="nav-item align-self-end">
+                <input type="checkbox" onchange="darkMode()" id="darkMode" />
+                <label for="darkMode" class="btn btn-outline-secondary"></label>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- <div class="backdrop z-n1 position-absolute">
+      <img src="/files/cssrc/2026/banner.jpg" alt="CSSRC Banner" class="img-fluid" />
+    </div> -->
+
+    <section class="col-xs col-sm-6 mx-auto pt-5">
+      <div class="container" id="about">
+        <h1>UBC Computer Science Student Research Conference 2026</h1>
+        <h2>021-2366 Main Mall, Vancouver, V6T 1Z4 &bull; February 27, 2026</h2>
+        <div class="row">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+            bibendum, nibh quis feugiat tempor, tellus neque tempus dolor, non
+            euismod metus orci sed odio. Quisque viverra, ex id consectetur
+            consectetur, lectus dolor rutrum sapien, eu sodales tortor sapien
+            nec sapien. Pellentesque eleifend facilisis urna nec mattis.
+            Praesent sodales ultricies lacus, nec rhoncus nisl tempus sit amet.
+            Vestibulum id ornare tortor, sed lobortis lorem. In tincidunt nisi
+            tempus ex hendrerit porttitor. Nulla pulvinar, ante tristique mollis
+            vehicula, nisi sem blandit ipsum, quis aliquet velit mi nec urna.
+            Praesent sed nunc ullamcorper, faucibus urna sed, aliquam felis.
+            Fusce a molestie lacus, ac ullamcorper libero. Nunc laoreet metus a
+            lacus fermentum lacinia. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit. Maecenas egestas leo vel justo mollis fringilla.
+            Vivamus a imperdiet sem. Sed pharetra vulputate libero vitae
+            maximus. Nullam non volutpat massa, vel tincidunt odio.
+            <br /><br />
+            Sed dictum molestie sapien, sed interdum mi maximus vel. Aliquam
+            vestibulum sed nisi at ultrices. Integer efficitur gravida nunc, nec
+            volutpat augue luctus sit amet. Aenean bibendum leo in tellus
+            eleifend maximus. Etiam ut ex quis ligula congue ornare et nec eros.
+            Sed id maximus purus. Sed sed dictum magna.
+            <br /><br />
+            Nullam ac metus mi. Cras facilisis nunc a pretium imperdiet. Proin
+            nec maximus elit. Etiam vel mauris et risus lobortis euismod. Aenean
+            sollicitudin velit eget diam scelerisque mollis. Donec porttitor
+            odio ut libero consequat dapibus. Phasellus massa nisi, lobortis sed
+            ullamcorper sed, mollis vitae orci. Nam molestie erat est, sit amet
+            suscipit metus consequat at. Proin eu urna finibus lacus tempus
+            molestie sed eu libero. Quisque consequat vel sem quis imperdiet.
+            Duis pellentesque facilisis vestibulum. Vivamus convallis sapien a
+            lacus dapibus, quis tempus sem ultricies. Nam luctus, urna at dictum
+            posuere, magna sapien scelerisque lectus, vitae finibus ante augue
+            at urna.
+          </p>
+        </div>
+      </div>
+
+      <div class="container" id="dates">
+        <h1>Important Dates</h1>
+        <div class="row">
+          <table class="table table-light table-bordered mx-2 overflow-auto">
+            <thead class="fw-bold tbl-head">
+              <tr>
+                <td>A</td>
+                <td>B</td>
+                <td>C</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>A1</td>
+                <td>B1</td>
+                <td>C1</td>
+              </tr>
+              <tr>
+                <td>A2</td>
+                <td>B2</td>
+                <td>C2</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="container" id="sponsors">
+        <h1>Sponsors</h1>
+        <div class="row">
+          <p>
+            Integer et elementum tellus. Maecenas porttitor leo vitae nulla
+            fringilla, sed blandit quam condimentum. In hac habitasse platea
+            dictumst. Vivamus blandit quis mauris id fringilla. Fusce egestas
+            sem a quam molestie, quis tristique quam auctor. Vestibulum quis
+            bibendum ligula. Nunc nulla justo, aliquam non nisi sed, blandit
+            gravida lacus.
+            <br /><br />
+            Nulla non libero vitae orci vehicula eleifend nec quis sem. Proin
+            scelerisque erat vel tellus fringilla rhoncus. Sed interdum ligula
+            gravida tortor consequat, quis finibus felis condimentum. Nam
+            porttitor est ut felis ultrices, et ullamcorper tellus laoreet.
+            Donec feugiat fermentum justo, vel lacinia neque ornare nec. Integer
+            in auctor sapien. Sed pharetra sollicitudin rutrum. Maecenas vitae
+            posuere diam. Nunc nisl tellus, tempus id pellentesque non, cursus a
+            odio.
+          </p>
+        </div>
+      </div>
+
+      <div class="container" id="faq">
+        <h1>FAQ</h1>
+        <div class="row">
+          <p>
+            Mauris condimentum turpis justo, id pretium erat malesuada sit amet.
+            Donec nibh lorem, sodales non venenatis sed, luctus ac ligula. Nam
+            orci leo, scelerisque ac pretium quis, condimentum eget erat.
+            Pellentesque luctus mi sed enim venenatis, vel commodo ante egestas.
+            Mauris vel mauris nec nibh tempus ullamcorper vitae sed neque.
+            Maecenas aliquet neque tellus, ac consectetur nulla facilisis vel.
+            Donec at laoreet eros. In eget massa id mauris lacinia fermentum
+            eget non quam. Proin et enim sed velit tincidunt rhoncus.
+            <br /><br />
+            Curabitur vel hendrerit ex, vitae consectetur magna. Duis
+            scelerisque, libero in facilisis mattis, diam massa convallis erat,
+            eget placerat dolor est ultrices purus. Ut molestie fringilla nulla
+            in elementum. In vel orci at odio sodales porta quis sed justo.
+            Praesent leo nisl, rutrum in felis a, lacinia suscipit dolor. Class
+            aptent taciti sociosqu ad litora torquent per conubia nostra, per
+            inceptos himenaeos. Aliquam in ipsum tempor odio volutpat dictum.
+            Fusce suscipit purus ante, at mollis ante consectetur eu. Duis et
+            sagittis augue. Donec at elementum tortor. Quisque pretium, felis ac
+            hendrerit consequat, lacus leo fringilla nibh, a elementum metus
+            risus sit amet lectus.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <footer
+      class="container d-flex flex-wrap justify-content-between align-items-center pt-5 pb-5 my-4 border-top">
+      <div class="col-md-4 d-flex align-items-center">
+        <a
+          href="/"
+          class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
+          <img class="bi" width="30" height="30" src="/logo.svg" />
+        </a>
+        x&nbsp;&nbsp;
+        <a
+          href="/"
+          class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
+          <img class="bi" width="30" height="30" src="/logo.svg" />
+        </a>
+        <span class="mb-3 mb-md-0 text-muted">© UBC CSGA x CSSS</span>
+      </div>
+
+      <ul
+        class="nav fs-4 col-md-4 justify-content-end list-unstyled d-flex gap-4">
+        <li>
+          <a href="https://www.instagram.com/ubc_csss/">
+            <i class="bi bi-instagram"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/ubccsss">
+            <i class="bi bi-twitter-x"></i>
+          </a>
+        </li>
+        <li>
+          <a href="http://ubccsss.org/discord">
+            <i class="bi bi-discord"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/ubccsss">
+            <i class="bi bi-facebook"></i>
+          </a>
+        </li>
+      </ul>
+    </footer>
+  </body>
+
+  <!--Add Dark Mode Support-->
+  <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.73/darkreader.min.js"></script>
+  <script>
+    if (localStorage.getItem("darkmode") === "true") {
+      DarkReader.enable();
+      document.getElementById("darkMode").checked = true;
+      // Delay added to ensure DarkReader completes styling before icon color update
+      setTimeout(() => updateIconColors(true), 100);
+    } else {
+      updateIconColors(false);
+    }
+
+    function darkMode() {
+      const wasDarkmode = localStorage.getItem("darkmode") === "true";
+      localStorage.setItem("darkmode", !wasDarkmode);
+      if (DarkReader.isEnabled()) {
+        DarkReader.disable();
+        updateIconColors(false);
+      } else {
+        DarkReader.enable();
+        updateIconColors(true);
+      }
+    }
+
+    function updateIconColors(isDarkMode) {
+      const socialIcons = document.querySelectorAll(".icon-image");
+      const carouselControlNextIcons = document.querySelectorAll(
+        ".carousel-control-next-icon"
+      );
+      const carouselControlPrevIcons = document.querySelectorAll(
+        ".carousel-control-prev-icon"
+      );
+      const carouselIcons = [
+        ...carouselControlNextIcons,
+        ...carouselControlPrevIcons
+      ];
+      socialIcons.forEach((icon) => {
+        icon.style.filter = isDarkMode ? "invert(100%)" : "invert(0%)";
+      });
+      carouselIcons.forEach((icon) => {
+        icon.style.filter = isDarkMode ? "invert(0%)" : "invert(100%)";
+      });
+    }
+  </script>
+</html>
