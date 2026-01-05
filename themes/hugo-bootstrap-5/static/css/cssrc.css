@@ -23,6 +23,7 @@ h2 {
 }
 p,
 span,
+label,
 td {
   color: var(--text-blue) !important;
   font-family: "Source Sans 3", sans-serif;
@@ -33,6 +34,9 @@ thead td {
   background: var(--blue-chalk) !important;
 }
 
+nav {
+  transition: transform 0.3s ease;
+}
 nav .navbar-nav li a {
   color: var(--text-blue) !important;
 }
@@ -40,19 +44,13 @@ nav .navbar-nav li a:hover {
   color: var(--text-golden) !important;
 }
 
-.logo {
-  max-width: 100%;
-  height: auto;
-  width: 50px;
-  object-fit: cover;
+footer {
+  padding-left: 5rem !important;
+  padding-right: 5rem !important;
+  max-width: none !important;
+  background-color: var(--blue-chalk);
+  color: var(--text-blue);
 }
-
-.backdrop {
-  max-height: 500px;
-  overflow: hidden;
-  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0));
-}
-
 footer .nav a {
   display: flex;
   justify-content: center;
@@ -68,6 +66,25 @@ footer .nav a {
 footer .nav a:hover {
   color: var(--text-golden);
   transform: scale(1.2);
+}
+
+.logo {
+  max-width: 100%;
+  height: auto;
+  width: 50px;
+  object-fit: cover;
+}
+
+.backdrop {
+  max-height: 800px;
+  overflow: hidden;
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0));
+}
+
+.container {
+  padding: 3rem;
+  padding-top: 1.5rem;
+  padding-bottom: 0.5rem;
 }
 
 .dropdown-nav:hover > .dropdown-menu {
@@ -88,11 +105,6 @@ footer .nav a:hover {
   border-bottom: 0.3em solid;
   border-right: 0.3em solid transparent;
   border-left: 0.3em solid transparent;
-}
-.container {
-  padding: 3rem;
-  padding-top: 1.5rem;
-  padding-bottom: 0.5rem;
 }
 
 /* Padding for anchors to account for fixed navbar */

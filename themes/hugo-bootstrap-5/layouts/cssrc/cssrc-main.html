@@ -51,78 +51,22 @@
   </head>
 
   <body class="bg-light">
-    <header class="mb-5">
-      <nav
-        class="fixed-top navbar navbar-expand-md navbar-light bg-light px-lg-5 border-bottom">
-        <div class="container-fluid">
-          <span class="d-none d-sm-inline h4">{{ .Params.ShortTitle }}</span>
-          <a class="navbar-brand mr-auto" href="">
-            <img
-              class="logo"
-              src="/files/cssrc/2026/ubc_logo.jpg"
-              alt="CSSRC Logo" />
-          </a>
-          <span class="d-flex d-sm-none h1 flex-grow-1">CSSRC 2026</span>
-          <button
-            class="navbar-toggler border-0"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarCollapse"
-            aria-controls="navbarCollapse"
-            aria-expanded="false"
-            aria-label="Toggle navigation">
-            <i class="bi bi-list fs-2"></i>
-          </button>
-          <div
-            class="collapse navbar-collapse flex-grow-0 flex-row-reverse"
-            id="navbarCollapse">
-            <ul class="navbar-nav gap-3">
-              <li class="nav-item">
-                <a class="nav-link" href="">About</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="schedule">Schedule</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#sponsors">Sponsors</a>
-              </li>
-              <li class="nav-item dropdown-nav">
-                <a
-                  class="nav-link dropdown-nav-toggle"
-                  href="#contact"
-                  id="navbarDropdown">
-                  Contact
-                </a>
-                <div
-                  class="dropdown-menu bg-light"
-                  aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item nav-link" href="#">Action</a>
-                  <a class="dropdown-item nav-link" href="#">Another action</a>
-                  <div class="dropdown-divider"></div>
-                  <a class="dropdown-item nav-link" href="#"
-                    >Something else here</a
-                  >
-                </div>
-              </li>
-              <!--Dark Mode Button-->
-              <li class="nav-item align-self-end">
-                <input type="checkbox" onchange="darkMode()" id="darkMode" />
-                <label for="darkMode" class="btn btn-outline-secondary"></label>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </nav>
-    </header>
+    {{ partial "cssrc/header" . }}
+
 
     <!-- <div class="backdrop z-n1 position-absolute">
       <img src="/files/cssrc/2026/banner.jpg" alt="CSSRC Banner" class="img-fluid" />
     </div> -->
 
-    <section class="col-xs col-sm-6 mx-auto pt-5">
-      <div class="container" id="about">
+    <section
+      class="col-xs col-sm-6 mx-auto pt-5"
+      data-bs-toggle="collapse"
+      data-bs-target=".navbar-collapse.show">
+      <div class="container pt-sm-5" id="about">
         <h1>UBC Computer Science Student Research Conference 2026</h1>
-        <h2>021-2366 Main Mall, Vancouver, V6T 1Z4 &bull; February 27, 2026</h2>
+        <h2 class="py-1">
+          021-2366 Main Mall, Vancouver, V6T 1Z4 &bull; February 27, 2026
+        </h2>
         <div class="row">
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
@@ -241,50 +185,10 @@
       </div>
     </section>
 
-    <footer
-      class="container d-flex flex-wrap justify-content-between align-items-center pt-5 pb-5 my-4 border-top">
-      <div class="col-md-4 d-flex align-items-center">
-        <a
-          href="/"
-          class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
-          <img class="bi" width="30" height="30" src="/logo.svg" />
-        </a>
-        x&nbsp;&nbsp;
-        <a
-          href="/"
-          class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
-          <img class="bi" width="30" height="30" src="/logo.svg" />
-        </a>
-        <span class="mb-3 mb-md-0 text-muted">© UBC CSGA x CSSS</span>
-      </div>
-
-      <ul
-        class="nav fs-4 col-md-4 justify-content-end list-unstyled d-flex gap-4">
-        <li>
-          <a href="https://www.instagram.com/ubc_csss/">
-            <i class="bi bi-instagram"></i>
-          </a>
-        </li>
-        <li>
-          <a href="https://twitter.com/ubccsss">
-            <i class="bi bi-twitter-x"></i>
-          </a>
-        </li>
-        <li>
-          <a href="http://ubccsss.org/discord">
-            <i class="bi bi-discord"></i>
-          </a>
-        </li>
-        <li>
-          <a href="https://www.facebook.com/ubccsss">
-            <i class="bi bi-facebook"></i>
-          </a>
-        </li>
-      </ul>
-    </footer>
+    {{ partial "cssrc/footer" . }}
   </body>
 
-  <!--Add Dark Mode Support-->
+  <!-- Add Dark Mode Support -->
   <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.73/darkreader.min.js"></script>
   <script>
     if (localStorage.getItem("darkmode") === "true") {

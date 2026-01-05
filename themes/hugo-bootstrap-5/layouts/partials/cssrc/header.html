@@ -1,0 +1,95 @@
+<header class="mb-5">
+  <nav
+    id="navbar"
+    class="fixed-top navbar navbar-expand-md navbar-light bg-light px-lg-5 border-bottom">
+    <div class="container-fluid">
+      <span class="d-none d-sm-inline">
+        <h4>{{ .Params.ShortTitle }}</h4>
+      </span>
+      <a class="navbar-brand mr-auto" href="">
+        <img
+          class="logo"
+          src="/files/cssrc/2026/ubc_logo.jpg"
+          alt="CSSRC Logo" />
+      </a>
+      <span class="d-flex d-sm-none flex-grow-1">
+        <h3 class="mb-0">CSSRC 2026</h3>
+      </span>
+      <button
+        class="navbar-toggler border-0"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarCollapse"
+        aria-controls="navbarCollapse"
+        aria-expanded="false"
+        aria-label="Toggle navigation">
+        <i class="bi bi-list fs-2"></i>
+      </button>
+      <div
+        class="collapse navbar-collapse flex-grow-0 flex-row-reverse"
+        id="navbarCollapse">
+        <ul class="navbar-nav gap-2">
+          <li class="nav-item">
+            <a class="nav-link" href="">About</a>
+          </li>
+          <li class="nav-item dropdown-nav">
+            <a
+              class="nav-link dropdown-nav-toggle"
+              href="#attending"
+              id="navbarDropdown">
+              Attending
+            </a>
+            <div
+              class="dropdown-menu bg-light"
+              aria-labelledby="navbarDropdown">
+              <a class="dropdown-item nav-link" href="#">Register Now</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item nav-link" href="#">Action</a>
+              <a class="dropdown-item nav-link" href="#">Another action</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="schedule">Schedule</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#sponsors">Sponsors</a>
+          </li>
+          <li class="nav-item dropdown-nav">
+            <a
+              class="nav-link dropdown-nav-toggle"
+              href="#contact"
+              id="navbarDropdown">
+              Contact
+            </a>
+            <div
+              class="dropdown-menu bg-light"
+              aria-labelledby="navbarDropdown">
+              <a class="dropdown-item nav-link" href="#">Action</a>
+              <a class="dropdown-item nav-link" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item nav-link" href="#">Something else here</a>
+            </div>
+          </li>
+          <!--Dark Mode Button-->
+          <li class="nav-item align-self-end">
+            <input type="checkbox" onchange="darkMode()" id="darkMode" />
+            <label for="darkMode" class="btn btn-outline-secondary"></label>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<!-- Navbar Scrolling -->
+<script>
+  var prevPos = window.pageYOffset;
+  window.onscroll = function () {
+    var currPos = window.pageYOffset;
+    prevPos > currPos
+      ? (document.getElementById("navbar").style.transform = "translateY(0)")
+      : (document.getElementById("navbar").style.transform =
+          "translateY(-100%)");
+    prevPos = currPos;
+  };
+</script>
