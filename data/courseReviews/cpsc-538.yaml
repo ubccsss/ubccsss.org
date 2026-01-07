@@ -1,0 +1,17 @@
+reviews:
+  - author: deadbeef
+    authorLink: 
+    date: 2025-12-18
+    review: |
+      538M: Systems Security
+      
+      A whirlwind tour of the subject. Wonderful class, Aastha provides fantastic feedback on your writing, and the class discussions were all super interesting. 
+      
+      This isn't so much in the style of MIT 6.858. Instead of practical labs, you have one big research project, which you should start thinking about (and asking the prof about) *early*. It's best if you have some sense of what you'd like to do going into the course, but totally doable if not.
+      
+      You do miss out on the practical side through labs, and the syllabus is more interested in modern research, but the midterm exam gives you an opportunity to apply what you've learned to some system design style questions.
+      
+      This course is very time consuming. No less than 436A (though I suppose this depends on your project).
+    difficulty: 4.5
+    quality: 5
+    sessionTaken: 2025W1
