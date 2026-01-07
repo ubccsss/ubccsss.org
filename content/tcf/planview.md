@@ -4,7 +4,7 @@ title: Planview
 link: https://www.planview.com/
 short_bio: >
   Planview is a leading provider of portfolio management and work management software solutions that help organizations accelerate the achievement of their strategic objectives and deliver more value.
-imageLink: /files/tcf2026/placeholder.png
+imageLink: /files/tcf2026/planview.jpg
 industry:
   - Information Technology
   - Consulting

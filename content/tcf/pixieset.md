@@ -4,7 +4,7 @@ title: Pixieset
 link: https://pixieset.com/
 short_bio: >
   Pixieset is a complete business platform built for creative professionals, offering beautiful galleries, seamless client management, and powerful e-commerce tools.
-imageLink: /files/tcf2026/placeholder.png
+imageLink: /files/tcf2026/pixieset.jpg
 industry:
   - Information Technology
   - Art, Design, Digital Media and Entertainment

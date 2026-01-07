@@ -10,7 +10,7 @@ short_bio: >
   The Insurance Corporation of British Columbia (ICBC) is a provincial Crown corporation established in 1973 to provide universal auto insurance to BC motorists. In addition, the Corporation is responsible for driver licensing, vehicle registration and licensing. 
 
   All motorists in BC are required to buy a basic package of ICBC Autoplan insurance that provides coverage for third party liability protection, accident benefits, underinsured motorist protection, hit-and-run and uninsured motorists protection and inverse liability.
-imageLink: /files/tcf2025/icbc.png
+imageLink: /files/tcf2026/icbc.png
 industry:
   - Banking, Financial and Insurance Services
 majors: Computer Science, Business & Computer Science, Mathematics, Data Science, Computer Engineering

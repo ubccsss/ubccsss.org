@@ -8,7 +8,7 @@ short_bio: >
   Here, you'll work with groundbreaking technology and learn from the best all over the world, united with the common goal to delight our customers.
 
   Our internship roles for students, and our full-time roles for graduates, give you the chance to make a real impact on the lives of millions.
-imageLink: /files/tcf2025/amazon.png
+imageLink: /files/tcf2026/amazon.png
 industry:
   - Information Technology
 majors: Computer Science, Mathematics, Data Science, Computer Engineering, Electrical Engineering, Mechanical Engineering, Other Engineering

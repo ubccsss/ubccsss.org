@@ -4,7 +4,7 @@ title: Cambio Earth
 link: https://www.cambio.earth/
 short_bio: >
   Cambio Earth is building technology to help organizations measure, reduce, and report on their environmental impact through innovative climate solutions.
-imageLink: /files/tcf2026/placeholder.png
+imageLink: /files/tcf2026/cambio-earth.jpg
 industry:
   - Information Technology
   - Renewable Energy and Waste Management

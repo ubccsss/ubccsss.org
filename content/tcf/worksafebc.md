@@ -6,7 +6,7 @@ short_bio: >
   We are a government agency dedicated to improving the health and safety of workplaces across British Columbia. We serve approximately 2.5 million workers and 249,000 employers across B.C.
 
   With a legislated responsibility for establishing and enforcing occupational health and safety standards, we are committed to making a difference to the people of B.C. - one worker, one employer, one workplace at a time.
-imageLink: /files/tcf2025/worksafe.png
+imageLink: /files/tcf2026/worksafe.png
 industry:
   - Banking, Financial and Insurance Services
   - Government/Public Administration
