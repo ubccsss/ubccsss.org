@@ -43,3 +43,7 @@
 .bg-dark-blue {
   background-color: #000435 !important;
 }
+/* Default black badge background */
+.bg-black {
+  background-color: #000 !important;
+}
