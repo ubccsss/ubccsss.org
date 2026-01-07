@@ -4,7 +4,7 @@ title: Arc'teryx Equipment
 link: https://arcteryx.com/
 short_bio: >
   Based in North Vancouver, Arc'teryx is committed to innovation, building durable products that perform in the mountains, and supporting their guests to keep gear in play. Beyond design, they support community through mountain education, skill building and partnerships to increase access to the outdoors.
-imageLink: /files/tcf2025/arcteryx.jpg
+imageLink: /files/tcf2026/arcteryx.jpg
 industry:
   - Retail, Wholesale and Sales
 majors: Computer Science, Business & Computer Science, Data Science, Computer Engineering, Electrical Engineering, Mechanical Engineering, Biomedical Engineering, Other Engineering

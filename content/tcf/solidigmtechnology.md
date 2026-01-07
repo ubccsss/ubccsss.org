@@ -4,7 +4,7 @@ title: Solidigm Technology
 link: https://www.solidigm.com/
 short_bio: >
   Solidigm is a leading provider of innovative NAND flash memory solutions, enabling data center and client computing platforms with industry-leading capacity, performance, and reliability.
-imageLink: /files/tcf2026/placeholder.png
+imageLink: /files/tcf2026/solidigm.png
 industry:
   - Information Technology
   - Manufacturing

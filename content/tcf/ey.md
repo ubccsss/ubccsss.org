@@ -4,7 +4,7 @@ title: EY
 link: http://www.ey.com/ca/en/home
 short_bio: >
   EY's people in more than 150 countries are committed to operating with integrity, quality, and professionalism in the provision of audit, tax, transaction, and advisory services. We strive to help all of our people achieve their professional and personal goals through an inclusive environment that values everyone's contributions, appreciates diversity of thought, fosters growth, and provides continuous opportunities for development. Recognized as one of Canada's top employers, EY continually strives to be a great place to work
-imageLink: /files/tcf2026/placeholder.png
+imageLink: /files/tcf2026/ey.png
 industry:
   - Banking, Financial and Insurance Services
   - Consulting
