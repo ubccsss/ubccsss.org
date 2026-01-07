@@ -44,9 +44,71 @@ nav .navbar-nav li a:hover {
   color: var(--text-golden) !important;
 }
 
+.navbar-toggler {
+  width: 30px;
+  height: 30px;
+  margin-right: 5px;
+  position: relative;
+  transition: 0.5s ease-in-out;
+}
+.navbar-toggler,
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  outline: none;
+  box-shadow: none;
+  border: 0;
+}
+.navbar-toggler span {
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar Toggler */
+.toggler-icon {
+  display: block;
+  position: absolute;
+  height: 2px;
+  width: 100%;
+  background: var(--text-blue);
+  border-radius: 10px;
+  margin-top: 0;
+  opacity: 1;
+  left: 0;
+  transform: rotate(0deg);
+  transition: 0.25s ease-in-out;
+}
+html[data-darkreader-scheme="dark"] .toggler-icon {
+  background: var(--text-golden);
+}
+.navbar-toggler .top-bar {
+  transform: rotate(45deg);
+}
+.navbar-toggler .mid-bar {
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+.navbar-toggler .bot-bar {
+  transform: rotate(-45deg);
+}
+.navbar-toggler.collapsed .top-bar {
+  margin-top: -20px;
+  transform: rotate(0);
+}
+.navbar-toggler.collapsed .mid-bar {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+.navbar-toggler.collapsed .bot-bar {
+  margin-top: 20px;
+  transform: rotate(0);
+}
+
+.dropdown-item {
+  text-indent: 10px;
+}
+
 footer {
-  padding-left: 5rem !important;
-  padding-right: 5rem !important;
   max-width: none !important;
   background-color: var(--blue-chalk);
   color: var(--text-blue);

@@ -1,9 +1,9 @@
 <header class="mb-5">
   <nav
     id="navbar"
-    class="fixed-top navbar navbar-expand-md navbar-light bg-light px-lg-5 border-bottom">
+    class="fixed-top navbar navbar-expand-lg navbar-light bg-light px-lg-5 border-bottom">
     <div class="container-fluid">
-      <span class="d-none d-sm-inline">
+      <span class="d-none d-lg-inline">
         <h4>{{ .Params.ShortTitle }}</h4>
       </span>
       <a class="navbar-brand mr-auto" href="">
@@ -12,21 +12,23 @@
           src="/files/cssrc/2026/ubc_logo.jpg"
           alt="CSSRC Logo" />
       </a>
-      <span class="d-flex d-sm-none flex-grow-1">
+      <span class="d-flex d-lg-none flex-grow-1">
         <h3 class="mb-0">CSSRC 2026</h3>
       </span>
       <button
-        class="navbar-toggler border-0"
+        class="navbar-toggler collapsed d-lg-none d-flex flex-column justify-content-around border-0"
         type="button"
         data-bs-toggle="collapse"
         data-bs-target="#navbarCollapse"
         aria-controls="navbarCollapse"
         aria-expanded="false"
         aria-label="Toggle navigation">
-        <i class="bi bi-list fs-2"></i>
+        <i class="toggler-icon top-bar"></i>
+        <i class="toggler-icon mid-bar"></i>
+        <i class="toggler-icon bot-bar"></i>
       </button>
       <div
-        class="collapse navbar-collapse flex-grow-0 flex-row-reverse"
+        class="collapse navbar-collapse flex-grow-0 flex-row-reverse pb-2 pb-lg-0"
         id="navbarCollapse">
         <ul class="navbar-nav gap-2">
           <li class="nav-item">
@@ -42,10 +44,10 @@
             <div
               class="dropdown-menu bg-light"
               aria-labelledby="navbarDropdown">
-              <a class="dropdown-item nav-link" href="#">Register Now</a>
+              <a class="dropdown-item nav-link" href="#">> Register Now</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item nav-link" href="#">Action</a>
-              <a class="dropdown-item nav-link" href="#">Another action</a>
+              <a class="dropdown-item nav-link" href="#">> Action</a>
+              <a class="dropdown-item nav-link" href="#">> Another action</a>
             </div>
           </li>
           <li class="nav-item">
@@ -64,10 +66,12 @@
             <div
               class="dropdown-menu bg-light"
               aria-labelledby="navbarDropdown">
-              <a class="dropdown-item nav-link" href="#">Action</a>
-              <a class="dropdown-item nav-link" href="#">Another action</a>
+              <a class="dropdown-item nav-link" href="#">> Action</a>
+              <a class="dropdown-item nav-link" href="#">> Another action</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item nav-link" href="#">Something else here</a>
+              <a class="dropdown-item nav-link" href="#"
+                >> Something else here</a
+              >
             </div>
           </li>
           <!--Dark Mode Button-->
@@ -81,15 +85,31 @@
   </nav>
 </header>
 
-<!-- Navbar Scrolling -->
+<!-- Mobile Navbar -->
 <script>
+  // Hide navbar on scroll
   var prevPos = window.pageYOffset;
   window.onscroll = function () {
     var currPos = window.pageYOffset;
-    prevPos > currPos
-      ? (document.getElementById("navbar").style.transform = "translateY(0)")
-      : (document.getElementById("navbar").style.transform =
-          "translateY(-100%)");
+    prevPos <= currPos &&
+    prevPos > 50 &&
+    !document.getElementById("navbarCollapse").classList.contains("show")
+      ? (document.getElementById("navbar").style.transform =
+          "translateY(-100%)")
+      : (document.getElementById("navbar").style.transform = "translateY(0)");
     prevPos = currPos;
   };
+
+  // Close dropdown on click
+  document.addEventListener("click", function (event) {
+    if (!event.target.matches(".dropdown-nav-toggle")) {
+      var dropdowns = document.getElementsByClassName("dropdown-menu");
+      for (let i = 0; i < dropdowns.length; i++) {
+        var openDropdown = dropdowns[i];
+        if (openDropdown.classList.contains("show")) {
+          openDropdown.classList.remove("show");
+        }
+      }
+    }
+  });
 </script>
