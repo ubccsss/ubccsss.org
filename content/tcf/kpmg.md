@@ -4,7 +4,7 @@ title: KPMG
 link: https://kpmg.com/ca/en/home.html
 short_bio: >
   With more than 40 locations across Canada, KPMG employs more than 10,000 people and is home to a diverse workforce that inspires confidence, empowers change and drives innovation.
-imageLink: /files/tcf2026/kpmg.png
+imageLink: /files/tcf2026/placeholder.png
 industry:
   - Banking, Financial and Insurance Services
   - Consulting
