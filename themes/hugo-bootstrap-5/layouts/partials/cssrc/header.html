@@ -1,19 +1,15 @@
 <header class="mb-5">
   <nav
     id="navbar"
-    class="fixed-top navbar navbar-expand-lg navbar-light bg-light px-lg-5 border-bottom">
-    <div class="container-fluid">
-      <span class="d-none d-lg-inline">
-        <h4>{{ .Params.ShortTitle }}</h4>
-      </span>
-      <a class="navbar-brand mr-auto" href="">
-        <img
-          class="logo"
-          src="/files/cssrc/2026/ubc_logo.jpg"
-          alt="CSSRC Logo" />
-      </a>
-      <span class="d-flex d-lg-none flex-grow-1">
-        <h3 class="mb-0">CSSRC 2026</h3>
+    class="fixed-top navbar navbar-expand-lg px-lg-4 border-bottom py-0">
+    <div class="container-fluid mx-lg-2">
+      <span class="d-flex flex-grow-1 align-items-center">
+        <a class="navbar-brand mr-auto" href="">
+          <img
+            class="logo"
+            src="/files/cssrc/2026/cssrc-26.svg"
+            alt="CSSRC Logo" />
+        </a>
       </span>
       <button
         class="navbar-toggler collapsed d-lg-none d-flex flex-column justify-content-around border-0"
@@ -28,56 +24,23 @@
         <i class="toggler-icon bot-bar"></i>
       </button>
       <div
-        class="collapse navbar-collapse flex-grow-0 flex-row-reverse pb-2 pb-lg-0"
+        class="collapse navbar-collapse flex-grow-0 flex-row-reverse py-2 py-lg-0"
         id="navbarCollapse">
-        <ul class="navbar-nav gap-2">
+        <ul class="navbar-nav gap-4">
           <li class="nav-item">
             <a class="nav-link" href="">About</a>
           </li>
-          <li class="nav-item dropdown-nav">
-            <a
-              class="nav-link dropdown-nav-toggle"
-              href="#attending"
-              id="navbarDropdown">
-              Attending
-            </a>
-            <div
-              class="dropdown-menu bg-light"
-              aria-labelledby="navbarDropdown">
-              <a class="dropdown-item nav-link" href="#">> Register Now</a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item nav-link" href="#">> Action</a>
-              <a class="dropdown-item nav-link" href="#">> Another action</a>
-            </div>
+          <li class="nav-item">
+            <a class="nav-link" href="schedule">Program Schedule</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="schedule">Schedule</a>
+            <a class="nav-link" href="submissions">Submission Portal</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#sponsors">Sponsors</a>
+            <a class="nav-link" href="proceedings">Proceedings</a>
           </li>
-          <li class="nav-item dropdown-nav">
-            <a
-              class="nav-link dropdown-nav-toggle"
-              href="#contact"
-              id="navbarDropdown">
-              Contact
-            </a>
-            <div
-              class="dropdown-menu bg-light"
-              aria-labelledby="navbarDropdown">
-              <a class="dropdown-item nav-link" href="#">> Action</a>
-              <a class="dropdown-item nav-link" href="#">> Another action</a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item nav-link" href="#"
-                >> Something else here</a
-              >
-            </div>
-          </li>
-          <!--Dark Mode Button-->
-          <li class="nav-item align-self-end">
-            <input type="checkbox" onchange="darkMode()" id="darkMode" />
-            <label for="darkMode" class="btn btn-outline-secondary"></label>
+          <li class="nav-item">
+            <a class="nav-link" href="organizers">Organizers</a>
           </li>
         </ul>
       </div>

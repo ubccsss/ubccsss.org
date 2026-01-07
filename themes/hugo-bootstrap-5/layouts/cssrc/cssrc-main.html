@@ -36,6 +36,9 @@
     <link
       href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
       rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet" />
 
     <link href="{{ "css/style.css" | relURL }}" rel="stylesheet" />
     <link href="{{ "css/cssrc.css" | relURL }}" rel="stylesheet" />
@@ -50,186 +53,131 @@
     {{ partial "head-custom.html" . }}
   </head>
 
-  <body class="bg-light">
+  <body class="bg-light pt-2">
     {{ partial "cssrc/header" . }}
 
 
-    <!-- <div class="backdrop z-n1 position-absolute">
-      <img src="/files/cssrc/2026/banner.jpg" alt="CSSRC Banner" class="img-fluid" />
-    </div> -->
+    <section class="position-relative">
+      <div class="backdrop">
+        <img src="/files/cssrc/2026/banner.png" alt="CSSRC Banner" />
+      </div>
+
+      <div class="overlay flex-column align-items-center text-center gap-5">
+        <div class="hero-title">
+          <h4>The Inaugural</h4>
+          <h1>UBC CS Student Research Conference '26</h1>
+        </div>
+        <div class="hero-details">
+          <h4>
+            February 27, 2026 at the
+            <a href="https://www.icics.ubc.ca/">ICICS/CS building</a>
+          </h4>
+          <h5>Brought to you by the UBC CSGSA & CSSS</h5>
+        </div>
+        <div class="buttons">
+          <a href="" class="btn mx-1">Now Open! Submit Paper/Poster</a>
+          <a href="schedule" class="btn mt-3 mt-lg-0 mx-1">Schedule</a>
+          <a href="" class="btn mt-3 mx-1">Join the Discord!</a>
+          <a href="proceedings" class="btn mt-3 mx-1">Proceedings</a>
+        </div>
+      </div>
+    </section>
 
     <section
-      class="col-xs col-sm-6 mx-auto pt-5"
+      class="col-xs col-sm-9 mx-auto pb-5"
       data-bs-toggle="collapse"
       data-bs-target=".navbar-collapse.show">
-      <div class="container pt-sm-5" id="about">
-        <h1>UBC Computer Science Student Research Conference 2026</h1>
-        <h2 class="py-1">
-          021-2366 Main Mall, Vancouver, V6T 1Z4 &bull; February 27, 2026
-        </h2>
-        <div class="row">
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-            bibendum, nibh quis feugiat tempor, tellus neque tempus dolor, non
-            euismod metus orci sed odio. Quisque viverra, ex id consectetur
-            consectetur, lectus dolor rutrum sapien, eu sodales tortor sapien
-            nec sapien. Pellentesque eleifend facilisis urna nec mattis.
-            Praesent sodales ultricies lacus, nec rhoncus nisl tempus sit amet.
-            Vestibulum id ornare tortor, sed lobortis lorem. In tincidunt nisi
-            tempus ex hendrerit porttitor. Nulla pulvinar, ante tristique mollis
-            vehicula, nisi sem blandit ipsum, quis aliquet velit mi nec urna.
-            Praesent sed nunc ullamcorper, faucibus urna sed, aliquam felis.
-            Fusce a molestie lacus, ac ullamcorper libero. Nunc laoreet metus a
-            lacus fermentum lacinia. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit. Maecenas egestas leo vel justo mollis fringilla.
-            Vivamus a imperdiet sem. Sed pharetra vulputate libero vitae
-            maximus. Nullam non volutpat massa, vel tincidunt odio.
-            <br /><br />
-            Sed dictum molestie sapien, sed interdum mi maximus vel. Aliquam
-            vestibulum sed nisi at ultrices. Integer efficitur gravida nunc, nec
-            volutpat augue luctus sit amet. Aenean bibendum leo in tellus
-            eleifend maximus. Etiam ut ex quis ligula congue ornare et nec eros.
-            Sed id maximus purus. Sed sed dictum magna.
-            <br /><br />
-            Nullam ac metus mi. Cras facilisis nunc a pretium imperdiet. Proin
-            nec maximus elit. Etiam vel mauris et risus lobortis euismod. Aenean
-            sollicitudin velit eget diam scelerisque mollis. Donec porttitor
-            odio ut libero consequat dapibus. Phasellus massa nisi, lobortis sed
-            ullamcorper sed, mollis vitae orci. Nam molestie erat est, sit amet
-            suscipit metus consequat at. Proin eu urna finibus lacus tempus
-            molestie sed eu libero. Quisque consequat vel sem quis imperdiet.
-            Duis pellentesque facilisis vestibulum. Vivamus convallis sapien a
-            lacus dapibus, quis tempus sem ultricies. Nam luctus, urna at dictum
-            posuere, magna sapien scelerisque lectus, vitae finibus ante augue
-            at urna.
-          </p>
+      <div class="row">
+        <div class="container col-lg-7 order-1 order-lg-2" id="about">
+          <h1 class="mb-4">About the Conference</h1>
+          <div class="row">
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+              arcu lacus, eleifend ut felis nec, sodales placerat risus. Nunc a
+              dignissim libero. Etiam iaculis, lorem sed elementum pharetra,
+              diam odio sodales erat, in interdum mi lacus sit amet neque. Nunc
+              dictum eget quam sed aliquet. Vivamus ultricies vitae enim sit
+              amet facilisis. Praesent sollicitudin tristique nisi nec vehicula.
+              Donec sed leo sed lorem pulvinar lobortis at tincidunt risus.
+              Aliquam a luctus neque, id consectetur ex. Nulla condimentum massa
+              eu condimentum vestibulum. Curabitur mattis eu libero et semper.
+              Integer lacinia lorem tincidunt vehicula ultrices. Interdum et
+              malesuada fames ac ante ipsum primis in faucibus. Aenean quis
+              condimentum arcu. Nullam mollis dignissim varius. Vivamus
+              ullamcorper commodo eleifend. Cras ullamcorper ligula non nisi
+              vulputate iaculis.
+              <br /><br />
+              Vivamus sit amet nulla justo. Maecenas dui arcu, semper quis
+              mauris eu, ultrices molestie ipsum. In tempor rhoncus arcu, id
+              aliquam lorem volutpat vel. In a finibus velit, sit amet venenatis
+              purus. Integer quis arcu volutpat, ullamcorper turpis non, cursus
+              magna. Sed nec massa dapibus, sodales ligula in, ultrices eros.
+              Suspendisse sollicitudin eros vitae erat rhoncus, vel dapibus
+              lacus bibendum. Aliquam condimentum imperdiet accumsan. In hac
+              habitasse platea dictumst. Ut ipsum augue, blandit nec ex vitae,
+              mollis molestie ipsum. Pellentesque interdum sodales diam. In
+              accumsan tempus orci, vel condimentum felis convallis eget.
+              <br /><br />
+              Nulla aliquet quis elit sed rutrum. Vestibulum erat dui,
+              consectetur eget quam eu, ultrices bibendum neque. Nunc elementum,
+              ipsum eget facilisis pretium, justo elit aliquet turpis, ac
+              iaculis nisl mauris id justo. Curabitur faucibus blandit dui, a
+              fringilla eros dapibus nec. Maecenas risus nisl, congue sed
+              porttitor pellentesque, elementum ut lacus. Ut placerat, velit eu
+              consectetur auctor, elit tortor rhoncus odio, rhoncus tempus leo
+              risus vitae ex. Quisque sit amet ex ante. Proin felis nunc,
+              fringilla sed est non, malesuada fermentum purus. Nulla molestie
+              ex quis.
+            </p>
+          </div>
         </div>
-      </div>
 
-      <div class="container" id="dates">
-        <h1>Important Dates</h1>
-        <div class="row">
-          <table class="table table-light table-bordered mx-2 overflow-auto">
-            <thead class="fw-bold tbl-head">
-              <tr>
-                <td>A</td>
-                <td>B</td>
-                <td>C</td>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>A1</td>
-                <td>B1</td>
-                <td>C1</td>
-              </tr>
-              <tr>
-                <td>A2</td>
-                <td>B2</td>
-                <td>C2</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-
-      <div class="container" id="sponsors">
-        <h1>Sponsors</h1>
-        <div class="row">
-          <p>
-            Integer et elementum tellus. Maecenas porttitor leo vitae nulla
-            fringilla, sed blandit quam condimentum. In hac habitasse platea
-            dictumst. Vivamus blandit quis mauris id fringilla. Fusce egestas
-            sem a quam molestie, quis tristique quam auctor. Vestibulum quis
-            bibendum ligula. Nunc nulla justo, aliquam non nisi sed, blandit
-            gravida lacus.
-            <br /><br />
-            Nulla non libero vitae orci vehicula eleifend nec quis sem. Proin
-            scelerisque erat vel tellus fringilla rhoncus. Sed interdum ligula
-            gravida tortor consequat, quis finibus felis condimentum. Nam
-            porttitor est ut felis ultrices, et ullamcorper tellus laoreet.
-            Donec feugiat fermentum justo, vel lacinia neque ornare nec. Integer
-            in auctor sapien. Sed pharetra sollicitudin rutrum. Maecenas vitae
-            posuere diam. Nunc nisl tellus, tempus id pellentesque non, cursus a
-            odio.
-          </p>
-        </div>
-      </div>
-
-      <div class="container" id="faq">
-        <h1>FAQ</h1>
-        <div class="row">
-          <p>
-            Mauris condimentum turpis justo, id pretium erat malesuada sit amet.
-            Donec nibh lorem, sodales non venenatis sed, luctus ac ligula. Nam
-            orci leo, scelerisque ac pretium quis, condimentum eget erat.
-            Pellentesque luctus mi sed enim venenatis, vel commodo ante egestas.
-            Mauris vel mauris nec nibh tempus ullamcorper vitae sed neque.
-            Maecenas aliquet neque tellus, ac consectetur nulla facilisis vel.
-            Donec at laoreet eros. In eget massa id mauris lacinia fermentum
-            eget non quam. Proin et enim sed velit tincidunt rhoncus.
-            <br /><br />
-            Curabitur vel hendrerit ex, vitae consectetur magna. Duis
-            scelerisque, libero in facilisis mattis, diam massa convallis erat,
-            eget placerat dolor est ultrices purus. Ut molestie fringilla nulla
-            in elementum. In vel orci at odio sodales porta quis sed justo.
-            Praesent leo nisl, rutrum in felis a, lacinia suscipit dolor. Class
-            aptent taciti sociosqu ad litora torquent per conubia nostra, per
-            inceptos himenaeos. Aliquam in ipsum tempor odio volutpat dictum.
-            Fusce suscipit purus ante, at mollis ante consectetur eu. Duis et
-            sagittis augue. Donec at elementum tortor. Quisque pretium, felis ac
-            hendrerit consequat, lacus leo fringilla nibh, a elementum metus
-            risus sit amet lectus.
-          </p>
+        <div class="container col-lg-4 order-2 order-lg-1 pt-lg-5" id="dates">
+          <h2 class="text-center mb-4">Important Dates</h2>
+          <div class="row">
+            <table class="table table-light table-bordered mx-2 overflow-auto">
+              <thead class="fw-bold tbl-head">
+                <tr>
+                  <td>Submissions</td>
+                  <td>Deadline</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Submissions open</td>
+                  <td>15 December 2025</td>
+                </tr>
+                <tr>
+                  <td>Abstract for Full Papers/Pictorials</td>
+                  <td>9 January 2026</td>
+                </tr>
+                <tr>
+                  <td>Full Papers/Pictorials</td>
+                  <td>19 January 2026</td>
+                </tr>
+                <tr>
+                  <td>Workshops</td>
+                  <td>6 February 2026</td>
+                </tr>
+                <tr>
+                  <td>PWiP/Doctoral Consortium</td>
+                  <td>13 February 2026</td>
+                </tr>
+                <tr>
+                  <td>Interactivity (Demonstrations)</td>
+                  <td>27 February 2026</td>
+                </tr>
+                <tr>
+                  <td>Student Design Competition</td>
+                  <td>27 February 2026</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
         </div>
       </div>
     </section>
 
     {{ partial "cssrc/footer" . }}
   </body>
-
-  <!-- Add Dark Mode Support -->
-  <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.73/darkreader.min.js"></script>
-  <script>
-    if (localStorage.getItem("darkmode") === "true") {
-      DarkReader.enable();
-      document.getElementById("darkMode").checked = true;
-      // Delay added to ensure DarkReader completes styling before icon color update
-      setTimeout(() => updateIconColors(true), 100);
-    } else {
-      updateIconColors(false);
-    }
-
-    function darkMode() {
-      const wasDarkmode = localStorage.getItem("darkmode") === "true";
-      localStorage.setItem("darkmode", !wasDarkmode);
-      if (DarkReader.isEnabled()) {
-        DarkReader.disable();
-        updateIconColors(false);
-      } else {
-        DarkReader.enable();
-        updateIconColors(true);
-      }
-    }
-
-    function updateIconColors(isDarkMode) {
-      const socialIcons = document.querySelectorAll(".icon-image");
-      const carouselControlNextIcons = document.querySelectorAll(
-        ".carousel-control-next-icon"
-      );
-      const carouselControlPrevIcons = document.querySelectorAll(
-        ".carousel-control-prev-icon"
-      );
-      const carouselIcons = [
-        ...carouselControlNextIcons,
-        ...carouselControlPrevIcons
-      ];
-      socialIcons.forEach((icon) => {
-        icon.style.filter = isDarkMode ? "invert(100%)" : "invert(0%)";
-      });
-      carouselIcons.forEach((icon) => {
-        icon.style.filter = isDarkMode ? "invert(0%)" : "invert(100%)";
-      });
-    }
-  </script>
 </html>
