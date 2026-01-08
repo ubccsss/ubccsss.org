@@ -16,19 +16,27 @@
   color: var(--text-secondary) !important;
 }
 h1,
+.h1,
 h2,
+.h2,
 h3,
+.h3,
 h4,
+.h4,
 h5,
-h6 {
+.h5,
+h6,
+.h6 {
   color: var(--text-primary);
   font-family: "Montserrat", sans-serif;
 }
-h1 {
+h1,
+.h1 {
   font-size: 28pt;
   font-weight: bold;
 }
-h2 {
+h2,
+.h2 {
   color: var(--text-secondary);
   font-size: 22pt;
   font-weight: bold;
@@ -57,6 +65,11 @@ a {
 }
 a:hover {
   color: var(--light-steel-blue) !important;
+}
+
+.disabled {
+  opacity: 0.3 !important;
+  filter: grayscale(1);
 }
 
 /* Navbar */
@@ -193,7 +206,7 @@ footer .nav a:hover {
   font-weight: 600;
 }
 .hero-title h1 {
-  font-size: 36pt;
+  font-size: 30pt;
 }
 .backdrop {
   max-height: 750px;
@@ -201,6 +214,9 @@ footer .nav a:hover {
   mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
 @media screen and (min-width: 1000px) {
+  .hero-title h1 {
+    font-size: 36pt;
+  }
   .backdrop {
     max-height: 700px;
   }
@@ -223,6 +239,9 @@ footer .nav a:hover {
 .btn:hover {
   background-color: var(--light-steel-blue);
   color: white !important;
+}
+.btn.disabled {
+  background-color: var(--light-steel-blue);
 }
 
 /* Content */
