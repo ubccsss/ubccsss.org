@@ -4,7 +4,7 @@ title: Veeva Systems
 link: https://www.veeva.com/
 short_bio: >
   Veeva Systems is the global leader in cloud software for the life sciences industry, helping pharmaceutical and biotech companies bring products to market faster and more efficiently.
-imageLink: /files/tcf2026/placeholder.png
+imageLink: /files/tcf2026/veeva.jpg
 industry:
   - Information Technology
   - Health Care and Human Services

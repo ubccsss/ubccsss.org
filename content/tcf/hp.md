@@ -4,7 +4,7 @@ title: HP Canada
 link: https://www.hp.com/ca-en/home.html
 short_bio: >
   HP is a technology company that develops personal computers, printers, and related supplies and services. We are committed to creating technology that makes life better for everyone, everywhere.
-imageLink: /files/tcf2026/placeholder.png
+imageLink: /files/tcf2026/hp.png
 industry:
   - Information Technology
   - Manufacturing

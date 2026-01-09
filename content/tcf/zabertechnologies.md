@@ -4,7 +4,7 @@ title: Zaber Technologies
 link: http://www.zaber.com
 short_bio: >
   Zaber Technologies is an established and steadily growing employee-owned company that designs, manufactures, and sells precision motion control equipment for high-tech markets around the world.
-imageLink: /files/tcf2025/zaber.jpg
+imageLink: /files/tcf2026/zaber.jpg
 industry:
   - Manufacturing
 majors: Computer Science, Computer Engineering, Electrical Engineering, Engineering Physics, Mechanical Engineering

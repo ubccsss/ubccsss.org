@@ -4,7 +4,7 @@ title: Reliable Controls
 link: http://www.reliablecontrols.com
 short_bio: >
   Reliable Controls Corporation specializes in the design and manufacture of Internet-connected, building automation controls. Our innovative products automate building environments, decreasing their impact on our planet.
-imageLink: /files/tcf2026/placeholder.png
+imageLink: /files/tcf2026/reliablecontrols.webp
 industry:
   - Manufacturing
   - Science, Research & Development

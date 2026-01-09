@@ -4,7 +4,7 @@ title: Orbis
 link: https://www.orbis.com/
 short_bio: >
   Orbis Investment Management is a global investment manager with a focus on long-term value creation through active management and deep fundamental research.
-imageLink: /files/tcf2026/placeholder.png
+imageLink: /files/tcf2026/orbis.png
 industry:
   - Banking, Financial and Insurance Services
 majors: Computer Science, Business & Computer Science, Data Science, Mathematics
