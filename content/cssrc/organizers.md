@@ -1,4 +1,4 @@
 ---
-title: UBC Computer Science Student Research Conference 2026
+title: UBC CS Student Research Conference 2026
 layout: cssrc-organizers
 ---
