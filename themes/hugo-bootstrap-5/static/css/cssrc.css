@@ -189,6 +189,13 @@ footer .nav a:hover {
   color: var(--text-secondary) !important;
   transform: scale(1.2);
 }
+footer .copyright a {
+  filter: sepia(100%) hue-rotate(180deg);
+  transition: 0.2s ease;
+}
+footer .copyright a:hover {
+  filter: none;
+}
 
 /* Hero */
 .overlay {
@@ -215,7 +222,7 @@ footer .nav a:hover {
 }
 @media screen and (min-width: 1000px) {
   .hero-title h1 {
-    font-size: 36pt;
+    font-size: 48pt;
   }
   .backdrop {
     max-height: 700px;
@@ -226,7 +233,7 @@ footer .nav a:hover {
   }
 }
 .buttons {
-  max-width: 450px;
+  max-width: 800px;
 }
 .btn {
   background-color: var(--text-primary);
@@ -249,4 +256,18 @@ footer .nav a:hover {
   padding: 3rem;
   padding-top: 1.5rem;
   padding-bottom: 0.5rem;
+}
+
+.organizer-profile {
+  max-width: fit-content;
+}
+.organizer-profile img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  filter: grayscale(1);
+  transition: 0.2s ease;
+}
+.organizer-profile img:hover {
+  filter: grayscale(0);
 }
