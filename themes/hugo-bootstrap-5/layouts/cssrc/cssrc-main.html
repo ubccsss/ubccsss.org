@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+  <head>
+    {{ partial "head-meta" . }}
+
+
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    <title>{{ .Title }}</title>
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="/files/cssrc/2026/favicon.svg" />
+
+    <!-- Open Graph Tags -->
+    <!-- <meta property="og:image" content="/files/cssrc.png" />
+    <meta name="twitter:card" content="summary_large_image" /> -->
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
+      integrity="sha384-tViUnnbYAV00FLIhhi3v/dWt3Jxw4gZQcNoSCxCIFNJVCx7/D55/wXsrNIRANwdD"
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer" />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+      crossorigin="anonymous"></script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
+      rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet" />
+
+    <link href="{{ "css/style.css" | relURL }}" rel="stylesheet" />
+    <link href="{{ "css/cssrc.css" | relURL }}" rel="stylesheet" />
+
+    {{ range .AlternativeOutputFormats -}}
+      <link
+        rel="{{ .Rel }}"
+        type="{{ .MediaType.Type }}"
+        href="{{ .Permalink | safeURL }}" />
+    {{ end -}}
+    {{ template "_internal/google_analytics_async.html" . }}
+    {{ partial "head-custom.html" . }}
+  </head>
+
+  <body class="bg-light pt-2">
+    {{ partial "cssrc/header" . }}
+
+
+    <section class="position-relative">
+      <div class="backdrop">
+        <img src="/files/cssrc/2026/banner.png" alt="CSSRC Banner" />
+      </div>
+
+      <div class="overlay flex-column align-items-center text-center gap-5">
+        <div class="hero-title">
+          <h4>The Inaugural</h4>
+          <h1>UBC CS Student Research Conference '26</h1>
+        </div>
+        <div class="hero-details px-lg-0 px-2">
+          <h4>
+            February 27, 2026 at the
+            <a href="https://maps.ubc.ca/?code=ICCS" target="_blank"
+              >ICICS/CS building</a
+            >
+          </h4>
+          <h5>Brought to you by the UBC CSGSA & CSSS</h5>
+        </div>
+        <div class="buttons">
+          <a
+            href="https://hotcrp-cssrc.cs.ubc.ca/"
+            target="_blank"
+            class="btn mx-1"
+            title="Must be connected to the UBC network to access"
+            >Now Open! Submit Paper/Poster*</a
+          >
+          <a href="/cssrc/schedule" class="btn mt-3 mt-lg-0 mx-1">Schedule</a>
+          <a
+            href="https://discord.gg/uWPuBTYwhs"
+            target="_blank"
+            class="btn mt-3 mt-lg-0 mx-1"
+            >Join the Discord!</a
+          >
+          <a
+            href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3y0LtZfgcC8eVme"
+            target="_blank"
+            class="btn mt-3 mx-1">
+            Sign Up for the Mailing List
+          </a>
+          <a href="/cssrc/proceedings" class="btn mt-3 mx-1 disabled"
+            >Paper Archives</a
+          >
+        </div>
+      </div>
+    </section>
+
+    <section class="col-xs col-sm-9 mx-auto pb-5">
+      <div class="row">
+        <div class="container col-lg-7 order-1 order-lg-2" id="about">
+          <h1 class="mb-4">About the Conference</h1>
+          <div class="row">
+            <p>
+              The UBC CS Student Research Conference (CSSRC) is running for the
+              first time on February 27, 2026.
+            </p>
+            <p>
+              Our mission is to celebrate and advance graduate and undergraduate
+              research in computer science by providing an inclusive,
+              professional conference where UBC students can present their work,
+              engage with academic and industry leaders, and build networks that
+              foster innovation and career development. The CSSRC is
+              fundamentally by students, for students, with the mission of
+              empowering students to contribute to and partake in the research
+              community early in their careers.
+            </p>
+            <p>
+              The event will host a poster and paper submission track, with
+              faculty and senior graduate student reviewers, modelled after true
+              conferences. Selected submissions will have the opportunity to
+              showcase their work during the conference in a poster session,
+              some winning posters/papers will earn awards!
+            </p>
+            <p>
+              The event will also host
+              <a href="https://3mt.grad.ubc.ca/" target="_blank"
+                >3-Minute Thesis</a
+              >, a research career panel, research presentations, and
+              opportunities for networking!
+            </p>
+            <p>
+              Join us on February 27 at the ICICS/CS Building. Feel free to
+              learn more about the program on our
+              <a href="/cssrc/schedule">Program Schedule</a> page, or join our
+              <a href="https://discord.gg/uWPuBTYwhs" target="_blank"
+                >Discord</a
+              >
+              if you have any questions!
+            </p>
+          </div>
+        </div>
+
+        <div class="container col-lg-4 order-2 order-lg-1 pt-lg-5" id="dates">
+          <h2 class="text-center mb-4">Important Dates</h2>
+          <div class="row">
+            <table class="table table-light table-bordered mx-2 overflow-auto">
+              <thead class="fw-bold tbl-head">
+                <tr>
+                  <td>Submissions</td>
+                  <td>Deadline</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Title + Abstract (max 250 words)</td>
+                  <td>January 12th</td>
+                </tr>
+                <tr>
+                  <td>Full Submission</td>
+                  <td>January 19th</td>
+                </tr>
+                <tr>
+                  <td>Notifications</td>
+                  <td>February 1st</td>
+                </tr>
+                <tr>
+                  <td>Camera-ready deadline</td>
+                  <td>February 14th</td>
+                </tr>
+                <tr>
+                  <td>Conference Day</td>
+                  <td>February 27th</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    {{ partial "cssrc/footer" . }}
+  </body>
+</html>
