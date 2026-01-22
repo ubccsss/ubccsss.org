@@ -8,14 +8,6 @@ Are you a company interested in engaging with UBC’s CS community? Explore our 
 
 <a class="btn btn-fancy mb-4" href="../../files/sponsor/UBC_CSSS_2024_Sponsorship_Package.pdf " target="_blank">Sponsorship Options</a>
 
-## Sponsors
-
-<div class="row">
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-	{{< partner title="Google" href="https://www.google.com/about/careers/applications/students/" src="/files/google-logo.png" id="google">}}
-  </div>
-</div>
-
 ## External Organizations
 
 <div class="row">
@@ -32,6 +24,9 @@ Are you a company interested in engaging with UBC’s CS community? Explore our 
   </div>
   <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
 	{{< partner title="Thrive Up" href="https://www.thriveup.co/" src="/files/thrive-up.jpg" id="bobatalks" description="Thrive Up is dedicated to helping people interested in tech, whether you're looking to make your mark in the industry or wanting to level up your career. Each week, join them for insightful discussions, career tips, and inspiring stories from professionals at FANNG and diverse backgrounds.">}}
+  </div>
+  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
+	{{< partner title="InternDB" href="https://interndb.io/" src="/files/interndb.png" id="interndb" description="InternDB is a student-focused platform offering detailed, specific reviews of internships. Our goal is to provide rich, actionable information about different companies and career paths, tailored for students seeking to find their place in tech.">}}
   </div>
 </div>
 
