@@ -11,5 +11,5 @@ majors: Computer Science
 workAuth: Canadian Citizen/Permanent Resident, US Citizen
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Current Students in a Phd Program
 positionTypes: Internships, Co-op Student (4 months), Full-time
-boothNumber: TBA
+boothNumber: 8
 ---

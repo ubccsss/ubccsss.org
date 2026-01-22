@@ -11,5 +11,5 @@ majors: Computer Science, Business & Computer Science, Mathematics, Computer Eng
 workAuth: Canadian Citizen/Permanent Resident
 degreeLevels: Current Students in an Undergraduate Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Recent Graduate, Full-time
-boothNumber: TBA
+boothNumber: 3
 ---
