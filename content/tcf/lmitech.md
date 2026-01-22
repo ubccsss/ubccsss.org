@@ -11,5 +11,5 @@ majors: Computer Science, Business & Computer Science, Computer Engineering, Mec
 workAuth: Canadian Citizen/Permanent Resident
 degreeLevels: Current Students in an Undergraduate Program, Graduated with an Undergraduate Degree
 positionTypes: Co-op Student (8+ months), Recent Graduate, Full-time
-boothNumber: TBA
+boothNumber: 11
 ---
