@@ -1,0 +1,9 @@
+reviews:
+  - author: Student
+    authorLink: 
+    date: 2026-01-31
+    review: |
+      Not as organized as 340, maybe take CPEN455 instead if your into Deep learning, otherwise this course is more into Statistical and Bayesian model for the first 3/4 of the course topic then the last 1/4 is the actual Deep Learning stuff
+    difficulty: 4
+    quality: 2
+    sessionTaken: 2025W2
