@@ -12,5 +12,5 @@ majors: Computer Science, Computer Engineering, Electrical Engineering, Business
 workAuth: All
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program
 positionTypes: Internships, Co-op Student (4 months), Recent Graduate, Full-time
-boothNumber: TBA
+boothNumber: 15
 ---

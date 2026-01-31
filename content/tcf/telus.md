@@ -11,5 +11,5 @@ majors: Computer Science, Business & Computer Science, Cognitive Science, Data S
 workAuth: Canadian Citizen/Permanent Resident, International Student
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Graduated with an Undergraduate Degree
 positionTypes: Internships, Co-op Student (4 months), Co-op Student (8+ months), Recent Graduate, Full-time
-boothNumber: TBA
+boothNumber: 22
 ---
