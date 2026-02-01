@@ -1,61 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
-  <head>
-    {{ partial "head-meta" . }}
+  {{ partial "cssrc/metadata" . }}
 
-
-    <link rel="canonical" href="{{ .Permalink }}" />
-
-    <title>{{ .Title }}</title>
-    <link
-      rel="icon"
-      type="image/svg+xml"
-      href="/files/cssrc/2026/favicon.svg" />
-
-    <!-- Open Graph Tags -->
-    <!-- <meta property="og:image" content="/files/cssrc.png" />
-    <meta name="twitter:card" content="summary_large_image" /> -->
-
-    <!-- Bootstrap CSS -->
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer" />
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
-      integrity="sha384-tViUnnbYAV00FLIhhi3v/dWt3Jxw4gZQcNoSCxCIFNJVCx7/D55/wXsrNIRANwdD"
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer" />
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
-      crossorigin="anonymous"></script>
-
-    <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
-      rel="stylesheet" />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
-      rel="stylesheet" />
-
-    <link href="{{ "css/style.css" | relURL }}" rel="stylesheet" />
-    <link href="{{ "css/cssrc.css" | relURL }}" rel="stylesheet" />
-
-    {{ range .AlternativeOutputFormats -}}
-      <link
-        rel="{{ .Rel }}"
-        type="{{ .MediaType.Type }}"
-        href="{{ .Permalink | safeURL }}" />
-    {{ end -}}
-    {{ template "_internal/google_analytics_async.html" . }}
-    {{ partial "head-custom.html" . }}
-  </head>
 
   <body class="bg-light pt-2">
     {{ partial "cssrc/header" . }}
@@ -79,46 +25,12 @@
                 </tr>
               </thead>
               <tbody>
-                <tr>
-                  <td>9:00 AM &ndash; 10:45 AM</td>
-                  <td>Registration</td>
-                </tr>
-                <tr>
-                  <td>10:00 AM &ndash; 10:40 AM</td>
-                  <td>Opening Ceremony & Keynote Speech</td>
-                </tr>
-                <tr>
-                  <td>10:45 AM &ndash; 11:25 AM</td>
-                  <td>Poster Session</td>
-                </tr>
-                <tr>
-                  <td>11:30 AM &ndash; 12:25 PM</td>
-                  <td>3-Minute Thesis</td>
-                </tr>
-                <tr>
-                  <td>12:30 PM &ndash; 1:00 PM</td>
-                  <td>Lunch Time</td>
-                </tr>
-                <tr>
-                  <td>1:00 PM &ndash; 2:00 PM</td>
-                  <td>Networking Hour</td>
-                </tr>
-                <tr>
-                  <td>1:00 PM &ndash; 2:30 PM</td>
-                  <td>Poster Session</td>
-                </tr>
-                <tr>
-                  <td>2:30 PM &ndash; 3:00 PM</td>
-                  <td>Research Career Panel</td>
-                </tr>
-                <tr>
-                  <td>3:00 PM &ndash; 5:00 PM</td>
-                  <td>Student Oral Presentations</td>
-                </tr>
-                <tr>
-                  <td>5:00 PM &ndash; 5:15 PM</td>
-                  <td>Closing Remarks + Awards</td>
-                </tr>
+                {{ range .Params.schedule }}
+                  <tr>
+                    <td>{{ .from }} &ndash; {{ .to }}</td>
+                    <td>{{ .event }}</td>
+                  </tr>
+                {{ end }}
               </tbody>
             </table>
           </div>
