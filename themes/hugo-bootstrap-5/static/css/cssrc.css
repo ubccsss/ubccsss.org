@@ -271,3 +271,15 @@ footer .copyright a:hover {
 .organizer-profile img:hover {
   filter: grayscale(0);
 }
+
+#sponsors .sponsor img {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  padding-bottom: 1rem;
+  transition: 0.2s ease;
+  user-select: none;
+}
+#sponsors .sponsor img:hover {
+  scale: 1.1;
+}

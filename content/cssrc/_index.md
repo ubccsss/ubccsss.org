@@ -12,4 +12,17 @@ importantDates:
     date: February 14th
   - submission: Conference Day
     date: February 27th
+sponsors:
+  - tier: Gold
+    colour: "#ecd133"
+    orgs:
+    # - name: RBC Borealis
+    #   imageLink: /files/cssrc/2026/sponsors/rbcborealis.png
+    #   siteLink: https://rbcborealis.com/
+  - tier: Silver
+    colour: "#9e9e9e"
+    orgs:
+  - tier: Bronze
+    colour: "#774e20"
+    orgs:
 ---
