@@ -1,4 +1,12 @@
 reviews:
+  - author: Bryan
+    authorLink: 
+    date: 2026-01-31
+    review: |
+      Not worth the credit, it's physics and old algorithm topics like panorama stiching - (no cool 3D generative/image generative model)
+    difficulty: 1
+    quality: 1
+    sessionTaken: 2025W1
   - author: Student
     authorLink: 
     date: 2024-01-06
