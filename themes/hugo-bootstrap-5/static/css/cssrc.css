@@ -272,14 +272,25 @@ footer .copyright a:hover {
   filter: grayscale(0);
 }
 
+#sponsors .sponsor {
+  padding: 1rem;
+  background: white !important;
+}
 #sponsors .sponsor img {
-  width: 200px;
   height: 200px;
+  width: 400px;
+  padding: 1rem;
   object-fit: contain;
-  padding-bottom: 1rem;
   transition: 0.2s ease;
   user-select: none;
 }
 #sponsors .sponsor img:hover {
   scale: 1.1;
+}
+
+@media only screen and (max-width: 480px) {
+  #sponsors .sponsor img {
+    width: 300px;
+    padding: 0;
+  }
 }

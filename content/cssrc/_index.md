@@ -16,8 +16,11 @@ sponsors:
   - tier: Gold
     colour: "#ecd133"
     orgs:
+      - name: Google DeepMind
+        imageLink: /files/cssrc/2026/sponsors/google_deepmind.png
+        siteLink: https://deepmind.google/
     # - name: RBC Borealis
-    #   imageLink: /files/cssrc/2026/sponsors/rbcborealis.png
+    #   imageLink: /files/cssrc/2026/sponsors/rbc_borealis.png
     #   siteLink: https://rbcborealis.com/
   - tier: Silver
     colour: "#9e9e9e"

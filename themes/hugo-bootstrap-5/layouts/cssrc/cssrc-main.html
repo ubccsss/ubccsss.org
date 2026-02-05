@@ -3,7 +3,7 @@
   {{ partial "cssrc/metadata" . }}
 
 
-  <body class="bg-light pt-2">
+  <body class="bg-light pt-3">
     {{ partial "cssrc/header" . }}
 
 
@@ -124,33 +124,38 @@
         </div>
       </div>
 
-      <!-- <hr class="mx-auto w-75 d-none d-sm-block" />
+      <hr class="mx-auto my-5 w-75 d-none d-sm-block" />
 
-      <div class="row">
-        <div class="container col-lg-7 text-center" id="sponsors">
-          <h1 class="mb-3">Sponsors</h1>
-          <p class="pb-4">We are thankful to have these incredible organizations as our sponsors!</p>
-            <div class="d-flex justify-content-around align-items-center flex-column gap-5">
-              {{ range .Params.sponsors }}
-        <div>
-          <h3 class="fw-bold pb-2" style="color:{{ .colour }};">
-            {{ .tier }} Sponsors
-          </h3>
-          <div class="d-flex justify-content-around align-items-center gap-5">
-            {{ range .orgs }}
-              <div class="sponsor border" title="{{ .name }}">
-                <p class="fw-semibold pb-0 mb-0 pt-2">{{ .name }}</p>
-                <a href="{{ .siteLink }}" target="_blank">
-                  <img src="{{ .imageLink }}" alt="{{ .name }}" />
-                </a>
+      <div class="row text-center" id="sponsors">
+        <div class="container col-lg-12 d-flex flex-column gap-4">
+          <h1>Sponsors</h1>
+          <h4>We are thankful for our incredible sponsors!</h4>
+        </div>
+        <div class="container col-lg-12">
+          <div
+            class="d-flex justify-content-around align-items-center flex-column gap-1">
+            {{ range .Params.sponsors }}
+              <h2
+                class="fw-bold col-12 col-lg-6 pt-4"
+                style="color:{{ .colour }};">
+                <span><hr /></span>{{ .tier }} Sponsors <span><hr /></span>
+              </h2>
+              <div
+                class="d-flex justify-content-around flex-lg-row flex-column align-items-center gap-lg-5 gap-4 mb-2">
+                {{ range .orgs }}
+                  <a
+                    class="sponsor border"
+                    title="{{ .name }}"
+                    href="{{ .siteLink }}"
+                    target="_blank">
+                    <img src="{{ .imageLink }}" alt="{{ .name }}" />
+                  </a>
+                {{ end }}
               </div>
             {{ end }}
           </div>
         </div>
-      {{ end }}
-            </div>
-        </div>
-      </div> -->
+      </div>
     </section>
 
     {{ partial "cssrc/footer" . }}
