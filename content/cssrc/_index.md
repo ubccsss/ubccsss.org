@@ -9,7 +9,7 @@ importantDates:
   - submission: Notifications
     date: February 1st
   - submission: Camera-ready Deadline
-    date: February 14th
+    date: February 18th*
   - submission: Conference Day
     date: February 27th
 sponsors:

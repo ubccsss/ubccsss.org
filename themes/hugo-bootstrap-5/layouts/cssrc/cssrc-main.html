@@ -7,13 +7,9 @@
     {{ partial "cssrc/header" . }}
 
 
-    <section class="position-relative">
-      <div class="backdrop">
-        <img src="/files/cssrc/2026/banner.png" alt="CSSRC Banner" />
-      </div>
-
-      <div class="overlay flex-column align-items-center text-center gap-5">
-        <div class="hero-title">
+    <section class="h-100">
+      <div class="hero flex-column align-items-center text-center gap-5">
+        <div class="hero-title px-4">
           <h4>The Inaugural</h4>
           <h1>UBC CS Student Research Conference '26</h1>
         </div>
@@ -26,7 +22,7 @@
           </h4>
           <h5>Brought to you by the UBC CSGSA & CSSS</h5>
         </div>
-        <div class="buttons">
+        <div class="buttons mb-5">
           <a
             href="https://hotcrp-cssrc.cs.ubc.ca/"
             target="_blank"
@@ -52,10 +48,27 @@
           >
         </div>
       </div>
+
+      <div
+        class="sponsorships align-items-center justify-content-center d-flex gap-4">
+        <a
+          class="sponsor"
+          title="Google DeepMind"
+          href="https://deepmind.google/"
+          target="_blank">
+          <img
+            src="/files/cssrc/2026/sponsors/google_deepmind.png"
+            alt="Google DeepMind" />
+        </a>
+      </div>
+
+      <div class="backdrop">
+        <img src="/files/cssrc/2026/banner.png" alt="CSSRC Banner" />
+      </div>
     </section>
 
     <section class="col-xs col-sm-9 mx-auto pb-5">
-      <div class="row">
+      <div class="row" id="information">
         <div class="container col-lg-7 order-1 order-lg-2" id="about">
           <h1 class="mb-4">About the Conference</h1>
           <div class="row">
@@ -101,10 +114,13 @@
           </div>
         </div>
 
-        <div class="container col-lg-4 order-2 order-lg-1 pt-lg-5" id="dates">
+        <div
+          class="container col-lg-4 order-2 order-lg-1 pt-lg-5 px-sm-4"
+          id="dates">
           <h2 class="text-center mb-4">Important Dates</h2>
           <div class="row">
-            <table class="table table-light table-bordered mx-2 overflow-auto">
+            <table
+              class="table table-light table-bordered mx-2 overflow-auto mb-2">
               <thead class="fw-bold tbl-head">
                 <tr>
                   <td>Submissions</td>
@@ -120,6 +136,7 @@
                 {{ end }}
               </tbody>
             </table>
+            <i class="text-end">* Updated on Feb. 5</i>
           </div>
         </div>
       </div>

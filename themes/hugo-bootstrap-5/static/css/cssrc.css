@@ -198,39 +198,29 @@ footer .copyright a:hover {
 }
 
 /* Hero */
-.overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-
+.hero {
+  min-height: 700px;
+  max-height: 800px;
+  padding-top: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.overlay h4 {
+.hero h4 {
   font-weight: 600;
 }
 .hero-title h1 {
   font-size: 30pt;
 }
 .backdrop {
-  max-height: 750px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-height: 1000px;
+  width: 100%;
+  z-index: -1;
   overflow: hidden;
   mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
-}
-@media screen and (min-width: 1000px) {
-  .hero-title h1 {
-    font-size: 48pt;
-  }
-  .backdrop {
-    max-height: 700px;
-  }
-  .backdrop img {
-    width: 100%;
-    height: 100%;
-  }
 }
 .buttons {
   max-width: 800px;
@@ -251,7 +241,24 @@ footer .copyright a:hover {
   background-color: var(--light-steel-blue);
 }
 
+.sponsorships {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+}
+.sponsorships .sponsor img {
+  max-height: 80px;
+  padding: 1.25rem;
+  object-fit: contain;
+  transition: 0.2s ease;
+  user-select: none;
+}
+
 /* Content */
+#information {
+  margin-top: 50px;
+}
+
 .container {
   padding: 3rem;
   padding-top: 1.5rem;
@@ -286,6 +293,18 @@ footer .copyright a:hover {
 }
 #sponsors .sponsor img:hover {
   scale: 1.1;
+}
+
+@media only screen and (min-width: 1000px) {
+  .hero-title h1 {
+    font-size: 48pt;
+  }
+  .backdrop {
+    max-height: 900px;
+  }
+  .backdrop img {
+    height: 100%;
+  }
 }
 
 @media only screen and (max-width: 480px) {
