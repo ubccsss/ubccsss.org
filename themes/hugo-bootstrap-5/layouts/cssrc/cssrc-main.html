@@ -141,7 +141,7 @@
         </div>
       </div>
 
-      <hr class="mx-auto my-5 w-75 d-none d-sm-block" />
+      <!-- <hr class="mx-auto my-5 w-75 d-none d-sm-block" />
 
       <div class="row text-center" id="sponsors">
         <div class="container col-lg-12 d-flex flex-column gap-4">
@@ -152,27 +152,25 @@
           <div
             class="d-flex justify-content-around align-items-center flex-column gap-1">
             {{ range .Params.sponsors }}
-              <h2
-                class="fw-bold col-12 col-lg-6 pt-4"
-                style="color:{{ .colour }};">
-                <span><hr /></span>{{ .tier }} Sponsors <span><hr /></span>
-              </h2>
-              <div
-                class="d-flex justify-content-around flex-lg-row flex-column align-items-center gap-lg-5 gap-4 mb-2">
-                {{ range .orgs }}
-                  <a
-                    class="sponsor border"
-                    title="{{ .name }}"
-                    href="{{ .siteLink }}"
-                    target="_blank">
-                    <img src="{{ .imageLink }}" alt="{{ .name }}" />
-                  </a>
-                {{ end }}
-              </div>
-            {{ end }}
+        <h2 class="fw-bold col-12 col-lg-6 pt-4" style="color:{{ .colour }};">
+          <span><hr /></span>{{ .tier }} Sponsors <span><hr /></span>
+        </h2>
+        <div
+          class="d-flex justify-content-around flex-lg-row flex-column align-items-center gap-lg-5 gap-4 mb-2">
+          {{ range .orgs }}
+            <a
+              class="sponsor border"
+              title="{{ .name }}"
+              href="{{ .siteLink }}"
+              target="_blank">
+              <img src="{{ .imageLink }}" alt="{{ .name }}" />
+            </a>
+          {{ end }}
+        </div>
+      {{ end }}
           </div>
         </div>
-      </div>
+      </div> -->
     </section>
 
     {{ partial "cssrc/footer" . }}
