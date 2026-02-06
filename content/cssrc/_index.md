@@ -14,18 +14,18 @@ importantDates:
     date: February 27th
 sponsors:
   - tier: Gold
-    colour: "#ecd133"
+    colour: "#cb9726"
     orgs:
       - name: Google DeepMind
-        imageLink: /files/cssrc/2026/sponsors/google_deepmind.png
-        siteLink: https://deepmind.google/
-    # - name: RBC Borealis
-    #   imageLink: /files/cssrc/2026/sponsors/rbc_borealis.png
-    #   siteLink: https://rbcborealis.com/
-  - tier: Silver
-    colour: "#9e9e9e"
-    orgs:
-  - tier: Bronze
-    colour: "#774e20"
-    orgs:
+        imageLink: /files/cssrc/2026/sponsors/google_deepmind.svg
+        siteLink: https://deepmind.google/research
+      # - name: RBC Borealis
+      #   imageLink: /files/cssrc/2026/sponsors/rbc_borealis.svg
+      #   siteLink: https://rbcborealis.com/
+  # - tier: Silver
+  #   colour: "#9e9e9e"
+  #   orgs:
+  # - tier: Bronze
+  #   colour: "#774e20"
+  #   orgs:
 ---

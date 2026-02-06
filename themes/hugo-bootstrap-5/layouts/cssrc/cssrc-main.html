@@ -22,7 +22,7 @@
           </h4>
           <h5>Brought to you by the UBC CSGSA & CSSS</h5>
         </div>
-        <div class="buttons mb-5">
+        <div class="buttons mb-0 mb-sm-5">
           <a
             href="https://hotcrp-cssrc.cs.ubc.ca/"
             target="_blank"
@@ -49,17 +49,27 @@
         </div>
       </div>
 
-      <div
-        class="sponsorships align-items-center justify-content-center d-flex gap-4">
-        <a
-          class="sponsor"
-          title="Google DeepMind"
-          href="https://deepmind.google/"
-          target="_blank">
-          <img
-            src="/files/cssrc/2026/sponsors/google_deepmind.png"
-            alt="Google DeepMind" />
-        </a>
+      <div class="pb-4 pt-5 mt-5 pt-lg-0 mt-sm-0">
+        <h4 class="text-center fw-semibold">Supported By</h4>
+        <div class="d-flex flex-column gap-2">
+          {{ range .Params.sponsors }}
+            <div
+              class="sponsorships align-items-center justify-content-center d-flex flex-column gap-0 flex-lg-row gap-lg-5">
+              <h4 class="fw-semibold pt-2 pt-lg-0" style="color:{{ .colour }};">
+                {{ .tier }} Sponsors:
+              </h4>
+              {{ range .orgs }}
+                <a
+                  class="sponsor"
+                  title="{{ .name }}"
+                  href="{{ .siteLink }}"
+                  target="_blank">
+                  <img src="{{ .imageLink }}" alt="{{ .name }}" />
+                </a>
+              {{ end }}
+            </div>
+          {{ end }}
+        </div>
       </div>
 
       <div class="backdrop">
