@@ -1,42 +1,63 @@
 {{ $colorScheme := default "light" .Site.Params.footer.colorScheme }}
 <footer
-  class="blog-footer navbar navbar-{{ $colorScheme }} bg-{{ $colorScheme }} py-md-5 w-100">
-  <div class="text-light container">
-    <div class="row w-100">
-      <div class="col-12 col-md">
-        <img
-          class="mb-2"
-          src="/logo-mono.svg"
-          alt=""
-          width="26.3"
-          height="31" />
-        <small class="d-block mb-3 text-light">{{ .Site.Copyright }}</small>
-      </div>
-      {{ range .Site.Data.footer }}
-        <div class="col-6 col-md">
-          <h5>{{ i18n .header }}</h5>
-          <ul class="list-unstyled text-small">
-            {{ range .items }}
-              {{ with $.GetPage . }}
-                <li>
-                  <a class="text-light" href="{{ .RelPermalink }}"
-                    >{{ .Title }}</a
-                  >
-                </li>
-              {{ end }}
-            {{ end }}
-          </ul>
-        </div>
+  class="footer navbar navbar-{{ $colorScheme }} flex-column py-4 py-md-5 w-100">
+  <div class="text-light container" style="max-width: 80%;">
+    <div
+      class="d-flex w-100 justify-content-center align-items-center gap-sm-3 gap-md-4"
+      style="gap: 12px;">
+      {{ range $.Site.Data.social }}
+        <a href="{{ .link }}">
+          <span
+            class="social-icon footer-icon text-white"
+            style="-webkit-mask: url('{{ .icon }}') no-repeat center / contain;
+                mask: url('{{ .icon }}') no-repeat center / contain;"
+            title="{{ .title }}" />
+        </a>
       {{ end }}
-      <div class="col-12 col-md small">
-        <address>{{ i18n "cubeAddress" | markdownify }}</address>
-
-        <hr />
-        <p>
-          <a href="#">{{ i18n "backToTop" }}</a>
-        </p>
+    </div>
+    <hr class="w-100" />
+    <div class="row w-100 gap-4 gap-lg-0">
+      <div class="col-12 col-lg-5">
+        <div class="row g-3">
+          {{ range .Site.Data.footer }}
+            <div class="col-12 col-sm">
+              <h5>{{ i18n .header }}</h5>
+              <ul class="list-unstyled">
+                {{ range .items }}
+                  {{ with $.GetPage . }}
+                    <li>
+                      <a class="text-light" href="{{ .RelPermalink }}"
+                        >{{ .Title }}</a
+                      >
+                    </li>
+                  {{ end }}
+                {{ end }}
+              </ul>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+      <div
+        class="col-12 col-lg-7 ps-lg-5 small border-lg-start border-light border-opacity-25 position-relative">
+        <span
+          class="vr d-none d-lg-block position-absolute start-0 top-0 h-100"></span>
+        {{ partial "taxonomies" . }}
+        <!--
+        {{ if default true .Site.Params.sidebar.showTaxonomy }}
+        {{ end }}
+        -->
       </div>
     </div>
+  </div>
+  <div class="my-4">
+    <a href="#" class="text-light">{{ i18n "backToTop" }}</a>
+  </div>
+  <address class="w-100 text-light text-center p-1 bg-black">
+    {{ i18n "cubeAddressInline" | markdownify }}
+  </address>
+  <div class="d-flex w-100 justify-content-center align-items-center gap-1">
+    <img src="/logo-mono.svg" alt="" width="26.3" height="31" />
+    <small class="d-block text-light">{{ .Site.Copyright }}</small>
   </div>
 </footer>
 

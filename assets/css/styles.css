@@ -64,6 +64,30 @@ a {
   padding: 0;
 }
 
+.footer {
+  background: linear-gradient(to bottom, #225eb8, #0f2a52);
+  font-family: "Montserrat", sans-serif !important;
+}
+
+.social-icon {
+  background-color: currentColor;
+  aspect-ratio: 1 / 1;
+  display: inline-block;
+}
+
+.footer-icon {
+  width: 36px;
+}
+
+.taxonomy-badge {
+  background-color: rgba(57, 102, 173, 0.5);
+  border: none;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  color: white;
+  font-weight: 500;
+}
+
 @media only screen and (max-width: 992px) {
   .dropdown-menu {
     border: none;
@@ -94,6 +118,16 @@ a {
   .hide-on-mobile {
     visibility: hidden;
     display: none;
+  }
+
+  .footer-icon {
+    width: 28px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .footer-icon {
+    width: 18px;
   }
 }
 
