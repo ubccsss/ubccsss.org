@@ -1,4 +1,9 @@
+{{ define "header" }}
+  {{ partial "header-redesign" . }}
+{{ end }}
+
 {{ define "body" }}
+  {{ partial "home/hero" . }}
   <!-- Fetch and split events into upcoming and past -->
   {{ $displayEventType := "upcoming" }}
   {{ $recentEvents := (.Site.GetPage "/events").Pages | first 28 }}
