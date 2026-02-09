@@ -1,4 +1,14 @@
 reviews:
+  - author: heehee
+    authorLink: 
+    date: 2026-02-04
+    review: |
+      CPSC 436Q was very interesting, great introduction to quantum computing and information. However, there is no coding, and it is more of a math course, but you don't need to be familiar with quantum physics or any advanced math (just basics of linear algebra) to succeed. The algorithms you touch on (Shors, Grovers, etc.) are cool both conceptually and mathematically.
+      
+      Prof was clearly passionate about the course, and grading was generous. Most marks were on assignments (interesting, but can take a while) and project (choose your own topic), while exam was only 30% (and no need to pass to pass course).
+    difficulty: 2.5
+    quality: 4.5
+    sessionTaken: 2025W1
   - author: m_
     authorLink: 
     date: 2025-02-22
