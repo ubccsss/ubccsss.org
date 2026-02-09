@@ -1,4 +1,16 @@
 reviews:
+  - author: cadavar
+    authorLink: 
+    date: 2026-02-09
+    review: |
+      Some of the course material overall is interesting, however the interesting parts are not covered in depth. The most trivial marks are taken off for assignments (which take a while). There is no final exam, pretty much just the project and assignments, so the most important part of this course is finding a "carry" for the group or else the project will be a bit annoying. C++ and OpenGL are used; if you aren't comfortable with OpenGL, then the assignments and project (without a carry) will be annoying, but doable (fonts, particle systems, shader effects like water).
+      
+      If you have already created a game before from scratch (not using an engine), then this course will not offer much.
+      
+      However, if you would like an introduction to videogame programming, this is a good a start.
+    difficulty: 3.5
+    quality: 3.5
+    sessionTaken: 2025W1
   - author: nobody
     authorLink:
     date: 2025-06-27
