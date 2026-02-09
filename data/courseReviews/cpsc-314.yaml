@@ -1,4 +1,14 @@
 reviews:
+  - author: singed
+    authorLink: 
+    date: 2026-02-09
+    review: |
+      The exam and midterm are very easy. Dinesh gives you a practice where many of the questions are exact copy and pasted in the final. You can skip lectures - they don't help, and no offense to Dinesh but they are a bit dry and theory based.
+      
+      Interesting concepts if you are into visualization. You get to play with interesting shader effects, animations, and techniques like shadow maps and ray marching. Not hard, the bulk of the difficulty is in assignments.
+    difficulty: 2.5
+    quality: 3.5
+    sessionTaken: 2024W1
   - author: KF
     authorLink:
     date: 2023-02-15
