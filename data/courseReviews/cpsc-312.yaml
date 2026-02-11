@@ -1,4 +1,18 @@
 reviews:
+  - author: plumbus
+    authorLink: 
+    date: 2026-02-09
+    review: |
+      Extremely generous marking. I ended up with a 90 despite failing a couple quizzes. No final exam. One project and assignments.
+      
+      The content is really neat, and exposes a whole new paradigm of programming languages. Haskell is relatively intuitive, however I would say Prolog really blows your mind if you've only been exposed to imperative programming. Concepts like pattern matching, monads, lazy evaluation really makes you think about what programming is.
+      
+      Functional programming isn't limited to a language. Many imperative languages nowadays have functional programming features (Python, C#, to name a few), and functional programming languages are also used in the industry. So, it is definitely applicable to the industry.
+      
+      CPSC 418 also uses Erlang, which is a functional language as well.
+    difficulty: 1.5
+    quality: 5
+    sessionTaken: 2024W1
   - author: /u/xKaillus
     authorLink:
     date: 2023-01-31
