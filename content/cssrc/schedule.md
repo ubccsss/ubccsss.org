@@ -8,7 +8,7 @@ schedule:
   - event: Opening Ceremony & Keynote Speech
     from: 10:00 AM
     to: 10:40 AM
-  - event: Poster Session
+  - event: Poster Session I
     from: 10:45 AM
     to: 11:25 AM
   - event: 3-Minute Thesis
@@ -20,16 +20,16 @@ schedule:
   - event: Networking Hour
     from: 1:00 PM
     to: 2:00 PM
-  - event: Poster Session
+  - event: Poster Session II
     from: 1:00 PM
-    to: 2:30 PM
+    to: 2:00 PM*
   - event: Research Career Panel
-    from: 2:30 PM
-    to: 3:00 PM
+    from: 2:00 PM
+    to: 3:00 PM*
   - event: Student Oral Presentations
     from: 3:00 PM
     to: 5:00 PM
-  - event: Closing Remarks + Awards
+  - event: Closing Remarks & Awards
     from: 5:00 PM
-    to: 5:15 PM
+    to: 5:30 PM*
 ---
