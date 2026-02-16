@@ -18,10 +18,13 @@ sponsors:
     orgs:
       - name: Google DeepMind
         imageLink: /files/cssrc/2026/sponsors/google_deepmind.svg
-        siteLink: https://deepmind.google/research
-      # - name: RBC Borealis
-      #   imageLink: /files/cssrc/2026/sponsors/rbc_borealis.svg
-      #   siteLink: https://rbcborealis.com/
+        siteLink: https://deepmind.google/research/
+      - name: RBC Borealis
+        imageLink: /files/cssrc/2026/sponsors/rbc_borealis.svg
+        siteLink: https://rbcborealis.com/
+      - name: Jukebox
+        imageLink: /files/cssrc/2026/sponsors/jukebox.svg
+        siteLink: https://www.jukeboxprint.com/
   # - tier: Silver
   #   colour: "#9e9e9e"
   #   orgs:

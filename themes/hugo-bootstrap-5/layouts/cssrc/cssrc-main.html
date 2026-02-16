@@ -49,28 +49,28 @@
         </div>
       </div>
 
-      <div class="pb-4 pt-5 mt-5 pt-lg-0 mt-sm-0">
+      <!-- <div class="pb-4 pt-5 mt-5 pt-lg-0 mt-sm-0">
         <h4 class="text-center fw-semibold">Supported By</h4>
         <div class="d-flex flex-column gap-2">
           {{ range .Params.sponsors }}
-            <div
-              class="sponsorships align-items-center justify-content-center d-flex flex-column gap-0 flex-lg-row gap-lg-5">
-              <h4 class="fw-semibold pt-2 pt-lg-0" style="color:{{ .colour }};">
-                {{ .tier }} Sponsors:
-              </h4>
-              {{ range .orgs }}
-                <a
-                  class="sponsor"
-                  title="{{ .name }}"
-                  href="{{ .siteLink }}"
-                  target="_blank">
-                  <img src="{{ .imageLink }}" alt="{{ .name }}" />
-                </a>
-              {{ end }}
-            </div>
+        <div
+          class="sponsorships align-items-center justify-content-center d-flex flex-column gap-0 flex-lg-row gap-lg-5">
+          <h4 class="fw-semibold pt-2 pt-lg-0" style="color:{{ .colour }};">
+            {{ .tier }} Sponsors:
+          </h4>
+          {{ range .orgs }}
+            <a
+              class="sponsor"
+              title="{{ .name }}"
+              href="{{ .siteLink }}"
+              target="_blank">
+              <img src="{{ .imageLink }}" alt="{{ .name }}" />
+            </a>
           {{ end }}
         </div>
-      </div>
+      {{ end }}
+        </div>
+      </div> -->
 
       <div class="backdrop">
         <img src="/files/cssrc/2026/banner.png" alt="CSSRC Banner" />
@@ -146,7 +146,7 @@
                 {{ end }}
               </tbody>
             </table>
-            <i class="text-end">* Updated on Feb. 5</i>
+            <i class="text-end">* Updated on Feb. 15</i>
           </div>
         </div>
       </div>

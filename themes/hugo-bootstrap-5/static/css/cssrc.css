@@ -9,6 +9,14 @@
   --text-primary: #1a3662;
   --text-secondary: #cd9d43;
 }
+html {
+  height: 100%;
+  overflow-x: hidden;
+  /* scrollbar-gutter: stable both-edges; */
+}
+body {
+  min-height: 100%;
+}
 .text-primary {
   color: var(--text-primary) !important;
 }
@@ -173,6 +181,7 @@ nav .navbar-nav li a:hover {
 
 /* Footer */
 footer {
+  bottom: 0;
   max-width: none !important;
   background-color: var(--blue-chalk);
   color: var(--text-primary);
@@ -311,4 +320,21 @@ footer .copyright a:hover {
     width: 300px;
     padding: 0;
   }
+}
+
+.schedule-backdrop {
+  position: fixed;
+  overflow: hidden;
+  width: max(50dvw, 50dvh);
+  top: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+  opacity: 0.1;
+  transform: translate(0, 200px);
+}
+
+.schedule-backdrop img {
+  width: 100%;
+  height: 100%;
 }
