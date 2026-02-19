@@ -49,35 +49,37 @@
         </div>
       </div>
 
-      <!-- <div class="pb-4 pt-5 mt-5 pt-lg-0 mt-sm-0">
+      <div class="pb-4 pt-5 mt-5 pt-lg-0 mt-sm-0">
         <h4 class="text-center fw-semibold">Supported By</h4>
         <div class="d-flex flex-column gap-2">
           {{ range .Params.sponsors }}
-        <div
-          class="sponsorships align-items-center justify-content-center d-flex flex-column gap-0 flex-lg-row gap-lg-5">
-          <h4 class="fw-semibold pt-2 pt-lg-0" style="color:{{ .colour }};">
-            {{ .tier }} Sponsors:
-          </h4>
-          {{ range .orgs }}
-            <a
-              class="sponsor"
-              title="{{ .name }}"
-              href="{{ .siteLink }}"
-              target="_blank">
-              <img src="{{ .imageLink }}" alt="{{ .name }}" />
-            </a>
+            <div
+              class="sponsorships align-items-center justify-content-center d-flex flex-column gap-0 flex-lg-row gap-lg-5 px-4">
+              <h4
+                class="fw-semibold pt-2 pt-lg-0 text-nowrap"
+                style="color:{{ .colour }};">
+                {{ .tier }} Sponsors:
+              </h4>
+              {{ range .orgs }}
+                <a
+                  class="sponsor"
+                  title="{{ .name }}"
+                  href="{{ .siteLink }}"
+                  target="_blank">
+                  <img src="{{ .imageLink }}" alt="{{ .name }}" class="w-100" />
+                </a>
+              {{ end }}
+            </div>
           {{ end }}
         </div>
-      {{ end }}
-        </div>
-      </div> -->
+      </div>
 
       <div class="backdrop">
         <img src="/files/cssrc/2026/banner.png" alt="CSSRC Banner" />
       </div>
     </section>
 
-    <section class="col-xs col-sm-9 mx-auto pb-5">
+    <section class="col-xs col-sm-9 mx-auto pb-5 mb-5">
       <div class="row" id="information">
         <div class="container col-lg-7 order-1 order-lg-2" id="about">
           <h1 class="mb-4">About the Conference</h1>
@@ -151,9 +153,9 @@
         </div>
       </div>
 
-      <!-- <hr class="mx-auto my-5 w-75 d-none d-sm-block" />
+      <!-- <hr class="mx-auto my-5 w-75 d-none d-sm-block" /> -->
 
-      <div class="row text-center" id="sponsors">
+      <!-- <div class="row text-center" id="sponsors">
         <div class="container col-lg-12 d-flex flex-column gap-4">
           <h1>Sponsors</h1>
           <h4>We are thankful for our incredible sponsors!</h4>
