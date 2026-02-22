@@ -261,6 +261,9 @@ footer .copyright a:hover {
   transition: 0.2s ease;
   user-select: none;
 }
+.sponsorships .sponsor img:hover {
+  scale: 1.05;
+}
 
 /* Content */
 #information {
@@ -277,14 +280,35 @@ footer .copyright a:hover {
   max-width: fit-content;
 }
 .organizer-profile img {
-  width: 150px;
-  height: 150px;
+  width: 180px;
+  height: 180px;
   border-radius: 100%;
   filter: grayscale(1);
   transition: 0.2s ease;
 }
 .organizer-profile img:hover {
   filter: grayscale(0);
+}
+
+#opening-keynote {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  color: var(--text-primary);
+}
+
+#speakers {
+  background-color: var(--nile-blue);
+}
+#speakers * {
+  font-family: "Montserrat", sans-serif;
+  color: white !important;
+}
+#speakers p {
+  font-size: 1.5rem !important;
+}
+#speakers .speaker-img {
+  width: 300px;
+  height: auto;
 }
 
 #sponsors .sponsor {
@@ -319,6 +343,10 @@ footer .copyright a:hover {
   #sponsors .sponsor img {
     width: 300px;
     padding: 0;
+  }
+
+  #speakers p {
+    font-size: 1.25rem !important;
   }
 }
 
