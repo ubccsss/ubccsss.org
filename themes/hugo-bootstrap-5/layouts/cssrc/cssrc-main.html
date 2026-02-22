@@ -13,6 +13,7 @@
           <h4>The Inaugural</h4>
           <h1>UBC CS Student Research Conference '26</h1>
         </div>
+
         <div class="hero-details px-lg-0 px-2">
           <h4>
             February 27, 2026 at the
@@ -22,30 +23,23 @@
           </h4>
           <h5>Brought to you by the UBC CSGSA & CSSS</h5>
         </div>
-        <div class="buttons mb-0 mb-sm-5">
-          <a
-            href="https://hotcrp-cssrc.cs.ubc.ca/"
-            target="_blank"
-            class="btn mx-1 disabled"
-            title="Must be connected to the UBC network to access"
-            >Submit Paper/Poster*</a
-          >
-          <a href="/cssrc/schedule" class="btn mt-3 mt-lg-0 mx-1">Schedule</a>
-          <a
-            href="https://discord.gg/uWPuBTYwhs"
-            target="_blank"
-            class="btn mt-3 mt-lg-0 mx-1"
-            >Join the Discord!</a
-          >
-          <a
-            href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3y0LtZfgcC8eVme"
-            target="_blank"
-            class="btn mt-3 mx-1">
-            Sign Up for the Mailing List
-          </a>
-          <a href="/cssrc/proceedings" class="btn mt-3 mx-1 disabled"
-            >Paper Archives</a
-          >
+
+        <div class="buttons mb-0 mb-sm-5 d-flex flex-column flex-sm-col gap-3">
+          {{ range .Params.linkButtons }}
+            <div
+              class="d-flex flex-column flex-sm-row gap-3 justify-content-center align-items-center">
+              {{ range .row }}
+                {{ $target := default "_blank" .target }}
+                <a
+                  href="{{ .link }}"
+                  target="{{ $target }}"
+                  class="btn {{ if .disabled }}disabled{{ end }}"
+                  title="{{ .title }}"
+                  >{{ .text }}</a
+                >
+              {{ end }}
+            </div>
+          {{ end }}
         </div>
       </div>
 
@@ -79,7 +73,7 @@
       </div>
     </section>
 
-    <section class="col-xs col-sm-9 mx-auto pb-5 mb-5">
+    <section class="col-xs col-sm-9 mx-auto pb-5">
       <div class="row" id="information">
         <div class="container col-lg-7 order-1 order-lg-2" id="about">
           <h1 class="mb-4">About the Conference</h1>
@@ -153,9 +147,79 @@
         </div>
       </div>
 
-      <!-- <hr class="mx-auto my-5 w-75 d-none d-sm-block" /> -->
+      <hr class="mx-auto my-5 w-75" />
 
-      <!-- <div class="row text-center" id="sponsors">
+      <div class="row" id="opening-keynote">
+        <div class="container col-12 col-lg-10 col-xl-8">
+          <h1 class="mb-3 text-center">Opening Keynote</h1>
+          <i class="text-center fw-bold h4 mb-5 d-flex justify-content-center">
+            "From Intuitive Physics to Machine Physics and Back Again"
+          </i>
+          <div class="row">
+            <i class="pb-4">
+              Research often follows a circuitous path. In this talk, Dr. Kelsey
+              Allen will trace her journey from undergraduate physics at UBC to
+              a PhD in cognitive science at MIT, a role as a Research Scientist
+              at Google DeepMind, and her return to UBC as a Professor of
+              Psychology and Computer Science.
+            </i>
+            <i>
+              Along the way, she will tour the research questions that motivated
+              her, the insights gained in their pursuit, and the surprising
+              connections between these projects. Finally, she will discuss
+              exciting open problems in the joint space of human and machine
+              intelligence.
+            </i>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="pt-5">
+      <div class="row pb-5 pt-2" id="speakers">
+        <div class="container col-12 col-lg-10 col-xl-9 pb-5">
+          <h1 class="py-5 text-center align-self-center">About Our Speakers</h1>
+
+          {{ range .Params.speakersList }}
+            <div
+              id="{{ .id }}"
+              class="row d-flex flex-column align-items-center justify-content-center gap-5 gap-xl-2 pb-4">
+              <div
+                class="d-flex gap-4 align-items-center justify-content-center">
+                <hr class="mx-auto w-50 border-2 opacity-100" />
+                <span class="text-center fw-light p-0 m-0 text-nowrap"
+                  >{{ .group }}</span
+                >
+                <hr class="mx-auto w-50 border-2 opacity-100" />
+              </div>
+
+              <div class="col-11">
+                {{ range .speakers }}
+                  <div
+                    class="d-flex flex-column flex-xl-row align-items-center justify-content-center gap-0 gap-xl-5">
+                    <div>
+                      <img
+                        src="{{ .imageLink }}"
+                        alt="{{ .name }}"
+                        class="speaker-img {{ if .circlePortrait }}
+                          rounded-circle
+                        {{ end }}" />
+                    </div>
+                    <div class="px-0 py-5">
+                      {{ .bio | markdownify }}
+                    </div>
+                  </div>
+                {{ end }}
+              </div>
+            </div>
+          {{ end }}
+
+        </div>
+      </div>
+    </section>
+
+    <!-- <section class="py-5">
+      <div class="row text-center" id="sponsors">
         <div class="container col-lg-12 d-flex flex-column gap-4">
           <h1>Sponsors</h1>
           <h4>We are thankful for our incredible sponsors!</h4>
@@ -164,26 +228,26 @@
           <div
             class="d-flex justify-content-around align-items-center flex-column gap-1">
             {{ range .Params.sponsors }}
-        <h2 class="fw-bold col-12 col-lg-6 pt-4" style="color:{{ .colour }};">
-          <span><hr /></span>{{ .tier }} Sponsors <span><hr /></span>
-        </h2>
-        <div
-          class="d-flex justify-content-around flex-lg-row flex-column align-items-center gap-lg-5 gap-4 mb-2">
-          {{ range .orgs }}
-            <a
-              class="sponsor border"
-              title="{{ .name }}"
-              href="{{ .siteLink }}"
-              target="_blank">
-              <img src="{{ .imageLink }}" alt="{{ .name }}" />
-            </a>
-          {{ end }}
-        </div>
-      {{ end }}
+      <h2 class="fw-bold col-12 col-lg-6 pt-4" style="color:{{ .colour }};">
+        <span><hr /></span>{{ .tier }} Sponsors <span><hr /></span>
+      </h2>
+      <div
+        class="d-flex justify-content-around flex-lg-row flex-column align-items-center gap-lg-5 gap-4 mb-2">
+        {{ range .orgs }}
+          <a
+            class="sponsor border"
+            title="{{ .name }}"
+            href="{{ .siteLink }}"
+            target="_blank">
+            <img src="{{ .imageLink }}" alt="{{ .name }}" />
+          </a>
+        {{ end }}
+      </div>
+    {{ end }}
           </div>
         </div>
-      </div> -->
-    </section>
+      </div>
+    </section> -->
 
     {{ partial "cssrc/footer" . }}
   </body>
