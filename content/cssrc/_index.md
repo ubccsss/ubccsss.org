@@ -31,6 +31,7 @@ importantDates:
     date: February 27th
 speakersList:
   - group: Keynote Speaker
+    id: keynote-speaker
     speakers:
       - name: Dr. Kelsey Allen
         imageLink: /files/cssrc/2026/speakers/kelsey-allen.png
@@ -45,6 +46,7 @@ speakersList:
             DeepMind, Dr. Allen investigates the computational mechanisms that enable intelligent tool creation and environmental adaptation.
           </p>
   - group: Panelists
+    id: panelists
     speakers:
       - name: Saurabh Saxena
         imageLink: /files/cssrc/2026/speakers/saurabh-saxena.png

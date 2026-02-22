@@ -308,7 +308,8 @@ footer .copyright a:hover {
 }
 #speakers .speaker-img {
   width: 300px;
-  height: auto;
+  min-height: 300px;
+  object-fit: cover;
 }
 
 #sponsors .sponsor {
@@ -343,6 +344,10 @@ footer .copyright a:hover {
   #sponsors .sponsor img {
     width: 300px;
     padding: 0;
+  }
+
+  #opening-keynote {
+    font-size: 1.25rem;
   }
 
   #speakers p {
