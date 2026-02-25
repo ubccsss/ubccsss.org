@@ -13,8 +13,8 @@ linkButtons:
       - text: Join the Discord!
         link: https://discord.gg/uWPuBTYwhs
   - row:
-      - text: Sign Up for the Mailing List
-        link: https://ubc.ca1.qualtrics.com/jfe/form/SV_3y0LtZfgcC8eVme
+      - text: Submit Panel Questions
+        link: https://forms.gle/Y18Xpy3T8bGnTY3p9
       - text: Paper Archives
         link: /cssrc/proceedings
         disabled: true
