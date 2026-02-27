@@ -1,23 +1,23 @@
 reviews:
   - author: bill
-    authorLink: 
+    authorLink:
     date: 2025-11-05
     review: |
       I was looking forward to this course because I've taken a few philosophy and ethics courses and really enjoyed them. Unfortunately, it was extremely disappointing. The course tries to cover too much ground, and it doesn't really end up going into any of the ethical theories or their applications in depth. It opts for breadth rather than depth, only engaging with each theory and topic in a fairly superficial way.
-      
-      
+
+
       The grading scheme is quite frustrating. Your essay grades are determined by what your peers think of your work. This works surprisingly well and often leads to decent grades, I think because students tend to be generous with other students. More problematically, quite often the peer grades will be overwritten by TAs. Some of the TA feedback was perplexing, and it often seemed lower-effort than the peer reviews. The grades given were also not at all in line with feedback given in other writing courses. I think it would be better for a course like this to be assessed by philosophy professors or grad students, who are better qualified to assess writing and have a deeper understanding of the course content.
-      
-      
+
+
       A large part of your final grade is based on the quality of your peer reviews. The assumption underlying this is that essays have a "true grade" which can be mathematically determined by comparing the grades which different graders give it. Basically, you will get a high mark if you tend to agree with your peers and TAs when you are grading essays. To me this is just a pretty wild assumption. Grading an essay is quite subjective and there's no reason to think that all peer graders will, or should, converge on a single mark.
-      
-      
-      I was initially excited by the opportunity to get exposure to some different perspectives on ethics and CS, but quickly regretted my decision to take this course. I wouldn’t recommend it unless very large changes are made to the assessment and content. 
+
+
+      I was initially excited by the opportunity to get exposure to some different perspectives on ethics and CS, but quickly regretted my decision to take this course. I wouldn’t recommend it unless very large changes are made to the assessment and content.
     difficulty: 2
     quality: 1.5
     sessionTaken: 2025W1
   - author: ushankab
-    authorLink: 
+    authorLink:
     date: 2023-12-17
     review: |
       Not a great course, but a decent one overall. Gives lots of practice reading and writing argumentative essays. If that doesn’t sound like something you want to do, then this might not be the course for you. The textbook and lectures can be a little dry at times. However, the lectures also have a significant amount of participation and discussion which is a highlight of the course. People often had interesting things to say and points to make. Weekly essays are graded using peer review. Some may worry about this but I found the reviews to be quite fair and reasonable. See the syllabus for details on how exactly peer review works and how it is set up to try incentivize reasonable and fair peer reviews. I did find the course to be run in a bit of a disorganized and haphazard way compare to other CPSC courses. To be fair CPSC courses are almost always very well organized so that’s a high bar to meet. Also the bulk of tests comes from writing an argumentative essay (two for the final). However, writing good argumentative essays under artificial time constraints seems a bit silly in my view. It’s a bit like asking someone to code up a complex program. You don’t ask someone to do this on an exam because it’s simply not feasible under tight time constraints. But they need some way to assess that the learning outcomes are being met so I guess these sorts of tests may be a necessary evil in this class.
