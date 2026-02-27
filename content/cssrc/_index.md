@@ -15,9 +15,9 @@ linkButtons:
   - row:
       - text: Submit Panel Questions
         link: https://forms.gle/Y18Xpy3T8bGnTY3p9
-      - text: Paper Archives
-        link: /cssrc/proceedings
-        disabled: true
+      - text: Proceedings
+        link: https://drive.google.com/drive/folders/1ssJD-iO0FhFLJzCmkn-k4vapeeBPJUWM
+        # disabled: true
 importantDates:
   - submission: Title + Abstract (max 250 words)
     date: January 12th
@@ -102,6 +102,9 @@ sponsors:
       - name: Jukebox
         imageLink: /files/cssrc/2026/sponsors/jukebox.svg
         siteLink: https://www.jukeboxprint.com/
+      - name: CaterDash
+        imageLink: /files/cssrc/2026/sponsors/caterdash.svg
+        siteLink: https://www.caterdash.com/
   # - tier: Silver
   #   colour: "#9e9e9e"
   #   orgs:
