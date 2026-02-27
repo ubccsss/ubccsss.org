@@ -11,5 +11,5 @@ majors: Computer Science, Business & Computer Science, Computer Engineering
 workAuth: Canadian Citizen/Permanent Resident, International Student, US Citizen, All
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Co-op Student (8+ months), Recent Graduate
-boothNumber: TBA
+boothNumber: 24
 ---

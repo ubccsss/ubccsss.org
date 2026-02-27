@@ -311,13 +311,17 @@
   availability: Weekends, some Weekdays. (Contact me for scheduling)
 
 - name: Ayan Das
-  lastmod: 2025-06-21
+  lastmod: 2026-01-31
   courses: [CPSC110, CPSC210, CPSC304, CPSC322, CPSC310, CPSC213, CPSC221]
   email: ayandas@student.ubc.ca
-  rates: $50/hr weekdays, $55/hr weekends for upper year CS classes. However, tutoring for 110 is $35/hr weekdays, $40/hr weekends since first years have it rough anyway :)
+  rates:
+    "<br/>For upper year Classes: $60/hr weekdays, $65/hr weekends for upper year CS classes.
+    <br/>For 1st year Classes: $45/hr weekdays, $50/hr weekends since first years have it rough :)"
   availability: "Weekdays: 2–6 pm, Weekends: flexible"
   bio: |
     Graduated from UBC CS, and currently a SWE at a FAANG company. Also 8 terms of TA experience (CPSC 107, 110, 322) and 24 months of co-op experience.
+
+    contact me at ayandas99@gmail.com
 
 - name: Aleksandr Kim
   lastmod: 2024-04-25
@@ -353,13 +357,13 @@
   availability: I'm available any time and based on chat with the students
 
 - name: Phuong Nguyen
-  lastmod: 2024-09-20
+  lastmod: 2026-01-31
   courses: [CPSC107, CPSC110]
   email: phuongnguyen0612000@gmail.com
   bio: |
-    Recently graduated from UBC in Combined Major in Computer Science and Microbiology and Immunology. I am an experienced TA, having TA'd both CPSC 110 and 107 for multiple terms.
+    Currently working as a machine learning engineer at DeviantArt. Graduated May 2023 in Combined Major in Computer Science and Microbiology and Immunology. I am an experienced TA, having TA'ed both CPSC 110 and 107 for 8 terms. Have been tutoring since I graduated.
   rates: $45/h
-  availability: M-F 6pm - 10:30pm; weekend (flexible)
+  availability: weekdays 6pm - 10:00pm; weekend (flexible)
 
 - name: Brandon Kato
   lastmod: 2023-09-04

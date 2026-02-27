@@ -14,5 +14,5 @@ majors: Computer Science, Data Science, Computer Engineering
 workAuth: Canadian Citizen/Permanent Resident, International Student
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program
 positionTypes: Co-op Student (4 months), Co-op Student (8+ months), Full-time
-boothNumber: TBA
+boothNumber: 6
 ---

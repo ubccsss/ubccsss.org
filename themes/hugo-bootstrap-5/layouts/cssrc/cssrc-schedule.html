@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+  {{ partial "cssrc/metadata" . }}
+
+
+  <body class="bg-light pt-4">
+    {{ partial "cssrc/header" . }}
+
+
+    <span class="schedule-backdrop">
+      <img src="/files/cssrc/2026/cssrc-logo.svg" alt="CSSRC Logo" />
+    </span>
+
+    <section class="col-xs col-sm-9 mx-auto pb-5 mb-3">
+      <div class="row">
+        <div
+          class="container col-lg-8 order-2 order-lg-1 pt-lg-5"
+          id="schedule">
+          <h2 class="text-center mb-4">Program Schedule</h2>
+          <div class="row">
+            <table
+              class="table table-light table-bordered mx-2 overflow-auto mb-2">
+              <thead class="fw-bold tbl-head">
+                <tr>
+                  <td>Time</td>
+                  <td>Event</td>
+                </tr>
+              </thead>
+              <tbody>
+                {{ range .Params.schedule }}
+                  <tr>
+                    <td>{{ .from }} &ndash; {{ .to }}</td>
+                    <td>{{ .event }}</td>
+                  </tr>
+                {{ end }}
+              </tbody>
+            </table>
+            <i class="text-end">* Updated on Feb. 15</i>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    {{ partial "cssrc/footer" . }}
+  </body>
+</html>

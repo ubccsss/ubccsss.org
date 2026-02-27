@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+  {{ partial "cssrc/metadata" . }}
+
+
+  <body class="bg-light pt-4">
+    {{ partial "cssrc/header" . }}
+
+
+    <section class="col-xs col-md-8 mx-auto pb-5 mb-5">
+      <div class="container col-12 pt-lg-5">
+        <h1 class="mb-4 text-center text-md-start">Organizers</h1>
+        <div class="d-flex flex-column gap-2">
+          {{ range .Params.organizers }}
+            <hr class="d-none d-lg-block" />
+            <div class="p-3">
+              <h2 class="mb-4 text-center text-md-start">{{ .title }}</h2>
+              <div
+                class="row d-flex justify-content-center justify-content-md-start gap-5">
+                {{ range .members }}
+                  <div class="organizer-profile text-center">
+                    <img
+                      src="{{ .image }}"
+                      alt="{{ .name }}"
+                      title="{{ .name }}" />
+                    <p class="pt-4">{{ .name }}, {{ .role }}</p>
+                  </div>
+                {{ end }}
+              </div>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+
+    {{ partial "cssrc/footer" . }}
+  </body>
+</html>

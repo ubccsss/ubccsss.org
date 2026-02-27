@@ -15,5 +15,5 @@ majors: Computer Science, Business & Computer Science, Data Science
 workAuth: All
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Current Students in a Phd Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Internships, Co-op Student (4 months), Co-op Student (8+ months), Recent Graduate
-boothNumber: TBA
+boothNumber: 7
 ---

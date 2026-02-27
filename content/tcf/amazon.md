@@ -15,5 +15,5 @@ majors: Computer Science, Mathematics, Data Science, Computer Engineering, Elect
 workAuth: All
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program, Graduated with an Undergraduate Degree, Graduated with a Graduate Degree (Masters or Phd)
 positionTypes: Internships, Co-op Student (4 months), Co-op Student (8+ months), Recent Graduate
-boothNumber: TBA
+boothNumber: 10
 ---
