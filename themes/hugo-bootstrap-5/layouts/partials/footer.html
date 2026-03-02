@@ -24,7 +24,7 @@
               <h5>{{ i18n .header }}</h5>
               <ul class="list-unstyled">
                 {{ range .items }}
-                  {{ with $.GetPage . }}
+                  {{ with site.GetPage . }}
                     <li>
                       <a class="text-light" href="{{ .RelPermalink }}"
                         >{{ .Title }}</a
