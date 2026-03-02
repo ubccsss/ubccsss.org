@@ -5,7 +5,7 @@ main:
     weight: -140
   - identifier: partners
     name: Partners
-    url: /about/partners
+    url: /about/partners/
     weight: -130
   - identifier: cube
     name: The Cube
