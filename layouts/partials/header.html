@@ -1,124 +1,62 @@
-{{ $colorScheme := default "light" .Site.Params.header.colorScheme }}
-
-
-<header class="blog-header">
-  <nav
-    class="navbar navbar-top navbar-expand-lg navbar-{{ $colorScheme }} bg-{{ $colorScheme }} px-5">
+<header>
+  <nav class="navbar navbar-expand-lg navbar-dark navbar-redesign">
     <div class="container-fluid">
       <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
-        {{ partial "brand" . }}
+        <img src="/logo.svg" alt="UBC CSSS Logo" />
+        <span>UBC CSSS</span>
       </a>
       <button
         class="navbar-toggler"
         type="button"
         data-bs-toggle="collapse"
-        data-bs-target="#navbarNav"
-        aria-controls="navbarNav"
+        data-bs-target="#navbarRedesign"
+        aria-controls="navbarRedesign"
         aria-expanded="false"
         aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div
         class="collapse navbar-collapse justify-content-between"
-        id="navbarNav">
+        id="navbarRedesign">
         <ul class="navbar-nav">
           {{ $url := .RelPermalink | relLangURL }}
           {{ range .Site.Menus.main }}
             <li class="nav-item">
-              {{ if eq (hasPrefix .URL "mailto:") true }}
-                <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
-              {{ else }}
-                {{ $menuUrl := .URL | relLangURL }}
-                <a
-                  class="nav-link {{ if eq $url $menuUrl }}
-                    active
-                  {{ end }}"
-                  href="{{ $menuUrl }}"
-                  >{{ .Name }}</a
-                >
-              {{ end }}
+              <a
+                class="nav-link{{ if eq $url (.URL | relLangURL) }}
+                  active
+                {{ end }}"
+                href="{{ .URL | relLangURL }}"
+                >{{ .Name }}</a
+              >
             </li>
           {{ end }}
         </ul>
-        {{ if gt (len .Site.Home.AllTranslations) 1 }}
-          <ul class="navbar-nav">
-            <li class="nav-item dropdown">
-              <a
-                class="nav-link dropdown-toggle"
-                href="#"
-                id="navbarDropdown"
-                role="button"
-                data-bs-toggle="dropdown"
-                aria-expanded="false">
-                {{ i18n "language" }}
-              </a>
-              <ul
-                class="dropdown-menu dropdown-menu-end"
-                aria-labelledby="navbarDropdown">
-                {{ range .Site.Home.AllTranslations }}
-                  <li>
-                    <a class="dropdown-item" href="{{ .Permalink }}"
-                      >{{ .Language.LanguageName }}</a
-                    >
-                  </li>
-                {{ end }}
-              </ul>
-            </li>
-          </ul>
-        {{ end }}
-        <div class="row">
-          <div class="col-10">{{ partial "search-box" }}</div>
-          <!--Dark Mode Button-->
-          <div class="col-1">
-            <input type="checkbox" onchange="darkMode()" id="darkMode" />
-            <label for="darkMode" class="btn btn-outline-secondary"></label>
-          </div>
-        </div>
+        <form class="navbar-search-form" action="/search/" method="get">
+          <input
+            class="navbar-search-input"
+            type="text"
+            name="q"
+            placeholder="Search"
+            aria-label="Search" />
+          <span class="navbar-search-divider"></span>
+          <button type="submit" class="navbar-search-btn" aria-label="Search">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2.5"
+              stroke-linecap="round"
+              stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+          </button>
+        </form>
       </div>
     </div>
   </nav>
 </header>
-<!--Add Dark Mode Support-->
-<script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.73/darkreader.min.js"></script>
-<script>
-  if (localStorage.getItem("darkmode") === "true") {
-    DarkReader.enable();
-    document.getElementById("darkMode").checked = true;
-    // Delay added to ensure DarkReader completes styling before icon color update
-    setTimeout(() => updateIconColors(true), 100);
-  } else {
-    updateIconColors(false);
-  }
-
-  function darkMode() {
-    const wasDarkmode = localStorage.getItem("darkmode") === "true";
-    localStorage.setItem("darkmode", !wasDarkmode);
-    if (DarkReader.isEnabled()) {
-      DarkReader.disable();
-      updateIconColors(false);
-    } else {
-      DarkReader.enable();
-      updateIconColors(true);
-    }
-  }
-
-  function updateIconColors(isDarkMode) {
-    const socialIcons = document.querySelectorAll(".icon-image");
-    const carouselControlNextIcons = document.querySelectorAll(
-      ".carousel-control-next-icon"
-    );
-    const carouselControlPrevIcons = document.querySelectorAll(
-      ".carousel-control-prev-icon"
-    );
-    const carouselIcons = [
-      ...carouselControlNextIcons,
-      ...carouselControlPrevIcons
-    ];
-    socialIcons.forEach((icon) => {
-      icon.style.filter = isDarkMode ? "invert(100%)" : "invert(0%)";
-    });
-    carouselIcons.forEach((icon) => {
-      icon.style.filter = isDarkMode ? "invert(0%)" : "invert(100%)";
-    });
-  }
-</script>

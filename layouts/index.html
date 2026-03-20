@@ -1,280 +1,263 @@
 {{ define "header" }}
-  {{ partial "header-redesign" . }}
+  <div class="navbar-redesign--homepage">
+    {{ partial "header" . }}
+  </div>
 {{ end }}
 
 {{ define "body" }}
   {{ partial "home/hero" . }}
   <!-- Fetch and split events into upcoming and past -->
-  {{ $displayEventType := "upcoming" }}
   {{ $recentEvents := (.Site.GetPage "/events").Pages | first 28 }}
   {{ $upcomingEvents := slice }}
+  {{ $ongoingEvents := slice }}
   {{ $pastEvents := slice }}
   {{ $truncatedNow := now.Format "2006-01-02" | time }}
 
-  {{ range $i, $event := $recentEvents }}
-    {{ $startDate := time $event.Params.start_date }}
-    {{ $endDate := time $event.Params.end_date }}
-    {{ $truncatedStartDate := $startDate.Format "2006-01-02" | time }}
-    {{ $truncatedEndDate := $endDate.Format "2006-01-02" | time }}
-    {{ if or (ge $truncatedStartDate $truncatedNow) (ge $truncatedEndDate $truncatedNow) }}
+  {{ range $event := $recentEvents }}
+    {{ $startDate := ($event.Params.start_date | default $event.Date) | time }}
+    {{ $endDate := ($event.Params.end_date | default $event.Params.start_date | default $event.Date) | time }}
+    {{ $truncatedStart := $startDate.Format "2006-01-02" | time }}
+    {{ $truncatedEnd := $endDate.Format "2006-01-02" | time }}
+    {{ if gt $truncatedStart $truncatedNow }}
       {{ $upcomingEvents = $upcomingEvents | append $event }}
+    {{ else if and (le $truncatedStart $truncatedNow) (ge $truncatedEnd $truncatedNow) }}
+      {{ $ongoingEvents = $ongoingEvents | append $event }}
     {{ else }}
       {{ $pastEvents = $pastEvents | append $event }}
     {{ end }}
   {{ end }}
 
-  {{ $upcomingEventsLength := len $upcomingEvents }}
+  {{/* Default active tab: upcoming > ongoing > past */}}
+  {{ $defaultTab := "past" }}
+  {{ if gt (len $upcomingEvents) 0 }}
+    {{ $defaultTab = "upcoming" }}
+  {{ else if gt (len $ongoingEvents) 0 }}
+    {{ $defaultTab = "ongoing" }}
+  {{ end }}
 
 
-  <style>
-    .display-none {
-      display: none;
-    }
-  </style>
-
-  <script>
-    /**
-     * Dynamically shows and hides event carousels.
-     */
-    function showEvents(eventType, clickedElement) {
-      document.getElementById("events-nav-bar-past").classList.remove("active");
-      document
-        .getElementById("events-nav-bar-upcoming")
-        .classList.remove("active");
-
-      clickedElement.classList.add("active");
-
-      const pastEventsCarousel = document.getElementById("eventsCarouselPast");
-      const upcomingEventsCarousel = document.getElementById(
-        "eventsCarouselUpcoming"
-      );
-
-      if (eventType === "upcoming") {
-        upcomingEventsCarousel.style.display = "block";
-        pastEventsCarousel.style.display = "none";
-      } else {
-        upcomingEventsCarousel.style.display = "none";
-        pastEventsCarousel.style.display = "block";
-      }
-    }
-  </script>
-
-  <div class="container-fluid">
-    <div class="row justify-content-center pt-3 mb-lg-5 mb-3 text-center">
-      <div class="w-75 col-lg-10 title">
-        <h1 class="mb-lg-4">{{ .Title }}</h1>
-        <p>{{ .Content }}</p>
+  <section class="events-section">
+    <!-- Centered: heading + filter buttons -->
+    <div class="events-section__header">
+      <h2 class="events-section__heading">Our Events</h2>
+    </div>
+    <hr class="events-section__divider" />
+    <div class="events-section__header">
+      <div class="events-filter" role="tablist" aria-label="Event filters">
+        <button
+          id="filter-past"
+          class="events-filter__btn {{ if eq $defaultTab "past" }}
+            events-filter__btn--active
+          {{ end }}"
+          onclick="switchEventTab('past', this)"
+          role="tab"
+          aria-selected="{{ if eq $defaultTab "past" }}
+            true
+          {{ else }}
+            false
+          {{ end }}">
+          Past Events
+        </button>
+        <button
+          id="filter-ongoing"
+          class="events-filter__btn {{ if eq $defaultTab "ongoing" }}
+            events-filter__btn--active
+          {{ end }}"
+          onclick="switchEventTab('ongoing', this)"
+          role="tab"
+          aria-selected="{{ if eq $defaultTab "ongoing" }}
+            true
+          {{ else }}
+            false
+          {{ end }}">
+          Ongoing Events
+        </button>
+        <button
+          id="filter-upcoming"
+          class="events-filter__btn {{ if eq $defaultTab "upcoming" }}
+            events-filter__btn--active
+          {{ end }}"
+          onclick="switchEventTab('upcoming', this)"
+          role="tab"
+          aria-selected="{{ if eq $defaultTab "upcoming" }}
+            true
+          {{ else }}
+            false
+          {{ end }}">
+          Upcoming Events
+        </button>
       </div>
     </div>
-    <hr class="w-75 mx-auto" />
-    <div class="row justify-content-center mt-3 py-lg-4">
-      <div class="col-lg-8 text-center large-text">
-        <h1>Our Events</h1>
-      </div>
-    </div>
 
-    <div style="margin-left: 3rem; margin-right: 3rem;">
-      <ul class="nav nav-tabs">
-        <li class="nav-item">
-          <a
-            id="events-nav-bar-upcoming"
-            class="nav-link {{ if ne $upcomingEventsLength 0 }}active{{ end }}"
-            aria-current="page"
-            onclick="showEvents('upcoming', this)"
-            >Upcoming Events</a
-          >
-        </li>
-        <li class="nav-item">
-          <a
-            id="events-nav-bar-past"
-            class="nav-link {{ if eq $upcomingEventsLength 0 }}active{{ end }}"
-            onclick="showEvents('past', this)"
-            >Past Events</a
-          >
-        </li>
-      </ul>
-    </div>
-
+    <!-- Full-width carousel panels -->
     <div
-      id="eventsCarouselUpcoming"
-      class="{{ if eq $upcomingEventsLength 0 }}display-none{{ end }}">
-      {{ if ne $upcomingEventsLength 0 }}
-        {{ partial "event-carousel.html" (dict "controlsId" "carouselControlsUpcoming" "events" $upcomingEvents) }}
+      id="eventsCarouselPast"
+      class="events-tab {{ if eq $defaultTab "past" }}
+        events-tab--active
+      {{ end }}"
+      role="tabpanel">
+      {{ if gt (len $pastEvents) 0 }}
+        {{ partial "events-fan-carousel.html" (dict "carouselId" "fanPast" "events" $pastEvents) }}
       {{ else }}
-        <p class="text-center p-4">
-          No upcoming events at the moment. Check back later!
-        </p>
-        <p></p>
+        <p class="events-section__empty">No past events yet.</p>
       {{ end }}
     </div>
 
     <div
-      id="eventsCarouselPast"
-      class="{{ if ne $upcomingEventsLength 0 }}display-none{{ end }}">
-      {{ partial "event-carousel.html" (dict "controlsId" "carouselControlsPast" "events" $pastEvents) }}
+      id="eventsCarouselOngoing"
+      class="events-tab {{ if eq $defaultTab "ongoing" }}
+        events-tab--active
+      {{ end }}"
+      role="tabpanel">
+      {{ if gt (len $ongoingEvents) 0 }}
+        {{ partial "events-fan-carousel.html" (dict "carouselId" "fanOngoing" "events" $ongoingEvents) }}
+      {{ else }}
+        <p class="events-section__empty">No ongoing events at the moment.</p>
+      {{ end }}
     </div>
 
-    <div class="row justify-content-center pt-lg-2 pb-lg-4">
-      <div class="col-lg-8 text-center">
-        Have a suggested event or initiative in mind? Send it our way
-        <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLSdS49z5TPjGM9Iwrfh4SAxuok6UBaP_lKtMi98qWj30NHaRjA/viewform"
-          >here</a
-        >.
-      </div>
+    <div
+      id="eventsCarouselUpcoming"
+      class="events-tab {{ if eq $defaultTab "upcoming" }}
+        events-tab--active
+      {{ end }}"
+      role="tabpanel">
+      {{ if gt (len $upcomingEvents) 0 }}
+        {{ partial "events-fan-carousel.html" (dict "carouselId" "fanUpcoming" "events" $upcomingEvents) }}
+      {{ else }}
+        <p class="events-section__empty">
+          No upcoming events at the moment. Check back later!
+        </p>
+      {{ end }}
     </div>
-    <hr class="w-75 mx-auto" />
-    <div class="row mb-4 mt-5 py-lg-4">
-      <div class="col-12 col-lg-8 blog-main">
-        <div class="row justify-content-center">
-          <div class="col-lg-8 text-center large-text pb-5">
-            <h1>Services</h1>
-          </div>
+  </section>
+
+  <script>
+    function switchEventTab(tab, btn) {
+      ["past", "ongoing", "upcoming"].forEach(function (t) {
+        document
+          .getElementById(
+            "eventsCarousel" + t.charAt(0).toUpperCase() + t.slice(1)
+          )
+          .classList.remove("events-tab--active");
+        var filterBtn = document.getElementById("filter-" + t);
+        filterBtn.classList.remove("events-filter__btn--active");
+        filterBtn.setAttribute("aria-selected", "false");
+      });
+      document
+        .getElementById(
+          "eventsCarousel" + tab.charAt(0).toUpperCase() + tab.slice(1)
+        )
+        .classList.add("events-tab--active");
+      btn.classList.add("events-filter__btn--active");
+      btn.setAttribute("aria-selected", "true");
+    }
+  </script>
+
+  <section class="services-section">
+    <div class="services-section__header">
+      <h2 class="services-section__heading">Services</h2>
+    </div>
+    <hr class="services-section__divider" />
+    <div class="services-grid">
+      <a class="services-card" href="/services/courses/">
+        <img
+          class="services-card__img"
+          src="https://d33wubrfki0l68.cloudfront.net/e2ad15d073dbd9d0a734261924994fc7fac2f302/bc5f9/files/classroom.jpg"
+          alt="" />
+        <div class="services-card__overlay">
+          <h3 class="services-card__title">Course Review Database</h3>
+          <p class="services-card__desc">
+            We provide a database of student-sourced course reviews and
+            descriptions to help you choose your next classes.
+          </p>
         </div>
-        <div
-          class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 px-5 pt-lg-3 pt-3 g-4 mb-5">
-          <div class="col">
-            <div class="card w-100">
-              <img
-                class="card-img-top img-fluid"
-                src="https://d33wubrfki0l68.cloudfront.net/e2ad15d073dbd9d0a734261924994fc7fac2f302/bc5f9/files/classroom.jpg"
-                alt=""
-                width="348"
-                height="196" />
-              <div class="card-body">
-                <h5 class="card-title">
-                  <a class="card-link" href="/services/courses/"
-                    >Course Reviews Database</a
-                  >
-                </h5>
-                <p class="card-text">
-                  We provide a database of student-sourced course reviews and
-                  descriptions to help you choose you next classes.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card w-100">
-              <img
-                class="card-img-top img-fluid"
-                src="https://d33wubrfki0l68.cloudfront.net/10e0ed0cbab83ecb5a61de3106d5fa309ae1b8b8/b3e32/files/tutor.jpg"
-                alt=""
-                width="348"
-                height="196" />
-              <div class="card-body">
-                <h5 class="card-title">
-                  <a class="card-link" href="/services/tutor">Tutoring</a>
-                </h5>
-                <p class="card-text">
-                  We provide a place for tutors to advertise their availability
-                  and for students to find a tutor for Computer Science courses.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card w-100">
-              <img
-                class="card-img-top img-fluid"
-                src="https://d33wubrfki0l68.cloudfront.net/623ada90eddf24598a01bd2a3ee52e750515e9e9/06d8d/files/lounge.jpg"
-                alt=""
-                width="348"
-                height="196" />
-              <div class="card-body">
-                <h5 class="card-title">
-                  <a class="card-link" href="/cube/">The Cube</a>
-                </h5>
-                <p class="card-text">
-                  We run a student lounge in ICICS 021, with cheap food, free
-                  microwaves, video games, and a place to hang out.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card w-100">
-              <img
-                class="card-img-top img-fluid"
-                src="/files/lockers.jpg"
-                alt=""
-                width="348"
-                height="196" />
-              <div class="card-body">
-                <h5 class="card-title">
-                  <a class="card-link" href="/cube/lockers">Locker Rentals</a>
-                </h5>
-                <p class="card-text">
-                  We offer lockers in ICICS for rent at $15 per semester - the
-                  cheapest rates at UBC.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card w-100">
-              <img
-                class="card-img-top img-fluid"
-                src="https://d33wubrfki0l68.cloudfront.net/e71f6e23e6c2a230223c6e13f9eb1ab25244b27e/00822/files/chips.jpg"
-                alt=""
-                width="348"
-                height="196" />
-              <div class="card-body">
-                <h5 class="card-title">
-                  <a class="card-link" href="/cube/menu/">Cube Menu</a>
-                </h5>
-                <p class="card-text">
-                  We provide cheap snacks, like chips, pizza, candy, and drinks,
-                  in the Cube.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card w-100">
-              <img
-                class="card-img-top img-fluid"
-                src="https://d33wubrfki0l68.cloudfront.net/e42ea3beeba3cc5b34c9ae1ec7b033c3045eb1e0/4619c/files/exams.jpg"
-                alt=""
-                width="348"
-                height="196" />
-              <div class="card-body">
-                <h5 class="card-title">
-                  <a class="card-link" href="https://ubccsss.org/services/exams"
-                    >Study Stack</a
-                  >
-                </h5>
-                <p class="card-text">
-                  We provide a database of old exams and study resources for
-                  review.
-                </p>
-              </div>
-            </div>
-          </div>
+      </a>
+      <a class="services-card" href="/services/tutor">
+        <img
+          class="services-card__img"
+          src="https://d33wubrfki0l68.cloudfront.net/10e0ed0cbab83ecb5a61de3106d5fa309ae1b8b8/b3e32/files/tutor.jpg"
+          alt="" />
+        <div class="services-card__overlay">
+          <h3 class="services-card__title">Tutoring</h3>
+          <p class="services-card__desc">
+            We provide a place for tutors to advertise their availability and
+            for students to find a tutor for Computer Science courses.
+          </p>
         </div>
-        <div class="row justify-content-center">
-          <div class="col-lg-8 text-center large-text pb-5">
-            <h1>Calendar</h1>
-          </div>
+      </a>
+      <a class="services-card" href="/cube/">
+        <img
+          class="services-card__img"
+          src="https://d33wubrfki0l68.cloudfront.net/623ada90eddf24598a01bd2a3ee52e750515e9e9/06d8d/files/lounge.jpg"
+          alt="" />
+        <div class="services-card__overlay">
+          <h3 class="services-card__title">The Cube</h3>
+          <p class="services-card__desc">
+            We run a student lounge in ICICS 021, with cheap food, free
+            microwaves, video games, and a place to hang out.
+          </p>
         </div>
+      </a>
+      <a class="services-card" href="/cube/lockers">
+        <img class="services-card__img" src="/files/lockers.jpg" alt="" />
+        <div class="services-card__overlay">
+          <h3 class="services-card__title">Locker Rentals</h3>
+          <p class="services-card__desc">
+            We offer lockers in ICICS for rent at $15 per semester - the
+            cheapest rates at UBC.
+          </p>
+        </div>
+      </a>
+      <a class="services-card" href="/cube/menu/">
+        <img
+          class="services-card__img"
+          src="https://d33wubrfki0l68.cloudfront.net/e71f6e23e6c2a230223c6e13f9eb1ab25244b27e/00822/files/chips.jpg"
+          alt="" />
+        <div class="services-card__overlay">
+          <h3 class="services-card__title">Cube Menu</h3>
+          <p class="services-card__desc">
+            We provide cheap snacks, like chips, pizza, candy, and drinks, in
+            the Cube.
+          </p>
+        </div>
+      </a>
+      <a class="services-card" href="/services/exams">
+        <img
+          class="services-card__img"
+          src="https://d33wubrfki0l68.cloudfront.net/e42ea3beeba3cc5b34c9ae1ec7b033c3045eb1e0/4619c/files/exams.jpg"
+          alt="" />
+        <div class="services-card__overlay">
+          <h3 class="services-card__title">Study Stack</h3>
+          <p class="services-card__desc">
+            We provide a database of old exams and study resources for review.
+          </p>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <section class="calendar-section">
+    <div class="calendar-section__header">
+      <h2 class="calendar-section__heading">Calendar</h2>
+    </div>
+    <hr class="calendar-section__divider" />
+    <div class="calendar-grid">
+      <div class="calendar-grid__panel">
         <iframe
           id="open-web-calendar"
-          style="
-          background: url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif')
-            center center no-repeat;
-        "
+          title="UBC CSSS Calendar"
           src="https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https%3A%2F%2Fubccsss.org%2Fevents%2Findex.ics&amp;title=UBC%20CSSS%20Calendar&amp;url=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fical%2F1e1ce102f2951b154df282dc66ea69722b37b41a8956d88361befe9ceb9e8080%2540group.calendar.google.com%2Fpublic%2Fbasic.ics"
           sandbox="allow-scripts allow-same-origin allow-top-navigation"
           allowTransparency="true"
           scrolling="no"
           frameborder="0"
-          height="600px"
-          width="100%"
-          class="px-5 pb-5"></iframe>
+          loading="lazy"></iframe>
       </div>
-      <!-- https://harmstyler.me/posts/2019/how-to-pass-variables-to-a-partial-template-in-hugo/ -->
-      {{ .Scratch.Set "classes" "hide-on-mobile" }}
-      {{ partial "sidebar" . }}
+      <div class="calendar-grid__panel">
+        {{ .Scratch.Set "classes" "" }}
+        {{ partial "sidebar" . }}
+      </div>
     </div>
-  </div>
+  </section>
 {{ end }}

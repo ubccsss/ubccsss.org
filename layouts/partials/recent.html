@@ -1,18 +1,23 @@
 {{ $num_recent_posts := default 5 .Site.Params.sidebar.num_recent_posts }}
 {{ $posts := first $num_recent_posts (where .Site.RegularPages "Section" "in" .Site.Params.mainSections) }}
 {{ if gt (len $posts) 0 }}
-  <section>
-    <h4>{{ i18n "recentPosts" }}</h4>
-    <ol class="list-unstyled">
+  <div class="recent-posts">
+    <h3 class="recent-posts__heading">Recent Posts</h3>
+    <ul class="recent-posts__list">
       {{ range $posts }}
-        <li>
-          <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+        <li class="recent-posts__item">
+          <a class="recent-posts__link" href="{{ .RelPermalink }}">
+            <span class="recent-posts__title">{{ .Title | markdownify }}</span>
+            <span class="recent-posts__date"
+              >{{ dateFormat "Jan 2, 2006" .Date }}</span
+            >
+          </a>
         </li>
       {{ end }}
-      <li class="pt-3">
-        <a href="/events">See more events</a> |
-        <a href="/posts">See more posts</a>
-      </li>
-    </ol>
-  </section>
+    </ul>
+    <div class="recent-posts__footer">
+      <a class="recent-posts__more" href="/events">Events</a>
+      <a class="recent-posts__more" href="/posts">Posts</a>
+    </div>
+  </div>
 {{ end }}
