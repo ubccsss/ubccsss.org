@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+  <head>
+    {{ partial "head-meta" . }}
+
+
+    <link rel="canonical" href="{{ .Permalink }}" />
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.2/css/bootstrap.min.css"
+      integrity="sha512-CpIKUSyh9QX2+zSdfGP+eWLx23C8Dj9/XmHjZY2uDtfkdLGo0uY12jgcnkX9vXOgYajEKb/jiw67EYm+kBf+6g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer" />
+
+    <link href="{{ "css/style.css" | relURL }}" rel="stylesheet" />
+    <link href="{{ "css/elections.css" | relURL }}" rel="stylesheet" />
+
+    {{ range .AlternativeOutputFormats -}}
+      <link
+        rel="{{ .Rel }}"
+        type="{{ .MediaType.Type }}"
+        href="{{ .Permalink | safeURL }}" />
+    {{ end -}}
+    {{ template "_internal/google_analytics_async.html" . }}
+    {{ partial "head-custom.html" . }}
+  </head>
+  <body>
+    {{ partial "header" . }}
+
+
+    <section class="elx-hero">
+      <div class="elx-hero__overlay"></div>
+      <div class="elx-hero__content">
+        <p class="elx-hero__eyebrow">UBC Computer Science Student Society</p>
+        <h1 class="elx-hero__title">Elections 2026–2027</h1>
+        <p class="elx-hero__subtitle">
+          Meet the candidates running for the CSSS Executive Team.
+        </p>
+      </div>
+    </section>
+
+    <nav class="elx-position-nav" id="positionNav">
+      <div class="elx-position-nav__inner">
+        {{ range .Site.Data.elections2026.positions }}
+          <a
+            class="elx-position-nav__pill"
+            href="#{{ .id }}"
+            data-position="{{ .id }}">
+            {{ .title }}
+          </a>
+        {{ end }}
+      </div>
+    </nav>
+
+    <main class="elx-main">
+      {{ $candidates := .Site.Data.elections2026.candidates }}
+      {{ range .Site.Data.elections2026.positions }}
+        {{ $pos := .id }}
+        {{ $posTitle := .title }}
+        {{ $posCandidates := where $candidates "position" $pos }}
+        {{ if $posCandidates }}
+          <section class="elx-section" id="{{ $pos }}">
+            <div class="elx-section__header">
+              <h2 class="elx-section__title">{{ $posTitle }}</h2>
+              <span class="elx-section__count">
+                {{ len $posCandidates }}
+                {{ if eq (len $posCandidates) 1 }}
+                  candidate
+                {{ else }}
+                  candidates
+                {{ end }}
+              </span>
+            </div>
+
+            <div class="elx-candidates">
+              {{ range $posCandidates }}
+                <article class="elx-card">
+                  <div class="elx-card__photo-col">
+                    <div class="elx-card__photo-wrap">
+                      <img
+                        class="elx-card__photo"
+                        src="{{ .photo }}"
+                        alt="Photo of {{ delimit .names " & " }}"
+                        onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" />
+                      <div
+                        class="elx-card__photo-fallback"
+                        style="display: none;">
+                        {{ $initials := "" }}
+                        {{ range .names }}
+                          {{ $parts := split . " " }}
+                          {{ $initials = printf "%s%s"
+                            $initials
+                            (substr (index $parts 0) 0 1)
+                          }}
+                        {{ end }}
+                        {{ $initials }}
+                      </div>
+                    </div>
+                  </div>
+                  <div class="elx-card__body">
+                    <div class="elx-card__header">
+                      <div>
+                        <h3 class="elx-card__name">
+                          {{ delimit .names " & " }}
+                        </h3>
+                        <span class="elx-card__position">{{ $posTitle }}</span>
+                      </div>
+                    </div>
+                    <div class="elx-card__statement-wrap">
+                      <div class="elx-card__statement" data-collapsed="true">
+                        {{ .statement | markdownify }}
+                      </div>
+                      <button
+                        class="elx-card__toggle"
+                        onclick="toggleStatement(this)"
+                        aria-label="Toggle full statement">
+                        Read more
+                        <svg
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-width="2.5"
+                          stroke-linecap="round"
+                          stroke-linejoin="round">
+                          <polyline points="6 9 12 15 18 9" />
+                        </svg>
+                      </button>
+                    </div>
+                  </div>
+                </article>
+              {{ end }}
+            </div>
+          </section>
+        {{ end }}
+      {{ end }}
+    </main>
+
+    {{ partial "footer" . }}
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.2/js/bootstrap.bundle.min.js"
+      integrity="sha512-BOsvKbLb0dB1IVplOL9ptU1EYA+LuCKEluZWRUYG73hxqNBU85JBIBhPGwhQl7O633KtkjMv8lvxZcWP+N3V3w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"></script>
+
+    <script>
+      function toggleStatement(btn) {
+        var wrap = btn.previousElementSibling;
+        var collapsed = wrap.getAttribute("data-collapsed") === "true";
+        wrap.setAttribute("data-collapsed", collapsed ? "false" : "true");
+        btn.innerHTML = collapsed
+          ? 'Show less <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 15 12 9 18 15"/></svg>'
+          : 'Read more <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>';
+      }
+
+      document.addEventListener("DOMContentLoaded", function () {
+        var nav = document.getElementById("positionNav");
+        var pills = nav.querySelectorAll(".elx-position-nav__pill");
+        var sections = document.querySelectorAll(".elx-section");
+
+        var observer = new IntersectionObserver(
+          function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) {
+                pills.forEach(function (p) {
+                  p.classList.remove("elx-position-nav__pill--active");
+                });
+                var active = nav.querySelector(
+                  '[data-position="' + entry.target.id + '"]'
+                );
+                if (active) {
+                  active.classList.add("elx-position-nav__pill--active");
+                  active.scrollIntoView({
+                    behavior: "smooth",
+                    block: "nearest",
+                    inline: "center"
+                  });
+                }
+              }
+            });
+          },
+          { rootMargin: "-20% 0px -70% 0px" }
+        );
+
+        sections.forEach(function (s) {
+          observer.observe(s);
+        });
+
+        pills.forEach(function (pill) {
+          pill.addEventListener("click", function (e) {
+            e.preventDefault();
+            var target = document.getElementById(
+              this.getAttribute("data-position")
+            );
+            if (target) {
+              var navHeight = nav.offsetHeight;
+              var y =
+                target.getBoundingClientRect().top +
+                window.pageYOffset -
+                navHeight -
+                24;
+              window.scrollTo({ top: y, behavior: "smooth" });
+            }
+          });
+        });
+      });
+    </script>
+  </body>
+</html>
