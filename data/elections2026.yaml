@@ -1,0 +1,381 @@
+positions:
+  - id: president
+    title: President
+  - id: vp-academic
+    title: VP Academic
+  - id: vp-external
+    title: VP External
+  - id: vp-internal
+    title: VP Internal
+  - id: vp-culture
+    title: VP Culture
+  - id: vp-admin
+    title: VP Admin
+  - id: vp-social
+    title: VP Social
+  - id: vp-finance
+    title: VP Finance
+  - id: vp-communications
+    title: VP Communications
+
+candidates:
+  # To add a photo: place the image in static/files/elections2026/ and update the path below.
+  # A fallback initial is shown automatically if the image is missing.
+  - position: president
+    names:
+      - Renata Liu
+    email: renata_liu@outlook.com
+    photo: "/files/elections2026/renata-liu.jpg"
+    instagram: ""
+    statement: >
+      Hi, I'm Renata, the current VP Social and a third-year Computer Science
+      student who has been involved with the Computer Science Student Society
+      for the past three years. During this time, I have had the privilege of
+      organizing events that foster community and create meaningful experiences
+      for CS students.
+
+
+      If elected, my main goal would be to ensure initiatives led by CSSS are
+      accessible to all students in the student body. One way to achieve this
+      is by expanding sponsorship efforts to lower entry prices to ticketed
+      events and ensure that financial barriers do not prevent students from
+      participating.
+
+  - position: vp-academic
+    names:
+      - Belal Mohammed-Nur
+    email: belal.mnur@gmail.com
+    photo: "/files/elections2026/belal-mohammed-nur.jpg"
+    instagram: ""
+    statement: >
+      Hi, I'm Belal. This current 2025–26 academic year, I've been a member of
+      the CSSS academic team, serving as a lead organizer and conference chair
+      for the UBC CSSRC.
+
+
+      Since joining the team in summer 2025, I quickly rose to the task of
+      leading on all fronts of the conference. From refining the conference
+      vision and bringing new ideas to the table, to defending these ideas to
+      the CS department's Student Development team.
+
+
+      For the upcoming 2026–27 academic year, my vision is to continue to
+      serve the increasing interest in research from the CS student body, while
+      reaping the benefits of a united UBC CS research community. In our first
+      CSSRC, we focused on providing a platform for students to share their
+      research, and I want to continue building on that foundation.
+
+  - position: vp-academic
+    names:
+      - Muzammil Chunawala
+    email: muzamilc@student.ubc.ca
+    photo: "/files/elections2026/muzammil-chunawala.jpg"
+    instagram: "https://www.instagram.com/muzzuforvpacademic"
+    statement: >
+      I am a fourth-year combined major in Computer Science and Mathematics.
+      I am also the former President of the UBC Data Science Club. During my
+      term as President, our team successfully organized 5+ events that
+      catered to over 200 students.
+
+
+      I am now running for the position of Vice President, Academic. This
+      position interests me because I have personally experienced the
+      difficulties that students face — managing courses, resolving conflicts,
+      and navigating academic policies. I want to be a voice for students and
+      help them navigate these challenges.
+
+
+      My goals for the upcoming academic year include improving the current
+      conflict resolution system, creating a safe space where students feel
+      comfortable opening up about their academic issues, and ensuring that the
+      academic department hears student concerns. I also aim to improve research
+      opportunities available to students, especially for first- and second-year
+      students, by working closely with research labs at UBC.
+
+
+      Following the success of the first Computer Science Student Research
+      Conference, my goal is to make even more resources accessible to students
+      who are interested in presenting their research and connecting with the
+      broader research community.
+
+  - position: vp-external
+    names:
+      - Matthew Andersen Haryanto
+      - Alexis Danielle Widjaja
+    email: matthewanh10@gmail.com, daniellewid20@gmail.com
+    photo: "/files/elections2026/matthew-alexis.jpg"
+    instagram: "https://www.instagram.com/matt.alexis.4vpexternal"
+    statement: >
+      Hi everyone, my name is Alexis, and I'm a third-year standing Data
+      Science major at UBC. In the past 2 months, I've served as the External
+      Vice President of the UBC Data Science Club, where I focus on building
+      partnerships that connect students with industry professionals. I've
+      worked on outreach and successful collaborations with companies such as
+      Microsoft and RBC, and I'm currently coordinating an upcoming event with
+      Databricks.
+
+
+      Through these experiences, I've noticed that one of the biggest concerns
+      among students is not just learning technical skills, but understanding
+      how to break into the industry. Many students are unsure about internship
+      pathways, hiring expectations, and what companies actually look for.
+
+
+      Hi, my name is Matthew, a third-year Combined Major in Computer Science
+      and Statistics student. Over the past two years, I have been deeply
+      involved in UBC's tech community as a Frontend developer. From my
+      experience working across multiple clubs and teams, I have noticed that
+      CS students at UBC rarely struggle with the technical side of things.
+      What's often missing is the bridge between academic learning and industry
+      expectations.
+
+
+      If elected as Co-VP External for CSSS, our priority is to build
+      tight-knit, lasting partnerships with companies that give UBC Computer
+      Science students a real edge — expanding initiatives like the Technical
+      Career Fair while also creating more informal networking opportunities
+      throughout the year. Our goal is to help CSSS strengthen its role as a
+      bridge between students and the tech industry.
+
+  - position: vp-external
+    names:
+      - Saurav Roy
+      - Apoorva Devarakonda
+    email: roy14@student.ubc.ca, adevarak@student.ubc.ca
+    photo: "/files/elections2026/saurav-apoorva.jpg"
+    instagram: ""
+    statement: >
+      Hi everyone! My name is Saurav, a third-year CS Major and I'm excited to
+      run for CSSS Co-VP External. Over the past year, I have had the
+      opportunity to work closely with the External team as a Corporate
+      Relations Coordinator, where I collaborated to organize events such as
+      the Google Resume Review Workshop and the CSSS Technical Career Fair.
+      This term, I have been contributing as an Assistant VP External, to help
+      the external team better track and support ongoing external event
+      initiatives.
+
+
+      Greetings everyone! My name is Apoorva Devarakonda, and I'm a
+      fourth-year Computer Science student running for CSSS Co-VP External.
+      Over the past year, I've had the opportunity to serve as an External
+      Officer for CSSS (2024–25) and currently as the Interim VP External
+      (2025–26). In these roles, I've helped manage the External team and
+      coordinate industry engagement events.
+
+
+      If elected, we will focus on improving the engagement, quality and
+      quantity of our external events. Our goal is to help maintain strong
+      partnerships with companies, support the growth of events like TCF, and
+      continue building meaningful connections between the UBC CS community
+      and the tech industry.
+
+  - position: vp-internal
+    names:
+      - Marcus Lim
+      - Draco Ferreira Souza
+    email: limarcush@gmail.com, dracofs.777@gmail.com
+    photo: "/files/elections2026/marcus-draco.jpg"
+    instagram: "https://www.instagram.com/dracoandmarcusforvpinternals/"
+    statement: >
+      The cube should feel like a second home on campus. Whether using the
+      microwaves, playing games, or resting, we are committed to making the
+      cube a space where every student feels welcome, supported and energized.
+
+
+      We're 3rd year CS students who regularly use the cube between classes,
+      grabbing snacks, unwinding with friends or catching up on work. We've
+      seen firsthand what makes the cube work well, and where improvements
+      are needed.
+
+
+      This past year, we've noticed operational challenges that need to be
+      addressed. Together as Co-VP Internals, we believe the cube can become
+      a stronger, more reliable hub for connection, relaxation and
+      collaboration. We plan to:
+
+      1) Have transparent and more detailed hiring processes to ensure
+      consistent availability and reliable restocking throughout the year.
+
+      2) Develop comprehensive training for all officers to improve
+      professionalism, accountability and the overall student experience.
+
+      3) Refresh food and drink options based on student preferences to better
+      meet community needs.
+
+      4) Open regular feedback channels including the whiteboard and Discord
+      to ensure student voices shape cube decisions.
+
+      5) Host social events and gatherings, including game nights, to
+      strengthen community connection and increase cube engagement.
+
+  - position: vp-culture
+    names:
+      - Angelina Zoght
+    email: azoght@student.ubc.ca
+    photo: "/files/elections2026/angelina-zoght.jpg"
+    instagram: "https://www.instagram.com/angelinaforvpculture/"
+    statement: >
+      Greetings, CSSSers! I'm Angelina Zoght, fourth-year CS BSc. I come in
+      peace to run for VP Culture!
+
+
+      My biggest passion is ensuring you have actual fun. I interned at SAP
+      last year and organized a team outing where we fought dragons. Volunteered
+      with SUS to help run career events, so I can plan without total
+      implosion.
+
+
+      If elected VP Culture, I'll: Auramaxx the club (max vibes, connection,
+      goated energy). Actually use your feedback instead of "post in #general
+      and pray." Vibe-code epic socials, retreats, and your wildest ideas.
+      Make a secret exec/officer webpage for idea submissions (no more lost
+      bangers in chat). Keep us thriving in peace, harmony, and fewer
+      segfaults.
+
+
+      Vote Angelina for less mid, more maxxed aura. Peace, love, and trusting
+      the natural recursion.
+
+  - position: vp-culture
+    names:
+      - Ashley da Roza
+    email: ashleydaroza@gmail.com
+    photo: "/files/elections2026/ashley-da-roza.jpg"
+    instagram: ""
+    statement: >
+      Hi! I'm Ashley da Roza, your hopefully upcoming VP Culture for CSSS! I'm
+      a second-year BSc CS major who likes drawing and writing when I have the
+      time (and also a fair bit of watching anime). In this position, I hope to
+      plan and execute some amazing team-building events to promote a happy and
+      healthy club environment among our execs! In my group of friends I often
+      serve as the planner. I love organizing social get-togethers and making
+      sure they go smoothly, so this really is my dream role!
+
+
+      Depending on the weather, I hope to have a variety of both indoor and
+      outdoor events (especially the latter since we have to beat the CS
+      student allegations)! Expect hikes, board game nights, and maybe even
+      some more extensive getaways (if budget allows)! Going into next year,
+      I aim to keep spirits up so my club teammates can deliver all the events
+      and services you love from our very own CSSS!
+
+  - position: vp-admin
+    names:
+      - Christopher Chen
+    email: christopherchenpatrick@gmail.com
+    photo: "/files/elections2026/christopher-chen.jpg"
+    instagram: ""
+    statement: >
+      Hi Computer Science students, I am running to be your next VP Admin!
+
+
+      As VP Admin, I will do important things, such as overseeing technical
+      projects, keeping up to date with our constitution and bylaws, and taking
+      good meeting minutes.
+
+
+      Most importantly, I will advocate for and represent the wants and needs
+      of the computer science student body. If you think I'm a good fit,
+      please vote for me!
+
+  - position: vp-social
+    names:
+      - Cindy Wu
+      - Jonathan Li
+    email: cindy.wu23236@gmail.com, clijonathancli@gmail.com
+    photo: "/files/elections2026/cindy-jonathan.jpg"
+    instagram: ""
+    statement: >
+      Jonathan (Jonny) Li and Cindy Wu are ecstatic to be running to be your
+      next Co-VP Socials! Both of us have extensive team-based event planning
+      experience, and are confident that our respective experiences in these
+      collaborative environments can translate well to the VP Social role.
+
+
+      We both have experience planning fun social events, primarily through
+      our 2 years in UBC's Science Undergraduate Society/SUS. This year,
+      Cindy has taken on leadership positions as SUS HR Co-Chair as well as
+      Computer Science Representative.
+
+
+      The two of us are ready to bring our past event planning, teamwork, and
+      leadership experiences to keep running fun events with the Computer
+      Science Student Society!
+
+  - position: vp-finance
+    names:
+      - Albert Guo
+    email: alb.guo@gmail.com
+    photo: "/files/elections2026/albert-guo.jpg"
+    instagram: ""
+    statement: >
+      The CSSS is a club that consistently delivers meaningful, high quality
+      events and opportunities for students. From the Tech Career Fair to
+      smaller workshops and socials, strong financial management is the
+      backbone that makes these experiences possible.
+
+
+      I'm Albert, a third-year Computer Science and Statistics major. Through
+      using the club's spaces, resources, and attending its events, I've seen
+      the important role the CSSS plays in supporting students. I want to
+      contribute by ensuring the club remains financially strong and
+      sustainable.
+
+
+      As VP Finance, I plan to: Expand fundraising efforts to increase
+      available funds. Improve financial transparency by sharing clear budget
+      breakdowns and receipts. Use analytics to evaluate spending, helping
+      guide decisions toward what benefits students the most. Create accessible
+      channels for financial questions and feedback.
+
+
+      Overall, my goal is to help build a financially strong, transparent,
+      and student focused CSSS.
+
+  - position: vp-finance
+    names:
+      - Lily Liu
+      - Madhur Singla
+    email: ell.lilyliu@gmail.com, imadhur1411@gmail.com
+    photo: "/files/elections2026/lily-madhur.jpg"
+    instagram: ""
+    statement: >
+      We're excited to jointly run for the VP Finance position and to bring
+      together our shared commitment to supporting the UBC CS community! As
+      members of the CSSS, we are motivated to contribute to the further
+      growth of the club, and finance is at the core of enabling that growth.
+
+
+      If elected, we plan on maintaining clear and accessible budget tracking,
+      ensuring timely reimbursements and invoice processing, and strengthening
+      communication between internal teams part of the CSSS and external
+      partners/sponsors.
+
+  - position: vp-communications
+    names:
+      - Jasmine Xu
+      - Jennifer Li
+    email: x.jasminexu@gmail.com, jenniferjunyi0812@gmail.com
+    photo: "/files/elections2026/jasmine-jennifer.jpg"
+    instagram: ""
+    statement: >
+      Hi everyone! Our names are Jennifer and Jasmine, and we're excited to
+      run as Co–VP Communications this year.
+
+
+      Jennifer has served as VP Communications for the 2025/26 year, and she
+      aims to continue working hard with the communications team to ensure
+      CSSS events are consistently marketed and accessible to students. She
+      hopes to expand into new channels and increase engagement.
+
+
+      Jasmine worked as a Graphic Designer with the 2025/26 CSSS
+      Communications team. After collaborating with CSSS throughout the year,
+      she is thrilled to co-run as VP Communications with Jennifer. Jasmine
+      strives to establish clear communication strategies and visual
+      consistency.
+
+
+      Together, we are committed to leading the Communications team and
+      supporting CSSS in effectively connecting students with Computer Science
+      events and initiatives that will foster a strong CS community at UBC.
