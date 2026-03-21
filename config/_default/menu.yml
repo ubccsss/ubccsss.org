@@ -27,6 +27,10 @@ main:
     name: Research Conference
     url: /cssrc/
     weight: -70
+  - identifier: elections
+    name: Elections
+    url: /elections/
+    weight: -60
   - identifier: contact
     name: Contact
     url: /contact/
