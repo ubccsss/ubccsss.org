@@ -77,27 +77,38 @@
             <div class="elx-candidates">
               {{ range $posCandidates }}
                 <article class="elx-card">
-                  <div class="elx-card__photo-col">
+                  <div
+                    class="elx-card__photo-col{{ if .photo2 }}
+                      elx-card__photo-col--duo
+                    {{ end }}">
                     <div class="elx-card__photo-wrap">
                       <img
                         class="elx-card__photo"
                         src="{{ .photo }}"
-                        alt="Photo of {{ delimit .names " & " }}"
+                        alt="Photo of {{ index .names 0 }}"
                         onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" />
                       <div
                         class="elx-card__photo-fallback"
                         style="display: none;">
-                        {{ $initials := "" }}
-                        {{ range .names }}
-                          {{ $parts := split . " " }}
-                          {{ $initials = printf "%s%s"
-                            $initials
-                            (substr (index $parts 0) 0 1)
-                          }}
-                        {{ end }}
-                        {{ $initials }}
+                        {{ $parts := split (index .names 0) " " }}
+                        {{ substr (index $parts 0) 0 1 }}
                       </div>
                     </div>
+                    {{ if .photo2 }}
+                      <div class="elx-card__photo-wrap">
+                        <img
+                          class="elx-card__photo"
+                          src="{{ .photo2 }}"
+                          alt="Photo of {{ index .names 1 }}"
+                          onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" />
+                        <div
+                          class="elx-card__photo-fallback"
+                          style="display: none;">
+                          {{ $parts := split (index .names 1) " " }}
+                          {{ substr (index $parts 0) 0 1 }}
+                        </div>
+                      </div>
+                    {{ end }}
                   </div>
                   <div class="elx-card__body">
                     <div class="elx-card__header">
@@ -139,6 +150,7 @@
 
     {{ partial "footer" . }}
 
+
     <script
       src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.2/js/bootstrap.bundle.min.js"
       integrity="sha512-BOsvKbLb0dB1IVplOL9ptU1EYA+LuCKEluZWRUYG73hxqNBU85JBIBhPGwhQl7O633KtkjMv8lvxZcWP+N3V3w=="
@@ -159,41 +171,66 @@
         var nav = document.getElementById("positionNav");
         var pills = nav.querySelectorAll(".elx-position-nav__pill");
         var sections = document.querySelectorAll(".elx-section");
+        var activeSectionId = "";
+        var ticking = false;
 
-        var observer = new IntersectionObserver(
-          function (entries) {
-            entries.forEach(function (entry) {
-              if (entry.isIntersecting) {
-                pills.forEach(function (p) {
-                  p.classList.remove("elx-position-nav__pill--active");
-                });
-                var active = nav.querySelector(
-                  '[data-position="' + entry.target.id + '"]'
-                );
-                if (active) {
-                  active.classList.add("elx-position-nav__pill--active");
-                  active.scrollIntoView({
-                    behavior: "smooth",
-                    block: "nearest",
-                    inline: "center"
-                  });
-                }
-              }
-            });
-          },
-          { rootMargin: "-20% 0px -70% 0px" }
-        );
+        function setActiveSection(sectionId) {
+          if (!sectionId || activeSectionId === sectionId) {
+            return;
+          }
 
-        sections.forEach(function (s) {
-          observer.observe(s);
+          activeSectionId = sectionId;
+          pills.forEach(function (p) {
+            p.classList.remove("elx-position-nav__pill--active");
+          });
+
+          var active = nav.querySelector('[data-position="' + sectionId + '"]');
+          if (active) {
+            active.classList.add("elx-position-nav__pill--active");
+          }
+        }
+
+        function updateActiveSectionFromScroll() {
+          if (!sections.length) {
+            return;
+          }
+
+          var viewportBottom = window.pageYOffset + window.innerHeight;
+          var pageBottom = document.documentElement.scrollHeight - 2;
+          if (viewportBottom >= pageBottom) {
+            setActiveSection(sections[sections.length - 1].id);
+            return;
+          }
+
+          var marker = window.pageYOffset + nav.offsetHeight + 24;
+          var currentId = sections[0].id;
+          sections.forEach(function (section) {
+            if (section.offsetTop <= marker) {
+              currentId = section.id;
+            }
+          });
+          setActiveSection(currentId);
+        }
+
+        window.addEventListener("scroll", function () {
+          if (ticking) {
+            return;
+          }
+          ticking = true;
+          window.requestAnimationFrame(function () {
+            updateActiveSectionFromScroll();
+            ticking = false;
+          });
         });
+
+        window.addEventListener("resize", updateActiveSectionFromScroll);
+        updateActiveSectionFromScroll();
 
         pills.forEach(function (pill) {
           pill.addEventListener("click", function (e) {
             e.preventDefault();
-            var target = document.getElementById(
-              this.getAttribute("data-position")
-            );
+            var sectionId = this.getAttribute("data-position");
+            var target = document.getElementById(sectionId);
             if (target) {
               var navHeight = nav.offsetHeight;
               var y =
@@ -201,6 +238,7 @@
                 window.pageYOffset -
                 navHeight -
                 24;
+              setActiveSection(sectionId);
               window.scrollTo({ top: y, behavior: "smooth" });
             }
           });
