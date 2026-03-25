@@ -64,6 +64,30 @@ a {
   padding: 0;
 }
 
+.footer {
+  background: linear-gradient(to bottom, #225eb8, #0f2a52);
+  font-family: "Montserrat", sans-serif !important;
+}
+
+.social-icon {
+  background-color: currentColor;
+  aspect-ratio: 1 / 1;
+  display: inline-block;
+}
+
+.footer-icon {
+  width: 36px;
+}
+
+.taxonomy-badge {
+  background-color: rgba(57, 102, 173, 0.5);
+  border: none;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  color: white;
+  font-weight: 500;
+}
+
 @media only screen and (max-width: 992px) {
   .dropdown-menu {
     border: none;
@@ -94,6 +118,16 @@ a {
   .hide-on-mobile {
     visibility: hidden;
     display: none;
+  }
+
+  .footer-icon {
+    width: 28px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .footer-icon {
+    width: 18px;
   }
 }
 
@@ -130,4 +164,1180 @@ a {
 /* Style the icon for the checked state */
 #darkMode:checked + label::before {
   content: url("/icons/dark-mode.png");
+}
+
+/* ========================================
+   Homepage Redesign — Navbar & Hero
+   ======================================== */
+
+/* ---------- Navbar ---------- */
+.navbar-redesign {
+  position: relative;
+  margin: 0.85rem auto;
+  width: calc(100% - 2.5rem);
+  max-width: 1440px;
+  z-index: 100;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 0;
+  border-radius: 50px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.15);
+}
+
+.navbar-redesign--homepage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+.navbar-redesign--homepage .navbar-redesign {
+  position: relative;
+  margin: 0.85rem auto;
+  border: none;
+  background: linear-gradient(
+    90deg,
+    rgba(30, 58, 120, 0.72) 0%,
+    rgba(70, 120, 185, 0.65) 50%,
+    rgba(100, 155, 210, 0.6) 100%
+  );
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  padding: 0;
+  border-radius: 50px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.15);
+}
+
+.navbar-redesign--homepage .navbar-redesign .navbar-brand {
+  color: #fff !important;
+  border-right-color: rgba(255, 255, 255, 0.3);
+}
+.navbar-redesign--homepage .navbar-redesign .navbar-brand:hover {
+  color: #fff !important;
+}
+.navbar-redesign--homepage .navbar-redesign .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.92) !important;
+}
+.navbar-redesign--homepage .navbar-redesign .navbar-nav .nav-link:hover,
+.navbar-redesign--homepage .navbar-redesign .navbar-nav .nav-link.active {
+  color: #fff !important;
+}
+.navbar-redesign--homepage .navbar-redesign .navbar-nav .nav-link::before {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+.navbar-redesign--homepage .navbar-redesign .navbar-search-input {
+  color: #fff;
+  border-bottom-color: rgba(255, 255, 255, 0.45);
+}
+.navbar-redesign--homepage .navbar-redesign .navbar-search-input::placeholder {
+  color: rgba(255, 255, 255, 0.55);
+}
+.navbar-redesign--homepage .navbar-redesign .navbar-search-input:focus {
+  border-bottom-color: rgba(255, 255, 255, 0.8);
+}
+.navbar-redesign--homepage .navbar-redesign .navbar-search-divider {
+  background: rgba(255, 255, 255, 0.3);
+}
+.navbar-redesign--homepage .navbar-redesign .navbar-search-btn {
+  color: rgba(255, 255, 255, 0.85);
+}
+.navbar-redesign--homepage .navbar-redesign .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.4);
+}
+.navbar-redesign--homepage .navbar-redesign .navbar-toggler-icon {
+  filter: invert(1);
+}
+
+.navbar-redesign .container-fluid {
+  max-width: 1440px;
+  padding: 0.45rem 0.6rem 0.45rem 1.5rem;
+}
+
+.navbar-redesign .navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  color: #1a1a1a !important;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 1.2rem;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  padding: 0;
+  padding-right: 1.25rem;
+  border-right: 1px solid rgba(0, 0, 0, 0.12);
+  margin-right: 0.75rem;
+}
+
+.navbar-redesign .navbar-brand:hover {
+  color: #1a1a1a !important;
+}
+
+.navbar-redesign .navbar-brand img {
+  height: 26px;
+  width: auto;
+}
+
+.navbar-redesign .navbar-nav .nav-link {
+  position: relative;
+  color: rgba(0, 0, 0, 0.7) !important;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 0.78rem;
+  padding: 0.5rem 0.75rem !important;
+  white-space: nowrap;
+  transition: color 0.2s;
+  z-index: 0;
+}
+
+.navbar-redesign .navbar-nav .nav-link::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50px;
+  background: rgba(0, 0, 0, 0.06);
+  transform: scale(0.5);
+  opacity: 0;
+  z-index: -1;
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1),
+    opacity 0.2s ease;
+}
+
+@media (min-width: 992px) {
+  .navbar-redesign .navbar-nav .nav-link:hover::before,
+  .navbar-redesign .navbar-nav .nav-link.active::before {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.navbar-redesign .navbar-nav .nav-link:hover,
+.navbar-redesign .navbar-nav .nav-link.active {
+  color: #1a1a1a !important;
+}
+
+.navbar-redesign .navbar-toggler {
+  border-color: rgba(0, 0, 0, 0.2);
+  padding: 0.25rem 0.5rem;
+}
+
+.navbar-redesign .navbar-toggler-icon {
+  filter: invert(0);
+  width: 1.2em;
+  height: 1.2em;
+}
+
+/* Navbar Search */
+.navbar-search-form {
+  display: flex;
+  align-items: center;
+  margin-left: 0.75rem;
+  flex-shrink: 0;
+}
+
+.navbar-search-input {
+  background: transparent;
+  border: none;
+  border-bottom: 1.5px solid rgba(0, 0, 0, 0.25);
+  border-radius: 0;
+  color: #1a1a1a;
+  padding: 0.2rem 0.2rem 0.3rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 400;
+  outline: none;
+  width: 100px;
+}
+
+.navbar-search-input::placeholder {
+  color: rgba(0, 0, 0, 0.4);
+  font-weight: 400;
+}
+
+.navbar-search-input:focus {
+  border-bottom-color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar-search-divider {
+  width: 1px;
+  align-self: stretch;
+  background: rgba(0, 0, 0, 0.15);
+  margin: 0 0.6rem;
+  flex-shrink: 0;
+}
+
+.navbar-search-btn {
+  background: transparent;
+  border: none;
+  color: rgba(0, 0, 0, 0.55);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.2rem 0.35rem;
+}
+
+.navbar-search-btn svg {
+  width: 18px;
+  height: 18px;
+  opacity: 0.85;
+}
+
+.navbar-search-btn:hover svg {
+  opacity: 1;
+}
+
+/* ---------- Hero Section ---------- */
+.hero-landing {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  background-color: #001f6e;
+}
+
+.hero-landing__bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.hero-landing__bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  opacity: 0.6;
+}
+
+/* Dark-blue overlay → fades to white at bottom */
+.hero-landing__overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background: linear-gradient(
+    180deg,
+    rgba(15, 50, 130, 0.92) 0%,
+    rgba(34, 94, 184, 0.85) 20%,
+    rgba(55, 115, 200, 0.7) 45%,
+    rgba(93, 148, 230, 0.5) 65%,
+    rgba(180, 205, 240, 0.55) 80%,
+    rgba(255, 255, 255, 0.9) 92%,
+    #ffffff 100%
+  );
+}
+
+/* Small cube behind navbar */
+.hero-landing__cube-watermark {
+  position: absolute;
+  top: -2%;
+  left: 30%;
+  z-index: 2;
+  pointer-events: none;
+  opacity: 0.35;
+  filter: blur(6px);
+}
+
+.hero-landing__cube-watermark img {
+  width: 420px;
+  height: auto;
+}
+
+/* Cube behind welcome text */
+.hero-landing__cube-text-watermark {
+  position: absolute;
+  top: 35%;
+  left: 3%;
+  z-index: 3;
+  pointer-events: none;
+  opacity: 0.5;
+  filter: blur(5px);
+}
+
+.hero-landing__cube-text-watermark img {
+  width: 350px;
+  height: auto;
+}
+
+/* Content wrapper */
+.hero-landing__content {
+  position: relative;
+  z-index: 5;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 7rem 3rem 8rem;
+  width: 100%;
+  gap: 0;
+}
+
+/* Text column */
+.hero-landing__text {
+  flex: 1;
+  max-width: none;
+}
+
+.hero-landing__text h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: clamp(2.9rem, 5.2vw, 4.8rem);
+  color: #fff;
+  line-height: 1.1;
+  margin-bottom: 1.5rem;
+  letter-spacing: -0.02em;
+}
+
+.hero-landing__text-body {
+  font-family: "Montserrat", sans-serif;
+  color: rgba(255, 255, 255, 0.92);
+  font-weight: 500;
+  font-size: 1.25rem;
+  line-height: 1.7;
+  max-width: 680px;
+}
+
+.hero-landing__text-body p {
+  margin-bottom: 1rem;
+}
+
+.hero-landing__text-body a {
+  color: #fff;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hero-landing__text-body a:hover {
+  color: #c8ddf5;
+}
+
+/* Large cube on the right */
+.hero-landing__cube {
+  position: absolute;
+  right: 3rem;
+  top: 50%;
+  transform: translateY(-35%);
+  width: 42%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-landing__cube img {
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 991px) {
+  .navbar-redesign {
+    border-radius: 20px;
+    margin: 0.5rem auto;
+    width: calc(100% - 1.5rem);
+  }
+
+  .navbar-redesign .navbar-brand {
+    border-right: none;
+    margin-right: 0;
+    padding-right: 0;
+  }
+
+  .navbar-redesign .collapse.show,
+  .navbar-redesign .collapsing {
+    background: rgba(255, 255, 255, 0.97);
+    padding: 1rem 1.5rem;
+    border-radius: 0 0 16px 16px;
+    margin: 0.25rem -0.6rem -0.45rem -1.5rem;
+    width: calc(100% + 2.1rem);
+  }
+
+  .navbar-search-form {
+    margin: 0.75rem 0 0;
+    width: 100%;
+  }
+
+  .navbar-search-input {
+    width: 100%;
+    flex: 1;
+  }
+
+  .hero-landing__content {
+    flex-direction: column;
+    text-align: center;
+    padding: 9rem 1.5rem 6rem;
+  }
+
+  .hero-landing__text {
+    max-width: 100%;
+  }
+
+  .hero-landing__cube {
+    position: relative;
+    right: auto;
+    top: auto;
+    transform: none;
+    width: 55%;
+    max-width: 340px;
+    margin: 2rem auto 0;
+  }
+
+  .hero-landing__cube-text-watermark {
+    display: none;
+  }
+
+  .hero-landing__cube-watermark {
+    left: 20%;
+    top: -1%;
+  }
+
+  .hero-landing__cube-watermark img {
+    width: 280px;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-landing__text h1 {
+    font-size: 2rem;
+  }
+
+  .hero-landing__cube {
+    width: 60%;
+    max-width: 240px;
+  }
+
+  .hero-landing__cube-watermark {
+    display: none;
+  }
+
+  .hero-landing__content {
+    padding: 7rem 1.25rem 4rem;
+  }
+}
+
+/* ========================================
+   Events Section Redesign
+   ======================================== */
+
+.events-section {
+  background: #fff;
+  padding: 2rem 0 3.5rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+.events-section__header {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 1.5rem 2rem;
+  text-align: center;
+}
+
+.events-section__heading {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 2.6rem;
+  color: #1a1a1a;
+  margin-bottom: 0.75rem;
+}
+
+.events-section__divider {
+  width: 75%;
+  max-width: 1200px;
+  margin: 0 auto 1.5rem;
+  border: none;
+  border-top: 2px solid #999;
+}
+
+.events-section__empty {
+  text-align: center;
+  color: #999;
+  padding: 4rem 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.95rem;
+}
+
+/* ---------- Filter Buttons ---------- */
+.events-filter {
+  display: flex;
+  justify-content: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.events-filter__btn {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 500;
+  padding: 0.5rem 1.4rem;
+  border-radius: 50px;
+  border: 1.5px solid #ccc;
+  background: #fff;
+  color: #555;
+  cursor: pointer;
+  transition: background 0.22s ease, color 0.18s ease, border-color 0.18s ease,
+    box-shadow 0.22s ease;
+}
+
+.events-filter__btn:hover {
+  border-color: #999;
+  color: #222;
+}
+
+.events-filter__btn--active {
+  background: #2563eb;
+  border-color: #2563eb;
+  color: #fff;
+  box-shadow: 0 3px 12px rgba(37, 99, 235, 0.35);
+}
+
+.events-filter__btn--active:hover {
+  background: #1d4ed8;
+  border-color: #1d4ed8;
+  color: #fff;
+}
+
+/* ---------- Tab visibility ---------- */
+.events-tab {
+  display: none;
+}
+
+.events-tab--active {
+  display: block;
+}
+
+/* ---------- Fan Carousel ---------- */
+.fan-carousel {
+  position: relative;
+  width: 100%;
+  user-select: none;
+}
+
+.fan-carousel__track {
+  position: relative;
+  height: 720px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ---------- Base card ---------- */
+.fan-carousel__card {
+  position: absolute;
+  width: 600px;
+  aspect-ratio: 807 / 760;
+  border-radius: 18px;
+  overflow: hidden;
+  text-decoration: none;
+  display: block;
+  cursor: pointer;
+  will-change: transform, filter;
+  transition: transform 0.45s cubic-bezier(0.25, 0.8, 0.25, 1), filter 0.4s ease,
+    box-shadow 0.35s ease;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* Center card — full size, on top, bright */
+.fan-carousel__card--active {
+  transform: translateX(0) scale(1);
+  z-index: 10;
+  filter: brightness(1);
+  box-shadow: 0 18px 55px rgba(0, 0, 0, 0.3);
+  pointer-events: auto;
+}
+
+/* ±1 — overlap behind center, slightly smaller, dimmed */
+.fan-carousel__card--prev {
+  transform: translateX(-250px) scale(0.88);
+  z-index: 7;
+  filter: brightness(0.5);
+  pointer-events: auto;
+}
+
+.fan-carousel__card--next {
+  transform: translateX(250px) scale(0.88);
+  z-index: 7;
+  filter: brightness(0.5);
+  pointer-events: auto;
+}
+
+/* ±2 — further back, smaller, darker */
+.fan-carousel__card--prev2 {
+  transform: translateX(-460px) scale(0.76);
+  z-index: 4;
+  filter: brightness(0.3);
+  pointer-events: none;
+}
+
+.fan-carousel__card--next2 {
+  transform: translateX(460px) scale(0.76);
+  z-index: 4;
+  filter: brightness(0.3);
+  pointer-events: none;
+}
+
+.fan-carousel__card--hidden {
+  opacity: 0;
+  pointer-events: none;
+  z-index: 1;
+  transform: translateX(0) scale(0.7);
+  filter: brightness(0.2);
+}
+
+/* ---------- Card image ---------- */
+.fan-carousel__card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.fan-carousel__card-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1.4rem 1.1rem 1rem;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.8) 0%,
+    rgba(0, 0, 0, 0.4) 55%,
+    transparent 100%
+  );
+}
+
+/* ---------- Card text-only (no image) ---------- */
+.fan-carousel__card-textbody {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(160deg, #0f2d6e 0%, #1a52b8 55%, #2e72d2 100%);
+  padding: 1.5rem 1.2rem 1.2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 0.4rem;
+}
+
+/* ---------- Shared card text ---------- */
+.fan-carousel__card-date {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.65);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin: 0;
+}
+
+.fan-carousel__card-title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: #fff;
+  line-height: 1.25;
+  margin: 0;
+}
+
+.fan-carousel__card-location {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.6);
+  margin: 0;
+}
+
+.fan-carousel__card-summary {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.45;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ---------- Controls ---------- */
+.fan-carousel__controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.fan-carousel__arrow {
+  background: transparent;
+  border: none;
+  color: #888;
+  font-size: 1.4rem;
+  cursor: pointer;
+  padding: 0.3rem 0.5rem;
+  line-height: 1;
+  transition: color 0.25s ease,
+    transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.fan-carousel__arrow:hover {
+  color: #333;
+  transform: scale(1.2);
+}
+
+.fan-carousel__dots {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.fan-carousel__dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #ccc;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.3s ease,
+    transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.3s ease;
+}
+
+.fan-carousel__dot--active {
+  background: #2563eb;
+  transform: scale(1.35);
+  box-shadow: 0 0 8px rgba(37, 99, 235, 0.5);
+  animation: dot-pop 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes dot-pop {
+  0% {
+    transform: scale(0.6);
+    opacity: 0.5;
+  }
+  60% {
+    transform: scale(1.5);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.35);
+    opacity: 1;
+  }
+}
+
+/* ---------- Events Responsive ---------- */
+@media (max-width: 1200px) {
+  .fan-carousel__card {
+    width: 480px;
+  }
+
+  .fan-carousel__track {
+    height: 600px;
+  }
+
+  .fan-carousel__card--prev {
+    transform: translateX(-260px) scale(0.86);
+  }
+
+  .fan-carousel__card--next {
+    transform: translateX(260px) scale(0.86);
+  }
+
+  .fan-carousel__card--prev2 {
+    transform: translateX(-470px) scale(0.74);
+  }
+
+  .fan-carousel__card--next2 {
+    transform: translateX(470px) scale(0.74);
+  }
+}
+
+@media (max-width: 768px) {
+  .events-section__heading {
+    font-size: 2rem;
+  }
+
+  .fan-carousel__card {
+    width: 340px;
+  }
+
+  .fan-carousel__track {
+    height: 440px;
+  }
+
+  .fan-carousel__card--prev {
+    transform: translateX(-190px) scale(0.85);
+  }
+
+  .fan-carousel__card--next {
+    transform: translateX(190px) scale(0.85);
+  }
+
+  .fan-carousel__card--prev2,
+  .fan-carousel__card--next2 {
+    opacity: 0;
+    pointer-events: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .events-section__heading {
+    font-size: 1.6rem;
+  }
+
+  .fan-carousel__card {
+    width: 250px;
+  }
+
+  .fan-carousel__track {
+    height: 340px;
+  }
+
+  .fan-carousel__card--prev {
+    transform: translateX(-145px) scale(0.82);
+  }
+
+  .fan-carousel__card--next {
+    transform: translateX(145px) scale(0.82);
+  }
+
+  .events-filter__btn {
+    font-size: 0.75rem;
+    padding: 0.4rem 1rem;
+  }
+}
+
+/* ========================================
+   Services Section Redesign
+   ======================================== */
+
+.services-section {
+  background: #fff;
+  padding: 2rem 0 3.5rem;
+  width: 100%;
+}
+
+.services-section__header {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  text-align: center;
+}
+
+.services-section__heading {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 2.6rem;
+  color: #1a1a1a;
+  margin-bottom: 0.75rem;
+}
+
+.services-section__divider {
+  width: 75%;
+  max-width: 1200px;
+  margin: 0 auto 2rem;
+  border: none;
+  border-top: 2px solid #999;
+}
+
+/* ---------- Card Grid ---------- */
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0 3rem;
+}
+
+/* ---------- Card ---------- */
+.services-card {
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  aspect-ratio: 559 / 440;
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.services-card__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.services-card:hover .services-card__img {
+  transform: scale(1.05);
+}
+
+.services-card__overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.72) 0%,
+    rgba(0, 0, 0, 0.4) 45%,
+    rgba(0, 0, 0, 0.2) 100%
+  );
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 2rem;
+  transition: background 0.3s ease;
+}
+
+.services-card:hover .services-card__overlay {
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.8) 0%,
+    rgba(0, 0, 0, 0.5) 45%,
+    rgba(0, 0, 0, 0.3) 100%
+  );
+}
+
+.services-card__title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1.35rem;
+  color: #fff;
+  margin: 0 0 0.5rem;
+  line-height: 1.3;
+}
+
+.services-card__desc {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.55;
+  margin: 0;
+}
+
+/* ---------- Services Responsive ---------- */
+@media (max-width: 991px) {
+  .services-grid {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 0 2rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .services-section__heading {
+    font-size: 1.8rem;
+  }
+
+  .services-grid {
+    grid-template-columns: 1fr;
+    padding: 0 1.25rem;
+    gap: 12px;
+  }
+
+  .services-card__title {
+    font-size: 1rem;
+  }
+
+  .services-card__desc {
+    font-size: 0.78rem;
+  }
+}
+
+/* ========================================
+   Calendar Section Redesign
+   ======================================== */
+
+.calendar-section {
+  background: #fff;
+  padding: 2rem 0 4rem;
+  width: 100%;
+}
+
+.calendar-section__header {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  text-align: center;
+}
+
+.calendar-section__heading {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 2.6rem;
+  color: #1a1a1a;
+  margin-bottom: 0.75rem;
+}
+
+.calendar-section__divider {
+  width: 75%;
+  max-width: 1200px;
+  margin: 0 auto 2rem;
+  border: none;
+  border-top: 2px solid #999;
+}
+
+/* ---------- Two-panel grid ---------- */
+.calendar-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 3rem;
+}
+
+.calendar-grid__panel {
+  background: #e5e5e5;
+  border-radius: 14px;
+  overflow: hidden;
+  aspect-ratio: 559 / 440;
+  position: relative;
+}
+
+.calendar-grid__panel iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+
+/* ---------- Calendar Responsive ---------- */
+@media (max-width: 768px) {
+  .calendar-section__heading {
+    font-size: 2rem;
+  }
+
+  .calendar-grid {
+    grid-template-columns: 1fr;
+    padding: 0 1.25rem;
+    gap: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .calendar-section__heading {
+    font-size: 1.6rem;
+  }
+}
+
+/* ========================================
+   Recent Posts (Calendar sidebar panel)
+   ======================================== */
+
+.recent-posts {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 1.75rem 1.5rem;
+}
+
+.recent-posts__heading {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: #1a1a1a;
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid #ddd;
+}
+
+.recent-posts__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.recent-posts__item {
+  border-bottom: 1px solid #eee;
+}
+
+.recent-posts__item:last-child {
+  border-bottom: none;
+}
+
+.recent-posts__link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 0.75rem 0.5rem;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background 0.2s ease;
+}
+
+.recent-posts__link:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.recent-posts__title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: #1a1a1a;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.recent-posts__link:hover .recent-posts__title {
+  color: #2563eb;
+}
+
+.recent-posts__date {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: #999;
+  letter-spacing: 0.03em;
+}
+
+.recent-posts__footer {
+  display: flex;
+  gap: 0.75rem;
+  padding-top: 1rem;
+  margin-top: auto;
+}
+
+.recent-posts__more {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #2563eb;
+  text-decoration: none;
+  padding: 0.4rem 1rem;
+  border: 1.5px solid #2563eb;
+  border-radius: 50px;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.recent-posts__more:hover {
+  background: #2563eb;
+  color: #fff;
+}
+
+/* Override sidebar defaults inside calendar panel */
+.calendar-grid__panel .blog-sidebar {
+  width: 100%;
+  max-width: 100%;
+  flex: none;
+  padding: 0;
+  margin: 0;
+}
+
+.calendar-grid__panel .blog-sidebar section {
+  margin: 0;
 }

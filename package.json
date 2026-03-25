@@ -8,6 +8,7 @@
     "node": ">=18.0.0"
   },
   "devDependencies": {
+    "hugo-extended": "0.121.1",
     "husky": "^8.0.3",
     "prettier": "^2.8.4",
     "prettier-plugin-go-template": "^0.0.13",

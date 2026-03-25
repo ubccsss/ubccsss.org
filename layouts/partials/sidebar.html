@@ -3,26 +3,25 @@
   {{ if default true .Site.Params.sidebar.showRecent }}
     {{ partial "recent" . }}
   {{ end }}
+  <!--
   {{ if default true .Site.Params.sidebar.showTaxonomy }}
     {{ partial "taxonomies" . }}
   {{ end }}
-
-
   <section>
     <h4>{{ i18n "elsewhere" }}</h4>
     <ul style="list-style: none; padding: 0; margin: 0;">
       {{ range $.Site.Data.social }}
-        <li>
-          <a href="{{ .link }}">
-            <img src="{{ .icon }}" alt="{{ .title }} Icon" class="icon-image" />
-            {{ if or (eq .title "Discord") (eq .title "Instagram") }}
-              <b>{{ .title }}</b>
-            {{ else }}
-              {{ .title }}
-            {{ end }}
-          </a>
-        </li>
-      {{ end }}
+    <li>
+      <a href="{{ .link }}">
+        <img src="{{ .icon }}" alt="{{ .title }} Icon" class="icon-image" />
+        {{ if or (eq .title "Discord") (eq .title "Instagram") }}
+          <b>{{ .title }}</b>
+        {{ else }}
+          {{ .title }}
+        {{ end }}
+      </a>
+    </li>
+  {{ end }}
     </ul>
   </section>
-</aside>
+--></aside>
