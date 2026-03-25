@@ -269,6 +269,38 @@ a {
   filter: invert(1);
 }
 
+/* Fix: mobile collapse has white bg, so switch text to dark */
+.navbar-redesign--homepage .navbar-redesign .collapse.show .nav-link,
+.navbar-redesign--homepage .navbar-redesign .collapsing .nav-link {
+  color: rgba(0, 0, 0, 0.7) !important;
+}
+.navbar-redesign--homepage .navbar-redesign .collapse.show .nav-link:hover,
+.navbar-redesign--homepage .navbar-redesign .collapse.show .nav-link.active {
+  color: #1a1a1a !important;
+}
+.navbar-redesign--homepage
+  .navbar-redesign
+  .collapse.show
+  .navbar-search-input {
+  color: #1a1a1a;
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+}
+.navbar-redesign--homepage
+  .navbar-redesign
+  .collapse.show
+  .navbar-search-input::placeholder {
+  color: rgba(0, 0, 0, 0.4);
+}
+.navbar-redesign--homepage
+  .navbar-redesign
+  .collapse.show
+  .navbar-search-divider {
+  background: rgba(0, 0, 0, 0.15);
+}
+.navbar-redesign--homepage .navbar-redesign .collapse.show .navbar-search-btn {
+  color: rgba(0, 0, 0, 0.55);
+}
+
 .navbar-redesign .container-fluid {
   max-width: 1440px;
   padding: 0.45rem 0.6rem 0.45rem 1.5rem;
