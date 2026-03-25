@@ -31,9 +31,12 @@
             <a class="nav-link" href="/cssrc/#about">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/cssrc/schedule">Program Schedule</a>
+            <a class="nav-link" href="/cssrc/#speakers">Speakers</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="/cssrc/schedule">Program Schedule</a>
+          </li>
+          <!-- <li class="nav-item">
             <a
               class="nav-link disabled"
               href="https://hotcrp-cssrc.cs.ubc.ca/"
@@ -41,12 +44,17 @@
               title="Must be connected to the UBC network to access"
               >Submission Portal*</a
             >
-          </li>
+          </li> -->
           <li class="nav-item">
-            <a class="nav-link disabled" href="/cssrc/proceedings"
-              >Paper Archives</a
+            <a
+              class="nav-link"
+              href="https://drive.google.com/drive/folders/1ssJD-iO0FhFLJzCmkn-k4vapeeBPJUWM"
+              >Proceedings</a
             >
           </li>
+          <!-- <li class="nav-item">
+            <a class="nav-link" href="/cssrc/#sponsors">Sponsors</a>
+          </li> -->
           <!-- <li class="nav-item">
             <a class="nav-link" href="/cssrc/organizers">Organizers</a>
           </li> -->
@@ -73,14 +81,12 @@
 
   // Close dropdown on click
   document.addEventListener("click", function (event) {
-    if (!event.target.matches(".dropdown-nav-toggle")) {
-      var dropdowns = document.getElementsByClassName("dropdown-menu");
-      for (let i = 0; i < dropdowns.length; i++) {
-        var openDropdown = dropdowns[i];
-        if (openDropdown.classList.contains("show")) {
-          openDropdown.classList.remove("show");
-        }
-      }
+    var navbarToggler = document.getElementsByClassName("navbar-toggler")[0];
+    if (
+      !navbarToggler.classList.contains("collapsed") &&
+      !event.target.classList.contains("nav-item")
+    ) {
+      navbarToggler.click();
     }
   });
 </script>
