@@ -8,6 +8,3 @@ undergraduates at the
 social space where everyone’s welcome (in ICICS 021), run events, and represent
 your interests to the department. For more events you may be interested in, please follow us
 on our social media outlets.
-<br/>
-
-Join us on <a id="discord-serverhttpsdiscordggxf3wbydubf" href="https://discord.gg/xF3WbYDubF" target="_blank" rel="noreferrer">Discord</a> or <a href="https://www.instagram.com/ubc_csss" target="_blank" rel="noreferrer">Instagram</a>!
