@@ -67,6 +67,43 @@
   line-height: 1.6;
 }
 
+.elx-hero__vote-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1.75rem;
+  padding: 0.85rem 2.2rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #1e3a78;
+  background: #fff;
+  border: none;
+  border-radius: 50px;
+  text-decoration: none;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2), 0 0 40px rgba(255, 255, 255, 0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease,
+    color 0.2s ease;
+}
+
+.elx-hero__vote-btn:hover {
+  transform: translateY(-2px);
+  background: #f0f6ff;
+  color: #1e3a78;
+  box-shadow: 0 6px 28px rgba(0, 0, 0, 0.25), 0 0 50px rgba(255, 255, 255, 0.2);
+}
+
+.elx-hero__vote-btn:active {
+  transform: translateY(0);
+}
+
+.elx-hero__vote-btn svg {
+  width: 18px;
+  height: 18px;
+}
+
 .elx-position-nav {
   position: sticky;
   top: 0;
