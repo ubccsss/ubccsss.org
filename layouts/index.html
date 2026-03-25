@@ -243,7 +243,7 @@
     </div>
     <hr class="calendar-section__divider" />
     <div class="calendar-grid">
-      <div class="calendar-grid__panel">
+      <div class="calendar-grid__panel calendar-grid__panel--iframe">
         <iframe
           id="open-web-calendar"
           title="UBC CSSS Calendar"
@@ -258,6 +258,15 @@
         {{ .Scratch.Set "classes" "" }}
         {{ partial "sidebar" . }}
       </div>
+    </div>
+    <div class="calendar-mobile-link">
+      <a
+        href="https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https%3A%2F%2Fubccsss.org%2Fevents%2Findex.ics&amp;title=UBC%20CSSS%20Calendar&amp;url=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fical%2F1e1ce102f2951b154df282dc66ea69722b37b41a8956d88361befe9ceb9e8080%2540group.calendar.google.com%2Fpublic%2Fbasic.ics"
+        target="_blank"
+        rel="noreferrer"
+        class="calendar-mobile-link__btn">
+        View Full Calendar &rarr;
+      </a>
     </div>
   </section>
 {{ end }}

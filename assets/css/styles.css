@@ -129,6 +129,22 @@ a {
   .footer-icon {
     width: 18px;
   }
+
+  .footer {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+  }
+}
+
+/* Thinner/lighter dividers on small mobile */
+@media (max-width: 576px) {
+  .events-section__divider,
+  .services-section__divider,
+  .calendar-section__divider {
+    border-top-width: 1px;
+    border-top-color: #bbb;
+    width: 85%;
+  }
 }
 
 /* Dark Mode */
@@ -518,6 +534,62 @@ a {
   color: #c8ddf5;
 }
 
+/* Mobile-only elements — hidden on desktop */
+.hero-title-mobile {
+  display: none;
+}
+
+.hero-tagline-mobile {
+  display: none;
+}
+
+/* CTA buttons */
+.hero-ctas {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1.75rem;
+}
+
+.hero-cta {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 0.65rem 1.6rem;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: background 0.25s ease, color 0.25s ease, box-shadow 0.25s ease,
+    transform 0.2s ease;
+  letter-spacing: 0.02em;
+}
+
+.hero-cta:hover {
+  transform: translateY(-1px);
+}
+
+.hero-cta--discord {
+  background: #fff;
+  color: #1a3a78;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.15);
+}
+
+.hero-cta--discord:hover {
+  background: #e8f0fe;
+  color: #0f2d6e;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.2);
+}
+
+.hero-cta--instagram {
+  background: transparent;
+  color: #fff;
+  border: 1.5px solid rgba(255, 255, 255, 0.6);
+}
+
+.hero-cta--instagram:hover {
+  border-color: #fff;
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+}
+
 /* Large cube on the right */
 .hero-landing__cube {
   position: absolute;
@@ -577,6 +649,7 @@ a {
 
   .hero-landing__text {
     max-width: 100%;
+    order: 2;
   }
 
   .hero-landing__cube {
@@ -586,7 +659,12 @@ a {
     transform: none;
     width: 55%;
     max-width: 340px;
-    margin: 2rem auto 0;
+    margin: 0 auto 2rem;
+    order: 1;
+  }
+
+  .hero-ctas {
+    justify-content: center;
   }
 
   .hero-landing__cube-text-watermark {
@@ -603,14 +681,64 @@ a {
   }
 }
 
-@media (max-width: 576px) {
-  .hero-landing__text h1 {
-    font-size: 2rem;
+@media (max-width: 768px) {
+  .hero-landing {
+    min-height: auto;
+  }
+
+  .hero-title-full {
+    display: none;
+  }
+
+  .hero-title-mobile {
+    display: block;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 2.2rem;
+    color: #fff;
+    line-height: 1.15;
+    margin-bottom: 0.75rem;
+    letter-spacing: -0.01em;
+  }
+
+  .hero-landing__text-body {
+    display: none;
+  }
+
+  .hero-tagline-mobile {
+    display: block;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(255, 255, 255, 0.88);
+    font-weight: 400;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .hero-cta {
+    font-size: 0.82rem;
+    padding: 0.55rem 1.3rem;
   }
 
   .hero-landing__cube {
-    width: 60%;
-    max-width: 240px;
+    width: 40%;
+    max-width: 180px;
+    margin: 0 auto 1.25rem;
+  }
+
+  .hero-landing__content {
+    padding: 7rem 1.5rem 4rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-title-mobile {
+    font-size: 1.8rem;
+  }
+
+  .hero-landing__cube {
+    width: 38%;
+    max-width: 160px;
   }
 
   .hero-landing__cube-watermark {
@@ -618,7 +746,12 @@ a {
   }
 
   .hero-landing__content {
-    padding: 7rem 1.25rem 4rem;
+    padding: 6rem 1.25rem 3.5rem;
+  }
+
+  .hero-cta {
+    font-size: 0.78rem;
+    padding: 0.5rem 1.1rem;
   }
 }
 
@@ -987,30 +1120,51 @@ a {
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 576px) {
+  .events-section {
+    padding: 1.5rem 0 2rem;
+  }
+
+  .events-section__header {
+    padding: 0 1.25rem 1.25rem;
+  }
+
   .events-section__heading {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
+  }
+
+  .events-section__divider {
+    margin-bottom: 1rem;
   }
 
   .fan-carousel__card {
-    width: 250px;
+    width: 85vw;
+    max-width: 320px;
   }
 
   .fan-carousel__track {
-    height: 340px;
+    height: 360px;
   }
 
-  .fan-carousel__card--prev {
-    transform: translateX(-145px) scale(0.82);
-  }
-
+  .fan-carousel__card--prev,
   .fan-carousel__card--next {
-    transform: translateX(145px) scale(0.82);
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .fan-carousel__card--prev2,
+  .fan-carousel__card--next2 {
+    opacity: 0;
+    pointer-events: none;
   }
 
   .events-filter__btn {
-    font-size: 0.75rem;
+    font-size: 0.72rem;
     padding: 0.4rem 1rem;
+  }
+
+  .fan-carousel__controls {
+    margin-top: 1rem;
   }
 }
 
@@ -1132,22 +1286,66 @@ a {
 }
 
 @media (max-width: 576px) {
+  .services-section {
+    padding: 1.5rem 0 2rem;
+  }
+
   .services-section__heading {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
+  }
+
+  .services-section__divider {
+    margin-bottom: 1.25rem;
   }
 
   .services-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    padding: 0 1rem;
+  }
+
+  .services-card {
+    aspect-ratio: 3 / 2;
+    border-radius: 12px;
+  }
+
+  .services-card__overlay {
+    padding: 0.75rem;
+  }
+
+  .services-card__title {
+    font-size: 0.82rem;
+    margin-bottom: 0;
+  }
+
+  .services-card__desc {
+    display: none;
+  }
+}
+
+@media (max-width: 400px) {
+  .services-grid {
     grid-template-columns: 1fr;
     padding: 0 1.25rem;
-    gap: 12px;
+    gap: 10px;
+  }
+
+  .services-card {
+    aspect-ratio: 16 / 9;
+  }
+
+  .services-card__overlay {
+    padding: 1.25rem;
   }
 
   .services-card__title {
     font-size: 1rem;
+    margin-bottom: 0.3rem;
   }
 
   .services-card__desc {
-    font-size: 0.78rem;
+    display: block;
+    font-size: 0.75rem;
   }
 }
 
@@ -1209,6 +1407,11 @@ a {
   display: block;
 }
 
+/* Mobile-only calendar link — hidden on desktop */
+.calendar-mobile-link {
+  display: none;
+}
+
 /* ---------- Calendar Responsive ---------- */
 @media (max-width: 768px) {
   .calendar-section__heading {
@@ -1222,9 +1425,44 @@ a {
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 576px) {
+  .calendar-section {
+    padding: 1.5rem 0 2.5rem;
+  }
+
   .calendar-section__heading {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
+  }
+
+  .calendar-grid__panel--iframe {
+    display: none;
+  }
+
+  .calendar-grid__panel {
+    aspect-ratio: auto;
+  }
+
+  .calendar-mobile-link {
+    display: flex;
+    justify-content: center;
+    padding: 1rem 1.25rem 0;
+  }
+
+  .calendar-mobile-link__btn {
+    font-family: "Montserrat", sans-serif;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #2563eb;
+    text-decoration: none;
+    padding: 0.55rem 1.4rem;
+    border: 1.5px solid #2563eb;
+    border-radius: 50px;
+    transition: background 0.2s ease, color 0.2s ease;
+  }
+
+  .calendar-mobile-link__btn:hover {
+    background: #2563eb;
+    color: #fff;
   }
 }
 
