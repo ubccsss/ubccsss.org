@@ -221,6 +221,9 @@ footer .copyright a:hover {
 .hero-title h1 {
   font-size: 30pt;
 }
+.hero-title-compact h1 {
+  font-size: 24pt;
+}
 .backdrop {
   position: absolute;
   top: 0;
@@ -373,6 +376,9 @@ footer .copyright a:hover {
 @media only screen and (min-width: 1000px) {
   .hero-title h1 {
     font-size: 48pt;
+  }
+  .hero-title-compact h1 {
+    font-size: 36pt;
   }
   .backdrop {
     max-height: 900px;
