@@ -250,6 +250,48 @@ footer .copyright a:hover {
   background-color: var(--light-steel-blue);
 }
 
+.countdown-unit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.countdown-number {
+  min-width: 64px;
+  padding: 0.5rem 0.75rem;
+  border-radius: 12px;
+  background-color: var(--blue-chalk);
+  color: var(--text-primary);
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 1.75rem;
+  text-align: center;
+}
+.countdown-label {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-primary) !important;
+}
+
+.info-badge {
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: var(--camel);
+  color: white !important;
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: help;
+}
+
 .sponsorships {
   height: 100%;
   width: 100%;
@@ -337,6 +379,10 @@ footer .copyright a:hover {
   }
   .backdrop img {
     height: 100%;
+  }
+  .countdown-number {
+    min-width: 90px;
+    font-size: 2.5rem;
   }
 }
 

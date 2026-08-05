@@ -10,18 +10,40 @@
     <section class="h-100">
       <div class="hero flex-column align-items-center text-center gap-5">
         <div class="hero-title px-4">
-          <h4>The Inaugural</h4>
-          <h1>UBC CS Student Research Conference '26</h1>
+          <h4>The 2nd Edition</h4>
+          <h1>UBC CS Student Research Conference</h1>
         </div>
 
         <div class="hero-details px-lg-0 px-2">
           <h4>
-            February 27, 2026 at the
+            November 6, 2026 at the
             <a href="https://maps.ubc.ca/?code=ICCS" target="_blank"
               >ICICS/CS building</a
             >
           </h4>
           <h5>Brought to you by the UBC CSGSA & CSSS</h5>
+        </div>
+
+        <div
+          class="countdown d-flex justify-content-center gap-3 gap-sm-4"
+          id="countdown"
+          data-target="2026-11-06T00:00:00">
+          <div class="countdown-unit">
+            <span class="countdown-number" id="cd-days">00</span>
+            <span class="countdown-label">Days</span>
+          </div>
+          <div class="countdown-unit">
+            <span class="countdown-number" id="cd-hours">00</span>
+            <span class="countdown-label">Hours</span>
+          </div>
+          <div class="countdown-unit">
+            <span class="countdown-number" id="cd-minutes">00</span>
+            <span class="countdown-label">Minutes</span>
+          </div>
+          <div class="countdown-unit">
+            <span class="countdown-number" id="cd-seconds">00</span>
+            <span class="countdown-label">Seconds</span>
+          </div>
         </div>
 
         <div class="buttons mb-0 mb-sm-5 d-flex flex-column flex-sm-col gap-3">
@@ -30,38 +52,18 @@
               class="d-flex flex-column flex-sm-row gap-3 justify-content-center align-items-center">
               {{ range .row }}
                 {{ $target := default "_blank" .target }}
-                <a
-                  href="{{ .link }}"
-                  target="{{ $target }}"
-                  class="btn {{ if .disabled }}disabled{{ end }}"
-                  title="{{ .title }}"
-                  >{{ .text }}</a
-                >
-              {{ end }}
-            </div>
-          {{ end }}
-        </div>
-      </div>
-
-      <div class="pb-4 pt-5 mt-5 pt-lg-0 mt-sm-0">
-        <h4 class="text-center fw-semibold">Supported By</h4>
-        <div class="d-flex flex-column gap-2">
-          {{ range .Params.sponsors }}
-            <div
-              class="sponsorships align-items-center justify-content-center d-flex flex-column gap-0 flex-lg-row gap-lg-5 px-4">
-              <h4
-                class="fw-semibold pt-2 pt-lg-0 text-nowrap"
-                style="color:{{ .colour }};">
-                {{ .tier }} Sponsors:
-              </h4>
-              {{ range .orgs }}
-                <a
-                  class="sponsor"
-                  title="{{ .name }}"
-                  href="{{ .siteLink }}"
-                  target="_blank">
-                  <img src="{{ .imageLink }}" alt="{{ .name }}" class="w-100" />
-                </a>
+                <div class="position-relative d-inline-block">
+                  <a
+                    href="{{ .link }}"
+                    target="{{ $target }}"
+                    class="btn {{ if .disabled }}disabled{{ end }}"
+                    title="{{ .title }}"
+                    >{{ .text }}</a
+                  >
+                  {{ if .tooltip }}
+                    <span class="info-badge" title="{{ .tooltip }}">?</span>
+                  {{ end }}
+                </div>
               {{ end }}
             </div>
           {{ end }}
@@ -79,8 +81,8 @@
           <h1 class="mb-4">About the Conference</h1>
           <div class="row">
             <p>
-              The UBC CS Student Research Conference (CSSRC) is taking place for
-              the first time on Friday, February 27, 2026.
+              The UBC CS Student Research Conference (CSSRC) is coming back for
+              its 2nd Edition!
             </p>
             <p>
               Our mission is to celebrate and advance graduate and undergraduate
@@ -93,25 +95,27 @@
               community early in their careers.
             </p>
             <p>
-              The event will feature a poster and paper submission track, with
-              faculty and senior graduate student reviewers, modeled after
-              established conferences. Selected submissions will have the
-              opportunity to showcase their work during the conference in a
-              poster session, and some winning posters and papers will receive
-              awards!
+              In early 2026, the conference launched, attracting 20+ student
+              research presentations and 150+ attendees. It featured a poster
+              and paper submission track, with faculty and senior graduate
+              student reviewers, modeled after established conferences. Selected
+              submissions showcased their work during the conference in a poster
+              session, and some winning posters and papers received awards!
             </p>
             <p>
-              Additionally, the event will host a
-              <a href="https://3mt.grad.ubc.ca/" target="_blank"
-                >3-Minute Thesis</a
-              >
-              competition, a research career panel, research presentations, and
-              networking opportunities.
+              Additionally, the event hosted a research career panel, research
+              presentations, and networking opportunities.
+            </p>
+            <p>
+              We're excited to expand the footprint of the CSSRC and cement it
+              as a yearly premier venue at UBC to elevate and support
+              researchers in the CS community.
             </p>
             <p class="pb-4">
-              Join us on February 27 at the ICICS/CS Building. Feel free to
-              learn more about the program on our
-              <a href="/cssrc/schedule">Program Schedule</a> page, or join our
+              Stay tuned for our Call for Papers and further announcements on
+              how to get involved. We look forward to you joining us on November
+              6 at the ICICS/CS Building. Feel free to learn more about the
+              program on our Program Schedule page, or join our
               <a href="https://discord.gg/uWPuBTYwhs" target="_blank"
                 >Discord</a
               >
@@ -142,113 +146,48 @@
                 {{ end }}
               </tbody>
             </table>
-            <i class="text-end">* Updated on Feb. 15</i>
-          </div>
-        </div>
-      </div>
-
-      <hr class="mx-auto my-5 w-75" />
-
-      <div class="row" id="opening-keynote">
-        <div class="container col-12 col-lg-10 col-xl-8">
-          <h1 class="mb-3 text-center">Opening Keynote</h1>
-          <i class="text-center fw-bold h4 mb-5 d-flex justify-content-center">
-            "From Intuitive Physics to Machine Physics and Back Again"
-          </i>
-          <div class="row">
-            <i class="pb-4">
-              Research often follows a circuitous path. In this talk, Dr. Kelsey
-              Allen will trace her journey from undergraduate physics at UBC to
-              a PhD in cognitive science at MIT, a role as a Research Scientist
-              at Google DeepMind, and her return to UBC as a Professor of
-              Psychology and Computer Science.
-            </i>
-            <i>
-              Along the way, she will tour the research questions that motivated
-              her, the insights gained in their pursuit, and the surprising
-              connections between these projects. Finally, she will discuss
-              exciting open problems in the joint space of human and machine
-              intelligence.
-            </i>
           </div>
         </div>
       </div>
     </section>
-
-    <section class="pt-5">
-      <div class="row pb-5 pt-2" id="speakers">
-        <div class="container col-12 col-lg-10 col-xl-9 pb-5">
-          <h1 class="py-5 text-center align-self-center">About Our Speakers</h1>
-
-          {{ range .Params.speakersList }}
-            <div
-              id="{{ .id }}"
-              class="row d-flex flex-column align-items-center justify-content-center gap-5 gap-xl-2 pb-4">
-              <div
-                class="d-flex gap-4 align-items-center justify-content-center">
-                <hr class="mx-auto w-50 border-2 opacity-100" />
-                <span class="text-center fw-light p-0 m-0 text-nowrap"
-                  >{{ .group }}</span
-                >
-                <hr class="mx-auto w-50 border-2 opacity-100" />
-              </div>
-
-              <div class="col-11">
-                {{ range .speakers }}
-                  <div
-                    class="d-flex flex-column flex-xl-row align-items-center justify-content-center gap-0 gap-xl-5">
-                    <div>
-                      <img
-                        src="{{ .imageLink }}"
-                        alt="{{ .name }}"
-                        class="speaker-img {{ if .circlePortrait }}
-                          rounded-circle
-                        {{ end }}" />
-                    </div>
-                    <div class="px-0 py-5">
-                      {{ .bio | markdownify }}
-                    </div>
-                  </div>
-                {{ end }}
-              </div>
-            </div>
-          {{ end }}
-
-        </div>
-      </div>
-    </section>
-
-    <!-- <section class="py-5">
-      <div class="row text-center" id="sponsors">
-        <div class="container col-lg-12 d-flex flex-column gap-4">
-          <h1>Sponsors</h1>
-          <h4>We are thankful for our incredible sponsors!</h4>
-        </div>
-        <div class="container col-lg-12">
-          <div
-            class="d-flex justify-content-around align-items-center flex-column gap-1">
-            {{ range .Params.sponsors }}
-      <h2 class="fw-bold col-12 col-lg-6 pt-4" style="color:{{ .colour }};">
-        <span><hr /></span>{{ .tier }} Sponsors <span><hr /></span>
-      </h2>
-      <div
-        class="d-flex justify-content-around flex-lg-row flex-column align-items-center gap-lg-5 gap-4 mb-2">
-        {{ range .orgs }}
-          <a
-            class="sponsor border"
-            title="{{ .name }}"
-            href="{{ .siteLink }}"
-            target="_blank">
-            <img src="{{ .imageLink }}" alt="{{ .name }}" />
-          </a>
-        {{ end }}
-      </div>
-    {{ end }}
-          </div>
-        </div>
-      </div>
-    </section> -->
 
     {{ partial "cssrc/footer" . }}
+
+
+    <script>
+      (function () {
+        var el = document.getElementById("countdown");
+        if (!el) return;
+
+        var target = new Date(el.dataset.target).getTime();
+        var daysEl = document.getElementById("cd-days");
+        var hoursEl = document.getElementById("cd-hours");
+        var minutesEl = document.getElementById("cd-minutes");
+        var secondsEl = document.getElementById("cd-seconds");
+
+        function pad(n) {
+          return String(n).padStart(2, "0");
+        }
+
+        function tick() {
+          var diff = target - Date.now();
+          if (diff <= 0) {
+            daysEl.textContent = "00";
+            hoursEl.textContent = "00";
+            minutesEl.textContent = "00";
+            secondsEl.textContent = "00";
+            clearInterval(interval);
+            return;
+          }
+          daysEl.textContent = pad(Math.floor(diff / 86400000));
+          hoursEl.textContent = pad(Math.floor((diff / 3600000) % 24));
+          minutesEl.textContent = pad(Math.floor((diff / 60000) % 60));
+          secondsEl.textContent = pad(Math.floor((diff / 1000) % 60));
+        }
+
+        tick();
+        var interval = setInterval(tick, 1000);
+      })();
+    </script>
   </body>
 </html>
