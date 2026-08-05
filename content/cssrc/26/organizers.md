@@ -1,6 +1,6 @@
 ---
 title: Organizers
-layout: cssrc-organizers
+layout: cssrc-organizers-26
 organizers:
   - title: Title
     members:

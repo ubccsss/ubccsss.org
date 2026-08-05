@@ -1,6 +1,6 @@
 ---
 title: Program Schedule
-layout: cssrc-schedule
+layout: cssrc-schedule-26
 schedule:
   - event: Registration
     from: 9:00 AM
