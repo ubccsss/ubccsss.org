@@ -20,7 +20,7 @@ importantDates:
   - submission: Submission Portal Opens
     date: August 17, 2026
   - submission: Title + Abstract
-    date: September 15, 2026
+    date: September 18, 2026
   - submission: Full Submission
     date: September 25, 2026
   - submission: Notifications
