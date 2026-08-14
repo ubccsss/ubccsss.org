@@ -17,14 +17,16 @@ linkButtons:
         disabled: true
         tooltip: Stay tuned
 importantDates:
+  - submission: Submission Portal Opens
+    date: August 17, 2026
   - submission: Title + Abstract
-    date: TBA
+    date: September 15, 2026
   - submission: Full Submission
-    date: TBA
+    date: September 25, 2026
   - submission: Notifications
-    date: TBA
+    date: October 9, 2026
   - submission: Camera-ready Deadline
-    date: TBA
+    date: October 23, 2026
   - submission: Conference Day
-    date: TBA
+    date: November 6, 2026
 ---
