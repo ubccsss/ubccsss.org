@@ -23,6 +23,41 @@ linkButtons:
         disabled: true
         tooltip: Stay tuned
 updates:
+  - subject: Call for Reviewers
+    date: September 9, 2026
+    message: |
+      Hi everyone!
+
+      We are seeking graduate students, senior undergrads, postdocs, and faculty to review
+      submissions for the 2nd edition of the UBC Computer Science Student Research Conference
+      (CSSRC), happening **Friday, November 6th** in the Atrium.
+
+      We have two submission tracks you can review for: 4-page double-column papers, and
+      1-page extended abstracts + posters.
+
+      We will have a ~2-week review period. This year, we are implementing a voting mechanism
+      where reviewers will be able to preview title + abstract registrations and vote ahead
+      for their preferred submissions to review.
+
+      - **Voting period:** September 19th&ndash;24th
+      - **Reviewing period:** September 26th&ndash;October 8th
+      - **Tracks:** short papers or posters
+      - **Time commitment:** ~2 hours total
+      - **Duties:** evaluate submissions using a provided rubric for clarity, originality,
+        methods, and impact; provide concise constructive comments; declare conflicts
+      - **Benefits:** acknowledgement in the program and a participation certificate on
+        request
+
+      **[Sign up here!](https://ubc.ca1.qualtrics.com/jfe/form/SV_4OUgYh67Nc16EJ0)**
+
+      For any questions, please reach out to
+      [csgsa@cs.ubc.ca](mailto:csgsa@cs.ubc.ca) and/or
+      [conference@ubccsss.org](mailto:conference@ubccsss.org).
+
+      Best regards,
+
+      Vivian White\
+      CSGSA VP Academics
   - subject: Call for Submissions
     date: August 17, 2026
     message: |
