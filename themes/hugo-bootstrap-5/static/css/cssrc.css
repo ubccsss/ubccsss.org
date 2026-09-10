@@ -243,6 +243,10 @@ footer .copyright a:hover {
   overflow: hidden;
   mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
+.backdrop img {
+  display: block;
+  width: 100%;
+}
 .buttons {
   max-width: 800px;
 }
@@ -327,11 +331,12 @@ footer .copyright a:hover {
 }
 .update-item-title {
   font-weight: bold;
+  font-size: 1rem;
   color: var(--text-primary);
 }
 .update-item-date {
   color: var(--light-steel-blue);
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   font-weight: 600;
   white-space: nowrap;
 }
@@ -341,15 +346,21 @@ footer .copyright a:hover {
 }
 .modal-title {
   color: white;
+  font-size: 1.25rem;
 }
 .modal-header .update-modal-date {
   color: var(--tequila);
+  font-size: 0.85rem;
 }
 .modal-header .btn-close {
   filter: invert(1) grayscale(100%) brightness(200%);
 }
 .modal-body {
   color: var(--text-primary);
+}
+.modal-body p,
+.modal-body li {
+  font-size: 1rem;
 }
 
 .sponsorships {
@@ -442,9 +453,6 @@ footer .copyright a:hover {
   }
   .backdrop {
     max-height: 900px;
-  }
-  .backdrop img {
-    height: 100%;
   }
   .countdown-number {
     min-width: 90px;
