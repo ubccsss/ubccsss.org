@@ -24,7 +24,7 @@ linkButtons:
         tooltip: Stay tuned
 updates:
   - subject: Call for Reviewers
-    date: September 9, 2026
+    date: August 19, 2026
     message: |
       Hi everyone!
 
