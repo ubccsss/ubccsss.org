@@ -23,6 +23,16 @@ linkButtons:
         disabled: true
         tooltip: Stay tuned
 updates:
+  - subject: Title + Abstract Extension
+    date: September 10, 2026
+    message: |
+      We are offering an extension on the title + abstract submissions (originally due
+      Friday September 18th, 11:59pm), to no later than the full submission deadline on
+      September 25th. To request an extension, please fill out the survey:
+      **[https://ubc.ca1.qualtrics.com/jfe/form/SV_cXZsCPbjt9cZIai](https://ubc.ca1.qualtrics.com/jfe/form/SV_cXZsCPbjt9cZIai)**
+
+      Note that this is only for the title + abstract submissions; if a full submission
+      deadline extension is needed, we will send an announcement in the coming weeks.
   - subject: Call for Reviewers
     date: August 19, 2026
     message: |
