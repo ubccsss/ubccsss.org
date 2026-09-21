@@ -75,7 +75,7 @@ description: Partner with the UBC Computer Science Student Society. Reach 4,000+
       </div>
       <div class="sp-how-row">
         <h3>Technical Career Fair</h3>
-        <p>Our flagship — the largest tech career event in UBC history, held each February. Priced separately; reach out early.</p>
+        <p>Our flagship — the largest tech career event in UBC history, held each January. Priced separately; reach out early.</p>
       </div>
     </div>
   </div>
