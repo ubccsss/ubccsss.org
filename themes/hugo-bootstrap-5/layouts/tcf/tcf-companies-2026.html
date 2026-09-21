@@ -3,7 +3,7 @@
   <head>
     {{ partial "head-meta" . }}
     <link rel="canonical" href="{{ .Permalink }}" />
-    <title>UBC Technical Career Fair 2026</title>
+    <title>UBC Technical Career Fair 2027</title>
 
     <!-- Bootstrap CSS -->
     <link
@@ -81,10 +81,6 @@
                       >{{ .Params.title }}
                     </a>
                   </h5>
-                  <p class="card-subtitle text-truncate">
-                    Booth
-                    #{{ .Params.boothNumber }}
-                  </p>
                   {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" "Transportation and Distribution" "black" "Renewable Energy and Waste Management" "dark" }}
                   {{ range .Params.industry }}
                     <span class="badge bg-{{ index $badge_colors . }}"
@@ -107,7 +103,7 @@
             class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
             <img class="bi" width="30" height="24" src="/logo.svg" />
           </a>
-          <span class="mb-3 mb-md-0 text-muted">© 2025-2026 UBC CSSS</span>
+          <span class="mb-3 mb-md-0 text-muted">© 2026-2027 UBC CSSS</span>
         </div>
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
           <li class="ms-3">
