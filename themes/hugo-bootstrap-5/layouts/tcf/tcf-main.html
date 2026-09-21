@@ -135,23 +135,23 @@
       <div class="row pt-3">
         <div class="col-lg-6 col-sm-12">
           <h1>Welcome to TCF 2027!</h1>
-                    <p class="mt-3">
-                      We are thrilled to invite you to the 2027 UBC Technical Career Fair
-            (TCF)!<br /><br />
-            UBC stands among Canada's top in Engineering & Technology and is
-            recognized globally as
-            <a href="https://www.ubc.ca/about/institutional-rankings.html"
-              >1st for industry impact, innovation and infrastructure</a
-            >. We're proud of our commitment to technical excellence and
-            inclusivity across Computer Science, Engineering, Arts and Business.
-            {{/* In collaboration with women-focused tech groups, the LGBTQ+
-              community and hackathon initiatives, this year's TCF stands as a
-              nexus for technical prowess and empowerment.
-            */}}
-            This year's TCF stands as a nexus for technical prowess and
-            empowerment. Engage with a community of 3,000 students at UBC's
-            premier technical career fair. Don't miss this opportunity—secure
-            your spot now!
+          <p class="mt-3">
+            The UBC Computer Science Technical Career Fair (TCF) is a
+            student-led event that connects employers with technical talent at
+            one of the world’s top public universities. Held in collaboration
+            with campus tech groups that champion women and LGBTQ+ students,
+            this year’s TCF spotlights both technical excellence and diverse
+            talent.
+          </p>
+          <p>
+            For companies, the TCF is a direct line to the next generation of
+            engineers and technologists coming out of UBC. This in-person event
+            gives your company the chance to meet 4500+ students across Computer
+            Science, Cognitive Systems, Data Science, Statistics, Computer
+            Engineering, and Electrical Engineering. It’s an opportunity to
+            recruit motivated, technically-skilled talent, strengthen your
+            reputation as an inclusive employer of choice, and build a lasting
+            presence at one of Canada’s leading CS departments.
           </p>
         </div>
         <div class="col-lg-6 col-sm-12 pt-3">
@@ -187,10 +187,6 @@
                         >{{ .Params.title }}
                       </a>
                     </h5>
-                    <p class="card-subtitle text-truncate">
-                      Booth
-                      #{{ .Params.boothNumber }}
-                    </p>
                     {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" "Transportation and Distribution" "black" "Renewable Energy and Waste Management" "dark" }}
                     {{ range .Params.industry }}
                       {{ $color := default "black" (index $badge_colors .) }}
