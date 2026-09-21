@@ -1,0 +1,304 @@
+{{ define "body" }}
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&family=Poppins:wght@300;400&display=swap"
+    rel="stylesheet" />
+
+  <style>
+    /* ============ CSSS Sponsorship — pass 5: sponsor-showcase layout ============
+       Structure follows the WiCS-at-Harvard sponsors page: light diagonal hero,
+       centred headings, tiered logo showcase, closing enquiry form.
+       Skin is CSSS: 5 colours (navy #061D80 · blue #3A76DB · sky #B1D4FF ·
+       ink #1C2333 · paper #EEF3FC), Montserrat for display, Poppins for body. */
+    .sp {
+      --navy: #061d80;
+      --blue: #3a76db;
+      --sky: #b1d4ff;
+      --ink: #1c2333;
+      --paper: #eef3fc;
+      --tint: #e8f1ff;
+      --hair: rgba(6, 29, 128, 0.14);
+      --muted: rgba(28, 35, 51, 0.62);
+      font-family: "Poppins", sans-serif;
+      font-weight: 300;
+      color: var(--ink);
+      background: #fff;
+      margin: 0;
+      overflow-x: hidden;
+    }
+    .sp *,
+    .sp *::before,
+    .sp *::after { box-sizing: border-box; }
+    .sp-wrap { max-width: 1120px; margin: 0 auto; padding: 0 28px; }
+    .sp-label {
+      font-family: "Montserrat", sans-serif;
+      font-weight: 600;
+      font-size: 0.72rem;
+      letter-spacing: 0.24em;
+      text-transform: uppercase;
+      color: var(--blue);
+      margin: 0 0 14px;
+    }
+
+    /* ---------- hero: light band with a diagonal cut ---------- */
+    .sp-hero {
+      position: relative;
+      padding: 88px 28px 128px;
+      text-align: center;
+      background: #fff;
+      overflow: hidden;
+    }
+    .sp-hero-shape {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(112deg, var(--tint) 0%, #d6e8ff 58%, #c6ddff 100%);
+      clip-path: polygon(0 0, 100% 0, 100% 84%, 0 100%);
+    }
+    .sp-hero-inner { position: relative; z-index: 2; max-width: 860px; margin: 0 auto; padding-bottom: 20px; }
+    .sp-hero h1 {
+      font-family: "Montserrat", sans-serif;
+      font-weight: 800;
+      font-size: clamp(2.6rem, 6.6vw, 4.1rem);
+      line-height: 1.02;
+      letter-spacing: -0.015em;
+      color: var(--navy);
+      margin: 0 0 22px;
+    }
+    .sp-lead {
+      font-size: 1.02rem;
+      line-height: 1.8;
+      color: rgba(28, 35, 51, 0.72);
+      margin: 0 auto 34px;
+      max-width: 52ch;
+    }
+    .sp-hero-art {
+      position: absolute;
+      left: 6%;
+      bottom: 28px;
+      z-index: 1;
+      opacity: 0.9;
+    }
+
+    .sp-btn {
+      display: inline-block;
+      font-family: "Montserrat", sans-serif;
+      font-weight: 700;
+      font-size: 0.78rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      text-decoration: none;
+      padding: 15px 30px;
+      transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+    }
+    .sp-btn-solid { background: var(--navy); color: #fff; }
+    .sp-btn-solid:hover { background: var(--blue); color: #fff; }
+    .sp-btn-ghost { border: 1px solid rgba(6, 29, 128, 0.35); color: var(--navy); margin-left: 12px; }
+    .sp-btn-ghost:hover { border-color: var(--navy); background: rgba(6, 29, 128, 0.04); }
+
+    /* ---------- sections ---------- */
+    .sp-sec { padding: 96px 0; }
+    .sp-sec--paper { background: var(--paper); }
+    .sp-h2 {
+      font-family: "Montserrat", sans-serif;
+      font-weight: 800;
+      font-size: clamp(1.75rem, 3.6vw, 2.5rem);
+      line-height: 1.1;
+      letter-spacing: -0.01em;
+      color: var(--navy);
+      text-align: center;
+      margin: 0;
+    }
+    .sp-sub {
+      text-align: center;
+      font-size: 0.95rem;
+      line-height: 1.8;
+      color: var(--muted);
+      max-width: 64ch;
+      margin: 18px auto 0;
+    }
+    .sp-rule { width: 64px; height: 3px; background: var(--sky); margin: 26px auto 0; }
+
+    /* ---------- tiered logo showcase ---------- */
+    .sp-tier { margin-top: 72px; text-align: center; }
+    .sp-tier:first-of-type { margin-top: 56px; }
+    .sp-tier-label {
+      font-family: "Montserrat", sans-serif;
+      font-weight: 700;
+      font-size: 1.28rem;
+      color: var(--blue);
+      margin: 0;
+    }
+    .sp-tier-note { font-size: 0.78rem; color: var(--muted); margin: 8px 0 0; }
+    .sp-logos {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 34px 58px;
+      margin-top: 30px;
+    }
+    .sp-logo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+    }
+    .sp-logo img {
+      max-width: 100%;
+      width: auto;
+      height: auto;
+      object-fit: contain;
+      display: block;
+    }
+    /* Logo files are pre-trimmed to their ink box, so a uniform ink height
+       per tier keeps the wall optically even (taller cap for square marks). */
+    .sp-tier--gold .sp-logos { gap: 34px 56px; }
+    .sp-tier--gold .sp-logo img { max-height: 40px; }
+    .sp-tier--past .sp-logos { gap: 30px 44px; }
+    .sp-tier--past .sp-logo img { max-height: 34px; max-width: 152px; }
+
+    /* ---------- how it works ---------- */
+    .sp-how { max-width: 880px; margin: 52px auto 0; }
+    .sp-how-row {
+      display: grid;
+      grid-template-columns: 240px 1fr;
+      gap: 8px 32px;
+      padding: 26px 0 24px;
+      border-top: 1px solid var(--hair);
+    }
+    .sp-how-row:last-child { border-bottom: 1px solid var(--hair); }
+    .sp-how-row h3 { font-family: "Montserrat", sans-serif; font-weight: 700; font-size: 0.96rem; color: var(--navy); margin: 0; }
+    .sp-how-row p { margin: 0; font-size: 0.92rem; line-height: 1.8; color: var(--muted); }
+
+    /* ---------- enquiry form ---------- */
+    .sp-form { max-width: 560px; margin: 48px auto 0; text-align: left; }
+    .sp-form-field { margin-bottom: 22px; }
+    .sp-form label {
+      display: block;
+      font-family: "Montserrat", sans-serif;
+      font-weight: 600;
+      font-size: 0.72rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--navy);
+      margin-bottom: 8px;
+    }
+    .sp-form input,
+    .sp-form textarea {
+      width: 100%;
+      padding: 13px 15px;
+      border: 1px solid rgba(6, 29, 128, 0.24);
+      border-radius: 0;
+      background: var(--paper);
+      font-family: "Poppins", sans-serif;
+      font-weight: 300;
+      font-size: 0.94rem;
+      color: var(--ink);
+    }
+    .sp-form input:focus,
+    .sp-form textarea:focus { outline: 2px solid var(--blue); outline-offset: 1px; border-color: var(--blue); }
+    .sp-form textarea { min-height: 132px; resize: vertical; }
+    .sp-form-actions { margin-top: 8px; }
+    .sp-submit {
+      font-family: "Montserrat", sans-serif;
+      font-weight: 700;
+      font-size: 0.78rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: #fff;
+      background: var(--navy);
+      border: 0;
+      padding: 16px 40px;
+      cursor: pointer;
+      transition: background 0.15s ease;
+    }
+    .sp-submit:hover { background: var(--blue); }
+    .sp-form-hint { margin: 16px 0 0; font-size: 0.78rem; color: var(--muted); }
+    .sp-form-hint a { color: var(--blue); }
+    .sp-form-sent { margin: 18px 0 0; font-size: 0.88rem; line-height: 1.75; color: var(--navy); }
+
+    /* ---------- contact chips ---------- */
+    .sp-chips {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0 40px;
+      margin: 76px 0 0;
+      padding: 34px 0 0;
+      border-top: 1px solid var(--hair);
+      text-align: left;
+    }
+    .sp-chip { padding-left: 16px; border-left: 2px solid var(--sky); }
+    .sp-chip b {
+      display: block;
+      font-family: "Montserrat", sans-serif;
+      font-weight: 700;
+      font-size: 0.7rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--blue);
+      margin-bottom: 6px;
+    }
+    .sp-chip a,
+    .sp-chip span { display: block; font-size: 0.9rem; line-height: 1.7; color: var(--navy); text-decoration: none; }
+    .sp-chip a:hover { text-decoration: underline; }
+    .sp-note { text-align: center; margin: 52px 0 0; font-size: 0.78rem; color: var(--muted); }
+    .sp-note a { color: var(--blue); }
+
+    /* ---------- responsive ---------- */
+    @media (max-width: 900px) {
+      .sp-hero { padding: 72px 24px 108px; }
+      .sp-hero-shape { clip-path: polygon(0 0, 100% 0, 100% 89%, 0 100%); }
+      .sp-hero-art { display: none; }
+      .sp-sec { padding: 72px 0; }
+      .sp-tier--gold .sp-logo img { max-height: 32px; }
+      .sp-tier--past .sp-logo img { max-height: 22px; max-width: 124px; }
+      .sp-logos { gap: 26px 38px; }
+      .sp-how-row { grid-template-columns: 1fr; gap: 4px; }
+    }
+    @media (max-width: 560px) {
+      .sp-hero { padding: 64px 20px 96px; }
+      .sp-btn-ghost { margin-left: 0; margin-top: 12px; }
+      .sp-tier--gold .sp-logo img { max-height: 26px; }
+      .sp-tier--past .sp-logo img { max-height: 18px; }
+      .sp-chips { gap: 24px 32px; }
+    }
+  </style>
+
+  <div class="sp">{{ .Content }}</div>
+
+  <script>
+    // Sponsorship enquiry form: composes a pre-filled mail to the VP External.
+    // (Static site — no form backend; see the worker used for course reviews.)
+    (function () {
+      var form = document.getElementById("sp-enquiry");
+      if (!form) return;
+      form.addEventListener("submit", function (event) {
+        event.preventDefault();
+        var name = form.spName.value.trim();
+        var email = form.spEmail.value.trim();
+        var org = form.spOrg.value.trim();
+        var msg = form.spMsg.value.trim();
+        var subject = "Sponsorship enquiry — " + (org || name || "UBC CSSS");
+        var body = [
+          "Name: " + name,
+          "Email: " + email,
+          "Organization: " + org,
+          "",
+          msg,
+        ].join("\n");
+        var sent = document.getElementById("sp-enquiry-sent");
+        if (sent) {
+          sent.hidden = false;
+          sent.querySelector("a").setAttribute(
+            "href",
+            "mailto:vpx@ubccsss.org?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body)
+          );
+        }
+        window.location.href =
+          "mailto:vpx@ubccsss.org?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
+      });
+    })();
+  </script>
+{{ end }}
