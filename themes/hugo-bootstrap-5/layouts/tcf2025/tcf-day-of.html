@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+  <head>
+    {{ partial "head-meta" . }}
+
+
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    <title>UBC Technical Career Fair 2025</title>
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.2/css/bootstrap.min.css"
+      integrity="sha512-CpIKUSyh9QX2+zSdfGP+eWLx23C8Dj9/XmHjZY2uDtfkdLGo0uY12jgcnkX9vXOgYajEKb/jiw67EYm+kBf+6g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer" />
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+      integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
+      crossorigin="anonymous"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
+      integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
+      crossorigin="anonymous"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" />
+
+    <link href="{{ "css/style.css" | relURL }}" rel="stylesheet" />
+    <link href="{{ "css/tcf2023.css" | relURL }}" rel="stylesheet" />
+    <link href="{{ "css/tcf.css" | relURL }}" rel="stylesheet" />
+
+    {{ range .AlternativeOutputFormats -}}
+      <link
+        rel="{{ .Rel }}"
+        type="{{ .MediaType.Type }}"
+        href="{{ .Permalink | safeURL }}" />
+    {{ end -}}
+    {{ template "_internal/google_analytics_async.html" . }}
+    {{ partial "head-custom.html" . }}
+  </head>
+  <body class="d-flex flex-column min-vh-100">
+    <div class="dropdown nav-sticky">
+      <button
+        class="btn btn-light dropdown-toggle position-absolute m-3 small-shadow"
+        type="button"
+        data-bs-toggle="dropdown"
+        aria-expanded="false">
+        <i class="bi-list"></i>
+      </button>
+      <ul class="dropdown-menu">
+        <li>
+          <a class="dropdown-item" href="#location-details">Location Details</a>
+        </li>
+        <li>
+          <a class="dropdown-item" href="#parking-details">Parking Details</a>
+        </li>
+        <li>
+          <a class="dropdown-item" href="#drop-off-details">Drop off Details</a>
+        </li>
+        <li>
+          <a class="dropdown-item" href="#mailing-details">Mailing Details</a>
+        </li>
+        <li>
+          <a class="dropdown-item" href="#building-details">Building Details</a>
+        </li>
+        <li>
+          <a class="dropdown-item" href="#venue-map">Venue Map</a>
+        </li>
+        <li>
+          <a class="dropdown-item" href="#booth-assignments"
+            >Booth Assignments</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="#internet-access">Internet Access</a>
+        </li>
+        <li>
+          <a class="dropdown-item" href="#general-schedule">General Schedule</a>
+        </li>
+        <li>
+          <a class="dropdown-item" href="#catering-menu">Catering Menu</a>
+        </li>
+      </ul>
+    </div>
+    <div class="hero-header py-6 h-100">
+      <div class="hero-header-content">
+        <div class="mx-auto py-5">
+          <h1 class="display-1 fw-bold mb-neg1">Event Day Logistics</h1>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <a href="/tcf2025/">&lt; back to main page</a>
+      <p class="mt-4">
+        This page hosts the logistics for the day of the event for employers. If
+        you have any issues, on the day please contact your nearest TCF
+        Volunteer or message Iris at the phone number listed in the TCF 2025
+        Day-of Details email.<br /><br />
+
+        <b
+          >The event will take place at the Jack Poole Hall in the Robert H. Lee
+          Alumni Centre on Wednesday January 22, 2025 from 9am-5pm.
+          <br />
+          It is open to the public from 10am-4pm. Set-up is from 9am-10am, and
+          tear-down is from 4pm-5pm.</b
+        >
+        <br />
+        <br />
+        Other important dates:
+      </p>
+      <ul>
+        <li>
+          <b>January 13th, 2025</b>: Confirm changes to number of meal packages
+          or dietary restrictions
+        </li>
+        <li>
+          <b>January 20th, 2025</b>: Share a resume collection form link with
+          us, if interested
+        </li>
+      </ul>
+      <p>
+        Use the drop down on the right side of the screen to navigate to the
+        schedule below.
+        <br />
+      </p>
+
+      <hr />
+      <div id="location-details">
+        <h2>Location Details</h2>
+        We will be hosting the event in the Jack Poole Hall of the Robert H. Lee
+        Alumni Centre at UBC. The address is <b>6163 University Boulevard</b>.
+        However, Google Maps may provide you with the wrong directions unless
+        you use this address: <b>6133 University Blvd, V6T 1Z1</b>.
+        <br />
+        <div class="mapouter">
+          <div class="gmap_canvas">
+            <figure>
+              <iframe
+                id="gmap_canvas"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.552235725017!2d-123.25489520808439!3d49.265932298180445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548672b6360dff9d%3A0x82fa3ec0bf22ed35!2sRobert%20H.%20Lee%20Alumni%20Centre!5e0!3m2!1sen!2sca!4v1726629938408!5m2!1sen!2sca"
+                frameborder="0"
+                scrolling="no"
+                marginheight="0"
+                marginwidth="0"
+                width="800"
+                height="400">
+              </iframe>
+            </figure>
+          </div>
+        </div>
+      </div>
+
+      <hr />
+
+      <div id="parking-details">
+        <h2>Parking Details</h2>
+        <p>
+          There are multiple nearby parking lots for employers to park in. The
+          closest include:
+        </p>
+        <ul>
+          <li>
+            <b>University Boulevard Lot (Premium — next door to venue)</b>:
+            <a
+              href="https://www.google.ca/maps/dir//6131+University+Blvd,+Vancouver,+BC+V6T+2A1/@49.265888,-123.2533877,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x548672b635493ce1:0xb6297ee6c0e3b504!2m2!1d-123.2490103!2d49.2658881"
+              >6163 University Blvd, V6T 1Z1</a
+            >, $4/h — no maximum fee
+          </li>
+          <li>
+            <b>Health Science Parkade (Economy — five-minute walk)</b>:
+            <a
+              href="https://www.google.ca/maps?daddr=2250+Health+Sciences+Mall,+Vancouver,+BC+V6T+1Z3"
+              >2250 Health Science Mall, V6T 1Z3</a
+            >, $4/h — maximum $20
+          </li>
+          <li>
+            <b>North Parkade (Economy — five-minute walk)</b>:
+            <a
+              href="https://www.google.ca/maps?daddr=6115+Student+Union+Boulevard+V6T+1Z1"
+              >6115 Student Union Boulevard, V6T 1Z1 </a
+            >, $4/h — maximum $20
+          </li>
+        </ul>
+        <p>
+          We are subject to the university's public parking so space may be
+          limited. We are unable to provide vouchers for parking.
+        </p>
+        <p>
+          There is also metered parking available on the street, but we do not
+          recommend this as it is very limited and expensive.
+        </p>
+        <p>
+          For an interactive map with the rates for parking, please visit the
+          following and search for the Robert H. Lee Alumni Centre:
+          <a href="https://parking.ubc.ca/map">https://parking.ubc.ca/map</a>.
+        </p>
+        <hr />
+      </div>
+
+      <div id="drop-off-details">
+        <h2>Material or Personal Drop-off Details</h2>
+        <p>
+          The closest drop-off area to the Jack Poole Hall would be in by the
+          University Blvd Parking lot or anywhere in the cul-de-sac area closest
+          to Brown's Crafthouse and the Nest. If you require to drop off
+          materials before parking, we suggest dropping them off here and
+          contacting us before hand. Please check your email for our phone
+          details. We will have a team of volunteers near all doors for much of
+          the time between 8:50AM to 10:00AM.
+        </p>
+        <b
+          >If you require a flatbed to carry large packages, please let us know
+          ahead of time.</b
+        >
+        <p>Below is a screenshot of the fastest drop-off area.</p>
+        <img src="/files/tcf2025/TCF-2025-Drop-Off-Area.png" height="300px" />
+      </div>
+      <hr />
+
+      <div id="mailing-details">
+        <h2>Shipping Details</h2>
+        <p>
+          If you require shipping to UBC before the day of the event, please
+          notify us via email and provide tracking details at
+          <a href="mailto:external@ubccsss.org">external@ubccsss.org</a>.
+        </p>
+        <p>Please send any packages to the address below:</p>
+        <p>
+          UBC CSSS
+          <br />
+          021 - 2366 Main Mall
+          <br />
+          Vancouver, BC
+          <br />
+          CA, V6T1Z4
+        </p>
+      </div>
+      <hr />
+
+      <div id="building-details">
+        <h2>Building Details</h2>
+        <p>
+          We are located in the Jack Poole Hall on the 2nd floor of the Robert
+          H. Lee Alumni Centre, which is located in front of the Nest and next
+          to the University Blvd cul-de-sac.
+        </p>
+        <p>
+          We will have signage and volunteers on the day to direct you to the
+          correct location.
+        </p>
+      </div>
+      <hr />
+
+      <div id="venue-details">
+        <h2>Venue Details</h2>
+        <ul>
+          <li>The Jack Poole Hall is a large open space for booths.</li>
+          <li>
+            There are no walls or dividers provided between booths in the same
+            row, so please be respectful of your neighbours.
+          </li>
+          <li>
+            We have been told that the estimated amperage is 12A and the
+            estimated voltage is 120V.
+          </li>
+          <li>
+            WiFi is accessible through UBC Public Wifi. See the Internet Access
+            section below for instructions.
+          </li>
+        </ul>
+        <p>
+          Below is the following floor map for companies. This is subject to
+          change as we work with the catering staff. <br />
+          Company locations will be marked with table cloth and a paper on the
+          tables with the company name on the day, and a TCF volunteer will help
+          guide your team to your assigned booth. <br />
+        </p>
+        <div style="display:grid; text-align: center; align-content: center;">
+          <h2 id="venue-map" style="text-align: center;">Venue Map</h2>
+          <img
+            src="/files/tcf2025/floor-plan.png"
+            alt="A floor plan."
+            style="margin: 0 auto" />
+        </div>
+        <hr />
+
+        <h2 id="booth-assignments" style="text-align: center;">
+          Booth Assignments
+        </h2>
+        <p style="text-align: center;">
+          Below are the booth assignments for the event.
+        </p>
+        <div class="grid-container">
+          <div class="row pt-4">
+            {{ range .Site.Pages }}
+              {{ if (and (eq .Params.layout "tcf-company-2025") (.Params.imageLink)) }}
+                <div class="col-lg-2 col-sm-12 col-md-6 mt-3">
+                  <div class="card w-100 mt-3 h-100">
+                    <div
+                      class="d-flex flex-column justify-content-center"
+                      style="height: 180px; padding-top: 10px;">
+                      <img
+                        class="card-img-top img-fluid p-2 mh-100"
+                        src="{{ .Params.imageLink }}"
+                        alt="{{ .Params.title }} company logo"
+                        style="object-fit: contain" />
+                    </div>
+                    <div class="card-body">
+                      <h5 class="card-title">
+                        <span class="card-link">
+                          {{ .Params.title }}
+                        </span>
+                      </h5>
+                      <p class="card-title text-truncate">
+                        <b>
+                          Booth
+                          #{{ .Params.boothNumber }}
+                        </b>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      <br />
+      <hr />
+
+      <div id="internet-access">
+        <h2>Internet Access</h2>
+        <p>
+          UBC Visitor Internet Access is available for all attendees of the
+          Technical Career Fair. Please follow the instructions below to connect
+          to the network.
+        </p>
+        <a href="/files/tcf2024/TCF-2024-Wifi-Tutorial.pdf"
+          >UBC Visitor Internet Access at TCF</a
+        >
+      </div>
+      <hr />
+
+      <div id="general-schedule">
+        <h2>General Schedule</h2>
+        <table
+          style="width: 100%; margin: 0 auto; border-collapse: collapse; border: 2px solid #333;">
+          <tr style="background-color: #333; color: #fff;">
+            <th style="padding: 5px;">Time</th>
+            <th style="padding: 5px;">Event</th>
+            <th style="padding: 5px;">Location</th>
+            <th style="padding: 5px;">Description</th>
+          </tr>
+          <tr>
+            <td style="padding: 5px;vertical-align: top;">
+              9:00 AM - 10:00 AM
+            </td>
+            <td style="padding: 5px;vertical-align: top;">
+              Employer check-in and set-up
+            </td>
+            <td style="padding: 5px;vertical-align: top;">Jack Poole Hall</td>
+            <td style="padding: 5px;">
+              TCF volunteers will be setting up the area before and during this
+              time.
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 5px;vertical-align: top;">
+              10:00 AM - 4:00 PM
+            </td>
+            <td style="padding: 5px;vertical-align: top;">
+              Networking with student attendees
+            </td>
+            <td style="padding: 5px;vertical-align: top;">Jack Poole Hall</td>
+            <td style="padding: 5px;">
+              Meet with thousands of UBC students interested in careers at your
+              company across engineering, software development, data science and
+              business.
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 5px;vertical-align: top;">4:00 PM - 5:00 PM</td>
+            <td style="padding: 5px;vertical-align: top;">Event tear-down</td>
+            <td style="padding: 5px;vertical-align: top;">Jack Poole Hall</td>
+            <td style="padding: 5px;">
+              Finish packing equipment and conversations with any final
+              students.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <hr />
+
+      <div id="catering-menu">
+        <h2>Catering Menu and Schedule</h2>
+        <ul>
+          <li>
+            We are excited to offer a variety of food and beverage options for
+            employers throughout the day!
+          </li>
+          <li>
+            Dietary restrictions should be marked on the relevant food items.
+          </li>
+          <li>
+            Employers will be provided with a ticket on the day of the event
+            detailing the number of meals they are entitled to.
+          </li>
+          <li>
+            <b
+              >All lunch items will be placed in the adjoining Bill and Risa
+              Levine Classroom past 12pm.</b
+            >
+            We will send volunteers to give out food in the Jack Poole Hall
+            around 12pm and once more around 1pm.
+          </li>
+          <li>This room is locked unless a TCF volunteer is inside.</li>
+          <li>
+            Should the classroom door be closed, please ask the checkins counter
+            for assistance.
+          </li>
+        </ul>
+
+        <p>Menu to be added.</p>
+
+        <!-- <p>
+          <a href="/files/tcf2024/TCF-2024-Menu.pdf">View our menu here.</a>
+          <br />
+          Please note that the menu is outdated and pending change due to our
+          date change.
+        </p> -->
+
+        <p>
+          The below schedule is subject to change depending on the catering
+          staff.
+        </p>
+        <table
+          style="width: 100%; margin: 0 auto; border-collapse: collapse; border: 2px solid #333;">
+          <tr style="background-color: #333; color: #fff;">
+            <th style="padding: 10px;">Time</th>
+            <th style="padding: 10px;">Event</th>
+            <th style="padding: 10px;">Location</th>
+            <th style="padding: 10px;">Description</th>
+          </tr>
+          <tr>
+            <td style="padding: 5px;">9:30 AM - 12:00 PM</td>
+            <td style="padding: 5px;">Coffee and Light Breakfast</td>
+            <td style="padding: 5px;">Jack Poole Hall</td>
+            <td style="padding: 5px;">
+              Choose from a selection of coffee, tea and water in the drink
+              station and enjoy complementary snacks.
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 5px;">11:00 AM - 2:00 PM</td>
+            <td style="padding: 5px;">Lunch Room Available</td>
+            <td style="padding: 5px;">Bill and Risa Levine Classroom</td>
+            <td style="padding: 5px;">
+              Pick from a selection of sandwiches, salads, and drinks. Located
+              in an adjoining classroom.
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 5px;">1:00 PM - 2:00 PM</td>
+            <td style="padding: 5px;">Coffee</td>
+            <td style="padding: 5px;">Jack Poole Hall</td>
+            <td style="padding: 5px;">
+              Enjoy additional coffee or tea throughout the afternoon.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <hr />
+    </div>
+    <div class="container py-0 mt-auto">
+      <footer
+        class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4">
+        <div class="col-md-4 d-flex align-items-center">
+          <a
+            href="/"
+            class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
+            <img class="bi" width="30" height="24" src="/logo.svg" />
+          </a>
+          <span class="mb-3 mb-md-0 text-muted">© 2025 UBC CSSS</span>
+        </div>
+
+        <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+          <li class="ms-3">
+            <a class="text-muted" href="https://www.instagram.com/ubc_csss/"
+              ><i class="bi-instagram"></i
+            ></a>
+          </li>
+          <li class="ms-3">
+            <a class="text-muted" href="https://twitter.com/ubccsss">
+              <i class="bi-twitter-x"></i
+            ></a>
+          </li>
+          <li class="ms-3">
+            <a class="text-muted" href="http://ubccsss.org/discord">
+              <i class="bi-discord"></i
+            ></a>
+          </li>
+          <li class="ms-3">
+            <a class="text-muted" href="https://www.facebook.com/ubccsss">
+              <i class="bi-facebook"></i
+            ></a>
+          </li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+  <style>
+    .hero-header {
+      background: url(/files/tcf6.jpg);
+      background-position: center;
+    }
+    .hero-header-content {
+      padding: 5rem 0;
+    }
+  </style>
+</html>

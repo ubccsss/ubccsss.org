@@ -1,0 +1,272 @@
+{{ define "header" }}
+  <div class="navbar-redesign--homepage">
+    {{ partial "header" . }}
+  </div>
+{{ end }}
+
+{{ define "body" }}
+  {{ partial "home/hero" . }}
+  <!-- Fetch and split events into upcoming and past -->
+  {{ $recentEvents := (.Site.GetPage "/events").Pages | first 28 }}
+  {{ $upcomingEvents := slice }}
+  {{ $ongoingEvents := slice }}
+  {{ $pastEvents := slice }}
+  {{ $truncatedNow := now.Format "2006-01-02" | time }}
+
+  {{ range $event := $recentEvents }}
+    {{ $startDate := ($event.Params.start_date | default $event.Date) | time }}
+    {{ $endDate := ($event.Params.end_date | default $event.Params.start_date | default $event.Date) | time }}
+    {{ $truncatedStart := $startDate.Format "2006-01-02" | time }}
+    {{ $truncatedEnd := $endDate.Format "2006-01-02" | time }}
+    {{ if gt $truncatedStart $truncatedNow }}
+      {{ $upcomingEvents = $upcomingEvents | append $event }}
+    {{ else if and (le $truncatedStart $truncatedNow) (ge $truncatedEnd $truncatedNow) }}
+      {{ $ongoingEvents = $ongoingEvents | append $event }}
+    {{ else }}
+      {{ $pastEvents = $pastEvents | append $event }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Default active tab: upcoming > ongoing > past */}}
+  {{ $defaultTab := "past" }}
+  {{ if gt (len $upcomingEvents) 0 }}
+    {{ $defaultTab = "upcoming" }}
+  {{ else if gt (len $ongoingEvents) 0 }}
+    {{ $defaultTab = "ongoing" }}
+  {{ end }}
+
+
+  <section class="events-section">
+    <!-- Centered: heading + filter buttons -->
+    <div class="events-section__header">
+      <h2 class="events-section__heading">Our Events</h2>
+    </div>
+    <hr class="events-section__divider" />
+    <div class="events-section__header">
+      <div class="events-filter" role="tablist" aria-label="Event filters">
+        <button
+          id="filter-past"
+          class="events-filter__btn {{ if eq $defaultTab "past" }}
+            events-filter__btn--active
+          {{ end }}"
+          onclick="switchEventTab('past', this)"
+          role="tab"
+          aria-selected="{{ if eq $defaultTab "past" }}
+            true
+          {{ else }}
+            false
+          {{ end }}">
+          Past Events
+        </button>
+        <button
+          id="filter-ongoing"
+          class="events-filter__btn {{ if eq $defaultTab "ongoing" }}
+            events-filter__btn--active
+          {{ end }}"
+          onclick="switchEventTab('ongoing', this)"
+          role="tab"
+          aria-selected="{{ if eq $defaultTab "ongoing" }}
+            true
+          {{ else }}
+            false
+          {{ end }}">
+          Ongoing Events
+        </button>
+        <button
+          id="filter-upcoming"
+          class="events-filter__btn {{ if eq $defaultTab "upcoming" }}
+            events-filter__btn--active
+          {{ end }}"
+          onclick="switchEventTab('upcoming', this)"
+          role="tab"
+          aria-selected="{{ if eq $defaultTab "upcoming" }}
+            true
+          {{ else }}
+            false
+          {{ end }}">
+          Upcoming Events
+        </button>
+      </div>
+    </div>
+
+    <!-- Full-width carousel panels -->
+    <div
+      id="eventsCarouselPast"
+      class="events-tab {{ if eq $defaultTab "past" }}
+        events-tab--active
+      {{ end }}"
+      role="tabpanel">
+      {{ if gt (len $pastEvents) 0 }}
+        {{ partial "events-fan-carousel.html" (dict "carouselId" "fanPast" "events" $pastEvents) }}
+      {{ else }}
+        <p class="events-section__empty">No past events yet.</p>
+      {{ end }}
+    </div>
+
+    <div
+      id="eventsCarouselOngoing"
+      class="events-tab {{ if eq $defaultTab "ongoing" }}
+        events-tab--active
+      {{ end }}"
+      role="tabpanel">
+      {{ if gt (len $ongoingEvents) 0 }}
+        {{ partial "events-fan-carousel.html" (dict "carouselId" "fanOngoing" "events" $ongoingEvents) }}
+      {{ else }}
+        <p class="events-section__empty">No ongoing events at the moment.</p>
+      {{ end }}
+    </div>
+
+    <div
+      id="eventsCarouselUpcoming"
+      class="events-tab {{ if eq $defaultTab "upcoming" }}
+        events-tab--active
+      {{ end }}"
+      role="tabpanel">
+      {{ if gt (len $upcomingEvents) 0 }}
+        {{ partial "events-fan-carousel.html" (dict "carouselId" "fanUpcoming" "events" $upcomingEvents) }}
+      {{ else }}
+        <p class="events-section__empty">
+          No upcoming events at the moment. Check back later!
+        </p>
+      {{ end }}
+    </div>
+  </section>
+
+  <script>
+    function switchEventTab(tab, btn) {
+      ["past", "ongoing", "upcoming"].forEach(function (t) {
+        document
+          .getElementById(
+            "eventsCarousel" + t.charAt(0).toUpperCase() + t.slice(1)
+          )
+          .classList.remove("events-tab--active");
+        var filterBtn = document.getElementById("filter-" + t);
+        filterBtn.classList.remove("events-filter__btn--active");
+        filterBtn.setAttribute("aria-selected", "false");
+      });
+      document
+        .getElementById(
+          "eventsCarousel" + tab.charAt(0).toUpperCase() + tab.slice(1)
+        )
+        .classList.add("events-tab--active");
+      btn.classList.add("events-filter__btn--active");
+      btn.setAttribute("aria-selected", "true");
+    }
+  </script>
+
+  <section class="services-section">
+    <div class="services-section__header">
+      <h2 class="services-section__heading">Services</h2>
+    </div>
+    <hr class="services-section__divider" />
+    <div class="services-grid">
+      <a class="services-card" href="/services/courses/">
+        <img
+          class="services-card__img"
+          src="https://d33wubrfki0l68.cloudfront.net/e2ad15d073dbd9d0a734261924994fc7fac2f302/bc5f9/files/classroom.jpg"
+          alt="" />
+        <div class="services-card__overlay">
+          <h3 class="services-card__title">Course Review Database</h3>
+          <p class="services-card__desc">
+            We provide a database of student-sourced course reviews and
+            descriptions to help you choose your next classes.
+          </p>
+        </div>
+      </a>
+      <a class="services-card" href="/services/tutor">
+        <img
+          class="services-card__img"
+          src="https://d33wubrfki0l68.cloudfront.net/10e0ed0cbab83ecb5a61de3106d5fa309ae1b8b8/b3e32/files/tutor.jpg"
+          alt="" />
+        <div class="services-card__overlay">
+          <h3 class="services-card__title">Tutoring</h3>
+          <p class="services-card__desc">
+            We provide a place for tutors to advertise their availability and
+            for students to find a tutor for Computer Science courses.
+          </p>
+        </div>
+      </a>
+      <a class="services-card" href="/cube/">
+        <img
+          class="services-card__img"
+          src="https://d33wubrfki0l68.cloudfront.net/623ada90eddf24598a01bd2a3ee52e750515e9e9/06d8d/files/lounge.jpg"
+          alt="" />
+        <div class="services-card__overlay">
+          <h3 class="services-card__title">The Cube</h3>
+          <p class="services-card__desc">
+            We run a student lounge in ICICS 021, with cheap food, free
+            microwaves, video games, and a place to hang out.
+          </p>
+        </div>
+      </a>
+      <a class="services-card" href="/cube/lockers">
+        <img class="services-card__img" src="/files/lockers.jpg" alt="" />
+        <div class="services-card__overlay">
+          <h3 class="services-card__title">Locker Rentals</h3>
+          <p class="services-card__desc">
+            We offer lockers in ICICS for rent at $15 per semester - the
+            cheapest rates at UBC.
+          </p>
+        </div>
+      </a>
+      <a class="services-card" href="/cube/menu/">
+        <img
+          class="services-card__img"
+          src="https://d33wubrfki0l68.cloudfront.net/e71f6e23e6c2a230223c6e13f9eb1ab25244b27e/00822/files/chips.jpg"
+          alt="" />
+        <div class="services-card__overlay">
+          <h3 class="services-card__title">Cube Menu</h3>
+          <p class="services-card__desc">
+            We provide cheap snacks, like chips, pizza, candy, and drinks, in
+            the Cube.
+          </p>
+        </div>
+      </a>
+      <a class="services-card" href="/services/exams">
+        <img
+          class="services-card__img"
+          src="https://d33wubrfki0l68.cloudfront.net/e42ea3beeba3cc5b34c9ae1ec7b033c3045eb1e0/4619c/files/exams.jpg"
+          alt="" />
+        <div class="services-card__overlay">
+          <h3 class="services-card__title">Study Stack</h3>
+          <p class="services-card__desc">
+            We provide a database of old exams and study resources for review.
+          </p>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <section class="calendar-section">
+    <div class="calendar-section__header">
+      <h2 class="calendar-section__heading">Calendar</h2>
+    </div>
+    <hr class="calendar-section__divider" />
+    <div class="calendar-grid">
+      <div class="calendar-grid__panel calendar-grid__panel--iframe">
+        <iframe
+          id="open-web-calendar"
+          title="UBC CSSS Calendar"
+          src="https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https%3A%2F%2Fubccsss.org%2Fevents%2Findex.ics&amp;title=UBC%20CSSS%20Calendar&amp;url=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fical%2F1e1ce102f2951b154df282dc66ea69722b37b41a8956d88361befe9ceb9e8080%2540group.calendar.google.com%2Fpublic%2Fbasic.ics"
+          sandbox="allow-scripts allow-same-origin allow-top-navigation"
+          allowTransparency="true"
+          scrolling="no"
+          frameborder="0"
+          loading="lazy"></iframe>
+      </div>
+      <div class="calendar-grid__panel">
+        {{ .Scratch.Set "classes" "" }}
+        {{ partial "sidebar" . }}
+      </div>
+    </div>
+    <div class="calendar-mobile-link">
+      <a
+        href="https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https%3A%2F%2Fubccsss.org%2Fevents%2Findex.ics&amp;title=UBC%20CSSS%20Calendar&amp;url=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fical%2F1e1ce102f2951b154df282dc66ea69722b37b41a8956d88361befe9ceb9e8080%2540group.calendar.google.com%2Fpublic%2Fbasic.ics"
+        target="_blank"
+        rel="noreferrer"
+        class="calendar-mobile-link__btn">
+        View Full Calendar &rarr;
+      </a>
+    </div>
+  </section>
+{{ end }}

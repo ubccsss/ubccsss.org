@@ -1,0 +1,37 @@
+reviews:
+  - author: heehee
+    authorLink:
+    date: 2026-02-04
+    review: |
+      CPSC 436Q was very interesting, great introduction to quantum computing and information. However, there is no coding, and it is more of a math course, but you don't need to be familiar with quantum physics or any advanced math (just basics of linear algebra) to succeed. The algorithms you touch on (Shors, Grovers, etc.) are cool both conceptually and mathematically.
+
+      Prof was clearly passionate about the course, and grading was generous. Most marks were on assignments (interesting, but can take a while) and project (choose your own topic), while exam was only 30% (and no need to pass to pass course).
+    difficulty: 2.5
+    quality: 4.5
+    sessionTaken: 2025W1
+  - author: m_
+    authorLink:
+    date: 2025-02-22
+    review: |
+      436A -- Incredible course, took it with Thomas. Don't be scared by the hype -- it's high workload, but if you can commit to it then you'll come out with a decent grade (especially since they cut the final individual milestones). I would say this course has no real prereqs, 213 and 313 do not prepare you for it at all, and you can learn almost everything you need to know from the course book. I cannot recommend 436A enough. You don't need much experience in C, just enough to not malloc(sizeof(struct a*)).
+    difficulty: 5
+    quality: 5
+    sessionTaken: 2024W1
+  - author: Brandon Orange
+    authorLink:
+    date: 2023-02-25
+    review: |
+      With Vered, 436N was an excellent course. Slightly unstructured but that is the nature of learning new models and the 436's. The course had challenging assignments and a medium difficulty midterm/final. Highly recommended. I also think it's better than 440.
+    difficulty: 4
+    quality: 4
+    sessionTaken: 2022W1
+  - author: yanyuz
+    authorLink:
+    date: 2023-02-13
+    review: |
+      CPSC436A OS DESIGN & IMPL
+      Excellent course overall. I consider this is one of the few courses I have ever taken at UBC where my tuition actually pays off. 
+      You will obtain hands-on experience developing an Operating System in this course, also you will find out how little and shallow you understand OS from courses like 313. Here is the course website https://www.students.cs.ubc.ca/~cs-436a/.
+    difficulty: 5
+    quality: 5
+    sessionTaken: 2022W1

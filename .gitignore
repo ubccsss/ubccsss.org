@@ -1,0 +1,6 @@
+_gen/
+public
+node_modules
+.idea/
+.DS_Store
+.hugo_build.lock

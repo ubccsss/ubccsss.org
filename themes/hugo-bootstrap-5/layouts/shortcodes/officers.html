@@ -1,0 +1,19 @@
+<div class="row">
+  <div class="col-auto">
+    <img
+      class="rounded-circle"
+      height="100"
+      width="100"
+      {{ $pfp := resources.Get (index .Params 2) }}
+      src="{{ $pfp.Permalink }}"
+      alt="{{ index .Params 0 }}"
+      loading="lazy"
+      style="object-fit: cover" />
+  </div>
+  <div class="col d-flex flex-col align-items-center">
+    <div>
+      <h3>{{ index .Params 0 }}</h3>
+      <p>{{ index .Params 1 }}</p>
+    </div>
+  </div>
+</div>

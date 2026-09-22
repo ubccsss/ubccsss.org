@@ -1,0 +1,26 @@
+{{ $startDate := .Params.start_date | default .Date }}
+{{ $whenDate := .Params.when | default "" }}
+{{ $endDate := .Params.end_date | default (add (time $startDate).Unix 36000) }}
+{{ $fullDate := "Mon January 2, 2006 - 15:04" }}
+{{ $isoDate := "2006-01-02" }}
+{{ $isoDateTime := "2006-01-02 15:04:05" }}
+<p class="my-0">
+  <strong>When:</strong>
+  {{ if eq $whenDate "" }}
+    <time datetime="{{ dateFormat $isoDateTime $startDate }}"
+      >{{ dateFormat $fullDate $startDate }}</time
+    >
+    to
+    {{ if eq (dateFormat $isoDate $startDate) (dateFormat $isoDate $endDate) }}
+      <time datetime="{{ dateFormat $isoDateTime $endDate }}"
+        >{{ dateFormat "15:04" $endDate }}</time
+      >
+    {{ else }}
+      <time datetime="{{ dateFormat $isoDateTime $endDate }}"
+        >{{ dateFormat $fullDate $endDate }}</time
+      >
+    {{ end }}
+  {{ else }}
+    {{ $whenDate }}
+  {{ end }}
+</p>

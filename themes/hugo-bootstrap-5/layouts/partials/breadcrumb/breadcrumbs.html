@@ -1,0 +1,8 @@
+{{- if not .Parent.IsHome -}}
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      {{ partial "breadcrumb/chain" .Parent }}
+      <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+    </ol>
+  </nav>
+{{- end -}}

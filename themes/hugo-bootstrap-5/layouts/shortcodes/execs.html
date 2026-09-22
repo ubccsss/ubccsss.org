@@ -1,0 +1,46 @@
+{{- $key := .Get 0 | default "execs" }}
+{{ range (index .Page.Params $key) }}
+  <div class="row">
+    <div class="col-auto">
+      {{- $path := printf "images/execs/%s" (.img | default "default.svg") -}}
+      {{- $img := resources.Get $path -}}
+      {{- if ne $img.MediaType.SubType "svg" -}}
+        {{- $img = $img.Fill "300x300 Center" -}}
+      {{- end -}}
+      <img
+        class="rounded-circle"
+        height="100"
+        width="100"
+        src="{{ $img.RelPermalink }}"
+        alt=""
+        loading="lazy" />
+    </div>
+    <div class="col">
+      <h3>{{ .position }}</h3>
+      <div>
+        <h4
+          class="d-inline fs-6 fw-bold"
+          style="font: inherit; margin-right: 0.5ch">
+          Name:
+        </h4>
+        <span>{{ .name }}</span>
+      </div>
+      {{ with .email }}
+        <div>
+          <h4
+            class="d-inline fs-6 fw-bold"
+            style="font: inherit; margin-right: 0.5ch">
+            Email:
+          </h4>
+          <code>{{ replace (replace . "@" " [at] ") "." " [dot] " }}</code>
+        </div>
+      {{ end }}
+      {{ with .description }}
+        <div class="mt-2">
+          {{ . | markdownify }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+  <hr />
+{{ end }}

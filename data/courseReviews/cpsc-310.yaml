@@ -1,0 +1,85 @@
+reviews:
+  - author: ushankab
+    authorLink: 
+    date: 2024-05-10
+    review: |
+      The lectures often felt kind of dry and boring. However, that doesn't mean the material covered in the lectures isn't useful or important, in fact, I firmly believe that it is useful and important. I thought the project was excellent and made up for the lectures being boring. A lot of work and preparation has gone into making the project a good learning experience. I found it to be a fun learning experience that does a good job of reinforcing the theoretical content of the lectures (testing, refactoring, design etc.). The project is pretty easy for a competent team that has prior industry experience and does not procrastinate. However, I think the difficulty of this course can radically change based on a few key decisions or aspects. First, I think it's very important to get a good project group partner. Second, it's important to do a good job on C0 to set yourself up for success on the rest of the project. When I took this course C0 essentially started on the first day of the semester and we only got something like 10 days to do it, so the start of the course can be a little heavy (arguably the heaviest part).
+    difficulty: 2
+    quality: 4
+    sessionTaken: 2023W1
+  - author: b
+    authorLink: 
+    date: 2024-04-22
+    review: |
+      Lectures: the lectures of this course just felt so useless and hard to take notes for - pretty much everyone I know that took this course just stopped going to lectures, instead the readings and videos provided should cover most of the content
+      
+      Project: like many have said before, it's not the most useful thing and if you already have a full-stack app and / or co-op experience the project really doesn't do much for you. Yes, the course learnings are *encouraged* to be used in the project but that doesn't change the fact that the best way to go about the project is just to write shit code since the tight deadlines, overwhelming amount of work specified, and stupidly structured auto grading cooldowns mean that there's usually no time to write quality code.
+      
+      Exams: 60% of our grade (20% quizzes & 40% final) are from T/F questions with penalty on incorrect choices - personally I found this to be quite bizzare and really am not sure if this is a way for them to save time on grading (but like, maybe some MCQ too, come on?) or they really thought this was the best way to test us
+      
+      TLDR imo classes are not useful, project isn't paricularly engaging, and exams are poorly weighted.
+    difficulty: 3.5
+    quality: 2.5
+    sessionTaken: 2023W2
+  - author: ██
+    authorLink: 
+    date: 2023-12-15
+    review: |
+      Your experience in this course is entirely contingent on whether or not your project partner is decent or not. My team got split at c2 and we each soloed our project from there because he just wasn't doing anything. The project is also a lot of work and is completely disjoint from examinable lecture material. The exams are true false, if you want to see your result, you have to book a 10 minute quiz viewing session (you are not allowed to take notes there). Lecture content isn't terrible - it's just memorization.
+      
+      First week is hell. You have to write unit tests to catch all mutants (buggy versions of their code). The autograder has a 12 hour cooldown. It's not unheard of for students to set alarms in the middle of the night to run it because the deadline is so tight.
+    difficulty: 2
+    quality: 2
+    sessionTaken: 2023W1
+  - author: shubh
+    authorLink: https://www.linkedin.com/in/shubh-bhalla/
+    date: 2023-05-07
+    review: |
+      Good course that builds on top of CPSC 210 and teaches Object Oriented Programming.
+      The project for this course is pretty complex, and as you iterate over the different phases, it gets pretty big; make sure to start way before the deadline! The TAs were super helpful, and I highly recommend going to office hours for help.
+      Ried Holmes and Ivan were great instructors.
+    difficulty: 3.5
+    quality: 4
+    sessionTaken: 2022W1
+  - author: Kristen F
+    authorLink:
+    date: 2023-02-15
+    review: |
+      Course was very much split into lecture content and project content. Lecture content was focused on Agile concepts and general industry terms and ideas, and was not difficult. Project had a quite intensive workload, but the end result of a full stack project is quite good on a resume. Personally found that the project coding was not extremely difficult, just time-consuming, and also required learning Promises.
+    difficulty: 4
+    quality: 4.5
+    sessionTaken: 2020W1
+  - author: Andy Liang
+    authorLink:
+    date: 2023-02-05
+    review: |
+      The course consists of a full stack project (no DB) where the hardest part of the project is actually more algorithm related ish (building a query engine) than it is software construction in my opinion. The project itself ended up being very useless (especially if you have done one decent full stack personal project or have coop experience) since there is no code quality enforcement. This means you are free to write garbage code, as long as it works. I would advice to start early on the project though!
+
+      The conceptual portion taught in lecture is useful. However the project, nor any other part of the course, really forces you to try the design patterns that you have learned. :)
+    difficulty: 3
+    quality: 2
+    sessionTaken: 2022W1
+  - author: anonymous
+    authorLink:
+    date: 2023-02-03
+    review: |
+      Very length and time consuming project. Teaches you a great deal about software construction and various design concepts for building maintainable systems. Make sure to start working on the project deadlines early!
+      Interesting content and highly applicable in real life.
+    difficulty: 3.5
+    quality: 5
+    sessionTaken: 2022W1
+  - author: 310isgood
+    authorLink:
+    date: 2022-11-01
+    review: |
+      The lecture content is not that hard. The main project though is very tedious and if you do not know TypeScript or Promises then there is a very steep learning curve. Try to give a lot of time to the project and start early!
+    difficulty: 4
+    quality: 3
+    sessionTaken: 2022W1
+  - author: Positivelectron0
+    authorLink: https://www.reddit.com/r/UBC/comments/ncltx2/comment/gy65jdk/?utm_source=share&utm_medium=web2x&context=3
+    date: 2021-05-14
+    review: >
+      Easy but annoying because the class material is different from the project. The project is also super terrible (by design) so it's a pretty big waste of time.
+    difficulty: 0
+    quality: 0

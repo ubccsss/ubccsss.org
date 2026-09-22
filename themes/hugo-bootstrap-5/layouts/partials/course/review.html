@@ -1,0 +1,36 @@
+{{ range . }}
+  <blockquote style="margin-top: 20px; word-wrap: break-word">
+    {{ .review | markdownify }}
+  </blockquote>
+  <table class="mb-3">
+    {{ if not (eq .difficulty 0) }}
+      <tr>
+        <td class="pe-2">Difficulty:</td>
+        <td class="pe-1">
+          {{ partial "course/rating" (dict "rating" .difficulty "color" "text-secondary") }}
+        </td>
+        <td>{{ .difficulty }}</td>
+      </tr>
+    {{ end }}
+    {{ if not (eq .quality 0) }}
+      <tr>
+        <td class="pe-2">Quality:</td>
+        <td class="pe-1">
+          {{ partial "course/rating" (dict "rating" .quality) }}
+        </td>
+        <td>{{ .quality }}</td>
+      </tr>
+    {{ end }}
+  </table>
+  <cite class="blockquote-footer">
+    {{ if .authorLink }}
+      <a href="{{ .authorLink }}"> {{ .author }}</a>,
+    {{ else }}
+      {{ .author }},
+    {{ end }}
+    {{ dateFormat "Jan 2 2006" .date }}{{ with .sessionTaken }}, course taken
+      {{ . }}
+    {{ end }}
+  </cite>
+  <hr />
+{{ end }}

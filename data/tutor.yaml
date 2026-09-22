@@ -1,0 +1,701 @@
+# Tutors for the tutor page.
+# Note that the page sorts by (first) name and does not obey this list's order strictly.
+# The page also only displays bio, rates, and availability if they exist
+
+# Example:
+# - name: John Doe
+#   lastmod: 2021-11-21
+#   courses: [CPSCXXX, CPSCXXX] <= please make sure these course codes do not have a space in them
+#   email: johndoe@abc.com
+#   bio: |
+#     * Bio point 1
+#     * Bio point 2
+#   rates: $X/hr
+#   availability: MWF, 9AM-9PM
+
+- name: Emily Gubski
+  lastmod: 2022-01-22
+  courses: [CPSC103]
+  email: eagubski@student.ubc.ca
+  availability: Available during the week and weekends- contact to schedule
+  bio: |
+    * I did my undergrad at UBC in Computer Science and Microbiology and Immunology and am now in med school. 
+    * I have TA'd CPSC103- 8 times and CPSC310- 2 times and have been tutoring for 3 years. I have also been teaching children's programming classes for 7 years. In addition to CS, I have tutored Math and CARS for the MCAT. 
+    * I also offer group tutoring sessions.
+
+- name: Kamsi Oramasionwu
+  lastmod: 2022-01-22
+  courses: ["CPSC110", "CPSC210", "CPSC313"]
+  email: kamsi.oramasionwu@gmail.com
+  rates: $30-35/hr
+  availability: Flexible
+  bio: |
+    I'm a 3rd year CS student. I really enjoyed CPSC 110, 210, and 313 and scored A/A+s in all of them. I have coding experience outside of university, and I will complete an internship this summer.
+
+- name: XinRan Zhang
+  lastmod: 2021-11-21
+  courses: ["CPSC110", "CPSC121", "CPSC210", "CPSC310", "CPSC312"]
+  email: xinran@zhangxinran.net
+  availability: Weekend and some weekday, flexible
+  rates: $30/hr
+
+- name: Rahim Mammadli
+  lastmod: 2021-11-21
+  courses: ["CPSC221", "CPSC320", "CPSC322"]
+  email: rehijm@mail.ru
+  rates: $20/hr
+
+- name: Michael Allan
+  lastmod: 2025-06-21
+  courses:
+    [
+      APSC160,
+      CPSC103,
+      CPSC107,
+      CPSC110,
+      CPSC121,
+      CPSC210,
+      CPSC213,
+      CPSC221,
+      CPSC304,
+      CPSC310
+    ]
+  email: mb.allan@ymail.com
+  rates: $50/hr
+  availability: Weekdays after 5 PM and all day on weekends
+  bio: |
+    I am a full time fullstack web developer and a UBC Computer Science graduate as of May 2024. In addition, I have five co-op work terms under my belt from my time as a student. I have over four years of tutoring experience and have helped more than twenty students successfully pass their classes.
+
+- name: Roceley Yuo
+  lastmod: 2022-01-22
+  courses:
+    [
+      "CPSC110",
+      "CPSC210",
+      "CPSC213",
+      "CPSC310",
+      "CPSC304",
+      "CPSC313",
+      "CPSC415"
+    ]
+  email: roceleylaw@gmail.com
+  availability: Full day
+  rates: $40/hr
+
+- name: Kathy Ye
+  lastmod: 2022-01-22
+  courses:
+    [
+      CPSC110,
+      CPSC210,
+      CPSC221,
+      CPSC304,
+      CPSC310,
+      CPSC313,
+      CPSC314,
+      CPSC320,
+      CPSC340
+    ]
+  email: kathyye26@yahoo.com
+  rates: $50-70
+  bio: CPSC graduated student
+  availability: Monday to Friday
+
+- name: Frank Hui
+  lastmod: 2022-01-22
+  courses: [CPSC121, CPSC210, CPSC213, CPSC221, EOSC211]
+  email: huifrank@live.com
+  rates: $45/hr
+  bio: |
+    "I have been programming for 8 years now, and have experience in Java, Python, R, JS, C/C++, HTML/CSS. I have won best Computer Science project twice at the Greater Vancouver Regional Science Fair and top 20 at nwHacks. Received a 5 in AP Computer Science. Worked as a tutor for two years for college students and high school students in CS subjects. I can also tutor basic computer programming courses outside of CPSC, such as EOSC 211 or APSC 160."
+  availability: MWF After 3pm, Thursdays before 5pm, all day on weekends.
+
+- name: Daocheng Wang
+  lastmod: 2023-02-04
+  courses: ["CPSC110", "CPSC121", "CPSC210"]
+  email: wangdc2010@gmail.com
+  rates: $60-70/hr
+  bio: Tech Lead @ one of FAANG companies.
+
+- name: Vancoding
+  lastmod: 2022-01-22
+  courses:
+    [
+      CPSC100,
+      CPSC103,
+      CPSC107,
+      CPSC110,
+      CPSC121,
+      CPSC210,
+      CPSC221,
+      CPSC213,
+      CPSC302,
+      CPSC304,
+      CPSC310,
+      CPSC313,
+      CPSC314,
+      CPSC317,
+      CPSC320,
+      CPSC322,
+      CPSC330,
+      CPSC340,
+      CPSC404,
+      CPSC424,
+      CPSC425
+    ]
+  email: vancodingcs@gmail.com
+  availability: Monday to Sunday
+  rates: from $50
+
+- name: Wayne
+  lastmod: 2022-01-22
+  courses:
+    [
+      CPSC110,
+      CPSC121,
+      CPSC210,
+      CPSC213,
+      CPSC221,
+      CPSC310,
+      CPSC320,
+      CPSC404,
+      CPSC425
+    ]
+  email: 7111605ying@gmail.com
+  rates: $50/hr
+
+- name: Miranda Yin
+  lastmod: 2022-01-22
+  courses:
+    [
+      MATH100,
+      MATH101,
+      MATH200,
+      MATH221,
+      MATH220,
+      MATH215,
+      CPSC110,
+      CPSC210,
+      CPSC221,
+      CPSC213
+    ]
+  email: miranda.yin132@gmail.com
+  bio: |
+    2nd year combined computer science and physics student, TA for CPSC 121 (do not contact for CPSC 121 tutoring), regularly tutor others for CPSC and MATH courses
+  rates: $45-55/hr
+  availability: MWF after 3pm, anytime weekends, some flexibility for other times
+
+- name: Dennis Chiu
+  lastmod: 2022-01-22
+  courses: [CPSC103]
+  email: dennischiu14@gmail.com
+  bio: |
+    I completed CPSC 103 in 2021W and received a final mark of 92%. Offering free help for students taking the course as I plan to become TA for the course later on
+  rates: Free
+  availability: Monday to Friday 1-2pm, anytime during the weekend
+
+- name: Arsh Jhaj
+  lastmod: 2025-01-27
+  courses:
+    [
+      CPSC110,
+      CPSC121,
+      CPSC210,
+      CPSC221,
+      CPSC310,
+      CPSC320,
+      CPSC420,
+      CPSC340,
+      CPSC540,
+      MATH1XX,
+      MATH2XX,
+      MATH32X
+    ]
+  email: arshijhaj@outlook.com
+  bio: |
+    UBC MSc graduate with 6+ consecutive years (2017-2023) of TA experience over 15+ academic terms with UBC CS, specifically in the discrete math and algorithms courses. My masters was focused on ML theory, specifically an area called differential privacy. I co-developed the randomized algorithms course (CPSC 436R) alongside the professor in 2021. Additionally graduated with a CS/Math BSc (with distinction + multiple scholarships) from UBC in 2021. Privately tutored 300+ students since 2019. These days, I am exclusively focused full-time on CS/math education; for example I recently worked on expanding a small tutoring business with an ex-professor. I am very passionate about supporting my students' growth and would be happy to work with you.
+  rates: $50/hr (negotiable in certain circumstances)
+  availability: Generally very flexible (contact for further details)
+
+- name: Nate Sternberg
+  lastmod: 2022-01-22
+  courses: [CPSC110, CPSC121]
+  email: sternbergnate@gmail.com
+  bio: |
+    Third year CS major with a solid first-year CS knowledge base.
+  rates: $20/hr
+  availability: Upon request
+
+- name: Jacob Hotz
+  lastmod: 2022-09-17
+  courses:
+    [CPSC110, CPSC121, CPSC210, CPSC213, CPSC213, CPSC103, CPSC107, CPSC313]
+  email: hotzjacobb@yahoo.com
+  bio: |
+    Experienced TA (have previously TA'd both 110 and 121) in my final year of UBC CS with a passion for teaching and learning.
+  rates: $35/h
+  availability: Flexible (please contact)
+
+- name: David Rowswell
+  lastmod: 2025-01-27
+  courses: [All CPSC Courses]
+  email: davi12908@gmail.com
+  bio: |
+    Hello! I have been a programmer and employee of UBC for 6 years after completing my Computer Science Degree at UBCO. I was a TA for 3 years during my degree an have been actively tutoring at the UBC Vancouver campus for the last 6 years. Happy to help students reach their programming goals! 1/2 Slots filled!
+  rates: $40/h
+  availability: Weekends, but Flexible
+
+- name: Hawk Lu
+  lastmod: 2023-09-14
+  courses:
+    [CPSC110, CPSC121, CPSC210, CPSC213, CPSC221, CPSC310, CPSC320, CPSC322]
+  email: hawklu212@hotmail.com
+  bio: |
+    Hi! My name is Hawk, 4th year BCS, A fan of all cats and dogs, enjoy playing Ultimate, Industry focused on DevOps, and down to help wherever I can!
+  rates: $50/h
+  availability: Monday, Wednesday, Friday 12pm-6pm
+
+- name: Hailey Han
+  lastmod: 2023-03-22
+  courses: ["CPSC110"]
+  email: seohee372@gmail.com
+  bio: |
+    I have good grade from the course and also have years of tutoring experience.
+    I also offer trial classes to let you see if my classes fit you and your schedule.
+  rates: $45/90 minute session
+  availability: Monday to Friday, from 5pm to 9pm
+
+- name: Lewis Nicolle
+  lastmod: 2024-09-24
+  courses:
+    [
+      CPSC110,
+      CPSC121,
+      CPSC210,
+      CPSC213,
+      CPSC221,
+      CPSC310,
+      CPSC313,
+      CPSC314,
+      CPSC317,
+      CPSC320,
+      CPSC418,
+      APSC160,
+      CPEN211,
+      CPEN212,
+      CPEN221,
+      CPEN331
+    ]
+  email: lewis.c.nicolle@gmail.com
+  bio: |
+    Graduated from UBC with a Bachelor's in CS in 2017. Have worked in the game industry for 5+ years, at companies like Capcom, EA, and Relic Entertainment. I specialize in graphics/rendering (D3D11/12, HLSL, PBR), and in low-level systems programming (C/C++/assembly, optimization, Windows API). Beyond coursework, I can also tutor in game and game engine programming, and help with interview prep for game companies.
+  rates: $55/h
+  availability: Weekdays
+
+- name: Titus Wong
+  lastmod: 2024-01-04
+  courses: [CPSC121, CPSC221, CPSC110, CPSC320]
+  email: wongtitus89@gmail.com
+  bio: |
+    I’m a recent graduate who majored in computer science and mathematics. I had been a TA for 121 and 221 for 4 years and have taken senior roles (such as creating assignemnts and exams). I also had 5+ students who I tutored previously in my 5th year. I am now working full time as a software developer. However, I am still passioniate about tutoring and seeing my students excel. I can also give out advices in job finding and practicing interview scenarios. Please feel free to reach out!
+  rates: $40-45/h depending on number of lessons and difficulty of course
+  availability: Mon-Fri after 6pm. Sat Sun mostly free.
+
+- name: Han
+  lastmod: 2023-03-24
+  courses: [CPSC210]
+  email: h.sun@alumni.ubc.ca
+  bio: |
+    Hi there, I'm a 2020 graduate of UBC's Comp Sci program. I was a TA for CPSC 210 for two terms with Professor Carter and Hutchinson. I currently work as a software engineer for Microsoft and can tutor in person or virtually.
+  rates: $45/Hour
+  availability: Weekends, some Weekdays. (Contact me for scheduling)
+
+- name: Ayan Das
+  lastmod: 2026-01-31
+  courses: [CPSC110, CPSC210, CPSC304, CPSC322, CPSC310, CPSC213, CPSC221]
+  email: ayandas@student.ubc.ca
+  rates:
+    "<br/>For upper year Classes: $60/hr weekdays, $65/hr weekends for upper year CS classes.
+    <br/>For 1st year Classes: $45/hr weekdays, $50/hr weekends since first years have it rough :)"
+  availability: "Weekdays: 2–6 pm, Weekends: flexible"
+  bio: |
+    Graduated from UBC CS, and currently a SWE at a FAANG company. Also 8 terms of TA experience (CPSC 107, 110, 322) and 24 months of co-op experience.
+
+    contact me at ayandas99@gmail.com
+
+- name: Aleksandr Kim
+  lastmod: 2024-04-25
+  courses:
+    [
+      MATH100,
+      MATH101,
+      MATH152,
+      MATH221,
+      MATH200,
+      MATH220,
+      MATH307,
+      MATH317,
+      PHYS117,
+      PHYS118,
+      MATH302,
+      MATH223,
+      MATH320,
+      MATH321
+    ]
+  email: tkim06@student.ubc.ca
+  bio: |
+    I have TAed some math courses. I am especially interested in topics in differential geometry. I am also pursuing honours mathematics.
+  rates: 100 level - 30 $/hr   ;   200 level - 40 $/hr   ;   300 level - 50 $/hr
+  availability: Monday - Saturday 9 am - 9pm (Flexibility for some other time)
+
+- name: Ashish Chopra
+  lastmod: 2023-09-04
+  courses: [CPSC103]
+  email: sendtoashishchopra@gmail.com
+  bio: |
+    I was the sessional lecturer (professor) for this course at UBC for two summer terms in 2021, and 2022 with 110+ students each. I received 4.7/5 of student feedback in a UBC controlled survey. I have taught this course in online as well as in-person mode, designed midterms, final exams questions, and managed a team of TA for course execution. I am well versed with all kinds of problem scenarios with CS103 concepts and able to tutor students in private or group settings. Depending on your needs, I have a structured plan to clear your concepts and prepare you for exams. I have also tutored several students since then who passed with good grades. Apart from tutoring, I work in IT industry as Software Engineer with 8 years of experience in Vancouver.
+  availability: I'm available any time and based on chat with the students
+
+- name: Phuong Nguyen
+  lastmod: 2026-01-31
+  courses: [CPSC107, CPSC110]
+  email: phuongnguyen0612000@gmail.com
+  bio: |
+    Currently working as a machine learning engineer at DeviantArt. Graduated May 2023 in Combined Major in Computer Science and Microbiology and Immunology. I am an experienced TA, having TA'ed both CPSC 110 and 107 for 8 terms. Have been tutoring since I graduated.
+  rates: $45/h
+  availability: weekdays 6pm - 10:00pm; weekend (flexible)
+
+- name: Brandon Kato
+  lastmod: 2023-09-04
+  courses: [CPSC110, CPSC121, CPSC210]
+  email: brandonkatotutoring@gmail.com
+  bio: |
+    Hello! My name is Brandon and I am a current BCS student. Have experience TAing and tutoring in Chemistry from my former degree. I am now transitioned into computer sciences!
+  rates: $40/hr
+  availability: Flexible (Please contact)
+
+- name: Charles
+  lastmod: 2023-09-07
+  courses: [CPSC221, CPSC320, CPSC340]
+  email: hucharles5@gmail.com
+  bio: |
+    I am a passionate cs student who recently completed third yr honors. I tutored and TAed for 320, achieved the second highest mark on the final exam for 340 (1), and the highest integer-rounded overall mark for the course (2).
+
+    95% in 320
+    96% in 340
+    96% math + cs average
+
+    I like to teach difficult concepts in an easy-to-understand way, without relying on using big words or fancy definitions that only confuse people more. I always prioritize understanding and reasoning over memorizing answers to past assessments. I will teach the exact problem solving technique/procedure that I used to solve every single question on the tests when I took those courses. Anyone looking to improve their skills and solve harder problems from these courses should look no further.
+
+    Sources:
+    (1) prof lehrmann who was one of the profs that taught my 340 section
+    (2) ubc grades (2022w term 2, which are sections 201 and 202)
+  rates: very negotiable, but generally around 50-60/hr ish
+  availability: weekends, or weekday nights
+
+- name: Alex
+  lastmod: 2023-09-30
+  courses: [CPSC221, CPSC210]
+  email: discrete901@gmail.com
+  bio: |
+    CS graduate with more than 8 years of software industry experience.  Primarily works in Java/Kotlin/Android.  Can also provide career guidance and mentoring.
+  rates: $55/hr
+  availability: M-Sun (9:00am - 8:00pm)
+
+- name: George G
+  lastmod: 2023-10-15
+  courses:
+    [
+      CPSC100,
+      CPSC103,
+      CPSC107,
+      CPSC110,
+      CPSC121,
+      CPSC203,
+      CPSC210,
+      CPSC213,
+      CPSC221,
+      CPSC259,
+      CPSC302,
+      CPSC303,
+      CPSC304,
+      CPSC310,
+      CPSC311,
+      CPSC312,
+      CPSC313,
+      CPSC314,
+      CPSC317,
+      CPSC320,
+      CPSC322,
+      CPSC330,
+      CPSC344,
+      CPSC368,
+      CPSC404,
+      CPSC406,
+      CPSC416,
+      CPSC418,
+      CPSC420,
+      CPSC421,
+      CPSC436S,
+      CPSC440,
+      PHYS210,
+      CPEN211,
+      CPEN212,
+      CPEN221,
+      CPEN223,
+      CPEN311,
+      CPEN312,
+      CPEN321,
+      CPEN322,
+      CPEN331,
+      CPEN333,
+      CPEN355,
+      CPEN411,
+      CPEN412,
+      CPEN431,
+      CPEN432,
+      CPEN442,
+      CPEN455,
+      MATH100,
+      MATH101,
+      MATH110,
+      MATH120,
+      MATH121,
+      MATH152,
+      MATH180,
+      MATH190,
+      MATH200,
+      MATH210,
+      MATH217,
+      MATH220,
+      MATH221,
+      MATH223,
+      MATH226,
+      MATH227,
+      MATH253,
+      MATH254,
+      MATH302,
+      MATH303,
+      MATH307,
+      MATH310,
+      MATH312,
+      MATH318,
+      MATH320,
+      MATH321,
+      MATH322,
+      MATH335,
+      MATH344,
+      STAT200,
+      STAT201,
+      STAT203,
+      STAT251,
+      STAT302,
+      ECON325,
+      ECON327
+    ]
+  email: cpsc.tutor.george@gmail.com
+  bio: |
+    Here to help! I have a broad base of expertise in computer science and in mathematics. No matter what the topic, I am committed to improving your understanding.
+
+    More About Me:
+     - Hon. BSc from the University of Toronto (Computer Science Specialist, graduated with distinction)
+     - Current MSc in Computer Science student at the University of Toronto (working remotely from Vancouver)
+     - Multiple years of combined TA and one-on-one tutoring experience
+     - Plenty of real-world software development experience
+     - Many satisfied clients!
+
+    Additional Notes:
+     - I can meet anywhere on campus.
+     - Off-campus meetings are possible, but may be subject to additional travel-related fees.
+     - If you would like help in a course that I have not listed, feel free to email me and ask.
+     - If you or your child is an elementary, or high-school student in need of a math or computer science tutor, I can definitely help.
+  rates: $60/hr
+  availability: Monday - Sunday, 10:00 - 20:00
+
+- name: Hadi Sinaee
+  lastmod: 2023-10-15
+  courses:
+    [CPSC213, CPSC221, CPSC259, CPSC310, CPSC313, CPSC320, CPSC404, CPSC416]
+  email: sinaee.hadi@gmail.com
+  bio: |
+    I'm a grad student in Computer Science, who has more than 5 years of experience as a SWE.
+  rates: $50/hr
+
+- name: Ruikang Na
+  lastmod: 2024-01-19
+  courses: [CPSC221, CPSC304]
+  email: ruikangna0605@hotmail.com
+  bio: |
+    Hello, I am currently in 4th year Computer Engineering and have taken a few computer science courses with an A average in them. Particularly, I achieved 91% in CPSC304 and scored in top 5% in the midterm. I have 1 year of previous tutoring experience in computer science and 1+ years of internship/design team experience as a full stack software engineer. Apart from courses, I'm also more than happy to help out on anything related to software development!
+  rates: $40-45/hr, negotiable
+  availability: Weekdays 5:00pm - 11:00pm, Weekends flexible
+
+- name: Alisa Dulalia
+  lastmod: 2024-04-30
+  courses: [CPSC110, CPSC107, CPSC103, CPSC121, CPSC210, MATH110]
+  email: alisa.school.42@gmail.com
+  bio: |
+    I am a current CS student! I offer in-person tutoring. I have an A+ (90+) in CPSC 110, 121, and 210. I have coding experience through personal projects, experience tutoring music privately, and experience tutoring computer science under different companies. If there’s a topic I haven’t listed but you’d like a tutor for, email me and we can work something out!
+  rates: $39/hr
+  availability: Available during the week and weekends. Contact to schedule. Available during summer.
+
+- name: Ritik Keswani
+  lastmod: 2025-01-27
+  courses:
+    [
+      COSC111,
+      COSC121,
+      COSC123,
+      CPSC210,
+      CPSC221,
+      CPSC304,
+      CPSC310,
+      CPSC427,
+      CPSC455
+    ]
+  email: ritikk075@gmail.com
+  bio: |
+    Recent CPSC graduate with consistently high grades in all CPSC courses. Current SWE @ Capital One, 10 terms of TA experience (CPSC 210, 221, 213 + BCS Tutor), 24 months of co-op experience (Optum, D2L, Sony Pictures), and 2-time mentor at NW Hacks. Check out rkeswani.com for more details on how to reach out to me!
+  rates: $50-70/hr (Negotiable based on requirement)
+  availability: "Weekday: 6 pm (ET) onwards, Weekends: Flexible"
+
+- name: Charley Cai
+  lastmod: 2024-04-01
+  courses:
+    [CPSC103, CPSC107, CPSC110, CPSC121, CPSC210, CPSC213, CPSC221, CPSC330]
+  email: caic@student.ubc.ca
+  bio: |
+    Hello!
+
+    I graduated from UBC in 2022 with a combined Computer Science and Microbiology/Immunology degree. I was a CPSC 213 TA for 3 terms (2020-2022) and have 6 years of experience as a tutor high school and university students privately. I averaged 97% over all my CPSC courses during my degree (CPSC 110, 121, 210, 213, 221, 313, 310, 320, 330) and was selected as the UBC Computer Science Valedictorian Speaker for Spring 2022. I am currently a 3rd year medical student at UBC and still have a passion for computer science and teaching students.
+
+    Group session are accepted.
+  rates: $60-80 depending on availability.
+  availability: Available during the week and weekends- contact to schedule
+
+- name: Zaid Sayed
+  lastmod: 2024-08-18
+  courses: [CPSC110, CPSC121, CPSC210]
+  email: applicationzaid@gmail.com
+  bio: |
+    Hey, I am a 2nd year CS student with a 90% average throughout all CS courses. Current AI engineer at a YC backed startup as well. Looking forward to helping you score well and potentially navigate your career outside the classrooms as well.
+  rates: $21-31/hr (negotiable)
+  availability: Available during the weekdays and weekend - contact to schedule
+
+- name: Saquib
+  lastmod: 2025-01-27
+  courses:
+    [
+      CPSC100,
+      CPSC103,
+      CPSC110,
+      CPSC210,
+      CPSC213,
+      CPSC221,
+      CPSC259,
+      CPSC304,
+      CPSC310,
+      CPSC313,
+      CPSC319,
+      CPSC368,
+      CPSC410,
+      COSC111,
+      COSC121,
+      COSC123,
+      COSC210,
+      COSC222,
+      COSC264,
+      COSC304,
+      COSC310,
+      COSC315,
+      COSC341,
+      COSC360
+    ]
+  email: sakhan891@gmail.com
+  bio: |
+    CS graduate and have been working as a Software Engineer for 7 years in USA and Canada. I have primarily worked with Java and Python. But, I am familiar with a host of other languages including C, C++, C#, Go and Kotlin.
+
+    I started tutoring as student in 2013 and have found it to be quite rewarding. My approach to teaching is focussed on breaking down concepts into simple ideas that make sense. I adapt the style and speed of tutoring to the pace that the student prefers.
+
+    I have considerable experience with Algorithms, Data Structures, Databases, Design Patterns, Software Engineering and a host of programming languages. I can also help provide career guidance (academic as well as industry) as well as more specialized training that helps you get hired by tech companies.
+  rates: $45 per hour
+  availability: All days of the week - contact to schedule.
+
+- name: Apram Ahuja
+  lastmod: 2024-08-31
+  courses: [CPSC320, CPSC314, CPSC330]
+  email: apri@student.ubc.ca
+  bio: |
+    Hi! I'm a 4th year CS student. I had fun in these courses and scored A/A+ in all of them (90 in CPSC 320, 89 in CPSC 314, 87 in CPSC 330). Would love to help other students with any difficulties in understanding.
+
+    Additional Notes:
+    - I can meet on campus or do an online tutoring.
+    - Specify what exactly you need help with even if it's a different CPSC course or some MATH course, I'm more than happy to help!
+  rates: $20/hr (negotiable)
+  availability: Available on Weekends (contact to schedule)
+
+- name: Mourud Ishmam Ahmed
+  lastmod: 2024-09-15
+  courses: [CPSC110, CPSC121, CPSC210, CPSC221]
+  email: mourud@student.ubc.ca
+  bio: |
+    I am a recent UBC graduate in Physics and Computer Science with over 2 years of industry experience at companies like Unity and SAP. Having TAed CPSC 320 for three terms and tutored students for two years, I offer a strong foundation in algorithms, data structures, and real-world applications, with a focus on personalized, results-driven tutoring.
+  rates: $40/hr
+  availability: Available during the week and weekends- contact to schedule
+
+- name: Andy Li
+  lastmod: 2025-01-27
+  courses: [CPSC107, CPSC110, CPSC210]
+  email: liandy270@gmail.com
+  bio: |
+    Hello, I am currently a 2nd year Computer Science Major and have taken all of Cpsc 110, 121, 210. Particularly, I achieved 96% in CPSC210 and was one of the top contributors on piazza for my term. I have 1 year of previous tutoring experience in lower level computer science and currently am on my job search term for Science CO-OP. I'm available primarily in-person on campus or also available on zoom my availability is mostly open for most days after 3pm however please contact me for specifics as I may have periodic responsibilities. I live in Place Vanier as one of the House Presidents if you happen to be a first year :).
+  rates: $20/hr (+1 Hour free trial for first session)
+  availability: Weekends - All day Weekdays - After 4pm
+
+- name: Sungwon Kim
+  lastmod: 2025-01-14
+  courses: [CPSC103]
+  email: sungwon.dev@gmail.com
+  bio: |
+    - I have extensive experience as a TA for CPSC 103, having worked in this role for over 8 terms between Summer 2019 and Winter 2019, as well as from September 2021 to April 2024.
+    - When I took CPSC 103 myself, I achieved a final grade of 98%.
+    - I am open to tutor in person or virtually.
+    - I am open to both individual and group tutoring sessions, with rates negotiable for group settings.
+  rates: $40/hr
+  availability: "M-F: 6pm-11pm, Weekend: All day"
+
+- name: Muhammad Adil Sameer
+  lastmod: 2025-02-16
+  courses: [CPSC110, CPSC121, CPSC210, MATH101, MATH200]
+  email: adilsameer99@gmail.com
+  bio: |
+    Second Year CS Major with 91% average. I will teach you concepts in a way you will not forget. Not just to crack exams but also to make your fundamentals clear. Currently, Software Dev @ VCL Lab.
+  rates: $20-30/hr
+  availability: Available during the week and weekends - contact to schedule
+
+- name: Joshua Teng
+  lastmod: 2025-02-17
+  courses: [APSC160, CPSC259, CPEN211, CPEN212, CPEN333, CPEN311]
+  email: joshuateng01@gmail.com
+  bio: |
+    Hi, I'm a Recent Electrical Engineering graduate and I am happy to help with some of the CS and CPEN requirements.
+  rates: $40/hr
+  availability: Monday to Friday 12PM-9PM
+
+- name: Owen Fisher
+  lastmod: 2025-05-15
+  courses: [CPSC103, CPSC121, CPSC210, MATH152, MATH220, MATH221, STAT200]
+  email: owenfisher46@gmail.com
+  bio: |
+    I’m a Mathematics & Statistics student with a Computer Science minor, and I’ve earned 95%+ in all relevant coursework. I’m available for remote tutoring all summer, and my rate is $40/hr (1-hour minimum). Feel free to reach out to schedule a session!
+  rates: $40/hr (1-hour min)
+  availability: Available Evenings (5-10pm) and Weekends (8am-10pm)
+
+- name: Ding-Han (Sean) Yan
+  lastmod: 2025-06-21
+  courses: [CPSC110, CPSC210, CPSC121]
+  email: dhsyan@student.ubc.ca
+  bio: |
+    I am a CS student in the faculty of Science! I am a pretty unique CS student, I daily drive Linux, (Nix OS btw), and Neovim. I am a nerd, yet I have immaculate social skills (some may even call it rizz). I am great at explaining stuff, I have several youtube videos explaining difficult C concepts (search "The most confusing rule in C explained" by Sean Yan on youtube), neovim and development workflow. I have held a teaching position at a Cram School in Taiwan (I speak fluent Mandarin too), teaching mathematics. My best achieve as a teacher is that a student whom I taught that hated math, averaged 46% ended up socring 96% in mathematics and fell in love with math! I will help you fall in love with CS, or if you just need to ace that course and never touch racket again, I gotchu. I got 98% in both CPSC 110 and CPSC 210, and 91% in CPSC 121.
+  rates: $26/hr
+  availability: I am on campus 5 days a week! Usually have my afternoon free!

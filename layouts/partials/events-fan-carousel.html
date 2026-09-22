@@ -1,0 +1,145 @@
+{{ $events := .events }}
+{{ $id := .carouselId }}
+{{ $total := len $events }}
+
+
+<div class="fan-carousel" id="{{ $id }}">
+  <div class="fan-carousel__track" id="{{ $id }}-track">
+    {{ range $i, $event := $events }}
+      {{ $img := "" }}
+      {{ if and (isset $event.Params "images") (gt (len $event.Params.images) 0) }}
+        {{ $img = index $event.Params.images 0 }}
+      {{ end }}
+      {{ $startDateStr := $event.Params.start_date | default $event.Date }}
+      <a
+        class="fan-carousel__card"
+        href="{{ $event.RelPermalink }}"
+        data-index="{{ $i }}"
+        aria-label="{{ $event.Title }}">
+        {{ if $img }}
+          <img
+            class="fan-carousel__card-img"
+            src="{{ $img }}"
+            alt="{{ $event.Title }}"
+            loading="lazy" />
+          <div class="fan-carousel__card-overlay">
+            <p class="fan-carousel__card-date">
+              {{ dateFormat "Jan 2, 2006" $startDateStr }}
+            </p>
+            <h3 class="fan-carousel__card-title">{{ $event.Title }}</h3>
+          </div>
+        {{ else }}
+          <div class="fan-carousel__card-textbody">
+            <p class="fan-carousel__card-date">
+              {{ dateFormat "Jan 2, 2006" $startDateStr }}
+            </p>
+            <h3 class="fan-carousel__card-title">{{ $event.Title }}</h3>
+            {{ with $event.Params.location }}
+              <p class="fan-carousel__card-location">{{ .name }}</p>
+            {{ end }}
+            {{ with $event.Summary }}
+              <p class="fan-carousel__card-summary">{{ . | truncate 120 }}</p>
+            {{ end }}
+          </div>
+        {{ end }}
+      </a>
+    {{ end }}
+  </div>
+
+  <div class="fan-carousel__controls">
+    <button
+      class="fan-carousel__arrow fan-carousel__arrow--prev"
+      aria-label="Previous"
+      onclick="fanMove('{{ $id }}', -1)">
+      &#8592;
+    </button>
+    <div class="fan-carousel__dots" id="{{ $id }}-dots">
+      <button
+        class="fan-carousel__dot"
+        onclick="fanDotNav('{{ $id }}', 0)"></button>
+      <button
+        class="fan-carousel__dot"
+        onclick="fanDotNav('{{ $id }}', 1)"></button>
+      <button
+        class="fan-carousel__dot fan-carousel__dot--active"
+        onclick="fanDotNav('{{ $id }}', 2)"></button>
+      <button
+        class="fan-carousel__dot"
+        onclick="fanDotNav('{{ $id }}', 3)"></button>
+      <button
+        class="fan-carousel__dot"
+        onclick="fanDotNav('{{ $id }}', 4)"></button>
+    </div>
+    <button
+      class="fan-carousel__arrow fan-carousel__arrow--next"
+      aria-label="Next"
+      onclick="fanMove('{{ $id }}', 1)">
+      &#8594;
+    </button>
+  </div>
+</div>
+
+<script>
+(function () {
+  var total = {{ $total }};
+  var startIdx = Math.min(2, Math.floor(total / 2));
+  if (!window._fc) window._fc = {};
+  window._fc["{{ $id }}"] = { cur: startIdx, total: total };
+
+  function wrap(idx, len) {
+    return ((idx % len) + len) % len;
+  }
+
+  function fc_update(id) {
+    var s = window._fc[id];
+    var cards = document.getElementById(id + "-track").querySelectorAll(".fan-carousel__card");
+    var dots  = document.getElementById(id + "-dots").querySelectorAll(".fan-carousel__dot");
+    var cls   = ["--active","--prev","--prev2","--next","--next2","--hidden"];
+
+    cards.forEach(function (c, i) {
+      cls.forEach(function (m) { c.classList.remove("fan-carousel__card" + m); });
+
+      var raw = i - s.cur;
+      if (raw > s.total / 2)  raw -= s.total;
+      if (raw < -s.total / 2) raw += s.total;
+
+      if      (raw ===  0) c.classList.add("fan-carousel__card--active");
+      else if (raw === -1) c.classList.add("fan-carousel__card--prev");
+      else if (raw === -2) c.classList.add("fan-carousel__card--prev2");
+      else if (raw ===  1) c.classList.add("fan-carousel__card--next");
+      else if (raw ===  2) c.classList.add("fan-carousel__card--next2");
+      else                 c.classList.add("fan-carousel__card--hidden");
+    });
+
+    dots.forEach(function (d) {
+      d.classList.remove("fan-carousel__dot--active");
+    });
+    void dots[0].offsetWidth;
+    dots[2].classList.add("fan-carousel__dot--active");
+  }
+
+  window.fanMove = function (id, dir) {
+    var s = window._fc[id];
+    s.cur = wrap(s.cur + dir, s.total);
+    fc_update(id);
+  };
+
+  window.fanGoTo = function (id, idx) {
+    window._fc[id].cur = wrap(idx, window._fc[id].total);
+    fc_update(id);
+  };
+
+  window.fanDotNav = function (id, dotIdx) {
+    var s = window._fc[id];
+    var offset = dotIdx - 2;
+    s.cur = wrap(s.cur + offset, s.total);
+    fc_update(id);
+  };
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", function () { fc_update("{{ $id }}"); });
+  } else {
+    fc_update("{{ $id }}");
+  }
+})();
+</script>

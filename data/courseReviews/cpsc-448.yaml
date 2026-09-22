@@ -1,0 +1,25 @@
+reviews:
+  - author: ushankab
+    authorLink: 
+    date: 2024-12-31
+    review: |
+      One of my favourite CPSC courses. Being a self-motivated and independent learner and having a clear idea of what you want to learn are important for this course. I used the course to explore a computing topic that is beyond the scope of the current slate of lecture-based CPSC courses. I assume this is what many students use this course for, but perhaps there are other good uses. You do need a (faculty) supervisor for this course, so it's on you to find someone suitable who is willing to take you on.
+    difficulty: 3
+    quality: 5
+    sessionTaken: 2024W1
+  - author: anon_448_student
+    authorLink: 
+    date: 2024-01-04
+    review: |
+      CPSC448 is an amazing opportunity to both get research experience and explore a field not covered by the undergraduate curriculum at UBC while getting course credit for it. It's a very flexible course structure that you work with your supervisor to design, so you can cater it to your learning style and preferences. The process of applying can take some time, especially if advisors are busy around add-drop, so try to start drafting your proposal ahead of the preliminary approval if you know you meet the basic reuqirements. Getting research experience can help your grad school application or resume stand out, so I'd highly recommend pursuing a Directed Studies at least once!
+    difficulty: 2.5
+    quality: 5
+    sessionTaken: 2022W2
+  - author: eqfy
+    authorLink: https://github.com/eqfy
+    date: 2022-11-03
+    review: |
+      Great opportunity to get some research experience and study something that you personally find interesting. The structure is highly flexible and you get a lot of opportunities to directly interact with your supervisor and mentor (usually a grad student). Remember to reach out to your supervisor early and take courses in their research area!
+    difficulty: 4
+    quality: 5
+    sessionTaken: 2022S1

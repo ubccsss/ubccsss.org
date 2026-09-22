@@ -1,0 +1,15 @@
+reviews:
+  - author: s
+    authorLink: 
+    date: 2024-04-29
+    review: |
+      Typically the course is taught by Mark Greenstreet. He's very accommodating and provided us with many extensions on the homework assignments. The only issue is that grades take forever to come out. By the time the final exam came around, we only had 3 out of 6 marks back.
+      
+      The course format & grading was 2 midterms (15% each), 5 assignments (35%), and a final exam (35%). The assignments were not trivial, but also not too difficult. You get to code in mostly Erlang, and a tiny bit of CUDA C at the end of the course. If any homework was too hard (indicated by the grades), then Mark will scale the homework accordingly. The exams were fair in difficulty, and he always throws in a freebie question.
+      
+      In terms of course content, I think parallel computing is a bit niche. It builds on concepts learned in CPSC 313 such as pipelining, shared memory, caching, etc. 
+      
+      Overall, I'd recommend this course if you're looking for something on the lighter/easier side to graduate, or if you enjoyed the low-level systems content from CPSC 313, and want to dive deeper.
+    difficulty: 3.5
+    quality: 4
+    sessionTaken: 2023W2

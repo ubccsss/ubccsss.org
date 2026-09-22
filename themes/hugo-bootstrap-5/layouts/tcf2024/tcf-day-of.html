@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+  <head>
+    {{ partial "head-meta" . }}
+
+
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    <title>UBC Technical Career Fair 2024</title>
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.2/css/bootstrap.min.css"
+      integrity="sha512-CpIKUSyh9QX2+zSdfGP+eWLx23C8Dj9/XmHjZY2uDtfkdLGo0uY12jgcnkX9vXOgYajEKb/jiw67EYm+kBf+6g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer" />
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+      integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
+      crossorigin="anonymous"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
+      integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
+      crossorigin="anonymous"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" />
+
+    <link href="{{ "css/style.css" | relURL }}" rel="stylesheet" />
+    <link href="{{ "css/tcf2023.css" | relURL }}" rel="stylesheet" />
+    <link href="{{ "css/tcf.css" | relURL }}" rel="stylesheet" />
+
+    {{ range .AlternativeOutputFormats -}}
+      <link
+        rel="{{ .Rel }}"
+        type="{{ .MediaType.Type }}"
+        href="{{ .Permalink | safeURL }}" />
+    {{ end -}}
+    {{ template "_internal/google_analytics_async.html" . }}
+    {{ partial "head-custom.html" . }}
+  </head>
+  <body class="d-flex flex-column min-vh-100">
+    <div class="dropdown nav-sticky">
+      <button
+        class="btn btn-light dropdown-toggle position-absolute m-3 small-shadow"
+        type="button"
+        data-bs-toggle="dropdown"
+        aria-expanded="false">
+        <i class="bi-list"></i>
+      </button>
+      <ul class="dropdown-menu">
+        <li>
+          <a class="dropdown-item" href="/tcf2024/day-of#location-details"
+            >Location Details</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf2024/day-of#parking-details"
+            >Parking Details</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf2024/day-of#drop-off-details"
+            >Drop off Details</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf2024/day-of#mailing-details"
+            >Mailing Details</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf2024/day-of#building-details"
+            >Building Details</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf2024/day-of#venue-map"
+            >Venue Map</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf2024/day-of#booth-allocations"
+            >Booth Allocations</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf2024/day-of#internet-access"
+            >Internet Access</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf2024/day-of#general-schedule"
+            >General Schedule</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf2024/day-of#catering-menu"
+            >Catering Menu</a
+          >
+        </li>
+        <li>
+          <a class="dropdown-item" href="/tcf2024/day-of#catering-schedule"
+            >Catering Schedule</a
+          >
+        </li>
+      </ul>
+    </div>
+    <div class="hero-header py-6 h-100">
+      <div class="hero-header-content">
+        <div class="mx-auto py-5">
+          <h1 class="display-1 fw-bold mb-neg1">Event Day Logistics</h1>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <a href="/tcf2024">&lt; back to main page</a>
+      <p class="mt-4">
+        This page hosts the logistics for the day of the event for employers. If
+        you have any issues, on the day please contact your nearest TCF
+        Volunteer or message William at the phone number listed in the employer
+        email.<br />
+
+        <b
+          >The event will take place at the Great Hall South in the AMS Nest on
+          Thursday Feburary 1, 2024 from 9:30am-5:30pm. <br />
+          It is open to the public from 10am-4pm. There is a private CS club
+          networking session from 4-5pm.</b
+        >
+        <br />
+        Use the drop down on the right side of the screen to navigate to the
+        schedule below.
+        <br />
+      </p>
+
+      <hr />
+      <div id="location-details">
+        <h2>Location Details</h2>
+        We will be hosting the event in the Great Hall South of the AMS Nest at
+        UBC.
+        <br />
+        <div class="mapouter">
+          <div class="gmap_canvas">
+            <figure>
+              <iframe
+                id="gmap_canvas"
+                src="https://maps.google.com/maps?q=ubc%20nest&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=&amp;output=embed"
+                frameborder="0"
+                scrolling="no"
+                marginheight="0"
+                marginwidth="0">
+              </iframe>
+            </figure>
+          </div>
+        </div>
+      </div>
+
+      <hr />
+
+      <div id="parking-details">
+        <h2>Parking Details</h2>
+        <p>
+          There are multiple parking lots for employers to park in. The closest
+          parking areas appear to be University Blvd Parkade and the North
+          Parkade. We are subject to the university's public parking so space
+          may be limited. We are unable to provide vouchers for parking.
+        </p>
+        <p>
+          There is also metered parking available on the street, but we do not
+          recommend this as it is very limited and expensive.
+        </p>
+        <p>
+          For an interactive map with the rates for parking, please visit the
+          following and search for the Nest:
+          <a href="https://parking.ubc.ca/map">https://parking.ubc.ca/map</a>.
+        </p>
+        <hr />
+      </div>
+
+      <div id="drop-off-details">
+        <h2>Material or Personal Drop-off Details</h2>
+        <p>
+          The closest drop-off area to the Great Hall South would be in by the
+          University Blvd Parking lot or anywhere in the cul-de-sac area closest
+          to Brown's Crafthouse and the Nest. If you require to drop off
+          materials before parking, we suggest dropping them off here and
+          contacting us before hand. Please check your email for our phone
+          details. We will have a team of volunteers near all doors for much of
+          the time between 8:50AM to 10:00AM.
+        </p>
+        <b
+          >If you require a flatbed to carry large packages, please let us know
+          ahead of time.</b
+        >
+        <p>Below is a screenshot of the fastest drop-off area.</p>
+        <img src="/files/tcf2024/TCF-2024-Drop-Off-Area.png" />
+      </div>
+      <hr />
+
+      <div id="mailing-details">
+        <h2>Shipping Details</h2>
+        <p>
+          If you require shipping to UBC before the day of the event, please
+          notify us via email and provide tracking details at
+          <a href="mailto:external@ubccsss.org">external@ubccsss.org</a>.
+        </p>
+        <p>Please send any packages to the address below:</p>
+        <p>
+          UBC CSSS
+          <br />
+          021 - 2366 Main Mall
+          <br />
+          Vancouver, BC
+          <br />
+          CA, V6T1Z4
+        </p>
+      </div>
+      <hr />
+
+      <div id="building-details">
+        <h2>Building Details</h2>
+        <p>
+          We are located in the Great Hall South on the 2nd floor of the Nest,
+          which is located on the side of the Nest closest to Brown's Clubhouse
+          and the University Blvd cul-de-sac on the second floor.
+        </p>
+        <p>
+          We will have signage on the day along with volunteers on the day to
+          direct you to the correct location.
+        </p>
+        <p>
+          We recommend using the elevator by the Wireless Wave for the fastest
+          movement of materials. The elevator by the RBC is currently out of
+          service.
+        </p>
+        <p>
+          Note the following pictures are harder to read on mobile. Please press
+          the image to open in full size.
+        </p>
+        <h3>First Floor Map</h3>
+        <a href="/files/tcf2024/TCF-2024-Nest-Floor-1.png"
+          ><img
+            width="100%"
+            style="max-width: 800px;"
+            src="/files/tcf2024/TCF-2024-Nest-Floor-1.png"
+        /></a>
+        <h3>Second Floor Map</h3>
+        <a href="/files/tcf2024/TCF-2024-Nest-Floor-2.png"
+          ><img
+            width="100%"
+            style="max-width: 400px;"
+            src="/files/tcf2024/TCF-2024-Nest-Floor-2.png"
+        /></a>
+        <p>
+          Note that lunch and additional snacks are stored on the fourth floor
+          in the Michael Kingsmill Forum.
+        </p>
+        <h3>Fourth Floor Map</h3>
+
+        <br />
+        <a href="/files/tcf2024/TCF-2024-Nest-Floor-4.png"
+          ><img
+            width="100%"
+            style="max-width: 400px;"
+            src="/files/tcf2024/TCF-2024-Nest-Floor-4.png"
+        /></a>
+      </div>
+      <hr />
+
+      <div id="venue-details">
+        <h2>Venue Details</h2>
+        <ul>
+          <li>The Great Hall South is a large open space for booths.</li>
+          <li>
+            There are no walls or dividers between booths in the same row, so
+            please be respectful of your neighbours.
+          </li>
+          <li>
+            We unfortunately are not allowed to set up power to all booths,
+            however we have a series of extension cords supplied to those who
+            requested them. We also have a charging station for attendees which
+            will be attended to at all times.
+          </li>
+          <li>
+            We have been told that the estimated amperage is 12A and the
+            estimated voltage is 120V.
+          </li>
+          <li>
+            Wifi should be accessible through UBC Public Wifi. See the Internet
+            Access section below for instructions.
+          </li>
+          <li>
+            There are no coat racks so please keep this in mind when packing.
+          </li>
+        </ul>
+        <p>
+          Below is the following floor map for companies. This is subject to
+          change as we work with the catering staff. <br />
+          Company locations will be marked with table cloth and a paper on the
+          tables with the company name on the day. <br />
+          Click on the image to open in full size.
+        </p>
+        <div style="display:grid; text-align: center; align-content: center;">
+          <h2 id="venue-map" style="text-align: center;">Venue Map</h2>
+          <a href="/files/tcf2024/TCF-2024-Venue-Map.png"
+            ><img
+              style="max-width: 600px;"
+              width="100%"
+              src="/files/tcf2024/TCF-2024-Venue-Map.png"
+          /></a>
+        </div>
+        <hr />
+
+        <h2 id="booth-assignments" style="text-align: center;">
+          Booth Assignments
+        </h2>
+        <p style="text-align: center;">
+          Below are the booth assignments for the event.
+        </p>
+        <div class="grid-container">
+          <div class="row pt-4">
+            {{ $.Scratch.Set "counter" 0 }}
+            {{ range .Site.Pages }}
+              {{ if (and (eq .Params.layout "tcf-company-2024") (.Params.imageLink)) }}
+                {{ $.Scratch.Add "counter" 1 }}
+                <div class="col-lg-2 col-sm-12 col-md-6 mt-3">
+                  <div class="card w-100 mt-3 h-100">
+                    <div
+                      class="d-flex flex-column justify-content-center"
+                      style="height: 180px; padding-top: 10px;">
+                      <img
+                        class="card-img-top img-fluid p-2 mh-100"
+                        src="{{ .Params.imageLink }}"
+                        alt="{{ .Params.title }} company logo"
+                        style="object-fit: contain" />
+                    </div>
+                    <div class="card-body">
+                      <h5 class="card-title">
+                        <span class="card-link">
+                          {{ .Params.title }}
+                        </span>
+                      </h5>
+                      <h5 class="card-title text-truncate">
+                        Booth#
+                        {{ .Params.boothNumber }}
+                      </h5>
+                    </div>
+                  </div>
+                </div>
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      <hr />
+
+      <div id="internet-access">
+        <h2>Internet Access</h2>
+        <p>
+          UBC Visitor Internet Access is available for all attendees of the
+          Technical Career Fair. Please follow the instructions below to connect
+          to the network.
+        </p>
+        <a href="/files/tcf2024/TCF-2024-Wifi-Tutorial.pdf"
+          >UBC Visitor Internet Access at TCF</a
+        >
+      </div>
+      <hr />
+
+      <div id="general-schedule">
+        <h2>General Schedule</h2>
+        <table
+          style="width: 100%; margin: 0 auto; border-collapse: collapse; border: 2px solid #333;">
+          <tr style="background-color: #333; color: #fff;">
+            <th style="padding: 5px;">Time</th>
+            <th style="padding: 5px;">Event</th>
+            <th style="padding: 5px;">Location</th>
+            <th style="padding: 5px;">Description</th>
+          </tr>
+          <tr>
+            <td style="padding: 5px;vertical-align: top;">
+              9:30 AM - 10:00 AM
+            </td>
+            <td style="padding: 5px;vertical-align: top;">
+              Employer check-in and set-up
+            </td>
+            <td style="padding: 5px;vertical-align: top;">Great Hall South</td>
+            <td style="padding: 5px;">
+              TCF volunteers will be setting up the area before and during this
+              time.
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 5px;vertical-align: top;">
+              10:00 AM - 4:00 PM
+            </td>
+            <td style="padding: 5px;vertical-align: top;">
+              Networking with student attendees
+            </td>
+            <td style="padding: 5px;vertical-align: top;">Great Hall South</td>
+            <td style="padding: 5px;">
+              Meet with thousands of UBC students interested in careers at your
+              company across engineering, software development, data science and
+              business.
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 5px;vertical-align: top;">4:00 PM - 5:00 PM</td>
+            <td style="padding: 5px;vertical-align: top;">
+              Networking with CS club volunteers
+            </td>
+            <td style="padding: 5px;vertical-align: top;">Great Hall South</td>
+            <td style="padding: 5px;">
+              Meet with the students who helped make the event possible!
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 5px;vertical-align: top;">5:00 PM - 5:30 PM</td>
+            <td style="padding: 5px;vertical-align: top;">Event tear-down</td>
+            <td style="padding: 5px;vertical-align: top;">Great Hall South</td>
+            <td style="padding: 5px;">
+              Finish packing equipment and conversations with any final
+              students.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <hr />
+
+      <div id="catering-menu">
+        <h2>Catering Menu</h2>
+        <ul>
+          <li>
+            We are excited to offer a variety of food and beverage options for
+            employers throughout the day!
+          </li>
+          <li>
+            Dietary restrictions should be marked on the relevant food items.
+          </li>
+          <li>
+            Employers will be provided with a ticket on the day of the event
+            detailing the number of meals they are entitled to.
+          </li>
+          <li>
+            <b
+              >All food will be placed in the Michael Kingsmill Forum past
+              11am.</b
+            >
+            We will give out food in the Great Hall South before 11am and once
+            more around 1pm.
+          </li>
+          <li>This room is locked unless a TCF volunteer is inside.</li>
+          <li>
+            Should the forum door be closed, please ask the checkins counter for
+            assistance.
+          </li>
+        </ul>
+
+        <p>
+          <a href="/files/tcf2024/TCF-2024-Menu.pdf">View our menu here.</a>
+          <br />
+          Please note that the menu is outdated and pending change due to our
+          date change.
+        </p>
+      </div>
+      <hr />
+
+      <div id="catering-schedule">
+        <h2>Catering Schedule</h2>
+        <p>
+          The below schedule is subject to change depending on the catering
+          staff.
+        </p>
+        <table
+          style="width: 100%; margin: 0 auto; border-collapse: collapse; border: 2px solid #333;">
+          <tr style="background-color: #333; color: #fff;">
+            <th style="padding: 10px;">Time</th>
+            <th style="padding: 10px;">Event</th>
+            <th style="padding: 10px;">Location</th>
+            <th style="padding: 10px;">Description</th>
+          </tr>
+          <tr>
+            <td style="padding: 5px;">9:30 AM - 11:00 AM</td>
+            <td style="padding: 5px;">Coffee and Snacks</td>
+            <td style="padding: 5px;">Great Hall South</td>
+            <td style="padding: 5px;">
+              Choose from a selection of coffee and water in the drink station
+              and enjoy complementary snacks.
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 5px;">11:00 AM - 2:00 PM</td>
+            <td style="padding: 5px;">Lunch Room Available</td>
+            <td style="padding: 5px;">Michael Kingsmill Forum</td>
+            <td style="padding: 5px;">
+              Pick from a selection of sandwiches, juices and snacks in our
+              private conference room on the 4th floor.
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 5px;">1:00 PM - 2:00 PM</td>
+            <td style="padding: 5px;">Coffee and Snacks</td>
+            <td style="padding: 5px;">Great Hall South</td>
+            <td style="padding: 5px;">
+              Enjoy additional coffee and snack stocks in the Great Hall South.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <hr />
+    </div>
+    <div class="container py-0 mt-auto">
+      <footer
+        class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4">
+        <div class="col-md-4 d-flex align-items-center">
+          <a
+            href="/"
+            class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
+            <img class="bi" width="30" height="24" src="/logo.svg" />
+          </a>
+          <span class="mb-3 mb-md-0 text-muted">© 2024 UBC CSSS</span>
+        </div>
+
+        <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+          <li class="ms-3">
+            <a class="text-muted" href="https://www.instagram.com/ubc_csss/"
+              ><i class="bi-instagram"></i
+            ></a>
+          </li>
+          <li class="ms-3">
+            <a class="text-muted" href="https://twitter.com/ubccsss">
+              <i class="bi-twitter-x"></i
+            ></a>
+          </li>
+          <li class="ms-3">
+            <a class="text-muted" href="http://ubccsss.org/discord">
+              <i class="bi-discord"></i
+            ></a>
+          </li>
+          <li class="ms-3">
+            <a class="text-muted" href="https://www.facebook.com/ubccsss">
+              <i class="bi-facebook"></i
+            ></a>
+          </li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+  <style>
+    .hero-header {
+      background: url(/files/tcf6.jpg);
+      background-position: center;
+    }
+    .hero-header-content {
+      padding: 5rem 0;
+    }
+  </style>
+</html>

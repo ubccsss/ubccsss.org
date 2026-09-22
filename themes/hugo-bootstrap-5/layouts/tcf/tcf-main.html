@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+  <head>
+    {{ partial "head-meta" . }}
+
+
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    <title>UBC Technical Career Fair 2027</title>
+    <!-- Open Graph Tags -->
+    <meta property="og:image" content="/files/tcf2024.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.2/css/bootstrap.min.css"
+      integrity="sha512-CpIKUSyh9QX2+zSdfGP+eWLx23C8Dj9/XmHjZY2uDtfkdLGo0uY12jgcnkX9vXOgYajEKb/jiw67EYm+kBf+6g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer" />
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+      integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
+      crossorigin="anonymous"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
+      integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
+      crossorigin="anonymous"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" />
+
+    <link href="{{ "css/style.css" | relURL }}" rel="stylesheet" />
+    <link href="{{ "css/tcf2026.css" | relURL }}" rel="stylesheet" />
+    <link href="{{ "css/tcf.css" | relURL }}" rel="stylesheet" />
+
+    {{ range .AlternativeOutputFormats -}}
+      <link
+        rel="{{ .Rel }}"
+        type="{{ .MediaType.Type }}"
+        href="{{ .Permalink | safeURL }}" />
+    {{ end -}}
+    {{ template "_internal/google_analytics_async.html" . }}
+    {{ partial "head-custom.html" . }}
+  </head>
+  <body>
+    <div class="dropdown nav-sticky">
+      <button
+        class="btn btn-light dropdown-toggle position-absolute m-3 small-shadow"
+        type="button"
+        data-bs-toggle="dropdown"
+        aria-expanded="false">
+        <i class="bi-list"></i>
+      </button>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="#about">About</a></li>
+        <li><a class="dropdown-item" href="#companies">Companies</a></li>
+        <li><a class="dropdown-item" href="#event-info">Event Info</a></li>
+      </ul>
+    </div>
+    <div id="tcfHeroCarousel" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="d-md-block hero-header-content">
+          <div class="mx-auto py-5 my-5">
+            <h1 class="display-1 fw-bold">Technical Career Fair&nbsp;2027</h1>
+                        <p class="hero-header-text">
+                          January 28, 2027 &mdash; 10AM &ndash; 4PM PT
+                        </p>
+            <p>
+              <b>
+                All UBC students and alumni are welcome and do not need to
+                register to attend! Bring your UBC card with you to access the
+                venue.
+              </b>
+            </p>
+            <p>
+                          Questions? Email
+                          <a href="mailto:tcf@ubccsss.org" style="color:white;"
+                            >tcf@ubccsss.org</a
+                          >
+                        </p>
+          </div>
+        </div>
+        <div class="carousel-item active" data-bs-interval="2000">
+          <img
+            src="/files/tcf2024-1.jpg"
+            class="d-block w-100"
+            alt="TCF photo 1" />
+        </div>
+        <div class="carousel-item" data-bs-interval="5000">
+          <img
+            src="/files/tcf2024-2.jpg"
+            class="d-block w-100"
+            alt="TCF photo 2" />
+        </div>
+        <div class="carousel-item" data-bs-interval="5000">
+          <img
+            src="/files/tcf2024-3.jpg"
+            class="d-block w-100"
+            alt="TCF photo 3" />
+        </div>
+        <div class="carousel-item" data-bs-interval="5000">
+          <img
+            src="/files/tcf2024-4.jpg"
+            class="d-block w-100"
+            alt="TCF photo 4" />
+        </div>
+        <div class="carousel-indicators">
+          <button
+            type="button"
+            data-bs-target="#tcfHeroCarousel"
+            data-bs-slide-to="0"
+            class="active"
+            aria-current="true"
+            aria-label="Slide 1"></button>
+          <button
+            type="button"
+            data-bs-target="#tcfHeroCarousel"
+            data-bs-slide-to="1"
+            aria-label="Slide 2"></button>
+          <button
+            type="button"
+            data-bs-target="#tcfHeroCarousel"
+            data-bs-slide-to="2"
+            aria-label="Slide 3"></button>
+          <button
+            type="button"
+            data-bs-target="#tcfHeroCarousel"
+            data-bs-slide-to="3"
+            aria-label="Slide 4"></button>
+        </div>
+      </div>
+    </div>
+    <div class="container" id="about">
+      <div class="row pt-3">
+        <div class="col-lg-6 col-sm-12">
+          <h1>Welcome to TCF 2027!</h1>
+          <p class="mt-3">
+            The UBC Computer Science Technical Career Fair (TCF) is a
+            student-led event that connects employers with technical talent at
+            one of the world’s top public universities. Held in collaboration
+            with campus tech groups that champion women and LGBTQ+ students,
+            this year’s TCF spotlights both technical excellence and diverse
+            talent.
+          </p>
+          <p>
+            For companies, the TCF is a direct line to the next generation of
+            engineers and technologists coming out of UBC. This in-person event
+            gives your company the chance to meet 4500+ students across Computer
+            Science, Cognitive Systems, Data Science, Statistics, Computer
+            Engineering, and Electrical Engineering. It’s an opportunity to
+            recruit motivated, technically-skilled talent, strengthen your
+            reputation as an inclusive employer of choice, and build a lasting
+            presence at one of Canada’s leading CS departments.
+          </p>
+        </div>
+        <div class="col-lg-6 col-sm-12 pt-3">
+          <img
+            src="/files/tcf2024-1.jpg"
+            alt="Photo of a past UBC CSSS technical career fair."
+            class="mw-100 img-shadow" />
+        </div>
+      </div>
+    </div>
+    <div class="background-blue">
+      <div class="container" id="companies">
+        <h1 class="text-center mb-0">Last Year's Attendees</h1>
+        <div class="row pt-4">
+          {{ range first 12 (sort (where .Pages ".Params.layout" "tcf-company-2026")) }}
+            {{ if .Params.imageLink }}
+              <div class="col-lg-3 col-sm-12 col-md-6 mt-3">
+                <div class="card w-100 mt-3 h-100">
+                  <div
+                    class="d-flex flex-column justify-content-center"
+                    style="height: 200px">
+                    <img
+                      class="card-img-top img-fluid p-2 mh-100"
+                      src="{{ .Params.imageLink }}"
+                      alt="{{ .Params.title }} company logo"
+                      style="object-fit: contain" />
+                  </div>
+                  <div class="card-body">
+                    <h5 class="card-title text-truncate">
+                      <a
+                        class="card-link stretched-link"
+                        href="{{ .RelPermalink }}"
+                        >{{ .Params.title }}
+                      </a>
+                    </h5>
+                    {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" "Transportation and Distribution" "black" "Renewable Energy and Waste Management" "dark" }}
+                    {{ range .Params.industry }}
+                      {{ $color := default "black" (index $badge_colors .) }}
+                      <span class="badge bg-{{ $color }}">{{ . }}</span>
+                    {{ end }}
+                  </div>
+                </div>
+              </div>
+            {{ end }}
+          {{ end }}
+        </div>
+        <div class="d-flex flex-row justify-content-center pt-4">
+          <a href="companies" class="mt-5 btn btn-outline-light">
+            <i class="bi-people"></i> See more companies
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="container" id="event-info">
+      <h1 class="text-center">Location</h1>
+      <div class="row">
+        <p>The TCF will take place:</p>
+        <ul style="list-style-position: inside;">
+          <li>January 28, 2027</li>
+          <li>10AM &ndash; 4PM PST</li>
+          <li>
+            at the AMS Great Hall, AMS Student Nest (6133 University Blvd,
+            Vancouver, BC V6T 1Z1)
+          </li>
+        </ul>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2140.4905281345596!2d-123.24965529367296!3d49.26725515677624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867398c216945b%3A0xe9bbdd7328c09b21!2sAMS%20Student%20Nest!5e0!3m2!1sen!2sca!4v1760413559780!5m2!1sen!2sca"
+            style="border: 0; width: 100%; height: 100%; min-height: 400px;"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            class="mt-1"></iframe>
+        </div>
+      </div>
+    </div>
+
+    <div class="background-blue">
+      <div class="container">
+        <h1 class="text-center">Partners</h1>
+        <div class="row justify-content-center">
+          <div class="col-lg-3 col-md-6 mb-3">
+            <div class="card w-100 h-100" title="UBC WiCS">
+              <img
+                class="card-img-top img-fluid"
+                src="/files/wics.png"
+                alt="UBC WiCS logo"
+                width="348"
+                height="196" />
+              <div class="card-body">
+                <h5 class="card-title text-center">
+                  <a
+                    class="card-link stretched-link"
+                    href="https://ubcwics.com/"
+                    >Women in Computer Science</a
+                  >
+                </h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 mb-3">
+            <div class="card w-100 h-100" title="UBC WiDS">
+              <img
+                class="card-img-top img-fluid"
+                src="/files/wids.png"
+                alt="UBC WiDS logo"
+                width="348"
+                height="196" />
+              <div class="card-body">
+                <h5 class="card-title text-center">
+                  <a
+                    class="card-link stretched-link"
+                    href="https://linktr.ee/widsubc"
+                    >Women in Data Science</a
+                  >
+                </h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 mb-3">
+            <div class="card w-100 h-100" title="Queer Coded">
+              <img
+                class="card-img-top img-fluid"
+                src="/files/queercoded.png"
+                alt="Queer Coded logo"
+                width="348"
+                height="196" />
+              <div class="card-body">
+                <h5 class="card-title text-center">
+                  <a
+                    class="card-link stretched-link"
+                    href="https://queercoded.ca/"
+                    >Queer Coded</a
+                  >
+                </h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container" id="faq">
+      <h1 class="text-center">Code of Conduct + FAQ</h1>
+      <div class="row pt-3">
+        <div class="col-lg-6 col-sm-12">
+          <p>
+            By attending this event, you agree to the following codes of
+            conduct:
+          </p>
+          <ul>
+            <li>
+              <a
+                href="https://students.ubc.ca/campus-life/student-code-conduct"
+                target="_blank"
+                rel="noopener noreferrer"
+                >UBC Student Code of Conduct</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://hr.ubc.ca/working-ubc/respectful-environment"
+                target="_blank"
+                rel="noopener noreferrer"
+                >UBC Respectful Environment Guidelines</a
+              >
+            </li>
+            <li class="mb-3">
+              <a
+                href="https://drive.google.com/file/d/1DY7MyTFIoly42BImS5-81qmXj9xD1yPb/view"
+                target="_blank"
+                rel="noopener noreferrer"
+                >UBC CSSS TCF Code of Conduct</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div class="col-lg-6 col-sm-12">
+          <div class="accordion" id="accordion">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingOne">
+                <button
+                  class="accordion-button"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseOne"
+                  aria-expanded="true"
+                  aria-controls="collapseOne">
+                  How do I prepare for the event?
+                </button>
+              </h2>
+              <div
+                id="collapseOne"
+                class="accordion-collapse collapse show"
+                aria-labelledby="headingOne"
+                data-bs-parent="#accordion">
+                <div class="accordion-body">Details coming soon!</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container py-0">
+      <footer
+        class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4">
+        <div class="col-md-4 d-flex align-items-center">
+          <a
+            href="/"
+            class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
+            <img class="bi" width="30" height="24" src="/logo.svg" />
+          </a>
+          <span class="mb-3 mb-md-0 text-muted"
+            >© 2026&ndash;2027 UBC CSSS</span
+          >
+        </div>
+
+        <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+          <li class="me-3">
+            <a class="text-muted" href="https://www.instagram.com/ubc_csss/"
+              ><i class="bi-instagram"></i
+            ></a>
+          </li>
+          <li class="me-3">
+            <a class="text-muted" href="https://twitter.com/ubccsss">
+              <i class="bi-twitter-x"></i
+            ></a>
+          </li>
+          <li class="me-3">
+            <a class="text-muted" href="http://ubccsss.org/discord">
+              <i class="bi-discord"></i
+            ></a>
+          </li>
+          <li class="me-3">
+            <a class="text-muted" href="https://www.facebook.com/ubccsss">
+              <i class="bi-facebook"></i
+            ></a>
+          </li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

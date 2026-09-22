@@ -1,0 +1,41 @@
+main:
+  - identifier: about
+    name: About
+    url: /about/
+    weight: -140
+  - identifier: partners
+    name: Sponsorship
+    url: /about/partners/
+    weight: -130
+  - identifier: affiliates
+    name: Affiliates
+    url: /about/affiliates/
+    weight: -129
+  - identifier: cube
+    name: The Cube
+    url: /cube/
+    weight: -120
+  - identifier: learn
+    name: Services
+    url: /services/
+    weight: -110
+  - identifier: courses
+    name: Course Reviews
+    url: /services/courses/
+    weight: -100
+  - identifier: tcf
+    name: Technical Career Fair
+    url: /tcf/
+    weight: -80
+  - identifier: cssrc
+    name: Research Conference
+    url: /cssrc/
+    weight: -70
+  - identifier: elections
+    name: Elections
+    url: /elections/
+    weight: -60
+  - identifier: contact
+    name: Contact
+    url: /contact/
+    weight: -50

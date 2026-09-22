@@ -1,0 +1,24 @@
+reviews:
+  - author: Bryan
+    authorLink:
+    date: 2026-01-31
+    review: |
+      Not worth the credit, it's physics and old algorithm topics like panorama stiching - (no cool 3D generative/image generative model)
+    difficulty: 1
+    quality: 1
+    sessionTaken: 2025W1
+  - author: Student
+    authorLink:
+    date: 2024-01-06
+    review: |
+      interesting content that wasn't as in depth as I expected but also a reasonable workload
+    difficulty: 3
+    quality: 4
+    sessionTaken: 2023W1
+  - author: /u/vaastav05
+    authorLink: https://www.reddit.com/r/UBC/comments/bsasu1/comp_sci_courses_at_ubc/eom20bx
+    date: 2019-05-23
+    review: >
+      If you are into Vision and Neural Networks then sure otherwise no point taking it imo.
+    difficulty: 0
+    quality: 0

@@ -1,0 +1,96 @@
+reviews:
+  - author: BCS Student
+    authorLink: 
+    date: 2025-02-10
+    review: |
+      A solid course that very much holds your hand through the ins and outs of Java / OOP. Personal Project is great; you're pretty much free to do whatever you want as long as you fulfill their criteria, and their exam format in my opinion is more than fair. There were 4 Midterms: 2 Conceptual (short answer/multiple choice type questions) and 2 Practical (coding in PrairieTest on WorkSpace). The final exam itself also felt pretty fair.
+      
+      Dr. Paul Carter was a FANTASTIC prof that made going to lectures worth it; you can technically get away without going to lectures (the bulk of your learning in my opinion actually comes from the EdX videos/pre-lecture material), but lecture labs help refine/establish your understanding of the course material as well along with the actual labs. If there was one gripe I had with the course, it was that office hours were ALWAYS packed to the point you could not really get more than one question in at any given time; for that reason I found the EdStem discussion a way more valuable resource if I was ever in need of help (TAs are quick to respond on their as well as other students).
+      
+      Looking back/in hindsight, it probably will be the "easiest" lower-level CPSC course you take, especially if you already have some basic/decent knowledge of Java, so make the most of it!
+    difficulty: 3
+    quality: 4.5
+    sessionTaken: 2024W1
+  - author: Randy
+    authorLink: https://github.com/RandoNandoz/
+    date: 2024-04-07
+    review: |
+      Good first course in object-oriented programming! This could be a student's first introduction to imperative style programming in a more "heavy duty language", so the course starts off slow with an introduction to basic Java syntax, iteration, etc. We then move on to some basic object oriented programming, inheritance, interfaces. Later on in the course, we get introduced to some GoF design patterns.
+      
+      Personally I found it didn't cover as much material as I hoped for a 4-credit course. Maybe add multithreading or more patterns to the end of the course.
+      
+      Re: PrarieLearn;
+      
+      For my term, we moved onto programming in a code-server based text editor we could run our code (infinitely many times) in PL. Questions were wrote pretty clearly too.
+      
+      Overall very good course, took it with Dr. Paul Carter and Dr. Mehrdad Oveisi, both great profs!
+    difficulty: 1
+    quality: 4.5
+    sessionTaken: 2023W1
+  - author: ushankab
+    authorLink: 
+    date: 2023-12-17
+    review: |
+      A very enjoyable and practical course in my opinion. The project is one of the best aspects of the course. You get a chance to be creative and apply what learn to build some actual software. The lecture content is pretty bread and butter OOP stuff but is nevertheless very important material. The last part of the course covers design patterns which was the highlight of the course for me. The course might feel a bit on the easier side for a CPSC course but I don’t advise slacking too much if you want to learn and do well.
+    difficulty: 2.5
+    quality: 4
+    sessionTaken: 2021W1
+  - author: ubcstudent2
+    authorLink:
+    date: 2023-04-27
+    review: |
+      The concepts in this course are useful. The course overall is good, but I have a big issue with PraireLearn just makes everything so much harder for no reason. In this class we use a system called PrairieLearn for exams and practice exams. To put it frankly, this system is horrible. First of all, why are we writing code in a web browser? This course should learn from its pre-req CPSC 110 and move onto programming in an IDE for exams and all practices. Also it should really have autograders. Trying to match our answers with the solution when the solution can be often coded in maybe ways is horrible.
+
+      For practice problems, you can only answer the question once, if you want to try again, you have to creat another instance of the whole practice set. The text editor is bulky and annoying. Exams seriously tests more on predicting what the question writer wants. It is also very hard to perfect grades, because of multiple choice. You can easily get 0 on a question if you just miss a few details. 
+
+      PraireLearn randomizes the order of answer choices for some reason. Consider this arbitrary case , if the question involves 3 variables, usually the question would list the answer choices (1 1), (1 2), (2, 1), (2, 2), (3, 1), (3, 2) or in some other order. With the order randomized it could be (2, 2), (1 2), (1 1), (3, 1) , (2, 1),  (3, 2). Which messes up the flow of natural problem solving especially when the answer choices are full sentences and you need to pick out which parts are different.
+
+      PraireLearn randomizes variable names. Again, this makes every unnecessarily harder for no reason. They love using arbitrary names with no meaning at all like "smurf", "lorem", "ipsum." Again, you have to look back and forth to the question. Even if they just used random everyday words, it would make it easier.
+
+      The questions are just not that clear. If you have a slightly different interpretation you can expect a maximum of 50% on that question.
+
+      Overall the course material is very very easy, but the PraireLearn system just suck. 0/10. It adds so much extra resistance to the otherwise very easy course material. CPSC 210 can easily be a 3 credit course. Also its hard to wrap my head around how a "second year" computer science course at "a good" university has so much overlap with Programming 10, 11, 12 in highschools.
+
+    difficulty: 2
+    quality: 2
+    sessionTaken: 2022W1
+  - author: Skyler
+    authorLink: https://github.students.cs.ubc.ca/ssauer02
+    date: 2023-04-05
+    review: |
+      I had Steven, his teaching was excellent, he is clearly and effective in everything he teaches. The course is modularised very effectively. I wish there was more skepticism on OOP and there is a heavy reliance on the debugger and other IDE tools which is not great. The content is engaging and the "fliiped" lecture style is really helpful, especially since Steven will sit down next to you and help you through problems in a really helpful way. He is also helpful if you ask questions that reach outside the exact course content. I would reccomend coming in with some experience in java or other (non-racket) languages, the concepts are important.
+    difficulty: 3.5
+    quality: 5
+    sessionTaken: 2023W2
+  - author: csstudent
+    authorLink:
+    date: 2023-04-05
+    review: |
+      Excellent course. Lectures are easy to follow, all practice materials  and labs are highly relevant to lecture materials, and term project allows students to problem-solve independently.
+    difficulty: 3
+    quality: 5
+    sessionTaken: 2022W1
+  - author: cinadia
+    authorLink:
+    date: 2022-10-25
+    review: |
+      Well-structured course. Concepts covered are very valuable for the workplace, job interviews, and general software engineering. Instructors are attentive, engaging, and fun. Felix especially!
+    difficulty: 3.5
+    quality: 5
+    sessionTaken: 2022W2
+  - author: ubcstudent1
+    authorLink:
+    date: 2022-10-25
+    review: |
+      fun and relaxing course
+    difficulty: 3
+    quality: 5
+    sessionTaken: 2020W1
+  - author: Eugene
+    authorLink:
+    date: 2022-11-04
+    review: |
+      Its a Software development course. You build a project over the course of the semester and learn about program design. Lecture content is pretty simple but there is a large time commitment due to the project. Great introduction to software development.
+    difficulty: 2
+    quality: 4.5
+    sessionTaken: 2018W1
