@@ -1,0 +1,21 @@
+# Sector badge colours for the /tcf/ pages, drawn from the TCF branding guide.
+# Each sector maps to a soft background tint and a dark text colour.
+# Sectors not listed here fall back to the "default" entry.
+default: { bg: "#E4E6F1", fg: "#3C497D" }
+"Information Technology": { bg: "#B0C5F1", fg: "#02306E" }
+"Banking, Financial and Insurance Services": { bg: "#C1A8F0", fg: "#2E1A5E" }
+"Manufacturing": { bg: "#DBBBE8", fg: "#5B2A6E" }
+"Science, Research & Development": { bg: "#EED1FF", fg: "#4B2A7A" }
+"Consulting": { bg: "#F6CFDC", fg: "#7A2445" }
+"Health Care and Human Services": { bg: "#C9E7E1", fg: "#1F5B52" }
+"Retail, Wholesale and Sales": { bg: "#F3DEC4", fg: "#6B4318" }
+"Wholesale and Sales": { bg: "#F3DEC4", fg: "#6B4318" }
+"Marketing and Communication": { bg: "#F4D3F0", fg: "#6E2566" }
+"Government/Public Administration": { bg: "#D3D6EA", fg: "#2F3766" }
+"Art, Design, Digital Media and Entertainment": { bg: "#F8D8C8", fg: "#7A3319" }
+"Education and Training": { bg: "#CDE3F5", fg: "#1D4B73" }
+"Agriculture, Forestry and Fishing": { bg: "#D6E8CC", fg: "#35592A" }
+"Mining, Oil and Gas": { bg: "#E2DCD4", fg: "#4F4437" }
+"Utilities": { bg: "#D0E4EC", fg: "#24505F" }
+"Transportation and Distribution": { bg: "#DAD3EE", fg: "#3E2F72" }
+"Renewable Energy and Waste Management": { bg: "#D2EBD9", fg: "#22573A" }

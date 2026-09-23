@@ -1,0 +1,26 @@
+# Booth pin positions on the Great Hall floor plan (/files/tcf2026/floor-plan.png),
+# as percentages of the image width (left) and height (top). Keys are booth numbers.
+"1": { left: 74.4, top: 77.6 }
+"2": { left: 79.6, top: 65.8 }
+"3": { left: 79.6, top: 53.6 }
+"4": { left: 79.6, top: 41.1 }
+"5": { left: 74.2, top: 27.3 }
+"6": { left: 54.9, top: 25.2 }
+"7": { left: 44.8, top: 25.2 }
+"8": { left: 35.2, top: 25.2 }
+"9": { left: 24.6, top: 25.2 }
+"10": { left: 14.5, top: 29.5 }
+"11": { left: 11.7, top: 46.4 }
+"12": { left: 11.7, top: 58.9 }
+"13": { left: 11.7, top: 71.5 }
+"14": { left: 33.5, top: 82.3 }
+"15": { left: 49.8, top: 82.3 }
+"16": { left: 59.9, top: 82.3 }
+"17": { left: 61.7, top: 57.5 }
+"18": { left: 55.2, top: 57.5 }
+"19": { left: 36.2, top: 57.5 }
+"20": { left: 29.7, top: 57.5 }
+"21": { left: 29.7, top: 49.6 }
+"22": { left: 36.2, top: 49.6 }
+"23": { left: 55.2, top: 49.6 }
+"24": { left: 61.7, top: 49.6 }

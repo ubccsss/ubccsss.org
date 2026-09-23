@@ -30,9 +30,18 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" />
 
+    <!-- Brand fonts: Poppins for headings, Questrial for body text -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Questrial&display=swap"
+      rel="stylesheet" />
+
     <link href="{{ "css/style.css" | relURL }}" rel="stylesheet" />
     <link href="{{ "css/tcf2026.css" | relURL }}" rel="stylesheet" />
     <link href="{{ "css/tcf.css" | relURL }}" rel="stylesheet" />
+    <link href="{{ "css/tcf-main.css" | relURL }}" rel="stylesheet" />
+    <script defer src="{{ "js/tcf-main.js" | relURL }}"></script>
 
     {{ range .AlternativeOutputFormats -}}
       <link
@@ -43,98 +52,101 @@
     {{ template "_internal/google_analytics_async.html" . }}
     {{ partial "head-custom.html" . }}
   </head>
-  <body>
-    <div class="dropdown nav-sticky">
-      <button
-        class="btn btn-light dropdown-toggle position-absolute m-3 small-shadow"
-        type="button"
-        data-bs-toggle="dropdown"
-        aria-expanded="false">
-        <i class="bi-list"></i>
-      </button>
-      <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="#about">About</a></li>
-        <li><a class="dropdown-item" href="#companies">Companies</a></li>
-        <li><a class="dropdown-item" href="#event-info">Event Info</a></li>
-      </ul>
-    </div>
-    <div id="tcfHeroCarousel" class="carousel slide" data-bs-ride="carousel">
-      <div class="carousel-inner">
-        <div class="d-md-block hero-header-content">
-          <div class="mx-auto py-5 my-5">
-            <h1 class="display-1 fw-bold">Technical Career Fair&nbsp;2027</h1>
-                        <p class="hero-header-text">
-                          January 28, 2027 &mdash; 10AM &ndash; 4PM PT
-                        </p>
-            <p>
-              <b>
-                All UBC students and alumni are welcome and do not need to
-                register to attend! Bring your UBC card with you to access the
-                venue.
-              </b>
-            </p>
-            <p>
-                          Questions? Email
-                          <a href="mailto:tcf@ubccsss.org" style="color:white;"
-                            >tcf@ubccsss.org</a
-                          >
-                        </p>
-          </div>
-        </div>
-        <div class="carousel-item active" data-bs-interval="2000">
-          <img
-            src="/files/tcf2024-1.jpg"
-            class="d-block w-100"
-            alt="TCF photo 1" />
-        </div>
-        <div class="carousel-item" data-bs-interval="5000">
-          <img
-            src="/files/tcf2024-2.jpg"
-            class="d-block w-100"
-            alt="TCF photo 2" />
-        </div>
-        <div class="carousel-item" data-bs-interval="5000">
-          <img
-            src="/files/tcf2024-3.jpg"
-            class="d-block w-100"
-            alt="TCF photo 3" />
-        </div>
-        <div class="carousel-item" data-bs-interval="5000">
-          <img
-            src="/files/tcf2024-4.jpg"
-            class="d-block w-100"
-            alt="TCF photo 4" />
-        </div>
-        <div class="carousel-indicators">
-          <button
-            type="button"
-            data-bs-target="#tcfHeroCarousel"
-            data-bs-slide-to="0"
-            class="active"
-            aria-current="true"
-            aria-label="Slide 1"></button>
-          <button
-            type="button"
-            data-bs-target="#tcfHeroCarousel"
-            data-bs-slide-to="1"
-            aria-label="Slide 2"></button>
-          <button
-            type="button"
-            data-bs-target="#tcfHeroCarousel"
-            data-bs-slide-to="2"
-            aria-label="Slide 3"></button>
-          <button
-            type="button"
-            data-bs-target="#tcfHeroCarousel"
-            data-bs-slide-to="3"
-            aria-label="Slide 4"></button>
+  {{ $email := .Params.contactEmail | default "tcf@ubccsss.org" }}
+  {{ $registration := .Params.registrationLink }}
+  {{ $showBooths := .Params.showBooths }}
+  {{ $companies := sort (where (where .Pages ".Params.layout" "tcf-company-2026") ".Params.imageLink" "!=" nil) ".Title" }}
+  {{ $sectors := slice }}
+  {{ range $companies }}
+    {{ range .Params.industry }}
+      {{ $sectors = $sectors | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $sectors = sort (uniq $sectors) }}
+  <body class="tcf-page" id="top">
+    <nav
+      class="navbar navbar-expand-lg navbar-dark fixed-top tcf-nav"
+      id="tcfNav">
+      <div class="container-fluid px-3 px-lg-4">
+        <a class="navbar-brand d-flex align-items-center gap-2" href="#top">
+          <img src="/logo.svg" alt="UBC CSSS logo" width="30" height="24" />
+          <span class="tcf-nav__brand">TCF</span>
+        </a>
+        <button
+          class="navbar-toggler border-0"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#tcfNavLinks"
+          aria-controls="tcfNavLinks"
+          aria-expanded="false"
+          aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+          class="collapse navbar-collapse justify-content-end"
+          id="tcfNavLinks">
+          <ul class="navbar-nav gap-lg-2">
+            <li class="nav-item"><a class="nav-link" href="#top">Home</a></li>
+            <li class="nav-item">
+              <a class="nav-link" href="#companies">Companies</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#prep">Student Prep</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#event-info">Event Map</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#partners">Partners</a>
+            </li>
+            <li class="nav-item"><a class="nav-link" href="#faq">FAQ</a></li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contact">Contact</a>
+            </li>
+          </ul>
         </div>
       </div>
-    </div>
-    <div class="container" id="about">
-      <div class="row pt-3">
+    </nav>
+
+    <header
+      class="tcf-hero"
+      style="{{ printf "background-image: url('%s');" (.Params.heroImage | default "/files/tcf2024-1.jpg") | safeCSS }}">
+      <div class="tcf-hero__overlay">
+        <div class="tcf-hero__main">
+          <p class="tcf-eyebrow">UBC CSSS presents</p>
+          <h1 class="tcf-hero__title">
+            Technical Career Fair <span class="tcf-hero__year">2027</span>
+          </h1>
+          <p class="tcf-hero__date">January 28, 2027</p>
+          <p class="tcf-hero__time">
+            10AM &ndash; 4PM PT &middot; AMS Nest Great Hall
+          </p>
+        </div>
+        <div class="tcf-hero__footer">
+          <p class="mb-1">
+            <i class="bi-person-check"></i>
+            All UBC students and alumni are welcome and do not need to register
+            to attend! Bring your UBC card with you to access the venue.
+          </p>
+          <p class="mb-0">
+            Questions? Email
+            <a href="mailto:{{ $email }}">{{ $email }}</a>
+            {{ with $registration }}
+              <span class="tcf-hero__divider" aria-hidden="true">|</span>
+              Companies:
+              <a href="{{ . }}" target="_blank" rel="noopener noreferrer"
+                >register for a booth <i class="bi-arrow-right"></i
+              ></a>
+            {{ end }}
+          </p>
+        </div>
+      </div>
+    </header>
+
+    <section class="container tcf-section" id="about">
+      <div class="row align-items-center g-5">
         <div class="col-lg-6 col-sm-12">
-          <h1>Welcome to TCF 2027!</h1>
+          <h2 class="tcf-heading">Welcome to TCF 2027!</h2>
           <p class="mt-3">
             The UBC Computer Science Technical Career Fair (TCF) is a
             student-led event that connects employers with technical talent at
@@ -153,60 +165,208 @@
             reputation as an inclusive employer of choice, and build a lasting
             presence at one of Canada’s leading CS departments.
           </p>
+          <div class="tcf-register-inline">
+            <span>Are you a company interested in attending?</span>
+            {{ if $registration }}
+              <a
+                class="btn tcf-btn tcf-btn--primary"
+                href="{{ $registration }}"
+                target="_blank"
+                rel="noopener noreferrer"
+                ><i class="bi-building-add"></i> Register for TCF 2027</a
+              >
+            {{ else }}
+              <a class="btn tcf-btn tcf-btn--primary" href="mailto:{{ $email }}"
+                ><i class="bi-envelope"></i> Contact us to register</a
+              >
+            {{ end }}
+          </div>
         </div>
-        <div class="col-lg-6 col-sm-12 pt-3">
-          <img
-            src="/files/tcf2024-1.jpg"
-            alt="Photo of a past UBC CSSS technical career fair."
-            class="mw-100 img-shadow" />
+        <div class="col-lg-6 col-sm-12">
+          <div
+            id="tcfWelcomeCarousel"
+            class="carousel slide carousel-fade tcf-photos"
+            data-bs-ride="carousel"
+            data-bs-interval="4000">
+            <div class="carousel-inner">
+              {{ range $i, $photo := .Params.welcomePhotos }}
+                <div class="carousel-item{{ if eq $i 0 }}active{{ end }}">
+                  <img
+                    src="{{ $photo }}"
+                    class="d-block w-100"
+                    alt="Photo of a past UBC CSSS technical career fair"
+                    {{ if gt $i 0 }}loading="lazy"{{ end }} />
+                </div>
+              {{ end }}
+            </div>
+            <div class="carousel-indicators">
+              {{ range $i, $photo := .Params.welcomePhotos }}
+                <button
+                  type="button"
+                  data-bs-target="#tcfWelcomeCarousel"
+                  data-bs-slide-to="{{ $i }}"
+                  {{ if eq $i 0 }}class="active" aria-current="true"{{ end }}
+                  aria-label="Photo {{ add $i 1 }}"></button>
+              {{ end }}
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-    <div class="background-blue">
-      <div class="container" id="companies">
-        <h1 class="text-center mb-0">Last Year's Attendees</h1>
-        <div class="row pt-4">
-          {{ range first 12 (sort (where .Pages ".Params.layout" "tcf-company-2026")) }}
-            {{ if .Params.imageLink }}
-              <div class="col-lg-3 col-sm-12 col-md-6 mt-3">
-                <div class="card w-100 mt-3 h-100">
-                  <div
-                    class="d-flex flex-column justify-content-center"
-                    style="height: 200px">
-                    <img
-                      class="card-img-top img-fluid p-2 mh-100"
-                      src="{{ .Params.imageLink }}"
-                      alt="{{ .Params.title }} company logo"
-                      style="object-fit: contain" />
-                  </div>
-                  <div class="card-body">
-                    <h5 class="card-title text-truncate">
-                      <a
-                        class="card-link stretched-link"
-                        href="{{ .RelPermalink }}"
-                        >{{ .Params.title }}
-                      </a>
-                    </h5>
-                    {{ $badge_colors := dict "Banking, Financial and Insurance Services" "primary" "Government/Public Administration" "secondary" "Information Technology" "success" "Science, Research & Development" "danger" "Manufacturing" "warning" "Agriculture, Forestry and Fishing" "info" "Wholesale and Sales" "purple" "Consulting" "orange" "Art, Design, Digital Media and Entertainment" "dark-green" "Education and Training" "teal" "Mining, Oil and Gas" "pink" "Marketing and Communication" "gold" "Utilities" "dark-red" "Health Care and Human Services" "dark-blue" "Transportation and Distribution" "black" "Renewable Energy and Waste Management" "dark" }}
-                    {{ range .Params.industry }}
-                      {{ $color := default "black" (index $badge_colors .) }}
-                      <span class="badge bg-{{ $color }}">{{ . }}</span>
+    </section>
+
+    <section class="tcf-band" id="companies">
+      <div class="container tcf-section">
+        <h2 class="tcf-heading text-center mb-0">Last Year's Attendees</h2>
+        {{ with $registration }}
+          <div class="tcf-callout mt-4">
+            <i class="bi-megaphone tcf-callout__icon" aria-hidden="true"></i>
+            <div class="tcf-callout__text">
+              <strong>Want your company at TCF 2027?</strong>
+              {{ with $.Params.registrationDeadline }}
+                Registration closes <strong>{{ . }}</strong>.
+              {{ else }}
+                Booths are limited, so register early.
+              {{ end }}
+            </div>
+            <a
+              class="btn tcf-btn tcf-btn--light"
+              href="{{ . }}"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Register now <i class="bi-arrow-right"></i
+            ></a>
+          </div>
+        {{ end }}
+
+
+        <div class="tcf-toolbar mt-4" aria-label="Filter and sort companies">
+          <div class="tcf-chips" role="group" aria-label="Filter by sector">
+            <button type="button" class="tcf-chip is-active" data-sector="">
+              All
+            </button>
+            {{ range $sectors }}
+              <button type="button" class="tcf-chip" data-sector="{{ . }}">
+                {{ . }}
+              </button>
+            {{ end }}
+          </div>
+          <label class="tcf-sort">
+            <span>Sort by</span>
+            <select class="form-select form-select-sm" id="tcfSort">
+              <option value="name">Name (A&ndash;Z)</option>
+              {{ if $showBooths }}
+                <option value="booth">Booth #</option>
+              {{ end }}
+            </select>
+          </label>
+        </div>
+
+        <div class="row g-4 pt-4" id="tcfCompanyGrid">
+          {{ range $companies }}
+            <div
+              class="col-xl-3 col-lg-4 col-md-6 col-12 tcf-company-col"
+              data-name="{{ .Title | lower }}"
+              data-sectors="{{ delimit (.Params.industry | default slice) "|" }}"
+              data-booth="{{ .Params.boothNumber | default 999 }}">
+              <article class="tcf-company-card">
+                <div class="tcf-company-card__logo">
+                  <img
+                    src="{{ .Params.imageLink }}"
+                    alt="{{ .Title }} company logo"
+                    loading="lazy" />
+                </div>
+                <div class="tcf-company-card__body">
+                  <h3 class="tcf-company-card__name">
+                    <a class="stretched-link" href="{{ .RelPermalink }}"
+                      >{{ .Title }}</a
+                    >
+                  </h3>
+                  {{ if and $showBooths .Params.boothNumber }}
+                    <p class="tcf-company-card__booth">
+                      <i class="bi-geo-alt"></i> Booth
+                      #{{ .Params.boothNumber }}
+                    </p>
+                  {{ end }}
+                  <div class="tcf-company-card__sectors">
+                    {{ $industry := .Params.industry | default slice }}
+                    {{ range first 3 $industry }}
+                      {{ partial "tcf/sector-badge.html" . }}
+                    {{ end }}
+                    {{ if gt (len $industry) 3 }}
+                      <span
+                        class="badge rounded-pill tcf-sector tcf-sector--more"
+                        title="{{ delimit (after 3 $industry) ", " }}"
+                        >+{{ sub (len $industry) 3 }} more</span
+                      >
                     {{ end }}
                   </div>
                 </div>
-              </div>
-            {{ end }}
+              </article>
+            </div>
           {{ end }}
         </div>
-        <div class="d-flex flex-row justify-content-center pt-4">
-          <a href="companies" class="mt-5 btn btn-outline-light">
-            <i class="bi-people"></i> See more companies
+        <p class="tcf-empty text-center mt-4" id="tcfNoResults" hidden>
+          No companies match that sector.
+        </p>
+        <div
+          class="d-flex flex-wrap gap-3 justify-content-center pt-5"
+          id="tcfCompanyActions">
+          {{ if gt (len $companies) 12 }}
+            <button
+              type="button"
+              class="btn tcf-btn tcf-btn--light"
+              id="tcfShowAll"
+              aria-expanded="false">
+              <i class="bi-grid"></i> Show all {{ len $companies }} companies
+            </button>
+          {{ end }}
+          <a href="companies" class="btn tcf-btn tcf-btn--outline">
+            <i class="bi-people"></i> Company directory
           </a>
         </div>
       </div>
-    </div>
-    <div class="container" id="event-info">
-      <h1 class="text-center">Location</h1>
+    </section>
+
+    <section class="tcf-section-tint" id="prep">
+      <div class="container tcf-section">
+        <h2 class="tcf-heading text-center">Student Prep</h2>
+        <p class="text-center tcf-lead mx-auto">
+          First career fair? Here's how to make the most of it.
+        </p>
+        <div class="row g-4 pt-3">
+          {{ range .Params.prep }}
+            <div class="col-lg-3 col-md-6 col-12">
+              <div class="tcf-prep-card">
+                <i
+                  class="{{ .icon }} tcf-prep-card__icon"
+                  aria-hidden="true"></i>
+                <h3 class="tcf-prep-card__title">{{ .title }}</h3>
+                <p class="mb-0">{{ .body }}</p>
+                {{ range .links }}
+                  <a
+                    class="tcf-prep-card__link"
+                    href="{{ .url }}"
+                    {{ if hasPrefix .url "http" }}
+                      target="_blank" rel="noopener noreferrer"
+                    {{ end }}
+                    >{{ .text }} <i class="bi-arrow-right"></i
+                  ></a>
+                {{ end }}
+              </div>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+
+    <section class="container tcf-section" id="event-info">
+      <h2 class="tcf-heading text-center">
+        {{ if $showBooths }}
+          Location + Event Map
+        {{ else }}
+          Location
+        {{ end }}
+      </h2>
       <div class="row">
         <p>The TCF will take place:</p>
         <ul style="list-style-position: inside;">
@@ -218,86 +378,146 @@
           </li>
         </ul>
       </div>
-      <div class="row">
-        <div class="col-12">
+      <div class="row g-4">
+        <div class="{{ if $showBooths }}col-lg-5{{ end }} col-12">
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2140.4905281345596!2d-123.24965529367296!3d49.26725515677624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867398c216945b%3A0xe9bbdd7328c09b21!2sAMS%20Student%20Nest!5e0!3m2!1sen!2sca!4v1760413559780!5m2!1sen!2sca"
+            title="Map of the AMS Student Nest"
             style="border: 0; width: 100%; height: 100%; min-height: 400px;"
             allowfullscreen=""
             loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"
-            class="mt-1"></iframe>
+            class="mt-1 tcf-map"></iframe>
         </div>
-      </div>
-    </div>
-
-    <div class="background-blue">
-      <div class="container">
-        <h1 class="text-center">Partners</h1>
-        <div class="row justify-content-center">
-          <div class="col-lg-3 col-md-6 mb-3">
-            <div class="card w-100 h-100" title="UBC WiCS">
+        {{ if $showBooths }}
+          <div class="col-lg-7 col-12">
+            <p class="tcf-map-hint">
+              <i class="bi-hand-index"></i> Tap a booth to see who's there.
+            </p>
+            <div class="tcf-floorplan" id="tcfFloorplan">
               <img
-                class="card-img-top img-fluid"
+                src="{{ .Params.floorPlan }}"
+                alt="Floor plan of the AMS Great Hall with numbered booths"
+                class="w-100" />
+              {{ range $companies }}
+                {{ $booth := .Params.boothNumber }}
+                {{ $pos := index site.Data.tcf.booths (string $booth) }}
+                {{ if and $booth $pos }}
+                  <button
+                    type="button"
+                    class="tcf-pin"
+                    style="{{ printf "left: %v%%; top: %v%%;" $pos.left $pos.top | safeCSS }}"
+                    data-booth="{{ $booth }}"
+                    aria-label="Booth {{ $booth }}: {{ .Title }}"
+                    aria-controls="tcfBoothCard">
+                    {{ $booth }}
+                  </button>
+                {{ end }}
+              {{ end }}
+            </div>
+            <div
+              class="tcf-booth-card"
+              id="tcfBoothCard"
+              aria-live="polite"
+              hidden></div>
+            {{ range $companies }}
+              {{ if .Params.boothNumber }}
+                <template id="tcf-booth-{{ .Params.boothNumber }}">
+                  <button
+                    type="button"
+                    class="btn-close tcf-booth-card__close"
+                    aria-label="Close"></button>
+                  <div class="tcf-booth-card__logo">
+                    <img src="{{ .Params.imageLink }}" alt="" />
+                  </div>
+                  <div class="tcf-booth-card__body">
+                    <p class="tcf-booth-card__booth">
+                      Booth
+                      #{{ .Params.boothNumber }}
+                    </p>
+                    <h3 class="tcf-booth-card__name">{{ .Title }}</h3>
+                    <div class="tcf-company-card__sectors">
+                      {{ range .Params.industry }}
+                        {{ partial "tcf/sector-badge.html" . }}
+                      {{ end }}
+                    </div>
+                    <div class="tcf-booth-card__links">
+                      {{ with .Params.link }}
+                        <a
+                          href="{{ . }}"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          ><i class="bi-globe"></i> Website</a
+                        >
+                      {{ end }}
+                      {{ with .Params.linkedin }}
+                        <a
+                          href="{{ . }}"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          ><i class="bi-linkedin"></i> LinkedIn</a
+                        >
+                      {{ end }}
+                      <a href="{{ .RelPermalink }}"
+                        ><i class="bi-info-circle"></i> View profile</a
+                      >
+                    </div>
+                  </div>
+                </template>
+              {{ end }}
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    </section>
+
+    <section class="tcf-band" id="partners">
+      <div class="container tcf-section">
+        <h2 class="tcf-heading text-center">Partners</h2>
+        <div class="row g-4 justify-content-center pt-3">
+          <div class="col-lg-3 col-md-6">
+            <div class="tcf-partner" title="UBC WiCS">
+              <img
                 src="/files/wics.png"
                 alt="UBC WiCS logo"
                 width="348"
                 height="196" />
-              <div class="card-body">
-                <h5 class="card-title text-center">
-                  <a
-                    class="card-link stretched-link"
-                    href="https://ubcwics.com/"
-                    >Women in Computer Science</a
-                  >
-                </h5>
-              </div>
+              <a class="stretched-link" href="https://ubcwics.com/"
+                >Women in Computer Science</a
+              >
             </div>
           </div>
-          <div class="col-lg-3 col-md-6 mb-3">
-            <div class="card w-100 h-100" title="UBC WiDS">
+          <div class="col-lg-3 col-md-6">
+            <div class="tcf-partner" title="UBC WiDS">
               <img
-                class="card-img-top img-fluid"
                 src="/files/wids.png"
                 alt="UBC WiDS logo"
                 width="348"
                 height="196" />
-              <div class="card-body">
-                <h5 class="card-title text-center">
-                  <a
-                    class="card-link stretched-link"
-                    href="https://linktr.ee/widsubc"
-                    >Women in Data Science</a
-                  >
-                </h5>
-              </div>
+              <a class="stretched-link" href="https://linktr.ee/widsubc"
+                >Women in Data Science</a
+              >
             </div>
           </div>
-          <div class="col-lg-3 col-md-6 mb-3">
-            <div class="card w-100 h-100" title="Queer Coded">
+          <div class="col-lg-3 col-md-6">
+            <div class="tcf-partner" title="Queer Coded">
               <img
-                class="card-img-top img-fluid"
                 src="/files/queercoded.png"
                 alt="Queer Coded logo"
                 width="348"
                 height="196" />
-              <div class="card-body">
-                <h5 class="card-title text-center">
-                  <a
-                    class="card-link stretched-link"
-                    href="https://queercoded.ca/"
-                    >Queer Coded</a
-                  >
-                </h5>
-              </div>
+              <a class="stretched-link" href="https://queercoded.ca/"
+                >Queer Coded</a
+              >
             </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="container" id="faq">
-      <h1 class="text-center">Code of Conduct + FAQ</h1>
-      <div class="row pt-3">
+    </section>
+
+    <section class="container tcf-section" id="faq">
+      <h2 class="tcf-heading text-center">Code of Conduct + FAQ</h2>
+      <div class="row pt-3 g-4">
         <div class="col-lg-6 col-sm-12">
           <p>
             By attending this event, you agree to the following codes of
@@ -331,9 +551,9 @@
           </ul>
         </div>
         <div class="col-lg-6 col-sm-12">
-          <div class="accordion" id="accordion">
+          <div class="accordion tcf-accordion" id="accordion">
             <div class="accordion-item">
-              <h2 class="accordion-header" id="headingOne">
+              <h3 class="accordion-header" id="headingOne">
                 <button
                   class="accordion-button"
                   type="button"
@@ -343,55 +563,71 @@
                   aria-controls="collapseOne">
                   How do I prepare for the event?
                 </button>
-              </h2>
+              </h3>
               <div
                 id="collapseOne"
                 class="accordion-collapse collapse show"
                 aria-labelledby="headingOne"
                 data-bs-parent="#accordion">
-                <div class="accordion-body">Details coming soon!</div>
+                <div class="accordion-body">
+                  Update your resume, research the companies attending, and
+                  practise a short intro. See our
+                  <a href="#prep">Student Prep</a> tips for a full checklist.
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="container py-0">
-      <footer
-        class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4">
-        <div class="col-md-4 d-flex align-items-center">
-          <a
-            href="/"
-            class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
-            <img class="bi" width="30" height="24" src="/logo.svg" />
-          </a>
-          <span class="mb-3 mb-md-0 text-muted"
-            >© 2026&ndash;2027 UBC CSSS</span
-          >
-        </div>
+    </section>
 
-        <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-          <li class="me-3">
-            <a class="text-muted" href="https://www.instagram.com/ubc_csss/"
+    <section class="tcf-contact" id="contact">
+      <div class="container tcf-section text-center">
+        <h2 class="tcf-heading">Contact Us</h2>
+        <p class="tcf-lead mx-auto">
+          Questions about attending, sponsoring, or volunteering? We'd love to
+          hear from you.
+        </p>
+        <a class="btn tcf-btn tcf-btn--light" href="mailto:{{ $email }}"
+          ><i class="bi-envelope"></i> {{ $email }}</a
+        >
+        <ul
+          class="tcf-social list-unstyled d-flex justify-content-center gap-4 mt-4 mb-0">
+          <li>
+            <a href="https://www.instagram.com/ubc_csss/" aria-label="Instagram"
               ><i class="bi-instagram"></i
             ></a>
           </li>
-          <li class="me-3">
-            <a class="text-muted" href="https://twitter.com/ubccsss">
+          <li>
+            <a href="https://twitter.com/ubccsss" aria-label="X">
               <i class="bi-twitter-x"></i
             ></a>
           </li>
-          <li class="me-3">
-            <a class="text-muted" href="http://ubccsss.org/discord">
+          <li>
+            <a href="http://ubccsss.org/discord" aria-label="Discord">
               <i class="bi-discord"></i
             ></a>
           </li>
-          <li class="me-3">
-            <a class="text-muted" href="https://www.facebook.com/ubccsss">
+          <li>
+            <a href="https://www.facebook.com/ubccsss" aria-label="Facebook">
               <i class="bi-facebook"></i
             ></a>
           </li>
         </ul>
+      </div>
+    </section>
+
+    <div class="container py-0">
+      <footer class="d-flex align-items-center py-3 my-2">
+        <a href="/" class="me-2 text-muted text-decoration-none lh-1">
+          <img
+            class="bi"
+            width="30"
+            height="24"
+            src="/logo.svg"
+            alt="UBC CSSS" />
+        </a>
+        <span class="text-muted">© 2026&ndash;2027 UBC CSSS</span>
       </footer>
     </div>
   </body>
