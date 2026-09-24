@@ -40,7 +40,7 @@ description: Partner with the UBC Computer Science Student Society — pricing a
     </div>
     <div class="sp-tier sp-tier--past">
       <h3 class="sp-tier-label">Past Collaborators</h3>
-      <p class="sp-tier-note">Companies CSSS has partnered with in earlier years</p>
+      <p class="sp-tier-note">Companies CSSS has partnered with in past years</p>
       <div class="sp-logos">
         <span class="sp-logo" title="Amazon"><img src="/files/sponsors/amazon.png" alt="Amazon" loading="lazy" /></span>
         <span class="sp-logo" title="Atlassian"><img src="/files/sponsors/atlassian.png" alt="Atlassian" loading="lazy" /></span>
