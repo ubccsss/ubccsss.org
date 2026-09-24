@@ -1,4 +1,16 @@
 reviews:
+  - author: le chat
+    authorLink: 
+    date: 2026-04-22
+    review: |
+      Honestly really cool topics. There's a little bit for everyone : languages like C and Erlang, low level optimization (caches, registers, etc.), profiling, CUDA, etc. There are some typos / bugs in assignments; however, it's usually pretty minor.
+      
+      The assignments are interesting, but do take a bit of time, and the grades come out very slowly. By the time of the exam we only had 3 homework (out of 6 and lots of bonus assignments) grades released. Mark is pretty funny and is clearly passionate.
+      
+      I would say however that allowing AI during exams is very pay-to-win. For example, people with the latest paid models (which are months ahead of the free ones) can get more accurate answers faster. And it's not like exams are worth nothing; combined, they make up 65% of your grade. I like the idea of open book exams, but I think an improvement would be banning AI usage. Just something to keep in mind if you take the course.
+    difficulty: 2.5
+    quality: 3.5
+    sessionTaken: 2025W2
   - author: s
     authorLink: 
     date: 2024-04-29
