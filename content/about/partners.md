@@ -83,7 +83,7 @@ description: Partner with the UBC Computer Science Student Society — pricing a
       <div class="sp-form-actions">
         <button class="sp-submit" type="submit">Request the package</button>
       </div>
-      <p class="sp-form-hint">This opens a pre-filled email to our VP External. Prefer to write it yourself? <a href="mailto:vpx@ubccsss.org">vpx@ubccsss.org</a></p>
+      <p class="sp-form-hint">This opens a pre-filled email to our VP External. Prefer to write it yourself? Please reach out to <a href="mailto:vpx@ubccsss.org">vpx@ubccsss.org</a></p>
       <p class="sp-form-sent" id="sp-enquiry-sent" hidden="hidden">Thanks — your mail client should be opening now. If nothing happened, <a href="mailto:vpx@ubccsss.org">email us directly</a>.</p>
     </form>
     <p class="sp-note">Looking for our community partners? Our <a href="/about/affiliates/">affiliate clubs</a> page has moved. <br>Questions or corrections? Contact us through our <a href="/contact/suggestions-box/">suggestions box</a>.</p>
