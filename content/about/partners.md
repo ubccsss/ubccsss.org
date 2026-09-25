@@ -1,113 +1,92 @@
 ---
-title: Partners
-layout: single
-# Card images should all be 348x196
+title: Sponsorship
+layout: sponsorship
+description: Partner with the UBC Computer Science Student Society — pricing and packages are in the 2026–27 sponsorship document.
 ---
-
-Are you a company interested in engaging with UBC’s CS community? Explore our sponsorship options now!
-
-<a class="btn btn-fancy mb-4" href="../../files/sponsor/UBC_CSSS_2024_Sponsorship_Package.pdf " target="_blank">Sponsorship Options</a>
-
-## External Organizations
-
-<div class="row">
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-	{{< partner title="Quiver Games" href="https://Quivergamesvancouver.com" src="/files/quivergames.png" id="quiver-games" description="Quiver Games is creating fantastic events, programs and makerspaces to bring up the next generation of developers in Vancouver through practical experience and skill building opportunties.">}}
+<div class="sp-shell">
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <symbol id="sp-cube" viewBox="0 0 120 140">
+    <polygon points="60,0 120,35 60,70 0,35" fill="#B1D4FF"/>
+    <polygon points="0,35 60,70 60,140 0,105" fill="#3A76DB"/>
+    <polygon points="120,35 60,70 60,140 120,105" fill="#061D80"/>
+  </symbol>
+</svg>
+<section class="sp-hero">
+  <div class="sp-hero-shape"></div>
+  <div class="sp-hero-inner">
+    <p class="sp-label">UBC CSSS · Sponsorship · 2026–27</p>
+    <h1>Sponsorship</h1>
+    <a class="sp-btn sp-btn-solid" href="/files/sponsor/UBC_CSSS_2026-27_Sponsorship_Package.pdf" target="_blank" rel="noopener">2026–27 package (PDF)</a>
   </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-	{{< partner title="Tech Career North" href="https://discord.gg/96rkQyC5rX" src="/files/tech-career-north.png" id="tech-career-north" 
-  img-bgcolor="black"
-  description="Tech Career North is a go-to hub for Canada's tech enthusiasts, students, and career changers with internships and entry level tech job postings manually curated DAILY. Join the server for daily postings and connect with peers nationwide in Canada!">}}
+  <svg class="sp-hero-art" width="120" height="140" viewBox="0 0 120 140" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use href="#sp-cube"/></svg>
+  <svg class="sp-hero-art2" width="86" height="101" viewBox="0 0 120 140" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use href="#sp-cube"/></svg>
+</section>
+<section class="sp-sec sp-sec--deco" id="sponsors">
+  <svg class="sp-cube sp-cube--a" width="210" height="245" viewBox="0 0 120 140" style="top:34px;right:-46px;transform:rotate(14deg)"><use href="#sp-cube"/></svg>
+  <svg class="sp-cube sp-cube--b" width="120" height="140" viewBox="0 0 120 140" style="top:190px;left:-34px;transform:rotate(-10deg)"><use href="#sp-cube"/></svg>
+  <svg class="sp-cube sp-cube--c" width="72" height="84" viewBox="0 0 120 140" style="bottom:60px;right:12%;transform:rotate(24deg)"><use href="#sp-cube"/></svg>
+  <div class="sp-wrap">
+    <h2 class="sp-h2">Our Current Sponsors</h2>
+    <p class="sp-announce">To be announced for 2026–27.</p>
+    <div class="sp-rule"></div>
+    <div class="sp-tier">
+      <h3 class="sp-tier-label">Gold Sponsors</h3>
+    </div>
+    <div class="sp-tier">
+      <h3 class="sp-tier-label">Silver Sponsors</h3>
+    </div>
+    <div class="sp-tier">
+      <h3 class="sp-tier-label">Bronze Sponsors</h3>
+    </div>
+    <div class="sp-tier sp-tier--past">
+      <h3 class="sp-tier-label">Past Collaborators</h3>
+      <p class="sp-tier-note">Companies CSSS has partnered with in past years</p>
+      <div class="sp-logos">
+        <span class="sp-logo" title="Amazon"><img src="/files/sponsors/amazon.png" alt="Amazon" loading="lazy" /></span>
+        <span class="sp-logo" title="Atlassian"><img src="/files/sponsors/atlassian.png" alt="Atlassian" loading="lazy" /></span>
+        <span class="sp-logo" title="Aviatrix"><img src="/files/sponsors/aviatrix.png" alt="Aviatrix" loading="lazy" /></span>
+        <span class="sp-logo" title="BGC Engineering"><img src="/files/sponsors/bgc.png" alt="BGC Engineering" loading="lazy" /></span>
+        <span class="sp-logo" title="Bit Quill"><img src="/files/sponsors/bit-quill.png" alt="Bit Quill" loading="lazy" /></span>
+        <span class="sp-logo" title="FDM Group"><img src="/files/sponsors/fdm.png" alt="FDM Group" loading="lazy" /></span>
+        <span class="sp-logo" title="Google"><img src="/files/sponsors/google.png" alt="Google" loading="lazy" /></span>
+        <span class="sp-logo" title="NetApp"><img src="/files/sponsors/netapp.png" alt="NetApp" loading="lazy" /></span>
+        <span class="sp-logo" title="Rogers"><img src="/files/sponsors/rogers.png" alt="Rogers" loading="lazy" /></span>
+        <span class="sp-logo" title="Teck Resources"><img src="/files/sponsors/teck.png" alt="Teck Resources" loading="lazy" /></span>
+        <span class="sp-logo" title="Visier"><img src="/files/sponsors/visier.png" alt="Visier" loading="lazy" /></span>
+      </div>
+    </div>
   </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-	{{< partner title="BobaTalks" href="https://bobatalks.com/" src="/files/bobatalks-logo.webp" id="bobatalks" description="Whether you're navigating a career transition, diving into your first internship, or seeking guidance on life's bigger picture, BobaTalks is here to support you every step of the way. They bring a network of 120+ professionals from industry giants like Google, Riot Games, TikTok, and more, covering fields such as Data, Consulting, Mental Health, and beyond.">}}
+</section>
+<section class="sp-sec sp-sec--seam sp-sec--deco" id="contact">
+  <svg class="sp-cube sp-cube--a" width="170" height="198" viewBox="0 0 120 140" style="top:52px;left:-40px;transform:rotate(-12deg)"><use href="#sp-cube"/></svg>
+  <svg class="sp-cube sp-cube--b" width="100" height="117" viewBox="0 0 120 140" style="bottom:120px;right:-24px;transform:rotate(18deg)"><use href="#sp-cube"/></svg>
+  <div class="sp-wrap">
+    <h2 class="sp-h2">Become a Sponsor!</h2>
+    <p class="sp-sub">If you'd like to partner with us, please fill out the form below to discuss furthur!</a>. Our VP External will get back to you as soon as possible.</p>
+    <form class="sp-form" id="sp-enquiry" novalidate="novalidate">
+      <div class="sp-form-field">
+        <label for="sp-name">Full name</label>
+        <input id="sp-name" name="spName" type="text" autocomplete="name" required="required" />
+      </div>
+      <div class="sp-form-field">
+        <label for="sp-email">Email address</label>
+        <input id="sp-email" name="spEmail" type="email" autocomplete="email" required="required" />
+      </div>
+      <div class="sp-form-field">
+        <label for="sp-org">Organization</label>
+        <input id="sp-org" name="spOrg" type="text" autocomplete="organization" />
+      </div>
+      <div class="sp-form-field">
+        <label for="sp-msg">What are you hoping to sponsor?</label>
+        <textarea id="sp-msg" name="spMsg" rows="4"></textarea>
+      </div>
+      <div class="sp-form-actions">
+        <button class="sp-submit" type="submit">Request the package</button>
+      </div>
+      <p class="sp-form-hint">This opens a pre-filled email to our VP External. Prefer to write it yourself? Please reach out to <a href="mailto:vpx@ubccsss.org">vpx@ubccsss.org</a></p>
+      <p class="sp-form-sent" id="sp-enquiry-sent" hidden="hidden">Thanks — your mail client should be opening now. If nothing happened, <a href="mailto:vpx@ubccsss.org">email us directly</a>.</p>
+    </form>
+    <p class="sp-note">Looking for our community partners? Our <a href="/about/affiliates/">affiliate clubs</a> page has moved. <br>Questions or corrections? Contact us through our <a href="/contact/suggestions-box/">suggestions box</a>.</p>
   </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-	{{< partner title="Thrive Up" href="https://www.thriveup.co/" src="/files/thrive-up.jpg" id="bobatalks" description="Thrive Up is dedicated to helping people interested in tech, whether you're looking to make your mark in the industry or wanting to level up your career. Each week, join them for insightful discussions, career tips, and inspiring stories from professionals at FANNG and diverse backgrounds.">}}
-  </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-	{{< partner title="InternDB" href="https://interndb.io/" src="/files/interndb.png" id="interndb" description="InternDB is a student-focused platform offering detailed, specific reviews of internships. Our goal is to provide rich, actionable information about different companies and career paths, tailored for students seeking to find their place in tech.">}}
-  </div>
+</section>
 </div>
-
-The following UBC CS-related clubs are partners of the CSSS. Click on each club to find links to their social media or chat groups!
-
-## Affiliate Clubs
-
-<div class="row">
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-	{{< club title="UBC CTF (Maple Bacon)" href="https://maplebacon.org" src="/files/ubcctf.png" id="maple-bacon" description="A CTF Team at the University of British Columbia." blog="https://maplebacon.org/blog/" discord="https://discord.gg/keeTZsmfVA" >}}
-  </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="ACM" href="https://sites.google.com/site/ubcprogrammingteam/home" src="/files/ubcacm.png" description="A UBC Competitive Programming Team." discord="https://discord.gg/jfZHF7J" facebook="https://www.facebook.com/groups/831817450248984/about/" >}}
-  </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="WiCS (Women* in Computer Science)" href="https://ubcwics.com/" src="/files/wics.png" description="A strong community of women* in Computer Science at UBC." linktree="https://linktr.ee/UBCWiCS" facebook="https://www.facebook.com/ubcwics/" instagram="https://www.instagram.com/ubcwics/" blog="https://ubcwics.com/blog" >}}
-  </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="QueerCoded" href="https://queercoded.ca/" src="/files/queercoded.png" description="A safe and welcoming student-run group for the LGTQ2SIA+ community who are interested in CS at UBC."  facebook="https://www.facebook.com/qcubc/" instagram="https://www.instagram.com/qcubc/" discord="https://discord.com/invite/MVPUEPQcQH" >}}
-  </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="NWPlus" href="https://nwplus.io/" src="/files/nwplus.jpg" description="A student-led club supporting aspiring programmers and designers, based out of UBC." facebook="https://www.facebook.com/nwplusubc" instagram="https://www.instagram.com/nwplusubc" blog="https://medium.com/nwplusubc" linktree="https://linktr.ee/nwplusubc" >}}
-  </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="UBC Game Dev" href="https://www.ubcgamedev.com/" src="/files/ubcgamedev.png" description="A student run video game development club aiming to give students a hands-on approach in making video games." discord="https://discord.gg/n5Eu67Z3JR" facebook="https://www.facebook.com/ubcgamedev/" instagram="https://www.instagram.com/ubcgamedev/?hl=en" >}}
-  </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="WiDS (Women in Data Science)" href="https://linktr.ee/widsubc" src="/files/wids.png" description="WiDS is a student led initiative that aims to empower, inspire, and connect women in data science." discord="https://discord.gg/4jY6tjySxn" instagram="https://instagram.com/widsubc" facebook="https://www.facebook.com/widsubc/" >}}
-  </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="UBC ML Research Club" href="https://linktr.ee/ubc_mlr" src="/files/mlr.png" description="UBC’s first student-Led professor-instructed Machine Learning research team. An initiative focused on developing ML and research skills in small groups on research projects." instagram="https://www.instagram.com/ubc_mlr" >}}
-  </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="UBC Quantum Club" href="https://www.ubcquantum.com" src="/files/quantumclub.png" description="UBC Quantum Club provides members with high-quality introduction, training, and exposure to the quantum computing industry and research." discord="https://discord.gg/m8Z2Jwss9m" instagram="https://www.instagram.com/ubcquantum" facebook="https://www.facebook.com/ubcquantum">}}
-  </div>
-  <div class="col-lg-6 col-xl-4 mb-4 d-flex align-items-stretch">
-    {{< club title="UBC Startups" href="https://ubcstartups.com" src="/files/startupsclub.svg" description="A platform dedicated to supporting and fostering entrepreneurship within the UBC community." discord="https://discord.gg/6HEmMc2mCh" instagram="https://www.instagram.com/ubcstartups">}}
-  </div>
-</div>
-
-Know another club that would like to be listed? Please open an issue on the [ubccsss/ubccsss.org](https://github.com/ubccsss/ubccsss.org/issues/new) GitHub repo, or reach out via the [suggestions box](https://ubccsss.org/contact/suggestions-box/).
-
-## Engineering Design Teams
-
-Many engineering design teams accept computer science students, and need software engineers. A list of all engineering design teams can be found <a href="https://teams.engineering.ubc.ca/the-teams/">here</a>.
-
-## Club Events Calendar
-
-This calendar shows a selection of events from CSSS partner clubs and the CS department. If you're a club executive and would like your event added to this calendar, please contact us through the [suggestions box](https://ubccsss.org/contact/suggestions-box/).
-
-{{< club-calendar "https://ubccsss.org/events/index.ics" "https://calendar.google.com/calendar/ical/1e1ce102f2951b154df282dc66ea69722b37b41a8956d88361befe9ceb9e8080%40group.calendar.google.com/public/basic.ics">}}
-
-{{< popovers >}}
-
-<style>
-.card{
-	border-radius: 4px;
-	background: #fff;
-	box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
-	transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
-	cursor: pointer;
-}
-
-.card:hover{
-	transform: scale(1.05);
-	box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
-}
-
-.btn-fancy {
-  color: #0d6efd;
-  background-color: white;
-  border: 2px solid #0d6efd;
-  box-shadow: 6px 6px 0 #0d6efd;
-  font-weight: bold;
-}
-
-.btn-fancy:hover {
-  color: #0a58ca;
-  background-color: white;
-  border: 2px solid #0a58ca;
-  box-shadow: 6px 6px 0 #0a58ca;
-  font-weight: bold;
-}
-</style>
