@@ -62,7 +62,7 @@ description: Partner with the UBC Computer Science Student Society — pricing a
   <svg class="sp-cube sp-cube--b" width="100" height="117" viewBox="0 0 120 140" style="bottom:120px;right:-24px;transform:rotate(18deg)"><use href="#sp-cube"/></svg>
   <div class="sp-wrap">
     <h2 class="sp-h2">Become a Sponsor!</h2>
-    <p class="sp-sub">If you'd like to partner with us, fill out the form below to request our sponsorship prospectus and media kit. Everything — event formats, pricing, and what's on offer — is in the <a href="/files/sponsor/UBC_CSSS_2026-27_Sponsorship_Package.pdf" target="_blank" rel="noopener">2026–27 sponsorship package (PDF)</a>. Our VP External will get back to you as soon as possible.</p>
+    <p class="sp-sub">If you'd like to partner with us, please fill out the form below to discuss furthur!</a>. Our VP External will get back to you as soon as possible.</p>
     <form class="sp-form" id="sp-enquiry" novalidate="novalidate">
       <div class="sp-form-field">
         <label for="sp-name">Full name</label>
