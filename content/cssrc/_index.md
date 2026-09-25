@@ -144,7 +144,7 @@ sponsors:
         imageLink: /files/cssrc/2026/sponsors/google_deepmind.svg
         siteLink: https://deepmind.google/research/
       - name: Mundo AI
-        imageLink: /files/cssrc/2026/sponsors/mundo.png
+        imageLink: /files/cssrc/2026/sponsors/mundo.svg
         siteLink: https://mundoai.world/
   - tier: Silver
     colour: "#9e9e9e"

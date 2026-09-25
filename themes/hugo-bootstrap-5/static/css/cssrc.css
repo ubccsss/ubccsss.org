@@ -383,7 +383,7 @@ footer .copyright a:hover {
   text-align: center;
 }
 .cssrc-sponsors-inner {
-  max-width: 760px;
+  max-width: 640px;
   margin: 0 auto;
 }
 .cssrc-sponsor-tier {
@@ -413,8 +413,8 @@ footer .copyright a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: min(100%, 350px);
-  height: 180px;
+  width: min(100%, 300px);
+  height: 150px;
   padding: 1rem;
   border: 1px solid var(--cloudy-blue);
   border-radius: 12px;
@@ -429,8 +429,27 @@ footer .copyright a:hover {
 .cssrc-sponsor-card img {
   display: block;
   max-width: 100%;
-  max-height: 150px;
+  max-height: 125px;
   object-fit: contain;
+}
+
+@media only screen and (max-width: 480px) {
+  .cssrc-sponsors {
+    padding: 2rem 1rem 0;
+  }
+  .cssrc-sponsor-tier {
+    margin-top: 1.25rem;
+  }
+  .cssrc-sponsor-logos {
+    gap: 0.75rem;
+  }
+  .cssrc-sponsor-card {
+    width: min(100%, 280px);
+    height: 130px;
+  }
+  .cssrc-sponsor-card img {
+    max-height: 110px;
+  }
 }
 
 /* Content */
