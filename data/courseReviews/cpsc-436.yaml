@@ -1,4 +1,14 @@
 reviews:
+  - author: epic_hacker
+    authorLink: 
+    date: 2026-05-03
+    review: |
+      CPSC 436S is a must take course if you are curious about cybersecurity and found 213/313 interesting! This course with Mike Feeley was my favourite course at UBC. The course introduces cybersecurity concepts such as cryptography, web security, and binary exploitation. The assignments and in-class exercises are all CTF-style where you build-on what you learn in class to solve little cybersecurity challenges which I personally found to be very fun.
+      
+      Mike is a very effective instructor. His delivery of the material was engaging since he would tie cybersecurity concepts to real attacks as well as his personal lived experiences. Attending this course was the highlight of my semester.
+    difficulty: 3.5
+    quality: 5
+    sessionTaken: 2025W2
   - author: heehee
     authorLink:
     date: 2026-02-04

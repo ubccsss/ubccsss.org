@@ -3,7 +3,6 @@ title: Sponsorship
 layout: sponsorship
 description: Partner with the UBC Computer Science Student Society — pricing and packages are in the 2026–27 sponsorship document.
 ---
-
 <div class="sp-shell">
 <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
   <symbol id="sp-cube" viewBox="0 0 120 140">

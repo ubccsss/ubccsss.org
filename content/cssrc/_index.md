@@ -136,4 +136,20 @@ importantDates:
     date: October 23, 2026
   - submission: Conference Day
     date: November 6, 2026
+sponsors:
+  - tier: Gold
+    colour: "#cb9726"
+    orgs:
+      - name: Google DeepMind
+        imageLink: /files/cssrc/2026/sponsors/google_deepmind.svg
+        siteLink: https://deepmind.google/research/
+      - name: Mundo AI
+        imageLink: /files/cssrc/2026/sponsors/mundo.svg
+        siteLink: https://mundoai.world/
+  - tier: Silver
+    colour: "#9e9e9e"
+    orgs:
+      - name: Amii
+        imageLink: /files/cssrc/2026/sponsors/amii.png
+        siteLink: https://www.amii.ca/
 ---
