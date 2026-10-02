@@ -75,6 +75,37 @@
       </div>
     </section>
 
+    <section
+      class="cssrc-sponsors"
+      id="sponsors"
+      aria-labelledby="sponsors-heading">
+      <div class="cssrc-sponsors-inner">
+        <h2 id="sponsors-heading">Supported By</h2>
+        {{ range .Params.sponsors }}
+          <div
+            class="cssrc-sponsor-tier"
+            style="--sponsor-tier-colour: {{ .colour }};">
+            <h3>{{ .tier }} Sponsors</h3>
+            <div class="cssrc-sponsor-logos">
+              {{ range .orgs }}
+                <a
+                  class="cssrc-sponsor-card"
+                  href="{{ .siteLink }}"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Visit {{ .name }}">
+                  <img
+                    src="{{ .imageLink }}"
+                    alt="{{ .name }}"
+                    loading="lazy" />
+                </a>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </section>
+
     <section class="col-xs col-sm-9 mx-auto pt-5 pb-3" id="updates">
       <h2 class="text-center mb-4">Updates</h2>
       <div class="update-list mx-auto">

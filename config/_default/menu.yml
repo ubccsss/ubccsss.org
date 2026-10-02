@@ -4,9 +4,13 @@ main:
     url: /about/
     weight: -140
   - identifier: partners
-    name: Partners
+    name: Sponsorship
     url: /about/partners/
     weight: -130
+  - identifier: affiliates
+    name: Affiliates
+    url: /about/affiliates/
+    weight: -129
   - identifier: cube
     name: The Cube
     url: /cube/
