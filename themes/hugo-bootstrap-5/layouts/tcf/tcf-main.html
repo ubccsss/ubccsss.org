@@ -91,13 +91,13 @@
               <a class="nav-link" href="#companies">Companies</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#prep">Student Prep</a>
+              <a class="nav-link" href="#prep">Student Resources</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#event-info">Event Map</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#partners">Partners</a>
+              <a class="nav-link" href="#partners">Hosts</a>
             </li>
             <li class="nav-item"><a class="nav-link" href="#faq">FAQ</a></li>
             <li class="nav-item">
@@ -113,7 +113,7 @@
       style="{{ printf "background-image: url('%s');" (.Params.heroImage | default "/files/tcf2024-1.jpg") | safeCSS }}">
       <div class="tcf-hero__overlay">
         <div class="tcf-hero__main">
-          <p class="tcf-eyebrow">UBC CSSS presents</p>
+          <p class="tcf-eyebrow">UBC presents</p>
           <h1 class="tcf-hero__title">
             Technical Career Fair <span class="tcf-hero__year">2027</span>
           </h1>
@@ -215,7 +215,7 @@
 
     <section class="tcf-band" id="companies">
       <div class="container tcf-section">
-        <h2 class="tcf-heading text-center mb-0">Last Year's Attendees</h2>
+        <h2 class="tcf-heading text-center mb-0">Attendees</h2>
         {{ with $registration }}
           <div class="tcf-callout mt-4">
             <i class="bi-megaphone tcf-callout__icon" aria-hidden="true"></i>
@@ -472,8 +472,21 @@
 
     <section class="tcf-band" id="partners">
       <div class="container tcf-section">
-        <h2 class="tcf-heading text-center">Partners</h2>
+        <h2 class="tcf-heading text-center">Hosts</h2>
         <div class="row g-4 justify-content-center pt-3">
+          <div class="col-lg-3 col-md-6">
+            <div class="tcf-partner" title="UBC CSSS">
+              <img
+                class="tcf-partner__logo"
+                src="/logo.svg"
+                alt="UBC CSSS logo"
+                width="348"
+                height="196" />
+              <a class="stretched-link" href="/"
+                >Computer Science Student Society</a
+              >
+            </div>
+          </div>
           <div class="col-lg-3 col-md-6">
             <div class="tcf-partner" title="UBC WiCS">
               <img

@@ -7,7 +7,6 @@ layout: tcf-main
 heroImage: /files/tcf2024-1.jpg
 # Photos for the autoscrolling carousel in the Welcome section.
 welcomePhotos:
-  - /files/tcf2024-1.jpg
   - /files/tcf2024-2.jpg
   - /files/tcf2024-3.jpg
   - /files/tcf2024-4.jpg

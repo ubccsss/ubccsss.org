@@ -6,7 +6,7 @@
   --tcf-periwinkle: #b0c5f1;
   --tcf-lilac: #dbbbe8;
   --tcf-mist: #eed1ff;
-  --tcf-lavender: #c1a8f0;
+  --tcf-lavender: #d8c4ff;
   --tcf-ink: #1b2340;
   --tcf-gradient: linear-gradient(90deg, #02306e 0%, #c1a8f0 100%);
   --tcf-band: linear-gradient(135deg, #02306e 0%, #3c497d 100%);
@@ -574,8 +574,14 @@ html {
 .tcf-partner img {
   width: 100%;
   height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
   display: block;
 }
+.tcf-partner img.tcf-partner__logo {
+  padding: 8%;
+}
+
 .tcf-partner a {
   display: block;
   padding: 1rem;
