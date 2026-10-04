@@ -16,7 +16,7 @@ description: Partner with the UBC Computer Science Student Society — pricing a
   <div class="sp-hero-inner">
     <p class="sp-label">UBC CSSS · Sponsorship · 2026–27</p>
     <h1>Sponsorship</h1>
-    <a class="sp-btn sp-btn-solid" href="/files/sponsor/UBC_CSSS_2026-27_Sponsorship_Package.pdf" target="_blank" rel="noopener">2026–27 package (PDF)</a>
+    <a class="sp-btn sp-btn-solid" href="#contact">Request the package</a>
   </div>
   <svg class="sp-hero-art" width="120" height="140" viewBox="0 0 120 140" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use href="#sp-cube"/></svg>
   <svg class="sp-hero-art2" width="86" height="101" viewBox="0 0 120 140" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use href="#sp-cube"/></svg>
@@ -43,16 +43,14 @@ description: Partner with the UBC Computer Science Student Society — pricing a
       <p class="sp-tier-note">Companies CSSS has partnered with in past years</p>
       <div class="sp-logos">
         <span class="sp-logo" title="Amazon"><img src="/files/sponsors/amazon.png" alt="Amazon" loading="lazy" /></span>
+        <span class="sp-logo sp-logo--tall" title="Apple"><img src="/files/sponsors/apple.png" alt="Apple" loading="lazy" /></span>
+        <span class="sp-logo" title="Arc'teryx"><img src="/files/sponsors/arcteryx.png" alt="Arc'teryx" loading="lazy" /></span>
         <span class="sp-logo" title="Atlassian"><img src="/files/sponsors/atlassian.png" alt="Atlassian" loading="lazy" /></span>
-        <span class="sp-logo" title="Aviatrix"><img src="/files/sponsors/aviatrix.png" alt="Aviatrix" loading="lazy" /></span>
-        <span class="sp-logo" title="BGC Engineering"><img src="/files/sponsors/bgc.png" alt="BGC Engineering" loading="lazy" /></span>
-        <span class="sp-logo" title="Bit Quill"><img src="/files/sponsors/bit-quill.png" alt="Bit Quill" loading="lazy" /></span>
-        <span class="sp-logo" title="FDM Group"><img src="/files/sponsors/fdm.png" alt="FDM Group" loading="lazy" /></span>
+        <span class="sp-logo" title="Electronic Arts"><img src="/files/sponsors/ea.png" alt="Electronic Arts" loading="lazy" /></span>
         <span class="sp-logo" title="Google"><img src="/files/sponsors/google.png" alt="Google" loading="lazy" /></span>
-        <span class="sp-logo" title="NetApp"><img src="/files/sponsors/netapp.png" alt="NetApp" loading="lazy" /></span>
-        <span class="sp-logo" title="Rogers"><img src="/files/sponsors/rogers.png" alt="Rogers" loading="lazy" /></span>
-        <span class="sp-logo" title="Teck Resources"><img src="/files/sponsors/teck.png" alt="Teck Resources" loading="lazy" /></span>
-        <span class="sp-logo" title="Visier"><img src="/files/sponsors/visier.png" alt="Visier" loading="lazy" /></span>
+        <span class="sp-logo" title="Meta"><img src="/files/sponsors/meta.png" alt="Meta" loading="lazy" /></span>
+        <span class="sp-logo" title="Microsoft"><img src="/files/sponsors/microsoft.png" alt="Microsoft" loading="lazy" /></span>
+        <span class="sp-logo" title="TELUS"><img src="/files/sponsors/telus.png" alt="TELUS" loading="lazy" /></span>
       </div>
     </div>
   </div>
@@ -62,7 +60,7 @@ description: Partner with the UBC Computer Science Student Society — pricing a
   <svg class="sp-cube sp-cube--b" width="100" height="117" viewBox="0 0 120 140" style="bottom:120px;right:-24px;transform:rotate(18deg)"><use href="#sp-cube"/></svg>
   <div class="sp-wrap">
     <h2 class="sp-h2">Become a Sponsor!</h2>
-    <p class="sp-sub">If you'd like to partner with us, please fill out the form below to discuss further!</a> Our VP External will get back to you as soon as possible.</p>
+    <p class="sp-sub">If you'd like to partner with us, please fill out the form below to discuss further! Our VP External will get back to you as soon as possible.</p>
     <form class="sp-form" id="sp-enquiry" novalidate="novalidate">
       <div class="sp-form-field">
         <label for="sp-name">Full name</label>
