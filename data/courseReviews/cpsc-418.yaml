@@ -1,4 +1,15 @@
 reviews:
+  - author: anonymous horse
+    authorLink: 
+    date: 2026-04-11
+    review: |
+      This is a pretty important course, and the content is pretty useful, but it is HORRIBLY executed by Mark Greenstreet and Susanne Bradley. 
+      1. Mark makes a lot of mistakes when he releases homeworks and exams. And that leads to a lot of confusion every time homeworks are released. There was one time where he included a whole question about an algorithm that he did not teach in class, but was taught in a previous year, so he copy pasted the entire lecture into a piazza comment and we had to reference that to answer the homework question.
+      2. His slides are extremely long and redundant. What could be explained in 1 slide would be blown up to 5-20 slides, filled mostly of content-irelevant ramblings. 
+      3. Susanne and Mark are not coordinated at all, and Susanne would frequently go off track from the slides Mark creates.
+    difficulty: 3
+    quality: 1
+    sessionTaken: 2025W2
   - author: s
     authorLink: 
     date: 2024-04-29
