@@ -1,4 +1,12 @@
 reviews:
+  - author: Anonymous CPSC 411 Student
+    authorLink: 
+    date: 2026-04-24
+    review: |
+      You build a real compiler that’s about as fast as GCC at O1. The prof is also the GOAT.
+    difficulty: 1
+    quality: 5
+    sessionTaken: 2025W2
   - author: /u/vaastav05
     authorLink: https://www.reddit.com/r/UBC/comments/bsasu1/comp_sci_courses_at_ubc/eom20bx
     date: 2019-05-23
