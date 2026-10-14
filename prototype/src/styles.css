@@ -1,0 +1,319 @@
+/* CSSS design-ideas prototype
+   Palette + type follow the CSSS branding guide:
+   navy #061D80 · blue #3A76DB · sky #B1D4FF · ink #1C2333 · paper #EEF3FC
+   Montserrat for display/labels, Poppins for body. Metadata uses a system
+   monospace stack so no third webfont is loaded. */
+
+:root {
+  --navy: #061d80;
+  --blue: #3a76db;
+  --sky: #b1d4ff;
+  --ink: #1c2333;
+  --paper: #eef3fc;
+  --hair: rgba(6, 29, 128, 0.16);
+  --muted: rgba(28, 35, 51, 0.6);
+  --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  --strip-h: 36px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Poppins", system-ui, sans-serif;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+}
+
+.page { padding-top: var(--strip-h); }
+
+/* ---------- 1. live term strip ---------- */
+.strip {
+  position: fixed;
+  inset: 0 0 auto 0;
+  z-index: 20;
+  height: var(--strip-h);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 0 20px;
+  background: var(--navy);
+  color: var(--sky);
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.strip-left { flex: 0 0 auto; font-weight: 600; color: #fff; }
+.strip-mid { flex: 0 1 auto; overflow: hidden; text-overflow: ellipsis; }
+.strip-right { flex: 0 0 auto; display: flex; align-items: center; gap: 10px; }
+.strip-clock { color: #fff; font-variant-numeric: tabular-nums; }
+.strip-next { color: var(--sky); }
+.dot { opacity: 0.45; }
+
+/* ---------- 2. spec-sheet masthead ---------- */
+.masthead {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 46px 28px 0;
+}
+
+.glyphs {
+  display: flex;
+  align-items: stretch;
+  gap: 26px;
+}
+
+.glyph {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: clamp(4rem, 15.5vw, 12rem);
+  line-height: 0.76;
+  letter-spacing: -0.045em;
+  color: var(--navy);
+  user-select: none;
+}
+
+.meta {
+  flex: 1 1 auto;
+  min-width: 0;
+  align-self: center;
+  border-top: 1px solid var(--hair);
+}
+
+.meta-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 9px 2px;
+  border-bottom: 1px solid var(--hair);
+}
+
+.meta-row .k,
+.meta-row .v {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+}
+
+.meta-row .k { color: var(--muted); }
+.meta-row .v { color: var(--navy); font-weight: 600; white-space: nowrap; }
+
+/* filter chips */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 26px 0 0;
+}
+
+.chip {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 10.5px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--navy);
+  background: transparent;
+  border: 1px solid var(--hair);
+  padding: 9px 16px;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.chip:hover { border-color: var(--blue); color: var(--blue); }
+.chip--on { background: var(--navy); color: #fff; border-color: var(--navy); }
+
+/* ---------- 3. numbered index ---------- */
+.index {
+  max-width: 1180px;
+  margin: 30px auto 0;
+  padding: 0 28px 8px;
+  border-top: 3px solid var(--navy);
+}
+
+.entry { border-bottom: 1px solid var(--hair); }
+
+.row {
+  width: 100%;
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+  padding: 19px 16px;
+  margin: 0;
+  background: transparent;
+  border: 0;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: background 0.16s ease, color 0.16s ease;
+}
+
+.num,
+.lvl {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  flex: 0 0 auto;
+}
+
+.num { width: 26px; }
+.lvl { width: 34px; text-align: right; }
+
+.code {
+  flex: 0 0 auto;
+  width: 108px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  font-size: 0.95rem;
+  letter-spacing: 0.01em;
+  color: var(--navy);
+}
+
+.title {
+  flex: 0 1 auto;
+  font-size: 1rem;
+  line-height: 1.35;
+  color: var(--ink);
+}
+
+.leader {
+  flex: 1 1 40px;
+  min-width: 24px;
+  border-bottom: 1px dotted currentColor;
+  opacity: 0.3;
+  transform: translateY(-5px);
+}
+
+/* inverted, expanding row */
+.entry--open .row,
+.row:hover { background: var(--navy); color: #fff; }
+/* .title/.code set their own colour, so they must be re-coloured explicitly */
+.entry--open .title,
+.row:hover .title { color: #fff; }
+.entry--open .code,
+.row:hover .code { color: var(--sky); }
+.entry--open .num,
+.entry--open .lvl,
+.row:hover .num,
+.row:hover .lvl { color: rgba(255, 255, 255, 0.55); }
+.entry--open .leader,
+.row:hover .leader { opacity: 0.4; }
+
+.desc {
+  background: var(--navy);
+  color: #d7e4ff;
+  font-size: 0.96rem;
+  line-height: 1.75;
+  padding: 0 16px 26px 170px;
+  max-width: 92ch;
+  border-top: 1px solid rgba(177, 212, 255, 0.28);
+  padding-top: 20px;
+}
+
+/* ---------- 4. announcement ticker ---------- */
+.ticker {
+  margin-top: 54px;
+  background: var(--navy);
+  color: var(--sky);
+  height: 46px;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.ticker-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 42s linear infinite;
+}
+
+.ticker-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 0 30px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 10.5px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.cube {
+  width: 11px;
+  height: 11px;
+  flex: 0 0 auto;
+  transform: rotate(45deg);
+  background: linear-gradient(135deg, var(--sky) 0 50%, var(--blue) 50% 100%);
+}
+
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ticker-track { animation: none; }
+  html { scroll-behavior: auto; }
+}
+
+/* ---------- footer ---------- */
+.foot {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 34px 28px 70px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 26px;
+  justify-content: space-between;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.foot code {
+  font-family: var(--mono);
+  text-transform: none;
+  letter-spacing: 0;
+  color: var(--navy);
+}
+
+.foot-note { text-transform: none; letter-spacing: 0.02em; max-width: 62ch; line-height: 1.7; }
+
+/* ---------- responsive ---------- */
+@media (max-width: 900px) {
+  .strip-mid { display: none; }
+  .glyphs { flex-wrap: wrap; gap: 14px; }
+  .glyph { font-size: clamp(3.4rem, 20vw, 6rem); }
+  .meta { order: 3; flex-basis: 100%; }
+  .desc { padding-left: 16px; }
+}
+
+@media (max-width: 620px) {
+  .masthead, .index, .foot { padding-left: 18px; padding-right: 18px; }
+  .strip { font-size: 9.5px; padding: 0 12px; }
+  .strip-next { display: none; }
+  .row { flex-wrap: wrap; gap: 6px 12px; padding: 16px 10px; }
+  .code { width: auto; order: 2; }
+  .num { order: 1; }
+  .title { flex-basis: 100%; order: 3; }
+  .leader { display: none; }
+  .lvl { order: 4; width: auto; }
+  .ticker-item { padding: 0 18px; font-size: 9.5px; letter-spacing: 0.14em; }
+}

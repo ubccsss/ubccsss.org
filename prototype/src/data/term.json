@@ -1,0 +1,11 @@
+{
+  "_note": "PLACEHOLDER VALUES. The repository's event calendar has no future entries, so the 'next event' line is a stand-in. Swap these for the real UBC term dates and a live events feed before this is ported into Hugo.",
+  "session": "2026–27",
+  "term": "Winter Term 1",
+  "termStart": "2026-09-08",
+  "termEnd": "2026-12-04",
+  "nextEvent": {
+    "title": "TCF — UBC Technical Career Fair",
+    "date": "2026-10-16"
+  }
+}

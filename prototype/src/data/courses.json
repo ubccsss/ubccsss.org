@@ -1,0 +1,632 @@
+[
+ {
+  "code": "CPSC 100",
+  "dept": "CPSC",
+  "num": 100,
+  "level": 100,
+  "slug": "cpsc-100",
+  "title": "Computational Thinking",
+  "description": "Meaning and impact of computational thinking. Solving problems using computational thinking, testing, debugging. How computers work. No prior computing experience required. Not for students with existing credit for or exemption from CPSC 107, CPSC 110 or APSC 160."
+ },
+ {
+  "code": "CPSC 103",
+  "dept": "CPSC",
+  "num": 103,
+  "level": 100,
+  "slug": "cpsc-103",
+  "title": "Introduction to Systematic Program Design",
+  "description": "Computation as a tool for systematic problem solving in non-computer-science disciplines. Introductory programming skills. Not for credit for students who have credit for, or exemption from, or are concurrently taking CPSC 110 or APSC 160. No programming experience expected."
+ },
+ {
+  "code": "CPSC 107",
+  "dept": "CPSC",
+  "num": 107,
+  "level": 100,
+  "slug": "cpsc-107",
+  "title": "Systematic Program Design",
+  "description": "Fundamental computation and program structures. Continuing systematic program design from CPSC 103."
+ },
+ {
+  "code": "CPSC 110",
+  "dept": "CPSC",
+  "num": 110,
+  "level": 100,
+  "slug": "cpsc-110",
+  "title": "Computation, Programs, and Programming",
+  "description": "Fundamental program and computation structures. Introductory programming skills. Computation as a tool for information processing, simulation and modelling, and interacting with the world."
+ },
+ {
+  "code": "CPSC 121",
+  "dept": "CPSC",
+  "num": 121,
+  "level": 100,
+  "slug": "cpsc-121",
+  "title": "Models of Computation",
+  "description": "Physical and mathematical structures of computation. Boolean algebra and combinations logic circuits; proof techniques; functions and sequential circuits; sets and relations; finite state machines; sequential instruction execution."
+ },
+ {
+  "code": "CPSC 203",
+  "dept": "CPSC",
+  "num": 203,
+  "level": 200,
+  "slug": "cpsc-203",
+  "title": "Programming, Problem Solving, and Algorithms",
+  "description": "Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221."
+ },
+ {
+  "code": "CPSC 210",
+  "dept": "CPSC",
+  "num": 210,
+  "level": 200,
+  "slug": "cpsc-210",
+  "title": "Software Construction",
+  "description": "Design, development, and analysis of robust software components. Topics such as software design, computational models, data structures, debugging, and testing."
+ },
+ {
+  "code": "CPSC 213",
+  "dept": "CPSC",
+  "num": 213,
+  "level": 200,
+  "slug": "cpsc-213",
+  "title": "Introduction to Computer Systems",
+  "description": "Software architecture, operating systems, and I/O architectures. Relationships between application software, operating systems, and computing hardware; critical sections, deadlock avoidance, and performance; principles and operation of disks and networks."
+ },
+ {
+  "code": "CPSC 221",
+  "dept": "CPSC",
+  "num": 221,
+  "level": 200,
+  "slug": "cpsc-221",
+  "title": "Basic Algorithms and Data Structures",
+  "description": "Design and analysis of basic algorithms and data structures; algorithm analysis methods, searching and sorting algorithms, basic data structures, graphs and concurrency."
+ },
+ {
+  "code": "CPSC 259",
+  "dept": "CPSC",
+  "num": 259,
+  "level": 200,
+  "slug": "cpsc-259",
+  "title": "Data Structures and Algorithms for Electrical Engineers",
+  "description": "Advanced procedural programming. Fundamental algorithms for sorting and searching. Data structures including lists, trees, and hash tables. Introduction to scripting languages and file input/output."
+ },
+ {
+  "code": "CPSC 298",
+  "dept": "CPSC",
+  "num": 298,
+  "level": 200,
+  "slug": "cpsc-298",
+  "title": "Co-operative Work Placement I (CS Co-ops)",
+  "description": "Approved and supervised technical work experience in the computing industry for a minimum of 3.5 months. Normally taken during Winter Session of second year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Computer Science."
+ },
+ {
+  "code": "CPSC 302",
+  "dept": "CPSC",
+  "num": 302,
+  "level": 300,
+  "slug": "cpsc-302",
+  "title": "Numerical Computation for Algebraic Problems",
+  "description": "Numerical techniques for basic mathematical processes involving no discretization, and their analysis. Solution of linear systems, including analysis of round-off errors; norms and condition number; introduction to iterative techniques in linear algebra, including eigenvalue problems; solution to nonlinear equations."
+ },
+ {
+  "code": "CPSC 303",
+  "dept": "CPSC",
+  "num": 303,
+  "level": 300,
+  "slug": "cpsc-303",
+  "title": "Numerical Approximation and Discretization",
+  "description": "Numerical techniques for basic mathematical processes involving discretization, and their analysis. Interpolation and approximation, including splines and least squares data fitting; numerical differentiation and integration; introduction to numerical initial value ordinary differential equations."
+ },
+ {
+  "code": "CPSC 304",
+  "dept": "CPSC",
+  "num": 304,
+  "level": 300,
+  "slug": "cpsc-304",
+  "title": "Introduction to Relational Databases",
+  "description": "Overview of database systems, ER models, logical database design and normalization, formal relational query languages, SQL and other commercial languages,data warehouses, special topics."
+ },
+ {
+  "code": "CPSC 310",
+  "dept": "CPSC",
+  "num": 310,
+  "level": 300,
+  "slug": "cpsc-310",
+  "title": "Introduction to Software Engineering",
+  "description": "Specification, design, validation, evolution and construction of modern software systems, within the context of socially and professionally relevant domains such as ethics, intellectual property, and information security."
+ },
+ {
+  "code": "CPSC 311",
+  "dept": "CPSC",
+  "num": 311,
+  "level": 300,
+  "slug": "cpsc-311",
+  "title": "Definition of Programming Languages",
+  "description": "Comparative study of advanced programming language features. Statement types, data types, variable binding, parameter passing mechanisms. Methods for syntactic and semantic description of programming languages."
+ },
+ {
+  "code": "CPSC 312",
+  "dept": "CPSC",
+  "num": 312,
+  "level": 300,
+  "slug": "cpsc-312",
+  "title": "Functional and Logic Programming",
+  "description": "Principles of symbolic computing, using languages based upon first-order logic and the lambda calculus. Algorithms for implementing such languages. Applications to artificial intelligence and knowledge representation."
+ },
+ {
+  "code": "CPSC 313",
+  "dept": "CPSC",
+  "num": 313,
+  "level": 300,
+  "slug": "cpsc-313",
+  "title": "Computer Hardware and Operating Systems",
+  "description": "Instruction sets, pipelining, code optimization, caching, virtual memory management, dynamically linked libraries, exception processing, execution time of programs."
+ },
+ {
+  "code": "CPSC 314",
+  "dept": "CPSC",
+  "num": 314,
+  "level": 300,
+  "slug": "cpsc-314",
+  "title": "Computer Graphics",
+  "description": "Human vision and colour; geometric transformations; algorithms for 2-D and 3-D graphics; hardware and system architectures; shading and lighting; animation."
+ },
+ {
+  "code": "CPSC 317",
+  "dept": "CPSC",
+  "num": 317,
+  "level": 300,
+  "slug": "cpsc-317",
+  "title": "Internet Computing",
+  "description": "Computer networking, basic communication protocols, network infrastructure and routing. Common application-level protocols and principles associated with developing distributed applications."
+ },
+ {
+  "code": "CPSC 319",
+  "dept": "CPSC",
+  "num": 319,
+  "level": 300,
+  "slug": "cpsc-319",
+  "title": "Software Engineering Project",
+  "description": "The design, implementation, and test of a large software system, using a team approach."
+ },
+ {
+  "code": "CPSC 320",
+  "dept": "CPSC",
+  "num": 320,
+  "level": 300,
+  "slug": "cpsc-320",
+  "title": "Intermediate Algorithm Design and Analysis",
+  "description": "Systematic study of basic concepts and techniques in the design and analysis of algorithms, illustrated from various problem areas. Topics include: models of computation; choice of data structures; graph-theoretic, algebraic, and text processing algorithms."
+ },
+ {
+  "code": "CPSC 322",
+  "dept": "CPSC",
+  "num": 322,
+  "level": 300,
+  "slug": "cpsc-322",
+  "title": "Introduction to Artificial Intelligence",
+  "description": "Problem-solving and planning; state/action models and graph searching. Natural language understanding Computational vision. Applications of artificial intelligence."
+ },
+ {
+  "code": "CPSC 330",
+  "dept": "CPSC",
+  "num": 330,
+  "level": 300,
+  "slug": "cpsc-330",
+  "title": "Applied Machine Learning",
+  "description": "Application of machine learning tools, with an emphasis on solving practical problems. Data cleaning, feature extraction, supervised and unsupervised machine learning, reproducible workflows, and communicating results."
+ },
+ {
+  "code": "CPSC 340",
+  "dept": "CPSC",
+  "num": 340,
+  "level": 300,
+  "slug": "cpsc-340",
+  "title": "Machine Learning and Data Mining",
+  "description": "Models of algorithms for dimensionality reduction, nonlinear regression, classification, clustering and unsupervised learning; applications to computer graphics, computer games, bio-informatics, information retrieval, e-commerce, databases, computer vision and artificial intelligence."
+ },
+ {
+  "code": "CPSC 344",
+  "dept": "CPSC",
+  "num": 344,
+  "level": 300,
+  "slug": "cpsc-344",
+  "title": "Introduction to Human Computer Interaction Methods",
+  "description": "Basic tools and techniques, teaching a systematic approach to interface design, task analysis, analytic and empirical evaluation methods."
+ },
+ {
+  "code": "CPSC 349",
+  "dept": "CPSC",
+  "num": 349,
+  "level": 300,
+  "slug": "cpsc-349",
+  "title": "Honours Research Seminar",
+  "description": "Students will attend a series of research seminars presented by faculty members, produce a thesis proposal, and choose their honours thesis supervisor. Available to Honours students. Majors students with satisfactory standing may also be permitted to enrol."
+ },
+ {
+  "code": "CPSC 368",
+  "dept": "CPSC",
+  "num": 368,
+  "level": 300,
+  "slug": "cpsc-368",
+  "title": "Databases in Data Science",
+  "description": "Overview of relational and non-relational database systems, role and usage of a database when querying data, data modelling, query languages, and query optimization."
+ },
+ {
+  "code": "CPSC 404",
+  "dept": "CPSC",
+  "num": 404,
+  "level": 400,
+  "slug": "cpsc-404",
+  "title": "Advanced Relational Databases",
+  "description": "Physical database design, indexing, relational query processing and optimization, transaction processing, concurrency control, crash recovery, data warehouses, data cubes, views, special topics."
+ },
+ {
+  "code": "CPSC 406",
+  "dept": "CPSC",
+  "num": 406,
+  "level": 400,
+  "slug": "cpsc-406",
+  "title": "Computational Optimization",
+  "description": "Formulation and analysis of algorithms for continuous and discrete optimization problems; linear, nonlinear, network, dynamic, and integer optimization; large-scale problems; software packages and their implementation; duality theory and sensitivity."
+ },
+ {
+  "code": "CPSC 410",
+  "dept": "CPSC",
+  "num": 410,
+  "level": 400,
+  "slug": "cpsc-410",
+  "title": "Advanced Software Engineering",
+  "description": "Specification, design, construction and validation of multi-version software systems."
+ },
+ {
+  "code": "CPSC 411",
+  "dept": "CPSC",
+  "num": 411,
+  "level": 400,
+  "slug": "cpsc-411",
+  "title": "Introduction to Compiler Construction",
+  "description": "A practical introduction to lexical analysis, syntactic analysis, type-checking, code generation and optimization. This will be used to design and implement a compiler for a small language."
+ },
+ {
+  "code": "CPSC 415",
+  "dept": "CPSC",
+  "num": 415,
+  "level": 400,
+  "slug": "cpsc-415",
+  "title": "Advanced Operating Systems",
+  "description": "Process synchronization and communication schemes, including message-passing and concepts of monitor and serializer. Virtual memory systems management and the problem of information sharing in such systems. The working set principle. Traps and interrupt handling. Elementary queuing theory and its application such as process scheduling, system balancing and load control. File systems and operating system design methodologies."
+ },
+ {
+  "code": "CPSC 416",
+  "dept": "CPSC",
+  "num": 416,
+  "level": 400,
+  "slug": "cpsc-416",
+  "title": "Distributed Systems",
+  "description": "Concepts and design of distributed systems. Communication architecture and models for interprocess communication. Process migration, naming, distributed file systems, fault tolerance, and concurrency control."
+ },
+ {
+  "code": "CPSC 418",
+  "dept": "CPSC",
+  "num": 418,
+  "level": 400,
+  "slug": "cpsc-418",
+  "title": "Parallel Computation",
+  "description": "Algorithms, architectures, and programming paradigms for parallel computation. Shared memory, message passing, and data parallel architectures and programming models. Parallel algorithms including reduce, scan, and sorting networks. Reasoning about the correctness of parallel programs. Performance analysis and measurement for parallel programs."
+ },
+ {
+  "code": "CPSC 420",
+  "dept": "CPSC",
+  "num": 420,
+  "level": 400,
+  "slug": "cpsc-420",
+  "title": "Advanced Algorithms Design and Analysis",
+  "description": "The study of advanced topics in the design and analysis of algorithms and associated data structures. Topics include algorithms for graph-theoretic; algebraic and geometric problems; algorithms on nonsequential models; complexity issues; approximation algorithms."
+ },
+ {
+  "code": "CPSC 421",
+  "dept": "CPSC",
+  "num": 421,
+  "level": 400,
+  "slug": "cpsc-421",
+  "title": "Introduction to Theory of Computing",
+  "description": "Characterizations of computability (using machines, languages and functions). Universality, equivalence and Church's thesis. Unsolvable problems. Restricted models of computation. Finite automata, grammars and formal languages."
+ },
+ {
+  "code": "CPSC 422",
+  "dept": "CPSC",
+  "num": 422,
+  "level": 400,
+  "slug": "cpsc-422",
+  "title": "Intelligent Systems",
+  "description": "Principles and techniques underlying the design, implementation and evaluation of intelligent computational systems. Applications of artificial intelligence to natural language understanding, image understanding and computer-based expert and advisor systems. Advanced symbolic programming methodology."
+ },
+ {
+  "code": "CPSC 425",
+  "dept": "CPSC",
+  "num": 425,
+  "level": 400,
+  "slug": "cpsc-425",
+  "title": "Computer Vision",
+  "description": "Introduction to the processing and interpretation of images. Image sensing, sampling, and filtering. Algorithms for colour analysis, texture description, stereo imaging, motion interpretation, 3D shape recovery, and recognition."
+ },
+ {
+  "code": "CPSC 427",
+  "dept": "CPSC",
+  "num": 427,
+  "level": 400,
+  "slug": "cpsc-427",
+  "title": "Video Game Programming",
+  "description": "Video game programming techniques and technologies, including rendering, animation, interaction, game AI, real-time software development for games; start-to-finish simple video-game design and implementation."
+ },
+ {
+  "code": "CPSC 430",
+  "dept": "CPSC",
+  "num": 430,
+  "level": 400,
+  "slug": "cpsc-430",
+  "title": "Computers and Society",
+  "description": "Impact of computer technology on society; historical perspectives; social and economic consequences of large-scale information processing systems and automatic control; legal and ethical problems in computer applications. Computers and the individual: machine versus human capabilities, fact and fancy; problematic interface between man and machine."
+ },
+ {
+  "code": "CPSC 436",
+  "dept": "CPSC",
+  "num": 436,
+  "level": 400,
+  "slug": "cpsc-436",
+  "title": "Topics in Computer Science (All)",
+  "description": "Selected topics in a specific area within Computer Science. May be taken more than once for credit with permission of the department."
+ },
+ {
+  "code": "CPSC 440",
+  "dept": "CPSC",
+  "num": 440,
+  "level": 400,
+  "slug": "cpsc-440",
+  "title": "Advanced Machine Learning",
+  "description": "Advanced machine learning techniques focusing on probabilistic models. Deep learning and differentiable programming, exponential families and Bayesian inference, probabilistic graphical models and other generative models, Monte Carlo and variational inference methods."
+ },
+ {
+  "code": "CPSC 444",
+  "dept": "CPSC",
+  "num": 444,
+  "level": 400,
+  "slug": "cpsc-444",
+  "title": "Advanced Methods for Human Computer Interaction",
+  "description": "Design and evaluation methodologies and theories; formal models of the user including visual, motor, and information processing; advanced evaluation methods including laboratory experiments and field studies; HCI research frontiers."
+ },
+ {
+  "code": "CPSC 447",
+  "dept": "CPSC",
+  "num": 447,
+  "level": 400,
+  "slug": "cpsc-447",
+  "title": "Introduction to Visualization",
+  "description": "Design and implementation of static and interactive visualizations. Selection of appropriate visualization methods for given combinations of data type and intended analysis task. Assessment of visual representations according to design and perceptual principles."
+ },
+ {
+  "code": "CPSC 448",
+  "dept": "CPSC",
+  "num": 448,
+  "level": 400,
+  "slug": "cpsc-448",
+  "title": "Directed Studies in Computer Science (All)",
+  "description": "Open ordinarily to students in Computer Science with at least a 72% average and permission of the department. The course may consist of supervised reading, participation in a seminar, and one or more programming projects."
+ },
+ {
+  "code": "CPSC 449",
+  "dept": "CPSC",
+  "num": 449,
+  "level": 400,
+  "slug": "cpsc-449",
+  "title": "Honours Thesis",
+  "description": "Under supervision of a faculty member, students investigate a research topic and prepare a thesis."
+ },
+ {
+  "code": "CPSC 490",
+  "dept": "CPSC",
+  "num": 490,
+  "level": 400,
+  "slug": "cpsc-490",
+  "title": "Student Directed Seminars (All)",
+  "description": "Self-directed, collaborative studies, in a group-learning environment, initiated and coordinated by senior undergraduate students with the supervision of a faculty advisor. Course structure, enrolment and delivery methods will comply with the \"Handbook for Student Directed Seminars\"."
+ },
+ {
+  "code": "CPSC 491",
+  "dept": "CPSC",
+  "num": 491,
+  "level": 400,
+  "slug": "cpsc-491",
+  "title": "Interactive Digital Media Practicum",
+  "description": "Design and implementation of interactive digital media systems using modern processes and tools. Projects provided by external clients or vetted entrepreneurial pitches are developed by interdisciplinary teams composed of one CPSC 491 student and multiple Master of Digital Media students."
+ },
+ {
+  "code": "CPSC 501",
+  "dept": "CPSC",
+  "num": 501,
+  "level": 500,
+  "slug": "cpsc-501",
+  "title": "Theory of Automata, Formal Languages and Computability",
+  "description": ""
+ },
+ {
+  "code": "CPSC 504",
+  "dept": "CPSC",
+  "num": 504,
+  "level": 500,
+  "slug": "cpsc-504",
+  "title": "Data Management",
+  "description": ""
+ },
+ {
+  "code": "CPSC 508",
+  "dept": "CPSC",
+  "num": 508,
+  "level": 500,
+  "slug": "cpsc-508",
+  "title": "Operating Systems",
+  "description": ""
+ },
+ {
+  "code": "CPSC 509",
+  "dept": "CPSC",
+  "num": 509,
+  "level": 500,
+  "slug": "cpsc-509",
+  "title": "Programming Language Principles",
+  "description": ""
+ },
+ {
+  "code": "CPSC 521",
+  "dept": "CPSC",
+  "num": 521,
+  "level": 500,
+  "slug": "cpsc-521",
+  "title": "Parallel Algorithms and Architectures",
+  "description": ""
+ },
+ {
+  "code": "CPSC 522",
+  "dept": "CPSC",
+  "num": 522,
+  "level": 500,
+  "slug": "cpsc-522",
+  "title": "Artificial Intelligence II",
+  "description": ""
+ },
+ {
+  "code": "CPSC 524",
+  "dept": "CPSC",
+  "num": 524,
+  "level": 500,
+  "slug": "cpsc-524",
+  "title": "Computer Graphics: Modelling",
+  "description": ""
+ },
+ {
+  "code": "CPSC 532",
+  "dept": "CPSC",
+  "num": 532,
+  "level": 500,
+  "slug": "cpsc-532",
+  "title": "Topics in Artificial Intelligence (All)",
+  "description": ""
+ },
+ {
+  "code": "CPSC 533",
+  "dept": "CPSC",
+  "num": 533,
+  "level": 500,
+  "slug": "cpsc-533",
+  "title": "Topics in Computer Graphics (All)",
+  "description": ""
+ },
+ {
+  "code": "CPSC 536",
+  "dept": "CPSC",
+  "num": 536,
+  "level": 500,
+  "slug": "cpsc-536",
+  "title": "Topics in Algorithms and Complexity (All)",
+  "description": ""
+ },
+ {
+  "code": "CPSC 538",
+  "dept": "CPSC",
+  "num": 538,
+  "level": 500,
+  "slug": "cpsc-538",
+  "title": "Topics in Computer Systems (All)",
+  "description": ""
+ },
+ {
+  "code": "CPSC 539",
+  "dept": "CPSC",
+  "num": 539,
+  "level": 500,
+  "slug": "cpsc-539",
+  "title": "Topics in Programming Languages",
+  "description": ""
+ },
+ {
+  "code": "CPSC 540",
+  "dept": "CPSC",
+  "num": 540,
+  "level": 500,
+  "slug": "cpsc-540",
+  "title": "Machine Learning",
+  "description": ""
+ },
+ {
+  "code": "CPSC 543",
+  "dept": "CPSC",
+  "num": 543,
+  "level": 500,
+  "slug": "cpsc-543",
+  "title": "Physical User Interface Design and Evaluation",
+  "description": ""
+ },
+ {
+  "code": "CPSC 544",
+  "dept": "CPSC",
+  "num": 544,
+  "level": 500,
+  "slug": "cpsc-544",
+  "title": "Human Computer Interaction",
+  "description": ""
+ },
+ {
+  "code": "CPSC 545",
+  "dept": "CPSC",
+  "num": 545,
+  "level": 500,
+  "slug": "cpsc-545",
+  "title": "Algorithms for Bioinformatics",
+  "description": ""
+ },
+ {
+  "code": "CPSC 549",
+  "dept": "CPSC",
+  "num": 549,
+  "level": 500,
+  "slug": "cpsc-549",
+  "title": "Master's Thesis (All)",
+  "description": ""
+ },
+ {
+  "code": "CPSC 550",
+  "dept": "CPSC",
+  "num": 550,
+  "level": 500,
+  "slug": "cpsc-550",
+  "title": "Machine Learning II",
+  "description": ""
+ },
+ {
+  "code": "CPSC 554",
+  "dept": "CPSC",
+  "num": 554,
+  "level": 500,
+  "slug": "cpsc-554",
+  "title": "Topics in Human-Computer Interaction",
+  "description": ""
+ },
+ {
+  "code": "CPSC 589",
+  "dept": "CPSC",
+  "num": 589,
+  "level": 500,
+  "slug": "cpsc-589",
+  "title": "M.Sc. Major Essay",
+  "description": ""
+ },
+ {
+  "code": "CPSC 649",
+  "dept": "CPSC",
+  "num": 649,
+  "level": 600,
+  "slug": "cpsc-649",
+  "title": "Doctoral Dissertation",
+  "description": ""
+ }
+]
