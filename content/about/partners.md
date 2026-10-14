@@ -30,12 +30,6 @@ description: Partner with the UBC Computer Science Student Society — pricing a
     <p class="sp-announce">More sponsors to be announced for 2026–27.</p>
     <div class="sp-rule"></div>
     <div class="sp-tier">
-      <h3 class="sp-tier-label">Gold Sponsors</h3>
-    </div>
-    <div class="sp-tier">
-      <h3 class="sp-tier-label">Silver Sponsors</h3>
-    </div>
-    <div class="sp-tier">
       <h3 class="sp-tier-label">Bronze Sponsors</h3>
       <div class="sp-logos">
         <span class="sp-logo" title="Jane Street"><img src="/files/sponsors/jane-street.png" alt="Jane Street" loading="lazy" /></span>
