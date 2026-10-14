@@ -1,0 +1,7 @@
+{{/* Renders one sector badge using the palette in data/tcf/sectors.yaml. Context: the sector name. */}}
+{{ $palette := index site.Data.tcf.sectors . | default site.Data.tcf.sectors.default }}
+<span
+  class="badge rounded-pill tcf-sector"
+  style="{{ printf "background-color: %s; color: %s;" $palette.bg $palette.fg | safeCSS }}"
+  >{{ . }}</span
+>
