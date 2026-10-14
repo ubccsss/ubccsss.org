@@ -17,13 +17,14 @@ npm run dev      # http://localhost:5199
 > **Note:** Vite binds to IPv6 `localhost`. Use `http://localhost:5199`, not
 > `http://127.0.0.1:5199` — the latter refuses the connection on this machine.
 
-## The three ideas
+## The four ideas
 
 | # | Idea | Borrowed from | Where it'd go on ubccsss.org |
 |---|------|---------------|------------------------------|
 | 1 | **Spec-sheet masthead + numbered index.** Oversized initials at the outer edges, monospace metadata strip between them, then one numbered row per item with a dotted leader and a right-aligned value. Rows invert to navy and expand on click. | [harry-atkins.com](https://harryjatkins.com/) | `/services/courses/` (Course Reviews) — and the same masthead on `/about/` |
 | 2 | **Announcement ticker.** A slow marquee band carrying rotating notices, using the CSSS cube motif as the separator glyph. | seen on ~6 of the 30 sites surveyed, incl. [springsummer.dk](https://springsummer.dk/) and [press.stripe.com](https://press.stripe.com/) | Site-wide, under the header or above the footer — it's the only surface that can surface something *imminent* from all 293 events |
 | 3 | **Live term strip.** A pinned mono bar showing the current term and week, a countdown to the next event, and a live Vancouver clock. | [springsummer.dk](https://springsummer.dk/) (clock + city in the nav), [harry-atkins.com](https://harryjatkins.com/) (live viewport/OS metadata) | Site-wide header |
+| 4 | **Spine shelf.** The same courses rendered as a pile of coloured book spines instead of rows. Spine colour encodes course level; hovering pulls a spine out of the pile and the sticky card on the right shows its cover copy. Toggle with **Index / Shelf** in the masthead. | [press.stripe.com](https://press.stripe.com/) | `/services/courses/` — an alternative to the numbered index |
 
 The surveys and full technique notes live in the PR description.
 

@@ -134,6 +134,19 @@ body {
 .chip:hover { border-color: var(--blue); color: var(--blue); }
 .chip--on { background: var(--navy); color: #fff; border-color: var(--navy); }
 
+/* level filter on the left, view switcher on the right */
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px 24px;
+  margin: 26px 0 0;
+}
+
+.controls .chips { margin: 0; }
+.views { display: flex; gap: 8px; }
+
 /* ---------- 3. numbered index ---------- */
 .index {
   max-width: 1180px;
@@ -223,7 +236,170 @@ body {
   padding-top: 20px;
 }
 
-/* ---------- 4. announcement ticker ---------- */
+/* ---------- 4. spine shelf ---------- */
+.shelf {
+  max-width: 1180px;
+  margin: 30px auto 0;
+  padding: 0 28px;
+}
+
+.shelf-band {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px 24px;
+  background: var(--navy);
+  color: var(--sky);
+  padding: 18px 22px;
+}
+
+.shelf-band h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: clamp(1.35rem, 3vw, 2rem);
+  letter-spacing: -0.015em;
+  color: #fff;
+  margin: 0;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.legend-item { display: inline-flex; align-items: center; gap: 7px; }
+
+/* inset ring keeps the navy/ink swatches legible against the navy band */
+.swatch {
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.45);
+}
+.swatch--100 { background: var(--sky); }
+.swatch--200 { background: var(--blue); }
+.swatch--300 { background: var(--navy); }
+.swatch--400 { background: var(--ink); }
+
+.shelf-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 340px;
+  gap: 30px;
+  align-items: start;
+  margin-top: 24px;
+}
+
+.spines { display: flex; flex-direction: column; gap: 5px; }
+
+.spine {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  height: 52px;
+  padding: 0 20px;
+  margin: 0;
+  border: 0;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: transform 0.16s ease, box-shadow 0.16s ease;
+}
+
+/* staggered left edges so the stack reads like a pile of books */
+.spine:nth-child(3n + 2) { margin-left: 14px; }
+.spine:nth-child(3n) { margin-left: 28px; }
+
+/* spine colour encodes course level */
+.spine--100 { background: var(--sky); color: var(--navy); }
+.spine--200 { background: var(--blue); color: #fff; }
+.spine--300 { background: var(--navy); color: #fff; }
+.spine--400 { background: var(--ink); color: #fff; }
+
+.spine-code {
+  flex: 0 0 92px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  font-size: 0.86rem;
+  letter-spacing: 0.02em;
+}
+
+.spine-title {
+  flex: 1 1 auto;
+  min-width: 0;
+  font-size: 0.9rem;
+  line-height: 1.3;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.spine-lvl {
+  flex: 0 0 auto;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  opacity: 0.72;
+}
+
+/* the book, pulled off the pile */
+.spine:hover,
+.spine--on {
+  transform: translateX(16px);
+  box-shadow: -10px 6px 0 rgba(6, 29, 128, 0.18);
+}
+
+.spine:focus-visible { outline: 2px solid var(--sky); outline-offset: 2px; }
+
+.detail {
+  position: sticky;
+  top: calc(var(--strip-h) + 20px);
+  background: #fff;
+  border-top: 3px solid var(--navy);
+  padding: 22px;
+}
+
+.detail-code {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--blue);
+}
+
+.detail-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  font-size: 1.2rem;
+  line-height: 1.22;
+  color: var(--navy);
+  margin: 10px 0;
+}
+
+.detail-meta {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--hair);
+}
+
+.detail-desc {
+  margin: 14px 0 0;
+  font-size: 0.92rem;
+  line-height: 1.72;
+  color: var(--ink);
+}
+
+/* ---------- 5. announcement ticker ---------- */
 .ticker {
   margin-top: 54px;
   background: var(--navy);
@@ -303,10 +479,22 @@ body {
   .glyph { font-size: clamp(3.4rem, 20vw, 6rem); }
   .meta { order: 3; flex-basis: 100%; }
   .desc { padding-left: 16px; }
+  /* shelf: single column, detail card above the stack (no hover on touch) */
+  .shelf-grid { grid-template-columns: minmax(0, 1fr); gap: 22px; }
+  .detail { position: static; order: -1; }
+  .spine { height: 46px; padding: 0 14px; gap: 12px; }
+  .spine-code { flex: 0 0 80px; }
 }
 
 @media (max-width: 620px) {
-  .masthead, .index, .foot { padding-left: 18px; padding-right: 18px; }
+  .masthead, .index, .foot, .shelf { padding-left: 18px; padding-right: 18px; }
+  .shelf-band { padding: 14px 16px; }
+  .spine { height: auto; min-height: 0; padding: 12px 14px; flex-wrap: wrap; gap: 3px 12px; }
+  .spine:nth-child(3n + 2), .spine:nth-child(3n) { margin-left: 0; }
+  .spine-code { flex: 0 0 auto; }
+  .spine-title { flex: 1 1 100%; order: 3; white-space: normal; }
+  .spine-lvl { order: 4; }
+  .spine:hover, .spine--on { transform: translateX(6px); box-shadow: -4px 4px 0 rgba(6, 29, 128, 0.18); }
   .strip { font-size: 9.5px; padding: 0 12px; }
   .strip-next { display: none; }
   .row { flex-wrap: wrap; gap: 6px 12px; padding: 16px 10px; }

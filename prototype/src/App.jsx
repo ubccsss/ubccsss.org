@@ -74,7 +74,7 @@ function TermStrip({ now }) {
 }
 
 /* ---------- 2. spec-sheet masthead ---------- */
-function Masthead({ total, filtered, level, setLevel }) {
+function Masthead({ total, filtered, level, setLevel, view, setView }) {
   const levels = [0, 100, 200, 300, 400];
   return (
     <header className="masthead">
@@ -103,18 +103,37 @@ function Masthead({ total, filtered, level, setLevel }) {
         <span className="glyph">R</span>
       </div>
 
-      <div className="chips" role="tablist" aria-label="Filter by course level">
-        {levels.map((l) => (
-          <button
-            key={l}
-            role="tab"
-            aria-selected={level === l}
-            className={"chip" + (level === l ? " chip--on" : "")}
-            onClick={() => setLevel(l)}
-          >
-            {l === 0 ? "All" : l === 400 ? "400+" : l}
-          </button>
-        ))}
+      <div className="controls">
+        <div className="chips" role="tablist" aria-label="Filter by course level">
+          {levels.map((l) => (
+            <button
+              key={l}
+              role="tab"
+              aria-selected={level === l}
+              className={"chip" + (level === l ? " chip--on" : "")}
+              onClick={() => setLevel(l)}
+            >
+              {l === 0 ? "All" : l === 400 ? "400+" : l}
+            </button>
+          ))}
+        </div>
+
+        <div className="views" role="tablist" aria-label="Presentation">
+          {[
+            ["index", "Index"],
+            ["shelf", "Shelf"],
+          ].map(([key, label]) => (
+            <button
+              key={key}
+              role="tab"
+              aria-selected={view === key}
+              className={"chip" + (view === key ? " chip--on" : "")}
+              onClick={() => setView(key)}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
       </div>
     </header>
   );
@@ -153,7 +172,69 @@ function CourseIndex({ items }) {
   );
 }
 
-/* ---------- 4. announcement ticker ---------- */
+/* ---------- 4. spine shelf ---------- */
+function bucket(level) {
+  return level >= 400 ? 400 : level;
+}
+
+function Shelf({ items }) {
+  const [active, setActive] = useState(items[0] ? items[0].slug : null);
+  const current = items.find((c) => c.slug === active) || items[0];
+
+  return (
+    <section className="shelf">
+      <div className="shelf-band">
+        <h2>The shelf</h2>
+        <div className="legend">
+          {[100, 200, 300, 400].map((l) => (
+            <span className="legend-item" key={l}>
+              <i className={"swatch swatch--" + l} />
+              {l === 400 ? "400+" : l}
+            </span>
+          ))}
+        </div>
+      </div>
+
+      <div className="shelf-grid">
+        <div className="spines" role="list">
+          {items.map((c) => {
+            const b = bucket(c.level);
+            return (
+              <button
+                key={c.slug}
+                role="listitem"
+                className={"spine spine--" + b + (current && current.slug === c.slug ? " spine--on" : "")}
+                onMouseEnter={() => setActive(c.slug)}
+                onFocus={() => setActive(c.slug)}
+                onClick={() => setActive(c.slug)}
+              >
+                <span className="spine-code">{c.code}</span>
+                <span className="spine-title">{c.title}</span>
+                <span className="spine-lvl">{c.level || "—"}</span>
+              </button>
+            );
+          })}
+        </div>
+
+        <aside className="detail" aria-live="polite">
+          {current && (
+            <>
+              <div className="detail-code">{current.code}</div>
+              <h3 className="detail-title">{current.title}</h3>
+              <div className="detail-meta">Level {current.level || "—"}</div>
+              <p className="detail-desc">
+                {current.description ||
+                  "No description on file for this course yet — a review could go here."}
+              </p>
+            </>
+          )}
+        </aside>
+      </div>
+    </section>
+  );
+}
+
+/* ---------- 5. announcement ticker ---------- */
 function Ticker() {
   const run = [...announcements, ...announcements];
   return (
@@ -173,6 +254,7 @@ function Ticker() {
 export default function App() {
   const now = useClock();
   const [level, setLevel] = useState(0);
+  const [view, setView] = useState("index");
 
   const filtered = useMemo(
     () =>
@@ -185,8 +267,15 @@ export default function App() {
   return (
     <div className="page">
       <TermStrip now={now} />
-      <Masthead total={courses.length} filtered={filtered.length} level={level} setLevel={setLevel} />
-      <CourseIndex items={filtered} />
+      <Masthead
+        total={courses.length}
+        filtered={filtered.length}
+        level={level}
+        setLevel={setLevel}
+        view={view}
+        setView={setView}
+      />
+      {view === "index" ? <CourseIndex items={filtered} /> : <Shelf items={filtered} />}
       <Ticker />
       <footer className="foot">
         <span>Prototype for design review — not part of the Hugo build.</span>
