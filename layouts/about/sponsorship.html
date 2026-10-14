@@ -186,6 +186,11 @@
     .sp-tier--past .sp-logo img { max-height: 38px; max-width: 168px; }
     /* Square/glyph-only marks (Apple) read undersized at a uniform ink height. */
     .sp-tier--past .sp-logo--tall img { max-height: 46px; }
+    /* Current-sponsor tiers (Gold/Silver/Bronze): same trimmed-ink-height rule,
+       one step up from the past wall so current partners read as the headline. */
+    .sp-tier:not(.sp-tier--past) .sp-logos { gap: 34px 62px; }
+    .sp-tier:not(.sp-tier--past) .sp-logo img { max-height: 52px; max-width: 230px; }
+    .sp-tier:not(.sp-tier--past) .sp-logo--tall img { max-height: 62px; }
 
     /* ---------- enquiry form ---------- */
     .sp-form { max-width: 560px; margin: 48px auto 0; text-align: left; }
@@ -247,12 +252,17 @@
       .sp-tier--past .sp-logo img { max-height: 22px; max-width: 124px; }
       .sp-tier--past .sp-logo--tall img { max-height: 27px; }
       .sp-logos { gap: 26px 38px; }
+      .sp-tier:not(.sp-tier--past) .sp-logos { gap: 26px 38px; }
+      .sp-tier:not(.sp-tier--past) .sp-logo img { max-height: 30px; max-width: 150px; }
+      .sp-tier:not(.sp-tier--past) .sp-logo--tall img { max-height: 36px; }
       .sp-sec--deco .sp-cube { display: none; }
     }
     @media (max-width: 560px) {
       .sp-hero { padding: 64px 20px 96px; }
       .sp-tier--past .sp-logo img { max-height: 18px; }
       .sp-tier--past .sp-logo--tall img { max-height: 22px; }
+      .sp-tier:not(.sp-tier--past) .sp-logo img { max-height: 24px; }
+      .sp-tier:not(.sp-tier--past) .sp-logo--tall img { max-height: 29px; }
     }
   </style>
 

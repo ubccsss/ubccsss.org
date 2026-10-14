@@ -27,7 +27,7 @@ description: Partner with the UBC Computer Science Student Society — pricing a
   <svg class="sp-cube sp-cube--c" width="72" height="84" viewBox="0 0 120 140" style="bottom:60px;right:12%;transform:rotate(24deg)"><use href="#sp-cube"/></svg>
   <div class="sp-wrap">
     <h2 class="sp-h2">Our Current Sponsors</h2>
-    <p class="sp-announce">To be announced for 2026–27.</p>
+    <p class="sp-announce">More sponsors to be announced for 2026–27.</p>
     <div class="sp-rule"></div>
     <div class="sp-tier">
       <h3 class="sp-tier-label">Gold Sponsors</h3>
@@ -37,6 +37,9 @@ description: Partner with the UBC Computer Science Student Society — pricing a
     </div>
     <div class="sp-tier">
       <h3 class="sp-tier-label">Bronze Sponsors</h3>
+      <div class="sp-logos">
+        <span class="sp-logo" title="Jane Street"><img src="/files/sponsors/jane-street.png" alt="Jane Street" loading="lazy" /></span>
+      </div>
     </div>
     <div class="sp-tier sp-tier--past">
       <h3 class="sp-tier-label">Past Collaborators</h3>
