@@ -20,7 +20,7 @@ registrationDeadline: ""
 # Set to true once booth numbers are assigned to show booth numbers on cards,
 # the "Booth #" sort, and the interactive floor plan. Pin positions for each
 # booth live in data/tcf/booths.yaml.
-showBooths: true
+showBooths: false
 floorPlan: /files/tcf2026/floor-plan.png
 
 # Student Prep section cards.
