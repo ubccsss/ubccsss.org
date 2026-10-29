@@ -5,9 +5,9 @@ link: http://www.icbc.com
 short_bio: >
   The Drive to Make a Difference.
 
-  We are driven to ensure the well-being of drivers. We are working to keep rates low and stable, providing hassle-free service, and proactively partnering to reduce crashes and loss. 
+  We are driven to ensure the well-being of drivers. We are working to keep rates low and stable, providing hassle-free service, and proactively partnering to reduce crashes and loss.
 
-  The Insurance Corporation of British Columbia (ICBC) is a provincial Crown corporation established in 1973 to provide universal auto insurance to BC motorists. In addition, the Corporation is responsible for driver licensing, vehicle registration and licensing. 
+  The Insurance Corporation of British Columbia (ICBC) is a provincial Crown corporation established in 1973 to provide universal auto insurance to BC motorists. In addition, the Corporation is responsible for driver licensing, vehicle registration and licensing.
 
   All motorists in BC are required to buy a basic package of ICBC Autoplan insurance that provides coverage for third party liability protection, accident benefits, underinsured motorist protection, hit-and-run and uninsured motorists protection and inverse liability.
 imageLink: /files/tcf2027/icbc.png

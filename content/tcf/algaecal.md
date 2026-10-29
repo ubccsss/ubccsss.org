@@ -3,7 +3,7 @@ layout: tcf-company-2026
 title: AlgaeCal
 link: https://www.algaecal.com/careers
 short_bio: >
-  AlgaeCal is a Vancouver-based company that makes plant-based calcium and bone-health supplements. It is known for popularizing a plant source of calcium and for funding clinical research on its products.
+  Join our mission-driven team at one of Canada's fastest-growing companies, where we're helping people reclaim their mobility and live fuller lives through our clinically-supported, plant-based bone health solution.
 imageLink: /files/tcf2027/algaecal.png
 industry:
   - Health Care and Human Services

@@ -3,9 +3,7 @@ layout: tcf-company-2026
 title: WorkSafeBC
 link: https://www.worksafebc.com/careers
 short_bio: >
-  We are a government agency dedicated to improving the health and safety of workplaces across British Columbia. We serve approximately 2.5 million workers and 249,000 employers across B.C.
-
-  With a legislated responsibility for establishing and enforcing occupational health and safety standards, we are committed to making a difference to the people of B.C. - one worker, one employer, one workplace at a time.
+  WorkSafeBC is an agency established by provincial legislation with the mandate to oversee a no-fault insurance system for the workplace. We are committed to creating a province free from workplace injury or illness.
 imageLink: /files/tcf2027/worksafebc.png
 industry:
   - Banking, Financial and Insurance Services

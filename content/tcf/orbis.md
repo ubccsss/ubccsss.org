@@ -3,7 +3,9 @@ layout: tcf-company-2026
 title: Orbis
 link: https://www.orbis.com/
 short_bio: >
-  Orbis Investment Management is a global investment manager with a focus on long-term value creation through active management and deep fundamental research.
+  We are a global firm with offices across eight countries, over 400 employees and more than $50 billion in assets under management. But those numbers don't define Orbis. It's our values, how we do things day-by-day, and how we add value for our clients that define us.
+
+  Our investment philosophy is fundamental, long-term and contrarian. As contrarian investors, we aim to take a different perspective, and this filters into everything we do. To invest differently, you need to think differently. This is encouraged by having teams of people with different backgrounds, experiences and ways of thinking.
 imageLink: /files/tcf2027/orbis.png
 industry:
   - Banking, Financial and Insurance Services
