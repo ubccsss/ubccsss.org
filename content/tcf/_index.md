@@ -20,7 +20,7 @@ registrationDeadline: ""
 # Set to true once booth numbers are assigned to show booth numbers on cards,
 # the "Booth #" sort, and the interactive floor plan. Pin positions for each
 # booth live in data/tcf/booths.yaml.
-showBooths: true
+showBooths: false
 floorPlan: /files/tcf2026/floor-plan.png
 
 # Student Prep section cards.
@@ -49,21 +49,6 @@ prep:
   - icon: bi-bag-check
     title: What to bring
     body: >-
-      Your UBC card for entry, a few printed resumes, a water bottle, and your
-      phone with your LinkedIn or portfolio ready to share.
-  - icon: bi-person-badge
-    title: What to wear
-    body: >-
-      Business casual is perfect. Wear something you're comfortable standing
-      in for a few hours.
-  - icon: bi-question-circle
-    title: Questions to ask
-    body: >-
-      What does a typical day look like for a new grad or intern? What skills
-      do your strongest candidates have? What's the interview process like?
-  - icon: bi-envelope-check
-    title: Follow up
-    body: >-
-      Connect with recruiters on LinkedIn or send a short thank-you email
-      within 48 hours, mentioning something you talked about.
+      Your UBC card for entry, a few printed resumes, and your phone with your
+      LinkedIn or portfolio ready to share.
 ---

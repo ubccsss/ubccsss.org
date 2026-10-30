@@ -83,11 +83,11 @@
             class="mw-100 w-100 img-shadow img-outline p-3" />
         </div>
         <div class="col-lg">
-          <p>{{ .Params.short_bio | markdownify }}</p>
-          <p>Target majors: {{ .Params.majors }}</p>
-          <p>Degree level required: {{ .Params.degreeLevels }}</p>
-          <p>Work authorization required: {{ .Params.workAuth }}</p>
-          <p>Hiring for: {{ .Params.positionTypes }}</p>
+          {{ with .Params.short_bio }}<p>{{ . | markdownify }}</p>{{ end }}
+          {{ with .Params.majors }}<p>Target majors: {{ . }}</p>{{ end }}
+          {{ with .Params.degreeLevels }}<p>Degree level required: {{ . }}</p>{{ end }}
+          {{ with .Params.workAuth }}<p>Work authorization required: {{ . }}</p>{{ end }}
+          {{ with .Params.positionTypes }}<p>Hiring for: {{ . }}</p>{{ end }}
           <p>
             <a href="{{ .Params.link }}" class="btn btn-primary"
               ><i class="bi-link"></i> Connect with {{ .Params.title }}</a

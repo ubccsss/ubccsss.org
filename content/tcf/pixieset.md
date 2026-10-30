@@ -3,8 +3,12 @@ layout: tcf-company-2026
 title: Pixieset
 link: https://pixieset.com/
 short_bio: >
-  Pixieset is a complete business platform built for creative professionals, offering beautiful galleries, seamless client management, and powerful e-commerce tools.
-imageLink: /files/tcf2026/pixieset.jpg
+  Pixieset is the leading all-in-one platform trusted by over 1 million photographers and creative professionals worldwide. We empower our users with a suite of tools, including photo client galleries, websites, online stores, and studio management software, all designed to simplify and elevate their business.
+
+  Proudly recognized as a Great Place to Work Certified™ employer and one of Canada's Best Workplaces™, Pixieset offers a team-based and collaborative culture that fosters innovation, continuous learning, and personal growth.
+
+  We're on a mission to help photographers grow with purpose. Join us, and be part of a team that's transforming the photography industry.
+imageLink: /files/tcf2027/pixieset.png
 industry:
   - Information Technology
   - Art, Design, Digital Media and Entertainment
@@ -12,5 +16,4 @@ majors: Computer Science, Business & Computer Science, Cognitive Science
 workAuth: All
 degreeLevels: Current Students in an Undergraduate Program, Current Students in a Masters Program
 positionTypes: Internships, Co-op Student (4 months), Recent Graduate, Full-time
-boothNumber: 13
 ---
