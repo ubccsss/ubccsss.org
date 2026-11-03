@@ -88,8 +88,12 @@
             <h3>{{ .tier }} Sponsors</h3>
             <div class="cssrc-sponsor-logos">
               {{ range .orgs }}
+                {{ $cardClass := "cssrc-sponsor-card" }}
+                {{ if .compactLogo }}
+                  {{ $cardClass = "cssrc-sponsor-card compact-logo" }}
+                {{ end }}
                 <a
-                  class="cssrc-sponsor-card"
+                  class="{{ $cardClass }}"
                   href="{{ .siteLink }}"
                   target="_blank"
                   rel="noopener noreferrer"

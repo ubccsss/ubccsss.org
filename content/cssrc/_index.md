@@ -152,4 +152,12 @@ sponsors:
       - name: Amii
         imageLink: /files/cssrc/2026/sponsors/amii.png
         siteLink: https://www.amii.ca/
+      - name: CaterDash
+        imageLink: /files/cssrc/2026/sponsors/caterdash.svg
+        siteLink: https://www.caterdash.com/
+        compactLogo: true
+      - name: Jukebox
+        imageLink: /files/cssrc/2026/sponsors/jukebox.svg
+        siteLink: https://www.jukeboxprint.com/
+        compactLogo: true
 ---

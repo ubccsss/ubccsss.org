@@ -432,6 +432,9 @@ footer .copyright a:hover {
   max-height: 125px;
   object-fit: contain;
 }
+.cssrc-sponsor-card.compact-logo img {
+  max-width: 80%;
+}
 
 @media only screen and (max-width: 480px) {
   .cssrc-sponsors {
