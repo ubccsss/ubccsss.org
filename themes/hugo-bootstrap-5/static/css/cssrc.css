@@ -103,6 +103,12 @@ nav .navbar-nav li a:hover {
   width: 200px;
   object-fit: cover;
 }
+.cssrc-nav-link {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
 
 .dropdown-nav:hover > .dropdown-menu {
   display: block;
@@ -379,11 +385,11 @@ footer .copyright a:hover {
 }
 
 .cssrc-sponsors {
-  padding: 2.5rem 1.25rem 0;
+  padding: 3.5rem 1.25rem 4rem;
   text-align: center;
 }
 .cssrc-sponsors-inner {
-  max-width: 640px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 .cssrc-sponsor-tier {
@@ -438,7 +444,7 @@ footer .copyright a:hover {
 
 @media only screen and (max-width: 480px) {
   .cssrc-sponsors {
-    padding: 2rem 1rem 0;
+    padding: 2rem 1rem 3rem;
   }
   .cssrc-sponsor-tier {
     margin-top: 1.25rem;
@@ -456,8 +462,173 @@ footer .copyright a:hover {
 }
 
 /* Content */
-#information {
-  margin-top: 50px;
+.cssrc-main-content {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 3.5rem 1.5rem;
+}
+.cssrc-main-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 11fr) minmax(0, 9fr);
+  gap: 3rem;
+  align-items: start;
+}
+.cssrc-main-grid > div {
+  min-width: 0;
+}
+.cssrc-main-grid h2 {
+  margin-bottom: 1.5rem;
+}
+#program,
+#about,
+#updates,
+#dates {
+  scroll-margin-top: 5rem;
+}
+.cssrc-program-list {
+  overflow: hidden;
+  border: 1px solid var(--cloudy-blue);
+  border-radius: 12px;
+  background: white;
+}
+.cssrc-program-item {
+  display: grid;
+  grid-template-columns: 11rem minmax(0, 1fr);
+  gap: 1rem;
+  align-items: start;
+  padding: 0.85rem 1rem;
+}
+.cssrc-program-item + .cssrc-program-item {
+  border-top: 1px solid var(--blue-chalk);
+}
+.cssrc-program-time {
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+.cssrc-program-event {
+  font-size: 1rem;
+  line-height: 1.35;
+}
+#about p {
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+.cssrc-submissions {
+  padding: 2.5rem 1.5rem 4rem;
+}
+.cssrc-submissions-inner {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+.cssrc-submission-intro {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem 2rem;
+  margin-bottom: 1.5rem;
+  padding: clamp(1.25rem, 4vw, 2.75rem);
+  border: 1px solid var(--blue-chalk);
+  border-radius: 16px;
+  background: linear-gradient(120deg, white, var(--blue-chalk));
+}
+.cssrc-submission-intro p {
+  margin-bottom: 0;
+}
+.cssrc-submission-intro h1 {
+  color: var(--text-secondary);
+  font-size: clamp(1.85rem, 4vw, 2.75rem);
+}
+.cssrc-portal .btn {
+  padding: 0.65rem 1rem;
+  background: var(--nile-blue);
+  color: white !important;
+  font-weight: 700;
+}
+.cssrc-portal .btn:hover {
+  background: var(--text-primary);
+}
+.cssrc-portal p {
+  margin-top: 0.45rem;
+  font-size: 0.95rem;
+}
+.cssrc-submissions-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  align-items: start;
+}
+.cssrc-submission-card {
+  min-width: 0;
+  padding: clamp(1rem, 3vw, 1.75rem);
+  border: 1px solid var(--blue-chalk);
+  border-radius: 16px;
+  background: white;
+}
+.cssrc-submission-card h2 {
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+  font-size: 1.4rem;
+  letter-spacing: normal;
+}
+.cssrc-date-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.cssrc-date-list li {
+  display: grid;
+  grid-template-columns: 5rem minmax(0, 1fr);
+  gap: 0.75rem;
+  align-items: center;
+  padding: 0.7rem 0;
+  color: var(--text-primary);
+  font-weight: 600;
+}
+.cssrc-date-list li + li {
+  border-top: 1px solid var(--blue-chalk);
+}
+.cssrc-date-list time {
+  padding: 0.35rem 0.2rem;
+  border-radius: 6px;
+  background: var(--blue-chalk);
+  text-align: center;
+}
+
+@media only screen and (max-width: 999px) {
+  .cssrc-main-grid,
+  .cssrc-submissions-grid {
+    grid-template-columns: 1fr;
+  }
+  .cssrc-main-content,
+  .cssrc-submissions-inner {
+    max-width: 760px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .cssrc-main-content,
+  .cssrc-submissions {
+    padding: 2.5rem 1rem;
+  }
+  .cssrc-main-grid {
+    gap: 2.5rem;
+  }
+  .cssrc-program-item {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+    padding: 0.75rem 1rem;
+  }
+  .cssrc-submissions-grid {
+    gap: 2.5rem;
+  }
+  .cssrc-current-nav .logo {
+    width: 150px;
+  }
+  .cssrc-nav-link {
+    font-size: 0.8rem;
+  }
 }
 
 .container {

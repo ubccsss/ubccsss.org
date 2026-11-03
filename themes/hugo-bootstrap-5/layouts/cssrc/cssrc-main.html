@@ -75,94 +75,11 @@
       </div>
     </section>
 
-    <section
-      class="cssrc-sponsors"
-      id="sponsors"
-      aria-labelledby="sponsors-heading">
-      <div class="cssrc-sponsors-inner">
-        <h2 id="sponsors-heading">Supported By</h2>
-        {{ range .Params.sponsors }}
-          <div
-            class="cssrc-sponsor-tier"
-            style="--sponsor-tier-colour: {{ .colour }};">
-            <h3>{{ .tier }} Sponsors</h3>
-            <div class="cssrc-sponsor-logos">
-              {{ range .orgs }}
-                {{ $cardClass := "cssrc-sponsor-card" }}
-                {{ if .compactLogo }}
-                  {{ $cardClass = "cssrc-sponsor-card compact-logo" }}
-                {{ end }}
-                <a
-                  class="{{ $cardClass }}"
-                  href="{{ .siteLink }}"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Visit {{ .name }}">
-                  <img
-                    src="{{ .imageLink }}"
-                    alt="{{ .name }}"
-                    loading="lazy" />
-                </a>
-              {{ end }}
-            </div>
-          </div>
-        {{ end }}
-      </div>
-    </section>
-
-    <section class="col-xs col-sm-9 mx-auto pt-5 pb-3" id="updates">
-      <h2 class="text-center mb-4">Updates</h2>
-      <div class="update-list mx-auto">
-        {{ range $i, $u := .Params.updates }}
-          <button
-            type="button"
-            class="update-item d-flex justify-content-between align-items-center w-100"
-            data-bs-toggle="modal"
-            data-bs-target="#update-modal-{{ $i }}">
-            <span class="update-item-title">
-              <i class="bi bi-envelope-fill me-2"></i>{{ $u.subject }}
-            </span>
-            <span class="update-item-date">{{ $u.date }}</span>
-          </button>
-        {{ end }}
-      </div>
-
-      {{ range $i, $u := .Params.updates }}
-        <div
-          class="modal fade"
-          id="update-modal-{{ $i }}"
-          tabindex="-1"
-          aria-labelledby="update-modal-{{ $i }}-label"
-          aria-hidden="true">
-          <div class="modal-dialog modal-dialog-scrollable modal-lg">
-            <div class="modal-content">
-              <div class="modal-header">
-                <div>
-                  <h5 class="modal-title mb-0" id="update-modal-{{ $i }}-label">
-                    {{ $u.subject }}
-                  </h5>
-                  <small class="update-modal-date">{{ $u.date }}</small>
-                </div>
-                <button
-                  type="button"
-                  class="btn-close"
-                  data-bs-dismiss="modal"
-                  aria-label="Close"></button>
-              </div>
-              <div class="modal-body">
-                {{ $u.message | markdownify }}
-              </div>
-            </div>
-          </div>
-        </div>
-      {{ end }}
-    </section>
-
-    <section class="col-xs col-sm-9 mx-auto pb-5">
-      <div class="row" id="information">
-        <div class="container col-lg-7 order-1 order-lg-2" id="about">
-          <h1 class="mb-4">About the Conference</h1>
-          <div class="row">
+    <section class="cssrc-main-content" id="information">
+      <div class="cssrc-main-grid">
+        <div id="about">
+          <h2>About the Conference</h2>
+          <div>
             <p>
               The UBC CS Student Research Conference (CSSRC) is back for its 2nd
               Edition!
@@ -195,8 +112,8 @@
               researchers in the CS community.
             </p>
             <p class="pb-4">
-              We look forward to your submissions and joining on November 6 at
-              the ICICS/CS Building. Feel free to join our
+              We look forward to seeing you on November 6 at the ICICS/CS
+              Building. Feel free to join our
               <a href="https://discord.gg/uWPuBTYwhs" target="_blank"
                 >Discord</a
               >
@@ -205,34 +122,63 @@
           </div>
         </div>
 
-        <div
-          class="container col-lg-4 order-2 order-lg-1 pt-lg-5 px-sm-4"
-          id="dates">
-          <h2 class="text-center mb-4">Important Dates</h2>
-          <div class="row">
-            <table
-              class="table table-light table-bordered mx-2 overflow-auto mb-2">
-              <colgroup>
-                <col style="width: 45%" />
-                <col style="width: 55%" />
-              </colgroup>
-              <thead class="fw-bold tbl-head">
-                <tr>
-                  <td>Submissions</td>
-                  <td>Deadline</td>
-                </tr>
-              </thead>
-              <tbody>
-                {{ range .Params.importantDates }}
-                  <tr>
-                    <td>{{ .submission }}</td>
-                    <td>{{ .date }}</td>
-                  </tr>
-                {{ end }}
-              </tbody>
-            </table>
+        <div id="program">
+          <h2>Program Schedule</h2>
+          <div class="cssrc-program-list">
+            {{ range .Params.schedule }}
+              <div class="cssrc-program-item">
+                <span class="cssrc-program-time"
+                  >{{ .from }} &ndash; {{ .to }}</span
+                >
+                <span class="cssrc-program-event">
+                  {{ if .link }}
+                    <a href="{{ .link }}">{{ .event }}</a>
+                  {{ else }}
+                    {{ .event }}
+                  {{ end }}
+                </span>
+              </div>
+            {{ end }}
           </div>
+          <p class="small mt-3 mb-0">
+            * Priority goes to registered attendees.
+          </p>
         </div>
+      </div>
+    </section>
+
+    <section
+      class="cssrc-sponsors"
+      id="sponsors"
+      aria-labelledby="sponsors-heading">
+      <div class="cssrc-sponsors-inner">
+        <h2 id="sponsors-heading">Supported By</h2>
+        {{ range .Params.sponsors }}
+          <div
+            class="cssrc-sponsor-tier"
+            style="--sponsor-tier-colour: {{ .colour }};">
+            <h3>{{ .tier }} Sponsors</h3>
+            <div class="cssrc-sponsor-logos">
+              {{ range .orgs }}
+                {{ $cardClass := "cssrc-sponsor-card" }}
+                {{ if .compactLogo }}
+                  {{ $cardClass = "cssrc-sponsor-card compact-logo" }}
+                {{ end }}
+                <a
+                  class="{{ $cardClass }}"
+                  href="{{ .siteLink }}"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Visit {{ .name }}">
+                  <img
+                    src="{{ .imageLink }}"
+                    alt="{{ .name }}"
+                    loading="lazy" />
+                </a>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
       </div>
     </section>
 
