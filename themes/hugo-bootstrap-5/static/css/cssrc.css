@@ -502,8 +502,6 @@ footer .copyright a:hover {
 }
 #keynote,
 #workshops,
-#posters,
-#oral-presentations,
 #program,
 #about,
 #updates,
@@ -614,71 +612,6 @@ footer .copyright a:hover {
   padding-top: 2rem;
   border-top: 1px solid var(--cloudy-blue);
   margin-bottom: 1.5rem;
-}
-.cssrc-paper-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.cssrc-paper-list > li {
-  padding: 1.25rem 0;
-  border-bottom: 1px solid var(--blue-chalk);
-}
-.cssrc-paper-list h3 {
-  margin: 0 0 0.45rem;
-  font-size: 1.1rem;
-  font-weight: 600;
-  line-height: 1.5;
-}
-.cssrc-paper-list p {
-  margin: 0;
-  font-size: 1rem;
-}
-.cssrc-paper-topics {
-  margin: 0.65rem 0 0;
-  color: var(--text-primary);
-}
-.cssrc-paper-authors {
-  line-height: 1.6;
-}
-.cssrc-submitting-author {
-  color: var(--text-secondary);
-}
-.cssrc-poster-list,
-.cssrc-oral-list {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  column-gap: 3rem;
-}
-.cssrc-oral-list > li {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  gap: 0.75rem;
-}
-.cssrc-paper-details {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
-  margin: 0;
-  max-width: 12rem;
-  color: var(--text-primary);
-}
-.cssrc-paper-details dt,
-.cssrc-paper-topics dt {
-  font-size: 0.8rem;
-  font-weight: 600;
-}
-.cssrc-paper-details dd,
-.cssrc-paper-topics dd {
-  margin: 0.25rem 0 0;
-  font-size: 1rem;
-}
-@media only screen and (max-width: 767px) {
-  .cssrc-poster-list,
-  .cssrc-oral-list {
-    grid-template-columns: 1fr;
-  }
 }
 .cssrc-submissions {
   padding: 2.5rem 1.5rem 4rem;
