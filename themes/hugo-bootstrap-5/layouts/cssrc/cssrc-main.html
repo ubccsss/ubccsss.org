@@ -189,6 +189,30 @@
       {{ end }}
     </section>
 
+    {{ with .Params.panelists }}
+      <section
+        class="cssrc-main-content cssrc-presentations"
+        id="panel"
+        aria-labelledby="panel-heading">
+        <h2 id="panel-heading">Research Career Panel</h2>
+        {{ range . }}
+          <div class="cssrc-keynote-layout cssrc-panelist">
+            <figure class="cssrc-keynote-speaker">
+              <img src="{{ .photo }}" alt="{{ .name }}" loading="lazy" />
+              <figcaption>
+                {{ .name }}
+                <span class="cssrc-panelist-role">{{ .role }}</span>
+              </figcaption>
+            </figure>
+            <div class="cssrc-keynote-talk">
+              {{ .bio | markdownify }}
+            </div>
+          </div>
+        {{ end }}
+      </section>
+    {{ end }}
+
+
     <section
       class="cssrc-sponsors"
       id="sponsors"

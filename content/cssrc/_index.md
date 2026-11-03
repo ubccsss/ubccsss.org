@@ -56,6 +56,7 @@ schedule:
     from: "3:15 PM"
     to: "3:30 PM"
   - event: Research Career Panel
+    link: "#panel"
     from: "3:30 PM"
     to: "4:30 PM"
   - event: Awards Ceremony
@@ -72,6 +73,41 @@ keynote:
     Unreliability remains one of the limiting factors in using language models (LMs) in real-world applications, specifically preventing safe deployment in sensitive domains.
 
     In this talk, Hila will present three lines of work that collectively examine reliability in LMs from different perspectives. First, she will introduce PhantomBench, a new benchmark designed to evaluate models' ability to abstain when appropriate. PhantomBench consists of non-existing terms and entities carefully constructed to probe whether models can abstain rather than hallucinate plausible-sounding but fabricated responses. Next, she will turn to the phenomenon of semantic leakage, where models leak irrelevant information from the prompt into the generation in unexpected ways, and explore its relationship to bias in model generation. Finally, she will present OMNIGUARD, a novel approach for detecting harmful prompts across languages and modalities.
+panelists:
+  - name: Dr. Kelsey Allen
+    role: Panelist
+    photo: /files/cssrc/2026/speakers/kelsey-allen.png
+    bio: |
+      Dr. Kelsey Allen is an Assistant Professor of Computer Science and Psychology at the University of British Columbia, bridging computational cognitive science, machine learning, and robotics.
+
+      Her research explores how humans and machines adaptively solve complex challenges through innovative tool use and flexible problem-solving. With a background spanning physics, cognitive science, and artificial intelligence, including a PhD from MIT and research experience at DeepMind, Dr. Allen investigates the computational mechanisms that enable intelligent tool creation and environmental adaptation.
+  - name: Dr. Payam Mousavi
+    role: Panelist
+    photo: /files/cssrc/2026/payam-mousavi.png
+    bio: |
+      Payam Mousavi is an Applied Research Scientist on the Advanced Technology team. He brings in over 10 years of experience developing AI/ML technologies for various industries such as manufacturing (Honeywell), oil and gas (Phase Technology), defense, security and robotics (MDA), and marketing and advertising (Unbounce).
+
+      He enjoys working on multi-disciplinary projects involving many stakeholders, where his diverse experience can benefit the team. Payam's main technical interests and expertise are in machine vision and reinforcement learning.
+
+      Payam received his PhD in Applied Physics from Simon Fraser University. His thesis involved the design, construction, and the mathematical modelling and optimization of a prototype industrial terahertz spectrometer to be used by Honeywell in their manufacturing plant, resulting in multiple patents and publications.
+  - name: Dr. Roman Smirnov
+    role: Panelist
+    photo: /files/cssrc/2026/roman-smirnov.png
+    bio: |
+      Roman Smirnov is an Applied Scientist at Mundo AI. His work spans speech models, natural language processing, and large language models, with experience across academic research, technology commercialization, corporations, and startups.
+
+      Having worked in different research and engineering environments, he is particularly drawn to Silicon Valley and Y Combinator startups for their challenging problems, opportunities for continuous and rapid learning, and support for creativity. He especially enjoys turning research into products through fast iteration and short feedback loops.
+
+      Alongside his industry work, Roman pursues independent research into model behavior, efficient adaptation, and AI safety. He has achieved winning results in multiple NeurIPS competitions and shares his research and practical experience through technical articles, conference talks, and mentoring.
+
+      Despite working at a company with "AI" in its name, he prefers to call things "models" or "ML."
+  - name: Rubia Guerra
+    role: Moderator
+    photo: /files/cssrc/2026/rubia-guerra.png
+    bio: |
+      Rubia Guerra is a PhD student in Computer Science at the University of British Columbia, supervised by Karon MacLean and Margo Seltzer. Her research explores human-computer interaction, haptics, affective computing, and AI, with a focus on the connections between touch and emotion.
+
+      Rubia led the first edition of the CS Student Research Conference and returns as moderator of this year’s Research Career Panel.
 workshops:
   - speaker: Mara Solen
     id: workshop-mara-solen
