@@ -479,6 +479,7 @@ footer .copyright a:hover {
 .cssrc-main-grid h2 {
   margin-bottom: 1.5rem;
 }
+#keynote,
 #program,
 #about,
 #updates,
@@ -513,6 +514,59 @@ footer .copyright a:hover {
 #about p {
   font-size: 1.1rem;
   line-height: 1.5;
+}
+.cssrc-keynote {
+  padding-top: 0;
+}
+.cssrc-keynote > h2 {
+  padding-top: 2rem;
+  border-top: 1px solid var(--cloudy-blue);
+  margin-bottom: 2rem;
+}
+.cssrc-keynote-layout {
+  display: grid;
+  grid-template-columns: 16rem minmax(0, 1fr);
+  align-items: start;
+  gap: 3rem;
+}
+.cssrc-keynote-speaker {
+  margin: 0;
+}
+.cssrc-keynote-speaker img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.cssrc-keynote-speaker figcaption {
+  margin-top: 1rem;
+  color: var(--text-primary);
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+.cssrc-keynote-talk h3 {
+  margin-bottom: 1.5rem;
+  font-size: clamp(1.35rem, 2vw, 1.6rem);
+  line-height: 1.35;
+  font-weight: 600;
+}
+.cssrc-keynote-talk p {
+  font-size: 1.1rem;
+  line-height: 1.65;
+  margin-bottom: 1.25rem;
+}
+.cssrc-keynote-talk p:last-child {
+  margin-bottom: 0;
+}
+@media only screen and (max-width: 767px) {
+  .cssrc-keynote-layout {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .cssrc-keynote-speaker {
+    max-width: 13rem;
+  }
 }
 .cssrc-submissions {
   padding: 2.5rem 1.5rem 4rem;

@@ -29,6 +29,7 @@ schedule:
     from: "9:15 AM"
     to: "10:00 AM"
   - event: Keynote by Dr. Hila Gonen
+    link: "#keynote"
     from: "10:00 AM"
     to: "10:45 AM"
   - event: Break
@@ -61,6 +62,14 @@ schedule:
   - event: Closing Remarks
     from: "4:45 PM"
     to: "5:00 PM"
+keynote:
+  speaker: Dr. Hila Gonen
+  photo: /files/cssrc/2026/hila-gonen.jpg
+  title: "Beyond Accuracy: Different reliability dimensions in Language Models"
+  abstract: |
+    Unreliability remains one of the limiting factors in using language models (LMs) in real-world applications, specifically preventing safe deployment in sensitive domains.
+
+    In this talk, Hila will present three lines of work that collectively examine reliability in LMs from different perspectives. First, she will introduce PhantomBench, a new benchmark designed to evaluate models' ability to abstain when appropriate. PhantomBench consists of non-existing terms and entities carefully constructed to probe whether models can abstain rather than hallucinate plausible-sounding but fabricated responses. Next, she will turn to the phenomenon of semantic leakage, where models leak irrelevant information from the prompt into the generation in unexpected ways, and explore its relationship to bias in model generation. Finally, she will present OMNIGUARD, a novel approach for detecting harmful prompts across languages and modalities.
 sponsors:
   - tier: Gold
     colour: "#cb9726"

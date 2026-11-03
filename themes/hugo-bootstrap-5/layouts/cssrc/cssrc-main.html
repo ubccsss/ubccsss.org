@@ -147,6 +147,26 @@
       </div>
     </section>
 
+    {{ with .Params.keynote }}
+      <section
+        class="cssrc-main-content cssrc-keynote"
+        id="keynote"
+        aria-labelledby="keynote-heading">
+        <h2 id="keynote-heading">Keynote</h2>
+        <div class="cssrc-keynote-layout">
+          <figure class="cssrc-keynote-speaker">
+            <img src="{{ .photo }}" alt="{{ .speaker }}" loading="lazy" />
+            <figcaption>{{ .speaker }}</figcaption>
+          </figure>
+          <div class="cssrc-keynote-talk">
+            <h3>{{ .title }}</h3>
+            {{ .abstract | markdownify }}
+          </div>
+        </div>
+      </section>
+    {{ end }}
+
+
     <section
       class="cssrc-sponsors"
       id="sponsors"
