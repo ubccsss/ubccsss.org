@@ -1,0 +1,22 @@
+<h3>{{ .title }}</h3>
+{{ $authorNames := slice }}
+{{ range .authors }}
+  {{ range split .names ", " }}
+    {{ $authorNames = $authorNames | append . }}
+  {{ end }}
+{{ end }}
+<p class="cssrc-paper-authors">
+  <strong>Authors:</strong>{{ " " }}
+  {{- range $i, $name := $authorNames -}}
+    {{- if $i }}{{ ", " }}{{ end -}}
+    {{- if in $.submittingAuthors $name -}}
+      <strong class="cssrc-submitting-author">{{ $name }}</strong>
+    {{- else -}}
+      {{ $name }}
+    {{- end -}}
+  {{- end -}}
+</p>
+<dl class="cssrc-paper-topics">
+  <dt>Topics</dt>
+  <dd>{{ delimit .topics ", " }}</dd>
+</dl>

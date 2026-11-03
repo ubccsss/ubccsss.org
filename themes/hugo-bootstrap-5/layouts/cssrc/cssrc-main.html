@@ -214,6 +214,50 @@
 
 
     <section
+      class="cssrc-main-content cssrc-presentations"
+      id="posters"
+      aria-labelledby="posters-heading">
+      <h2 id="posters-heading">Poster Sessions</h2>
+      <ul class="cssrc-paper-list cssrc-poster-list">
+        {{ range .Params.posters }}
+          <li>
+            {{ partial "cssrc/paper" . }}
+          </li>
+        {{ end }}
+      </ul>
+    </section>
+
+    <section
+      class="cssrc-main-content cssrc-presentations"
+      id="oral-presentations"
+      aria-labelledby="oral-heading">
+      <h2 id="oral-heading">Oral Presentations</h2>
+      <p>
+        Individual presentation times and track assignments will be announced
+        soon!
+      </p>
+      <ul class="cssrc-paper-list cssrc-oral-list">
+        {{ range .Params.oralPresentations }}
+          <li>
+            <div>
+              {{ partial "cssrc/paper" . }}
+            </div>
+            <dl class="cssrc-paper-details">
+              <div>
+                <dt>Time</dt>
+                <dd>{{ .time | default "TBA" }}</dd>
+              </div>
+              <div>
+                <dt>Track</dt>
+                <dd>{{ .track | default "TBA" }}</dd>
+              </div>
+            </dl>
+          </li>
+        {{ end }}
+      </ul>
+    </section>
+
+    <section
       class="cssrc-sponsors"
       id="sponsors"
       aria-labelledby="sponsors-heading">
