@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+  {{ partial "cssrc/metadata" . }}
+
+
+  <body class="bg-light pt-3">
+    {{ partial "cssrc/header" . }}
+
+
+    <main class="cssrc-submissions" id="submissions">
+      <div class="cssrc-submissions-inner">
+        <div class="cssrc-submission-intro">
+          <div>
+            <h1>{{ .Title }}</h1>
+            <p>Submission deadlines and announcements.</p>
+          </div>
+          <div class="cssrc-portal">
+            <a class="btn" href="https://hotcrp-cssrc.cs.ubc.ca/"
+              >Open Submission Portal</a
+            >
+            <p>Requires the UBC network or VPN.</p>
+          </div>
+        </div>
+        <div class="cssrc-submissions-grid">
+          <section
+            class="cssrc-submission-card"
+            id="dates"
+            aria-labelledby="dates-heading">
+            <h2 id="dates-heading">Important Dates</h2>
+            <ol class="cssrc-date-list">
+              {{ range .Params.importantDates }}
+                <li>
+                  <time datetime="{{ .date }}"
+                    >{{ time.Format "Jan 2" .date }}</time
+                  >
+                  <div>{{ .submission }}</div>
+                </li>
+              {{ end }}
+            </ol>
+          </section>
+
+          <section
+            class="cssrc-submission-card"
+            id="updates"
+            aria-labelledby="updates-heading">
+            <h2 id="updates-heading">Updates</h2>
+            <div class="update-list">
+              {{ range $i, $u := .Params.updates }}
+                <button
+                  type="button"
+                  class="update-item d-flex justify-content-between align-items-center w-100"
+                  data-bs-toggle="modal"
+                  data-bs-target="#update-modal-{{ $i }}">
+                  <span class="update-item-title">
+                    <i class="bi bi-envelope-fill me-2"></i>{{ $u.subject }}
+                  </span>
+                  <span class="update-item-date">{{ $u.date }}</span>
+                </button>
+              {{ end }}
+            </div>
+
+            {{ range $i, $u := .Params.updates }}
+              <div
+                class="modal fade"
+                id="update-modal-{{ $i }}"
+                tabindex="-1"
+                aria-labelledby="update-modal-{{ $i }}-label"
+                aria-hidden="true">
+                <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <div>
+                        <h5
+                          class="modal-title mb-0"
+                          id="update-modal-{{ $i }}-label">
+                          {{ $u.subject }}
+                        </h5>
+                        <small class="update-modal-date">{{ $u.date }}</small>
+                      </div>
+                      <button
+                        type="button"
+                        class="btn-close"
+                        data-bs-dismiss="modal"
+                        aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                      {{ $u.message | markdownify }}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            {{ end }}
+          </section>
+        </div>
+      </div>
+    </main>
+
+    {{ partial "cssrc/footer" . }}
+  </body>
+</html>

@@ -29,19 +29,27 @@
           id="countdown"
           data-target="2026-11-06T00:00:00">
           <div class="countdown-unit">
-            <span class="countdown-number" id="cd-days">00</span>
+            <span class="countdown-number"
+              ><span class="countdown-digits" id="cd-days">00</span></span
+            >
             <span class="countdown-label">Days</span>
           </div>
           <div class="countdown-unit">
-            <span class="countdown-number" id="cd-hours">00</span>
+            <span class="countdown-number"
+              ><span class="countdown-digits" id="cd-hours">00</span></span
+            >
             <span class="countdown-label">Hours</span>
           </div>
           <div class="countdown-unit">
-            <span class="countdown-number" id="cd-minutes">00</span>
+            <span class="countdown-number"
+              ><span class="countdown-digits" id="cd-minutes">00</span></span
+            >
             <span class="countdown-label">Minutes</span>
           </div>
           <div class="countdown-unit">
-            <span class="countdown-number" id="cd-seconds">00</span>
+            <span class="countdown-number"
+              ><span class="countdown-digits" id="cd-seconds">00</span></span
+            >
             <span class="countdown-label">Seconds</span>
           </div>
         </div>
@@ -75,90 +83,11 @@
       </div>
     </section>
 
-    <section
-      class="cssrc-sponsors"
-      id="sponsors"
-      aria-labelledby="sponsors-heading">
-      <div class="cssrc-sponsors-inner">
-        <h2 id="sponsors-heading">Supported By</h2>
-        {{ range .Params.sponsors }}
-          <div
-            class="cssrc-sponsor-tier"
-            style="--sponsor-tier-colour: {{ .colour }};">
-            <h3>{{ .tier }} Sponsors</h3>
-            <div class="cssrc-sponsor-logos">
-              {{ range .orgs }}
-                <a
-                  class="cssrc-sponsor-card"
-                  href="{{ .siteLink }}"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Visit {{ .name }}">
-                  <img
-                    src="{{ .imageLink }}"
-                    alt="{{ .name }}"
-                    loading="lazy" />
-                </a>
-              {{ end }}
-            </div>
-          </div>
-        {{ end }}
-      </div>
-    </section>
-
-    <section class="col-xs col-sm-9 mx-auto pt-5 pb-3" id="updates">
-      <h2 class="text-center mb-4">Updates</h2>
-      <div class="update-list mx-auto">
-        {{ range $i, $u := .Params.updates }}
-          <button
-            type="button"
-            class="update-item d-flex justify-content-between align-items-center w-100"
-            data-bs-toggle="modal"
-            data-bs-target="#update-modal-{{ $i }}">
-            <span class="update-item-title">
-              <i class="bi bi-envelope-fill me-2"></i>{{ $u.subject }}
-            </span>
-            <span class="update-item-date">{{ $u.date }}</span>
-          </button>
-        {{ end }}
-      </div>
-
-      {{ range $i, $u := .Params.updates }}
-        <div
-          class="modal fade"
-          id="update-modal-{{ $i }}"
-          tabindex="-1"
-          aria-labelledby="update-modal-{{ $i }}-label"
-          aria-hidden="true">
-          <div class="modal-dialog modal-dialog-scrollable modal-lg">
-            <div class="modal-content">
-              <div class="modal-header">
-                <div>
-                  <h5 class="modal-title mb-0" id="update-modal-{{ $i }}-label">
-                    {{ $u.subject }}
-                  </h5>
-                  <small class="update-modal-date">{{ $u.date }}</small>
-                </div>
-                <button
-                  type="button"
-                  class="btn-close"
-                  data-bs-dismiss="modal"
-                  aria-label="Close"></button>
-              </div>
-              <div class="modal-body">
-                {{ $u.message | markdownify }}
-              </div>
-            </div>
-          </div>
-        </div>
-      {{ end }}
-    </section>
-
-    <section class="col-xs col-sm-9 mx-auto pb-5">
-      <div class="row" id="information">
-        <div class="container col-lg-7 order-1 order-lg-2" id="about">
-          <h1 class="mb-4">About the Conference</h1>
-          <div class="row">
+    <section class="cssrc-main-content" id="information">
+      <div class="cssrc-main-grid">
+        <div id="about">
+          <h2>About the Conference</h2>
+          <div>
             <p>
               The UBC CS Student Research Conference (CSSRC) is back for its 2nd
               Edition!
@@ -191,8 +120,8 @@
               researchers in the CS community.
             </p>
             <p class="pb-4">
-              We look forward to your submissions and joining on November 6 at
-              the ICICS/CS Building. Feel free to join our
+              We look forward to seeing you on November 6 at the ICICS/CS
+              Building. Feel free to join our
               <a href="https://discord.gg/uWPuBTYwhs" target="_blank"
                 >Discord</a
               >
@@ -201,34 +130,173 @@
           </div>
         </div>
 
-        <div
-          class="container col-lg-4 order-2 order-lg-1 pt-lg-5 px-sm-4"
-          id="dates">
-          <h2 class="text-center mb-4">Important Dates</h2>
-          <div class="row">
-            <table
-              class="table table-light table-bordered mx-2 overflow-auto mb-2">
-              <colgroup>
-                <col style="width: 45%" />
-                <col style="width: 55%" />
-              </colgroup>
-              <thead class="fw-bold tbl-head">
-                <tr>
-                  <td>Submissions</td>
-                  <td>Deadline</td>
-                </tr>
-              </thead>
-              <tbody>
-                {{ range .Params.importantDates }}
-                  <tr>
-                    <td>{{ .submission }}</td>
-                    <td>{{ .date }}</td>
-                  </tr>
-                {{ end }}
-              </tbody>
-            </table>
+        <div id="program">
+          <h2>Program Schedule</h2>
+          <div class="cssrc-program-list">
+            {{ range .Params.schedule }}
+              <div class="cssrc-program-item">
+                <span class="cssrc-program-time"
+                  >{{ .from }} &ndash; {{ .to }}</span
+                >
+                <span class="cssrc-program-event">
+                  {{ if .link }}
+                    <a href="{{ .link }}">{{ .event }}</a>
+                  {{ else }}
+                    {{ .event }}
+                  {{ end }}
+                </span>
+              </div>
+            {{ end }}
+          </div>
+          <p class="small mt-3 mb-0">
+            * Priority goes to registered attendees.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    {{ with .Params.keynote }}
+      <section
+        class="cssrc-main-content cssrc-keynote"
+        id="keynote"
+        aria-labelledby="keynote-heading">
+        <h2 id="keynote-heading">Keynote</h2>
+        <div class="cssrc-keynote-layout">
+          <figure class="cssrc-keynote-speaker">
+            <img src="{{ .photo }}" alt="{{ .speaker }}" loading="lazy" />
+            <figcaption>{{ .speaker }}</figcaption>
+          </figure>
+          <div class="cssrc-keynote-talk">
+            <h3>{{ .title }}</h3>
+            {{ .abstract | markdownify }}
           </div>
         </div>
+      </section>
+    {{ end }}
+
+
+    <section
+      class="cssrc-main-content cssrc-presentations"
+      id="workshops"
+      aria-labelledby="workshops-heading">
+      <h2 id="workshops-heading">Workshops</h2>
+      {{ range .Params.workshops }}
+        <div class="cssrc-keynote-layout cssrc-workshop" id="{{ .id }}">
+          <figure class="cssrc-keynote-speaker">
+            <img
+              src="{{ .photo }}"
+              alt="{{ .photoAlt | default .speaker }}"
+              loading="lazy" />
+            <figcaption>{{ .speaker }}</figcaption>
+          </figure>
+          <div class="cssrc-keynote-talk">
+            <h3>{{ .title }}</h3>
+            {{ .abstract | markdownify }}
+          </div>
+        </div>
+      {{ end }}
+    </section>
+
+    {{ with .Params.panelists }}
+      <section
+        class="cssrc-main-content cssrc-presentations"
+        id="panel"
+        aria-labelledby="panel-heading">
+        <h2 id="panel-heading">Research Career Panel</h2>
+        {{ range . }}
+          <div class="cssrc-keynote-layout cssrc-panelist">
+            <figure class="cssrc-keynote-speaker">
+              <img src="{{ .photo }}" alt="{{ .name }}" loading="lazy" />
+              <figcaption>
+                {{ .name }}
+                <span class="cssrc-panelist-role">{{ .role }}</span>
+              </figcaption>
+            </figure>
+            <div class="cssrc-keynote-talk">
+              {{ .bio | markdownify }}
+            </div>
+          </div>
+        {{ end }}
+      </section>
+    {{ end }}
+
+
+    <section
+      class="cssrc-main-content cssrc-presentations"
+      id="posters"
+      aria-labelledby="posters-heading">
+      <h2 id="posters-heading">Poster Sessions</h2>
+      <ul class="cssrc-paper-list cssrc-poster-list">
+        {{ range .Params.posters }}
+          <li>
+            {{ partial "cssrc/paper" . }}
+          </li>
+        {{ end }}
+      </ul>
+    </section>
+
+    <section
+      class="cssrc-main-content cssrc-presentations"
+      id="oral-presentations"
+      aria-labelledby="oral-heading">
+      <h2 id="oral-heading">Oral Presentations</h2>
+      <p>
+        Individual presentation times and track assignments will be announced
+        soon!
+      </p>
+      <ul class="cssrc-paper-list cssrc-oral-list">
+        {{ range .Params.oralPresentations }}
+          <li>
+            <div>
+              {{ partial "cssrc/paper" . }}
+            </div>
+            <dl class="cssrc-paper-details">
+              <div>
+                <dt>Time</dt>
+                <dd>{{ .time | default "TBA" }}</dd>
+              </div>
+              <div>
+                <dt>Track</dt>
+                <dd>{{ .track | default "TBA" }}</dd>
+              </div>
+            </dl>
+          </li>
+        {{ end }}
+      </ul>
+    </section>
+
+    <section
+      class="cssrc-sponsors"
+      id="sponsors"
+      aria-labelledby="sponsors-heading">
+      <div class="cssrc-sponsors-inner">
+        <h2 id="sponsors-heading">Supported By</h2>
+        {{ range .Params.sponsors }}
+          <div
+            class="cssrc-sponsor-tier"
+            style="--sponsor-tier-colour: {{ .colour }};">
+            <h3>{{ .tier }} Sponsors</h3>
+            <div class="cssrc-sponsor-logos">
+              {{ range .orgs }}
+                {{ $cardClass := "cssrc-sponsor-card" }}
+                {{ if .compactLogo }}
+                  {{ $cardClass = "cssrc-sponsor-card compact-logo" }}
+                {{ end }}
+                <a
+                  class="{{ $cardClass }}"
+                  href="{{ .siteLink }}"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Visit {{ .name }}">
+                  <img
+                    src="{{ .imageLink }}"
+                    alt="{{ .name }}"
+                    loading="lazy" />
+                </a>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
       </div>
     </section>
 
