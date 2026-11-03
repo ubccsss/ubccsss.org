@@ -42,9 +42,11 @@ schedule:
     from: "12:30 PM"
     to: "1:30 PM"
   - event: Technical Workshop by Mara Solen
+    link: "#workshop-mara-solen"
     from: "1:30 PM"
     to: "2:00 PM"
   - event: Company Overview Workshop by Mundo AI
+    link: "#workshop-mundo-ai"
     from: "2:00 PM"
     to: "2:30 PM"
   - event: Poster Session II
@@ -70,6 +72,24 @@ keynote:
     Unreliability remains one of the limiting factors in using language models (LMs) in real-world applications, specifically preventing safe deployment in sensitive domains.
 
     In this talk, Hila will present three lines of work that collectively examine reliability in LMs from different perspectives. First, she will introduce PhantomBench, a new benchmark designed to evaluate models' ability to abstain when appropriate. PhantomBench consists of non-existing terms and entities carefully constructed to probe whether models can abstain rather than hallucinate plausible-sounding but fabricated responses. Next, she will turn to the phenomenon of semantic leakage, where models leak irrelevant information from the prompt into the generation in unexpected ways, and explore its relationship to bias in model generation. Finally, she will present OMNIGUARD, a novel approach for detecting harmful prompts across languages and modalities.
+workshops:
+  - speaker: Mara Solen
+    id: workshop-mara-solen
+    photo: /files/cssrc/2026/mara-solen.jpg
+    title: "Visualization: How Can You Make Yours Better? What Does the Field Look Like?"
+    abstract: |
+      Visualizations, also known as charts, plots, and graphs, are pervasive in science, industry, media, and elsewhere because of the strength of human perception and pattern recognition. However, designing visualizations that take full advantage of these human systems is not trivial; there are many factors that influence the effectiveness of a visualization, including perceptual accuracy, familiarity, and even user personal preference.
+
+      In this workshop, Mara will first describe and use examples to illustrate how you can improve your visualizations by more deeply considering your goals. She will then explain what research in visualization looks like, both in the UBC InfoVis Group and in the broader field. She hopes that this workshop will expand your idea of what charts are and can be, give you a glimpse into the world of visualization research, and show you why researchers with many different backgrounds have chosen to work on visualization!
+  - speaker: Kenneth Wu
+    id: workshop-mundo-ai
+    photo: /files/cssrc/2026/mundo-workshop.png
+    photoAlt: Mundo AI
+    title: "Meet Mundo AI: The Data Layer for Perceptual Intelligence"
+    abstract: |
+      AI models are moving past text and are now expected to understand speech and video as well. However, a lot of what gives real interaction its meaning never shows up in a transcript, like the pause before an answer, an interruption, or a shift in tone. Teaching models to pick up on these signals depends on data that captures them.
+
+      In this workshop, Mundo AI co-founder Kenneth Wu first describes what Mundo AI does as a data and research partner to frontier AI labs, and how the company went from UBC to Y Combinator to a team of 55 in Vancouver. He then walks through what Mundo has built, from custom datasets and evaluations across audio, video, and emerging modalities to open research such as TurnBench. Finally, he talks about what working at Mundo looks like and the research, engineering, and program roles the team is hiring for. The workshop offers a closer look at the data work behind today’s AI models and shows where researchers and engineers from UBC can fit in.
 sponsors:
   - tier: Gold
     colour: "#cb9726"

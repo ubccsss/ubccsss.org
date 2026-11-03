@@ -168,6 +168,28 @@
 
 
     <section
+      class="cssrc-main-content cssrc-presentations"
+      id="workshops"
+      aria-labelledby="workshops-heading">
+      <h2 id="workshops-heading">Workshops</h2>
+      {{ range .Params.workshops }}
+        <div class="cssrc-keynote-layout cssrc-workshop" id="{{ .id }}">
+          <figure class="cssrc-keynote-speaker">
+            <img
+              src="{{ .photo }}"
+              alt="{{ .photoAlt | default .speaker }}"
+              loading="lazy" />
+            <figcaption>{{ .speaker }}</figcaption>
+          </figure>
+          <div class="cssrc-keynote-talk">
+            <h3>{{ .title }}</h3>
+            {{ .abstract | markdownify }}
+          </div>
+        </div>
+      {{ end }}
+    </section>
+
+    <section
       class="cssrc-sponsors"
       id="sponsors"
       aria-labelledby="sponsors-heading">

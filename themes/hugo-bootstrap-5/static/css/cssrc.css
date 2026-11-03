@@ -480,6 +480,7 @@ footer .copyright a:hover {
   margin-bottom: 1.5rem;
 }
 #keynote,
+#workshops,
 #program,
 #about,
 #updates,
@@ -529,6 +530,14 @@ footer .copyright a:hover {
   align-items: start;
   gap: 3rem;
 }
+.cssrc-workshop {
+  scroll-margin-top: 5rem;
+}
+.cssrc-workshop + .cssrc-workshop {
+  margin-top: 3rem;
+  padding-top: 3rem;
+  border-top: 1px solid var(--blue-chalk);
+}
 .cssrc-keynote-speaker {
   margin: 0;
 }
@@ -567,6 +576,14 @@ footer .copyright a:hover {
   .cssrc-keynote-speaker {
     max-width: 13rem;
   }
+}
+.cssrc-presentations {
+  padding-top: 0;
+}
+.cssrc-presentations > h2 {
+  padding-top: 2rem;
+  border-top: 1px solid var(--cloudy-blue);
+  margin-bottom: 1.5rem;
 }
 .cssrc-submissions {
   padding: 2.5rem 1.5rem 4rem;
