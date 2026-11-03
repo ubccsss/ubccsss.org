@@ -288,6 +288,27 @@ footer .copyright a:hover {
   font-size: 1.75rem;
   text-align: center;
 }
+.countdown-digits {
+  display: inline-block;
+  color: var(--text-primary) !important;
+  font: inherit;
+  font-variant-numeric: tabular-nums;
+  animation: cssrc-countdown-pulse 1s ease-in-out infinite;
+}
+@keyframes cssrc-countdown-pulse {
+  0%,
+  100% {
+    opacity: 0.75;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .countdown-digits {
+    animation: none;
+  }
+}
 .countdown-label {
   margin-top: 0.5rem;
   font-size: 0.8rem;
