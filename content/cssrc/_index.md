@@ -85,12 +85,12 @@ panelists:
     role: Panelist
     photo: /files/cssrc/2026/payam-mousavi.png
     bio: |
-      Payam Mousavi is an Applied Research Scientist on the Advanced Technology team. He brings in over 10 years of experience developing AI/ML technologies for various industries such as manufacturing (Honeywell), oil and gas (Phase Technology), defense, security and robotics (MDA), and marketing and advertising (Unbounce).
+      Dr. Payam Mousavi is a Senior Machine Learning Scientist at Electronic Arts (EA), where he applies reinforcement learning and vision-language models (VLMs) to automate quality verification in video games. He also conducts applied research with the Alberta Machine Intelligence Institute (Amii), focusing on reinforcement learning and physics-informed machine learning for industrial applications.
 
-      He enjoys working on multi-disciplinary projects involving many stakeholders, where his diverse experience can benefit the team. Payam's main technical interests and expertise are in machine vision and reinforcement learning.
+      Trained as a physicist, Payam brings over a decade of experience developing AI and machine learning technologies across industries, including manufacturing, aerospace, robotics, and energy. His research interests span computer vision, reinforcement learning, complex dynamical systems, and collective intelligence. He is particularly passionate about bridging fundamental research and practical applications through interdisciplinary collaboration.
 
-      Payam received his PhD in Applied Physics from Simon Fraser University. His thesis involved the design, construction, and the mathematical modelling and optimization of a prototype industrial terahertz spectrometer to be used by Honeywell in their manufacturing plant, resulting in multiple patents and publications.
-  - name: Dr. Roman Smirnov
+      Payam holds a PhD in Applied Physics from Simon Fraser University, where his research on industrial terahertz spectroscopy resulted in multiple patents and publications.
+  - name: Roman Smirnov
     role: Panelist
     photo: /files/cssrc/2026/roman-smirnov.png
     bio: |
